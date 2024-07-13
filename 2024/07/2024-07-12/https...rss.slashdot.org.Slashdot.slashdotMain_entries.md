@@ -1,0 +1,203 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## American Hacker In Turkey Linked To Massive AT&amp;T Breach
+ - [https://yro.slashdot.org/story/24/07/12/2119202/american-hacker-in-turkey-linked-to-massive-att-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/07/12/2119202/american-hacker-in-turkey-linked-to-massive-att-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T23:34:16.064058+00:00
+
+An anonymous reader quotes a report from 404 Media: John Binns, a U.S. citizen who has been incarcerated in Turkey, is linked to the massive data breach of metadata belonging to nearly all of AT&amp;T's customers that the telecommunications giant announced on Friday, three sources independently told 404 Media. [...] As 404 Media reported in January, Binns has already been indicted for allegedly breaking into T-Mobile in 2021 and selling stolen data on more than 40 million people. Now, he is allegedly connected to the latest breach against AT&amp;T, which the company said it detected in April.
+ 
+The AT&amp;T data was lifted from a Snowflake instance, a data warehousing tool, AT&amp;T told 404 Media. Snowflake has been at the center of a series of massive and high profile breaches, including Ticketmaster and Santander. In a blog post published in June which covered a threat actor targeting Snowflake instances, cybersecurity company Mandiant said the threat actor, which it dubs UNC5537, 
+
+## Southwest Airlines Strikes Deal For Electric Air Taxi Network
+ - [https://tech.slashdot.org/story/24/07/12/2129252/southwest-airlines-strikes-deal-for-electric-air-taxi-network?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/12/2129252/southwest-airlines-strikes-deal-for-electric-air-taxi-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T23:34:13.232439+00:00
+
+Southwest Airlines has signed a deal with Archer Aviation to develop plans for an on-demand eVTOL (electric vertical takeoff and landing) service in California. The Verge reports: The service will operate using Archer's battery-powered, four-passenger, tilt-rotor Midnight aircraft, which are designed to take off and land vertically from a landing strip like a helicopter. As part of the deal, the aircraft will get access to 14 California airports where Southwest operates. [...] Archer claims that trips that normally take 60-90 minutes by car can be done in 10-20 minutes in the company's air taxis.
+ 
+Archer came out of stealth in spring 2020 after having poached key talent from Wisk and Airbus' Vahana project. (That fact spurred a lawsuit from Wisk for alleged trade secret theft, which was finally settled last year.) The company has a $1 billion order from United Airlines for its eVTOL aircraft and a deal to mass-produce its eVTOL craft with global automaker Stellantis.
+ 
+Archer recentl
+
+## Amazon's AI Chatbot Rufus Is Now Live For All US Customers
+ - [https://slashdot.org/story/24/07/12/2022234/amazons-ai-chatbot-rufus-is-now-live-for-all-us-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/12/2022234/amazons-ai-chatbot-rufus-is-now-live-for-all-us-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T22:29:50.616265+00:00
+
+Amazon's AI chatbot Rufus is now live for all U.S. customers. Engadget's Lawrence Bonk reports: So what does it do? It's an Amazon chatbot so it helps with shopping. You can ask for lists of recommended products and ask what specific products do and stuff like that. I've tooled around with it a bit this morning and it seems fine, though a bit boring. I will say that I cross-referenced some of the recommended products with the web version and Rufus does not automatically list promoted items, at least for now.
+ 
+It spit out a seemingly random list of well-reviewed products on several occasions. That's fine by me, though I'm not about to buy something based on the word of a one-day old chatbot. You can also ask specific questions about products, but the answers seem to be pulled directly from the descriptions. As any regular Amazon customer knows, some of these descriptions are accurate and others aren't. The chatbot is tied to your personal account, so it can answer questions about upco
+
+## SpaceX's Historic Falcon 9 Success Streak Is Over
+ - [https://science.slashdot.org/story/24/07/12/207200/spacexs-historic-falcon-9-success-streak-is-over?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/12/207200/spacexs-historic-falcon-9-success-streak-is-over?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T21:24:40.327968+00:00
+
+An anonymous reader quotes a report from Reuters: SpaceX's workhorse Falcon 9 rocket was grounded by the U.S. Federal Aviation Administration (FAA) on Friday after one broke apart in space and doomed its payload of Starlink satellites, the first failure in more than seven years of a rocket relied upon by the global space industry. Roughly an hour after Falcon 9 lifted off from the Vandenberg Space Force Base in California on Thursday night, the rocket's second stage failed to reignite and deployed its 20 Starlink satellites on a shallow orbital path where they will soon reenter and burn up in Earth's atmosphere.
+ 
+The attempt to reignite the engine "resulted in an engine RUD for reasons currently unknown," SpaceX CEO Elon Musk wrote early on Friday on his social media platform X, using an industry acronym for Rapid Unscheduled Disassembly that usually means explosion.
+The Falcon 9 will be grounded until SpaceX investigates the cause of the failure, fixes the rocket and receives the ag
+
+## Linus Torvalds Says RISC-V Will Make the Same Mistakes As ARM and x86
+ - [https://hardware.slashdot.org/story/24/07/12/2012230/linus-torvalds-says-risc-v-will-make-the-same-mistakes-as-arm-and-x86?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/07/12/2012230/linus-torvalds-says-risc-v-will-make-the-same-mistakes-as-arm-and-x86?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T21:24:38.484941+00:00
+
+Jowi Morales reports via Tom's Hardware: There's a vast difference between hardware and software developers, which opens up pitfalls for those trying to coordinate the two teams. Arm and x86 researchers encountered it years ago -- and Linus Torvalds, the creator of Linux, fears RISC-V development may fall into the same chasm again. "Even when you do hardware design in a more open manner, hardware people are different enough from software people [that] there's a fairly big gulf between the Verilog and even the kernel, much less higher up the stack where you are working in what [is] so far away from the hardware that you really have no idea how the hardware works," he said (video here). "So, it's really hard to kind of work across this very wide gulf of things and I suspect the hardware designers, some of them have some overlap, but they will learn by doing mistakes -- all the same mistakes that have been done before." [...]
+ 
+"They'll have all the same issues we have on the Arm side an
+
+## Rivers Becoming 'Reservoirs of Disease'
+ - [https://science.slashdot.org/story/24/07/12/1745254/rivers-becoming-reservoirs-of-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/12/1745254/rivers-becoming-reservoirs-of-disease?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T20:17:33.606579+00:00
+
+Scientists say "a reservoir of disease" is being created after discovering bacteria that naturally occur in rivers are becoming resistant to antibiotics due to the impact of sewage. From a report: Researchers at the University of Suffolk said bacterial strains found on the non-tidal section of the River Deben in Suffolk had acquired resistance by exchanging DNA with antibiotic resistant E. coli. Some bacteria have become resistant to the antibiotic carbapenem, which is used as the last line of defence in fighting infections already resistant to traditional antibiotics. Dr Nick Tucker, a microbiologist leading the research, described the discovery as "particularly worrying." 
+
+"Organisms that are currently low risk are being mixed with pathogenic organisms from sewage," he said. "We're needlessly adding pathogenic and virulence genes to bacteria found in the environment, and that could be creating a reservoir of disease." The team has been working closely with citizen scientists from t
+
+## Samsung's New Watch and Earbuds Are Apple Copycats
+ - [https://apple.slashdot.org/story/24/07/12/1756202/samsungs-new-watch-and-earbuds-are-apple-copycats?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/07/12/1756202/samsungs-new-watch-and-earbuds-are-apple-copycats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T20:17:32.007302+00:00
+
+Samsung unveiled new wearable devices at its Unpacked event earlier this week, drawing comparisons to Apple's offerings. The Galaxy Watch Ultra, set for release on July 24, bears striking similarities to Apple's Watch Ultra 2 launched last September. Both feature titanium cases, orange-accented buttons, and specialized bands. Samsung's version, priced at $650, undercuts Apple's $800 model. Business Insider adds: But the strategy has its downsides. If you spot someone wearing Galaxy Watch Ultra, there's a good chance you'd mistake it for Apple's model -- which doesn't help Samsung differentiate itself. In a statement to Business Insider, Samsung said that the design choices for its new smartwatch were "made to ensure comfort, usability, and durability in a variety of use cases." It didn't mention what went into naming the device. 
+
+The similarities extend to Samsung's new earbuds. The Galaxy Buds 3 Pro and the Galaxy Buds 3 -- also announced at Unpacked -- got a revamp that steps away 
+
+## India Antitrust Body Finds Apple Abused Dominant Position in Apps Market
+ - [https://apple.slashdot.org/story/24/07/12/1739212/india-antitrust-body-finds-apple-abused-dominant-position-in-apps-market?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/07/12/1739212/india-antitrust-body-finds-apple-abused-dominant-position-in-apps-market?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T19:13:05.905789+00:00
+
+India's antitrust watchdog has concluded that Apple abused its dominant position in the iOS app store market, according to a confidential report seen by Reuters, marking a significant development in the country's scrutiny of tech giants. The Competition Commission of India, which initiated an investigation into Apple in 2021, has determined that the company engaged in "abusive conduct and practices" by compelling developers to utilize its proprietary in-app purchase system, Reuters added. 
+
+The report asserts that Apple wields "significant influence" over the distribution of digital products to consumers through its iOS platform and App Store, characterizing the tech giant as an "unavoidable trading partner" for app developers who have little choice but to comply with Apple's terms.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=India+Antitrust+Body+Finds+Apple+Abused+Dominant+Position+in+Apps+Market%3A+https%3A%2F%2Fapple.slashdot.org%2Fstor
+
+## Pluto's Not Coming Back, But Astronomers Want To Redefine Planets Again
+ - [https://science.slashdot.org/story/24/07/12/1653256/plutos-not-coming-back-but-astronomers-want-to-redefine-planets-again?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/12/1653256/plutos-not-coming-back-but-astronomers-want-to-redefine-planets-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T18:07:31.096346+00:00
+
+A group of astronomers want to change the definition of a planet. Their new proposed definition wouldn't bring Pluto back into the planetary fold, but it could reclassify thousands of celestial bodies across the universe. From a report: The International Astronomical Union's (IAU) current definition of a planet, established in 2006, includes only celestial bodies that are nearly round, are gravitationally dominant and orbit our Sun. This Sun-centric definition excludes all of the bodies we've discovered outside our solar system, even if they may fit all other parameters. They are instead considered exoplanets. Those behind the new proposal critiqued the IAU's definition in an upcoming paper in the Planetary Science Journal, arguing it's vague, not quantitative and unnecessarily exclusionary. 
+
+
+Their new proposal would instead classify planets based on their mass, considering a planet to be any celestial body that:
+1. orbits one or more stars, brown dwarfs or stellar remnants and,
+is 
+
+## When Scientific Citations Go Rogue
+ - [https://science.slashdot.org/story/24/07/12/171218/when-scientific-citations-go-rogue?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/12/171218/when-scientific-citations-go-rogue?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T18:07:29.477393+00:00
+
+The Conversation: Reading and writing articles published in academic journals and presented at conferences is a central part of being a researcher. When researchers write a scholarly article, they must cite the work of peers to provide context, detail sources of inspiration and explain differences in approaches and results. A positive citation by other researchers is a key measure of visibility for a researcher's own work. But what happens when this citation system is manipulated? A recent Journal of the Association for Information Science and Technology article by our team of academic sleuths -- which includes information scientists, a computer scientist and a mathematician -- has revealed an insidious method to artificially inflate citation counts through metadata manipulations: sneaked references. 
+
+People are becoming more aware of scientific publications and how they work, including their potential flaws. Just last year more than 10,000 scientific articles were retracted. The iss
+
+## iPhone Upgrades - Not Android Switchers - Drive Apple Sales, Bernstein Says
+ - [https://mobile.slashdot.org/story/24/07/12/1530209/iphone-upgrades---not-android-switchers---drive-apple-sales-bernstein-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://mobile.slashdot.org/story/24/07/12/1530209/iphone-upgrades---not-android-switchers---drive-apple-sales-bernstein-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T17:03:09.042348+00:00
+
+In a new analysis, research firm Bernstein challenges the conventional wisdom surrounding Apple's iPhone sales fluctuations, arguing that perceived market share shifts between Apple and Android devices are largely illusory. The report, which Bernstein sent to its clients, contends that the majority of iPhone buyers are existing users upgrading their devices, rather than switchers from Android platforms. 
+
+Bernstein posits that year-to-year changes in iPhone unit sales are predominantly driven by Apple's upgrade rates within its established user base. This dynamic creates the appearance of significant market share gains or losses, particularly in China, where consumers are highly sensitive to new features. The analyst notes that upgrade cycles in China tend to be more pronounced than in other markets, leading to exaggerated perceptions of market share volatility. He suggests that the company's struggles in the region are more likely attributed to poor upgrade rates within its existing 
+
+## Android 15 Beta Has an Optional Desktop Mode
+ - [https://slashdot.org/story/24/07/12/1638242/android-15-beta-has-an-optional-desktop-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/12/1638242/android-15-beta-has-an-optional-desktop-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T17:03:06.779072+00:00
+
+An anonymous reader shares a report: It's been tried before, more than once, but if it comes as a stock feature, maybe people will actually start to use the feature. Google's Pixel 9 range of fondleslabs is coming soon, and the company has already announced an event, Made by Google, for August 13th at 1000 Pacific Time (that's 1700 UTC, and 1800 for Brits.) The new devices are very likely to run Android 15 -- whose first developer preview appeared in February. Android Police reports that one of the less obvious features of the beta may continue to final release and could become more apparent: the desktop mode that can be activated in Android 14 QPR3 Beta 2.1. 
+
+Having a desktop mode in Android isn't of itself a new thing. Samsung has offered its Dex feature since the Galaxy S8, and various vultures ventured Dex-wards in 2017 and again in 2018. The snag was that you needed a special dock to try it. Android 10 gained a hidden desktop mode in its developer features, but it wasn't easy to
+
+## NYC's Massive Link5G Towers Aren't Actually Providing 5G
+ - [https://mobile.slashdot.org/story/24/07/12/154259/nycs-massive-link5g-towers-arent-actually-providing-5g?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://mobile.slashdot.org/story/24/07/12/154259/nycs-massive-link5g-towers-arent-actually-providing-5g?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T15:58:33.951039+00:00
+
+An anonymous reader shares a report: The vast majority of the massive, metallic towers the city commissioned to help low-income neighborhoods access high-speed 5G internet still lack cell signal equipment -- more than two years after hundreds of the structures began sprouting across the five boroughs. Just two of the nearly 200 Link5G towers installed by tech firm CityBridge since 2022 have been fitted with 5G equipment, company officials said. Delayed installations and cooling enthusiasm around 5G technology have discouraged carriers like Verizon from using the towers to build out their networks, experts say. The firm only has an agreement with a single telecommunications carrier to deliver high-speed internet, stymieing its efforts to boost mobile connectivity citywide. 
+
+The 32-foot-tall structures, which resemble giant tampon applicators emerging from the sidewalk, offer the same services as the LinkNYC electronic billboards that popped up around the city in 2016. Those were also 
+
+## Indonesia Says It Has Begun Recovering Data After Major Ransomware Attack
+ - [https://it.slashdot.org/story/24/07/12/1446237/indonesia-says-it-has-begun-recovering-data-after-major-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/07/12/1446237/indonesia-says-it-has-begun-recovering-data-after-major-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T14:52:18.302189+00:00
+
+Indonesia said it is beginning to recover data that had been encrypted in a major ransomware attack last month which affected more than 160 government agencies. From a report: The attackers identified as Brain Cipher asked for $8 million in ransom to unlock the data before later apologising and releasing the decryption key for free, according to Singapore-based cybersecurity firm StealthMole. The attack has disrupted multiple government services including immigration and operations at major airports. Indonesian officials have acknowledged that the bulk of the data had not been backed up. Chief Security Minister Hadi Tjahjanto said in a statement late on Thursday that data for 30 public services overseen by 12 ministries had been recovered using a "decryption strategy" without elaborating.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Indonesia+Says+It+Has+Begun+Recovering+Data+After+Major+Ransomware+Attack%3A+https%3A%2F%2Fit.slashdot.org%2F
+
+## AT&amp;T Says Criminals Stole Phone Records of 'Nearly All' Customers in New Data Breach
+ - [https://it.slashdot.org/story/24/07/12/1142235/att-says-criminals-stole-phone-records-of-nearly-all-customers-in-new-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/07/12/1142235/att-says-criminals-stole-phone-records-of-nearly-all-customers-in-new-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T13:34:29.090846+00:00
+
+U.S. phone giant AT&amp;T confirmed Friday it will begin notifying millions of consumers about a fresh data breach that allowed cybercriminals to steal the phone records of "nearly all" of its customers. TechCrunch: In a statement, AT&amp;T said that the stolen data contains phone numbers of both cellular and landline customers, as well as AT&amp;T records of calls and text messages -- such as who contacted who by phone or text -- during a six-month period between May 1, 2022 and October 31, 2022. AT&amp;T said some of the stolen data includes more recent records from January 2, 2023 for a smaller but unspecified number of customers. 
+
+The stolen data also includes call records of customers with phone service from other cell carriers that rely on AT&amp;T's network, the company said. [...] In all, the phone giant said it will notify around 110 million AT&amp;T customers of the data breach, company spokesperson Andrea Huguely told TechCrunch.<p><div class="share_submission">
+<a class="
+
+## Data Breach Exposes Millions of mSpy Spyware Customers
+ - [https://yro.slashdot.org/story/24/07/11/2221252/data-breach-exposes-millions-of-mspy-spyware-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/07/11/2221252/data-breach-exposes-millions-of-mspy-spyware-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T13:34:27.536327+00:00
+
+An anonymous reader quotes a report from TechCrunch: A data breach at the phone surveillance operation mSpy has exposed millions of its customers who bought access to the phone spyware app over the past decade, as well as the Ukrainian company behind it. Unknown attackers stole millions of customer support tickets, including personal information, emails to support, and attachments, including personal documents, from mSpy in May 2024. While hacks of spyware purveyors are becoming increasingly common, they remain notable because of the highly sensitive personal information often included in the data, in this case about the customers who use the service. The hack encompassed customer service records dating back to 2014, which were stolen from the spyware maker's Zendesk-powered customer support system.
+ 
+mSpy is a phone surveillance app that promotes itself as a way to track children or monitor employees. Like most spyware, it is also widely used to monitor people without their consent. 
+
+## Model Rocket Nails Vertical Landing After Three-Year Effort
+ - [https://science.slashdot.org/story/24/07/11/2236215/model-rocket-nails-vertical-landing-after-three-year-effort?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/11/2236215/model-rocket-nails-vertical-landing-after-three-year-effort?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T07:11:46.860334+00:00
+
+Aryan Kapoor, a high schooler from JRD Propulsion, successfully developed a model rocket with SpaceX-style vertical landing capabilities. The three-year effort was made possible by a thrust-vector control and clever landing gear design. Hackaday reports: He started in 2021 with none of the basic skills needed to pull off something like this, but it seems like he quickly learned the ropes. His development program was comprehensive, with static test vehicles, a low-altitude hopper, and extensive testing of the key technology: thrust-vector control. His rocket uses two solid-propellant motors stacked on top of each other, one for ascent and one for descent and landing. They both live in a 3D printed gimbal mount with two servos that give the stack plus and minus seven degrees of thrust vectoring in two dimensions, which is controlled by a custom flight computer with a barometric altimeter and an inertial measurement unit. The landing gear is also clever, using rubber bands to absorb land
+
+## China Building Two-Thirds of World's Wind and Solar Projects
+ - [https://hardware.slashdot.org/story/24/07/11/2213233/china-building-two-thirds-of-worlds-wind-and-solar-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/07/11/2213233/china-building-two-thirds-of-worlds-wind-and-solar-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T03:56:41.668077+00:00
+
+An anonymous reader quotes a report from The Guardian: The amount of wind and solar power under construction in China is now nearly twice as much as the rest of the world combined, a report has found. Research published on Thursday by Global Energy Monitor (GEM), an NGO, found that China has 180 gigawatts (GW) of utility-scale solar power under construction and 15GW of wind power. That brings the total of wind and solar power under construction to 339GW, well ahead of the 40GW under construction in the US. The researchers only looked at solar farms with a capacity of 20MW or more, which feed directly into the grid. That means that the total volume of solar power in China could be much higher, as small scale solar farms account for about 40% of China's solar capacity.
+ 
+Between March 2023 and March 2024, China installed more solar than it had in the previous three years combined, and more than the rest of the world combined for 2023, the GEM analysts found. China is on track to reach 1
+
+## Amazon Says It Now Runs On 100% Clean Power. Employees Say It's More Like 22%
+ - [https://hardware.slashdot.org/story/24/07/11/221255/amazon-says-it-now-runs-on-100-clean-power-employees-say-its-more-like-22?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/07/11/221255/amazon-says-it-now-runs-on-100-clean-power-employees-say-its-more-like-22?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T02:52:05.237311+00:00
+
+Today, Amazon announced that it reached its 100% renewable energy goal seven years ahead of schedule. However, as Fast Company's Adele Peters reports, "a group of Amazon employees argues that the company's math is misleading." From the report: A report (PDF) from the group, Amazon Employees for Climate Justice, argues that only 22% of the company's data centers in the U.S. actually run on clean power. The employees looked at where each data center was located and the mix of power on the regional grids -- how much was coming from coal, gas, or oil versus solar or wind. Amazon, like many other companies, buys renewable energy credits (RECs) for a certain amount of clean power that's produced by a solar plant or wind farm. In theory, RECs are supposed to push new renewable energy to get built. In reality, that doesn't always happen. The employee research found that 68% of Amazon's RECs are unbundled, meaning that they didn't fund new renewable infrastructure, but gave credit for renewabl
+
+## Palestinians Say Microsoft Unfairly Closing Their Accounts
+ - [https://slashdot.org/story/24/07/11/2135219/palestinians-say-microsoft-unfairly-closing-their-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/11/2135219/palestinians-say-microsoft-unfairly-closing-their-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T01:46:48.646684+00:00
+
+Ancient Slashdot reader Alain Williams writes: Palestinians living abroad have accused Microsoft of closing their email accounts without warning -- cutting them off from crucial online services. They say it has left them unable to access bank accounts and job offers -- and stopped them using Skype, which Microsoft owns, to contact relatives in war-torn Gaza. Microsoft says they violated its terms of service -- a claim they dispute. He also said being cut off from Skype was a huge blow for his family. The internet is frequently disrupted or switched off there because of the Israeli military campaign - and standard international calls are very expensive. [...] With a paid Skype subscription, it is possible to call mobiles in Gaza cheaply -- and while the internet is down -- so it has become a lifeline to many Palestinians.
+ 
+Some of the people the BBC spoke to said they suspected they were wrongly thought to have ties to Hamas, which Israel is fighting, and is designated a terrorist org
+
+## Arm Announces an Open-Source Graphics Upscaler For Mobile Phones
+ - [https://tech.slashdot.org/story/24/07/11/2151254/arm-announces-an-open-source-graphics-upscaler-for-mobile-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/11/2151254/arm-announces-an-open-source-graphics-upscaler-for-mobile-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T01:46:45.987958+00:00
+
+Arm is launching its Arm Accuracy Super Resolution (ASR) upscaler that "can make games look better, while lowering power consumption on your phone," according to The Verge. "It's also making the upscaling technology available to developers under an MIT open-source license." From the reprot: Arm based its technology on AMD's FidelityFX Super Resolution 2 (FSR 2), which uses temporal upscaling to make PC games look better and boost frame rates. Unlike spatial upscaling, which upscales an image based on a single frame, temporal upscaling involves using multiple frames to generate a higher-quality image.
+ 
+You can see just how Arm ASR stacks up to AMD's FSR 2 and Qualcomm's GSR tech in [this chart] created by Arm. Arm claims ASR produced 53 percent higher frame rates than rendering at native resolution on a device with an Arm Immortalis-G720 GPU and 2800 x 1260 display, beating AMD FSR 2. It also tested ASR on a device using MediaTek's Dimensity 9300 chip and found that rendering at 540p 
+
+## iLounge and the Unofficial Apple Weblog Are Back As Unethical AI Content Farms
+ - [https://tech.slashdot.org/story/24/07/11/2130212/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/11/2130212/ilounge-and-the-unofficial-apple-weblog-are-back-as-unethical-ai-content-farms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-12T00:41:30.764601+00:00
+
+An anonymous reader quotes a report from Ars Technica, written by Samuel Axon: In one of the most egregiously unethical uses of AI we've seen, a web advertising company has re-created some defunct, classic tech blogs like The Unofficial Apple Weblog (TUAW) and iLounge by mimicking the bylines of the websites' former writers and publishing AI-generated content under their names. The Verge reported on the fiasco in detail, including speaking to Christina Warren, a former writer for TUAW who now works at GitHub. Warren took to the social media platform Threads yesterday to point out that someone had re-launched TUAW at its original domain and populated it with fake content allegedly written by her and other past TUAW staff. Some of the content simply reworded articles that originally appeared on TUAW, while other articles tied real writers' names to new, AI-generated articles about current events.
+ 
+TUAW was shut down in 2015, but its intellectual property and domain name continued to be
+

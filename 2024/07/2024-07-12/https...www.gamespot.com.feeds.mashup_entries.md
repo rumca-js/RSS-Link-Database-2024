@@ -1,0 +1,205 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## 9 Nintendo Switch Exclusives Are $35 Ahead Of Prime Day
+ - [https://www.gamespot.com/articles/9-nintendo-switch-exclusives-are-35-ahead-of-prime-day/1100-6524715/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/9-nintendo-switch-exclusives-are-35-ahead-of-prime-day/1100-6524715/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T22:43:00+00:00
+
+<p>Target Circle Week is winding down, but there's still time to snag some of the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/pl/308510360&amp;p=http://www.gamespot.com/feeds/news/11&amp;event_type=click">best Nintendo Switch game deals</a> of the year. Through tomorrow, July 13, nine Nintendo Switch exclusives are on sale for only $35. That's a savings of $25 on each game, and most of the eligible titles are rarely on sale for this low of a price. To secure these deals, you'll need to <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/l/target-circle/-/N-pzno9&amp;p=http://www.gamespot.com/feeds/news/11&amp;event_type=click">sign up for Target Circle</a>, if you aren't already a member of the free rewards program. Target's sale is running mere days before <a href="http
+
+## Is Xbox Game Pass No Longer The Best Deal In Gaming? | Spot On
+ - [https://www.gamespot.com/articles/is-xbox-game-pass-no-longer-the-best-deal-in-gaming-spot-on/1100-6524922/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/is-xbox-game-pass-no-longer-the-best-deal-in-gaming-spot-on/1100-6524922/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T22:31:00+00:00
+
+<p>Xbox has announced major changes to its Game Pass subscription and truthfully, they're so muddled even I struggle with laying them all out. But let's try.</p><p>Starting in September, new members to the Xbox ecosystem will not longer be allowed to subscribe to Xbox Game Pass for console. However, those <em>currently</em> subscribed will be allowed to maintain their subscription, which will include the program's back catalog as well as day one game access, as long as they maintain their subscription. New Xbox Game Pass users, then, will get a choice of a few different subscription tiers, the first being Game Pass Standard. This tier will be priced at $15 a month and gives users access to a back catalog of games and Xbox Live Gold, which is now referred to as Game Pass Core. However, Standard will not include any day one releases or Xbox Cloud gaming.</p><p>Xbox Game Pass Ultimate's features will not be changed and will still include PC Game Pass, but is seeing a price hike and will 
+
+## Concord Beta Opening Cinematic (4k)
+ - [https://www.gamespot.com/videos/concord-beta-opening-cinematic-4k/2300-6464589](https://www.gamespot.com/videos/concord-beta-opening-cinematic-4k/2300-6464589)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T22:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4332960-concordcinematic_v1_gs.jpg" width="480" /> The Freegunners crew of the Northstar finally get their big break. The Concord beta runs the next two weekends in July on PS5 and Steam.
+
+## Xbox Game Pass Changes: No Longer The Best Deal In Gaming? | Spot On
+ - [https://www.gamespot.com/videos/xbox-game-pass-changes-no-longer-the-best-deal-in-gaming-spot-on/2300-6464588](https://www.gamespot.com/videos/xbox-game-pass-changes-no-longer-the-best-deal-in-gaming-spot-on/2300-6464588)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T21:30:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4332890-spoton_site.jpg" width="480" /> Xbox has announced changes to its Game Pass subscription, with a price increase and a new tier that cuts one of the service's best features: day one games. After thousands of layoffs and studio closures, but with COD and a hot first party lineup ahead, is now the time for the price hike?
+
+## Fortnite Chapter 5 Season 4 Start Date, Leaks, And Rumors
+ - [https://www.gamespot.com/gallery/fortnite-chapter-5-season-4-start-date-leaks-and-rumors/2900-5569](https://www.gamespot.com/gallery/fortnite-chapter-5-season-4-start-date-leaks-and-rumors/2900-5569)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T21:18:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4329313-fortnitec5s2weaponsandmythics.jpg" /><br /><h3><p>We're a little more than a month away from <a href="https://www.gamespot.com/games/fortnite/">Fortnite</a> Chapter 5 Season 4 and, uh, well, a lot has happened since Season 3 kicked off at the end of May. The new season has been so divisive that Epic <a href="https://www.gamespot.com/articles/fortnite-reload-is-an-apology-to-sweaty-streamers-and-its-amazing/1100-6524502/">created an entirely new battle royale mode to compensate for it</a>. That puts a lot of pressure on Season 4 to be a hit with as many people as possible.</p><p>It's still a bit early for the hype cycle to start--that won't happen until August, probably--so there isn't any official info about next season yet aside from the start date. Speaking of which...</p></h3></p><br />     <p><h2>When does Fortnite Chapter 5 Season 4 start?</h2><img src="https://www.gamespot.com/a/uploads/scale_large
+
+## Stardew Valley: How To Upgrade Your Tools
+ - [https://www.gamespot.com/articles/stardew-valley-how-to-upgrade-your-tools/1100-6524926/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stardew-valley-how-to-upgrade-your-tools/1100-6524926/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T21:17:00+00:00
+
+<p>One of the early limitations in <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a> is the quality of your tools. Your axe and pickaxe aren't powerful enough to break certain obstacles, your watering can doesn't hold much water, and doing anything uses a hefty chunk of energy. Upgrading your tools at the Blacksmith not only improves them, but in some cases, will use less energy as well. Upgrading tools requires resources and money. Here's what you need to know about how to upgrade tools in Stardew Valley.</p><h2 dir="ltr">Tool upgrades</h2><p>Tool Upgrades are performed at the Blacksmith, which is open every day from 9am to 4pm, except during festivals. Upgrading a tool requires you to bring five bars of the corresponding metal, along with a fee. Upgrading a tool takes two days, but you are really only without your tool for one. You can drop off a tool at any time while the Blacksmith is open and in two days you can collect it, meaning that there is one full
+
+## How To Get Iridium In Stardew Valley
+ - [https://www.gamespot.com/articles/how-to-get-iridium-in-stardew-valley/1100-6524924/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-get-iridium-in-stardew-valley/1100-6524924/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T20:50:00+00:00
+
+<p>Progressing through <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a> will require you at some point or another to have a large amount of Iridium, one of the rarest ores in the game. Getting to the point where you can reliably mine Iridium will take some time to reach, but once you do you can reliably get more, even if it isn't always in the biggest quantities. Iridium is especially useful for upgrading your tools, as it's required for the final upgrade.</p><h2 dir="ltr">Where to find Iridium</h2><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1599/15997278/4332894-iridium.jpg"><img alt="Iridium Nodes have blue spikes poking out of them." src="https://www.gamespot.com/a/uploads/original/1599/15997278/4332894-iridium.jpg" /></a><figcaption>Iridium Nodes have blue spikes poking out of them.</figcaption></figure><p>The primary place to find Iridium is from Iridium Nodes, which are found in the <a href="https://www.gamespot.
+
+## Alien: Romulus Gets Facehugger Themed Popcorn Bucket
+ - [https://www.gamespot.com/articles/alien-romulus-gets-facehugger-themed-popcorn-bucket/1100-6524921/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/alien-romulus-gets-facehugger-themed-popcorn-bucket/1100-6524921/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T20:43:00+00:00
+
+<p>Ever since <a href="https://www.gamespot.com/articles/dune-2-director-responds-to-that-horrifying-popcorn-bucket/1100-6521365/">the Dune popcorn bucket</a> came along, it seems like the studios are in an unofficial contest to determine which one can come up with the most grotesque design.  Who would have thought that Disney-owned Marvel would top Dune's borderline obscene collectible with <a href="https://www.gamespot.com/articles/the-deadpool-and-wolverine-popcorn-bucket-is-here-and-just-as-obscene-as-promised/1100-6523826/">a hilariously gross Deadpool and Wolverine popcorn bucket</a>? Now, it's <a href="https://www.gamespot.com/articles/alien-romulus-trailer-teases-the-terror-to-come/1100-6521989/">Alien: Romulus</a>' turn to jump into the popcorn bucket wars.</p><p>The complete design of the Alien: Romulus popcorn bucket hasn't been released online yet. Regardless, Fandango has shared a short video that offers a glimpse of its facehugger-inspired design. It's not as obscene as 
+
+## NVIDIA RTX Remix Makes Older Games Feel New Again
+ - [https://www.gamespot.com/articles/nvidia-rtx-remix-makes-older-games-feel-new-again/1100-6524919/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nvidia-rtx-remix-makes-older-games-feel-new-again/1100-6524919/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T20:24:00+00:00
+
+<p dir="ltr">While modern games are stuffed with next gen features like ray tracing, upscaling technology and low latency tools, these boons in current tech sometimes leave our favorite classic games in the dust. Those games, after all, were programmed at the time as state-of-the-art breakthroughs, but in an age where development teams are pushing the boundaries of what is possible it was unfathomable that these classic games would be refreshed.</p><p dir="ltr">Now, thanks to the <a href="https://www.nvidia.com/en-us/geforce/rtx-remix/">NVIDIA RTX Remix</a> suite, those older games can enjoy a resurgence in the modern day, with a little help from the modding community. We took a few of our favorites from years past and put them through the NVIDIA RTX Remix rigors--with some help from the community--and the fresh coat of paint applied to these classics made us feel like kids again.</p><h3 dir="ltr">What is NVIDIA RTX Remix?</h3><p dir="ltr">Before we get into new looks for old games, w
+
+## Once Human 5 Things We Wish We Knew
+ - [https://www.gamespot.com/videos/once-human-5-things-we-wish-we-knew/2300-6464587](https://www.gamespot.com/videos/once-human-5-things-we-wish-we-knew/2300-6464587)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T20:23:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4332877-5thingswishweknew_oncehuman_20240710v5.jpg" width="480" /> Long anticipated MMO survival title Once Human is now available, and after spending a few days with it, here are 5 Things We Wish We Knew before checking out this supernatural game.
+
+## How To Make A Lead In Minecraft
+ - [https://www.gamespot.com/articles/how-to-make-a-lead-in-minecraft/1100-6524923/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-a-lead-in-minecraft/1100-6524923/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T20:20:00+00:00
+
+<p>Let's face it, mobs have an annoying habit of drifting too far from where they're supposed to be in <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>. Whether you have a chicken that somehow got out of a gate or a <a href="https://www.gamespot.com/articles/how-to-breed-horses-in-minecraft/1100-6524773/">horse</a> that left you on an expedition, you need a solid way to ensure your mobs can stay near you. Luckily, Minecraft allows you to leash mobs using an item called a <strong>Lead</strong>, which you can find out how to craft below.</p><h2>Making a Lead in Minecraft</h2><p>While Leads are used in a couple of other recipes, specifically for Balloons, their primary use is leashing mobs. You can leash just about every creature in Minecraft, but you'll find the most use for a Lead when trying to get your livestock mobs to a certain location.</p><p>To make a Lead, you only need two ingredients and a crafting table, as shown below.</p><a href="https://www.gamespot.com/ar
+
+## Dragon Ball, Naruto, Pokemon, And More Anime Blu-Rays Are B2G1 Free At Amazon
+ - [https://www.gamespot.com/articles/dragon-ball-naruto-pokemon-and-more-anime-blu-rays-are-b2g1-free-at-amazon/1100-6524890/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dragon-ball-naruto-pokemon-and-more-anime-blu-rays-are-b2g1-free-at-amazon/1100-6524890/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T20:10:00+00:00
+
+<p dir="ltr">Take note, anime and manga fans: a huge selection of anime and manga are available in <a href="https://www.amazon.com/promotion/psp/A3PFHETRV1C9B?ref=psp_pc_cart_collapse_cpi_t1&amp;tag=gamespot-primeday-20">Amazon's Buy Two, Get One Free deal</a> ahead of <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day 2024</a>. Special edition box sets, new Blu-ray releases, and everything in between are included in the sale, and many items are on sale at additional discounts, meaning you can grab a bunch of new reading or watching material for cheap through <strong>July 13</strong>. We have an even larger roundup of B2G1 free Blu-ray box sets, 4K movies, TV collections, and more to check out, too.</p><div class="norewrite" title="">           <a href="https://www.amazon.com/promotion/psp/A3PFHETRV1C9B?ref=psp_pc_cart_collapse_cpi_t1&amp;tag=gamespot-primeday-20">See all B2G1 deals at Amazon</a> </div><p dir="ltr"> </p><p dir="ltr">Amazon's B2G1 sale is available to
+
+## How To Make Charcoal In Minecraft
+ - [https://www.gamespot.com/articles/how-to-make-charcoal-in-minecraft/1100-6524918/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-charcoal-in-minecraft/1100-6524918/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T19:50:00+00:00
+
+<p>Charcoal is one of the more straightforward items to craft in <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>, but it still requires some legwork. It can be used for various vital things to ensure you survive in your Minecraft world. This guide will teach you everything you'll need to know about making Charcoal in Minecraft.</p><h2>How to make Minecraft charcoal</h2><p dir="ltr">Charcoal is one of many things that you can craft in Minecraft. It's mainly used as a fuel source to help smelt/cook items you may have. In addition to creating new items with it, they can also be used to make torches to help light up areas and keep hostile mobs away.</p><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/original/1746/17463818/4332805-howtomakecharcoalinminecraft.png"><img alt="Show that tree who's boss!" src="https://www.gamespot.com/a/uploads/scale_super/1746/17463818/4332805-howtomakecharcoalinminecraft.png" /></a><figcaption>Show that tree who's
+
+## How To Make A Lantern In Minecraft
+ - [https://www.gamespot.com/articles/how-to-make-a-lantern-in-minecraft/1100-6524917/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-a-lantern-in-minecraft/1100-6524917/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T19:44:00+00:00
+
+<p>Lanterns are great to make when trying to make your base a bit more fancy. Like everything else in <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>, creating them will require you to hunt down a handful of items first. But it's 100 percent worth it because it's a great way to make your place stand out to show off to all your friends in your Minecraft world.</p><h2>What are Lanterns, and what do they do</h2><p dir="ltr">Lanterns don't do anything fancy, but they do provide a source of light, which is vital for ensuring hostile mobs don't spawn in dark areas. It's also worth pointing out that <strong>they offer a Light Level of 15</strong>, slightly higher than the Torch Light Level of 14.</p><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/original/1746/17463818/4332887-howtomakealanterninminecraft3.png"><img alt="A Lantern and a Bed in Minecraft" src="https://www.gamespot.com/a/uploads/scale_super/1746/17463818/4332887-howtomakealanterninm
+
+## Stardew Valley: How To Unlock The Greenhouse
+ - [https://www.gamespot.com/articles/stardew-valley-how-to-unlock-the-greenhouse/1100-6524916/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stardew-valley-how-to-unlock-the-greenhouse/1100-6524916/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T19:34:00+00:00
+
+<p>Located a short distance from your house in <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a> is a dilapidated building. The building is the Greenhouse, which can be repaired and used after completing the corresponding section of the Community Center or by paying the fee at Joja Mart. Repairing the Greenhouse allows you to grow crops inside, ignoring the seasonal restriction on crops that are planted outside.</p><h2 dir="ltr">How to unlock the Greenhouse</h2><p>There are two ways to unlock the Greenhouse, depending on which story path you are going down. If you are doing Joja Mart, you simply need to pay the 35,000G fee to have it repaired. After paying the fee, the Greenhouse will be repaired overnight.</p><p dir="ltr">If you are doing the Community Center path, the more popular of the two paths, you will need to fully complete the Pantry bundles. The Pantry is unlocked after completing one bundle. There are six individual bundles in the pantry, all of wh
+
+## A Cyberpunk Metroidvania With Thirst-Worthy Characters--What's Not To Like In This Series Reboot?
+ - [https://www.gamespot.com/articles/a-cyberpunk-metroidvania-with-thirst-worthy-characters-whats-not-to-like-in-this-series-reboot/1100-6524915/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-cyberpunk-metroidvania-with-thirst-worthy-characters-whats-not-to-like-in-this-series-reboot/1100-6524915/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T19:12:00+00:00
+
+<p>Okay, I'll admit it: Outside of my brief love affair with Galaga and the small bit of Frogger I played as a child, I've never meaningfully engaged with the vast majority of arcade games. It's my weakest area in terms of video game genres I'm knowledgeable in and as such, I walked into my appointment to play Yars Rising only minimally aware of its first entry and the impact it had at the time.</p><p dir="ltr">Upon its release in 1982, Yars' Revenge--the first entry in the Yars series--became the highest-grossing original title for the Atari 2600. It's been included in more than a few Atari classics collections, a handful "Greatest Games of All-Time'' lists, and a display on video game history at the Museum of Modern Art in New York City. Though part of its popularity was due to Atari's status as a video game powerhouse at the time--thus giving the studio the necessary resources to actually promote Yars' Revenge and build "hype,'' as we'd call it here in the year 2024--it was also ju
+
+## How To Make Fireworks In Minecraft
+ - [https://www.gamespot.com/articles/how-to-make-fireworks-in-minecraft/1100-6524892/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-fireworks-in-minecraft/1100-6524892/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T18:44:00+00:00
+
+<p>While it might seem like Fireworks only have one use in <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>, that's not true whatsoever. Their main function is to light up the sky with bright, explosive colors, but they have another purpose as well. You can use a pair of Elytra wings and Fireworks to <strong>fly around in Survival mode</strong>, saving you countless hours of walking. However, to make use of Fireworks in Minecraft, you need to know how to craft them.</p><h2>How to make Fireworks in Minecraft</h2><p>The basic crafting recipe to make a Firework is extremely simple in Minecraft. It only requires two main ingredients at a crafting table, which you can see below:</p><ul><li>Place a piece of Paper in the center of a crafting table</li><li>Place at least one Gunpowder below the Paper. You can use more Gunpowder to increase the number of flights your Firework has</li></ul><figure style="width: 2560px;"><a href="https://www.gamespot.com/a/uploads/original/1745/
+
+## CoD: Warzone And MW3 Teases WWE Collab For Season 5
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-teases-wwe-collab-for-season-5/1100-6524913/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-teases-wwe-collab-for-season-5/1100-6524913/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T18:41:00+00:00
+
+<p dir="ltr">Season 5 of <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a> is confirmed for July 24, along with the announcement of an upcoming WWE collaboration.</p><p dir="ltr">Activision has <a href="https://x.com/CallofDuty/status/1811807774570909955">released a brief clip</a> of a wrestling ring to announce a WWE crossover event is arriving sometime in Season 5. The video also teases the silhouettes of three wrestlers, so it's very possible this is hinting at operator bundles for a few WWE superstars.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">It's about to be a smackdown 💥<a href="https://twitter.com/WWE?ref_src=twsrc^tfw">@WWE</a> is bringing its best to the ring in Call of Duty Season 5 starting July 24 🤼‍♂️ <a href="https://t.co/AXkfo7Xdcl">pic.twitter.com/AXkfo7Xdcl</a></p>  — Call of Duty (@CallofDuty) <a href="
+
+## Dragon Age: The Veilguard Is Gonna Show A Lot Of Skin
+ - [https://www.gamespot.com/articles/dragon-age-the-veilguard-is-gonna-show-a-lot-of-skin/1100-6524909/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dragon-age-the-veilguard-is-gonna-show-a-lot-of-skin/1100-6524909/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T18:20:00+00:00
+
+<p>Romance options are almost always a popular feature in RPGS, and the Dragon Age series has been no exception. Some of the prior games have been a little tame with their love scenes, but <a href="https://www.gamespot.com/articles/dragon-age-dreadwolf-everything-we-know-about-biowares-upcoming-fantasy-rpg/1100-6503858/">Dragon Age: The Veilguard</a> is going to shake that up by featuring nudity for the first time in the series.</p><p><a href="https://www.gameinformer.com/exclusive/2024/07/10/yes-dragon-age-the-veilguard-has-nudity-and-ive-seen-it">Game Informer</a> broke the story during the outlet's hands-on preview of Dragon Age: The Veilguard. The initial topless nudity was discovered during the character creation mode, and The Veilguard director Corrine Busche implied there will be more of that in the actual game because "This is a mature RPG."</p><p>Characters have been topless or naked in the previous Dragon Age games, but the details of their nudity were either obscured or cov
+
+## Every House Upgrade In Stardew Valley
+ - [https://www.gamespot.com/articles/stardew-valley-house-upgrades/1100-6524912/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stardew-valley-house-upgrades/1100-6524912/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T18:15:00+00:00
+
+<p>When you first arrive at your farm in <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a>, the house waiting for you is tiny. You can upgrade your house at the Carpenter's, increasing the size of the interior and adding important additions, like the kitchen. These upgrades are pretty expensive and resource intensive, but the benefits make it worth it. Here's everything you need to know about upgrading your house in Stardew Valley.</p><h2 dir="ltr">Main House upgrades</h2><p>There are three main house upgrades that you can purchase. Each upgrade takes three days of in-game time to complete. In addition to the main new feature with each upgrade, there is also an increase in interior house space, which you can decorate however you see fit.</p><p dir="ltr">House Upgrade 1 requires 10,000G and 450 Wood, adding a kitchen to your house. The kitchen allows you to cook food, so long as you have learned the recipe for whatever item you are cooking.</p><a href="https:/
+
+## Marvel Rivals Closed Beta Starts On PC Later This Month With Special Venom Event
+ - [https://www.gamespot.com/articles/marvel-rivals-closed-beta-starts-on-pc-later-this-month-with-special-venom-event/1100-6524914/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-rivals-closed-beta-starts-on-pc-later-this-month-with-special-venom-event/1100-6524914/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T18:12:00+00:00
+
+<p>NetEase has <a href="https://www.marvelrivals.com/news/official/20240711/40185_1166624.html">revealed</a> that the closed beta for Marvel Rivals will run from July 23 to August 5.</p><p>The closed beta will include all of the content from the game's most recent closed alpha test, and add both Venom and Adam Warlock to the playable roster. This brings up the number of playable heroes to 21 so far. Players can start signing up for the closed beta on July 20 at 3PM PT on the game's <a href="https://store.steampowered.com/app/2767030/Marvel_Rivals/">Steam page</a>. Access to the beta can also be secured through the official Twitch Drop event that starts at 5pm PT on July 25 and continues to 5PM PT on July 28.</p><p>The closed beta will also have a special in-game event called Galacta's quest where players can earn event EXP. Those who complete it will get a closed beta exclusive costume for Venom called Cyan Clash, which can be transferred over to the full game as long as players use t
+
+## Where Is Xur Today? (July 12-16) Destiny 2 Exotic Items And Xur Location Guide
+ - [https://www.gamespot.com/articles/where-is-xur-today-july-12-16-destiny-2-exotic-items-and-xur-location-guide/1100-6524904/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-is-xur-today-july-12-16-destiny-2-exotic-items-and-xur-location-guide/1100-6524904/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T17:02:00+00:00
+
+<p>It's a quiet weekend in <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>, but with arms dealer Xur having opened up his shop in the Tower, it's time to do some shopping. Next week will see the <a href="https://www.gamespot.com/articles/destiny-2-echoes-act-2-will-drop-all-story-beats-at-once-following-player-feedback/1100-6524806/">arrival of Act 2</a> of Episode: Echoes, and you're going to want to be prepared to deal with increasingly dangerous Vex armies. Here's where Xur is this weekend, and what he has for sale.</p><p>Xur is offering the Exotic weapon catalysts for <strong>Skyburner's Oath </strong>and <strong>The Wardcliff Coil</strong>. For Exotic armor, Hunters can pick up <strong>Assassin's Cowl</strong>; Titans can grab <strong>MK. 44 Stand Asides</strong>; and Warlocks can buy <strong>Sunbracers</strong>.</p><h2>Xur Location</h2><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4332619-xur-tfs.jpg"><img alt
+
+## Captain America: Brave New World Trailer Breakdown And Easter Eggs
+ - [https://www.gamespot.com/gallery/captain-america-brave-new-world-trailer-breakdown-and-easter-eggs/2900-5589](https://www.gamespot.com/gallery/captain-america-brave-new-world-trailer-breakdown-and-easter-eggs/2900-5589)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T16:29:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1562/15626911/4332597-dek.png" /><br /><h3><p dir="ltr">It's here! The <a href="https://www.gamespot.com/articles/captain-america-brave-new-world-trailer-aims-to-take-the-franchise-to-new-heights/1100-6524872/">first trailer for Captain America: Brave New World</a> has arrived! Coming to theaters on February 14, 2025, this will be Anthony Mackie's big-screen debut as Captain America. He took on the mantle in the Disney+ series The Falcon and The Winter Soldier, and he's on his own adventure in the new trailer, which is packed with both action and political intrigue on par with the series.</p><p dir="ltr">This is the fourth installment in the Captain America movie series, making it the first MCU solo franchise to make it to four movies--even if Civil War felt like an Avengers movie.</p><p dir="ltr">As mentioned, Mackie takes on the titular role, with Harrison Ford taking on the role of Thaddeus Ross (originally played by the l
+
+## Give Blood, And You'll Get In This Cat Game's Credits
+ - [https://www.gamespot.com/articles/give-blood-and-youll-get-in-this-cat-games-credits/1100-6524901/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/give-blood-and-youll-get-in-this-cat-games-credits/1100-6524901/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T15:18:00+00:00
+
+<p dir="ltr">With China and Japan censoring Gori: Cuddly Carnage for being too gory, the people behind the upcoming game want to turn the setback into a good cause. As such, Angry Demon Studio and Wired Productions are offering people the chance to be credited in the title by donating blood.</p><p dir="ltr">Angry Demon Studio made the announcement <a href="https://x.com/AngryDemonGames/status/1811747340879069560">on X</a> (formerly known as Twitter), sharing directions on how to appear in the credits as a "Lifesaver." Basically, it boils down to taking a selfie while giving blood and using the hashtag "GorisGotBlood" on either X or Instagram. It's all part of turning "a bloody mess into a bloody good cause."</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Become a 'LifeSaver' in the credits!<br />Our game Gori: Cuddly Carnage got a bit too gory for Japan, and they had to censor the blood.<br />So lets turn a bloody mess into a bloody good cause?<br />🩸 Give blood
+
+## The First Descendant Already Has 10 Million Players
+ - [https://www.gamespot.com/articles/the-first-descendant-already-has-10-million-players/1100-6524898/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-first-descendant-already-has-10-million-players/1100-6524898/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T14:03:00+00:00
+
+<p dir="ltr">What a week it's been for the looter-shooter The First Descendant. After just seven days, the free-to-play game from Nexon has reached a huge milestone with 10 million players.</p><p dir="ltr"><a href="https://x.com/FirstDescendant/status/1811716560031215773?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1811716560031215773|twgr^ea8214f29c032c256bb611dbdac7e2a9eaa36b70|twcon^s1_&amp;ref_url=https://www.ign.com/articles/the-first-descendant-is-a-massive-hit-despite-its-various-controversies">On X</a> (formerly known as Twitter), the official First Descendants account celebrated the occasion by saying: "Thank you all for your tremendous support and love. It means everything to us." This comes after <a href="https://www.gamespot.com/articles/new-looter-shooter-the-first-descendant-is-off-to-a-big-start/1100-6524651/">The First Descendant's big start on Steam</a>, with the looter-shooter having over 225,000 concurrent players within 24 hours of launch.</p><div><blockquote align="
+
+## Star Wars The Mandalorian Fighter Ship Lego Set Drops To Best Price Yet At Amazon
+ - [https://www.gamespot.com/articles/star-wars-the-mandalorian-fighter-ship-lego-set-drops-to-best-price-yet-at-amazon/1100-6524871/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-the-mandalorian-fighter-ship-lego-set-drops-to-best-price-yet-at-amazon/1100-6524871/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T13:42:00+00:00
+
+<p>During <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/l/target-circle-week/-/N-7196o&amp;p=http://www.gamespot.com/feeds/mashup/?type=5&amp;platform=5&amp;event_type=click">Target Circle Week</a>, you can pick up the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/lego-star-wars-mandalorian-fang-fighter-vs-tie-interceptor-building-toy-75348/-/A-86216234&amp;p=http://www.gamespot.com/feeds/mashup/?type=5&amp;platform=5&amp;event_type=click">Lego Star Wars Mandalorian Fang Fighter vs. TIE Interceptor</a> for just $70 (down from $100). That's the <strong>lowest price we've seen all year</strong> for the large Lego set. <a href="https://www.amazon.com/LEGO-75348-Mandalorian-Fighter-Interceptor/dp/B0BNW6DPD3?tag=gamespot-primeday-20">Amazon</a> is price-matching the dea
+
+## Captain America Brave New World Trailer Aims To Take The Franchise To New Heights
+ - [https://www.gamespot.com/articles/captain-america-brave-new-world-trailer-aims-to-take-the-franchise-to-new-heights/1100-6524872/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/captain-america-brave-new-world-trailer-aims-to-take-the-franchise-to-new-heights/1100-6524872/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T13:11:00+00:00
+
+<p>After a few days of being teased, the first trailer for Captain America: Brave New World has arrived. This is Sam Wilson's (Anthony Mackie) first solo movie in the role he took over in Disney+'s <a href="https://www.gamespot.com/videos/the-falcon-and-the-winter-soldier-stars-react-to-new-captain-america/2300-6454967/">The Falcon and The Winter Soldier</a>.</p><p>The trailer shows off Sam's new flight suit, as well as a mustache-less Ross and the tension the two of them have on whether or not Captain American is an official military unit. There are some really cool fight scenes, a brief glimpse of Giancarlo Esposito in his yet confirmed character, and even the White House becoming collateral damage. Oh, and a certain red behemoth at the end. Check it out below.</p><div>          </div><p>"It made more sense for it to be more of a grounded espionage action movie as opposed to aliens and airplanes coming through portals and sh-t," Mackie told <a href="https://ew.com/captain-america-4-
+
+## Lego Diddy Kong's Mine Cart On Sale For Lowest Price Yet
+ - [https://www.gamespot.com/articles/lego-diddy-kongs-mine-cart-on-sale-for-lowest-price-yet/1100-6524893/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-diddy-kongs-mine-cart-on-sale-for-lowest-price-yet/1100-6524893/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T10:35:00+00:00
+
+<p>Nintendo and Lego make for a dream team of fun toy ideas, and in this early <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day</a> special, the Danish blocks, Super Mario, and the Donkey Kong family combine to create a fun building experience. Normally $110, the Lego Super Mario and Diddy Kong's Mine Cart Ride expansion set is on sale for $82.50.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4332501-lego-kong.jpg"><img alt="Lego Diddy Kong's Mine Cart Ride" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4332501-lego-kong.jpg" /></a><figcaption>Lego Diddy Kong's Mine Cart Ride</figcaption></figure><ul><li><a href="https://www.amazon.com/dp/B0BSRDW8LL?tag=gamespot-primeday-20">Amazon</a> -- $82.50 ($<strike>110</strike>)</li><li><span class="norewrite">           <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp
+
+## Get A Pair Of Switch Joy-Con And Super Mario Party For $69 (Ends Tonight, July 11)
+ - [https://www.gamespot.com/articles/nintendo-switch-joy-con-super-mario-party-bundle-deal/1100-6518931/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-switch-joy-con-super-mario-party-bundle-deal/1100-6518931/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-12T01:35:00+00:00
+
+<div class="norewrite" title="6518931 - Super Mario Party Joy-Con Bundle">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4219126-supermariopartyjoy-conmodule.png" />                                 <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/seort/5216937998&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click"></a>                              </div>                   <div class="buylink__text">   
+

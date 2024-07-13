@@ -1,0 +1,320 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Meta drops restrictions on Trump’s Facebook and Instagram accounts
+ - [https://www.theverge.com/2024/7/12/24197475/donald-trump-facebook-account-restrictions-dropped-meta-instagram](https://www.theverge.com/2024/7/12/24197475/donald-trump-facebook-account-restrictions-dropped-meta-instagram)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T21:03:30+00:00
+
+<figure>
+      <img alt="Former President Donald Trump Holds A Campaign Rally In Doral, Florida" src="https://cdn.vox-cdn.com/thumbor/b31Huer0BdLtTxv4puNddk2QT7A=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457969/2161405225.0.jpg" />
+        <figcaption><em>President Donald Trump.</em> | Photo by Joe Raedle/Getty Images</figcaption>
+    </figure>
+
+  <p id="tozE4M">Former President Donald Trump will no longer be subject to extra severe penalties for content rule violations on his Facebook and Instagram accounts, Meta said on Friday. </p>
+<p id="UTtbcu">Previously, Trump’s account could be fully suspended for even a relatively small infraction that wouldn’t lead to the same penalty for any other account. Now, with the Republican National Convention taking place next week, he’ll be treated more like everyone else.</p>
+<p id="PrBpng">“In assessing our responsibility to allow political expression, we believe that the American people should be able to hear from the 
+
+## OpenAI is plagued by safety concerns
+ - [https://www.theverge.com/2024/7/12/24197142/openai-safety-concerns-agi](https://www.theverge.com/2024/7/12/24197142/openai-safety-concerns-agi)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T20:31:04+00:00
+
+<figure>
+      <img alt="An illustration depicting a feature-less face against a pink, white, and blue background." src="https://cdn.vox-cdn.com/thumbor/wfdAJXySZW0XC8Zva193BkCoovM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457904/acastro_210512_1777_deepfake_0003.0.jpg" />
+        <figcaption>Illustration: Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="dTJMbM">OpenAI is a leader in the race to develop AI as intelligent as a human. Yet, employees continue to show up in the press and <a href="https://www.audacy.com/podcast/hard-fork-2076b/episodes/a-conversation-with-prime-minister-justin-trudeau-of-canada-an-openai-whistle-blower-speaks-out-5db4d">on podcasts</a> to voice their grave concerns about safety at the $80 billion nonprofit research lab. The latest <a href="https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/">comes from <em>The Washington Post</em></a>, where an anonymous source claimed OpenAI rushed 
+
+## Now your iPhone can have a Notes app and a note pad
+ - [https://www.theverge.com/2024/7/12/24197251/moft-snap-flow-notepad-magsafe-iphone-accessory](https://www.theverge.com/2024/7/12/24197251/moft-snap-flow-notepad-magsafe-iphone-accessory)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T20:28:37+00:00
+
+<figure>
+      <img alt="iPhone with paper notepad on the back, hands are writing on the paper" src="https://cdn.vox-cdn.com/thumbor/-6fhoQkxGaHx1b_ZVg-zAizYWEg=/0x0:1184x789/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457889/1920x.0.jpg" />
+        <figcaption><em>And on the other side of the iPhone, there’s a Notes app.</em> | Image: Moft</figcaption>
+    </figure>
+
+  <p id="FqaoUj">Moft is launching <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.moft.us%2Fpages%2Fsnap-note-stand&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F7%2F12%2F24197251%2Fmoft-snap-flow-notepad-magsafe-iphone-accessory" rel="sponsored nofollow noopener" target="_blank">a new MagSafe accessory</a> that adds a literal notepad and pen to the back of your iPhone. The company’s new “Snap Flow” looks like a slim magnetic origami kickstand (<a href="https://www.theverge.com/2020/12/10/22151212/magsafe-wallet-iphone-accessory-moft">like 
+
+## SpaceX’s Falcon 9 rockets are grounded after an in-flight failure
+ - [https://www.theverge.com/2024/7/12/24197332/spacex-falcon-9-in-flight-rocket-failure-starlink-launch](https://www.theverge.com/2024/7/12/24197332/spacex-falcon-9-in-flight-rocket-failure-starlink-launch)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T19:04:02+00:00
+
+<figure>
+      <img alt="A screenshot from SpaceX’s video of the Falcon 9 launch." src="https://cdn.vox-cdn.com/thumbor/5392QWba2GOQN2q1pMkjCB2U86w=/294x0:2186x1261/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457752/spacex_falcon_9_jul11.0.jpg" />
+        <figcaption>Image: SpaceX</figcaption>
+    </figure>
+
+  <p id="2W2axq">SpaceX’s Falcon 9 rocket experienced an engine failure after it launched late Thursday night from the Vandenberg Space Force Base in California. The mission, Starlink Group 9-3, was carrying Starlink satellites and failed to reignite its upper second stage after developing a leak. “Upper stage restart to raise perigee resulted in an engine RUD for reasons currently unknown,” <a href="https://x.com/elonmusk/status/1811620381590966321">Elon Musk said overnight</a>, confirming that the engine experienced a “rapid unscheduled disassembly.”</p>
+<p id="aNbXGA"><a href="https://www.spacex.com/launches/mission/?missionId=sl-9-3">SpaceX</a>:</p>
+<blockquote><p id
+
+## The best iPhones
+ - [https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T18:57:43+00:00
+
+<figure>
+      <img alt="Illustration showing iPhones on a light blue striped background." src="https://cdn.vox-cdn.com/thumbor/FMMd4AcCGaKxyOcDWjmM3fN__6g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72025718/236552_Best_iPhone_for_most_people.0.jpg" />
+        <figcaption><em>Navigate Apple’s lengthy iPhone product catalog like a pro.</em> | Image: The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Whether you want a battery that lasts for days or the very best deal, we’ve got some recommendations for an iPhone you’ll love.</p>
+  <p>
+    <a href="https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide">Continue reading&hellip;</a>
+  </p>
+
+## Drone photographer pleads guilty to Espionage Act charges
+ - [https://www.theverge.com/2024/7/12/24197356/chinese-national-graduate-student-espionage-act-drone-navy-shipyard-plea-guilty](https://www.theverge.com/2024/7/12/24197356/chinese-national-graduate-student-espionage-act-drone-navy-shipyard-plea-guilty)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T18:35:57+00:00
+
+<figure>
+      <img alt="Operations At Newport News Shipbuilding Ahead Of Huntington Ingalls Earnings" src="https://cdn.vox-cdn.com/thumbor/07xR1ECnkBGIPF94WBqGN_wxwmo=/0x0:3500x2333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457682/487850445.0.jpg" />
+        <figcaption><em>Newport News Shipbuilding, a defense contractor whose shipyard is alleged to have been photographed by drone.</em> | Getty Images</figcaption>
+    </figure>
+
+  <p id="FSjn3j">A foreign graduate student has pleaded guilty to crimes under the Espionage Act for photographing classified US Navy ships with a drone. The case appears to be a first-of-its kind prosecution by the Department of Justice. </p>
+<p id="3Jz2lM">Fengyun Shi, a Chinese citizen and graduate student at the University of Minnesota, was arrested in January after a drone he was flying got stuck in a tree in Newport News, Virginia. A suspicious resident called the police and Shi was questioned before abandoning the drone and fleeing. After t
+
+## The Verge’s guide to Amazon Prime Day 2024
+ - [https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T18:05:59+00:00
+
+<figure>
+      <img alt="Illustration of a hand with a single finger touching an Amazon arrow. Various products float around the edges of the scene." src="https://cdn.vox-cdn.com/thumbor/9n2juFPWtgZF8OxA-E_6UVLO0Aw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73442367/247154_Prime_Day_2024_package_SInbar.5.png" />
+        <figcaption>Image: Shira Inbar for The Verge</figcaption>
+    </figure>
+
+  <p id="eo6ufI">Amazon Prime Day 2024 is nearly here. The annual two-day super sale <a href="https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale">will start on July 16th and run through July 17th</a>, bringing with it a treasure trove of discounts, promos, and exclusive deals for Amazon Prime subscribers. It may not be the only Prime Day event we see this year — Amazon has recently taken to hosting a second shopping event in the fall — but it will likely remain one of the best opportunities of the year to score discounts on a range of tech out
+
+## The best early Prime Day deals on Amazon devices
+ - [https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T18:00:00+00:00
+
+<figure>
+      <img alt="The latest Echo Show 8 facing the camera with its screen on." src="https://cdn.vox-cdn.com/thumbor/smk309xkHbPQQ8vEIxEDDP5_wVg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457589/236901_Echo_Show_8_review_JTuohy_0012.0.jpg" />
+        <figcaption><em>Amazon’s throwing in free smart bulbs with some Echo devices, including the latest Echo Show 8.</em> | Image: Jennifer Pattison Tuohy / The Verge</figcaption>
+    </figure>
+
+  <p id="mw5UEg">Amazon Prime Day may not officially kick off <a href="https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale">until July 16th</a>, but that hasn’t stopped the retailer from dropping prices on a variety of items ahead of the two-day sale. We’ve already published a detailed guide to the <a href="https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales">best early Prime Day deals</a>, but if you’re just interested in Amazon devices, this is where you’ll find 
+
+## Apex Legends is having a rough week
+ - [https://www.theverge.com/2024/7/12/24197221/apex-legends-battle-pass-incorrect-esports-payments](https://www.theverge.com/2024/7/12/24197221/apex-legends-battle-pass-incorrect-esports-payments)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T17:09:39+00:00
+
+<figure>
+      <img alt="Apex Legends" src="https://cdn.vox-cdn.com/thumbor/Giqt4iGFCBTVFRlJgchx6MKkhis=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457515/APEX_Legends_Screenshot_Season1_Octane_Execution.0.png" />
+        <figcaption>Image: EA / Respawn Entertainment</figcaption>
+    </figure>
+
+  <p id="QGFXpR"><em>Apex Legends</em> can’t seem to catch a break. The game has been plagued with a pair of high-profile issues for the last few weeks.</p>
+<p id="sWET1L">First up, earlier this week, the hero shooter’s developer, Respawn Entertainment, announced <a href="https://www.ea.com/games/apex-legends/news/battle-pass-update">it was retooling the game’s battle pass</a>. For season 22 and beyond, the battle pass will now be split into two halves, with 60 levels for each half. Additionally, players will no longer be able to purchase a battle pass with AC or <em>Apex</em>’s in-game currency. “The decision to move from AC to real world currency is not one that we 
+
+## TCL’s gamer-friendly Q6 QLED TV is cheaper than ever right now
+ - [https://www.theverge.com/2024/7/12/24196114/tcl-q6-4k-qled-tv-nothing-ear-a-earbuds-deal-sale](https://www.theverge.com/2024/7/12/24196114/tcl-q6-4k-qled-tv-nothing-ear-a-earbuds-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T17:06:54+00:00
+
+<figure>
+      <img alt="A close-up image of TCL’s Q6 QLED TV on a short stand wedged between two plants." src="https://cdn.vox-cdn.com/thumbor/PeAvDWoNVRqQQkwxwOrsEWh2-eQ=/0x0:1000x667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457507/TLC_Q6_Lifestyle_Press_Image.0.jpg" />
+        <figcaption><em>The TCL Q6 is solid TV for watching the 2024 Olympics, </em>House of the Dragon<em>, and a wild season of election coverage.</em> | Image: TCL</figcaption>
+    </figure>
+
+  <p id="x3dDHy"><a href="https://www.theverge.com/2023/5/15/23723813/tcl-q-s-class-4k-tvs-price-features"><strong>TCL’s Q6 QLED TV</strong></a> was one of the standout deals from <a href="https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale">Walmart’s recent “Walmart Deals” event</a>, and the post-event discounts have only gotten steeper. The 65-inch model, for example, has dropped even further at <a href="https://goto.walmart.com/c/482924/565706/9383?u=https
+
+## The best noise-canceling headphones to buy right now
+ - [https://www.theverge.com/21345733/best-noise-canceling-headphones](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T16:38:02+00:00
+
+<figure>
+      <img alt="A pair of Sony WH-1000XM5 headphones, in black, resting flat on a wood table beside a laptop." src="https://cdn.vox-cdn.com/thumbor/1Yi9sFXnZ3b-FYYS4HNbyWq5zLc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/67126629/DSCF7916.15.jpg" />
+        <figcaption><em>Sony’s WH-1000XM5 headphones have an all-new design.</em> | Photo by Chris Welch / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Get some peace and quiet with any of our top picks for noise-canceling headphones. Sony’s still the best overall, but there are reasons to go elsewhere, too.</p>
+  <p>
+    <a href="https://www.theverge.com/21345733/best-noise-canceling-headphones">Continue reading&hellip;</a>
+  </p>
+
+## Amazon’s AI shopping assistant rolls out to all users in the US
+ - [https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout](https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T16:33:25+00:00
+
+<figure>
+      <img alt="An image showing Amazon’s AI shopping assistant, Rufus" src="https://cdn.vox-cdn.com/thumbor/-tzanpgDkRTZuUfqvoGCNd4FEI0=/0x202:605x605/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457444/assets.aboutamazon_1.0.jpg" />
+        <figcaption>Image: Amazon</figcaption>
+    </figure>
+
+  <p id="x1Mmnd">Amazon’s AI shopping assistant, Rufus, is <a href="https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus">rolling out to all users in the US</a> on Amazon’s mobile app. You can pull up the shopping assistant by tapping the orange and blue icon in the right corner of the app’s navigation bar, where Rufus can answer questions, draw comparisons between items, and give you updates on your order.</p>
+<p id="GrD1Go">Amazon first <a href="https://www.theverge.com/2024/2/1/24058381/amazon-ai-shopping-assistant-rufus">introduced Rufus in February</a> but only made it available to a small group of users. Rufus uses Amazon’s product listing details, reviews, a
+
+## Nearly everything on 8BitDo’s hefty $100 gamepad is made of metal
+ - [https://www.theverge.com/2024/7/12/24197106/8bitdo-controller-gamepad-sn30pro-limited-edition](https://www.theverge.com/2024/7/12/24197106/8bitdo-controller-gamepad-sn30pro-limited-edition)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T15:38:55+00:00
+
+<figure>
+      <img alt="The 8BitDo SN30 Pro Golden/Silver Limited Edition controllers floating against a backdrop of rocks." src="https://cdn.vox-cdn.com/thumbor/Xqxd-qGI_IbVJNUx0cEAQcm8ovo=/17x0:1351x889/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457287/8bitdo_goldsilver_1b.0.jpg" />
+        <figcaption><em>Despite a $100 price tag, these 8BitDo gamepads don’t include any wireless functionality.</em> | Image: 8BitDo</figcaption>
+    </figure>
+
+  <p id="uTQQpg">8BitDo’s shiny silver- and gold-finished 11th anniversary <a href="https://www.8bitdo.com/sn30-pro-usb-limited/">SN30 Pro gamepads</a> feature housings and controls made of so much metal that they weigh in at 381 grams — almost an entire pound.</p>
+<p id="CKgvEr">As <a href="https://www.polygon.com/deals/2024/7/11/24196710/8bitdo-sale-gold-sn30-pro-controllers-pro-2-discount">spotted by <em>Polygon</em></a>, the company went nearly all in on the metal facelift for its <a href="https://shop.8bitdo.com/products/8bitdo
+
+## Zenless Zone Zero buries its best bits behind bewildering bunk
+ - [https://www.theverge.com/24195175/zenless-zone-zero-impressions-genshin-impact-mihoyo](https://www.theverge.com/24195175/zenless-zone-zero-impressions-genshin-impact-mihoyo)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T15:36:21+00:00
+
+<figure>
+      <img alt="Key art from Zenless Zone Zero featuring a collage of characters against an urban landscape" src="https://cdn.vox-cdn.com/thumbor/JdXZSMlOdQ7_GwMRKIndPFvLunM=/94x0:1107x675/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457281/3ba9a74bbed3272ff0a14e861e1e8418_5009170038916814652.0.png" />
+        <figcaption>Image: HoYoverse</figcaption>
+    </figure>
+
+  <p id="FBUSIM">I’ve given up on trying to understand <a href="https://www.theverge.com/2022/5/13/23070689/zenless-zone-zero-trailer-rpg-beta-pc-ios"><em>Zenless Zone Zero</em></a>. In every other cutscene, I’m bombarded with in-game jargon about inter-knots, proxies, hollows, and w-engines that I just cannot keep straight. Meanwhile, my patience withers to dust as my eyes flit about the screen trying to make sense of the literal deluge of resources — dennies, polychromes, investigator logs, master tapes, and so, <em>so </em>much more — the game requires you to accumulate in order to progress. It is so o
+
+## Southwest Airlines and Archer strike a deal for an electric air taxi network
+ - [https://www.theverge.com/2024/7/12/24197168/southwest-airlines-archer-evtol-air-taxi-deal](https://www.theverge.com/2024/7/12/24197168/southwest-airlines-archer-evtol-air-taxi-deal)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T15:04:05+00:00
+
+<figure>
+      <img alt="Archer Midnight eVTOL" src="https://cdn.vox-cdn.com/thumbor/bL-nRDb9oMoBeDAxdBoyO3DMhPw=/0x0:2500x1667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457209/Midnight_Flight_5.0.jpg" />
+        <figcaption>Image: Archer</figcaption>
+    </figure>
+
+  <p id="uIi56A">Today, Southwest Airlines became the latest major carrier to join forces with a so-called urban air mobility startup. The Dallas-based airline signed a memorandum of understanding with Archer Aviation to draw up plans for an air taxi service.</p>
+<p id="KNLwE3">The service will operate using Archer’s battery-powered, four-passenger, tilt-rotor Midnight aircraft, which are designed to take off and land vertically from a landing strip like a helicopter. As part of the deal, the aircraft will get access to 14 California airports where Southwest operates. </p>
+<p id="Qbvgf6">This is the latest deal between a major airline and an eVTOL (electric vertical takeoff and landing) startup, signaling a gro
+
+## The Analogue Pocket now comes in aluminum
+ - [https://www.theverge.com/2024/7/12/24197135/analogue-pocket-aluminum](https://www.theverge.com/2024/7/12/24197135/analogue-pocket-aluminum)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T15:00:00+00:00
+
+<figure>
+      <img alt="A photo of an aluminum Analogue Pocket." src="https://cdn.vox-cdn.com/thumbor/VNZvCaAhcVa4y97-GMf5H8RQxvI=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73457170/5_AP_Aluminum_LE___family_2.0.png" />
+        <figcaption>Image: Analogue</figcaption>
+    </figure>
+
+  <p id="OKI0rp">The <a href="https://www.theverge.com/22831589/analogue-pocket-review">Analogue Pocket</a> is getting yet another iteration — but this time, it’s a little more than a refreshed color scheme. An aluminum edition is coming out this month, and the company says that the new handhelds “are precision CNC’d entirely in aluminum.” They come in four colors — natural, noir, black, and indigo — and will be <a href="https://store.analogue.co/">available to preorder</a> on July 15th at 8AM PT / 11AM ET, with units expected to ship on July 17th.</p>
+<p id="lO4Yiv">That metal body doesn’t come cheap, though. The aluminum Pocket will cost $499, a big boost over the $219 of the s
+
+## AT&T breach leaked call and text records from ‘nearly all’ wireless customers
+ - [https://www.theverge.com/2024/7/12/24197052/att-data-breach-call-text-records-hack](https://www.theverge.com/2024/7/12/24197052/att-data-breach-call-text-records-hack)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T13:28:43+00:00
+
+<figure>
+      <img alt="AT&amp;amp;T logo with an illustrated red and orange background." src="https://cdn.vox-cdn.com/thumbor/3VcsRk93ok4zzLkG8sq06al5DTo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456985/STK158_ATT_02.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="Sc9Oz6">AT&amp;T <a href="https://about.att.com/story/2024/addressing-illegal-download.html">revealed Friday morning</a> that a cybersecurity attack had exposed call records and texts from “nearly all” of the carrier’s cellular customers (including people on mobile virtual network operators, or MVNOs, that use AT&amp;T’s network, like Cricket, Boost Mobile, and Consumer Cellular). The breach took place during the period between May 1st, 2022, and October 31st, 2022, in addition to an incident that impacted a “very small number” of customers on January 2nd, 2023.</p>
+<p id="hube6c">AT&amp;T spokesperson Alex Byers confirmed to <em>The Verge</em> the threa
+
+## Samsung’s new folds, flips, and Apple clones
+ - [https://www.theverge.com/2024/7/12/24197065/samsung-galaxy-fold-flip-airpods-vergecast](https://www.theverge.com/2024/7/12/24197065/samsung-galaxy-fold-flip-airpods-vergecast)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T13:18:03+00:00
+
+<figure>
+      <img alt="South-Korean Samsung President &amp;amp; Head of Mobile Communications Business Roh Tae-moon speaks during the Samsung Galaxy Unpacked event" src="https://cdn.vox-cdn.com/thumbor/S4xTzF5iKg4uqNrDkKPsx1_sNNo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456977/VST_0712_Site.0.jpg" />
+        <figcaption>Illustration by The Verge; Photo by Emmanuel Dunand / AFP via Getty Images</figcaption>
+    </figure>
+
+  <p id="DRI2mN">As the rest of the tech industry seems to mostly shift to overproduced infomercials for their product launches, Samsung is holding fast to its love for giant live events in huge arenas. This year, <a href="https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds">at Unpacked in Paris</a>, the company announced a whole lineup of new gadgets. The <a href="https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price">new Fold and Flip</a> lo
+
+## How to shop for an internet provider in your new home
+ - [https://www.theverge.com/24189944/isp-shopping-broadband-labels-speed-neighbors](https://www.theverge.com/24189944/isp-shopping-broadband-labels-speed-neighbors)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T12:40:00+00:00
+
+<figure>
+      <img alt="Illustration of a person shopping for internet providers in a digital space." src="https://cdn.vox-cdn.com/thumbor/HGWRgTPl-xmvvgxgbv7Rl_Ix8Dc=/0x0:3774x2516/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456881/247132_INTERNET_SHOPPING_JGibbs.0.jpg" />
+        <figcaption>Image: Jackson Gibbs for The Verge</figcaption>
+    </figure>
+
+
+  		 <p>The FCC’s new broadband labels make it easier to compare internet plans, if you’re lucky enough to have options.</p>
+  <p>
+    <a href="https://www.theverge.com/24189944/isp-shopping-broadband-labels-speed-neighbors">Continue reading&hellip;</a>
+  </p>
+
+## Cable management and other tips for planning a new workspace
+ - [https://www.theverge.com/24181347/cable-management-desks-home-office-pc-laptop](https://www.theverge.com/24181347/cable-management-desks-home-office-pc-laptop)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T12:00:00+00:00
+
+<figure>
+      <img alt="Illustration of a person tangled up in all their cables." src="https://cdn.vox-cdn.com/thumbor/5gMxnpnKZrqXcRxXUm4jH0dt3rQ=/1x0:3874x2582/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456807/247132_CABLE_MANAGEMENT_JGibbs.0.jpg" />
+        <figcaption>Image: Jackson Gibbs for The Verge</figcaption>
+    </figure>
+
+
+  		 <p>The Verge’s favorite methods for keeping our tech in reasonable order. </p>
+  <p>
+    <a href="https://www.theverge.com/24181347/cable-management-desks-home-office-pc-laptop">Continue reading&hellip;</a>
+  </p>
+
+## X’s blue checkmarks are deceptive, rules EU
+ - [https://www.theverge.com/2024/7/12/24197028/x-blue-checkmarks-deceptive-eu-dsa-formal-warning](https://www.theverge.com/2024/7/12/24197028/x-blue-checkmarks-deceptive-eu-dsa-formal-warning)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T11:27:36+00:00
+
+<figure>
+      <img alt="Elon Musk, with a background of Twitter badges" src="https://cdn.vox-cdn.com/thumbor/gaLOUoRyX3-tudiPty3BWXyoUew=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456768/VRG_Illo_STK022_K_Radtke_Musk_Verified.0.jpg" />
+        <figcaption>Illustration by Kristen Radtke / The Verge; Photo: Getty Images</figcaption>
+    </figure>
+
+  <p id="hJlRyD">The European Union <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3761">has warned X</a> that its blue checkmark verification system violates rules under the bloc’s Digital Services Act (DSA), finding it to be deceptive for users and against established industry practices. Following <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709">its investigation</a> into the platform, the EU also found that X is failing to comply with transparency obligations regarding advertising and providing public data to researchers. </p>
+<p id="CJR7NJ">It’s the first time a com
+
+## Getting up close and personal with space junk
+ - [https://www.theverge.com/2024/7/12/24197023/astroscale-adras-j-discarded-space-junk-mission-images](https://www.theverge.com/2024/7/12/24197023/astroscale-adras-j-discarded-space-junk-mission-images)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T10:24:45+00:00
+
+<figure>
+      <img alt="A photograph of a H-2A upper stage discarded in Earth’s orbit, taken by Astroscale’s ADRAS-J spacecraft." src="https://cdn.vox-cdn.com/thumbor/zC7zGjYNCiC8LvhDxj0B75Z0fO8=/167x0:1433x844/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456702/Space_Debris_Image_Taken_from_50_Meters_by_Astroscales_ADRAS_J.0.png" />
+        <figcaption><em>These photographs of a discarded H-2A rocket upper stage were taken at a distance of just 50 meters.</em> | Image: Astroscale</figcaption>
+    </figure>
+
+  <p id="XnGqwD">We’re getting a close look at some of the space junk that’s floating in space thanks to Tokyo-based company Astroscale Japan. <a href="https://astroscale.com/astroscales-adras-j-conducts-first-fly-around-observation-of-space-debris/">New images</a> taken from a distance of just 50 meters, show the discarded upper stage of a Japanese H-2A rocket that’s currently trapped in Earth’s orbit. They were taken by Astroscale’s Active Debris Removal (ADRAS-J) sate
+
+## Microsoft’s Copilot AI now understands your terrible handwriting
+ - [https://www.theverge.com/2024/7/12/24197009/microsoft-onenote-copilot-inked-notes-handwriting-recognition](https://www.theverge.com/2024/7/12/24197009/microsoft-onenote-copilot-inked-notes-handwriting-recognition)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T09:47:25+00:00
+
+<figure>
+      <img alt="Vector illustration of the Microsoft Copilot logo." src="https://cdn.vox-cdn.com/thumbor/lc_EAFMUdUf8QR11sEh9Z1JnStQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456668/STK259_MICROSOFT_COPILOT_2__A.0.png" />
+        <figcaption>The Verge</figcaption>
+    </figure>
+
+  <p id="7BwIOB">Microsoft is preparing to enable Copilot in OneNote to read and analyze handwritten notes. The feature entered beta testing <a href="https://insider.microsoft365.com/en-us/blog/onenote-copilot-now-supports-inked-notes?ocid=usoc_TWITTER_M365_spl100005942544701">late last month</a>, and will allow OneNote users to write handwritten notes using a stylus and then summarize them, ask questions, or even generate to-do lists based on the notes.</p>
+<p id="okNvLX">The AI-powered Copilot feature in OneNote will even be able to convert your handwritten notes into text for easy editing and sharing. Microsoft first launched Copilot inside OneNote in November, and this u
+
+## Nintendo’s Zelda-themed ‘Hyrule Edition’ Switch Lite is finally up for preorder
+ - [https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda](https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2024-07-12T03:24:26+00:00
+
+<figure>
+      <img alt="A look at the front of the gold Hyrule Edition Switch Lite console." src="https://cdn.vox-cdn.com/thumbor/KIWPBzW7QxohF5LRh8eqUqneJ0I=/0x0:912x608/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73456455/nintendo_switch_lite_zelda2.0.jpg" />
+        <figcaption><em>Would you confront Ganondorf ten times over to acquire such a relic?</em> | Image: Nintendo</figcaption>
+    </figure>
+
+  <p id="LryIDE">Preorders have just opened for the <a href="https://www.theverge.com/2024/6/18/24181236/a-special-edition-hyrule-edition-switch-lite-will-be-released-alongside-zeldas-first-game">‘Hyrule Edition’ Nintendo Switch Lite</a>, which commemorates the forthcoming launch of <a href="https://www.theverge.com/24180615/legend-of-zelda-echoes-of-wisdom-trailer-nintendo-direct"><em>The Legend of Zelda: Echoes of Wisdom</em></a>. Best Buy is <a href="https://howl.me/cmEnZjZvE2J">currently accepting orders</a> for the limited edition console for $209.99 ahead of its September
+
