@@ -1,0 +1,72 @@
+# Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
+
+## Living in the past much? Security advice for US colleges warns on ancient iconic file-sharing systems — such as Kazaa and LimeWire
+ - [https://www.techradar.com/pro/living-in-the-past-much-security-advice-for-us-colleges-warns-on-ancient-iconic-file-sharing-systems-such-as-kazaa-and-limewire](https://www.techradar.com/pro/living-in-the-past-much-security-advice-for-us-colleges-warns-on-ancient-iconic-file-sharing-systems-such-as-kazaa-and-limewire)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T21:32:14+00:00
+
+Security advice for US colleges warns against using ancient file-sharing systems such as Kazaa and LimeWire.
+
+## First it was Japan — now the German navy is also stamping out floppy disks for good
+ - [https://www.techradar.com/pro/first-it-was-japan-now-the-german-navy-is-also-stamping-out-floppy-disks-for-good](https://www.techradar.com/pro/first-it-was-japan-now-the-german-navy-is-also-stamping-out-floppy-disks-for-good)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T20:30:13+00:00
+
+The German navy is updating its anti-submarine Brandenburg class F123 frigates so they won't rely on floppy disks.
+
+## The Samsung Galaxy Z Flip 6 is rumored to be getting a key upgrade that will please pro photographers
+ - [https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-z-flip-6-is-rumored-to-be-getting-a-key-upgrade-that-will-please-pro-photographers](https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-z-flip-6-is-rumored-to-be-getting-a-key-upgrade-that-will-please-pro-photographers)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T15:30:23+00:00
+
+It sounds as though Samsung's Expert RAW app will be supported on a flip foldable for the first time.
+
+## NAS PC built by little-known Chinese vendor reminds me of the uber popular HP Proliant Microserver N54L — but it is capable of so much more
+ - [https://www.techradar.com/pro/nas-pc-built-by-little-known-chinese-vendor-reminds-me-of-the-uber-popular-hp-proliant-microserver-n54l-but-it-is-capable-of-so-much-more](https://www.techradar.com/pro/nas-pc-built-by-little-known-chinese-vendor-reminds-me-of-the-uber-popular-hp-proliant-microserver-n54l-but-it-is-capable-of-so-much-more)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T12:58:59+00:00
+
+Aoostar WTR Pro is a four bay Nas PC powered by an Intel N100 processor, and there's an AMD version on the way.
+
+## The Samsung Galaxy S25 Ultra is rumored to be changing shape to be more comfortable to hold
+ - [https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s25-ultra-is-rumored-to-be-changing-shape-to-be-more-comfortable-to-hold](https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s25-ultra-is-rumored-to-be-changing-shape-to-be-more-comfortable-to-hold)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T11:30:08+00:00
+
+A reliable source says the Galaxy S25 Ultra is changing its frame design for a better fit in the hand.
+
+## Demon Slayer season 4: Release date, trailer, confirmed cast, plot synopsis, and more
+ - [https://www.techradar.com/streaming/netflix/demon-slayer-season-4](https://www.techradar.com/streaming/netflix/demon-slayer-season-4)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T09:01:40+00:00
+
+Here's everything we know about Demon Slayer season four, and the release of the dubbed English version.
+
+## ICYMI: the week's 7 biggest tech stories from Samsung Unpacked to YouTube Music's AI radio to free Prime Day games
+ - [https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-samsung-unpacked-to-youtube-musics-ai-radio-to-free-prime-day-games](https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-samsung-unpacked-to-youtube-musics-ai-radio-to-free-prime-day-games)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T07:00:13+00:00
+
+ICYMI here are the biggest tech news stories from Samsung Unpacked, Meta, CMF by Nothing, and more for July 13, 2024.
+
+## Report: Google's Pixel 9 Pro XL could be nearly the same size as the Galaxy S24 Ultra
+ - [https://www.techradar.com/phones/google-pixel-phones/report-googles-pixel-9-pro-xl-could-be-nearly-the-same-size-as-the-galaxy-s24-ultra](https://www.techradar.com/phones/google-pixel-phones/report-googles-pixel-9-pro-xl-could-be-nearly-the-same-size-as-the-galaxy-s24-ultra)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T05:00:02+00:00
+
+Prototypes of the Pixel 9 and Pixel 9 Pro XL have surfaced, revealing a notable size difference between the two models.
+
+## Samsung's Galaxy Buds 3 Pro have a hidden feature that makes controlling audio easier
+ - [https://www.techradar.com/audio/earbuds-airpods/samsungs-galaxy-buds-3-pro-have-a-hidden-feature-that-makes-it-easier-to-control-audio](https://www.techradar.com/audio/earbuds-airpods/samsungs-galaxy-buds-3-pro-have-a-hidden-feature-that-makes-it-easier-to-control-audio)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T03:30:06+00:00
+
+Voice Control lets you adjust audio without needing a wakeup word so long as you say the command correctly.
+
+## The world's first Miss AI has been crowned
+ - [https://www.techradar.com/computing/artificial-intelligence/the-worlds-first-miss-ai-has-been-crowned](https://www.techradar.com/computing/artificial-intelligence/the-worlds-first-miss-ai-has-been-crowned)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2024-07-13T02:00:19+00:00
+
+Moroccan virtual influencer Kenza Layli wins inaugural Miss AI beauty pageant
+

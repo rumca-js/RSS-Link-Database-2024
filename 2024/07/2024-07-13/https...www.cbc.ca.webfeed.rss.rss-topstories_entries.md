@@ -1,0 +1,121 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Trump whisked offstage after loud pops ring out at campaign rally
+ - [https://www.cbc.ca/news/world/trump-campaign-rally-chaos-1.7263122?cmp=rss](https://www.cbc.ca/news/world/trump-campaign-rally-chaos-1.7263122?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T18:40:42+00:00
+
+<img alt="A person with blood on their face raises a fist as they are escorted by security." height="349" src="https://i.cbc.ca/1.7263123.1720909529!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-trump.jpg" title="Republican presidential candidate former President Donald Trump is surround by U.S. Secret Service agents at a campaign rally, Saturday, July 13, 2024, in Butler, Pa. (AP Photo/Evan Vucci)" width="620" /><p>Former U.S. president Donald Trump was whisked off the stage at a rally in Butler, Pa., on Saturday after apparent gunshots rang through the crowd.</p>
+
+## Fitness guru Richard Simmons dead at 76, U.S. media outlets report
+ - [https://www.cbc.ca/news/entertainment/richard-simmons-obit-1.7263096?cmp=rss](https://www.cbc.ca/news/entertainment/richard-simmons-obit-1.7263096?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T17:48:49+00:00
+
+<img alt="A person gestures with their arms out during a performance." height="349" src="https://i.cbc.ca/1.4033362.1720905038!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/people-richard-simmons.jpg" title="June 2, 2006 - Richard Simmons speaks to the audience before the start of a summer salad fashion show. (AP Photo/Tina Fineberg, File)" width="620" /><p>Fitness guru Richard Simmons has died at the age of 76, multiple media outlets reported, including ABC News and TMZ.</p>
+
+## Traces of arsenic and lead found in tampons — but potential health impacts unclear, U.S. study says
+ - [https://www.cbc.ca/news/health/tampons-heavy-metals-study-1.7262950?cmp=rss](https://www.cbc.ca/news/health/tampons-heavy-metals-study-1.7262950?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T12:52:01+00:00
+
+<img alt="tampons in a hand" height="349" src="https://i.cbc.ca/1.6873701.1686591996!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/period-equity-project-london-tampons.jpg" title="&apos;We want to make sure that nobody is going without,&apos; says Stevie Brocksom, founder of Period Equity Project London. " width="620" /><p>A new study out of the University of California, Berkeley has found small traces of arsenic, lead and other toxic metals in multiple brands of tampons. Researchers cautioned that tampon use is only a "potential source of metal exposure," and more research is needed to assess any possible dangers</p>
+
+## Czech tennis player Barbora Krejcikova wins Wimbledon title
+ - [https://www.cbc.ca/sports/tennis/wimbledon-womens-final-july-13-1.7262977?cmp=rss](https://www.cbc.ca/sports/tennis/wimbledon-womens-final-july-13-1.7262977?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T11:14:25+00:00
+
+<img alt="A women&apos;s tennis player raises her arms and racquet in triumph." height="349" src="https://i.cbc.ca/1.7262996.1720883265!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2161888006.jpg" title="Barbora Krejcikova of Czechia celebrates winning the championship point against Jasmine Paolini of Italy during her Wimbledon women&apos;s final on Saturday in London, England." width="620" /><p>Barbora Krejcikova won the Wimbledon's women's final for her second Grand Slam title with a 6-2, 2-6, 6-4 victory over Jasmine Paolini on Saturday.</p>
+
+## Drawn to Mars, these researchers found themselves in Yukon instead
+ - [https://www.cbc.ca/news/canada/north/yukon-mars-astroscience-conference-1.7262831?cmp=rss](https://www.cbc.ca/news/canada/north/yukon-mars-astroscience-conference-1.7262831?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T10:21:57+00:00
+
+<img alt="Two men stand in the sand near a sign reading, &apos;Carcross Desert.&apos;" height="349" src="https://i.cbc.ca/1.7262848.1720831468!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/yukon-astroscience-conference.JPG" title="Attendees at the eighth international conference on Mars polar science in Whitehorse, on field trip to the Carcross desert in Yukon on July 10, 2024." width="620" /><p>The surprising similarities between Mars and the North brought around 80 astroscientists to the Yukon this week, representing universities and space agencies from all over the world. </p>
+
+## Israel targets Hamas military chief in airstrike, Gaza officials say at least 71 killed
+ - [https://www.cbc.ca/news/world/gaza-al-mawasi-airstrike-1.7262955?cmp=rss](https://www.cbc.ca/news/world/gaza-al-mawasi-airstrike-1.7262955?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T08:25:18+00:00
+
+<img alt="A woman carries a child." height="349" src="https://i.cbc.ca/1.7262959.1720871936!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2161230254.jpg" title="A Palestinian woman carries an injured child to the Nasser hospital in Khan Yunis on July 13, 2024, one of the health establishments to which casualties were rushed after an Israeli strike killed at least 71 people and injured many others at the Al-Mawasi camp for the war displaced in the south of the Palestinian territory, according to the Hamas-run health ministry. (Photo by Eyad BABA / AFP) (Photo by EYAD BABA/AFP via Getty Images)" width="620" /><p>Israel says it targeted Hamas's military commander in an airstrike that Palestinian health officials say killed at least 71 people in the southern Gaza Strip. It was unclear whether Deif was killed, the security official said.</p>
+
+## Country Foods focuses on food sovereignty in northern Manitoba
+ - [https://www.cbc.ca/news/canada/manitoba/country-foods-nelson-house-nisichawayasihk-1.7261274?cmp=rss](https://www.cbc.ca/news/canada/manitoba/country-foods-nelson-house-nisichawayasihk-1.7261274?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T06:00:00+00:00
+
+<img alt="A man with a big smile stands outside the building with a big smile." height="349" src="https://i.cbc.ca/1.7261291.1720810586!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/malcolm-hunter-july-2024.JPG" title="Malcolm Hunter, manager of the Country Foods program, stands outside the building in Nisichawayasihk Cree Nation in northern Manitoba." width="620" /><p>Launched in the early 1990s, Country Foods was started after discussions in Nisichawayasihk Cree Nation highlighted the need for food sovereignty. The mandate for the program is to gather and distribute traditional foods for people in the northern Manitoba community.</p>
+
+## Dunes at P.E.I. National Park showing signs of recovery from Fiona's wrath
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-parks-canada-dune-regrowth-1.7259385?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-parks-canada-dune-regrowth-1.7259385?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T05:00:00+00:00
+
+<img alt="Comparison of two dunes, pre and post Fiona." height="349" src="https://i.cbc.ca/1.7259512.1720631535!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pre-and-post-fiona-dunes.jpg" title="" width="620" /><p>Parks Canada says it’s seeing encouraging signs of dune regrowth in Prince Edward Island National Park — and some of the credit goes to beachgoers who stay off them.</p>
+
+## 0% financing on a new car? Deals are back — on some models
+ - [https://www.cbc.ca/radio/costofliving/car-deals-coming-back-to-dealerships-1.7257266?cmp=rss](https://www.cbc.ca/radio/costofliving/car-deals-coming-back-to-dealerships-1.7257266?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="Two rows of cars, with dozens in each row, are picture from the narrow space between the two rows." height="349" src="https://i.cbc.ca/1.7257628.1720471960!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/biz-new-car-sales-volkswagen.jpg" title="Unsold 2023 electric ID.4 sports-utility vehicles sit at a Volkswagen dealership Sunday, March 17, 2024, in Denver. (AP Photo/David Zalubowski)" width="620" /><p>Over the last few years, car deals disappeared. But industry experts say shopping for a new or used vehicle is becoming more of a buyers market.</p>
+
+## A 'hopeless' feeling: Struggling seniors face sky-high rents and few, if any, options
+ - [https://www.cbc.ca/news/canada/seniors-rent-canada-1.7257034?cmp=rss](https://www.cbc.ca/news/canada/seniors-rent-canada-1.7257034?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="People walk in front of an apartment building. " height="349" src="https://i.cbc.ca/1.7262718.1720823642!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/senior-apartment-rentals.jpg" title="People walk past apartment buildings in Toronto on July 12, 2024. " width="620" /><p>The rental crisis is dire for Canada's growing populations of seniors, many of whom say they plan to age at home but face soaring housing costs on a fixed income, often leaving them financially vulnerable.</p>
+
+## Blair defends the slow pace of Canada's defence spending, says some allies have it easier
+ - [https://www.cbc.ca/news/politics/bill-blair-nato-two-percent-defence-spending-1.7262356?cmp=rss](https://www.cbc.ca/news/politics/bill-blair-nato-two-percent-defence-spending-1.7262356?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="Minister of National Defence Bill Blair speaks with an international colleague before a meeting at the NATO Summit on Thursday, July 11, 2024 in Washington." height="349" src="https://i.cbc.ca/1.7262470.1720815928!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trudeau-nato-20240711.JPG" title="Minister of National Defence Bill Blair speaks with an international colleague before a meeting at the NATO Summit on Thursday, July 11, 2024 in Washington." width="620" /><p>Reaching NATO's defence spending benchmark isn't about showing up at your local military trade show with a credit card and buying "a whole bunch of stuff," Defence Minister Bill Blair said Friday following the conclusion of the alliance's Washington summit.</p>
+
+## Frustrated with dating apps? These experts have tips for a better swiping experience
+ - [https://www.cbc.ca/radio/thecurrent/dating-app-frustrations-tips-1.7262227?cmp=rss](https://www.cbc.ca/radio/thecurrent/dating-app-frustrations-tips-1.7262227?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="A close up shot of a phone screen, with a notification asking if the user wants to delete the app Tinder" height="349" src="https://i.cbc.ca/1.4914895.1720810140!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/775209908jr014-tinder-co-fo.jpg" title="MIAMI, FL - AUGUST 14:  In this photo illustration, the icon for the dating app Tinder is seen on the screen of an iPhone on August 14, 2018 in Miami, Florida.  The co-founders of Tinder and eight other former and current executives of the dating app are suing the service&apos;s current owners for at least $2 billion.  (Photo illustration by Joe Raedle/Getty Images)" width="620" /><p>Dating apps were once touted as a technological breakthrough in human connection, but more people are growing weary of swipe culture. Two experts offer tips on how to make the apps a more pleasant experience.</p>
+
+## Google to offer dark web monitoring for free. But your data is possibly already there — and vulnerable
+ - [https://www.cbc.ca/news/world/google-free-dark-web-monitoring-1.7262043?cmp=rss](https://www.cbc.ca/news/world/google-free-dark-web-monitoring-1.7262043?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="A composite image of a smartphone with a an icon on a black screen. The icon is a white square, with rounded edges, and the letter G in red, yellow, green and blue. Behind the phone is a dark computer monitor with multicolour text and code on the screen." height="349" src="https://i.cbc.ca/1.7262647.1720821622!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/google-dark-web-monitoring-composite-2.jpg" title="Google says it will make its dark web monitoring tool widely available for free later this month, so users can scan to see if hackers have exposed their email address and other personal information. " width="620" /><p>Your personal data, whether it’s passwords, credit card numbers and other online account information, is quite possibly available on the dark web, just waiting to be exploited — if it hasn’t been already.</p>
+
+## I'm Japanese Canadian, but will my baby who passes as white be accepted that way?
+ - [https://www.cbc.ca/news/canada/i-m-japanese-canadian-but-will-my-baby-who-passes-as-white-be-accepted-that-way-1.7260167?cmp=rss](https://www.cbc.ca/news/canada/i-m-japanese-canadian-but-will-my-baby-who-passes-as-white-be-accepted-that-way-1.7260167?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="A smiling woman kneels on a grassy patch with a smiling baby propped up on one knee." height="349" src="https://i.cbc.ca/1.7260169.1720657539!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sachi-and-midori.jpg" title="Sachi Lovatt has a Japanese mother and a white British father. As a result of her mixed heritage and physical appearance, she often feels the need to prove she’s Asian. Now that she’s a mother, she wonders how to raise a daughter who looks even less Japanese than she does. " width="620" /><p>Sachi Lovatt has a Japanese mother and a white British father. As a result of her mixed heritage and physical appearance, she often feels the need to prove she’s Asian. Now that she’s a mother, she wonders how to raise a daughter who looks even less Japanese than she does.</p>
+
+## Millions of bats have died from this disease. Now it's been found in Alberta
+ - [https://www.cbc.ca/news/canada/edmonton/millions-of-bats-died-from-this-disease-now-it-s-in-alberta-1.7262288?cmp=rss](https://www.cbc.ca/news/canada/edmonton/millions-of-bats-died-from-this-disease-now-it-s-in-alberta-1.7262288?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="Bats" height="349" src="https://i.cbc.ca/1.7262316.1720811773!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/little-brown-bats-in.jpg" title="Little brown bats roosting in a bat box. The most common building-roosting bat in Alberta is the Little Brown Myotis. This species is endangered in Canada because they&apos;re threatened by white-nose syndrome." width="620" /><p>Three little brown bats in two separate areas of southeastern Alberta have tested positive for white-nose syndrome, and there's no cure. Biologists consider white-nose syndrome one of the worst wildlife diseases in modern times in North America.</p>
+
+## This U.K. woman survived a crossbow bolt to the head. She says the weapon should be regulated like a gun
+ - [https://www.cbc.ca/news/world/crossbow-deaths-uk-restrictions-1.7261588?cmp=rss](https://www.cbc.ca/news/world/crossbow-deaths-uk-restrictions-1.7261588?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="Laura Sugden and Shane Gilmer were attacked in their UK home by a neighbour weilding a crossbow in 2018.  She survived with head injuries while Gilmer perrished." height="349" src="https://i.cbc.ca/1.7261600.1720796897!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sugden.jpg" title="Laura Sugden and Shane Gilmer were attacked in their UK home by a neighbour weilding a crossbow in 2018.  She survived with head injuries while Gilmer perrished." width="620" /><p>The British government is promising a fast decision on whether to move forward with stricter rules on crossbows after three women were killed by the domestic partner of one of them.</p>
+
+## Tick-spread illnesses are on the rise in Canada. Are surveillance, awareness efforts keeping up?
+ - [https://www.cbc.ca/news/health/tick-spread-illness-second-opinion-1.7261678?cmp=rss](https://www.cbc.ca/news/health/tick-spread-illness-second-opinion-1.7261678?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-13T04:00:00+00:00
+
+<img alt="MaryAnn Harris in hospital on a ventilator. " height="349" src="https://i.cbc.ca/1.7261729.1720793917!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/maryann-harris.jpg" title="One morning in Sept. 2021, MaryAnn Harris felt strangely tired. After new symptoms cropped up, from nausea to double vision, her husband rushed her to hospital. What followed was a three-year ordeal that led to Harris&apos; death in June 2024. The cause? A tick bite that infected the Ottawa resident with a little-known pathogen called Powassan virus, one of several emerging tick-spread illnesses that medical experts say could be striking more Canadians in the decades ahead." width="620" /><p>For years, medical experts have warned a rising number of Canadians are being exposed to ticks carrying an array of dangerous pathogens. Lyme disease is the most familiar, but concerns about anaplasmosis, babesiosis, and Powassan virus are also growing. Are surveillance and awareness efforts keeping pace?<
+
