@@ -1,0 +1,191 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## Thar girls to become skilled mining professionals
+ - [https://pakobserver.net/thar-girls-to-become-skilled-mining-professionals](https://pakobserver.net/thar-girls-to-become-skilled-mining-professionals)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T17:10:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/thar-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Thar Foundation has enrolled 13 girls in the 3-year DAE (Diploma of Associate Engineering) Mining program at Government Polytechnic Institute (GPI) &#8211; Mithi where they will be trained to become skilled mining professionals. Under this program, 50 students including 13 girls for the first time are receiving quality education in the DAE Mining. [&#8230;]
+
+## Weather update for Peshawar, Khyber Pakhtunkhwa; isolated rains expected
+ - [https://pakobserver.net/weather-update-for-peshawar-khyber-pakhtunkhwa-isolated-rains-expected](https://pakobserver.net/weather-update-for-peshawar-khyber-pakhtunkhwa-isolated-rains-expected)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T16:38:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/PES-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PESHAWAR – Isolated rains and gusty winds are expected in Peshawar and parts of Khyber Pakhtunkhwa on Sunday night and Monday. Per the Pakistan Meteorological Department (PMD), weak monsoon currents from the Arabian Sea penetrate the upper/central parts of Pakistan. A westerly wave affects the upper parts of the country. Under these weather conditions, mainly [&#8230;]
+
+## Weather outlook of Lahore, Punjab; monsoon rains, gusty winds likely
+ - [https://pakobserver.net/weather-outlook-of-lahore-punjab-monsoon-rains-gusty-winds-likely](https://pakobserver.net/weather-outlook-of-lahore-punjab-monsoon-rains-gusty-winds-likely)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T13:51:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/RainL-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Monsoon rain-wind/thunderstorms are likely in Lahore and at isolated places in Punjab on Sunday night and Monday. Per the Pakistan Meteorological Department (PMD), weak monsoon currents from the Arabian Sea penetrate the upper/central parts of Pakistan. A westerly wave affects the upper parts of the country. Under these weather conditions, monsoon rain/wind/thunderstorms are [&#8230;]
+
+## Islamabad, Rawalpindi weather update; monsoon rains, gusty winds predicted
+ - [https://pakobserver.net/islamabad-rawalpindi-weather-update-monsoon-rains-gusty-winds-predicted](https://pakobserver.net/islamabad-rawalpindi-weather-update-monsoon-rains-gusty-winds-predicted)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T13:35:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/ISD-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – Monsoon rains and gusty winds are predicted in Islamabad, Rawalpindi and at isolated places in Pakistan on Sunday night and Monday. Per the Pakistan Meteorological Department (PMD), weak monsoon currents from the Arabian Sea penetrate the upper/central parts of Pakistan. A westerly wave affects the upper parts of the country. Under these weather [&#8230;]
+
+## Illicit tea trade hazardous for economy, human health
+ - [https://pakobserver.net/illicit-tea-trade-hazardous-for-economy-human-health](https://pakobserver.net/illicit-tea-trade-hazardous-for-economy-human-health)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T11:27:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/tea-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The growing illicit tea trade is causing huge economic losses to Pakistan besides posing a serious threat to human health. Pakistan’s annual tea consumption exceeds 200,000 tons. The legal tea industry caters to 70% of the requirements while the remaining share belongs to the illicit market. Tapal Tea has the largest market share [&#8230;]
+
+## Cement dealers reject withholding tax, announce countrywide strike
+ - [https://pakobserver.net/cement-dealers-reject-withholding-tax-announce-countrywide-strike](https://pakobserver.net/cement-dealers-reject-withholding-tax-announce-countrywide-strike)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T10:47:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/07/cement-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Cement Dealers Association of Pakistan has announced a countrywide strike to protest against the increase in withholding tax for non-filers and the implementation of turnover tax on dealers, and retailers. In the fiscal year 2024-25 budget, the federal government has increased withholding tax from 1% to 2.5% for non-filers while turnover tax [&#8230;]
+
+## Donald Trump shot in right ear at election rally, shooter dead
+ - [https://pakobserver.net/donald-trump-shot-in-right-ear-at-election-rally-shooter-dead](https://pakobserver.net/donald-trump-shot-in-right-ear-at-election-rally-shooter-dead)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:43:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/trump-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />NEW YORK &#8211; Former US President Donald Trump was shot in the ear during a Saturday campaign rally. The incident caused blood streaks on his face and prompted his security agents to swarm him. Afterwards, Trump emerged, pumped his fist in the air, and appeared to mouth the words “Fight! Fight! Fight!” The Secret Service [&#8230;]
+
+## Message of French Revolution stands relevant today as ever before: Ambassador Galey
+ - [https://pakobserver.net/message-of-french-revolution-stands-relevant-today-as-ever-before-ambassador-galey-1](https://pakobserver.net/message-of-french-revolution-stands-relevant-today-as-ever-before-ambassador-galey-1)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:27:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/3-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Ambassador of France Mr Nicolas Galey, Federal Minister for Privatization Abdul Aleem Khan, Director for Asia at Foreign Ministry of France, Mr Benoit Guidee, Senator Sherry Rehman, Dean of Diplomatic Corps and Turkmen Ambassador Atadjan Movlamov, MQM leader Farooq Sattar and Mrs Camélia Galey at a reception marking the French National Day held at the [&#8230;]
+
+## Message of French Revolution stands relevant today as ever before: Ambassador Galey
+ - [https://pakobserver.net/message-of-french-revolution-stands-relevant-today-as-ever-before-ambassador-galey1](https://pakobserver.net/message-of-french-revolution-stands-relevant-today-as-ever-before-ambassador-galey1)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:27:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/2-6-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Ambassador of the US, Mr Donald Blome, Governor Sindh Kamran Khan Tessori, Chairman and Editor-in-Chief of Pakistan Observer, Mr Faisal Zahid Malik, Senator Mushahid Hussain Sayed and MQM leader Dr Farooq Sattar in a group photo at the French National Day reception. —Online &#160; Zubair Qureshi In the backdrop of aggression and conflicts in Ukraine [&#8230;]
+
+## Must ensure new IMF program is last one: PM
+ - [https://pakobserver.net/must-ensure-new-imf-program-is-last-one-pm](https://pakobserver.net/must-ensure-new-imf-program-is-last-one-pm)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:16:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/1-7-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Prime Minister Shehbaz Sharif on Saturday said that Pakistan needed to embark on a “long and difficult journey” to prevent knocking on the doors of the International Monetary Fund again. “If we want to get rid of loans, we need to consider this IMF programme as the final one,” he said. In the wee hours [&#8230;]
+
+## ‘Examination task force’ formed in Punjab
+ - [https://pakobserver.net/examination-task-force-formed-in-punjab](https://pakobserver.net/examination-task-force-formed-in-punjab)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:15:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/Maryam-Nawaz-CM-May-14-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Punjab Chief Minister Maryam Nawaz has constituted an Examination Task Force to review and improve the examination system in the province. As per details, the task force will be headed by renowned educationist Muzammil Mehmood whereas the task force will also include special secretaries of school education and higher education, the managing director of [&#8230;]
+
+## Punjab to start distribution of solar panels from Aug 14
+ - [https://pakobserver.net/punjab-to-start-distribution-of-solar-panels-from-aug-14](https://pakobserver.net/punjab-to-start-distribution-of-solar-panels-from-aug-14)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:13:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/panjab-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Punjab government has announced that it would be distributing free solar panels across the province starting on Independence Day, August 14. Punjab Chief Minister Maryam Nawaz Sharif announced on Saturday that households consuming up to 200 units of electricity per month will receive free solar panels. Consumers using between 200 and 500 units of [&#8230;]
+
+## SC verdict on reserved seats tantamount to rewriting constitution: Asif
+ - [https://pakobserver.net/sc-verdict-on-reserved-seats-tantamount-to-rewriting-constitution-asif](https://pakobserver.net/sc-verdict-on-reserved-seats-tantamount-to-rewriting-constitution-asif)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:12:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/12/khwaja-asif-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Defence Minister Khawaja Asif has said that the Supreme Court has rewritten the constitution in its verdict on reserved seats. Addressing a press conference in Sialkot on Saturday, senior PML-N leader said that legislation is the prerogative of parliament. “The responsibilities of all the institutions are very well written in the constitution. The judiciary [&#8230;]
+
+## Zubaida records statement  in NCA £190m case
+ - [https://pakobserver.net/zubaida-records-statement-in-nca-190m-case](https://pakobserver.net/zubaida-records-statement-in-nca-190m-case)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:12:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Former Pakistan Tehreek-e-Insaf Federal Minister Zubaida Jalal on Saturday recorded her statement in National Crime Agency £190 million scandal (Al-Qadir Trust Case). The former minister said in her statement that she appeared before the National Accountability Bureau investigation officer in May 2023. According to Zubaida Jalal statement, she was present in a cabinet meeting [&#8230;]
+
+## IMF’s ‘tough conditions’ hindered budget relief: Tiwana
+ - [https://pakobserver.net/imfs-tough-conditions-hindered-budget-relief-tiwana](https://pakobserver.net/imfs-tough-conditions-hindered-budget-relief-tiwana)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:11:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Federal Board of Revenue Chairman Zubair Tiwana revealed that the government had planned to provide relief in the budget 2024-25 but the efforts were hindered by the International Monetary Fund’s (IMF) ‘tough conditions’. During a meeting of the National Assembly’s Standing Committee on Finance, the FBR Chairman ZubairTowana explained that while there was a desire [&#8230;]
+
+## Voice of the People
+ - [https://pakobserver.net/voice-of-the-people-1694](https://pakobserver.net/voice-of-the-people-1694)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:04:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/op-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Articles and letters may be edited for the purposes of clarity and space. Forgotten heroes Madre Millat Fatima Jinnah’s death anniversary on 9 July passed away without coverage she deserved, for her role as sister of Quaid-e-Azam, by private TV channels. Nations that do not revere and respect their heroes, end up in a crisis [&#8230;]
+
+## Innovative solutions for floodproofing Islamabad
+ - [https://pakobserver.net/innovative-solutions-for-floodproofing-islamabad](https://pakobserver.net/innovative-solutions-for-floodproofing-islamabad)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:03:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/Soha-Nisar-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ON 9 July 2024, I attended the Urban Floods: Implications for Resilience workshop co-hosted by SDPI and the Pak-German Climate &#38; Energy Partnership in Islamabad. Major takeaways from the event entailed the grim situation of climate change susceptibility and its impact on Urban Flooding. Islamabad is in jeopardy as not only the forecasts entail that [&#8230;]
+
+## US report’s impact on India?
+ - [https://pakobserver.net/us-reports-impact-on-india](https://pakobserver.net/us-reports-impact-on-india)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T06:02:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/article-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />THE darkness has covered Muslims around the world, and with every passing day, new tactics are being tried to eradicate them. From Gaza to Occupied Kashmir and India, the brutality against Muslims by Hindus and Jews is gaining strength. Under the leadership of Narendra Modi, the butcher of Gujarat and RSS propagandist, the genocide of [&#8230;]
+
+## Afghanistan’s ethnic  division for global peace
+ - [https://pakobserver.net/afghanistans-ethnic-division-for-global-peace](https://pakobserver.net/afghanistans-ethnic-division-for-global-peace)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T05:57:53+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/article-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; AFGHANISTAN has long been viewed as a hotspot for global security concerns due to its violent history, geopolitical complexities and presence of terrorist groups. Afghanistan’s topography and political turmoil have always offered a fertile ground for terrorist groups to flourish. The steep and rough terrain, combined with permeable borders, has enabled terrorist groups to [&#8230;]
+
+## Is there any answer?
+ - [https://pakobserver.net/is-there-any-answer](https://pakobserver.net/is-there-any-answer)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T05:55:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/naveed-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The other day, while in Murree, in a detailed exclusive meeting with the PML-N Parliamentary Party leader in the Senate, Senator Irfan Siddiqui, the former three-time Prime Minister and Party Supremo, Mian Muhammad Nawaz Sharif, discussed the crucial linkages among law and order, foreign investment, the country’s development and the nation’s prosperity. During the [&#8230;]
+
+## China: The vision ahead
+ - [https://pakobserver.net/china-the-vision-ahead](https://pakobserver.net/china-the-vision-ahead)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T05:54:28+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/04/250-Brig-Tariq-Khalil-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />CHINA and Russia have reaffirmed their strategic and defense treaties. They have resolved to create a new economic order in the world and to strengthen BRICS. This is part of China’s new vision. The SCO conference held in Astana has further cemented the relationship not only between China and Russia but has also mapped a [&#8230;]
+
+## Fête nationale française — French National Day
+ - [https://pakobserver.net/fete-nationale-francaise-french-national-day](https://pakobserver.net/fete-nationale-francaise-french-national-day)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T05:53:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/04/Sultan-M-Hali-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />FRANCE is facing a political crisis following the recent elections, which failed to give a clear majority to any party. The current Prime Minister Gabriel Attal tendered his resignation after President Macron’s camp lost more than a third of its MPs but he has been asked to remain in power in a caretaker capacity to [&#8230;]
+
+## Another IMF programme
+ - [https://pakobserver.net/another-imf-programme](https://pakobserver.net/another-imf-programme)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T05:52:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; IN a major development, the Government has swiftly clinched a staff level agreement (SLA) with the International Monetary Fund (IMF) under which the cash-starved country would get about $7 billion in three years to, as Fund’s statement put it, “cement macroeconomic stability and create conditions for stronger, more inclusive and resilient growth”. This includes [&#8230;]
+
+## Successful visit of Aliyev
+ - [https://pakobserver.net/successful-visit-of-aliyev](https://pakobserver.net/successful-visit-of-aliyev)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T05:52:12+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; THE just-concluded two-day visit of President of Azerbaijan Ilham Aliyev to Pakistan proved highly successful as the two countries signed a number of agreements to diversify and forge bilateral ties and an all-round understanding and unanimity of views was observed between the leadership of the two countries on matters of mutual interest and regional/international [&#8230;]
+
+## Currency exchange rates in Pakistan today – July 14, 2024
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-july-14-2024](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-july-14-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T04:35:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI- On Sunday, July 14, 2024, the exchange rate for one US Dollar against Pakistani rupees was recorded at Rs 279 in the local and open market, with a selling rate of Rs 280.5. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are [&#8230;]
+
+## Gold rate in Pakistan today – 14 July, 2024
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-14-july-2024](https://pakobserver.net/gold-rate-in-pakistan-today-14-july-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T04:33:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI—On Sunday, July 14, 2024, the 24-karat gold rate was PKR 249,050. Similarly, the bullion market recorded the gold price for 24-karat at Rs 213,520 per 10g. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 249,050 PKR 2,550 Lahore PKR 249,050 PKR 2,550 Islamabad PKR 249,050 PKR 2,550 Peshawar PKR 249,050 PKR [&#8230;]
+
+## Donald Trump injured in apparent assassination attempt at Pennsylvania rally
+ - [https://pakobserver.net/donald-trump-injured-in-apparent-assassination-attempt-at-pennsylvania-rally](https://pakobserver.net/donald-trump-injured-in-apparent-assassination-attempt-at-pennsylvania-rally)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-07-14T04:15:45+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/v-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Former US President and Republican Party Leader Donald Trump was shot in his ear in Butler, Pennsylvania, in an attempted assassination. During the event, a shooter taking position in a building, shot Trump with a rifle, but the former president remained safe, and it resulted in one death and critical injuries to two others. Trump, [&#8230;]
+
