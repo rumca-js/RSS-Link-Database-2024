@@ -1,0 +1,324 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Ukraine defense chief says his nation will find battlefield solutions no matter who wins US election
+ - [https://www.reddit.com/r/worldnews/comments/1e5vf9o/ukraine_defense_chief_says_his_nation_will_find](https://www.reddit.com/r/worldnews/comments/1e5vf9o/ukraine_defense_chief_says_his_nation_will_find)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T22:31:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5vf9o/ukraine_defense_chief_says_his_nation_will_find/"> <img alt="Ukraine defense chief says his nation will find battlefield solutions no matter who wins US election" src="https://external-preview.redd.it/wQG4dxOzeJjaW0CIwGGV9hLOPeYtt0GK9mm1i4nHpQA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=beb8a20c4a422428acb1813befcb546c7daafc85" title="Ukraine defense chief says his nation will find battlefield solutions no matter who wins US election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jas_the_Dreamer"> /u/Jas_the_Dreamer </a> <br /> <span><a href="https://apnews.com/article/ukraine-russia-war-trump-biden-election-194ff996efae1ebd5bf6db804543e9cc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5vf9o/ukraine_defense_chief_says_his_nation_will_find/">[comments]</a></span> </td></tr></table>
+
+## US military ends Gaza floating pier mission to bring aid to Palestinians by sea
+ - [https://www.reddit.com/r/worldnews/comments/1e5txtn/us_military_ends_gaza_floating_pier_mission_to](https://www.reddit.com/r/worldnews/comments/1e5txtn/us_military_ends_gaza_floating_pier_mission_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T21:29:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5txtn/us_military_ends_gaza_floating_pier_mission_to/"> <img alt="US military ends Gaza floating pier mission to bring aid to Palestinians by sea" src="https://external-preview.redd.it/YNcmtw4vkTC6PrjEeXUUWp-0e4jP-qgJxGlOvBeF794.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76f00f9b8a4640b5611b2445e268f5f931ea8a0d" title="US military ends Gaza floating pier mission to bring aid to Palestinians by sea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AmbitionDue1421"> /u/AmbitionDue1421 </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/us-military-ends-gaza-pier-mission-2024-07-17/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5txtn/us_military_ends_gaza_floating_pier_mission_to/">[comments]</a></span> </td></tr></table>
+
+## Paris mayor swims in Seine to show how clean the water is ahead of 2024 Olympics
+ - [https://www.reddit.com/r/worldnews/comments/1e5tjxn/paris_mayor_swims_in_seine_to_show_how_clean_the](https://www.reddit.com/r/worldnews/comments/1e5tjxn/paris_mayor_swims_in_seine_to_show_how_clean_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T21:13:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5tjxn/paris_mayor_swims_in_seine_to_show_how_clean_the/"> <img alt="Paris mayor swims in Seine to show how clean the water is ahead of 2024 Olympics" src="https://external-preview.redd.it/gRyGssODZr_ZgOagm_SMbAER-O2MqlCqTxsvH9w6VNY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37e1c48e35666bcf763bb6231cad9ed58f85e3c1" title="Paris mayor swims in Seine to show how clean the water is ahead of 2024 Olympics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rich_Attitude_5129"> /u/Rich_Attitude_5129 </a> <br /> <span><a href="https://abcnews.go.com/International/paris-mayor-set-swim-seine-show-clean-water/story?id=112018515">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5tjxn/paris_mayor_swims_in_seine_to_show_how_clean_the/">[comments]</a></span> </td></tr></table>
+
+## Russia’s vast stocks of Soviet-era weaponry are running out. It may have to scale back its offensive in Ukraine.
+ - [https://www.reddit.com/r/worldnews/comments/1e5t992/russias_vast_stocks_of_sovietera_weaponry_are](https://www.reddit.com/r/worldnews/comments/1e5t992/russias_vast_stocks_of_sovietera_weaponry_are)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T21:01:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5t992/russias_vast_stocks_of_sovietera_weaponry_are/"> <img alt="Russia’s vast stocks of Soviet-era weaponry are running out. It may have to scale back its offensive in Ukraine." src="https://external-preview.redd.it/NwiA2XfQm7Q710JN-VGZj8_uiqD7tgxp5yrJfT6Pk5s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=380131c523e0929906cd6905cd7913b5534bcacd" title="Russia’s vast stocks of Soviet-era weaponry are running out. It may have to scale back its offensive in Ukraine." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chrushev"> /u/Chrushev </a> <br /> <span><a href="http://economist.com/europe/2024/07/16/russias-vast-stocks-of-soviet-era-weaponry-are-running-out">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5t992/russias_vast_stocks_of_sovietera_weaponry_are/">[comments]</a></span> </td></tr></table>
+
+## Poland has NATO's third largest military, new figures show
+ - [https://www.reddit.com/r/worldnews/comments/1e5qqm2/poland_has_natos_third_largest_military_new](https://www.reddit.com/r/worldnews/comments/1e5qqm2/poland_has_natos_third_largest_military_new)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T19:17:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Rare-Faithlessness32"> /u/Rare-Faithlessness32 </a> <br /> <span><a href="https://notesfrompoland.com/2024/07/16/poland-has-natos-third-largest-military-new-figures-show/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5qqm2/poland_has_natos_third_largest_military_new/">[comments]</a></span>
+
+## Five people infected as bird flu appears to go from cows to chickens to humans
+ - [https://www.reddit.com/r/worldnews/comments/1e5p8iz/five_people_infected_as_bird_flu_appears_to_go](https://www.reddit.com/r/worldnews/comments/1e5p8iz/five_people_infected_as_bird_flu_appears_to_go)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T18:17:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5p8iz/five_people_infected_as_bird_flu_appears_to_go/"> <img alt="Five people infected as bird flu appears to go from cows to chickens to humans" src="https://external-preview.redd.it/U0CtZ-Cjb-yCut3BmFJZLcNDRNP9gK5rr7cSFUNJuYI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05a333eb246749e2d9ca0a9d40f5cc6299201633" title="Five people infected as bird flu appears to go from cows to chickens to humans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/monmonmons"> /u/monmonmons </a> <br /> <span><a href="https://arstechnica.com/science/2024/07/five-people-infected-as-bird-flu-appears-to-go-from-cows-to-chickens-to-humans/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5p8iz/five_people_infected_as_bird_flu_appears_to_go/">[comments]</a></span> </td></tr></table>
+
+## Ex-CIA analyst charged with spying for South Korea
+ - [https://www.reddit.com/r/worldnews/comments/1e5p7gg/excia_analyst_charged_with_spying_for_south_korea](https://www.reddit.com/r/worldnews/comments/1e5p7gg/excia_analyst_charged_with_spying_for_south_korea)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T18:15:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5p7gg/excia_analyst_charged_with_spying_for_south_korea/"> <img alt="Ex-CIA analyst charged with spying for South Korea" src="https://external-preview.redd.it/fAycCgA_TaDWla5oyIv63DkQE49_X3wJwLsUaFkcApo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=34cccb09edc0561b84d7fe7d523e66b93aa4fb23" title="Ex-CIA analyst charged with spying for South Korea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vampir3Robot"> /u/Vampir3Robot </a> <br /> <span><a href="https://www.bbc.com/news/articles/cqv5qd82pjlo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5p7gg/excia_analyst_charged_with_spying_for_south_korea/">[comments]</a></span> </td></tr></table>
+
+## France has imposed a hijab ban on its Olympians, sparking outrage from human rights groups
+ - [https://www.reddit.com/r/worldnews/comments/1e5ozgb/france_has_imposed_a_hijab_ban_on_its_olympians](https://www.reddit.com/r/worldnews/comments/1e5ozgb/france_has_imposed_a_hijab_ban_on_its_olympians)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T18:06:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5ozgb/france_has_imposed_a_hijab_ban_on_its_olympians/"> <img alt="France has imposed a hijab ban on its Olympians, sparking outrage from human rights groups" src="https://external-preview.redd.it/CRByBtail80zQDeI0X2wLQ7ejU-SSR5HJDl9zd9G1bI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8cf936cc963d39c9827fa3814311b010d2096ac" title="France has imposed a hijab ban on its Olympians, sparking outrage from human rights groups" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zylstrar"> /u/zylstrar </a> <br /> <span><a href="https://womensagenda.com.au/politics/france-has-imposed-a-hijab-ban-on-its-olympians-sparking-outrage-from-human-rights-groups/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5ozgb/france_has_imposed_a_hijab_ban_on_its_olympians/">[comments]</a></span> </td></tr></table>
+
+## French security services arrest far-right extremist over suspected Paris Olympics plot
+ - [https://www.reddit.com/r/worldnews/comments/1e5msvm/french_security_services_arrest_farright](https://www.reddit.com/r/worldnews/comments/1e5msvm/french_security_services_arrest_farright)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T16:39:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5msvm/french_security_services_arrest_farright/"> <img alt="French security services arrest far-right extremist over suspected Paris Olympics plot" src="https://external-preview.redd.it/eapcvmsj0mWu3APQ64Zhj4TnL3vvn0uRy3EZaWb7yLM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=926f5c7d1ee5ff60d41d7811c0853633299e9761" title="French security services arrest far-right extremist over suspected Paris Olympics plot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br /> <span><a href="https://www.france24.com/en/france/20240717-french-security-services-arrest-far-right-extremist-suspected-paris-olympics-plot-france">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5msvm/french_security_services_arrest_farright/">[comments]</a></span> </td></tr></table>
+
+## Hamas committed war crimes in October 7 assault on Israel, Human Rights Watch says
+ - [https://www.reddit.com/r/worldnews/comments/1e5moq4/hamas_committed_war_crimes_in_october_7_assault](https://www.reddit.com/r/worldnews/comments/1e5moq4/hamas_committed_war_crimes_in_october_7_assault)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T16:34:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5moq4/hamas_committed_war_crimes_in_october_7_assault/"> <img alt="Hamas committed war crimes in October 7 assault on Israel, Human Rights Watch says" src="https://external-preview.redd.it/sYSrRABUNNS98f_UwHy7NqGuKQDlk2QWhwVYJkfWaN4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4a0feead122c68dc6b5104eb00d40e91f1d81e04" title="Hamas committed war crimes in October 7 assault on Israel, Human Rights Watch says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Free-Replacement-321"> /u/Free-Replacement-321 </a> <br /> <span><a href="https://www.ynetnews.com/article/rk4bg8soc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5moq4/hamas_committed_war_crimes_in_october_7_assault/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian troops withdraw from Krynky in Kherson Oblast
+ - [https://www.reddit.com/r/worldnews/comments/1e5lls1/ukrainian_troops_withdraw_from_krynky_in_kherson](https://www.reddit.com/r/worldnews/comments/1e5lls1/ukrainian_troops_withdraw_from_krynky_in_kherson)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T15:51:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5lls1/ukrainian_troops_withdraw_from_krynky_in_kherson/"> <img alt="Ukrainian troops withdraw from Krynky in Kherson Oblast " src="https://external-preview.redd.it/Y5l35YyZSo_weQqGe0laEwray0mMu-Mgkw8quyFDqQ8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7179d3aebec87ffca268e03425eddf48056e8465" title="Ukrainian troops withdraw from Krynky in Kherson Oblast " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Per_Sona_"> /u/Per_Sona_ </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/07/16/7466024/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5lls1/ukrainian_troops_withdraw_from_krynky_in_kherson/">[comments]</a></span> </td></tr></table>
+
+## Orbán's 'peace mission' helps only Putin, says Czech prime minister
+ - [https://www.reddit.com/r/worldnews/comments/1e5li4d/orbáns_peace_mission_helps_only_putin_says_czech](https://www.reddit.com/r/worldnews/comments/1e5li4d/orbáns_peace_mission_helps_only_putin_says_czech)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T15:46:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5li4d/orbáns_peace_mission_helps_only_putin_says_czech/"> <img alt="Orbán's 'peace mission' helps only Putin, says Czech prime minister" src="https://external-preview.redd.it/Vda-9lur1pr8y0IYZkhUBKXWqKOYtDJausElTdLuHas.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea5b2c07f5205edd9944f0e85b5880135b3f181d" title="Orbán's 'peace mission' helps only Putin, says Czech prime minister" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snappy7"> /u/Snappy7 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/jul/17/orban-peace-mission-helps-only-putin-says-czech-prime-minister-petr-fiala">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5li4d/orbáns_peace_mission_helps_only_putin_says_czech/">[comments]</a></span> </td></tr></table>
+
+## Baby ‘saved from traffickers’ was borrowed by charity for photos
+ - [https://www.reddit.com/r/worldnews/comments/1e5kuyy/baby_saved_from_traffickers_was_borrowed_by](https://www.reddit.com/r/worldnews/comments/1e5kuyy/baby_saved_from_traffickers_was_borrowed_by)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T15:20:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5kuyy/baby_saved_from_traffickers_was_borrowed_by/"> <img alt="Baby ‘saved from traffickers’ was borrowed by charity for photos" src="https://external-preview.redd.it/tJ0jbqZuxM57UsB_NXG4Ryn0rsLw2RB2tvNbAkgILwQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36976cce3e37295d3fabe1986f950574da1c3c48" title="Baby ‘saved from traffickers’ was borrowed by charity for photos" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bountystricken"> /u/Bountystricken </a> <br /> <span><a href="https://www.bbc.co.uk/news/articles/ckkgdwer3rvo.amp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5kuyy/baby_saved_from_traffickers_was_borrowed_by/">[comments]</a></span> </td></tr></table>
+
+## Trump’s choice of Vance ‘terrible news’ for Ukraine, Europe experts warn: “Trump and Vance have paid no attention to advancing democracy abroad and instead have embraced autocrats.”
+ - [https://www.reddit.com/r/worldnews/comments/1e5jvdt/trumps_choice_of_vance_terrible_news_for_ukraine](https://www.reddit.com/r/worldnews/comments/1e5jvdt/trumps_choice_of_vance_terrible_news_for_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T14:40:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5jvdt/trumps_choice_of_vance_terrible_news_for_ukraine/"> <img alt="Trump’s choice of Vance ‘terrible news’ for Ukraine, Europe experts warn: “Trump and Vance have paid no attention to advancing democracy abroad and instead have embraced autocrats.”" src="https://external-preview.redd.it/MwLL7RKTlicW07BSnOIjRqlUBm8QldN8ftCTjehlWyg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e3376d5adca32da750ced6d5537099c14ea59d5" title="Trump’s choice of Vance ‘terrible news’ for Ukraine, Europe experts warn: “Trump and Vance have paid no attention to advancing democracy abroad and instead have embraced autocrats.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/willywalloo"> /u/willywalloo </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/jul/17/trump-jd-vance-vp-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5jvdt/tru
+
+## 'Racist ignorance': Brits clap back after Trump VP pick JD Vance calls UK a 'truly Islamist country'
+ - [https://www.reddit.com/r/worldnews/comments/1e5jr6d/racist_ignorance_brits_clap_back_after_trump_vp](https://www.reddit.com/r/worldnews/comments/1e5jr6d/racist_ignorance_brits_clap_back_after_trump_vp)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T14:35:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5jr6d/racist_ignorance_brits_clap_back_after_trump_vp/"> <img alt="'Racist ignorance': Brits clap back after Trump VP pick JD Vance calls UK a 'truly Islamist country'" src="https://external-preview.redd.it/POTdcc52p4cbnNB-h9a-CLu7axGRhPp5FwlJX2eure8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce1dfb8b6ac66939cecfeada80e5df9a0a095e92" title="'Racist ignorance': Brits clap back after Trump VP pick JD Vance calls UK a 'truly Islamist country'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ewzetf"> /u/ewzetf </a> <br /> <span><a href="https://www.theweek.in/news/world/2024/07/17/racist-ignorance-brits-clap-back-after-trump-vp-pick-jd-vance-calls-uk-a-truly-islamist-country.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5jr6d/racist_ignorance_brits_clap_back_after_trump_vp/">[comments]</a></span> </td></tr></table>
+
+## China is on track to reach its clean energy targets this month… six years ahead of schedule
+ - [https://www.reddit.com/r/worldnews/comments/1e5jmi1/china_is_on_track_to_reach_its_clean_energy](https://www.reddit.com/r/worldnews/comments/1e5jmi1/china_is_on_track_to_reach_its_clean_energy)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T14:30:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5jmi1/china_is_on_track_to_reach_its_clean_energy/"> <img alt="China is on track to reach its clean energy targets this month… six years ahead of schedule" src="https://external-preview.redd.it/T2bFdg_xJHlEolkNRnsE8Zh488QydyMAAWXW9zQ4cCc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d38abd572d16d242562eae50468e33a3a8b535aa" title="China is on track to reach its clean energy targets this month… six years ahead of schedule" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlitzOrion"> /u/BlitzOrion </a> <br /> <span><a href="https://electrek.co/2024/07/16/china-on-track-to-reach-clean-energy-targets-six-years-ahead-of-schedule/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5jmi1/china_is_on_track_to_reach_its_clean_energy/">[comments]</a></span> </td></tr></table>
+
+## Mysterious drones keep watch as Ukrainians train in Germany
+ - [https://www.reddit.com/r/worldnews/comments/1e5jmh3/mysterious_drones_keep_watch_as_ukrainians_train](https://www.reddit.com/r/worldnews/comments/1e5jmh3/mysterious_drones_keep_watch_as_ukrainians_train)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T14:30:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5jmh3/mysterious_drones_keep_watch_as_ukrainians_train/"> <img alt="Mysterious drones keep watch as Ukrainians train in Germany" src="https://external-preview.redd.it/hF1z0S1FmdU5fCL6tNZNt-sH3g-Lue-Egd9ud_M6Wtg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43f0f9f7ec7217fe3894cc096cf50d2f2d21fcf7" title="Mysterious drones keep watch as Ukrainians train in Germany" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DET_SWAT"> /u/DET_SWAT </a> <br /> <span><a href="https://www.politico.eu/article/drones-ukrainian-troops-german-military-training-eu-military-assistance-mission/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5jmh3/mysterious_drones_keep_watch_as_ukrainians_train/">[comments]</a></span> </td></tr></table>
+
+## Ukraine's sanctions on Russia's Lukoil halting oil deliveries to Hungary, Budapest says
+ - [https://www.reddit.com/r/worldnews/comments/1e5j7mn/ukraines_sanctions_on_russias_lukoil_halting_oil](https://www.reddit.com/r/worldnews/comments/1e5j7mn/ukraines_sanctions_on_russias_lukoil_halting_oil)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T14:12:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5j7mn/ukraines_sanctions_on_russias_lukoil_halting_oil/"> <img alt="Ukraine's sanctions on Russia's Lukoil halting oil deliveries to Hungary, Budapest says" src="https://external-preview.redd.it/17ao_bL9vS78kw585Pe_Yz5VsyiclDckrMWrv4JmTmo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e140078a4ffc8143788890977b8f5364c3af1d0" title="Ukraine's sanctions on Russia's Lukoil halting oil deliveries to Hungary, Budapest says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_Sleep_4"> /u/Apprehensive_Sleep_4 </a> <br /> <span><a href="https://kyivindependent.com/lukoil-hungary-sanctions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5j7mn/ukraines_sanctions_on_russias_lukoil_halting_oil/">[comments]</a></span> </td></tr></table>
+
+## Germany to halve military aid for Ukraine despite possible Trump White House
+ - [https://www.reddit.com/r/worldnews/comments/1e5j1ev/germany_to_halve_military_aid_for_ukraine_despite](https://www.reddit.com/r/worldnews/comments/1e5j1ev/germany_to_halve_military_aid_for_ukraine_despite)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T14:05:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5j1ev/germany_to_halve_military_aid_for_ukraine_despite/"> <img alt="Germany to halve military aid for Ukraine despite possible Trump White House" src="https://external-preview.redd.it/IE6hBr8bnKZehS2JVRTCtTjT0f0seE_c98C08CnCG_o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5178fdf6b74462223b627f428ac417f7fba195c8" title="Germany to halve military aid for Ukraine despite possible Trump White House" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nikola28"> /u/nikola28 </a> <br /> <span><a href="https://www.reuters.com/world/europe/germany-halve-military-aid-ukraine-despite-possible-trump-white-house-2024-07-17/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5j1ev/germany_to_halve_military_aid_for_ukraine_despite/">[comments]</a></span> </td></tr></table>
+
+## Relatives of those killed when MH17 was shot down mark 10 years since tragedy that claimed 298 lives
+ - [https://www.reddit.com/r/worldnews/comments/1e5ixh6/relatives_of_those_killed_when_mh17_was_shot_down](https://www.reddit.com/r/worldnews/comments/1e5ixh6/relatives_of_those_killed_when_mh17_was_shot_down)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T14:00:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5ixh6/relatives_of_those_killed_when_mh17_was_shot_down/"> <img alt="Relatives of those killed when MH17 was shot down mark 10 years since tragedy that claimed 298 lives" src="https://external-preview.redd.it/Ec0GVrcld3TMYMaMkl1qk0hVYj3cjngcK4o6fd21P_Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56981741ed99b4ee0085b78af98185e49830980a" title="Relatives of those killed when MH17 was shot down mark 10 years since tragedy that claimed 298 lives" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cyberanakinvader"> /u/cyberanakinvader </a> <br /> <span><a href="https://apnews.com/article/mh17-malaysia-airlines-anniversary-russia-ukraine-australia-netherlands-020574037fc9349c377f04e9581e03a0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5ixh6/relatives_of_those_killed_when_mh17_was_shot_down/">[comments]</a></span> </td></tr></table>
+
+## ‘After the Games, we will have a swimming pool in the river’: Paris mayor takes dip in Seine amid E. coli bacteria concerns
+ - [https://www.reddit.com/r/worldnews/comments/1e5ijde/after_the_games_we_will_have_a_swimming_pool_in](https://www.reddit.com/r/worldnews/comments/1e5ijde/after_the_games_we_will_have_a_swimming_pool_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T13:43:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5ijde/after_the_games_we_will_have_a_swimming_pool_in/"> <img alt="‘After the Games, we will have a swimming pool in the river’: Paris mayor takes dip in Seine amid E. coli bacteria concerns" src="https://external-preview.redd.it/KL7tzWAzvlg1_JH7pDoIf2KB4QevYE9GNfx8FhJvcF8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5f1e60190cabaa2a2c319979eef38838810a20b" title="‘After the Games, we will have a swimming pool in the river’: Paris mayor takes dip in Seine amid E. coli bacteria concerns" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gyro_Armadillo"> /u/Gyro_Armadillo </a> <br /> <span><a href="https://www.cnn.com/2024/07/17/sport/paris-mayor-swims-river-seine-olympic-pollution-intl-spt/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5ijde/after_the_games_we_will_have_a_swimming_pool_in/">[comments]</a></span> </td></tr></table>
+
+## [World] - Israel says half of Hamas military leadership killed since Oct. 7 | Washington Post
+ - [https://www.reddit.com/r/worldnews/comments/1e5hj68/world_israel_says_half_of_hamas_military](https://www.reddit.com/r/worldnews/comments/1e5hj68/world_israel_says_half_of_hamas_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T12:57:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5hj68/world_israel_says_half_of_hamas_military/"> <img alt="[World] - Israel says half of Hamas military leadership killed since Oct. 7 | Washington Post" src="https://b.thumbs.redditmedia.com/36ZD6-q_sBZwH6d2498dQ6fIWABB5biCgLS8bAUUxdI.jpg" title="[World] - Israel says half of Hamas military leadership killed since Oct. 7 | Washington Post" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shion005"> /u/shion005 </a> <br /> <span><a href="https://www.washingtonpost.com/world/2024/07/16/israel-hamas-leadership/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5hj68/world_israel_says_half_of_hamas_military/">[comments]</a></span> </td></tr></table>
+
+## Russian firm offers $170,000 bounty for destruction of first F-16 in Ukraine - Euromaidan Press
+ - [https://www.reddit.com/r/worldnews/comments/1e5gtik/russian_firm_offers_170000_bounty_for_destruction](https://www.reddit.com/r/worldnews/comments/1e5gtik/russian_firm_offers_170000_bounty_for_destruction)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T12:21:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5gtik/russian_firm_offers_170000_bounty_for_destruction/"> <img alt="Russian firm offers $170,000 bounty for destruction of first F-16 in Ukraine - Euromaidan Press" src="https://external-preview.redd.it/THyZUBtxFBPP29TXghP8tezvS49GUTV9NYePMC_hAW8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8714883a2582c326b3fd725ac818c7572dae285a" title="Russian firm offers $170,000 bounty for destruction of first F-16 in Ukraine - Euromaidan Press" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://euromaidanpress.com/2024/07/16/russian-firm-offers-170000-bounty-for-destruction-of-first-f-16s-in-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5gtik/russian_firm_offers_170000_bounty_for_destruction/">[comments]</a></span> </td></tr></table>
+
+## German sentenced for selling electronics to Russia for military use
+ - [https://www.reddit.com/r/worldnews/comments/1e5g9gx/german_sentenced_for_selling_electronics_to](https://www.reddit.com/r/worldnews/comments/1e5g9gx/german_sentenced_for_selling_electronics_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T11:52:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5g9gx/german_sentenced_for_selling_electronics_to/"> <img alt="German sentenced for selling electronics to Russia for military use" src="https://external-preview.redd.it/h_Nnf9fKzdg7MyMn9ApmKB4v6s8hq9j9QBziAUVAhb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b4b926898ed47e5e832947f065299c2933289a8" title="German sentenced for selling electronics to Russia for military use" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sauceysophie"> /u/Sauceysophie </a> <br /> <span><a href="https://www.reuters.com/world/europe/german-sentenced-selling-electronics-russia-military-use-2024-07-17/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5g9gx/german_sentenced_for_selling_electronics_to/">[comments]</a></span> </td></tr></table>
+
+## New research shows reducing screen time drastically improves your child's mental wellbeing in just 2 weeks
+ - [https://www.reddit.com/r/worldnews/comments/1e5fud7/new_research_shows_reducing_screen_time](https://www.reddit.com/r/worldnews/comments/1e5fud7/new_research_shows_reducing_screen_time)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T11:29:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5fud7/new_research_shows_reducing_screen_time/"> <img alt="New research shows reducing screen time drastically improves your child's mental wellbeing in just 2 weeks" src="https://external-preview.redd.it/q0AYBQTPNX32o3hSTaUJZ7vWwbSwgDHWLK704sZs7eA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd67c408fd2933e490435d8d8144859959475e5e" title="New research shows reducing screen time drastically improves your child's mental wellbeing in just 2 weeks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic_Ad_4476"> /u/Ecstatic_Ad_4476 </a> <br /> <span><a href="https://www.hindustantimes.com/lifestyle/health/new-research-shows-reducing-screen-time-drastically-improves-your-childs-mental-wellbeing-in-just-2-weeks-101721104898878.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5fud7/new_research_shows_reducing_screen_time/">[comments]</a></s
+
+## Six people found dead in Bangkok hotel drank cyanide from teacups, police say
+ - [https://www.reddit.com/r/worldnews/comments/1e5fs4i/six_people_found_dead_in_bangkok_hotel_drank](https://www.reddit.com/r/worldnews/comments/1e5fs4i/six_people_found_dead_in_bangkok_hotel_drank)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T11:25:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5fs4i/six_people_found_dead_in_bangkok_hotel_drank/"> <img alt="Six people found dead in Bangkok hotel drank cyanide from teacups, police say" src="https://external-preview.redd.it/hKxnylPKIV6UvV937iZM16J3K_Z6TGuZBjFEIG94S20.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d3edfd1dc662ba36cb53b6053b32a09f86dfbfc" title="Six people found dead in Bangkok hotel drank cyanide from teacups, police say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theipaper"> /u/theipaper </a> <br /> <span><a href="https://inews.co.uk/news/world/dead-bangkok-hotel-cyanide-teacups-3174494">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5fs4i/six_people_found_dead_in_bangkok_hotel_drank/">[comments]</a></span> </td></tr></table>
+
+## Greece to transfer 32 decommissioned F-16s to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1e5fl3b/greece_to_transfer_32_decommissioned_f16s_to](https://www.reddit.com/r/worldnews/comments/1e5fl3b/greece_to_transfer_32_decommissioned_f16s_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T11:14:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5fl3b/greece_to_transfer_32_decommissioned_f16s_to/"> <img alt="Greece to transfer 32 decommissioned F-16s to Ukraine" src="https://external-preview.redd.it/OuZcyeMQjyPWErWnMtvnY5tO0SLXmXyboPdr9Gf-5w4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9ac6fe37fac17cef4a1aaaa2d6af21ca5b3b6dd" title="Greece to transfer 32 decommissioned F-16s to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/new974517"> /u/new974517 </a> <br /> <span><a href="https://euromaidanpress.com/2024/07/17/greece-to-transfer-32-decommissioned-f-16s-to-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5fl3b/greece_to_transfer_32_decommissioned_f16s_to/">[comments]</a></span> </td></tr></table>
+
+## At least 25 dead in Peru crash as bus plunges 600 feet into the Andes
+ - [https://www.reddit.com/r/worldnews/comments/1e5f9pe/at_least_25_dead_in_peru_crash_as_bus_plunges_600](https://www.reddit.com/r/worldnews/comments/1e5f9pe/at_least_25_dead_in_peru_crash_as_bus_plunges_600)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T10:55:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5f9pe/at_least_25_dead_in_peru_crash_as_bus_plunges_600/"> <img alt="At least 25 dead in Peru crash as bus plunges 600 feet into the Andes" src="https://external-preview.redd.it/Txpz8_T1LpFA6Es5BGyeMYw1pASeLdKms4yJyAl_Lps.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=687e976673c6f84d75862029466d52df9134b6aa" title="At least 25 dead in Peru crash as bus plunges 600 feet into the Andes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Most-Delivery-4487"> /u/Most-Delivery-4487 </a> <br /> <span><a href="https://www.nbcnews.com/news/world/least-25-dead-peru-bus-plunges-600-feet-andes-crash-rcna162256">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5f9pe/at_least_25_dead_in_peru_crash_as_bus_plunges_600/">[comments]</a></span> </td></tr></table>
+
+## Russian combat drone explodes in Belarus
+ - [https://www.reddit.com/r/worldnews/comments/1e5ex3y/russian_combat_drone_explodes_in_belarus](https://www.reddit.com/r/worldnews/comments/1e5ex3y/russian_combat_drone_explodes_in_belarus)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T10:34:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5ex3y/russian_combat_drone_explodes_in_belarus/"> <img alt="Russian combat drone explodes in Belarus" src="https://external-preview.redd.it/Wrhl7SagJtJWPcD965BlgQGHXalV-hV6dVWobVDJGI4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1dcf97850180b7ac3f268eae86449eee8d73b66" title="Russian combat drone explodes in Belarus" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duckanroll"> /u/duckanroll </a> <br /> <span><a href="https://novayagazeta.eu/articles/2024/07/17/russian-combat-drone-explodes-in-belarus-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5ex3y/russian_combat_drone_explodes_in_belarus/">[comments]</a></span> </td></tr></table>
+
+## Cyanide found in teacups shared by six found dead in Bangkok hotel | Thailand
+ - [https://www.reddit.com/r/worldnews/comments/1e5eepp/cyanide_found_in_teacups_shared_by_six_found_dead](https://www.reddit.com/r/worldnews/comments/1e5eepp/cyanide_found_in_teacups_shared_by_six_found_dead)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T10:01:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5eepp/cyanide_found_in_teacups_shared_by_six_found_dead/"> <img alt="Cyanide found in teacups shared by six found dead in Bangkok hotel | Thailand" src="https://external-preview.redd.it/8MJ9H-j7ptv-ulIjeJ5ngddwRYw13hIOaYeN2MVD_Ls.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8217a05a383149942a3ac57a1149c7b3ad39632e" title="Cyanide found in teacups shared by six found dead in Bangkok hotel | Thailand" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TruckEducational4079"> /u/TruckEducational4079 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/jul/17/cyanide-cups-teacups-dead-bangkok-grand-hyatt-erawan-hotel-thailand">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5eepp/cyanide_found_in_teacups_shared_by_six_found_dead/">[comments]</a></span> </td></tr></table>
+
+## Global rights group finds Hamas-led militants committed war crimes on Oct. 7
+ - [https://www.reddit.com/r/worldnews/comments/1e5ecqt/global_rights_group_finds_hamasled_militants](https://www.reddit.com/r/worldnews/comments/1e5ecqt/global_rights_group_finds_hamasled_militants)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T09:58:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5ecqt/global_rights_group_finds_hamasled_militants/"> <img alt="Global rights group finds Hamas-led militants committed war crimes on Oct. 7" src="https://external-preview.redd.it/-abdxa3ti6VLyJepCgsICdSfM398jvXI3kvolWVMlVI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=03209e0a58af2b7806f609d9638a24188d254c40" title="Global rights group finds Hamas-led militants committed war crimes on Oct. 7" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lucwul"> /u/lucwul </a> <br /> <span><a href="https://apnews.com/article/israel-palestinians-human-rights-watch-war-crimes-567044302774ae10c18ff7e68ae57025?utm_source=reddit&amp;utm_medium=share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5ecqt/global_rights_group_finds_hamasled_militants/">[comments]</a></span> </td></tr></table>
+
+## Ex-CIA analyst Sue Mi Terry charged with spying for South Korea in exchange for luxury handbags | World News
+ - [https://www.reddit.com/r/worldnews/comments/1e5dyyy/excia_analyst_sue_mi_terry_charged_with_spying](https://www.reddit.com/r/worldnews/comments/1e5dyyy/excia_analyst_sue_mi_terry_charged_with_spying)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T09:33:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5dyyy/excia_analyst_sue_mi_terry_charged_with_spying/"> <img alt="Ex-CIA analyst Sue Mi Terry charged with spying for South Korea in exchange for luxury handbags | World News" src="https://external-preview.redd.it/lyLw4Jmm25N64LddPdaQ6k5EqDvf1fZRYfutiZZsnQY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=02806f6df6ad2f3685197a1ce64e71937637f445" title="Ex-CIA analyst Sue Mi Terry charged with spying for South Korea in exchange for luxury handbags | World News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/guyoffthegrid"> /u/guyoffthegrid </a> <br /> <span><a href="https://news.sky.com/story/ex-cia-analyst-sue-mi-terry-charged-with-spying-for-south-korea-in-exchange-for-luxury-handbags-13179265">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5dyyy/excia_analyst_sue_mi_terry_charged_with_spying/">[comments]</a></span> </td></tr></table>
+
+## CIA analyst accused of working as South Korea agent in exchange for Louis Vuitton bags
+ - [https://www.reddit.com/r/worldnews/comments/1e5dp6k/cia_analyst_accused_of_working_as_south_korea](https://www.reddit.com/r/worldnews/comments/1e5dp6k/cia_analyst_accused_of_working_as_south_korea)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T09:15:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5dp6k/cia_analyst_accused_of_working_as_south_korea/"> <img alt="CIA analyst accused of working as South Korea agent in exchange for Louis Vuitton bags" src="https://external-preview.redd.it/bVxrQq5hT5yMS6qq2Z04Otxm7e5IAHY82wlQkt_0S9M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca9aa761714290b4bff8d5845780a693d5a69649" title="CIA analyst accused of working as South Korea agent in exchange for Louis Vuitton bags" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/us/news/2024/07/17/cia-agent-sue-mi-terry-south-korea-louis-vutton-handbag/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5dp6k/cia_analyst_accused_of_working_as_south_korea/">[comments]</a></span> </td></tr></table>
+
+## JD Vance pick adds to European fears over Trump presidency
+ - [https://www.reddit.com/r/worldnews/comments/1e5cyo7/jd_vance_pick_adds_to_european_fears_over_trump](https://www.reddit.com/r/worldnews/comments/1e5cyo7/jd_vance_pick_adds_to_european_fears_over_trump)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T08:24:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5cyo7/jd_vance_pick_adds_to_european_fears_over_trump/"> <img alt="JD Vance pick adds to European fears over Trump presidency" src="https://external-preview.redd.it/0i187V3mrYsboKpopcDKp9iDNolYXVx0sGzWUNwcnnc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a929c9720e5f0a1809a47b88b5fc9be16e3ff1c1" title="JD Vance pick adds to European fears over Trump presidency" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scarlet-Ivy"> /u/Scarlet-Ivy </a> <br /> <span><a href="https://www.bbc.com/news/articles/c727zvgvv8ko">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5cyo7/jd_vance_pick_adds_to_european_fears_over_trump/">[comments]</a></span> </td></tr></table>
+
+## Over half of Hamas' military operatives still alive, IDF report estimates
+ - [https://www.reddit.com/r/worldnews/comments/1e5catv/over_half_of_hamas_military_operatives_still](https://www.reddit.com/r/worldnews/comments/1e5catv/over_half_of_hamas_military_operatives_still)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T07:38:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5catv/over_half_of_hamas_military_operatives_still/"> <img alt="Over half of Hamas' military operatives still alive, IDF report estimates" src="https://external-preview.redd.it/4oDlY54gyAZDMfowG3p4khxBQEWBsAGSMIwtyvw0tVg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9db662b07c8daf9dc774c7cdde1c0395326164ce" title="Over half of Hamas' military operatives still alive, IDF report estimates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Currymvp2"> /u/Currymvp2 </a> <br /> <span><a href="https://www.ynetnews.com/article/rygtnhvur">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5catv/over_half_of_hamas_military_operatives_still/">[comments]</a></span> </td></tr></table>
+
+## Hamas launched 'systematic' attack on civillians on Oct 7, report finds
+ - [https://www.reddit.com/r/worldnews/comments/1e5c9or/hamas_launched_systematic_attack_on_civillians_on](https://www.reddit.com/r/worldnews/comments/1e5c9or/hamas_launched_systematic_attack_on_civillians_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T07:36:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e5c9or/hamas_launched_systematic_attack_on_civillians_on/"> <img alt="Hamas launched 'systematic' attack on civillians on Oct 7, report finds" src="https://external-preview.redd.it/5c0vt6Mqb1VM7V3rdSUm8NPkG3DhELWUgqP1o7F6YX8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3148ee6bbcbfe912caa867831fa83f10565399aa" title="Hamas launched 'systematic' attack on civillians on Oct 7, report finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Currymvp2"> /u/Currymvp2 </a> <br /> <span><a href="https://www.washingtonpost.com/world/2024/07/17/hamas-attack-human-rights-watch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5c9or/hamas_launched_systematic_attack_on_civillians_on/">[comments]</a></span> </td></tr></table>
+
+## Man sets himself on fire at central Japan city hall; 3 staff injured
+ - [https://www.reddit.com/r/worldnews/comments/1e5b0b6/man_sets_himself_on_fire_at_central_japan_city](https://www.reddit.com/r/worldnews/comments/1e5b0b6/man_sets_himself_on_fire_at_central_japan_city)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T06:12:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/glasier"> /u/glasier </a> <br /> <span><a href="https://japantoday.com/category/crime/update1-man-sets-himself-on-fire-at-central-japan-city-hall-3-staff-injured">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e5b0b6/man_sets_himself_on_fire_at_central_japan_city/">[comments]</a></span>
+
+## Boris Johnson meets Donald Trump to talk Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1e59z05/boris_johnson_meets_donald_trump_to_talk_ukraine](https://www.reddit.com/r/worldnews/comments/1e59z05/boris_johnson_meets_donald_trump_to_talk_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T05:09:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e59z05/boris_johnson_meets_donald_trump_to_talk_ukraine/"> <img alt="Boris Johnson meets Donald Trump to talk Ukraine" src="https://external-preview.redd.it/w8BoM7NegEW3bQ00oSIwLOvkOiaVBceZtRuasKAhq94.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1e552e886086864a9b8441a8d6fe075628fb3b4" title="Boris Johnson meets Donald Trump to talk Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_Sleep_4"> /u/Apprehensive_Sleep_4 </a> <br /> <span><a href="https://news.sky.com/story/boris-johnson-meets-donald-trump-to-talk-ukraine-13179096?dcmp=snt-sf-twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e59z05/boris_johnson_meets_donald_trump_to_talk_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Paraguay finds 4 tons of cocaine in Belgium sugar shipment
+ - [https://www.reddit.com/r/worldnews/comments/1e59w31/paraguay_finds_4_tons_of_cocaine_in_belgium_sugar](https://www.reddit.com/r/worldnews/comments/1e59w31/paraguay_finds_4_tons_of_cocaine_in_belgium_sugar)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T05:04:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e59w31/paraguay_finds_4_tons_of_cocaine_in_belgium_sugar/"> <img alt="Paraguay finds 4 tons of cocaine in Belgium sugar shipment" src="https://external-preview.redd.it/bBbvhbrdbea-kg5hIZ-7-6tYTufIX0UGhBQUay-w3tk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc86c4652642b3dd7df24498f856c8775d413f71" title="Paraguay finds 4 tons of cocaine in Belgium sugar shipment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br /> <span><a href="https://www.dw.com/en/paraguay-finds-4-tons-of-cocaine-in-belgium-sugar-shipment/a-69684698">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e59w31/paraguay_finds_4_tons_of_cocaine_in_belgium_sugar/">[comments]</a></span> </td></tr></table>
+
+## Japan arranging to shoulder $3.3 billion in G7 loans for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1e59ds8/japan_arranging_to_shoulder_33_billion_in_g7](https://www.reddit.com/r/worldnews/comments/1e59ds8/japan_arranging_to_shoulder_33_billion_in_g7)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T04:34:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e59ds8/japan_arranging_to_shoulder_33_billion_in_g7/"> <img alt="Japan arranging to shoulder $3.3 billion in G7 loans for Ukraine" src="https://external-preview.redd.it/mjLh4a0qNxlf7gbimpuR0dpM0tYdCWCCJrprT82Iqbg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=435e7027700870dc53bc3a6e0a2c326d3dc02caf" title="Japan arranging to shoulder $3.3 billion in G7 loans for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://english.kyodonews.net/news/2024/07/c7a8b0c56927-japan-arranging-to-shoulder-33-billion-in-g7-loans-for-ukraine.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e59ds8/japan_arranging_to_shoulder_33_billion_in_g7/">[comments]</a></span> </td></tr></table>
+
+## China is installing the wind and solar equivalent of five large nuclear power stations per week
+ - [https://www.reddit.com/r/worldnews/comments/1e595co/china_is_installing_the_wind_and_solar_equivalent](https://www.reddit.com/r/worldnews/comments/1e595co/china_is_installing_the_wind_and_solar_equivalent)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T04:21:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e595co/china_is_installing_the_wind_and_solar_equivalent/"> <img alt="China is installing the wind and solar equivalent of five large nuclear power stations per week " src="https://external-preview.redd.it/mO4UNVgRoksvL32qEkxR4svmT_k1SHTpbWmQ_VKgLO8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa0eb748868fa648ff71c7b0a76c16a1b829c4d2" title="China is installing the wind and solar equivalent of five large nuclear power stations per week " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BatteryPark385"> /u/BatteryPark385 </a> <br /> <span><a href="https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e595co/china_is_installing_the_wind_and_solar_equivalent/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 874, Part 1 (Thread #1021)
+ - [https://www.reddit.com/r/worldnews/comments/1e58sw4/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1e58sw4/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T04:02:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e58sw4/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 874, Part 1 (Thread #1021)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 874, Part 1 (Thread #1021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e58sw4/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## IDF increasingly certain Deif died in strike, says Hamas fighters in ‘survival mode’
+ - [https://www.reddit.com/r/worldnews/comments/1e58rgv/idf_increasingly_certain_deif_died_in_strike_says](https://www.reddit.com/r/worldnews/comments/1e58rgv/idf_increasingly_certain_deif_died_in_strike_says)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T04:00:40+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/4daFlex"> /u/4daFlex </a> <br /> <span><a href="https://www.timesofisrael.com/idf-increasingly-certain-deif-died-in-strike-says-hamas-fighters-in-survival-mode/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e58rgv/idf_increasingly_certain_deif_died_in_strike_says/">[comments]</a></span>
+
+## Rare Sudden Stratospheric Warming event detected over Antarctica
+ - [https://www.reddit.com/r/worldnews/comments/1e57p5n/rare_sudden_stratospheric_warming_event_detected](https://www.reddit.com/r/worldnews/comments/1e57p5n/rare_sudden_stratospheric_warming_event_detected)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T03:03:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e57p5n/rare_sudden_stratospheric_warming_event_detected/"> <img alt="Rare Sudden Stratospheric Warming event detected over Antarctica" src="https://external-preview.redd.it/SoLr_Sm4Xm7gQaJrRuaxxIcEvd1pWNUvnwcOTkEnc4c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=170e96308bc4138005c1e4151284edf6a7b84267" title="Rare Sudden Stratospheric Warming event detected over Antarctica" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Portalrules123"> /u/Portalrules123 </a> <br /> <span><a href="https://watchers.news/2024/07/15/rare-sudden-stratospheric-warming-event-detected-over-antarctica/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e57p5n/rare_sudden_stratospheric_warming_event_detected/">[comments]</a></span> </td></tr></table>
+
+## South Korea to mass produce lasers that can take out drones at $1.50 a hit
+ - [https://www.reddit.com/r/worldnews/comments/1e57o8p/south_korea_to_mass_produce_lasers_that_can_take](https://www.reddit.com/r/worldnews/comments/1e57o8p/south_korea_to_mass_produce_lasers_that_can_take)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T03:01:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e57o8p/south_korea_to_mass_produce_lasers_that_can_take/"> <img alt="South Korea to mass produce lasers that can take out drones at $1.50 a hit" src="https://external-preview.redd.it/yMoFoTjivfGFjCwZC77XX6WL6hXVtiNXRw7kpYyP9uI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=905bca2fa0eff0aaadf6bdd0e9a15e18195e2e05" title="South Korea to mass produce lasers that can take out drones at $1.50 a hit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/balhaegu"> /u/balhaegu </a> <br /> <span><a href="https://edition.cnn.com/2024/07/11/asia/south-korea-antidrone-lasers-intl-hnk-ml/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e57o8p/south_korea_to_mass_produce_lasers_that_can_take/">[comments]</a></span> </td></tr></table>
+
+## Menendez convicted of accepting bribes from Egypt, Qatar
+ - [https://www.reddit.com/r/worldnews/comments/1e579x0/menendez_convicted_of_accepting_bribes_from_egypt](https://www.reddit.com/r/worldnews/comments/1e579x0/menendez_convicted_of_accepting_bribes_from_egypt)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-07-17T02:41:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1e579x0/menendez_convicted_of_accepting_bribes_from_egypt/"> <img alt="Menendez convicted of accepting bribes from Egypt, Qatar" src="https://external-preview.redd.it/UFOBhcRPWUQ7C_QAnFlm9DTAekve7SCWyNDXb35zXao.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a44c015297a42de8358bf0211d6d87777b2d9b05" title="Menendez convicted of accepting bribes from Egypt, Qatar" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/One-Turnover9984"> /u/One-Turnover9984 </a> <br /> <span><a href="https://www.jns.org/menendez-convicted-of-accepting-bribes-from-egypt-qatar/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1e579x0/menendez_convicted_of_accepting_bribes_from_egypt/">[comments]</a></span> </td></tr></table>
+

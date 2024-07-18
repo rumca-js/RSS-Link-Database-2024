@@ -1,0 +1,44 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## Piano Sound Generation in RISC-V - HELP FOR A PROJECT!
+ - [https://www.reddit.com/r/RISCV/comments/1e5qbt1/piano_sound_generation_in_riscv_help_for_a_project](https://www.reddit.com/r/RISCV/comments/1e5qbt1/piano_sound_generation_in_riscv_help_for_a_project)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-17T19:01:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm taking Computer Systems and Architecture course and our professor assigned us the project mentioned above: Piano Sound Generation in RISC-V. I have no idea where to start, I'm thinking of writing the code and also implementing it on a processor (probably a simulation) and integrating it with a hardware interface maybe so we can actually play the piano? </p> <p>If anybody here can help with an advice or a reference or a similar work done that would be much appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AyaAbuSaida"> /u/AyaAbuSaida </a> <br /> <span><a href="https://www.reddit.com/r/RISCV/comments/1e5qbt1/piano_sound_generation_in_riscv_help_for_a_project/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1e5qbt1/piano_sound_generation_in_riscv_help_for_a_project/">[comments]</a></span>
+
+## Incorrect routine loads as entry point in qemu?
+ - [https://www.reddit.com/r/RISCV/comments/1e5puot/incorrect_routine_loads_as_entry_point_in_qemu](https://www.reddit.com/r/RISCV/comments/1e5puot/incorrect_routine_loads_as_entry_point_in_qemu)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-17T18:41:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an elf file which contains an entry point named &quot;_boot&quot;. This section of the code sets the mstatus, mepc and mtvect csr. I have different routine name &quot;asm_trap_vector&quot; defined in a seperate file. I am building the program by generating object files and then linking them together using ld script. When I run the elf executable finally generated, and step through the debugger the first entry point seems to be the asm_trap_vector, instead of the _boot section which is defined in ld script as the entry point.</p> <p>boot.S</p> <pre><code>.option norvc .section .data .section .text.init .global _boot _boot: # setting MPP bits to 0b11 and setting MPIE and MIE bits to 0b01 # and then writing to mstatus register li t3, (0b11 &lt;&lt; 11) | (0b01 &lt;&lt; 7) | (0b01 &lt;&lt; 3) csrw mstatus, t3 # setting mepc register to denote where execution will go to after trap is handled la t1, kmain csrw mepc, t1 # setting up trap handler addre
+
+## RISCV tomasulo (out of order) CPU
+ - [https://www.reddit.com/r/RISCV/comments/1e5mjtt/riscv_tomasulo_out_of_order_cpu](https://www.reddit.com/r/RISCV/comments/1e5mjtt/riscv_tomasulo_out_of_order_cpu)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-17T16:29:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Where do I find the detailed explanation and implementation of RISC V tomasulo processor? I currently had implemented the RISC V in order CPU, but I am not able to find the correct documentation for the tomasulo CPU. If anyone knows, please do share it. Any help is appreciated.</p> <p>Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VIJAY_SAKRE"> /u/VIJAY_SAKRE </a> <br /> <span><a href="https://www.reddit.com/r/RISCV/comments/1e5mjtt/riscv_tomasulo_out_of_order_cpu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1e5mjtt/riscv_tomasulo_out_of_order_cpu/">[comments]</a></span>
+
+## The RISC-V Instruction Set Architecture
+ - [https://www.reddit.com/r/RISCV/.rss](https://www.reddit.com/r/RISCV/.rss)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-17T15:23:53.699026+00:00
+
+RISC-V (pronounced "risk-five") is a license-free, modular, extensible computer instruction set architecture (ISA). Originally designed for computer architecture research at Berkeley, RISC-V is now used in everything from $0.10 CH32V003 microcontroller chips to the pan-European supercomputing initiative, with 64 core 2 GHz workstations in between. RISC-V is suitable for custom silicon chips, as a soft core in an FPGA, or as a high performance software Virtual Machine. riscv.org
+
+## GCC asm inline of vector extension instructions
+ - [https://www.reddit.com/r/RISCV/comments/1e5kdb0/gcc_asm_inline_of_vector_extension_instructions](https://www.reddit.com/r/RISCV/comments/1e5kdb0/gcc_asm_inline_of_vector_extension_instructions)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-17T15:01:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>For prototyping purpose I've been testing code using gcc asm inlining and have had no problems using most of the ISA but now i'm attempting to use instructions from RVV 1.0 like so </p> <pre><code>int main() { // Inputs and Outputs float *vs1 = (float*)aligned_alloc(16,sizeof(float)*4); vs1[0] = 0.0; vs1[1] = 1.0; vs1[2] = 2.0; vs1[3] = 3.0; float *vs2 = (float*)aligned_alloc(16,sizeof(float)*4); vs2[0] = 0.0; vs2[1] = 1.0; vs2[2] = 2.0; vs2[3] = 3.0; float *vd = (float*)aligned_alloc(16,sizeof(float)*4); // Run Instruction asm (&quot;vfadd.vv %0, %1, %2&quot; : &quot;=vr&quot; (vd) : &quot;vr&quot; (vs1), &quot;vr&quot; (vs2) ); // Print Results printf(&quot;vfadd.vv,%f:%f,%f&quot;, vs1[0], vs2[0], vd[0]); return 0; } </code></pre> <p>And I'm getting the following error when attempting to compile</p> <pre><code>❯ riscv64-unknown-elf-gcc -march=rv64gcv -o vfadd vfadd.c vfmuls.c: In function 'main': vfmuls.c:19:9: error: inconsistent operand constraint
+
+## Quick question about RISC-V Instruction
+ - [https://www.reddit.com/r/RISCV/comments/1e5aa9w/quick_question_about_riscv_instruction](https://www.reddit.com/r/RISCV/comments/1e5aa9w/quick_question_about_riscv_instruction)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-17T05:28:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1e5aa9w/quick_question_about_riscv_instruction/"> <img alt="Quick question about RISC-V Instruction " src="https://b.thumbs.redditmedia.com/aR6m-QAyle_TWMXA2VHPVQppy3Uv-pmrAHCg48loYdE.jpg" title="Quick question about RISC-V Instruction " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/70rji01fl0dd1.png?width=1456&amp;format=png&amp;auto=webp&amp;s=c14418368547360e03f38d2a2008257785a2c470">https://preview.redd.it/70rji01fl0dd1.png?width=1456&amp;format=png&amp;auto=webp&amp;s=c14418368547360e03f38d2a2008257785a2c470</a></p> <p>For the following picture (the highlighted part), how is this read? I am just a little confused on the convention that is used here. For example, since JAL has a 20 bit 'imm', from right to left, does it read bits 12-19, then bit 11, then bits 1:10 and at the very left bit 20? Thanks for your help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https
+
