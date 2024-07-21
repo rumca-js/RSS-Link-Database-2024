@@ -1,0 +1,44 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Soulframe will "open up to a lot more players this autumn", says Digital Extremes
+ - [https://www.eurogamer.net/soulframe-will-open-up-to-a-lot-more-players-this-autumn-says-digital-extremes](https://www.eurogamer.net/soulframe-will-open-up-to-a-lot-more-players-this-autumn-says-digital-extremes)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-20T18:49:49+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2024-07-20-at-19.36.36-(2).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Warframe developer Digital Extremes has given us another peek at its upcoming free-to-play fantasy action-MMORPG, Soulframe.</p><p>Back in July 2022, Digital Extremes <a href="https://www.eurogamer.net/warframe-dev-announces-free-to-play-fantasy-action-mmorpg-soulframe">unveiled its first new property since Warframe's release</a> back in 2013. <a href="https://www.eurogamer.net/warframe-devs-free-to-play-fantasy-mmorpg-soulframe-shows-off-30-minutes-of-gameplay">Besides a 30-minute gameplay teaser this time last year</a>, though, we've seen very little else, but today DE has given us a closer look during the <a href="https://www.youtube.com/watch?v=6u9M88FQQB0">TennoCon 2024 fan convention</a> this weekend.</p><p>You can check it out towards the beginning of today's mammoth livestream:</p> <p><a href="https://www.e
+
+## Final Fantasy 14 and Gong Cha have come together for a tasty new collaboration
+ - [https://www.eurogamer.net/final-fantasy-14-and-gong-cha-have-come-together-for-a-tasty-new-collaboration](https://www.eurogamer.net/final-fantasy-14-and-gong-cha-have-come-together-for-a-tasty-new-collaboration)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-20T18:15:59+00:00
+
+<img src="https://assetsio.gnwcdn.com/77280d48344c824b705ecad0e9fc55881b1eec48_0.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>It's time to drink and tea merry, Final Fantasy fans &ndash; Final Fantasy 14 and Gong Cha have come together for a brand new collaboration.</p><p>From now until 28th August, players can enjoy three FF14-inspired teas at participating outlets, as well as earn "special rewards, including the adorable Porxie King mount".</p><p>The teas themselves &ndash; Fat Cat Brown Sugar Milk Tea, Fat Chocobo Mango Frozen Tea, and Cactuar Matcha Milk Tea &ndash; come in their own limited edition cups, and super cute commemorative key chains are also available with qualifying purchases.</p> <p><a href="https://www.eurogamer.net/final-fantasy-14-and-gong-cha-have-come-together-for-a-tasty-new-collaboration">Read more</a></p>
+
+## Unannounced Hunt: Showdown 1896 pops up on the ESRB website
+ - [https://www.eurogamer.net/unannounced-hunt-showdown-1896-pops-up-on-the-esrb-website](https://www.eurogamer.net/unannounced-hunt-showdown-1896-pops-up-on-the-esrb-website)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-20T17:51:40+00:00
+
+<img src="https://assetsio.gnwcdn.com/cryteks-multiplayer-bounty-hunting-horror-hunt-showdown-comes-to-ps4-next-month-1579545953063.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A game called "Hunt: Showdown 1896" has popped up on the ESRB website.</p><p>Although a follow-up to the acclaimed PvEvP bounty-hunting horror shooter from developer Crytek has yet to be formally announced, a <a href="https://www.esrb.org/ratings/39965/hunt-showdown-1896/">rating</a> for Hunt: Showdown 1896 on the US' Entertainment Software Rating Board intimates either a sequel is on the way, or the <a href="https://www.eurogamer.net/hunt-showdown-ditching-ps4-and-xbox-one-support-in-august-as-part-of-significant-relaunch">eagerly-anticipated update</a> scheduled to drop on 15th August is big enough to necessitate a new rating.</p><p>The listing &ndash; which states Hunt: Showdown 1896 has been awarded a Mature 17+ rating &ndash; hints at plenty of blood, gor
+
+## 200+ workers at Bethesda Game Studio have unionised
+ - [https://www.eurogamer.net/200-workers-at-bethesda-game-studio-have-unionised](https://www.eurogamer.net/200-workers-at-bethesda-game-studio-have-unionised)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-20T15:19:14+00:00
+
+<img src="https://assetsio.gnwcdn.com/Fallout-4_Wv67PYM.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>241 workers at Bethesda Game Studios are unionising.</p><p>Bethesda Game Studios' union recognition with Communication Workers of America (CWA) marks the "first wall-to-wall union at Microsoft".</p><p>"We, a majority of developers at Bethesda Game Studios Dallas, Rockville, and Austin, are ecstatic to announce the formation of our union with CWA Union. Together as #OneBGSUSA, we advocate for the betterment of every developer at BGS, setting the new standard for our industry.</p> <p><a href="https://www.eurogamer.net/200-workers-at-bethesda-game-studio-have-unionised">Read more</a></p>
+
+## Forza Motorsport PC modded: extra detail and improved ray tracing are there for the taking
+ - [https://www.eurogamer.net/digitalfoundry-2024-forza-motorsport-pc-modded-extra-detail-and-improved-ray-tracing](https://www.eurogamer.net/digitalfoundry-2024-forza-motorsport-pc-modded-extra-detail-and-improved-ray-tracing)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-20T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/massive_Brands_Hatch_Track_Promotion_04_16x9_WM_ae0c78abb2.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>There was some level of disappointment when the long-awaited Forza Motorsport finally arrived for review, as visual quality didn't quite meet expectations - especially as promised features like ray traced global illumination didn't arrive in the final game, while PC technical performance was troublesome. However, a short while ago, we learned from user <a href="https://x.com/ljitimate">LJT</a> that the PC game can be modded to add extra detail, improved RT reflections and RTGI, while reports of improved performance since launch warranted some investigation. So, how does the mod improve visual fidelity and what are the performance implications? Have CPU and GPU optimisations delivered performance boosts over the launch game? We decided to find out.</p><p>Engaging the mod turns out to be stupendo
+
+## For a belated celebration of Tetris' 40th birthday, here's a highly partisan look back at Tetris DS
+ - [https://www.eurogamer.net/for-a-belated-celebration-of-tetris-40th-birthday-heres-a-highly-partisan-look-back-at-tetris-ds](https://www.eurogamer.net/for-a-belated-celebration-of-tetris-40th-birthday-heres-a-highly-partisan-look-back-at-tetris-ds)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-07-20T09:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/tetris-ds-montage-header.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>If ever a game muddled with time, it's Tetris. I'm not just talking about the idle hours that somehow disappear as you play, but the way that the whole game sits within the flow of time itself. Tetris' 40th anniversary is upon us this summer (the exact date is a little woolly, with the Tetris Company putting it in June, but still announcing <a href="https://www.start.gg/tournament/tetris-block-party/details">official celebrations this weekend</a>), and that feels weird from both temporal directions. In one way, the game feels so fresh, so cleanly designed, it can surely only be a few weeks old at most? In the other way, hasn't a design this beautiful been with us since the first galaxies were forming? Wasn't it there in the code of the universe waiting to be unearthed? It's all very weird.</p><p>To celebrate the 40th birthday -
+
