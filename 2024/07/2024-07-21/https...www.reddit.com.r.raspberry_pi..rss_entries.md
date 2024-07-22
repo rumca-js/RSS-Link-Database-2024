@@ -1,0 +1,72 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## Getting a external CD/DVD drive to run on Raspberry Pi
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8xjb5/getting_a_external_cddvd_drive_to_run_on](https://www.reddit.com/r/raspberry_pi/comments/1e8xjb5/getting_a_external_cddvd_drive_to_run_on)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T21:46:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, so I have two external disc drives that work normally, but on my Raspberry Pi they don't work. The disc just keeps spinning in the device and the Raspberry Pi just never recgonizes it. Now as far as I know, I am pretty sure the problem is just not enough power, so I wanted to come here and just see before I buy anything if this solution will work and the Raspberry Pi will recognize the disc drive. So, for context, I am making a project that will be using a internal CD-ROM drive that I was going to originally plug into the Raspberry Pi just via a SATA to USB adapter, but now with this new power issue, I have thought if maybe the cable linked below would work, since it has it's own power supply and also uses USB to connect to the computer. Also note that the same problem that I am having on Raspberry Pi OS I am also having on WoR (Windows on Raspberry). Thanks in advance!</p> <p>Cable: <a href="https://www.amazon.com/UGREEN-Cable-Adapter-Converte
+
+## Problem with Firefox and LibreWolf
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8uzi0/problem_with_firefox_and_librewolf](https://www.reddit.com/r/raspberry_pi/comments/1e8uzi0/problem_with_firefox_and_librewolf)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T19:55:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello. I have a problem with Firefox based web browsers. After using them for 10 - 15 minutes, the entire system freezes. Some times it works again if i can close Firefox after trying, but some times i have to unplug the power supply. If i use Chromium, nothing happens and everything works fine.</p> <p>I have to say that i only have a 5V 3A generic power supply (i'm waiting for the original) and i'm also using a microSD for the same motive.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlackBlade1632"> /u/BlackBlade1632 </a> <br /> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1e8uzi0/problem_with_firefox_and_librewolf/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1e8uzi0/problem_with_firefox_and_librewolf/">[comments]</a></span>
+
+## Meet Soul Bot, your friendly little robot
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8r8ig/meet_soul_bot_your_friendly_little_robot](https://www.reddit.com/r/raspberry_pi/comments/1e8r8ig/meet_soul_bot_your_friendly_little_robot)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T17:13:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1e8r8ig/meet_soul_bot_your_friendly_little_robot/"> <img alt="Meet Soul Bot, your friendly little robot" src="https://external-preview.redd.it/OHJlb3VqaDJud2RkMbsx7BmtjdFCM7396URgj2wprjlYRVWHMfRRdGnqcUfW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f876b6edf3d9f620888a84579de00c0e24876747" title="Meet Soul Bot, your friendly little robot" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Over the past couple of months I have been working on a small robot named soul bot. Having no robotics background, it's fun to learn a lot of new things. The idea is to make it look as alive as possible when interacting with having some features that could assist me. The work is still in progress but wanted to show and get to know if people like it. I don't have people around me who are interested in such things so it's harder to know. I am planning to make it as DIY kit, not sure how many people will be interested. LMK you
+
+## a javascript starter project for the raspberry pi Pico
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8r61j/a_javascript_starter_project_for_the_raspberry_pi](https://www.reddit.com/r/raspberry_pi/comments/1e8r61j/a_javascript_starter_project_for_the_raspberry_pi)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T17:10:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>TL;DR If you found yourself getting a new Pico and had a hard time getting it to run, this should help you. It is a skeleton project for building cool stuff into a Pico</p> <p>Github link: <a href="https://github.com/Blaarkies/pico-starter-project-ts">https://github.com/Blaarkies/pico-starter-project-ts</a></p> <h2>New to programming? Try out the step-by-step <a href="https://github.com/Blaarkies/pico-starter-project-ts/wiki/Total-beginner-guide">Total beginner guide</a></h2> <p>This project is in Typescript (but Javascript code inside works just as well). It uses the <a href="https://github.com/kaluma-project/kaluma">KalumaJS</a> firmware to run your program in the Pico, and Nodejs for simple 1 click build steps to complete the whole process of updating your new program into the Pico. It is intended for beginners and the experienced, to be a foundation to get you up and going, on top of which you can build into a bigger project.</p> <p>It includes re
+
+## Arducam 12MP IMX708 HDR vs regular photo comparison
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8ppgb/arducam_12mp_imx708_hdr_vs_regular_photo](https://www.reddit.com/r/raspberry_pi/comments/1e8ppgb/arducam_12mp_imx708_hdr_vs_regular_photo)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T16:05:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1e8ppgb/arducam_12mp_imx708_hdr_vs_regular_photo/"> <img alt="Arducam 12MP IMX708 HDR vs regular photo comparison" src="https://b.thumbs.redditmedia.com/L_saxqseLcCSgh2228B_Z7Wq6fOQ8MuluLVuQdoHNGg.jpg" title="Arducam 12MP IMX708 HDR vs regular photo comparison" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’ve tried a bunch of camera modules for my Raspberry Pi 5, and so far, the best one is the Arducam IMX708. </p> <p>Check out the difference between regular and HDR modes below. So far this camera module is great for my use case—home plant time-lapses 🪴</p> <p><a href="https://preview.redd.it/myndj1fgawdd1.png?width=2592&amp;format=png&amp;auto=webp&amp;s=79e57371dd6288d4f956b17f4875a954784b664f">Left: default mode, right: HDR mode</a></p> <p><a href="https://preview.redd.it/hj47sdziawdd1.png?width=2340&amp;format=png&amp;auto=webp&amp;s=9f899c34fd2dd184991035bee03666cbfd4987af">Leaf closeup (left: defaul
+
+## Raspberry pi and fstab help
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8pm6g/raspberry_pi_and_fstab_help](https://www.reddit.com/r/raspberry_pi/comments/1e8pm6g/raspberry_pi_and_fstab_help)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T16:01:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed plex on a raspberry pi 3 that I had laying around and I wanted it to connect to my TrueNas Server so that way I could share all the media files that I have collected to it without having to have another hard drive connected to it. I've watched several tutorials on YT and still can't figure it out</p> <p>All of them are saying to use fstab when I do and type out exactly what they had exchanging out their info for mine when applicable, I get the same error of</p> <p>/etc/fstab: parse error at line 6 -- ignored</p> <p>or</p> <p>mount error(22): Invalid argument Refer to the mount.cifs(8) manual page (e.g. man mount.cifs) and kernel log messages (dmesg)</p> <p>Ive tried</p> <p>//192.168.2.200 /mnt/plex cifs credentials=/home/trens/.smbcreds 0 0</p> <p>and //192.168.2.200/mnt/&quot;Vulpine Storage&quot; /mnt/plex cifs credentials=/home/trens/.smbcreds 0 0</p> <p>and</p> <p>//192.168.2.200/&quot;Vulpine Storage&quot; /mnt/plex cifs credentials=/
+
+## Dragon USB Joystick configuration and mapping
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8nhvk/dragon_usb_joystick_configuration_and_mapping](https://www.reddit.com/r/raspberry_pi/comments/1e8nhvk/dragon_usb_joystick_configuration_and_mapping)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T14:26:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been having an issue with the button mapping just resetting when i go ingame on retropie. So i got all 4 usb’s being plugged into the raspberry pi 4 and i map all 4 players. I go into a 2 player game and now p1 and p2 button confg is all messed up fsr. But p3 and 4 are fine. So when i just config p1 and p2 everything is fine for the 2 player game but anything after that just starts messing with it. I haven’t tested a 4 player game yet cuz it was late when i got everything up and running so maybe it will be fine then idk. I’ve also put all the wires on the controller the same way for each player so i honestly don’t know what it could be. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ozeth25"> /u/Ozeth25 </a> <br /> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1e8nhvk/dragon_usb_joystick_configuration_and_mapping/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi
+
+## Unofficial Os Support
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8mgr3/unofficial_os_support](https://www.reddit.com/r/raspberry_pi/comments/1e8mgr3/unofficial_os_support)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T13:34:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm trying to download android tv on my pi 4 b 2 gb. Although I get this error regardless of android 12, 13 or 14. </p> <p>Before I was getting a start4x.elf error, and that I need to update my software or something. After running rpi-update or upgrade and replacing the .elf files with ones from github. I am now stuck on seeing the rainbow pi boot up screen, then my pi turns off for about 30 seconds and then it's stuck in a loop.</p> <p>I've deleted the resolution files as well but nothing.</p> <p>I am running it on a USB. But I've booted it from USB before and everything is up to date. And my board is functional.</p> <p><a href="https://imgur.com/a/YgTliOJ">https://imgur.com/a/YgTliOJ</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fanqyxll"> /u/fanqyxll </a> <br /> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1e8mgr3/unofficial_os_support/">[link]</a></span> &#32; <span><a href="https://www
+
+## Become Smart and create your own SmartVanBox (for all camper-life lovers)
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8isvf/become_smart_and_create_your_own_smartvanbox_for](https://www.reddit.com/r/raspberry_pi/comments/1e8isvf/become_smart_and_create_your_own_smartvanbox_for)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T09:53:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1e8isvf/become_smart_and_create_your_own_smartvanbox_for/"> <img alt="Become Smart and create your own SmartVanBox (for all camper-life lovers)" src="https://b.thumbs.redditmedia.com/eygu4h_EfKJqqukBAbNZu7uq23SbH3Zq6RXJ-wwZMQw.jpg" title="Become Smart and create your own SmartVanBox (for all camper-life lovers)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi, finally, with great pride, I post my project!</p> <p>After months of hard work I have finally finished, and therefore released, all the guides (and the necessary software) to allow anyone to create their own SmartVanBox.</p> <p>The SmartVanBox is an open source device to make campers, vans and caravans smart. Once mounted on your vehicle, thanks to the associated mobile app, you can monitor and control your camper wherever you are.</p> <p>In the past few days, I have released the first version. It is a stable version, but there is still a lot of work
+
+## Is the Raspberry Pi commonly used in education?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1e8g4vo/is_the_raspberry_pi_commonly_used_in_education](https://www.reddit.com/r/raspberry_pi/comments/1e8g4vo/is_the_raspberry_pi_commonly_used_in_education)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-07-21T06:40:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have recently purchased a Raspberry Pi Zero 2 out of curiosity because it is advertised to remove the entry barrier for children to learn programming with the price tag of $15.</p> <p>With the latest 64bit operating systems the first impression was not great but with the Legacy 32bit operating system, I am shocked how useful this little thing is. It is indeed comes with everyhing required to start programming including tons of learning materials and books.</p> <p>However, since you also need a memory card, monitor, keyboard, mouse, power adapter, the cost of the complete setup can easily go as high as $100-$150. So I am curious if the Raspberry Pi is indeed commonly used in education instead of an older laptop?</p> <p>What are your experiences and what the statistics are saying?</p> <p>Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kekipen"> /u/Kekipen </a> <br /> <span><a href="https://www.reddit.c
+

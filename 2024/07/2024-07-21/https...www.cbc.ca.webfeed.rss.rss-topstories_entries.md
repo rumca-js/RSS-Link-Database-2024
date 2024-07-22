@@ -1,0 +1,135 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## LCBO strike to end Monday after workers ratify tentative agreement
+ - [https://www.cbc.ca/news/canada/toronto/lcbo-workers-ratification-1.7270704?cmp=rss](https://www.cbc.ca/news/canada/toronto/lcbo-workers-ratification-1.7270704?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T15:53:06+00:00
+
+<img alt="LCBO Workers and supporters hold a strike rally at a picket line in front of an LCBO store in Toronto on July 6, 2024." height="349" src="https://i.cbc.ca/1.7260628.1720713900!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/lcbo-strike-toronto.jpg" title="LCBO Workers and supporters hold a strike rally at a picket line in front of an LCBO store in Toronto on July 6, 2024." width="620" /><p>Striking liquor store workers have given their approval to a tentative agreement reached between the Liquor Control Board of Ontario (LCBO) and their union, the provincial Crown corporation said Sunday.</p>
+
+## University of Victoria issues trespass notice to pro-Palestinian protesters
+ - [https://www.cbc.ca/news/canada/british-columbia/university-victoria-trespass-notice-1.7270691?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/university-victoria-trespass-notice-1.7270691?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T15:52:03+00:00
+
+<img alt="Two protesters hold up signs reading &apos;Stop funding genocide&apos; and &apos;Immediate and permanent ceasefire now!&apos;" height="349" src="https://i.cbc.ca/1.7270702.1721586781!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-palestinian-protest-bc-20240721-uvic.jpg" title="The University of Victoria in British Columbia says it has begun the process of removing the pro-Palestinian encampment on campus, telling protesters they are trespassing on school property. Pro-Palestinian protesters hold a demonstration at the University of Victoria, in Saanich, B.C., on Friday, April 19, 2024." width="620" /><p>Protesters at the university have been demanding the school cut financial and academic ties with Israeli entities due to the ongoing Israel-Hamas war.</p>
+
+## Slovenia's Tadej Pogacar wins Tour de France, Canada's Derek Gee finishes 9th
+ - [https://www.cbc.ca/sports/olympics/summer/cycling/tour-de-france-final-july21-1.7270697?cmp=rss](https://www.cbc.ca/sports/olympics/summer/cycling/tour-de-france-final-july21-1.7270697?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T14:45:14+00:00
+
+<img alt="A cyclist holds a bike on the podium." height="349" src="https://i.cbc.ca/1.7270703.1721586944!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-cycling-tour-de-france.jpg" title="Tour de France winner Slovenia&apos;s Tadej Pogacar, wearing the overall leader&apos;s yellow jersey, celebrates on the podium after the twenty-first stage of the Tour de France cycling race, an individual time trial over 33.7 kilometers (20.9 miles) with start in Monaco and finish in Nice, France, Sunday, July 21, 2024. (AP Photo/Jerome Delay)" width="620" /><p>Tadej Pogacar won the Tour de France for the third time and celebrated in style with a victory in Sunday's final stage — a time trial ending in Nice.</p>
+
+## Schauffele wins the British Open for his 2nd major this year
+ - [https://www.cbc.ca/sports/golf/british-open-golf-final-round-royal-troon-1.7270687?cmp=rss](https://www.cbc.ca/sports/golf/british-open-golf-final-round-royal-troon-1.7270687?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T14:06:21+00:00
+
+<img alt="A men&apos;s golfer holds up a silver trophy." height="349" src="https://i.cbc.ca/1.7270690.1721585008!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2162317087.jpg" title="Xander Schauffele poses with the Claret Jug after winning the 152nd British Open Golf Championship at Royal Troon in Scotland on Sunday." width="620" /><p>​​​​​​​Xander Schauffele won the British Open on Sunday for his second major of the year, delivering a masterpiece at Royal Troon with a 6-under 65 to overcome a two-shot deficit and give the Americans a sweep of the majors for the first time since 1982.turned upside down and every other possible way Saturday.</p>
+
+## Biden stepping aside as Democratic presidential candidate
+ - [https://www.cbc.ca/news/world/biden-stepping-aside-as-democratic-presidential-candidate-1.7270682?cmp=rss](https://www.cbc.ca/news/world/biden-stepping-aside-as-democratic-presidential-candidate-1.7270682?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T13:54:35+00:00
+
+<img alt="White text that reads &apos;Breaking News&apos; on a red background." height="349" src="https://i.cbc.ca/1.4492356.1683057791!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/breaking-news.png" title="" width="620" /><p>U.S. President Joe Biden announced on social media on Sunday that he is stepping aside as the Democratic presidential candidate.</p>
+
+## U.S. Secret Service says it previously denied Trump campaign requests for tighter security
+ - [https://www.cbc.ca/news/world/trump-secret-service-campaign-security-1.7270587?cmp=rss](https://www.cbc.ca/news/world/trump-secret-service-campaign-security-1.7270587?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T11:08:31+00:00
+
+<img alt="A man stumbles and is assisted by security personnel while bleeding from his ear on stage." height="349" src="https://i.cbc.ca/1.7264106.1721075434!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-election-trump.JPG" title="Republican presidential candidate and former U.S. President Donald Trump is assisted by security personnel after gunfire rang out during a campaign rally at the Butler Farm Show in Butler, Pennsylvania, U.S., July 13, 2024. " width="620" /><p>The Secret Service now acknowledges it denied some requests by Republican presidential nominee Donald Trump's campaign for increased security at his events in the years before the assassination attempt on him at a recent rally.</p>
+
+## Research team descends on Alberta to track frequency, severity of hailstorms
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-hail-storms-ontario-climatology-1.7267198?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-hail-storms-ontario-climatology-1.7267198?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T10:00:00+00:00
+
+<img alt="Group of students behind technological prototypes." height="349" src="https://i.cbc.ca/1.7267680.1721339095!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hail-project-group.jpg" title="A group of Western University students are creating technological prototypes to study and collect data on hailstorms in Alberta as part of the Northern Hail Project." width="620" /><p>Southern Alberta is known for its destructive hailstorms, but some experts are predicting that the Edmonton region might start seeing similar storms.</p>
+
+## New tool aims to harness the power of AI to combat internet hate against Indigenous people
+ - [https://www.cbc.ca/news/canada/edmonton/artificial-intelligence-indigenous-people-1.7269816?cmp=rss](https://www.cbc.ca/news/canada/edmonton/artificial-intelligence-indigenous-people-1.7269816?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T09:00:00+00:00
+
+<img alt="Hands type at a computer with a cup of coffee" height="349" src="https://i.cbc.ca/1.7269872.1721427499!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/amii-indigenous-ai.jpeg" title="Researchers are developing a Grammarly-like tool to help combat bias, racism, and hate towards Indigenous people online." width="620" /><p>“We're trying to make the internet a kinder place. We're trying to change the trajectory of the internet towards discriminated people,” said Shani Gwin, founder of pipikwan pêhtâkwan.</p>
+
+## 'Nuisance' beavers relocated, put to work in dried-up watershed in B.C. Interior
+ - [https://www.cbc.ca/news/canada/british-columbia/nuisance-beavers-relocated-1.7268057?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/nuisance-beavers-relocated-1.7268057?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T09:00:00+00:00
+
+<img alt="Two beavers stand by a water bucket cleaning themselves. " height="349" src="https://i.cbc.ca/1.7268059.1721344031!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/edda-and-thor.jpeg" title="Edda and Thor are pictured grooming themselves. The two beavers were re-located to Spius Creek in the Nicola watershed on Tuesday, an area where beavers historically resided. " width="620" /><p>The beavers were residing on two farms near Merritt, B.C., doing what beavers do: eating trees, diverting water, and causing floods.</p>
+
+## Bangladesh's top court scales back government jobs quota after deadly unrest
+ - [https://www.cbc.ca/news/world/bangladesh-quota-jobs-protests-ruling-1.7270545?cmp=rss](https://www.cbc.ca/news/world/bangladesh-quota-jobs-protests-ruling-1.7270545?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T08:23:03+00:00
+
+<img alt="Two soldiers in a tank point their weapons." height="349" src="https://i.cbc.ca/1.7270546.1721561774!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bangladesh-campus-violence.jpg" title="Bangladeshi military forces on armored vehicles patrol on the streets of Dhaka, Bangladesh, Saturday, July 20, 2024. Bangladeshi authorities extended a curfew across the country on Sunday as the nation&apos;s top court was expected to rule on a civil service hiring quota that has led to days of deadly clashes between police and protesters, killing scores of people.(AP Photo/Rajib Dhar)" width="620" /><p>Bangladesh's top court on Sunday scaled back a controversial quota system for government job applicants, a partial victory for student protesters after days of nationwide unrest and deadly clashes between police and demonstrators that have killed scores of people.</p>
+
+## Watchdog: A big plant-based milk recall; What's the best AC temperature?: CBC's Marketplace cheat sheet
+ - [https://www.cbc.ca/news/business/marketplace-cheat-sheet-july21-1.7268337?cmp=rss](https://www.cbc.ca/news/business/marketplace-cheat-sheet-july21-1.7268337?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T08:00:00+00:00
+
+<img alt="a bunch of different cartons of plant based beverages" height="349" src="https://i.cbc.ca/1.7257857.1720482518!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/recalled-bevs.jpg" title="Several plant-based beverages have been recalled across Canada due to listeria contamination. " width="620" /><p>CBC's Marketplace rounds up the consumer and health news you need from the week.</p>
+
+## Invasive fish species dumped in Manitoba lakes disrupting 'very delicate' ecosystems: fisheries manager
+ - [https://www.cbc.ca/news/canada/manitoba/illegal-stocking-manitoba-native-fish-1.7266081?cmp=rss](https://www.cbc.ca/news/canada/manitoba/illegal-stocking-manitoba-native-fish-1.7266081?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T07:00:00+00:00
+
+<img alt="A man on a green shirt stands on wood dock in front of lake and a forest. " height="349" src="https://i.cbc.ca/1.7266152.1721227560!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hunt-lake.jpg" title="Eric Mullen said some native fish species have began to decline and become less healthy in Manitoba&apos;s water ways, as they contend with predators illegally stocked in rivers and lakes. " width="620" /><p>Illegally introduced fish species in Manitoba's water bodies are having an adverse impact on native fish populations, which have since declined in numbers and become less healthy, and on anyone who relies on native fish species for economic, cultural or traditional reasons.</p>
+
+## He faced discrimination playing softball in Cape Breton. They want his legacy to be recognized
+ - [https://www.cbc.ca/news/canada/nova-scotia/lucky-campbell-softball-glace-bay-1.7268021?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/lucky-campbell-softball-glace-bay-1.7268021?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T05:00:00+00:00
+
+<img alt="An old black-and-white photo shows five men standing together wearing baseball uniforms. The title above says Glace Bay Auto Supply Rockets: four-man team." height="349" src="https://i.cbc.ca/1.7268135.1721328771!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/glace-bay-rockets-softball-team.jpg" title="Arnold (Lucky) Campbell played for the Glace Bay Rockets in the late 1940s and 1950s. " width="620" /><p>Two Nova Scotians have made it their mission to get a leading Black softball player inducted into the Cape Breton Sport Hall of Fame.</p>
+
+## Amid rubble and airstrikes, university students in Gaza resume classes online
+ - [https://www.cbc.ca/news/world/universities-gaza-online-learning-1.7268981?cmp=rss](https://www.cbc.ca/news/world/universities-gaza-online-learning-1.7268981?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T04:00:00+00:00
+
+<img alt="A person works at a laptop." height="349" src="https://i.cbc.ca/1.7268998.1721403276!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/img-5308-jpg.JPG" title="Before Oct.7th,  Halaa Hamdan had a set daily routine around school." width="620" /><p>Higher education institutions in Gaza were damaged or destroyed after the Israel-Hamas war began last fall, but some students are finding hope as a few schools resume classes virtually, even though they face serious challenges.</p>
+
+## Canada braces for Trump 2.0 as the former president takes the lead in U.S. presidential race
+ - [https://www.cbc.ca/news/politics/trump-biden-canada-trudeau-nato-1.7270024?cmp=rss](https://www.cbc.ca/news/politics/trump-biden-canada-trudeau-nato-1.7270024?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T04:00:00+00:00
+
+<img alt="A man in a blue suit and a bandage on his right ear, raises his right hand in a fist." height="349" src="https://i.cbc.ca/1.7264709.1721099201!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-election-republicans-convention.JPG" title="Republican presidential nominee and former U.S. President Donald Trump raises his fist during Day 1 of the Republican National Convention (RNC) at the Fiserv Forum in Milwaukee, Wisconsin, U.S., July 15, 2024. Andrew Kelly/Reuters" width="620" /><p>Polls suggest former president Donald Trump is in a strong position to win back the presidency this November — a development that could have wide-ranging implications for Canada given just how tumultuous the first term was for this country.</p>
+
+## Dozens of Whitehorse pups parade for dog-lover's 90th birthday
+ - [https://www.cbc.ca/news/canada/north/whitehorse-birthday-party-dog-parade-1.7270014?cmp=rss](https://www.cbc.ca/news/canada/north/whitehorse-birthday-party-dog-parade-1.7270014?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T04:00:00+00:00
+
+<img alt="An elderly woman offers a cookie to a brown medium-haired dog" height="349" src="https://i.cbc.ca/1.7270049.1721505386!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/niki-simcoe-with-dog.jpg" title="Simcoe is a big dog enthusiast, even though she doesn&apos;t have a canine pal of her own anymore. &apos;They are the love of my life,&apos; she said." width="620" /><p>For Niki Simcoe's 90th birthday last week, friends whisked her to Shipyards Park for a surprise dog parade. For the lifelong dog lover, it was a dream come true.</p>
+
+## Jacob the Ugandan lion survived poacher traps and croc-infested waters. Now he's looking for love
+ - [https://www.cbc.ca/radio/thecurrent/jacob-the-lion-1.7266720?cmp=rss](https://www.cbc.ca/radio/thecurrent/jacob-the-lion-1.7266720?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T04:00:00+00:00
+
+<img alt="A lion sits on a branch in a tree. " height="349" src="https://i.cbc.ca/1.7266747.1721244909!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jacob-the-lion.jpg" title="Alexander Braczkowski says that when Jacob was a younger lion, as pictured here, he loved climbing. " width="620" /><p>Jacob the lion has survived poachers and a death-defying swim across crocodile-infested waters in Uganda, offering another example for conservationists of the need they see for more efforts to protect lions. </p>
+
+## Men can compete in Olympic artistic swimming for the 1st time. But none made the cut
+ - [https://www.cbc.ca/sports/olympics/summer/aquatics/artistic-swimming/men-artistic-swimming-athletics-1.7267426?cmp=rss](https://www.cbc.ca/sports/olympics/summer/aquatics/artistic-swimming/men-artistic-swimming-athletics-1.7267426?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T04:00:00+00:00
+
+<img alt="A team in swimsuits perform on a deck" height="349" src="https://i.cbc.ca/1.7267567.1721312192!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/male-artistic-swimmer-olympics.jpg" title="Bill May, left, leads the United States team out to compete in the team acrobatic of artistic swimming at the World Swimming Championships in Fukuoka, Japan, Saturday, July 15, 2023. " width="620" /><p>Men have competed in artistic swimming, also called synchronized swimming or synchro, at the lower levels for years. But not one man made the cut for the Summer Olympics in Paris, which has some critics asking questions about gender diversity in the sport and at least one swimmer calling it quits.</p>
+
+## My family was affected by the cod moratorium. Now that it's lifted, I feel caught
+ - [https://www.cbc.ca/news/canada/first-person-cod-moratorium-1.7269650?cmp=rss](https://www.cbc.ca/news/canada/first-person-cod-moratorium-1.7269650?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-21T04:00:00+00:00
+
+<img alt="An illustration of a woman wearing glasses who is surrounded by fish caught in a net. " height="349" src="https://i.cbc.ca/1.7269697.1721414061!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cod-moratorium-illustration.jpg" title="Lindsey Harrington is among the generation of Newfoundlanders whose lives were changed forever by the cod moratorium." width="620" /><p>Lindsey Harrington was six when the northern cod moratorium was put in place in 1992 and her dad was among the thousands laid off in Newfoundland. She is among that generation whose lives were changed forever.</p>
+
