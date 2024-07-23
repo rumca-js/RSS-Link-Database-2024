@@ -1,0 +1,65 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Bluetooth Printer works with AppleTalk
+ - [https://hackaday.com/2024/07/22/bluetooth-printer-works-with-appletalk](https://hackaday.com/2024/07/22/bluetooth-printer-works-with-appletalk)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T20:00:02+00:00
+
+<div><img alt="A small, white thermal printer with a cartoon cat face above the paper outlet. It is sitting on a black mat on top of a pale wooden table. A Raspberry Pi sits nearby." class="attachment-large size-large wp-post-image" height="480" src="https://hackaday.com/wp-content/uploads/2024/07/fpQU-U4yY6s-SD.jpg?w=640" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="640" /></div>For retrocomputing enthusiasts, getting old computers to work with newer peripherals can be an exciting challenge or horrible headache. If you need to print out receipts from an old Mac, <a class="read-more" href="https://hackaday.com/2024/07/22/bluetooth-printer-works-with-appletalk/">&#8230;read more</a>
+
+## A Throne for LEGO Baron Harkonnen
+ - [https://hackaday.com/2024/07/22/a-throne-for-lego-baron-harkonnen](https://hackaday.com/2024/07/22/a-throne-for-lego-baron-harkonnen)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T18:30:35+00:00
+
+<div><img alt="A custom LEGO throne for Dune&#039;s Baron Harkonnen." class="attachment-large size-large wp-post-image" height="600" src="https://hackaday.com/wp-content/uploads/2024/07/baron-throne-800.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="800" /></div>If you&#8217;re both a LEGO and a Dune fan, unless you&#8217;ve been living in a cave on Mars with your eyes shut and fingers in your ears, you&#8217;re probably aware <a class="read-more" href="https://hackaday.com/2024/07/22/a-throne-for-lego-baron-harkonnen/">&#8230;read more</a>
+
+## Small Mammals Appear To Have A Secret Infrared Sense
+ - [https://hackaday.com/2024/07/22/small-mammals-appear-to-have-a-secret-infrared-sense](https://hackaday.com/2024/07/22/small-mammals-appear-to-have-a-secret-infrared-sense)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T17:00:44+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="533" src="https://hackaday.com/wp-content/uploads/2024/07/Lab_mouse_mg_3263.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="800" /></div>If you&#8217;ve ever watched Predator, you&#8217;ve noted the tactical advantage granted to the alien warrior by its heat vision. Indeed, even with otherwise solid camoflauge, Dutch and his squad ended up <a class="read-more" href="https://hackaday.com/2024/07/22/small-mammals-appear-to-have-a-secret-infrared-sense/">&#8230;read more</a>
+
+## Making a Solid State 6AK8 Tube
+ - [https://hackaday.com/2024/07/22/making-a-solid-state-6ak8-tube](https://hackaday.com/2024/07/22/making-a-solid-state-6ak8-tube)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T15:30:30+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/tube.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="800" /></div>[M Caldeira] had a project in mind: replacing a common vacuum tube with a solid-state equivalent. The tube in question was an EABC80 or 6AK8 triple diode triode. The key <a class="read-more" href="https://hackaday.com/2024/07/22/making-a-solid-state-6ak8-tube/">&#8230;read more</a>
+
+## Reviewing Nuclear Accidents: Separating Fact From Fiction
+ - [https://hackaday.com/2024/07/22/reviewing-nuclear-accidents-separating-fact-from-fiction](https://hackaday.com/2024/07/22/reviewing-nuclear-accidents-separating-fact-from-fiction)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T14:00:02+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="484" src="https://hackaday.com/wp-content/uploads/2023/01/NuclearFuel.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="800" /></div>Few types of accidents speak as much to the imagination as those involving nuclear fission. From the unimaginable horrors of the nuclear bombs on Nagasaki and Hiroshima, to the fever-pitch <a class="read-more" href="https://hackaday.com/2024/07/22/reviewing-nuclear-accidents-separating-fact-from-fiction/">&#8230;read more</a>
+
+## FauxTRS Is Definitely Not A Trash 80
+ - [https://hackaday.com/2024/07/22/fauxtrs-is-definitely-not-a-trash-80](https://hackaday.com/2024/07/22/fauxtrs-is-definitely-not-a-trash-80)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T11:00:00+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/faux-80-featured.jpg?w=800" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="800" /></div>Among the 8-bit home micro boom from the late 1970s through early 1980s, the introduction to computing for many wasn&#8217;t a pricey Apple or Commodore, instead it was the slightly <a class="read-more" href="https://hackaday.com/2024/07/22/fauxtrs-is-definitely-not-a-trash-80/">&#8230;read more</a>
+
+## An AVO 8 Teardown
+ - [https://hackaday.com/2024/07/22/an-avo-8-teardown](https://hackaday.com/2024/07/22/an-avo-8-teardown)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T08:00:02+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="463" src="https://hackaday.com/wp-content/uploads/2024/07/avo.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="800" /></div>AVO meters &#8212; literally amp, volt, ohm meters &#8212; are not very common in North America but were staples in the UK. [TheHWcave] found an AVO 8 that is probably <a class="read-more" href="https://hackaday.com/2024/07/22/an-avo-8-teardown/">&#8230;read more</a>
+
+## Coax Stub Filters Demystified
+ - [https://hackaday.com/2024/07/21/coax-stub-filters-demystified](https://hackaday.com/2024/07/21/coax-stub-filters-demystified)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T05:00:05+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="450" src="https://hackaday.com/wp-content/uploads/2024/07/stub_filters.png?w=800" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="800" /></div>Unless you hold a First Degree RF Wizard rating, chances are good that coax stubs seem a bit baffling to you. They look for all the world like short circuits <a class="read-more" href="https://hackaday.com/2024/07/21/coax-stub-filters-demystified/">&#8230;read more</a>
+
+## CeraMetal Lets You Print Metal, Cheaply and Easily
+ - [https://hackaday.com/2024/07/21/cerametal-lets-you-print-metal-cheaply-and-easily](https://hackaday.com/2024/07/21/cerametal-lets-you-print-metal-cheaply-and-easily)
+ - RSS feed: https://hackaday.com/feed
+ - date published: 2024-07-22T02:00:02+00:00
+
+<div><img alt="" class="attachment-large size-large wp-post-image" height="252" src="https://hackaday.com/wp-content/uploads/2024/07/teaser-760x252-1.jpg?w=760" style="margin: 0 auto; margin-bottom: 15px;" tabindex="0" width="760" /></div>3D printing metal has been somewhat of a holy grail for the last decade in the hobby 3DP scene. We&#8217;ve seen a number of solutions, including using expensive filaments that <a class="read-more" href="https://hackaday.com/2024/07/21/cerametal-lets-you-print-metal-cheaply-and-easily/">&#8230;read more</a>
+
