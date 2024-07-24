@@ -1,0 +1,209 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## House Committee Calls On CrowdStrike CEO To Testify On Global Outage
+ - [https://yro.slashdot.org/story/24/07/23/2038230/house-committee-calls-on-crowdstrike-ceo-to-testify-on-global-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/07/23/2038230/house-committee-calls-on-crowdstrike-ceo-to-testify-on-global-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T23:37:09.261022+00:00
+
+According to the Washington Post (paywalled), the House Homeland Security Committee has called on the CrowdStrike CEO to testify over the major outage that brought flights, hospital procedures, and broadcasters to a halt on Friday. The outage was caused by a defective software update from the company that primarily affected computers runnings Windows, resulting in system crashes and "blue screen of death" errors. From the report: Republican leaders of the House Homeland Security Committee demanded that CrowdStrike CEO George Kurtz commit by Wednesday to appearing on Capitol Hill to explain how the outages occurred and what "mitigation steps" the company is taking to prevent future episodes. [...] Reps. Mark Green (R-Tenn.) and Andrew R. Garbarino (R-N.Y.), chairs of the Homeland Security Committee and its cybersecurity subcommittee, respectively, wrote in their letter that the outages "must serve as a broader warning about the national security risks associated with network dependency
+
+## EU To Investigate Delivery Hero, Glovo Over Food Delivery Cartel Concerns
+ - [https://slashdot.org/story/24/07/23/2017214/eu-to-investigate-delivery-hero-glovo-over-food-delivery-cartel-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/23/2017214/eu-to-investigate-delivery-hero-glovo-over-food-delivery-cartel-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T22:32:15.962615+00:00
+
+An anonymous reader quotes a report from TechCrunch: The European Commission announced a formal investigation into Berlin-based food delivery giant Delivery Hero and its Spanish subsidiary, Glovo, on Tuesday, citing cartel concerns. The Commission will launch an in-depth probe into agreements between the online delivery firms to establish whether any anticompetitive activity has taken place. "The Commission is concerned that, before the takeover, Delivery Hero and Glovo may have allocated geographic markets and shared commercially sensitive information (e.g., on commercial strategies, prices, capacity, costs, product characteristics)," the Commission wrote in a press release. "The Commission is also concerned that the companies may have agreed not to poach each other's employees. These practices could have been facilitated by Delivery Hero's minority share in Glovo." The move follows unannounced raids conducted on the two companies' local offices in July 2022 and November 2023.
+ 
+From
+
+## Switzerland Now Requires All Government Software To Be Open Source
+ - [https://news.slashdot.org/story/24/07/23/2025220/switzerland-now-requires-all-government-software-to-be-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/23/2025220/switzerland-now-requires-all-government-software-to-be-open-source?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T22:32:14.408255+00:00
+
+Switzerland has enacted the "Federal Law on the Use of Electronic Means for the Fulfillment of Government Tasks" (EMBAG), mandating open-source software (OSS) in the public sector to enhance transparency, security, and efficiency. "This new law requires all public bodies to disclose the source code of software developed by or for them unless third-party rights or security concerns prevent it," writes ZDNet's Steven Vaughan-Nichols. "This 'public money, public code' approach aims to enhance government operations' transparency, security, and efficiency." From the report: Making this move wasn't easy. It began in 2011 when the Swiss Federal Supreme Court published its court application, Open Justitia, under an OSS license. The proprietary legal software company Weblaw wasn't happy about this. There were heated political and legal fights for more than a decade. Finally, the EMBAG was passed in 2023. Now, the law not only allows the release of OSS by the Swiss government or its contractors
+
+## US Opens Investigation Into Delta After Airline Cancels Thousands of Flights
+ - [https://news.slashdot.org/story/24/07/23/1845222/us-opens-investigation-into-delta-after-airline-cancels-thousands-of-flights?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/23/1845222/us-opens-investigation-into-delta-after-airline-cancels-thousands-of-flights?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T21:27:33.075674+00:00
+
+The US transportation department said on Tuesday it was opening an investigation into Delta Air Lines after the carrier canceled more than 5,000 flights since Friday as it struggles to recover from a global cyber outage that snarled airlines worldwide. From a report: While other carriers have been able to resume normal operations, Delta has continued to cancel hundreds of flights daily because of problems with its crew scheduling system. Since Friday Delta has been cancelling 30% or more of its flights daily through Monday, axing 444 flights on Tuesday, or 12% of its schedule as of 11.00am and delaying another 590, or 16%, according to FlightAware, after cancelling 1,150 on Monday. 
+
+The transportation secretary, Pete Buttigieg, said on Tuesday the investigation was to "ensure the airline is following the law and taking care of its passengers during continued widespread disruptions ... Our department will leverage the full extent of our investigative and enforcement power to ensure th
+
+## 'GitHub Is Starting To Feel Like Legacy Software'
+ - [https://developers.slashdot.org/story/24/07/23/1915221/github-is-starting-to-feel-like-legacy-software?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/24/07/23/1915221/github-is-starting-to-feel-like-legacy-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T21:27:31.260774+00:00
+
+Developer and librarian Misty De Meo, writing about her frustrating experience using GitHub: To me, one of GitHub's killer power user features is its blame view. git blame on the commandline is useful but hard to read; it's not the interface I reach for every day. GitHub's web UI is not only convenient, but the ease by which I can click through to older versions of the blame view on a line by line basis is uniquely powerful. It's one of those features that anchors me to a product: I stopped using offline graphical git clients because it was just that much nicer. 
+
+The other day though, I tried to use the blame view on a large file and ran into an issue I don't remember seeing before: I just couldn't find the line of code I was searching for. I threw various keywords from that line into the browser's command+F search box, and nothing came up. I was stumped until a moment later, while I was idly scrolling the page while doing the search again, and it finally found the line I was looking
+
+## Hackers Shut Down Heating in Ukrainian City With Malware, Researchers Say
+ - [https://it.slashdot.org/story/24/07/23/1853245/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/07/23/1853245/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T21:27:29.258449+00:00
+
+An anonymous reader shares a report: For two days in mid-January, some Ukrainians in the city of Lviv had to live without central heating and suffer freezing temperatures because of a cyberattack against a municipal energy company, security researchers and Ukrainian authorities have since concluded. On Tuesday, the cybersecurity company Dragos published a report with details about a new malware dubbed FrostyGoop, which the company says is designed to target industrial control systems -- in this particular case, specifically against a type of heating system controller. Dragos researchers wrote in their report that they first detected the malware in April. At that point, Dragos did not have more information on FrostyGoop apart from the malware sample, and believed it was only used for testing. 
+
+Later on, however, Ukrainian authorities warned Dragos that they had found evidence that the malware was actively used in a cyberattack in Lviv during the late evening of January 22 through Janu
+
+## China Is Getting Secretive About Its Supercomputers
+ - [https://tech.slashdot.org/story/24/07/23/1919232/china-is-getting-secretive-about-its-supercomputers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/23/1919232/china-is-getting-secretive-about-its-supercomputers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T21:27:26.961099+00:00
+
+For decades, American and Chinese scientists collaborated on supercomputers. But Chinese scientists have become more secretive as the U.S. has tried to hinder China's technological progress, and they have stopped participating altogether in a prominent international supercomputing forum. From a report: The withdrawal marked the end of an era and created a divide that Western scientists say will slow the development of AI and other technologies as countries pursue separate projects. The new secrecy also makes it harder for the U.S. government to answer a question it deems essential to national security: Does the U.S. or China have faster supercomputers? Some academics have taken it upon themselves to hunt for clues about China's supercomputing progress, scrutinizing research papers and cornering Chinese peers at conferences. 
+
+Supercomputers have become central to the U.S.-China technological Cold War because the country with the faster supercomputers can also hold an advantage in deve
+
+## FTC Launches Probe Into 'Surveillance Pricing'
+ - [https://news.slashdot.org/story/24/07/23/176228/ftc-launches-probe-into-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/23/176228/ftc-launches-probe-into-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T18:58:07.620089+00:00
+
+smooth wombat writes: The FTC has sent mandatory notices for information to eight companies it says engages in "surveillance pricing", the process by which prices are rapidly changed using AI based on data about customer behavior and characteristics. This process, the FTC claims, allows companies to charge different customers different prices for the same product. 
+
+The list includes Mastercard, JPMorgan Chase, Accenture and consulting giant McKinsey. It also includes software firm Task, which counts McDonald's and Starbucks as clients; Revionics, which works with Home Depot, Tractor Supply and grocery chain Hannaford; Bloomreach, which services FreshDirect, Total Wine and Puma; and Pros, which was named Microsoft's internet service vendor of the year this year. "Firms that harvest Americans' personal data can put people's privacy at risk," FTC Chair Lina Khan said in a news release. "Now firms could be exploiting this vast trove of personal information to charge people higher prices.
+
+## AI Is Already Taking Jobs In the Video Game Industry
+ - [https://games.slashdot.org/story/24/07/23/1827201/ai-is-already-taking-jobs-in-the-video-game-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/07/23/1827201/ai-is-already-taking-jobs-in-the-video-game-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T18:58:05.849561+00:00
+
+merbs writes: Video games -- and the people who make them -- are in trouble. An estimated 10,500 people in the industry were laid off in 2023 alone. This year, layoffs in the nearly $200 billion sector have only gotten worse, with studios axing what is believed to be 11,000 more, and counting. Microsoft, home of the Xbox and parent company to several studios, including Activision Blizzard, shuttered Tango Gameworks and Alpha Dog Games in May. All the while, generative AI systems built by OpenAI and its competitors have been seeping into nearly every industry, dismantling whole careers along the way. 
+
+But gaming might be the biggest industry AI stands poised to conquer. Its economic might has long since eclipsed Hollywood's, while its workforce remains mostly nonunion. A recent survey from the organizers of the Game Developers Conference found that 49 percent of the survey's more than 3,000 respondents said their workplace used AI, and four out of five said they had ethical concerns a
+
+## Meta Warns EU Regulatory Efforts Risk Bloc Missing Out on AI Advances
+ - [https://tech.slashdot.org/story/24/07/23/1632257/meta-warns-eu-regulatory-efforts-risk-bloc-missing-out-on-ai-advances?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/23/1632257/meta-warns-eu-regulatory-efforts-risk-bloc-missing-out-on-ai-advances?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T17:52:36.399460+00:00
+
+Meta has warned that the EU's approach to regulating AI is creating the "risk" that the continent is cut off from accessing cutting-edge services, while the bloc continues its effort to rein in the power of Big Tech. From a report: Rob Sherman, the social media group's deputy privacy officer and vice-president of policy, confirmed a report that it had received a request from the EU's privacy watchdog to voluntarily pause the training of its future AI models on data in the region. He told the Financial Times this was in order to give local regulators time to "get their arms around the issue of generative AI." While the Facebook owner is adhering to the request, Sherman said such moves were leading to a "gap in the technologies that are available in Europe versus" the rest of the world. He added that, with future and more advanced AI releases, "it's likely that availability in Europe could be impacted." Sherman said: "If jurisdictions can't regulate in a way that enables us to have clar
+
+## Meta Launches Powerful Open-Source AI Model Llama 3.1
+ - [https://tech.slashdot.org/story/24/07/23/165239/meta-launches-powerful-open-source-ai-model-llama-31?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/23/165239/meta-launches-powerful-open-source-ai-model-llama-31?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T16:47:56.054123+00:00
+
+Meta has released Llama 3.1, its largest open-source AI model to date, in a move that challenges the closed approaches of competitors like OpenAI and Google. The new model, boasting 405 billion parameters, is claimed by Meta to outperform GPT-4o and Claude 3.5 Sonnet on several benchmarks, with CEO Mark Zuckerberg predicting that Meta AI will become the most widely used assistant by year-end. 
+
+Llama 3.1, which Meta says was trained using over 16,000 Nvidia H100 GPUs, is being made available to developers through partnerships with major tech companies including Microsoft, Amazon, and Google, potentially reducing deployment costs compared to proprietary alternatives. The release includes smaller versions with 70 billion and 8 billion parameters, and Meta is introducing new safety tools to help developers moderate the model's output. While Meta isn't disclosing what all data it used to train its models, the company confirmed it used synthetic data to enhance the model's capabilities. Th
+
+## Apple Moves Forward With Foldable iPhone
+ - [https://apple.slashdot.org/story/24/07/23/1641217/apple-moves-forward-with-foldable-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/24/07/23/1641217/apple-moves-forward-with-foldable-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T16:47:53.786153+00:00
+
+Apple is advancing its plans for a foldable iPhone, with potential release as early as 2026, The Information reported Tuesday. The iPhone-maker has begun engaging with Asian suppliers for component production, the report added. The proposed device is said to feature a clamshell design, reminiscent of Samsung's Galaxy Z Flip series. 
+
+The company faces considerable technical hurdles, including display crease issues and achieving optimal device thickness. Despite these challenges, the assignment of an internal codename, V68, suggests the project has progressed beyond the conceptual stage, the report added.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Apple+Moves+Forward+With+Foldable+iPhone%3A+https%3A%2F%2Fapple.slashdot.org%2Fstory%2F24%2F07%2F23%2F1641217%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F
+
+## Alexa Is in Millions of Households - and Amazon Is Losing Billions
+ - [https://slashdot.org/story/24/07/23/1444258/alexa-is-in-millions-of-households---and-amazon-is-losing-billions?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/23/1444258/alexa-is-in-millions-of-households---and-amazon-is-losing-billions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T15:42:42.649213+00:00
+
+Amazon's strategy to set prices low for Echo speakers and other smart devices, expecting them to generate income elsewhere in the tech giant, hasn't paid off [paywalled]. From a report: Amazon's Echo speakers are the type of business success companies don't want: a widely purchased product that is also a giant money loser. Chief Executive Andy Jassy is trying to plug that hole -- and move away from the Amazon accounting tactic that helped create it. When Amazon launched the Echo smart home devices with its Alexa voice assistant in 2014, it pulled a page from shaving giant Gillette's classic playbook: sell the razors for a pittance in the hope of making heaps of money on purchases of the refill blades. 
+
+A decade later, the payoff for Echo hasn't arrived. While hundreds of millions of customers have Alexa-enabled devices, the idea that people would spend meaningful amounts of money to buy goods on Amazon by talking to the iconic voice assistant on the underpriced speakers didn't take o
+
+## Intel Blames 13th, 14th Gen CPU Crashes on Software Bug
+ - [https://hardware.slashdot.org/story/24/07/23/1455234/intel-blames-13th-14th-gen-cpu-crashes-on-software-bug?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/07/23/1455234/intel-blames-13th-14th-gen-cpu-crashes-on-software-bug?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T15:42:40.761130+00:00
+
+Intel has finally figured out why its 13th and 14th generation core desktop CPUs are repeatedly crashing. From a report: In a forum post on Monday, Intel said it traced the problem to faulty software code, which can trigger the CPUs to run at higher voltage levels.&#194; Intel examined a number of 13th and 14th gen desktop processors that buyers had returned. "Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor," it says. But in some bad news, Intel still needs a few more weeks to test its fix for the problem. "Intel is currently targeting mid-August for patch release to partners following full validation," it says. The company also recently confirmed that the issue doesn't extend to its mobile processors.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Intel+Blames+13th%2C+14th+Gen+CPU+Crashes+on+Software+Bug%3A+https%3
+
+## AT&amp;T Outage Blocked 92 Million Calls, FCC Report Reveals
+ - [https://tech.slashdot.org/story/24/07/23/1327233/att-outage-blocked-92-million-calls-fcc-report-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/23/1327233/att-outage-blocked-92-million-calls-fcc-report-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T14:37:44.788947+00:00
+
+AT&amp;T's February wireless outage disrupted over 92 million voice calls and hindered more than 25,000 attempts to reach emergency services, an FCC report said. The 12-hour nationwide incident affected approximately 125 million devices, including those of other providers using AT&amp;T's network. Stemming from an equipment configuration error during a network change, the outage also impacted first responders' communications.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=AT%26amp%3BT+Outage+Blocked+92+Million+Calls%2C+FCC+Report+Reveals%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F07%2F23%2F1327233%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F07%2F23%2F1327233%2Fatt-outage-blocked-92-million-calls-fcc-report-reveals%3Futm_source%3Dslashdot%26utm_medium%3Dfaceboo
+
+## In Shock Move, California Forever Pulls Measure To Build Bay Area City
+ - [https://news.slashdot.org/story/24/07/23/0437236/in-shock-move-california-forever-pulls-measure-to-build-bay-area-city?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/07/23/0437236/in-shock-move-california-forever-pulls-measure-to-build-bay-area-city?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T13:32:44.196839+00:00
+
+An anonymous reader quotes a report from SFGate: A group of tech billionaires and millionaires has pulled its ballot measure that aimed to build a utopian city in Solano County. Instead, the group will go back to the drawing board the old-fashioned way by submitting an application to the county. The surprise announcement was made Monday by California Forever, a group of investors planning a city of 400,000 people in an agricultural part of the Bay Area near Rio Vista. It recently received the requisite number of signatures to put its East Solano Plan on the November ballot; that measure, if passed, would have removed some zoning restrictions that prevent this type of development in the area.
+ 
+California Forever will instead "submit an application for a General Plan &amp; Zoning Amendment and proceed with the normal County process which includes preparation of a full Environmental Impact Report and the negotiation and execution of Development Agreement," Solano County Board of Supervi
+
+## Chinese Researchers Create Four-Gram Drone
+ - [https://tech.slashdot.org/story/24/07/23/0441250/chinese-researchers-create-four-gram-drone?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/23/0441250/chinese-researchers-create-four-gram-drone?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T10:17:22.930135+00:00
+
+Simon Sharwood reports via The Register: Chinese researchers have created a drone that weighs just over four grams -- less than a sheet of printer paper -- and may be able to fly indefinitely. Documented in a paper published last week in Nature, the drone uses an electrostatic motor that weighs just 1.52 grams and is powered by solar cells that produce 4.5V. The paper asserts that the drone's design has a lift-to-power efficiency two to three times better than that found in traditional drones. The authors suggested that if rechargeable batteries can be added, the craft could be capable of 24-hour flying operations.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Chinese+Researchers+Create+Four-Gram+Drone%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F07%2F23%2F0441250%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u
+
+## Physics Pioneer Receives PhD After 75 Years For Discovering Kaon Particle
+ - [https://science.slashdot.org/story/24/07/23/0419247/physics-pioneer-receives-phd-after-75-years-for-discovering-kaon-particle?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/07/23/0419247/physics-pioneer-receives-phd-after-75-years-for-discovering-kaon-particle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T07:02:25.052547+00:00
+
+Rosemary Fowler, a pioneering physicist who discovered the kaon particle during her doctoral research in 1948, has been awarded an honorary doctorate from the University of Bristol -- 75 years after she left her PhD to raise a family. The Guardian reports: Rosemary Fowler, 98, discovered the kaon particle during her doctoral research under Cecil Powell at the University of Bristol in 1948, which contributed to his Nobel prize for physics in 1950. Fowler's discovery helped lead to a revolution in the theory of particle physics, and it continues to be proven correct -- predicting particles such as the Higgs boson, discovered at Cern in Geneva, Switzerland. But she left university without completing her PhD to marry fellow physicist Peter Fowler in 1949, a decision she later described as pragmatic after she went on to have three children in a time of postwar food rationing.
+ 
+At 22, Fowler spotted something when viewing unusual particle tracks -- a particle that decayed into three pions,
+
+## Google's New Weather Prediction System Combines AI With Traditional Physics
+ - [https://tech.slashdot.org/story/24/07/22/2223244/googles-new-weather-prediction-system-combines-ai-with-traditional-physics?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/22/2223244/googles-new-weather-prediction-system-combines-ai-with-traditional-physics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T03:49:55.177044+00:00
+
+An anonymous reader quotes a report from MIT Technology Review: Researchers from Google have built a new weather prediction model that combines machine learning with more conventional techniques, potentially yielding accurate forecasts at a fraction of the current cost. The model, called NeuralGCM and described in a paper in Nature today, bridges a divide that's grown among weather prediction experts in the last several years. While new machine-learning techniques that predict weather by learning from years of past data are extremely fast and efficient, they can struggle with long-term predictions. General circulation models, on the other hand, which have dominated weather prediction for the last 50 years, use complex equations to model changes in the atmosphere and give accurate projections, but they are exceedingly slow and expensive to run. Experts are divided on which tool will be most reliable going forward. But the new model from Google instead attempts to combine the two.
+ 
+"It
+
+## Wiz Turns Down $23 Billion Google Deal
+ - [https://tech.slashdot.org/story/24/07/23/0239247/wiz-turns-down-23-billion-google-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/23/0239247/wiz-turns-down-23-billion-google-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T02:44:52.400493+00:00
+
+Wiz, the cloud security startup that was in acquisition talks with Google, has decided not to forward with the deal and to remain an independent company, according to an internal note sent to company employees on Monday. Fortune: "While we are flattered by offers we have received, we have chosen to continue on our path to building Wiz," CEO Assaf Rappaport wrote in the note. Rappaport said in the email that the company's next target is to reach $1 billion in annual recurring revenue and to take the company public.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Wiz+Turns+Down+%2423+Billion+Google+Deal%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F07%2F23%2F0239247%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F07%2F23%2F0239247%2Fwiz-turns-down-23-billion-google-deal
+
+## Microsoft: Linux Is the Top Operating System on Azure Today
+ - [https://linux.slashdot.org/story/24/07/22/2157209/microsoft-linux-is-the-top-operating-system-on-azure-today?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://linux.slashdot.org/story/24/07/22/2157209/microsoft-linux-is-the-top-operating-system-on-azure-today?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T01:39:56.508899+00:00
+
+Azure used to be a cloud platform dedicated to Windows. Now, it's the most widely used operating system on Microsoft Azure. The New Stack's Joab Jackson writes: These days, Microsoft expends considerable effort that Linux runs as smoothly as possible on Azure, according to a talk given earlier this year at the Linux Foundation Open Source Summit given by two Microsoft Azure Linux Platforms Group program managers, Jack Aboutboul, and Krum Kashan. "Linux is the #1 operating system in Azure today," Aboutoul said. And all must be supported in a way that Microsoft users have come to expects. Hence, the need for the Microsoft's Linux Platforms Group, which provides support Linux to both the internal customers and to Azure customers. These days, the duo of engineers explained, Microsoft knows about as much as anyone about how to operate Linux at hyperscale. [...]
+ 
+As of today, there are hundreds of Azure and Azure-based services running on Linux, including the Azure Kubernetes Service (AKS)
+
+## Japan's Copyright Rules Draw AI Groups -- and Alarm From Creators
+ - [https://slashdot.org/story/24/07/22/2210233/japans-copyright-rules-draw-ai-groups----and-alarm-from-creators?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/07/22/2210233/japans-copyright-rules-draw-ai-groups----and-alarm-from-creators?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T01:39:53.920866+00:00
+
+The Japan Newspaper Publishers and Editors Association claims that AI-powered search engines by U.S. tech giants like Google and Microsoft likely infringe on copyright by using news articles without permission. Therefore, they're urging the Japanese government to quickly review and revise intellectual property laws to address these issues. Kyodo News reports (translated in English): The association argued in the statement that while traditional search engines direct users to various copyrighted material available online, AI search engines disclose the content, making them a completely different type of service. While stressing that in many instances, the essential content of the referenced article is reprinted in its entirety and therefore constitutes copyright infringement, the association also highlighted the issue of "zero-click searches," where users do not visit the source site. It warned that the lack of traffic could lead to the diminution of news organizations' reporting activ
+
+## Meta Risks Sanctions Over 'Sneaky' Ad-Free Plans Confusing Users, EU Says
+ - [https://tech.slashdot.org/story/24/07/22/212239/meta-risks-sanctions-over-sneaky-ad-free-plans-confusing-users-eu-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/22/212239/meta-risks-sanctions-over-sneaky-ad-free-plans-confusing-users-eu-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T00:35:21.000147+00:00
+
+An anonymous reader quotes a report from Ars Technica: The European Commission (EC) has finally taken action to block Meta's heavily criticized plan to charge a subscription fee to users who value privacy on its platforms. Surprisingly, this step wasn't taken under laws like the Digital Services Act (DSA), the Digital Markets Act (DMA), or the General Data Protection Regulation (GDPR). Instead, the EC announced Monday that Meta risked sanctions under EU consumer laws if it could not resolve key concerns about Meta's so-called "pay or consent" model. Meta's model is seemingly problematic, the commission said, because Meta "requested consumers overnight to either subscribe to use Facebook and Instagram against a fee or to consent to Meta's use of their personal data to be shown personalized ads, allowing Meta to make revenue out of it." Because users were given such short notice, they may have been "exposed to undue pressure to choose rapidly between the two models, fearing that they wo
+
+## Nvidia RTX 40-Series GPUs Hampered By Low-Quality Thermal Paste
+ - [https://tech.slashdot.org/story/24/07/22/2146245/nvidia-rtx-40-series-gpus-hampered-by-low-quality-thermal-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/07/22/2146245/nvidia-rtx-40-series-gpus-hampered-by-low-quality-thermal-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-07-23T00:35:18.819295+00:00
+
+"Anyone who is into gaming knows your graphics card is under strain trying to display modern graphics," writes longtime Slashdot reader smooth wombat. "This results in increased power usage, which is then turned into heat. Keeping your card cool is a must to get the best performance possible."
+ 
+"However, hardware tester Igor's Lab found that vendors for Nvidia RTX 40-series cards are using cheap, poorly applied thermal paste, which is leading to high temperatures and consequently, performance degradation over time. This penny-pinching has been confirmed by Nick Evanson at PC Gamer." From the report: I have four RTX 40-series cards in my office (RTX 4080 Super, 4070 Ti, and two 4070s) and all of them have quite high hotspots -- the highest temperature recorded by an individual thermal sensor in the die. In the case of the 4080 Super, it's around 11 C higher than the average temperature of the chip. I took it apart to apply some decent quality thermal paste and discovered a similar sit
+
