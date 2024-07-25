@@ -1,0 +1,205 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Dog owners get reprieve, but some still anxious over U.S. border rules
+ - [https://www.cbc.ca/news/politics/new-cdc-dog-border-rules-anxiety-1.7274325?cmp=rss](https://www.cbc.ca/news/politics/new-cdc-dog-border-rules-anxiety-1.7274325?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T18:02:12+00:00
+
+<img alt="A close up picture of a brown and black Miniature Dachshund" height="349" src="https://i.cbc.ca/1.7274343.1721858066!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/miniature-dachshund-eddie.jpeg" title="Carylyn Barone lives two blocks away from the U.S. border in South Surrey, B.C., and often takes her miniature dachshund, Eddie, across the border for walks and shopping trips. Under the new rules, she must provide a physical address of where Eddie will be while travelling — and says that doesn&apos;t apply in her case. " width="620" /><p>Some dog owners say the temporary exemption Canada has received from the most onerous new U.S. rules for bringing dogs across the border doesn't go far enough and the reprieve needs to be made permanent.</p>
+
+## Officials in P.E.I. 'working around the clock' to curb spread of oyster disease
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-oysters-msx-update-july-24-1.7274224?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-oysters-msx-update-july-24-1.7274224?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T17:25:38+00:00
+
+<img alt="Oysters in a box." height="349" src="https://i.cbc.ca/1.7264274.1721074789!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/oysters.jpg" title="" width="620" /><p>The Canadian Food Inspection Agency has published the locations of three additional P.E.I. waterways where the presence of an oyster disease has been confirmed. </p>
+
+## Positive news on several notable wildfires across B.C.
+ - [https://www.cbc.ca/news/canada/british-columbia/wildfires-july-24-2024-1.7274190?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/wildfires-july-24-2024-1.7274190?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T17:00:18+00:00
+
+<img alt="An aerial shot of heavy equipment driving on a hill above a river valley town." height="349" src="https://i.cbc.ca/1.7274229.1721852196!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/spences-bridge-protection.jpg" title="Heavy equipment establishes a wildfire protection line above the community of Spences Bridge, B.C. in this still from a video posted by the B.C. Wildfire Service on July 23, 2024." width="620" /><p>Here are the latest updates on some major wildfires burning across B.C.</p>
+
+## Canada might struggle to rein in surge of temporary residents, Bank of Canada projects
+ - [https://www.cbc.ca/news/politics/canada-temporary-residents-bank-of-canada-1.7274212?cmp=rss](https://www.cbc.ca/news/politics/canada-temporary-residents-bank-of-canada-1.7274212?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T16:38:57+00:00
+
+<img alt="Immigration, Refugees and Citizenship Minister Marc Miller speaks during an announcement in the Foyer of the House of Commons, in Ottawa, Thursday, May 23, 2024." height="349" src="https://i.cbc.ca/1.7216107.1716831312!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/immigration-20240523.JPG" title="Immigration, Refugees and Citizenship Minister Marc Miller speaks during an announcement in the Foyer of the House of Commons, in Ottawa, Thursday, May 23, 2024." width="620" /><p>The Bank of Canada is projecting that the federal government could fall short of its goal to shrink temporary residents' share of Canada's population over the next three years.</p>
+
+## Researchers say oxygen is being produced on the ocean floor. The mining company funding them isn't happy
+ - [https://www.cbc.ca/news/science/oxygen-ocean-study-conflict-1.7273929?cmp=rss](https://www.cbc.ca/news/science/oxygen-ocean-study-conflict-1.7273929?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T16:34:53+00:00
+
+<img alt="A lump of mineral with gold flecks sits on a black table" height="349" src="https://i.cbc.ca/1.6570636.1707258267!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/mining-conference-pdac.JPG" title="A polymetallic, or manganese, nodule is displayed the the booth of DeepGreen Resources, a seafloor mining startup, during the Prospectors and Developers Association of Canada (PDAC) annual convention in Toronto, Ontario, Canada March 4, 2019. REUTERS/Chris Helgren" width="620" /><p>The discovery of oxygen being produced on the ocean floor — apparently by ancient lumps of metal — has put the scientists behind the landmark study at odds with the Canada-based mining company that funded them.</p>
+
+## 'They were mean to me': 7-year-old Saskatoon girl describes lemonade stand robbery
+ - [https://www.cbc.ca/news/canada/saskatoon/7-year-old-lemonade-stand-robbery-1.7273886?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/7-year-old-lemonade-stand-robbery-1.7273886?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T15:29:06+00:00
+
+<img alt="girl at stand" height="349" src="https://i.cbc.ca/1.7273903.1721842492!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/maddy.jpg" title="Madison Vanden Dungen&apos;s stand is a fixture on her block." width="620" /><p>Jade Floata says she knew something bad was happening at her daughter Madison Vanden Dungen's lemonade stand when the teenager started serving himself.</p>
+
+## House committee to investigate purchase of Canada's new $9M condo in NYC
+ - [https://www.cbc.ca/news/politics/house-committee-investigating-new-york-condo-purchase-consulate-general-1.7273973?cmp=rss](https://www.cbc.ca/news/politics/house-committee-investigating-new-york-condo-purchase-consulate-general-1.7273973?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T14:29:51+00:00
+
+<img alt="A white living room" height="349" src="https://i.cbc.ca/1.7262636.1720821264!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nyc-consul-general-condo-photo-2.jpg" title="The listing says &apos;a spacious living room provides southern exposure and custom smoke gray oak floors in a parquet pattern, while the adjacent dining room provides eastern exposure and plenty of space for entertaining.&apos;" width="620" /><p>A House of Commons committee will look into the Liberal government's recent purchase of a $9-million condo in Manhattan for its consul general to New York.</p>
+
+## James Webb Space Telescope images massive Jupiter-like planet in a triple-body system
+ - [https://www.cbc.ca/news/science/exoplanet-epsindab-1.7272631?cmp=rss](https://www.cbc.ca/news/science/exoplanet-epsindab-1.7272631?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T14:19:21+00:00
+
+<img alt="In the foreground to the left is a sphere half illuminated on the right side, almost filling the image vertically. The surface consists of several parallel, pale-coloured bands aligned horizontally. To the top right is a much smaller orange, circular light source, illuminating the large sphere in the foreground. The background is black with numerous tiny white dots." height="349" src="https://i.cbc.ca/1.7272638.1721761031!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eps-ind-ab-jupiter-like-exoplanet.jpg" title="Artist’s impression of a cold gas giant orbiting a red dwarf. Only a point of light is visible on the JWST/MIRI images. Nevertheless, the initial analysis suggests the presence of a gaseous planet that may have properties similar to Jupiter. " width="620" /><p>Astronomers have directly imaged a 'cold' gas giant planet that is just 12 light-years from Earth and is more massive than previously believed.</p>
+
+## Trump shooter used 'mechanical equipment' to climb roof, may have had collapsible gun stock: FBI
+ - [https://www.cbc.ca/news/world/fbi-wray-congress-1.7273747?cmp=rss](https://www.cbc.ca/news/world/fbi-wray-congress-1.7273747?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T13:47:17+00:00
+
+<img alt="A white haired man is shown speaking in closeup while wearing a suit and tie." height="349" src="https://i.cbc.ca/1.7273839.1721840425!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-trump-shooting.jpg" title="FBI Director Christopher Wray testifies before a House committee about the shooting July 13 at a campaign rally in Butler, Pennsylvania, Wednesday, July 24, 2024, on Capitol Hill. Wray said that the FBI will &quot;leave no stone unturned&quot; in its investigation of the attempted assassination of former President Donald Trump.  " width="620" /><p>Thomas Crooks, the shooter who killed one person and injured Republican presidential candidate Donald Trump on July 13 may have possessed a collapsible stock weapon, FBI Director Christopher Wray told lawmakers on Capitol Hill on Wednesday.</p>
+
+## Sprinter Andre De Grasse, weightlifter Maude Charron chosen as Canada's flag-bearers for opening ceremony
+ - [https://www.cbc.ca/sports/olympics/summer/canada-flag-bearer-paris-2024-july-24-1.7273341?cmp=rss](https://www.cbc.ca/sports/olympics/summer/canada-flag-bearer-paris-2024-july-24-1.7273341?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T13:00:12+00:00
+
+<img alt="Two Canadian athletes celebrate." height="349" src="https://i.cbc.ca/1.7273670.1721834789!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/de-grasse-charron-072424.jpg" title="Six-time Olympic medallist Andre De Grasse, left, and Olympic weightlifting champion Maude Charron, right, were named Canada&apos;s flag-bearers for the Paris 2024 opening ceremony on Wednesday." width="620" /><p>Canada will showcase speed and strength at the opening ceremony of the Paris Olympics. Six-time medallist sprinter Andre De Grasse and champion weightlifter Maude Charron will carry the Canadian flag during Friday’s parade down the Seine, the Canadian Olympic Committee announced on Wednesday.</p>
+
+## Hottest day record broken globally — for 2nd time this week
+ - [https://www.cbc.ca/news/science/hottest-day-record-july-22-1.7273673?cmp=rss](https://www.cbc.ca/news/science/hottest-day-record-july-22-1.7273673?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T12:45:05+00:00
+
+<img alt="A man with a shirt over his head looks down at the hood of a car." height="349" src="https://i.cbc.ca/1.7273702.1721836094!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-weather.JPG" title="An Iranian taxi driver checks his car during the heat surge in Tehran, Iran July 21, 2024.  " width="620" /><p>Monday was recorded as the hottest day ever globally, beating a record set the day before, as countries around the world from Japan to Bolivia to the United States continue to feel the heat, according to the European climate change service.</p>
+
+## Israel's Benjamin Netanyahu set to address Congress after divisive invitation
+ - [https://www.cbc.ca/news/world/washington-netanyahu-congress-1.7273376?cmp=rss](https://www.cbc.ca/news/world/washington-netanyahu-congress-1.7273376?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T10:18:25+00:00
+
+<img alt="A man in a suit and tie gestures with his right hand while speaking at a podium, with Hebrew letters shown on the wall in the background." height="349" src="https://i.cbc.ca/1.7273686.1721835373!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-israel-netanyahu.jpg" title="Israeli Prime Minister Benjamin Netanyahu speaks during a memorial service for former U.S. Sen. Joseph Lieberman, D-Ct., Wednesday, July 24, 2024, at the Washington Hebrew Congregation, in Washington. " width="620" /><p>Israeli Prime Minister Benjamin Netanyahu speaks before the U.S. Congress on Wednesday, with some Democratic lawmakers boycotting the appearance, and continuing protests expected in Washington over his hardline government's stance on the war in Gaza.</p>
+
+## Inside the rebuilding of the Notre-Dame Cathedral, 5 years after devastating fire
+ - [https://www.cbc.ca/news/world/notre-dame-rebuilding-photo-scroller-1.7265895?cmp=rss](https://www.cbc.ca/news/world/notre-dame-rebuilding-photo-scroller-1.7265895?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T10:00:00+00:00
+
+<img alt="Scaffolding is seen over a cathedral." height="349" src="https://i.cbc.ca/1.7265901.1721181226!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/notre-dame-rebuilding-01.JPG" title="Scaffolding over the Notre-Dame Cathedral in Paris, which is being rebuilt, in June 2024." width="620" /><p>Over the last several years, few outside the organization tasked with rebuilding the Notre-Dame Cathedral in Paris have been allowed onto the construction site and up onto the scaffolding. But, months ahead of the official reopening to the public, CBC News obtained rare permission to do just that.</p>
+
+## Bank of Canada cuts key interest rate again, more cuts 'reasonable' if inflation keeps easing
+ - [https://www.cbc.ca/news/business/bank-of-canada-july-meeting-1.7273417?cmp=rss](https://www.cbc.ca/news/business/bank-of-canada-july-meeting-1.7273417?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T09:50:21+00:00
+
+<img alt="A photo of a white stone building, taken from a very low angle. The sign reads &apos;Bank of Canada.&apos;" height="349" src="https://i.cbc.ca/1.7226381.1717673199!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/bank-of-canada-ottawa.jpg" title="Exterior of the Bank of Canada in Ottawa. Taken on June 5, 2024." width="620" /><p>The Bank of Canada cut its key interest rate to 4.5 per cent on Wednesday, a move that was widely expected by economists.</p>
+
+## Staff warned immigration minister about setting 'significant precedent' with Ukraine visa program
+ - [https://www.cbc.ca/news/politics/minister-warned-over-ukranian-visa-program-1.7273396?cmp=rss](https://www.cbc.ca/news/politics/minister-warned-over-ukranian-visa-program-1.7273396?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T09:16:09+00:00
+
+<img alt="Minister of Housing, Infrastructure and Communities Sean Fraser is pictured on Parliament Hill." height="349" src="https://i.cbc.ca/1.7147385.1721826933!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cabinet-20240130.JPG" title="Minister of Housing, Infrastructure and Communities Sean Fraser released a three-minute video on social media that blasts Poilievre&apos;s housing plan as a poor imitation of what the government is already doing." width="620" /><p>Federal immigration officials warned the government it risked undermining the temporary immigration system with the design of the emergency visa program for war-displaced Ukrainians, newly released court documents show.</p>
+
+## Privacy commissioner investigating customer claims they can't delete PC Optimum accounts
+ - [https://www.cbc.ca/news/business/privacy-commissioner-pc-optimum-investigation-1.7273382?cmp=rss](https://www.cbc.ca/news/business/privacy-commissioner-pc-optimum-investigation-1.7273382?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T08:41:09+00:00
+
+<img alt="A person holds a black wallet with a white and red card sticking out of it." height="349" src="https://i.cbc.ca/1.4585425.1721824765!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pc-optimum-card-in-wallet.jpg" title="The PC Optimum card replaced the PC Plus and Shoppers Optimum loyalty rewards cards following the 2014 merger of Loblaw and Shoppers Drug Mart, two of Canada’s largest grocery and pharmacy chains. Technical issues, including the loss of points and an inability to register, have plagued the new Optimum card since its launch on Feb. 1, 2018. This photo was taken in Toronto on March 20, 2018. (Evan Mitsui/CBC)" width="620" /><p>The Office of the Privacy Commissioner of Canada says it's opened an investigation into allegations that some Loblaw customers have been unable to delete their PC Optimum accounts.</p>
+
+## Canadian women's soccer coach to miss Olympic opener, 2 staffers sent home after drone incidents
+ - [https://www.cbc.ca/sports/olympics/summer/soccer/canada-soccer-drone-july-24-1.7273360?cmp=rss](https://www.cbc.ca/sports/olympics/summer/soccer/canada-soccer-drone-july-24-1.7273360?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T07:07:53+00:00
+
+<img alt="Soccer coach gestures while watching game" height="349" src="https://i.cbc.ca/1.7221283.1717184969!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/soc-canada-priestman-20240130.JPG" title="Canada coach Bev Priestman, seen during a Women&apos;s World Cup soccer match last July, expressed her concern on Friday over a foiled plan to attack soccer matches at the Paris Olympics." width="620" /><p>The Canadian Olympic Committee says an assistant coach and a Canada Soccer analyst have been removed from the Canadian Olympic team and sent home after two drone incidents at the Paris Games. Head coach Bev Priestman has also removed herself from coaching the opening game against New Zealand on Thursday.</p>
+
+## Salt Lake City confirmed as host of the 2034 Winter Olympic Games
+ - [https://www.cbc.ca/sports/olympics/winter/salt-lake-city-approval-2034-olympics-host-1.7273358?cmp=rss](https://www.cbc.ca/sports/olympics/winter/salt-lake-city-approval-2034-olympics-host-1.7273358?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T07:03:53+00:00
+
+<img alt="The Olympic flag is shown on a flagpole." height="349" src="https://i.cbc.ca/1.6682869.1721819010!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/olympic-flag.jpg" title="Russian athletes, if permitted to return to competition, will be need to follow specific guidelines, including a ban on using Russian colours and flags." width="620" /><p>Salt Lake City was formally awarded the 2034 Winter Olympics following a Wednesday vote by the International Olympic Committee in Paris, which gives Utah its second Games after hosting in 2002.</p>
+
+## Jeopardy! host Alex Trebek gets first-class tribute with U.S. Postal Service stamp
+ - [https://www.cbc.ca/news/canada/sudbury/us-postal-service-alex-trebek-stamp-1.7273345?cmp=rss](https://www.cbc.ca/news/canada/sudbury/us-postal-service-alex-trebek-stamp-1.7273345?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T06:32:41+00:00
+
+<img alt="a white and blue stamp is on an envelope" height="349" src="https://i.cbc.ca/1.7273349.1721816393!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/alex-trebek-stamp.JPG" title="On Monday, which would have been Alex Trebek&apos;s 84th birthday, the U.S. Postal Service released stamps in his honour." width="620" /><p>Jeopardy! host Alex Trebek is being posthumously honoured with a U.S. postage stamp.</p>
+
+## Pilot lone survivor in Nepal plane crash that killed 18 others
+ - [https://www.cbc.ca/news/world/nepal-plane-crash-1.7273333?cmp=rss](https://www.cbc.ca/news/world/nepal-plane-crash-1.7273333?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T06:30:56+00:00
+
+<img alt="Large metallic pieces of debris are shown in a field that appears muddy and wet." height="349" src="https://i.cbc.ca/1.7273342.1721813456!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2162600579.jpg" title="Officials examine the site after a Saurya Airlines&apos; plane crashed during takeoff at the Tribhuvan International Airport in Kathmandu on July 24, 2024. A passenger plane crashed on takeoff in Kathmandu on July 24, with the pilot rescued from the flaming wreckage but all 18 others aboard killed, police in the Nepali capital told AFP. (Photo by PRAKASH MATHEMA / AFP) (Photo by PRAKASH MATHEMA/AFP via Getty Images)" width="620" /><p>A domestic plane crashed Wednesday just after taking off from the airport serving Nepal's capital, killing 18 people and injuring a pilot who was the lone survivor.</p>
+
+## Recruitment agency promised to bring 150 doctors to Manitoba. A year later, not one has arrived
+ - [https://www.cbc.ca/news/canada/manitoba/zero-doctors-recruited-manitoba-canadian-health-labs-1.7271214?cmp=rss](https://www.cbc.ca/news/canada/manitoba/zero-doctors-recruited-manitoba-canadian-health-labs-1.7271214?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T06:00:00+00:00
+
+<img alt="The &apos;Canadian Health Labs&apos; logo is shown on a computer screen that has a white background." height="349" src="https://i.cbc.ca/1.7271569.1721679180!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canadian-health-labs.jpg" title="Canadian Health Labs, a staffing agency that started recruiting health-care professionals during the COVID-19 pandemic, has failed to recruit a single physician to Manitoba one year after it signed a contract to bring over 150 doctors over two years." width="620" /><p>One year after the Manitoba government hired a staffing agency to bring 150 doctors to work in the province, not a single physician has arrived.</p>
+
+## 18-year-old suspect in Ontario teen girl's killing had court order to stay away from her
+ - [https://www.cbc.ca/news/canada/london/18-year-old-who-fatally-stabbed-teen-girl-before-police-shot-him-had-prior-domestic-assault-charges-docs-show-1.7273114?cmp=rss](https://www.cbc.ca/news/canada/london/18-year-old-who-fatally-stabbed-teen-girl-before-police-shot-him-had-prior-domestic-assault-charges-docs-show-1.7273114?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T05:00:00+00:00
+
+<img alt="Breanna Broadfoot and her family&apos;s cat, Stitch, in an undated photo." height="349" src="https://i.cbc.ca/1.7273137.1721777438!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/breanna-broadfoot-and-stitch.jpg" title="Breanna Broadfoot and her family&apos;s cat, Stitch, in an undated photo." width="620" /><p>An 18-year-old man shot and killed by London, Ont., police last week after the fatal stabbing of Breanna Broadfoot was previously accused of assaulting and choking the 17-year-old and under a court order not to contact her, CBC News has learned. </p>
+
+## With new Flames arena, Calgary pays more to get more
+ - [https://www.cbc.ca/news/canada/calgary/arena-calgary-flames-design-green-line-analysis-1.7272975?cmp=rss](https://www.cbc.ca/news/canada/calgary/arena-calgary-flames-design-green-line-analysis-1.7272975?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T04:00:46+00:00
+
+<img alt="a drawing of a large new hockey arena" height="349" src="https://i.cbc.ca/1.7271581.1721679465!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/new-scotia-place-arena.jpg" title="Officials released renderings Monday of the new event centre that will replace the Scotiabank Saddledome as the home of the Calgary Flames." width="620" /><p>There's more to entice event-goers after arena budget grew by nearly 50 per cent. But will it get scaled back if cost pressures mount?</p>
+
+## Brandon Montour to be welcomed home to Six Nations today with Stanley Cup parade
+ - [https://www.cbc.ca/news/canada/hamilton/brandon-montour-nhl-stanley-cup-1.7272363?cmp=rss](https://www.cbc.ca/news/canada/hamilton/brandon-montour-nhl-stanley-cup-1.7272363?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T04:00:00+00:00
+
+<img alt="Florida Panthers defenseman Brandon Montour, centre, lifts the Stanley Cup trophy after Game 7 of the NHL hockey Stanley Cup Final against the Edmonton Oilers, Monday, June 24, 2024, in Sunrise, Fla. The Panthers defeated the Oilers 2-1." height="349" src="https://i.cbc.ca/1.7272473.1721754939!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/stanley-cup-oilers-panthers-hockey.jpg" title="Florida Panthers defenseman Brandon Montour lifts the Stanley Cup trophy after Game 7 of the NHL hockey Stanley Cup Final against the Edmonton Oilers, Monday, June 24, 2024, in Sunrise, Fla. He&apos;ll celebrate on July 24, 2024 with a Stanley Cup parade at Six Nations in Ontario, where he was born and grew up. " width="620" /><p>Panthers defenceman Brandon Montour was welcomed home as a hero when he returned to Six Nations last summer after Florida's NHL finals loss to the Vegas Golden Knights. Today, he'll also be welcomed as a champion in the Brantford, Ont.-area community, with a St
+
+## Female Olympians are often judged on their looks. Now, some are taking control of their image
+ - [https://www.cbc.ca/news/world/long-nails-olympics-1.7270923?cmp=rss](https://www.cbc.ca/news/world/long-nails-olympics-1.7270923?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T04:00:00+00:00
+
+<img alt="A female gymnast poses" height="349" src="https://i.cbc.ca/1.7270942.1721653614!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gymnastics.JPG" title="Minneapolis, Minnesota, USA; Jordan Chiles competes on the floor during the U.S. Olympic Team Gymnastics Trials at Target Center on June 30, 2024. " width="620" /><p>Female athletes have frequently been judged more for their appearance than their skills. But with women's sports being taken more seriously, some Olympians are taking control of the narrative and choosing to express their individuality through their person style with long nails, colourful hair and bold looks.</p>
+
+## If too many meds create too many side-effects, deprescribing might be the answer
+ - [https://www.cbc.ca/news/health/prescription-drugs-medication-1.7272477?cmp=rss](https://www.cbc.ca/news/health/prescription-drugs-medication-1.7272477?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T04:00:00+00:00
+
+<img alt="Person hand sorts prescription pills into an organizer. " height="349" src="https://i.cbc.ca/1.7272637.1721760953!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1379412351.jpg" title="Person with Multiple Sclerosis hand sorting prescription pills." width="620" /><p>Taking too many prescription pills may cause side-effects and potential problems. Deprescribing from medications that are no longer necessary to a patient’s health may relieve side-effects and improve health.</p>
+
+## Joe Biden was compelled to stand down — could Trudeau go next?
+ - [https://www.cbc.ca/news/politics/trudeau-biden-democrat-liberal-trump-1.7272657?cmp=rss](https://www.cbc.ca/news/politics/trudeau-biden-democrat-liberal-trump-1.7272657?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T04:00:00+00:00
+
+<img alt="Prime Minister Justin Trudeau talks with U.S. President Joe Biden as they take part in a family photo at the G7 Summit in Savelletri Di Fasano, Italy on Thursday, June 13, 2024." height="349" src="https://i.cbc.ca/1.7249801.1719619635!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trudeau-italy-20240613.JPG" title="Prime Minister Justin Trudeau talks with U.S. President Joe Biden as they take part in a family photo at the G7 Summit in Savelletri Di Fasano, Italy on Thursday, June 13, 2024." width="620" /><p>The subtext of Trudeau’s four-sentence statement on Sunday was so obvious, it barely qualified as subtext. The prime minister, faced himself with calls to resign, was responding to another leader’s decision to step aside.</p>
+
+## Just over a dozen Russian athletes will compete as neutral in Paris. Some want them banned altogether
+ - [https://www.cbc.ca/news/world/russian-athletes-olympics-1.7272143?cmp=rss](https://www.cbc.ca/news/world/russian-athletes-olympics-1.7272143?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T04:00:00+00:00
+
+<img alt="Ukrainians in Paris rally in memory of athletes they say have been killed during the war in Ukraine, two weeks before the start of the Paris 2024 Olympics and Paralympics Games in Paris, France, July 13, 2024." height="349" src="https://i.cbc.ca/1.7272156.1721741347!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-france.JPG" title="Ukrainians in Paris rally in memory of athletes they say have been killed during the war in Ukraine, two weeks before the start of the Paris 2024 Olympics and Paralympics Games in Paris, France, July 13, 2024." width="620" /><p>The Paris Olympics are about to get underway and Russia will have a very small delegation as a result of its war on Ukraine and the IOC screening process.</p>
+
+## Refugee health-care workers bringing strong skills, full hearts as they take on new jobs in a new land
+ - [https://www.cbc.ca/news/canada/nova-scotia/refugees-health-care-workers-africa-1.7272598?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/refugees-health-care-workers-africa-1.7272598?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-24T04:00:00+00:00
+
+<img alt="Man wearing scrubs leans over elderly woman wearing a bib. " height="349" src="https://i.cbc.ca/1.7272639.1721761109!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/abdifatah-sabriye.jpg" title="Continuing care assistant, Abdifatah Sabriye, assists resident, Dianne Cook, at mealtime." width="620" /><p>Nova Scotia health-care workers were recruited from one of the world's largest refugee camps as part of a federal program that aims to bridge the gap between skilled displaced people and labour shortages.</p>
+
