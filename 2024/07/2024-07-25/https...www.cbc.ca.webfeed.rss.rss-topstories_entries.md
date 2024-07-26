@@ -1,0 +1,184 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Canada Soccer suspends women's head coach Priestman for remainder of Paris Olympics
+ - [https://www.cbc.ca/sports/olympics/summer/soccer/canada-soccer-priestman-suspended-1.7275945?cmp=rss](https://www.cbc.ca/sports/olympics/summer/soccer/canada-soccer-priestman-suspended-1.7275945?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T19:42:48+00:00
+
+<img alt="A women&apos;s soccer coach points." height="349" src="https://i.cbc.ca/1.6362454.1721950826!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1371187151.jpg" title="Canada coach Bev Priestman reacts on the sidelines during an Arnold Clark Cup match against England on Feb. 17." width="620" /><p>Canadian women's soccer head coach Bev Priestman has been suspended for the remainder of the Paris 2024 Olympic Games by Canada Soccer, the organization announced in a statement on Thursday.</p>
+
+## Harris's approach to Netanyahu is a chance to set herself apart from Biden. Fractured voters are watching
+ - [https://www.cbc.ca/news/world/kamala-harris-israel-hamas-war-netanyahu-meeting-1.7275687?cmp=rss](https://www.cbc.ca/news/world/kamala-harris-israel-hamas-war-netanyahu-meeting-1.7275687?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T19:11:13+00:00
+
+<img alt="A woman and a man wearing suits stand in front of Israeli and U.S. flags. " height="349" src="https://i.cbc.ca/1.7275891.1721947590!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-harris-netanyahu.jpg" title="U.S. Vice-President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu appear before a meeting at the Eisenhower Executive Office Building on the White House complex in Washington, D.C., on Thursday, July 25, 2024. " width="620" /><p>U.S. Vice-President Kamala Harris's Thursday meeting with Israeli Prime Minister Benjamin Netanyahu was her first chance to distinguish herself from the Biden administration. But political scientists say she must tread carefully to balance a Democratic base fractured by one of the most divisive foreign policy issues of the campaign.</p>
+
+## Why Hollywood's video game actors are going on strike
+ - [https://www.cbc.ca/news/entertainment/sag-aftra-video-game-actors-strike-1.7275627?cmp=rss](https://www.cbc.ca/news/entertainment/sag-aftra-video-game-actors-strike-1.7275627?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T18:02:47+00:00
+
+<img alt="video game voice actors picket outside Warner Bros. Studios" height="349" src="https://i.cbc.ca/1.7275686.1721940469!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/video-game-voice-actors-strike.jpg" title="In this photo taken Nov. 3, 2016, video game voice actors picket outside Warner Bros. Studios in Burbank, Calif. " width="620" /><p>Hollywood's video game performers have voted to go on strike as of 12:01 a.m. PT Friday, throwing part of the entertainment industry into another work stoppage after talks for a new contract with major game studios broke down over artificial intelligence protections.</p>
+
+## Senate report calls for Canada to compel Catholic entities to release residential school records
+ - [https://www.cbc.ca/news/indigenous/senate-report-calls-for-canada-to-compel-catholic-entities-to-release-residential-school-records-1.7275560?cmp=rss](https://www.cbc.ca/news/indigenous/senate-report-calls-for-canada-to-compel-catholic-entities-to-release-residential-school-records-1.7275560?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T17:28:41+00:00
+
+<img alt="Dried flowers rest inside a pair of child&apos;s shoes at a memorial for children who died at the former Kamloops Indian Residential School in B.C." height="349" src="https://i.cbc.ca/1.7250696.1721769742!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/residential-schools-memorial-20210604.jpg" title="Approximately 150,000 First Nations, Inuit and Métis were removed from their families between approximately 1883 until 1997 and forced to attend federally-funded residential schools for more than a century." width="620" /><p>In its 11 recommendations, report urges the Canadian government to compel Catholic entities, as well as some government agencies, to release records to the National Centre for Truth and Reconciliation.</p>
+
+## Ottawa pays First Nation in B.C. $147M for loss of water rights
+ - [https://www.cbc.ca/news/canada/british-columbia/feds-pay-first-nation-in-b-c-147m-over-loss-of-water-rights-1.7275256?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/feds-pay-first-nation-in-b-c-147m-over-loss-of-water-rights-1.7275256?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T17:27:38+00:00
+
+<img alt="People hold drums outside." height="349" src="https://i.cbc.ca/1.7275300.1721942183!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/esk-etemc-vert-lake.jpg" title="Kukpi7 Fred Robbins and Esk&apos;etemc community members at Vert Lake." width="620" /><p>The Esk'etemc First Nation filed with Specific Claims in 2003, raising issues arising from being prevented from completing an irrigation ditch in the 1890s. </p>
+
+## 'Unaccredited analyst' at centre of Olympic drone scandal is senior Canada Soccer official
+ - [https://www.cbc.ca/news/canada/joseph-lombardi-canada-soccer-drone-1.7275499?cmp=rss](https://www.cbc.ca/news/canada/joseph-lombardi-canada-soccer-drone-1.7275499?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T17:21:19+00:00
+
+<img alt="A coach in black is seen pointing on a soccer pitch" height="349" src="https://i.cbc.ca/1.7275515.1721935654!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joseph-lombardi.jpg" title="Joseph Lombardi is seen in Toronto in 2019 in a Canada Soccer handout." width="620" /><p>The Canada Soccer staffer at the centre of the Olympic Games drone scandal appears to have a more formal, senior role in the organization than what officials previously let on this week, according to online records reviewed by CBC News.</p>
+
+## Poilievre vows to defund 'safer supply' drug policies, put money into treatment
+ - [https://www.cbc.ca/news/politics/pierre-poilievre-drug-treatment-safe-supply-1.7275085?cmp=rss](https://www.cbc.ca/news/politics/pierre-poilievre-drug-treatment-safe-supply-1.7275085?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T14:03:14+00:00
+
+<img alt="Conservative Leader Pierre Poilievre stands at a podium set up in a playground in London Ontario. The sign on the podium says &quot;stop the crime.&quot; He is speaking, and wearing a blue jacket and black shirt. " height="349" src="https://i.cbc.ca/1.7275293.1721929831!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pierre-poilievre-london-jl-25.jpg" title="At a press conference at a London, Ont., playground on July 25, 2024, Conservative Leader Pierre Poilievre pledged to defund &quot;safer supply&quot; programs if elected and divert that money into drug treatment." width="620" /><p>Conservative Leader Pierre Poilievre says he will take all federal dollars out of programs and facilities that use prescribed drug alternatives in perhaps his strongest commitment yet to roll back a Liberal drug program he claims is fuelling "chaos" on the country's streets.</p>
+
+## French sprinter to wear cap during Olympic opening ceremony after hijab dispute resolved
+ - [https://www.cbc.ca/sports/olympics/sounkamba-sylla-cap-hijab-compromise-opening-cerimony-1.7275356?cmp=rss](https://www.cbc.ca/sports/olympics/sounkamba-sylla-cap-hijab-compromise-opening-cerimony-1.7275356?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T14:02:36+00:00
+
+<img alt="A sprinter is seen reaching for a baton in a relay race." height="349" src="https://i.cbc.ca/1.7275367.1721929810!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sounkamba-sylla-26082023.jpg" title="Sounkamba Sylla, left, who will compete in the women&apos;s and mixed relay for France, posted a message on her Instagram account to announce that an arrangement had been made. " width="620" /><p>French sprinter Sounkamba Sylla will be allowed to participate in the opening ceremony at the Paris Olympics wearing a cap to cover her hair, an agreement reached with the French Olympic Committee after Sylla said she was barred because of her hijab.</p>
+
+## McGill withdraws injunction request against pro-Palestinian groups
+ - [https://www.cbc.ca/news/canada/montreal/mcgill-withdraws-injunction-encampment-1.7275314?cmp=rss](https://www.cbc.ca/news/canada/montreal/mcgill-withdraws-injunction-encampment-1.7275314?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T13:32:04+00:00
+
+<img alt="Two groups of protesters separated by police." height="349" src="https://i.cbc.ca/1.7191954.1714671404!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/protest-mcgill.JPG" title="A group of pro-Israel protesters have set up outside the Roddick Gates at the entrance of McGill University&apos;s downtown Montreal campus, steps away from the pro-Palestinian encampment that has been in place for six days. Montreal police officers are standing between both groups." width="620" /><p>McGill University has withdrawn its injunction request against pro-Palestinian groups that had for months camped on its downtown campus, CBC News has learned.</p>
+
+## Russian fraudster uses 19 aliases to defraud Sask. government of $150K
+ - [https://www.cbc.ca/news/canada/saskatoon/russian-fraudster-19-aliases-defrauds-government-150k-1.7274902?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/russian-fraudster-19-aliases-defrauds-government-150k-1.7274902?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T12:17:45+00:00
+
+<img alt="flagand building" height="349" src="https://i.cbc.ca/1.7274920.1721914827!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/court.jpg" title="Alex Alexidze stole more than $150,000 over two years." width="620" /><p>Alex Alexidze admitted to stealing $150,000 through the province's income support program.</p>
+
+## Venezuela's election: More Maduro or a new democratic era?
+ - [https://www.cbc.ca/news/world/venezuela-election-preview-1.7274864?cmp=rss](https://www.cbc.ca/news/world/venezuela-election-preview-1.7274864?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T10:17:08+00:00
+
+<img alt="An older cleanshaven man holds a banner that says &apos;Venezuela Libre&apos; as a woman with her hair pulled back looks on to his left." height="349" src="https://i.cbc.ca/1.7274905.1721914058!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2162583800.jpg" title="Venezuelan opposition presidential candidate Edmundo Gonzalez Urrutia and opposition leader Maria Corina Machado attend a campaign a rally in Maracaibo, Zulia state, Venezuela on July 23, 2024. Venezuela will hold presidential elections on July 28, 2024.  " width="620" /><p>Venezuelan President Nicolás Maduro, in power since 2013 and running for a third term on July 28, is confident he is still the right man to lead the OPEC country, but Sunday's presidential election has attracted a level of voter enthusiasm for the opposition that could topple his regime.</p>
+
+## Canada's premiers forced to confront escalating climate change-related disasters
+ - [https://www.cbc.ca/news/canada/nova-scotia/canada-s-premiers-forced-to-confront-escalating-climate-change-related-disasters-1.7274886?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/canada-s-premiers-forced-to-confront-escalating-climate-change-related-disasters-1.7274886?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T10:11:54+00:00
+
+<img alt="Wisps of smoke arise from a series of forested hills." height="349" src="https://i.cbc.ca/1.7274663.1721867974!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sooke-potholes-park-wildfire.jpg" title="The Old Man Lake wildfire in Sooke Potholes Regional Park is pictured on July 24, 2024." width="620" /><p>As Canada's premiers reckoned with housing, health care and their contentious relationship with Ottawa during meetings last week in Halifax, many of them remained consumed by climate change-related natural disasters that have only escalated since they returned home.</p>
+
+## B.C.'s coolest weather in a month expected to aid wildfire fight
+ - [https://www.cbc.ca/news/canada/british-columbia/cool-temperatures-wildfire-fight-1.7274859?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/cool-temperatures-wildfire-fight-1.7274859?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T09:49:58+00:00
+
+<img alt="Tufts of smoke arise from a forested area next to a river." height="349" src="https://i.cbc.ca/1.7270464.1721881448!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aylwin-creek-wildfire.jpg" title="The Aylwin Creek wildfire is seen burning just west of Highway 6 in B.C.&apos;s southeast on July 18, 2024. " width="620" /><p>Firefighters in British Columbia are expecting the warmer-than-usual weather of late to ease off on Thursday, fuelling hope for more respite in their battle against more than 400 blazes.</p>
+
+## Man punches grizzly in face during bear attack in northern B.C.
+ - [https://www.cbc.ca/news/canada/british-columbia/man-punches-grizzly-1.7274199?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/man-punches-grizzly-1.7274199?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T09:00:00+00:00
+
+<img alt="A grizzly bear cub walks on short grass." height="349" src="https://i.cbc.ca/1.6915793.1721854746!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hunting-grizzlies.jpg" title="In this Sept. 25, 2013 photo, a grizzly bear cub searches for fallen fruit beneath an apple tree a few miles from the north entrance to Yellowstone National Park in Gardiner, Mont. " width="620" /><p>A B.C. cyclist is recovering after a run-in with a grizzly that ended with the bear getting punched in the face. </p>
+
+## Loblaw, George Weston to pay $500M for bread price-fixing scheme in record antitrust settlement
+ - [https://www.cbc.ca/news/business/loblaw-bread-price-settlement-1.7274820?cmp=rss](https://www.cbc.ca/news/business/loblaw-bread-price-settlement-1.7274820?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T07:37:53+00:00
+
+<img alt="Aerial (drone) Images of Loblaw Company headquarters." height="349" src="https://i.cbc.ca/1.7274834.1721908450!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/03-04-loblaw-hq-early-spring-drone-photos.jpg" title="Loblaw headquarters are seen in a 2024 image captured via droneLoblaw has agreed to a settlement figure in a bread price-fixing lawsuit, eight years after the yearslong scheme came to light." width="620" /><p>Loblaw Cos. Ltd. and its parent company George Weston Ltd. say they have agreed to pay $500 million to settle a class-action lawsuit regarding their involvement in a bread price-fixing scheme.</p>
+
+## 'Love shouldn't hurt': Vigil for slain London, Ont., teen puts focus on preventing domestic violence
+ - [https://www.cbc.ca/news/canada/london/breanna-broadfoot-vigil-london-ontario-1.7274690?cmp=rss](https://www.cbc.ca/news/canada/london/breanna-broadfoot-vigil-london-ontario-1.7274690?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T07:15:52+00:00
+
+<img alt="Community members gathered at Ed Blake Park for a candlelight vigil to honour Breanna Broadfoot, organized by her family. The 17-year-old died last week after a stabbing that police have linked to intimate partner violence." height="349" src="https://i.cbc.ca/1.7274692.1721906062!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/crowd-for-breanna-vigil.jpg" title="Community members gathered at Ed Blake Park for a candlelight vigil to honour Breanna Broadfoot, who died after being stabbed by an 18-year-old she had dated. " width="620" /><p>Hundreds of candles were shining bright as people in London, Ont., came together at Ed Blake Park to celebrate the life of Breanna Broadfoot, 17, and show support for victims and survivors of intimate partner violence. </p>
+
+## Philippine oil tanker sinks, raising fears of major oil spill in Manila Bay
+ - [https://www.cbc.ca/news/world/philippines-tanker-spill-1.7274804?cmp=rss](https://www.cbc.ca/news/world/philippines-tanker-spill-1.7274804?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T06:53:44+00:00
+
+<img alt="The top of a vessel is shown above the waterline in a still taken from video." height="349" src="https://i.cbc.ca/1.7274807.1721902568!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/philippines-disaster-oil-spill.JPG" title="A handout photo released by the Philippine Coast Guard shows the tip of MT Terra Nova protruding in Manila Bay, Philippines, July 25, 2024. " width="620" /><p>A Philippine oil tanker sank in Manila Bay early Thursday after encountering huge waves, and the coast guard was working to determine whether the vessel was leaking oil — in what could be a major spill — after it rescued 16 of 17 crew members in a nighttime operation, officials said.</p>
+
+## N.S. customers who bought water systems after 'aggressive' sales pitch must still honour contracts
+ - [https://www.cbc.ca/news/canada/nova-scotia/customers-contracts-atlantic-environmental-systems-1.7271536?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/customers-contracts-atlantic-environmental-systems-1.7271536?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T05:00:00+00:00
+
+<img alt="Two people sit at a kitchen table looking at a paper contract between them. One is an older Caucasian man, balding and wearing glasses and a blue shirt. The other person is a Caucasian woman with blonde hair, wearing a white and blue striped dress. " height="349" src="https://i.cbc.ca/1.7271557.1721678945!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bob-dobson-and-jennifer-keefe.jpg" title="Bob Dobson and his daughter Jennifer Keefe review a contract Dobson signed with Atlantic Environmental Systems in November 2023. " width="620" /><p>The Nova Scotia government said it revoked the direct sellers permit for Atlantic Environmental Systems after receiving nine complaints from consumers about tactics that “pressured consumers to immediately sign sales agreements.” However, the province said it does not have the authority to void the contracts those customers signed.</p>
+
+## Woman sues Bell, customer service rep who allegedly shared phone number with harassers
+ - [https://www.cbc.ca/news/canada/nova-scotia/bell-mobility-agent-shared-private-client-data-with-freedom-convoy-harassers-1.7273497?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/bell-mobility-agent-shared-private-client-data-with-freedom-convoy-harassers-1.7273497?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T05:00:00+00:00
+
+<img alt="A woman with dark hair sits in front of a window in a black shirt." height="349" src="https://i.cbc.ca/1.7273522.1721830815!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/richelle-mccormick.JPG" title="Richelle McCormick, known on TikTok by her handle &quot;genxpuma&quot;, says an agent accessed her Bell Mobility file numerous times to retrieve and share her personal information." width="620" /><p>A Cape Breton woman whose video defending a transgender rights advocate made her the target of online vitriol and threats is suing her cellphone provider and a customer service agent she alleges shared her number and home address with harassers. </p>
+
+## Donations pour in for N.L. woman who couldn't afford to bury her daughter
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/strickland-family-burial-1.7273805?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/strickland-family-burial-1.7273805?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T04:30:00+00:00
+
+<img alt="Woman with short hair standing in park" height="349" src="https://i.cbc.ca/1.7273871.1721843698!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/janice-strickland.jpg" title="Janice Strickland says her community came through and helped her raise enough money to bury her daughter Sarah." width="620" /><p>A grieving mother says she'll be able to get her daughter out of a hospital freezer storage unit and buried with dignity, after an outpouring of community support has helped the family pay for the cost of a funeral.</p>
+
+## Pentagon warns of potential Russian action in the Arctic — including jamming GPS satellites
+ - [https://www.cbc.ca/news/politics/pentagon-russia-arctic-gps-jamming-1.7274182?cmp=rss](https://www.cbc.ca/news/politics/pentagon-russia-arctic-gps-jamming-1.7274182?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T04:00:27+00:00
+
+<img alt="A French sailor uses binoculars to scan the area as others stand on the bow of the French navy frigate Normandie during a docking manoeuvre in a Norwegian fjord, north of the Arctic circle." height="349" src="https://i.cbc.ca/1.7274217.1721851757!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-norway-france-nato.jpg" title="A French sailor uses binoculars to scan the area as others stand on the bow of the French navy frigate Normandie during a docking manoeuvre in a Norwegian fjord, north of the Arctic circle, Friday March 8, 2024. The French frigate is part of a NATO force conducting exercises in the seas, north of Norway, codenamed Steadfast Defender, which are the largest conducted by the 31 nation military alliance since the cold war. " width="620" /><p>The Pentagon has released an updated Arctic strategy that warns of low-level Russian 'destabilizing' activities in the Far North aimed at the United States, Canada and its allies.</p>
+
+## Chaplain accused of trying to get victim to drop domestic violence charges while he was with Windsor police
+ - [https://www.cbc.ca/news/canada/windsor/windsor-police-chaplain-charged-1.7264266?cmp=rss](https://www.cbc.ca/news/canada/windsor/windsor-police-chaplain-charged-1.7264266?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T04:00:00+00:00
+
+<img alt="Hassan Rkie stands in front of a Windsor police logo holding a paper." height="349" src="https://i.cbc.ca/1.7264419.1721078984!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hassan-rkie.jpg" title="Hassan Rkie is no longer a volunteer chaplain with the Windsor Police Service after being charged with obstructing justice. Rkie is seen in this file photo on December 14, 2023 during a board meeting when he was announced as a police chaplain." width="620" /><p>During his first two months as a volunteer chaplain with Windsor, Ont., police, Hassan Rkie was accused of trying to get a victim to drop domestic violence charges in an ongoing case, CBC News has learned. He's charged with obstructing justice and his next court hearing is Friday.</p>
+
+## Ontario police officer shot colleague 10 times in violent dispute in 2018. Both walk away conviction free
+ - [https://www.cbc.ca/news/canada/hamilton/donovan-perjury-acquittal-1.7272601?cmp=rss](https://www.cbc.ca/news/canada/hamilton/donovan-perjury-acquittal-1.7272601?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T04:00:00+00:00
+
+<img alt="Police cars on a road" height="349" src="https://i.cbc.ca/1.4927540.1721761313!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-niagara-officer-injured-20181129.jpg" title="Niagara Regional Police, OPP and the SIU attend a scene near Roland Road and Sulphur Spring Drive in Pelham, Ont., where a Niagara Regional Police officer was shot by a fellow officer, Thursday, Nov. 29, 2018." width="620" /><p>Det.-Sgt. Shane Donovan, who was with the Niagara Regional Police Service, was acquitted this spring of perjury — the last charge linked to the six-year saga with Const. Nathan Parker that involved multiple police agencies, investigations and trials.</p>
+
+## Police admit they 'lost sight' of speeding van minutes before deadly Highway 401 wrong-way crash
+ - [https://www.cbc.ca/news/canada/toronto/durham-police-report-401-crash-1.7272559?cmp=rss](https://www.cbc.ca/news/canada/toronto/durham-police-report-401-crash-1.7272559?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T04:00:00+00:00
+
+<img alt="A white van on the shoulder of a highway. A police vehicle with lights flashing is on the other side of the median." height="349" src="https://i.cbc.ca/1.7272586.1721759082!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cargo-van-pursuit.JPG" title="Police pursued a cargo van speeding in the opposite direction of traffic on April 29, on Hwy. 401 near Whitby, Ont." width="620" /><p>Officers pursuing a robbery suspect driving a cargo van — later involved in a deadly wrong-way crash near Toronto — initially 'lost sight' of the vehicle minutes before it barrelled onto Highway 401 on April 29, according to a new police report. The van's surviving passenger is due in court Thursday.</p>
+
+## This Gaza man makes videos cooking aid food for children in displacement camps
+ - [https://www.cbc.ca/news/world/gaza-israel-tiktok-aid-food-cooking-1.7274164?cmp=rss](https://www.cbc.ca/news/world/gaza-israel-tiktok-aid-food-cooking-1.7274164?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T04:00:00+00:00
+
+<img alt="A man holds a candied apple while it drips the excess sugar coating into a bowl. " height="349" src="https://i.cbc.ca/1.7274317.1721854424!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shaqoura-s-videos-got-him-thousands-of-followers-in-social-media.jpg" title="He says that because he did food reviews of restaurants in Gaza before the war, he wanted to continue his passion for food blogging even as the war raged on in the backdrop. " width="620" /><p>Hamada Shaqoura, 33, says the kids motivate him to cook so that he can make them some of the meals they used to have before the war. Some of his videos have gone viral on TikTok, and he's since garnered hundreds of thousands of followers.</p>
+
+## Was this man railroaded? 71-year-old vows to fight $615 ticket from CN Police Service
+ - [https://www.cbc.ca/news/canada/london/cn-police-ticket-st-thomas-ontario-1.7273950?cmp=rss](https://www.cbc.ca/news/canada/london/cn-police-ticket-st-thomas-ontario-1.7273950?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-07-25T04:00:00+00:00
+
+<img alt="John Van Duynhoven and his wife Helene were spotted by CN Police about two metres away from the railway tracks in the background of this photo. John was fined $615. " height="349" src="https://i.cbc.ca/1.7274289.1721853629!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/john-van-duynhoven.jpg" title="John Van Duynhoven and his wife Helene were spotted by CN Police about two metres away from the railway tracks in the background of this photo. John was fined $615. " width="620" /><p>A St. Thomas, Ont., man vows to fight a $615 ticket issued by the CN Police Service after the 71-year-old walked his bike onto an open gravel area beside railway tracks where there's no sign indicating it's Canadian National property. A police spokesperson told CBC that a trespasser be fined up to $50,000.</p>
+
