@@ -1,0 +1,37 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## Is that possible to run linux using ibex core?
+ - [https://www.reddit.com/r/RISCV/comments/1ecx8ke/is_that_possible_to_run_linux_using_ibex_core](https://www.reddit.com/r/RISCV/comments/1ecx8ke/is_that_possible_to_run_linux_using_ibex_core)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-26T19:52:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im on the last project of my course, we have 2 main target: improve the ibex core and run an demo app on it. And i personally obsessed with the ideal of building my own version of linux and run it on my core. So i need to check if that is theorically possible or not</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TouristMysterious497"> /u/TouristMysterious497 </a> <br /> <span><a href="https://www.reddit.com/r/RISCV/comments/1ecx8ke/is_that_possible_to_run_linux_using_ibex_core/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ecx8ke/is_that_possible_to_run_linux_using_ibex_core/">[comments]</a></span>
+
+## Can any one tell me where I'm wrong . Why s0 & s1 registers are showing values 0x000000000000 when I type reg 0 x8 it shows me the error and with reg 0 s0 it shows me this.And how I can read all registers value in spike . Please guide me with proper steps.
+ - [https://www.reddit.com/r/RISCV/comments/1ecx16i/can_any_one_tell_me_where_im_wrong_why_s0_s1](https://www.reddit.com/r/RISCV/comments/1ecx16i/can_any_one_tell_me_where_im_wrong_why_s0_s1)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-26T19:43:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1ecx16i/can_any_one_tell_me_where_im_wrong_why_s0_s1/"> <img alt="Can any one tell me where I'm wrong . Why s0 &amp; s1 registers are showing values 0x000000000000 when I type reg 0 x8 it shows me the error and with reg 0 s0 it shows me this.And how I can read all registers value in spike . Please guide me with proper steps." src="https://preview.redd.it/f4wky9cd2xed1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9907fe2a112b2eced09d139823604a5ac8a67cb9" title="Can any one tell me where I'm wrong . Why s0 &amp; s1 registers are showing values 0x000000000000 when I type reg 0 x8 it shows me the error and with reg 0 s0 it shows me this.And how I can read all registers value in spike . Please guide me with proper steps." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChanceStuff21"> /u/ChanceStuff21 </a> <br /> <span><a href="https://i.redd.it/f4wky9cd2xed1.jpeg">[link]</a></span> &#32;
+
+## Why RoCC is dedicated to a single core?
+ - [https://www.reddit.com/r/RISCV/comments/1eciapi/why_rocc_is_dedicated_to_a_single_core](https://www.reddit.com/r/RISCV/comments/1eciapi/why_rocc_is_dedicated_to_a_single_core)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-26T07:40:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I'm new to chipyard system. While looking for the entire chipyard system, I found out that RoCC Accelerator is dedicated to a single core.</p> <p>Is there any philosophy with this design choice? Also I want to know whether this is a common practice.<br /> Also where can I find the common practice of these kind of SoC. </p> <p>I want to look for commercial chip like apple's M series or Qualcomm's snapdragon series, but I can't find the detailed information.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quick-Yellow6579"> /u/Quick-Yellow6579 </a> <br /> <span><a href="https://www.reddit.com/r/RISCV/comments/1eciapi/why_rocc_is_dedicated_to_a_single_core/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1eciapi/why_rocc_is_dedicated_to_a_single_core/">[comments]</a></span>
+
+## RISC-V consumer desktop motherboards with uefi firmware support
+ - [https://www.reddit.com/r/RISCV/comments/1echjtc/riscv_consumer_desktop_motherboards_with_uefi](https://www.reddit.com/r/RISCV/comments/1echjtc/riscv_consumer_desktop_motherboards_with_uefi)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-26T06:50:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are there any Risc-V consumer desktop motherboards with uefi firmware support?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/R313J283"> /u/R313J283 </a> <br /> <span><a href="https://www.reddit.com/r/RISCV/comments/1echjtc/riscv_consumer_desktop_motherboards_with_uefi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1echjtc/riscv_consumer_desktop_motherboards_with_uefi/">[comments]</a></span>
+
+## Invalid -march= option: 'rv32imc_zba_zbb_zbc_zbs'
+ - [https://www.reddit.com/r/RISCV/comments/1ecfi0c/invalid_march_option_rv32imc_zba_zbb_zbc_zbs](https://www.reddit.com/r/RISCV/comments/1ecfi0c/invalid_march_option_rv32imc_zba_zbb_zbc_zbs)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-07-26T04:42:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, im trying to build riscv toolchain from source and i ran into this problem. I spend a day searching for this but can't find a solution. So im really appreciate any help, feel pretty despair right now P/s: im using gcc 12.4.0 for compile</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TouristMysterious497"> /u/TouristMysterious497 </a> <br /> <span><a href="https://www.reddit.com/r/RISCV/comments/1ecfi0c/invalid_march_option_rv32imc_zba_zbb_zbc_zbs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ecfi0c/invalid_march_option_rv32imc_zba_zbb_zbc_zbs/">[comments]</a></span>
+

@@ -1,0 +1,352 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Like A Dragon: Yakuza Casts House Of Ninjas Star As Its Tragic Villain
+ - [https://www.gamespot.com/articles/like-a-dragon-yakuza-casts-house-of-ninjas-star-as-its-tragic-villain/1100-6525319/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/like-a-dragon-yakuza-casts-house-of-ninjas-star-as-its-tragic-villain/1100-6525319/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T22:30:00+00:00
+
+<p>A live-action TV series based on Sega's Yakuza and Like a Dragon video games will begin airing on October 25, and at <a href="https://www.gamespot.com/comic-con/">San Diego Comic-Con</a>, more casting details for the show were revealed. Japanese actor and model Ryoma Takeuchi's casting as Kazuma Kiryu, the legendary Dragon of Dojima, was first revealed in June, and he'll be joined by Kento Kaku as Akira Nishikiyama.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4341029-house-of-ninjas.jpg"><img alt="Kento Kaku in Netflix's House of Ninjas" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4341029-house-of-ninjas.jpg" /></a><figcaption>Kento Kaku in Netflix's House of Ninjas</figcaption></figure><p>In the Like a Dragon game series, Nishikiyama grew up with Kazuma in an orphanage and was one of his greatest allies before the events of the first Yakuza game. A complicated character, Nishikiyama murders the patriarch o
+
+## Best VR Headset In 2024
+ - [https://www.gamespot.com/articles/best-vr-headset/1100-6473057/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/best-vr-headset/1100-6473057/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T22:20:00+00:00
+
+<div class="norewrite" title="6473057 - Best VR Headsets - Listicle">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4341451-61i66n7se6l._sl1500_.jpg" />                                 <a href="https://www.amazon.com/Meta-Quest-128GB-Breakthrough-Reality-3/dp/B0C8VKH1ZH?tag=gamespot-vrheadsets-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/Meta-Quest-128GB-Breakthrough-Reality-3/dp/B0C8VKH1ZH?tag=gamespot-vrheadsets-20
+
+## Deadpool and Wolverine: Every Deadpool Corps Variant of Deadpool
+ - [https://www.gamespot.com/gallery/deadpool-wolverine-every-deadpool-corps-variants/2900-5636](https://www.gamespot.com/gallery/deadpool-wolverine-every-deadpool-corps-variants/2900-5636)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T22:05:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4341452-dogpoolagain.jpg" /><br /><em>Credit: Jay Maidment/20th Century Studios</em><br /><h3><p dir="ltr"><strong>Heads up: We'll be discussing some key plot spoilers for <a href="https://www.gamespot.com/reviews/deadpool-and-wolverine-review-status-quo/1900-6418260/">Deadpool &amp; Wolverine</a> in this article. </strong></p><p dir="ltr">Deadpool &amp; Wolverine is the latest of a number of multiversal comic book movies and shows to pop up in recent years, and if Deadpool is crossing the multiverse, then it only makes sense for him to run into some of the <em>many</em> other versions of Deadpool that exist in the Marvel Comics stories, among <a href="https://www.gamespot.com/gallery/deadpool-wolverine-every-cameo-from-the-marvel-and-x-men-films/2900-5632/">the many cameos</a> that this film has in store. It's an encounter that's been teased by the marketing, which has shown off Dogpool and Lady Deadpool, but t
+
+## Mortal Kombat 1 Khaos Reigns Official Announcement Trailer
+ - [https://www.gamespot.com/videos/mortal-kombat-1-khaos-reigns-official-announcement-trailer/2300-6464688](https://www.gamespot.com/videos/mortal-kombat-1-khaos-reigns-official-announcement-trailer/2300-6464688)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T22:01:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4341464-mortalkombat1_khaosreignsofficialannouncementtrailer.mp4.00_02_55_02.still001.jpg" width="480" /> We get our first look at the upcoming Khaos Reigns DLC coming to Mortal Kombat 1 which features Sektor, Cyrax, Noob Saibot, Ghostface from Scream, Conan the Barbarian, and T-1000 from Terminator 2. Animalities are also back and we got all this information from the panel at San Diego Comic Con 2024.
+
+## Mortal Kombat 1's Next DLC Batch Adds Ghost Face, T-1000 Terminator, And Conan The Barbarian
+ - [https://www.gamespot.com/articles/mortal-kombat-1s-next-dlc-batch-adds-ghost-face-t-1000-terminator-and-conan-the-barbarian/1100-6525351/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/mortal-kombat-1s-next-dlc-batch-adds-ghost-face-t-1000-terminator-and-conan-the-barbarian/1100-6525351/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T21:34:00+00:00
+
+<p>During San Diego Comic Con, NetherRealm Studios, the team behind <a href="https://www.gamespot.com/games/mortal-kombat-1/">Mortal Kombat 1,</a> just revealed its latest batch of DLC characters. This new expansion includes various fighters from across the franchise, as well as a handful of iconic movies from the 1980s and '90s. Some of the characters include Conan the Barbarian and Ghost Face.</p><p>This story is developing</p><p> </p>
+
+## How To Change Your Minecraft Skin
+ - [https://www.gamespot.com/articles/how-to-change-your-minecraft-skin/1100-6525089/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-change-your-minecraft-skin/1100-6525089/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T21:00:00+00:00
+
+<p>By default, you're given a basic skin for your character in <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>. While you can easily go through an entire save with the "Steve" skin equipped, you might be looking to add some flair to your character. Below, you can see how to change your Minecraft skin and where to download new ones to equip.</p><h2>Changing your Minecraft Skin</h2><p>The process of swapping your skin in Minecraft works almost the same as <a href="https://www.gamespot.com/articles/how-to-change-your-minecraft-username/1100-6524973/">changing your username</a>, which we also covered in a previous guide. However, the process works differently between Java and Bedrock Editions. We'll list the methods to change your skin in both editions below.</p><p><strong>Java Edition</strong></p><a href="https://www.gamespot.com/articles/how-to-change-your-minecraft-skin/1100-6525089/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Ryan Reynolds Says Fans Hated Deadpool And Wolverine's Original Name
+ - [https://www.gamespot.com/articles/ryan-reynolds-says-fans-hated-deadpool-and-wolverines-original-name/1100-6525350/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ryan-reynolds-says-fans-hated-deadpool-and-wolverines-original-name/1100-6525350/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T20:59:00+00:00
+
+<p>This weekend, <a href="https://www.gamespot.com/reviews/deadpool-and-wolverine-review-status-quo/1900-6418260/">Deadpool and Wolverine</a> may have the biggest box office opening of the year. But would it have had the same impact if Hugh Jackman's Wolverine had been left out of the title? We'll never know, because Ryan Reynolds changed the name of Deadpool 3 thanks to the immediate backlash against it.</p><p>Reynolds and Jackman appeared on Jimmy Kimmel Live as guest hosts, via <a href="https://uk.movies.yahoo.com/movies/hated-ryan-reynolds-changed-deadpool-100000039.html">Yahoo Movies UK</a>. During the interview segment, Reynolds revealed that the original title was Deadpool and Friend, which was a cheeky way to acknowledge Wolverine without saying his name. But once fans got wind of the title, the response was almost universally negative.</p><p>"The title leaked," recalled Reynolds. "We looked at it and listened, and they hated that title. We were not feeling so good about that 
+
+## Stardew Valley: Desert Trader Guide
+ - [https://www.gamespot.com/articles/stardew-valley-desert-trader-guide/1100-6525178/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stardew-valley-desert-trader-guide/1100-6525178/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T20:00:00+00:00
+
+<p>The Desert Trader in <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a> can be found in the Calico Desert. They offer a selection of different items, many of which cannot be bought from any other vendor. The catch here is that the Desert Trader isn't interested in your money, so you will have to trade other items for their wares, with the asking price changing for each item.</p><h2 dir="ltr">Desert Trader</h2><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/scale_super/1599/15997278/4337050-deserttrader.jpg"><img alt="The Desert Trader is open 24/7 almost every day of the year." src="https://www.gamespot.com/a/uploads/scale_super/1599/15997278/4337050-deserttrader.jpg" /></a><figcaption>The Desert Trader is open 24/7 almost every day of the year.</figcaption></figure><p>The Desert Trader is found in the Calico Desert, just a little east of where you get off the bus and they are open all day every day, except for during the Night Ma
+
+## Maligned Epic Account Login Requirement Results In New Steam Game Getting Review Bombed
+ - [https://www.gamespot.com/articles/maligned-epic-account-login-requirement-results-in-new-steam-game-getting-review-bombed/1100-6525349/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/maligned-epic-account-login-requirement-results-in-new-steam-game-getting-review-bombed/1100-6525349/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T19:48:00+00:00
+
+<p>Earth Defense Force 6 launched this week for PC, PS4, and PS5, and the Steam version has faced criticism for requiring an Epic Games Store login for online play. But a change to this controversial requirement is already being explored by the game's developer."</p><p>The announcement seemingly came out of nowhere, as the Epic requirement wasn't communicated to players until launch day when the developers <a href="https://store.steampowered.com/news/app/2291060/view/4361257526914035378">revealed it</a> in a Steam post. Of course, players weren't thrilled about this, and the review status of the game was "mostly negative" upon launch, as <a href="https://www.gamesradar.com/games/third-person-shooter/cult-classic-shooter-series-returns-to-steam-after-5-years-and-immediately-takes-a-piledriver-into-the-review-dumpster-over-epic-games-account-requirement/">Gamesradar reports</a>.</p><p>Developer Sandlot <a href="https://store.steampowered.com/news/app/2291060/view/4361257526917398046?l=e
+
+## GTA Fan Trailer Recreates M. Night Shyamalan's Latest Movie, And He Loves It
+ - [https://www.gamespot.com/articles/gta-fan-trailer-recreates-m-night-shyamalans-latest-movie-and-he-loves-it/1100-6525348/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gta-fan-trailer-recreates-m-night-shyamalans-latest-movie-and-he-loves-it/1100-6525348/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T19:39:00+00:00
+
+<p>M. Night Shyamalan's latest movie, Trap, is scheduled to hit the big screen on August 2. A fan recreated the Grand Theft Auto 5 the film launch, and Shyamalan recently praised the fan-made project.</p><p dir="ltr">The video was initially posted on the<a href="https://www.youtube.com/@FinalFlameProductions/videos"> Final Flame Productions YouTube channel</a>. This account has a history of recreating movie trailers within GTA 5, including Joker 2 and Beverly Hills Cop: Axel F. Shyamalan caught wind of the video featuring his new movie, prompting him to say on <a href="https://x.com/MNightShyamalan/status/1816839173505966319">X/Twitter, "This is so cool!"</a></p><div>          </div><p dir="ltr">Trap tells the story of a father who takes his daughter to a pop concert. But the catch is that the father is a serial killer, and the police have set up the concert to catch him.</p><a href="https://www.gamespot.com/articles/gta-fan-trailer-recreates-m-night-shyamalans-latest-movie-and-he-lov
+
+## Funko Fusion Story Trailer
+ - [https://www.gamespot.com/videos/funko-fusion-story-trailer/2300-6464687](https://www.gamespot.com/videos/funko-fusion-story-trailer/2300-6464687)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T19:36:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4341364-funkofusion-officialstorytrailer.mp4.00_00_39_12.still001.jpg" width="480" /> Birthed from the bowels of the Funko Wonder Works Factory, Eddy is evil incarnate. With the power of Freddy’s Crown, Eddy will travel to every world you love, warping it into his own distorted image.
+
+## Logan Director On The MCU's Biggest Problem
+ - [https://www.gamespot.com/articles/logan-director-on-the-mcus-biggest-problem/1100-6525346/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/logan-director-on-the-mcus-biggest-problem/1100-6525346/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T19:13:00+00:00
+
+<p>If you haven't seen <a href="https://www.gamespot.com/reviews/deadpool-and-wolverine-review-status-quo/1900-6418260/">Deadpool and Wolverine</a> yet, we'll refrain from stating how the film references Logan in both hilarious and poignant ways. Logan was originally intended as Hugh Jackman's final Wolverine performance before he changed his mind and returned for the third Deadpool movie. Now, Logan director James Mangold is weighing in on what he sees as a big problem for shared movie universes like the MCU.</p><p>"I don't do multiverses," said Mangold during an interview with <a href="https://www.rollingstone.com/tv-movies/tv-movie-features/bob-dylan-biopic-james-mangold-exclusive-trailer-1235065964/">Rolling Stone</a>. "It's weird that I've even worked in the world of IP entertainment because I don't like multi-movie universe-building. It's the enemy of storytelling. The death of storytelling. It's more interesting to people the way the Legos connect than the way the story works i
+
+## How To Make A Door In Minecraft
+ - [https://www.gamespot.com/articles/how-to-make-a-door-in-minecraft/1100-6525078/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-a-door-in-minecraft/1100-6525078/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T19:00:00+00:00
+
+<p>When constructing a base in <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>, one of the essential items you need to have is a simple door. While it might seem obvious, a door is the only way for you to enter your base with ease and protect it from the outside world. To see the crafting recipe for a door in Minecraft and how to place one at your base, read the guide below.</p><h2>Making a Door in Minecraft</h2><p>Fortunately, the process to craft a door only requires one basic resource, and it's available as soon as you begin a new world in Minecraft. This means you can have a protected base up and running within the first 15 minutes of a game if you're so inclined. You can see the crafting recipe for a door below:</p><ul><li>At a crafting table, place six wood Planks/Iron Ingots in two columns</li></ul><figure style="width: 2560px;"><a href="https://www.gamespot.com/a/uploads/original/1745/17457013/4336035-minecraftscreenshot2024.07.17-16.00.52.87.png"><img alt="T
+
+## Castle Crashers Is Getting Its First DLC Since 2012, As Behemoth Begins Prototyping New Game
+ - [https://www.gamespot.com/articles/castle-crashers-is-getting-its-first-dlc-since-2012-as-behemoth-begins-prototyping-new-game/1100-6525345/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/castle-crashers-is-getting-its-first-dlc-since-2012-as-behemoth-begins-prototyping-new-game/1100-6525345/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T18:57:00+00:00
+
+<p>Indie developer The Behemoth outlined its plans for the future in a recent livestream, and it includes major updates to games like <a href="https://www.gamespot.com/games/castle-crashers/">Castle Crashers</a> and <a href="https://www.gamespot.com/games/battleblock-theater/">BattleBlock Theater</a>, as well as work on a new game that will soon be in the prototype phase.</p><p dir="ltr">Castle Crashers, the side-scrolling beat-em'-up originally released in 2008, will receive a major update on Steam called Painter Boss Paradise, which is the first new content added to the game since the introduction of new playable characters back in 2012. The update will add Steam Workshop support, allowing for players to create their own characters and share them with others. The Behemoth states in its roadmap trailer that creating characters will be as simple as swapping out a single image and then letting the game handle all the hard stuff like animations.</p><p dir="ltr">For those who don't want 
+
+## Rob McElhenney Flew 6,000 Miles To Film His Deadpool 3 Cameo, But Ryan Reynolds Apparently Cut It
+ - [https://www.gamespot.com/articles/rob-mcehlenney-flew-6000-miles-to-film-his-deadpool-3-cameo-but-ryan-reynolds-apparently-cut-it/1100-6525347/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rob-mcehlenney-flew-6000-miles-to-film-his-deadpool-3-cameo-but-ryan-reynolds-apparently-cut-it/1100-6525347/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T18:46:00+00:00
+
+<p><a href="https://www.gamespot.com/reviews/deadpool-and-wolverine-review-status-quo/1900-6418260/">Deadpool And Wolverine</a> just hit the silver screen, and while fans of the merc with a mouth are flocking to theaters, one person seems especially disappointed with the film: It's Always Sunny In Philadelphia star (and personal friend of Ryan Reynolds) Rob McElhenney. McElhenney aired his grievances on Twitter after attending a screening of the film and discovering his cameo--which he says he flew 6,000 miles to film--was nowhere to be found in the theatrical release.</p><p dir="ltr">"I hope you enjoyed [the cameo] because the theater I was watching in had mistakenly cut it out," McElhenney tweeted alongside a photo of himself and Hugh Jackman on the set of the film. "Since I KNOW Ryan wouldn’t do me like that, I look forward to catching the movie and my cameo again today!"</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">I traveled 6 thousand miles to shoot my c
+
+## Valorant Is Now In Open Beta For Xbox Series X|S And PlayStation 5
+ - [https://www.gamespot.com/articles/valorant-is-now-in-open-beta-for-xbox-series-x-s-and-playstation-5/1100-6525344/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/valorant-is-now-in-open-beta-for-xbox-series-x-s-and-playstation-5/1100-6525344/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T18:46:00+00:00
+
+<p>Riot's 5v5 hero shooter<a href="https://www.gamespot.com/games/valorant/"> Valorant</a> has now entered open beta on consoles. Anyone playing on a PlayStation 5 or Xbox Series X|S can join the fun.</p><p dir="ltr">Before the announcement, the only way to play Valorant on console was through a closed beta that players needed to sign up for. In a series of posts made on the<a href="https://x.com/VALORANT/status/1816867027060920540"> official Valorant X/Twitter account</a>, the studio explained that console players won't be able to play PC players. However, those on Xbox and PlayStation can join each other's games.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">no more codes. download now. <a href="https://t.co/fwCNYapH7M">pic.twitter.com/fwCNYapH7M</a></p>  — VALORANT (@VALORANT) <a href="https://twitter.com/VALORANT/status/1816867027060920540?ref_src=twsrc^tfw">July 26, 2024</a></blockquote>              </div><p dir="ltr">There'll also be shared cross-progres
+
+## Rings Of Power Delivers An Epic Trailer For Season 2 During Comic-Con
+ - [https://www.gamespot.com/articles/rings-of-power-delivers-an-epic-trailer-for-season-2-during-comic-con/1100-6525240/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rings-of-power-delivers-an-epic-trailer-for-season-2-during-comic-con/1100-6525240/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T18:31:00+00:00
+
+<p>Lord of the Rings fans can rejoice as the highly anticipated Season 2 of Prime Video's The Rings of Power is just one month away. It's been two years since the show based on J. R. R. Tolkien's lore of Middle-earth Second Age premiered, and on August 29 the adventure continues.</p><p>At Comic-Con during their panel presentation, Prime Video unleashed an epic trailer for the new season that runs almost four minutes long and doesn't simply hint at the things to come but screams them from the top of Mount Doom. Outside of more Galadriel (Morfydd Clark), Gil-galad (Benjamin Walker), and Celebrimbor (Charles Edwards), there's much to take in. From the first trailer, we saw the forging of the Elven and Dwarven rings--that's 10 right there, but now Sauron (Charles Vickers) is demanding nine more. We see more of the Stranger (Daniel Weyman) and Nori (Markella Kavenagh) still on their quest to recover his lost memories. There's even a brief look at the Balrog, who has been asleep in Moria, a
+
+## The Boys Prequel Series Vought Rising Announced, Features Two Familiar Characters
+ - [https://www.gamespot.com/articles/the-boys-prequel-series-vought-rising-announced-features-two-familiar-characters/1100-6525342/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-boys-prequel-series-vought-rising-announced-features-two-familiar-characters/1100-6525342/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T18:10:00+00:00
+
+<p>During San Diego Comic-Con, Prime Video made a big surprise announcement: A new prequel series for The Boys is in the works. Vought Rising, as it's called, stars Jensen Ackles and Aya Cash reprising their characters from The Boys in a period piece set during the 1950s.</p><p>This is just the latest spin-off, as it follows the animated series The Boys Presents: Diabolical and Gen V. Plans are also in place for <a href="https://www.gamespot.com/articles/the-boys-creator-says-marvel-was-hurt-by-asking-fans-to-know-all-the-stories/1100-6523686/">The Boys: Mexico</a>, but it still has some hurdles to clear to get made. Gen V Season 2 is in the works now and is coming up next before The Boys Season 5--its final season--comes sometime later.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1179/11799911/4341282-theboysvought.jpg"><img alt="The logo for Vought Rising" src="https://www.gamespot.com/a/uploads/original/1179/11799911/4341282-theboysvought.
+
+## Call Of Duty Still Uses Skill-Based Matchmaking For A Pretty Simple Reason
+ - [https://www.gamespot.com/articles/call-of-duty-still-uses-skill-based-matchmaking-for-a-pretty-simple-reason/1100-6525343/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/call-of-duty-still-uses-skill-based-matchmaking-for-a-pretty-simple-reason/1100-6525343/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T18:06:00+00:00
+
+<p>Activision is shining some light on how it approaches skill-based matchmaking in <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty</a> multiplayer, and in a detailed <a href="https://www.callofduty.com/blog/2024/07/call-of-duty-matchmaking-intel">blog post</a>, the developers of the popular FPS series reveal that the sometimes-controversial practice is still used for a fairly simple reason--fewer players quit under a skill-based system than they do without it.</p><p dir="ltr">The topic of skill-based matchmaking (or SBMM, as it's often abbreviated) in Call of Duty has been a long and ongoing one, with some arguing that behind-the-scenes skill ratings that help determine who matches up with whom should be a thing of the past. Those against SBMM argue that since there are ranked playlists, those who want to be matched with players of equal skill can simply play there, leaving the rest of the game's modes open to a more luck-of-the-draw-type of mat
+
+## One Of The Best PS5 Controllers Is Getting A Tekken 8 Edition
+ - [https://www.gamespot.com/articles/one-of-the-best-ps5-controllers-is-getting-a-tekken-8-edition/1100-6525247/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/one-of-the-best-ps5-controllers-is-getting-a-tekken-8-edition/1100-6525247/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T17:56:00+00:00
+
+<div class="norewrite" title="6525247 - Victrix Pro BFG Tekken 8 edition">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4338490-tekkenbfgpro.jpg" />                                 <a href="https://www.amazon.com/dp/B0D7WYPB3V?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0D7WYPB3V?tag=gamespot-preorders-20">Preorder Victrix Pro BFG Wireless Tekken 8 Rage Art special edition</a>           <
+
+## Elden Ring Streamer Beats Shadow Of The Erdtree Boss In The Most Bizarre Way Possible
+ - [https://www.gamespot.com/articles/elden-ring-streamer-beats-shadow-of-the-erdtree-boss-in-the-most-bizarre-way-possible/1100-6525341/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/elden-ring-streamer-beats-shadow-of-the-erdtree-boss-in-the-most-bizarre-way-possible/1100-6525341/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T17:46:00+00:00
+
+<p>Returning Elden Lord <a href="https://www.gamespot.com/articles/meet-mikkaa-the-swedish-streamer-who-beat-elden-ring-with-one-hand/1100-6507504/">MissMikkaa</a> has once again reminded everyone why she's among the best in the game. Just recently, she beat the <a href="https://www.gamespot.com/reviews/elden-ring-shadow-of-the-erdtree-dlc-review-kill-them-with-kindness/1900-6418243/">Shadow of the Erdtree</a> final boss while simultaneously playing on a dance pad and a controller.</p><p><em><strong>Spoilers for Shadow of the Erdtree below</strong></em></p><p dir="ltr">Shortly after she was done giving Promised Consort Radahn a back-to-back whooping, MissMikkaa posted a clip of her accomplishment on <a href="https://x.com/MissMikkaa/status/1816501504448073835">X/Twitter</a>. What was even more impressive about this is that she was able to kill both versions of him within seconds of each other.</p><a href="https://www.gamespot.com/articles/elden-ring-streamer-beats-shadow-of-the-erdtre
+
+## Should You Choose Fighter Or Scout In Stardew Valley
+ - [https://www.gamespot.com/articles/should-you-choose-fighter-or-scout-in-stardew-valley/1100-6525117/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/should-you-choose-fighter-or-scout-in-stardew-valley/1100-6525117/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T17:30:00+00:00
+
+<p>If you love mining in <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a>, you're going to spend a ton of time fighting monsters. As you fight monsters, your combat skill will improve and at level 5, you are presented with the choice of two professions: Fighter or Scout. Fighter focuses on dealing more damage consistently, while Scout boosts your critical hit chance. Here's which profession you should choose.</p><h2 dir="ltr">Fighter or Scout</h2><figure style="width: 1920px;"><a href="https://www.gamespot.com/a/uploads/original/1599/15997278/4336346-fighterorscout.jpg"><img alt="At level 5 you get to choose a profession, which changes your options at level 10." src="https://www.gamespot.com/a/uploads/scale_super/1599/15997278/4336346-fighterorscout.jpg" /></a><figcaption>At level 5 you get to choose a profession, which changes your options at level 10.</figcaption></figure><p><strong>In most cases, it's generally better to go with the fighter profession, si
+
+## The Batman 2 Release Date, Trailer Information, Cast, Story, And Everything Else We Know
+ - [https://www.gamespot.com/gallery/the-batman-2-release-date-trailer-cast-story/2900-5634](https://www.gamespot.com/gallery/the-batman-2-release-date-trailer-cast-story/2900-5634)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T17:22:00+00:00
+
+<p><h2>Batman returns</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4341121-screenshot2024-07-26at11.51.48am.png" /><br /><h3><p>2022's The Batman starring Robert Pattinson was a big success, both with critics and fans, and also at the box office where it earned $772 million worldwide. Naturally, people are excited about the sequel and The Batman 2 release date. There are plenty of unknowns still, but we do know the film is definitely happening and brings back Pattinson and director Matt Reeves.</p><p>In this gallery, we're rounding up everything to know about the sequel, including the cast (so far), the release date, what little we know about the story, how it connects to The Penguin, and more.</p><p>More information on The Batman 2 could come during <a href="https://www.gamespot.com/gallery/san-diego-comic-con-2024-biggest-news-announcements-trailers/2900-5626/">San Diego Comic-Con</a> this weekend, so be sure to keep checking back with more. This galler
+
+## Marvel Vs. Capcom's New Collection Continues Our Current Golden Age Of Fighting Games
+ - [https://www.gamespot.com/articles/marvel-vs-capcoms-new-collection-continues-our-current-golden-age-of-fighting-games/1100-6525340/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-vs-capcoms-new-collection-continues-our-current-golden-age-of-fighting-games/1100-6525340/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T17:15:00+00:00
+
+<p dir="ltr">We are currently enjoying a golden age of fighting games. The latest in long-running series like Street Fighter, Tekken, and Guilty Gear are fantastic. Both newer (Dragon Ball FighterZ) and older games (Street Fighter 3rd Strike, Guilty Gear +R) are getting updates that add rollback netcode, enabling fans to enjoy the best player-to-player connections possible. And many new games are also being ported to nearly every platform, so it's easier than ever to play what you want, with who you want, when you want.</p><p dir="ltr">Some games have long been neglected and rendered unplayable on modern hardware, causing members of the fighting game community to call for developers to re-release or update them to be more accessible. Streamer Maximilian Dood's #FreeMVC2 movement is perhaps the most notable of these and, thankfully, this particular situation is about to be rectified. Marvel Vs. Capcom 2: New Age Of Heroes is coming back, ensuring the granddaddy of tag fighters will fin
+
+## Marvel Vs. Capcom's New Collection Continues Out Current Golden Age Of Fighting Games
+ - [https://www.gamespot.com/articles/marvel-vs-capcoms-new-collection-continues-out-current-golden-age-of-fighting-games/1100-6525340/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-vs-capcoms-new-collection-continues-out-current-golden-age-of-fighting-games/1100-6525340/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T17:15:00+00:00
+
+<p dir="ltr">We are currently enjoying a golden age of fighting games. The latest in long-running series like Street Fighter, Tekken, and Guilty Gear are fantastic. Both newer (Dragon Ball FighterZ) and older games (Street Fighter 3rd Strike, Guilty Gear +R) are getting updates that add rollback netcode, enabling fans to enjoy the best player-to-player connections possible. And many new games are also being ported to nearly every platform, so it's easier than ever to play what you want, with who you want, when you want.</p><p dir="ltr">Some games have long been neglected and rendered unplayable on modern hardware, causing members of the fighting game community to call for developers to re-release or update them to be more accessible. Streamer Maximilian Dood's #FreeMVC2 movement is perhaps the most notable of these and, thankfully, this particular situation is about to be rectified. Marvel Vs. Capcom 2: New Age Of Heroes is coming back, ensuring the granddaddy of tag fighters will fin
+
+## Where Is Xur Today? (July 26-30) Destiny 2 Exotic Items And Xur Location Guide
+ - [https://www.gamespot.com/articles/where-is-xur-today-july-26-30-destiny-2-exotic-items-and-xur-location-guide/1100-6525320/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-is-xur-today-july-26-30-destiny-2-exotic-items-and-xur-location-guide/1100-6525320/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T17:02:00+00:00
+
+<p>It's Friday, Xur is in <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>, and you've got some Strange Coins burning a hole in your pocket. As usual, the intergalactic arms dealer has set up shop in the Tower's Bazaar and is more than happy to trade you Exotic and legendary gear in exchange for that currency. Here's where Xur is this weekend and what he has for sale.</p><p>Xur is offering the Exotic weapons catalysts for <strong>Sweet Business </strong>and <strong>Jotunn</strong>, and for Exotic armor, Hunters can pick up <strong>Graviton Forfeit</strong>; Titans can grab <strong>Heart of Inmost Light</strong>; and Warlocks can buy <strong>Nezarec's Sin</strong>.</p><h2>Xur Location</h2><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4341049-xur-tfs.jpg"><img alt="Xur's new location in the Tower's Bazaar," src="https://www.gamespot.com/a/uploads/original/1601/16018044/4341049-xur-tfs.jpg" /></a><figcaption>Xur's new l
+
+## Unsurprisingly, Deadpool & Wolverine Is Already Breaking Box-Office Records Before Its Opening Weekend
+ - [https://www.gamespot.com/articles/unsurprisingly-deadpool-wolverine-is-already-breaking-box-office-records-before-its-opening-weekend/1100-6525338/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/unsurprisingly-deadpool-wolverine-is-already-breaking-box-office-records-before-its-opening-weekend/1100-6525338/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T16:41:00+00:00
+
+<p>Ahead of what is expected to be a record-breaking opening weekend, <a href="https://www.gamespot.com/gallery/deadpool-and-wolverine-release-date-trailers-news/2900-5180/">Deadpool &amp; Wolverine</a> has already pulled in some impressive box-office numbers from Thursday previews in the US. The biggest Thursday opening of the year--beating Inside Out 2's $13 million record--Deadpool and Wolverine brought in $38.5 million in domestic ticket sales.</p><p>According to <a href="https://variety.com/2024/film/news/box-office-deadpool-and-wolverine-thursday-previews-1236084797/">Variety</a>, this is also the highest preview gross ever for an R-rated movie and much bigger than the Thursday previews for the previous two Deadpool movies. In comparison, Deadpool made $12.7 million in Thursday-night previews back in 2016, and Deadpool 2 improved on that figure with an $18.6 million haul. This weekend will likely see even more box-office records broken, as Deadpool and Wolverine will be availabl
+
+## How To Find Terracotta In Minecraft
+ - [https://www.gamespot.com/articles/how-to-find-terracotta-in-minecraft/1100-6525032/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-find-terracotta-in-minecraft/1100-6525032/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T15:51:00+00:00
+
+<p>Terracotta is one of the most notable building blocks in the entirety of <a href="https://www.gamespot.com/games/minecraft/">Minecraft</a>. It can be dyed any color you want and is fairly simple to acquire, if you know where to look. Below, you can see exactly how to get Terracotta in Minecraft and some of its uses.</p><h2>Finding Terracotta in Minecraft</h2><p>Unlike other blocks in the game, Terracotta can't be crafted using a furnace or crafting table. Instead, you need to mine the blocks in a specific biome of Minecraft. Specifically, you need to head to the badlands biomes, which are also referred to as the mesa biomes. These biomes look like a vast canyon, complete with brown and orange blocks as far as the eye can see and large rock-like formations. The only plants you'll find here are dead bushes and cactus, but you'll also find a healthy serving of Terracotta.</p><p>There are technically three different versions of the badlands biomes, but you can find Terracotta in all th
+
+## Acclaimed New Puzzle Game Is Out Now And Free For Netflix Subscribers
+ - [https://www.gamespot.com/articles/acclaimed-new-puzzle-game-is-out-now-and-free-for-netflix-subscribers/1100-6525337/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/acclaimed-new-puzzle-game-is-out-now-and-free-for-netflix-subscribers/1100-6525337/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T15:50:00+00:00
+
+<p>In Arranger: A Role-Puzzling Adventure, you'll slide across a classic fantasy world and meet lots of strange characters in stranger locations, all using a unique bump-combat and slide-puzzle inspired movement scheme. Arranger is out now and included with a Netflix subscription on mobile.</p><p>The game follows Jemma as she navigates a grid-based world. Unlike the world's other inhabitants, she moves by shifting the entire row or column with each step, taking any objects in that line along with her. She can even pop out on the other side of a grid if you push her to the edge. If this sounds confusing, watch it in action and you'll understand it instantly.</p><div>          </div><p>The game has no inventory management or leveling up. Instead, everything is laid out on the screen and you must use Jemma's unique movement to arrange everything correctly. Jemma's journey will take her to beachy ocean towns, dank dungeons, desert mines, and mysterious forests, each with their own puzzles
+
+## Stardew Valley: Night Market Guide
+ - [https://www.gamespot.com/articles/stardew-valley-night-market-guide/1100-6525243/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stardew-valley-night-market-guide/1100-6525243/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T15:39:00+00:00
+
+<p>The Night Market in <a href="https://www.gamespot.com/games/stardew-valley/">Stardew Valley</a> is a special festival that takes place across three days in winter. It runs from winter 15-17 on the beach, from 5 PM to 2 AM. The night market includes a few special vendors, along with some special event attractions as well. Vendors also change inventory every night, so it is worth checking in each day.</p><h2 dir="ltr">Night Market attractions</h2><p dir="ltr">The Night Market is open from 5 PM to 2 AM winter 15-17 on the beach. Unlike other festivals, most homes and stores are still open during the three-day stretch, and some of the villagers will break their schedule and go each night.</p><p dir="ltr">During the Night Market, the <a href="https://www.gamespot.com/articles/stardew-valley-desert-trader-guide/1100-6525178/">Desert Trader</a> will be closed in the Calico Desert and are instead at the market, giving out free coffee each night.</p><a href="https://www.gamespot.com/article
+
+## Jon Snow Actor Kit Harington Returns To Game Of Thrones To Promote A Video Game
+ - [https://www.gamespot.com/articles/jon-snow-actor-kit-harington-returns-to-game-of-thrones-to-promote-a-video-game/1100-6525335/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jon-snow-actor-kit-harington-returns-to-game-of-thrones-to-promote-a-video-game/1100-6525335/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T15:35:00+00:00
+
+<p>Actor Kit Harington is returning to the world of Game of Thrones, but not in the way you'd expect or even probably hope for. The actor has returned to promote the Game of Thrones: Legends mobile game via a cheeky advertisement filled with references to his character, Jon Snow.</p><p>Harington said in a statement (<a href="https://www.hollywoodreporter.com/tv/tv-news/kit-harington-game-of-thrones-legends-game-1235956085/">via THR</a>) that Legends is a "true love letter to fans" and that he is "honored to pay tribute" to fans via the game.</p><div>          </div><p>A match-three Bejeweled-esque game, Legends is developed by Zynga, which is owned by GTA parent company Take-Two. The game has players assembling characters from the Thrones universe, including Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Rhaenyra Targaryen, as they put together a team to try to stop the Long Night.</p><a href="https://www.gamespot.com/articles/jon-snow-actor-kit-harington-returns-to-game-of-thron
+
+## Preorders Now Open For The Upcoming Monopoly Video Game
+ - [https://www.gamespot.com/articles/preorders-now-open-for-the-upcoming-monopoly-video-game/1100-6525336/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/preorders-now-open-for-the-upcoming-monopoly-video-game/1100-6525336/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T15:31:00+00:00
+
+<p>As far as board games go, few are as well-known as Monopoly. The game has been testing friendships for years--and now the capitalistic fun is getting a physical release on PS5, Switch, and Xbox (both last- and current-gen). The <a href="https://www.nintendo.com/us/store/products/monopoly-for-nintendo-switch-switch/">digital version</a> of the game has been available on Switch since 2017, but this upcoming <a href="https://www.amazon.com/dp/B0D98L79BD?tag=gamespot-preorders-20">physical release</a> is actually cheaper, making it the best way to enjoy the classic game on the big screen. The Monopoly game launches on September 13, and <a href="https://www.amazon.com/dp/B0D98L79BD?tag=gamespot-preorders-20">preorders</a> are now open.</p><h2>Monopoly Preorder Bonuses</h2><p>There are currently no preorder bonuses for Monopoly. That means you're free to shop at your favorite retailer without worrying about losing out on exclusive bonuses.</p><div class="norewrite" title="6525336 - Monop
+
+## VGC Starts Patreon To Deal With "A Difficult Time For Journalism"
+ - [https://www.gamespot.com/articles/vgc-starts-patreon-to-deal-with-a-difficult-time-for-journalism/1100-6525332/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/vgc-starts-patreon-to-deal-with-a-difficult-time-for-journalism/1100-6525332/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T14:57:00+00:00
+
+<p>Gaming news website Video Games Chronicle has announced the <a href="https://www.patreon.com/VideoGamesChronicle">launch of a Patreon</a> to help fund it. First formed in 2019, VGC's staff includes veterans from multiple UK publications, and supporters can expect two new monthly podcasts, a newsletter, a Discord server, and special commenting privileges on the site, depending on the Patreon tier they choose.</p><div>          </div><p>"It’s no secret that recently it’s been a difficult time for journalism, especially around video games," <a href="https://www.videogameschronicle.com/news/vgc-is-now-on-patreon-heres-how-you-can-support-us/">VGC editor-in-chief Andy Robinson explained</a>. "Site closures and job losses have become all too common fixtures in headlines, while those who remain have been increasingly pressured to focus more on keeping the lights on, and less on creating the content readers actually want to see. As an entirely independent publication, VGC has felt these ma
+
+## This Adorable Pikmin Calendar Is Now Up For Preorder
+ - [https://www.gamespot.com/articles/this-adorable-pikmin-calendar-is-now-up-for-preorder/1100-6525333/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-adorable-pikmin-calendar-is-now-up-for-preorder/1100-6525333/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T14:54:00+00:00
+
+<p>The <a href="https://www.amazon.com/dp/1419774514?tag=gamespot-preorders-20">Pikmin 2025 Wall Calendar</a> is up for preorder, giving you a chance to hang out with its adorable cast of characters all year long. The calendar releases on September 10--but like all things Nintendo, this will probably sell out fast.</p><h2>Pikmin 2025 Wall Calendar</h2><h3>$16</h3><figure style="width: 1000px;"><a href="https://www.gamespot.com/a/uploads/original/1702/17023653/4341097-mixcollage-26-jul-2024-08-53-am-5726.jpg"><img alt="The Pikmin 2025 Wall Calendar." src="https://www.gamespot.com/a/uploads/original/1702/17023653/4341097-mixcollage-26-jul-2024-08-53-am-5726.jpg" /></a><figcaption>The Pikmin 2025 Wall Calendar.</figcaption></figure><p>What's unique about the Pikmin 2025 Wall Calendar is that it tells a story throughout the year. The creatures will begin to multiply over time, making each month a bit more exciting than the last. You'll start with just three Pikmin in January, but fast for
+
+## This Video Game Movie Adds Game Of Thrones And Rocky Actors
+ - [https://www.gamespot.com/articles/this-video-game-movie-adds-game-of-thrones-and-rocky-actors/1100-6525331/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-video-game-movie-adds-game-of-thrones-and-rocky-actors/1100-6525331/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T14:46:00+00:00
+
+<p>The animated film based on the video game <a href="https://www.gamespot.com/games/mutant-year-zero-road-to-eden/">Mutant: Year Zero Road to Eden</a> has added Dolph Lundgren and Ian McElhinney to the cast. Lundgren is known for playing Ivan Drago in the Rocky series, while McElhinney is perhaps best known for portraying Barristan Selmy in Game of Thrones.</p><p>Hasraf Dulull (The Dark Knight) is directing and producing the animated film, which was <a href="https://www.gamespot.com/articles/mutant-year-zero-movie-is-in-production/1100-6481451/">first announced in 2020.</a> The film is being produced using Epic's Unreal Engine 5. <a href="https://www.hollywoodreporter.com/movies/movie-news/mutant-year-zero-game-movie-1235958327/">The Hollywood Reporter</a> confirmed the news of Lundgren and McElhinney joining the cast.</p><p>"I am excited to say there is going to be some pretty insane, edge-of-the-seat, wall-to-wall action like you have never seen before, driven by emotionally charge
+
+## SDCC Reveals New Footage Of The Crow, Starring Bill Skarsgård And FKA Twigs
+ - [https://www.gamespot.com/articles/sdcc-reveals-new-footage-of-the-crow-starring-bill-skarsgard-and-fka-twigs/1100-6525334/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sdcc-reveals-new-footage-of-the-crow-starring-bill-skarsgard-and-fka-twigs/1100-6525334/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T14:29:00+00:00
+
+<p>Film fanatics just got a new look at Lionsgate's upcoming film, The Crow, at <a href="https://www.gamespot.com/comic-con/">San Diego Comic-Con</a>. The clip, entitled "Get In The Back," sees protagonist Eric Draven (Bill Skarsgård) take on the people responsible for ruining his life (and technically, ending it) in a violent carjacking-slash-shootout.</p><p>After being shot several times and pushed out of the vehicle into oncoming traffic, Eric is run over by a semi-truck, and left for dead. But despite multiple bullet wounds and a mangled leg, Eric miraculously rises to his feet, making it clear he's still got plenty of fight left in him.</p><div>          </div><p>Rather than a remake of the 1994 cult-classic film, this version of The Crow is an adaptation of James O'Barr's original graphic novel. In addition to Skarsgård as Eric, the Rupert Sanders-directed flick also stars British singer, songwriter, and dancer FKA twigs as Eric's doomed soulmate, Shelly Webster. Though she does
+
+## Changes To How Steam Demos Work Are On The Way
+ - [https://www.gamespot.com/articles/changes-to-how-steam-demos-work-are-on-the-way/1100-6525327/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/changes-to-how-steam-demos-work-are-on-the-way/1100-6525327/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T14:28:00+00:00
+
+<p>Valve has unveiled changes to how demos work on Steam, as the company is aiming to make them easier to discover. These updates will see demos redesigned to be more like standalone games on the platform, giving them their own store page separate from the main game's hub. The benefit to this is that the demo page can contain separate screenshots, trailers, and details on these slices of the full game to help set them apart and give potential players more accurate information. You'll also be able to add demos to your collection without needing to download it straight away, and when it's uninstalled, it'll also be removed from your library.</p><p><a href="https://steamcommunity.com/games/593110/announcements/detail/6233628070477025191">According to Valve</a>, these changes are driven by developer and player feedback, and players can expect to receive alerts for demos of wishlisted games. Pages for demos will include buttons to install the content, leave user reviews, and be redirected 
+
+## A Wild Bug Causing Cars To Float In Gran Turismo 7 Is Being Investigated
+ - [https://www.gamespot.com/articles/a-wild-bug-causing-cars-to-float-in-gran-turismo-7-is-being-investigated/1100-6525330/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-wild-bug-causing-cars-to-float-in-gran-turismo-7-is-being-investigated/1100-6525330/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T14:09:00+00:00
+
+<p>Gran Turismo 7's newest update has caused some unintentionally funny glitches and developer Polyphony Digital is investigating the issue.</p><p>The game's 1.49 update was released yesterday and was supposed to change its driving physics, improving aspects such as tire response on cars and more natural weight shifting during cornering. However, (via <a href="https://www.ign.com/articles/gran-turismo-7-dev-says-its-investigating-one-of-the-best-video-game-bugs-weve-ever-seen">IGN</a>) players realized that the cars ended up doing things like bouncing and even disappearing into the racetracks.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr"><a href="https://t.co/JoMjzkwmeg">pic.twitter.com/JoMjzkwmeg</a></p>  — GNARFIELD (@Nintendont_64) <a href="https://twitter.com/Nintendont_64/status/1816493729764819204?ref_src=twsrc^tfw">July 25, 2024</a></blockquote>              </div><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">ついにミサイル発射出来るようになったんですね。
+
+## GTA 6 Unaffected By Video Game Actors Strike
+ - [https://www.gamespot.com/articles/gta-6-unaffected-by-video-game-actors-strike/1100-6525329/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gta-6-unaffected-by-video-game-actors-strike/1100-6525329/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T14:07:00+00:00
+
+<p>Members of the actors' union SAG-AFTRA are <a href="https://www.gamespot.com/articles/video-game-voice-actors-are-going-on-strike-over-ai-enough-is-enough/1100-6525312/">now on strike</a> over concerns about AI, but development on <a href="https://www.gamespot.com/articles/grand-theft-auto-6-everything-we-know/1100-6503729/">Grand Theft Auto VI</a> is unaffected. A spokesperson for the group representing game publishers in the labor negotiations confirmed this to <a href="https://kotaku.com/grand-theft-auto-vi-gta6-voice-actor-strike-saf-aftra-1851606082?utm_source=twitter&amp;utm_medium=SocialMarketing&amp;utm_campaign=dlvrit&amp;utm_content=kotaku">Kotaku</a>.</p><p>"I can confirm GTA VI is exempt," the representative said, adding that any game that was in development prior to September 2023 is exempt as well. Live-service games are unaffected by the strike situation, too, so content for games like Fortnite should continue to release normally.</p><p>The <a href="https://www.sagaf
+
+## Humble Games Layoffs Leave Developer Unable To Update Its Game Or Release It On Switch
+ - [https://www.gamespot.com/articles/humble-games-layoffs-leave-developer-unable-to-update-its-game-or-release-it-on-switch/1100-6525328/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/humble-games-layoffs-leave-developer-unable-to-update-its-game-or-release-it-on-switch/1100-6525328/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T13:40:00+00:00
+
+<p>Earlier this week, it was <a href="https://www.gamespot.com/articles/indie-game-publisher-humble-games-reportedly-lays-off-all-staff/1100-6525236/">announced that publisher Humble Games laid off its entire staff of 36</a>. This mass layoff did not solely affect its immediate staff, but also the developers and games under the publisher, such as the developer of Coral Island now facing uncertainty regarding its Xbox, Switch, and PlayStation versions.</p><p>Developer Stairway Games revealed in a statement that the Humble Games layoffs have left it unable to release updates for the console versions of its game, due to Humble typically handling them. The team explained that an incoming hotfix is unable to be released outside of Steam and that they really "have no idea" how to release this update to console players due to the lack of backend permissions on those platforms. Stairway also acknowledged the long wait for the Switch port, which was announced for 2024, but has yet to be releas
+
+## Joker Doesn't Become Clown Prince Of Crime In Joker 2, Director Says
+ - [https://www.gamespot.com/articles/joker-doesnt-become-clown-prince-of-crime-in-joker-2-director-says/1100-6525325/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/joker-doesnt-become-clown-prince-of-crime-in-joker-2-director-says/1100-6525325/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T13:13:00+00:00
+
+<p><a href="https://www.gamespot.com/gallery/joker-2-release-date-cast-plot-trailer/2900-5255/">Joker: Folie A Deux</a> continues the story of the failed comedian and clown actor Arthur Fleck as he becomes Joker, but the sequel won't have Arthur become the true <a href="https://dc.fandom.com/wiki/The_Joker:_The_Clown_Prince_of_Crime_(Collected)">Clown Price of Crime</a>. Writer-director Todd Phillips told <a href="https://www.empireonline.com/movies/news/joker-wont-be-gotham-clown-prince-of-crime-in-folie-a-deux-exclusive/">Empire</a>, "We would never do that."</p><p>"Because Arthur clearly is not a criminal mastermind. He was never that," Phillips said. "Arthur has become this symbol to people. This unwilling, unwitting symbol now paying for the crimes of the first film, but at the same time finding the only thing he ever wanted, which was love. That's always what he’s been about, even though he's been pushed and pulled in all these directions. So we tried to just make the most pure 
+
+## Fortnite Is Being Removed From This Storefront Today
+ - [https://www.gamespot.com/articles/fortnite-is-being-removed-from-this-storefront-today/1100-6525326/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-is-being-removed-from-this-storefront-today/1100-6525326/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T13:11:00+00:00
+
+<p>Epic Games has <a href="https://www.epicgames.com/site/en-US/news/epic-s-new-game-strategy-for-mobile-stores">announced</a> that it will be removing Fortnite and its other games from the Samsung Galaxy Store in protest today, claiming that Samsung is engaging in anticompetitive practices.</p><p>Epic Games said that Samsung's decision to block sideloading by default on Samsung Android devices stifles competition in the Android app distribution market. Due to the restriction on sideloading, Samsung users are only allowed to install apps from the Google Play Store and Galaxy Store.</p><p>However, Epic Games has a new solution in mind. Due to the European Union passing the Digital Markets Act, Epic Games is now able to create its own storefront for Android worldwide and iOS in the EU. The storefront will only be charging game developers with a 12% processing fee and nothing on third-party payments.</p><a href="https://www.gamespot.com/articles/fortnite-is-being-removed-from-this-storef
+
+## Taylor Swift Calls Upon Her Fandom To Go See Deadpool & Wolverine, Trolls Ryan Reynolds
+ - [https://www.gamespot.com/articles/taylor-swift-calls-upon-her-fandom-to-go-see-deadpool-wolverine-trolls-ryan-reynolds/1100-6525323/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/taylor-swift-calls-upon-her-fandom-to-go-see-deadpool-wolverine-trolls-ryan-reynolds/1100-6525323/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T13:09:00+00:00
+
+<p>Taylor Swift has called upon her millions of fans around the world to go see <a href="https://www.gamespot.com/gallery/deadpool-and-wolverine-release-date-trailers-news/2900-5180/">Deadpool &amp; Wolverine</a>, which releases in theaters today, July 26. In a post to her <a href="https://www.instagram.com/taylorswift/">Stories on Instagram</a>, Swift sung the praises of the film and lauded one of her best friends for all their hard work to make it happen.</p><p>"Over the past few years I have watched one of my best friends on this planet pour every bit of his heart, soul, sweat, time, energy, jokes, pain, joy, rebellion, darkness, and magic into this film. He's created the best work of his life. "This film feels like an actual joy portal, a wild escape from reality, and an abs sandwich. I don't know how he did it," she wrote.</p><figure style="width: 1170px;"><a href="https://www.gamespot.com/a/uploads/original/1179/11799911/4341042-img_7848.jpg"><img alt="Swift's message for Deadpo
+
+## This Deadpool And Wolverine Cameo Wasn't Actually Filmed, It Was Created Digitally
+ - [https://www.gamespot.com/articles/this-deadpool-and-wolverine-cameo-wasnt-actually-filmed-it-was-created-digitally/1100-6525316/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-deadpool-and-wolverine-cameo-wasnt-actually-filmed-it-was-created-digitally/1100-6525316/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T12:56:00+00:00
+
+<p><a href="https://www.gamespot.com/reviews/deadpool-and-wolverine-review-status-quo/1900-6418260/">Deadpool and Wolverine</a>, Marvel's latest major MCU blockbuster, is crammed full of cameos across its two-hour runtime. While many of these are from 20th Century Fox's slate of Marvel films, one of the MCU's central characters also makes an appearance, but it was done in an unconventional way. </p><p><em><strong>Spoilers for a scene in Deadpool and Wolverine to follow!</strong></em></p><p>Thor is that character, and though he makes an appearance alongside Deadpool, it turns out Chris Hemsworth never shared a set with Ryan Reynolds' Deadpool.</p><a href="https://www.gamespot.com/articles/this-deadpool-and-wolverine-cameo-wasnt-actually-filmed-it-was-created-digitally/1100-6525316/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Gori: Cuddly Carnage Studio Is Giving Away A Furry Xbox Series X
+ - [https://www.gamespot.com/articles/gori-cuddly-carnage-studio-is-giving-away-a-furry-xbox-series-x/1100-6525324/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gori-cuddly-carnage-studio-is-giving-away-a-furry-xbox-series-x/1100-6525324/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T12:49:00+00:00
+
+<p>Has Deadpool and Wolverine kicked off an arms race for <a href="https://www.gamespot.com/articles/this-special-deadpool-and-wolverine-xbox-comes-with-katanas-and-booty-ful-controllers/1100-6525043/">ridiculous console and controller designs</a>? Possibly, judging by this new entry from the developers behind <a href="https://www.gamespot.com/games/gori-cuddly-carnage/">Gori: Cuddly Carnage</a>. Ahead of the game's release next month, Angry Demon Studios has unveiled a one-of-a-kind Xbox Series X that features a luxurious--and hopefully synthetic--fur wrapping. This will be given away to one lucky winner who'll have a hard time explaining what it is whenever they have company.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">😻 Purrfection! 😻<br />We teamed up with <a href="https://twitter.com/TrueAchievement?ref_src=twsrc^tfw">@TrueAchievement</a> to offer one lucky fan a Gori: Cuddly Carnage Xbox Series Meow!<br />How to enter?<br />Follow, RT, and tag a friend 
+
+## EA Sports FC 25 Deep Dive Shows Off New Tactics System
+ - [https://www.gamespot.com/articles/ea-sports-fc-25-deep-dive-shows-off-new-tactics-system/1100-6525317/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ea-sports-fc-25-deep-dive-shows-off-new-tactics-system/1100-6525317/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T12:08:00+00:00
+
+<p><a href="https://www.gamespot.com/games/ea-sports-fc-25/">EA Sports FC 25</a>, the second in the franchise to lack the FIFA branding, is due out this September, and EA has revealed some of the title's new gameplay features. The video introduces new tactical system FC IQ, as well as player roles, new play styles for goalkeepers, and more.</p><p>The new FC IQ system, which EA describes as "a complete overhaul of the game's tactical system," will allow for more in-depth tactical play, with players having more fine control over the team's tactics. "FC IQ can be used to easily emulate a favorite manager's tactics," says gameplay producer Paul Parsons, running through an example inspired by Real Madrid's Carlo Ancelotti.</p><p>As part of this system, EA has also added Player Roles for FC 25, allowing you to set a player's role to deploy them in different ways depending on the situation and your personal strategy. "We built an out-of-game AI model in order to help identify which Player Ro
+
+## Tribe Nine - Gameplay Trailer: Shinagawa Chapter
+ - [https://www.gamespot.com/videos/tribe-nine-gameplay-trailer-shinagawa-chapter/2300-6464682](https://www.gamespot.com/videos/tribe-nine-gameplay-trailer-shinagawa-chapter/2300-6464682)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T06:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4340960-tribenine_gameplaytrailer_shinagawachapter.mp4.00_00_59_47.still003.jpg" width="480" /> Check out the first gameplay trailer for Tribe Nine the extreme action RPG coming to PC and Mobile.
+
+## Fatal Fury: City Of The Wolves Adds Bo-Staff-Wielding Veteran Billy Kane To Its Roster
+ - [https://www.gamespot.com/articles/fatal-fury-city-of-the-wolves-adds-bo-staff-wielding-veteran-billy-kane-to-its-roster/1100-6525287/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fatal-fury-city-of-the-wolves-adds-bo-staff-wielding-veteran-billy-kane-to-its-roster/1100-6525287/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T04:00:00+00:00
+
+<p dir="ltr">During the ChinaJoy video game convention in Shanghai today--and less than a week after <a href="https://www.gamespot.com/articles/kevin-rian-returns-in-fatal-fury-city-of-the-wolves-vice-and-mature-join-kof-xv/1100-6525133/">revealing Kevin Rian's return at Evo 2024</a>--SNK unveiled the next character to join the Fatal Fury: City Of The Wolves roster. Billy Kane, the bo-staff-wielding rival of Terry Bogard, will once again face off against his old foe in this new game.</p><p dir="ltr">The reveal trailer shows Billy using his bo staff in battle to give him extra range with attacks. A few of his most recognizable moves can be seen in the trailer, including his helicopter spinning attack, and he can still imbue the staff with fire for extra damage and flashy combos.</p><p dir="ltr"> </p><a href="https://www.gamespot.com/articles/fatal-fury-city-of-the-wolves-adds-bo-staff-wielding-veteran-billy-kane-to-its-roster/1100-6525287/?ftag=CAD-01-10abi2f/">Continue Reading at Game
+
+## Deadpool and Wolverine: Every Cameo From The Marvel and X-Men Films
+ - [https://www.gamespot.com/gallery/deadpool-wolverine-every-cameo-from-the-marvel-and-x-men-films/2900-5632](https://www.gamespot.com/gallery/deadpool-wolverine-every-cameo-from-the-marvel-and-x-men-films/2900-5632)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T00:53:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4340599-deadpoolandwolverinecameos.jpg" /><br /><em>Credit: Jay Maidment/20th Century Studios</em><br /><h3><p dir="ltr"><strong>Just a heads up before we get started: This article is full of spoilers for Deadpool &amp; Wolverine, and will provide details on every cameo in the film. If you don't want to know about this stuff, you should leave now. Or if you actually want <em>more spoilers</em>, you can read <a href="https://www.gamespot.com/articles/deadpool-and-wolverine-ending-explained-what-it-means-for-the-mcus-x-men/1100-6525300/">our spoiler-filled breakdown of the film's plot here</a>.</strong></p><p dir="ltr">Deadpool &amp; Wolverine is an odd movie, because it's caught in between several different worlds. Obviously, the big two are the Marvel Cinematic Universe and the old, dead X-Men franchise, but more broadly it also covers every Marvel movie property that didn't come from Sony or Marvel itself. It's
+
+## Marvel Rivals No One Rivals Doom Cinematic Trailer
+ - [https://www.gamespot.com/videos/marvel-rivals-no-one-rivals-doom-cinematic-trailer/2300-6464681](https://www.gamespot.com/videos/marvel-rivals-no-one-rivals-doom-cinematic-trailer/2300-6464681)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-26T00:52:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4340744-marvel_rival_doom.jpg" width="480" /> As the Timestream Entanglement engulfs the Multiverse, heroes from across time unleash their full strength to combat the most dangerous Super Villains they've ever encountered.
+

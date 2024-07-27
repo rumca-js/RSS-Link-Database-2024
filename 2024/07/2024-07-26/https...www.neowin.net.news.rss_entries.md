@@ -1,0 +1,170 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Research AI tool Elicit gives free users unlimited searches, phases out credits
+ - [https://www.neowin.net/news/research-ai-tool-elicit-gives-free-users-unlimited-searches-phases-out-credits](https://www.neowin.net/news/research-ai-tool-elicit-gives-free-users-unlimited-searches-phases-out-credits)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T17:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1722013962_elicit_medium.jpg" /></div>Elicit, an AI tool that answers based on information from scientific papers, has unlocked unlimited queries on its Basic plan. It has also improved its Plus and Pro plans, giving them more utility. <a href="https://www.neowin.net/news/research-ai-tool-elicit-gives-free-users-unlimited-searches-phases-out-credits/">Read more...</a>
+
+## Windows 11 Insider Beta Channel Build 22635.4000 (KB5040546) adds a new taskbar feature
+ - [https://www.neowin.net/news/windows-11-insider-beta-channel-build-226354000-kb5040546-adds-a-new-taskbar-feature](https://www.neowin.net/news/windows-11-insider-beta-channel-build-226354000-kb5040546-adds-a-new-taskbar-feature)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T17:30:10+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1680966746_windows_11_insider_preview_promo_1_medium.jpg" /></div>Microsoft has released a new Windows 11 build for members of the Windows Insider Program for the Beta Channel. The new 22635.4000 build, under KB5040546, adds a new taskbar feature and more. <a href="https://www.neowin.net/news/windows-11-insider-beta-channel-build-226354000-kb5040546-adds-a-new-taskbar-feature/">Read more...</a>
+
+## Windows 11 Insider Dev Channel Build 26120.1330 (KB5040543) adds new Power setting and more
+ - [https://www.neowin.net/news/windows-11-insider-dev-channel-build-261201330-kb5040543-adds-new-power-setting-and-more](https://www.neowin.net/news/windows-11-insider-dev-channel-build-261201330-kb5040543-adds-new-power-setting-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T17:21:00+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1680966786_windows_11_insider_preview_promo_7_medium.jpg" /></div>Microsoft has released the latest Windows 11 build for members of the Windows Insider Program in the Dev Channel. The new 26120.1330 build, under KB5040543, adds a new Power setting and more. <a href="https://www.neowin.net/news/windows-11-insider-dev-channel-build-261201330-kb5040543-adds-new-power-setting-and-more/">Read more...</a>
+
+## Meta should improve safety mechanisms for the victims of explicit AI deepfakes
+ - [https://www.neowin.net/news/meta-should-improve-safety-mechanisms-for-the-victims-of-explicit-ai-deepfakes](https://www.neowin.net/news/meta-should-improve-safety-mechanisms-for-the-victims-of-explicit-ai-deepfakes)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T17:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/01/1705744327_instagram_hand_logo_medium.jpg" /></div>Meta&#039;s Oversight Board identified several weaknesses in rules and processes that pose a risk of unnecessary harm to users, especially women, who are victims of non-consensual explicit deepfakes. <a href="https://www.neowin.net/news/meta-should-improve-safety-mechanisms-for-the-victims-of-explicit-ai-deepfakes/">Read more...</a>
+
+## Get the PlayStation VR2 + Horizon Call of the Mountain bundle with £180 discount
+ - [https://www.neowin.net/deals/get-the-playstation-vr2--horizon-call-of-the-mountain-bundle-with-180-discount](https://www.neowin.net/deals/get-the-playstation-vr2--horizon-call-of-the-mountain-bundle-with-180-discount)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T17:00:08+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1722003195_81kekdu5lbl._ac_sl1500__medium.jpg" /></div>The PlayStation VR2 + Horizon Call of the Mountain bundle is available now for just £389, down from £569.99. By taking advantage of this limited deal, you&#039;ll save yourself 32% off the RRP. <a href="https://www.neowin.net/deals/get-the-playstation-vr2--horizon-call-of-the-mountain-bundle-with-180-discount/">Read more...</a>
+
+## Valorant Xbox Open Beta test begins with Game Pass users unlocking all Agents
+ - [https://www.neowin.net/news/valorant-xbox-open-beta-test-begins-with-game-pass-users-unlocking-all-agents](https://www.neowin.net/news/valorant-xbox-open-beta-test-begins-with-game-pass-users-unlocking-all-agents)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T16:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1722010061_valorant-xbox_medium.jpg" /></div>Riot Games has launched its open beta test for the upcoming Valorant Xbox Series X and S console versions. The free-to-play shooter lets Game Pass members unlock all of the game&#039;s Agents. <a href="https://www.neowin.net/news/valorant-xbox-open-beta-test-begins-with-game-pass-users-unlocking-all-agents/">Read more...</a>
+
+## One UI 7 poised to significantly improve the Galaxy S24 Ultra cameras
+ - [https://www.neowin.net/news/one-ui-7-poised-to-significantly-improve-the-galaxy-s24-ultra-cameras](https://www.neowin.net/news/one-ui-7-poised-to-significantly-improve-the-galaxy-s24-ultra-cameras)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T15:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710360470_galaxy_s24_ultra_-_p2o2yxd_medium.jpg" /></div>A new tip suggests that the One UI 7 update is set to significantly improve the camera quality of the Samsung Galaxy S24 Ultra, which would arrive in addition to the improvements of One UI 6.1.1. <a href="https://www.neowin.net/news/one-ui-7-poised-to-significantly-improve-the-galaxy-s24-ultra-cameras/">Read more...</a>
+
+## Here is how you can use the Samsung Galaxy Ring gesture functions
+ - [https://www.neowin.net/guides/here-is-how-you-can-use-the-samsung-galaxy-ring-gesture-functions](https://www.neowin.net/guides/here-is-how-you-can-use-the-samsung-galaxy-ring-gesture-functions)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T15:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1720619637_samsung_galaxy_ring_medium.jpg" /></div>The recently launched Samsung Galaxy Ring has some features that you can control via gestures, and in this guide, we will explain how you can enable and use the Galaxy Ring gesture functions. <a href="https://www.neowin.net/guides/here-is-how-you-can-use-the-samsung-galaxy-ring-gesture-functions/">Read more...</a>
+
+## Free Download: Dream! Hack! Build! eBook (worth $39.99​​​​​​​)
+ - [https://www.neowin.net/sponsored/free-download-dream-hack-build-ebook-worth-3999](https://www.neowin.net/sponsored/free-download-dream-hack-build-ebook-worth-3999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T15:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721642599_w_pacc34c82_medium.jpg" /></div>In this free to claim eBook, Molin introduces the innovative Dream! Hack! Build! method and guides you in taking action through the hackathon process and implementing solutions fast. Get it today! <a href="https://www.neowin.net/sponsored/free-download-dream-hack-build-ebook-worth-3999/">Read more...</a>
+
+## Firefox 128.0.3 fixes the problem with websites not loading, on-screen keyboard, and more
+ - [https://www.neowin.net/news/firefox-12803-fixes-the-problem-with-websites-not-loading-on-screen-keyboard-and-more](https://www.neowin.net/news/firefox-12803-fixes-the-problem-with-websites-not-loading-on-screen-keyboard-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T14:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1722004218_firefox_128.0.3_medium.jpg" /></div>Mozilla has released another small update for Firefox 128. Version 128.0.3 is now available for download with three patches for connecting issues, table rows, and on-screen keyboard on Windows. <a href="https://www.neowin.net/news/firefox-12803-fixes-the-problem-with-websites-not-loading-on-screen-keyboard-and-more/">Read more...</a>
+
+## Get the 2024 32-inch Samsung Odyssey G55C gaming PC monitor for a new low price of $219.99
+ - [https://www.neowin.net/deals/get-the-2024-32-inch-samsung-odyssey-g55c-gaming-pc-monitor-for-a-new-low-price-of-21999](https://www.neowin.net/deals/get-the-2024-32-inch-samsung-odyssey-g55c-gaming-pc-monitor-for-a-new-low-price-of-21999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T14:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721988527_samsung-odyssey-g5-1_medium.jpg" /></div>The 2024 edition of the 32-inch Samsung Odyssey G55C gaming PC monitor has a curved display and a 165 Hz refresh rate. It&#039;s hit a new all-time low price of $219.99 or $110 off its $329.99 MSRP. <a href="https://www.neowin.net/deals/get-the-2024-32-inch-samsung-odyssey-g55c-gaming-pc-monitor-for-a-new-low-price-of-21999/">Read more...</a>
+
+## Windows 11 gets much-needed File Explorer improvements in the latest non-security update
+ - [https://www.neowin.net/news/windows-11-gets-much-needed-file-explorer-improvements-in-the-latest-non-security-update](https://www.neowin.net/news/windows-11-gets-much-needed-file-explorer-improvements-in-the-latest-non-security-update)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T13:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1695825135_file_explorer_medium.jpg" /></div>If you are not happy with how File Explorer in Windows 11 works, the latest update may help you a bit. It contains multiple fixes and some new features to make the stock file manager notably better. <a href="https://www.neowin.net/news/windows-11-gets-much-needed-file-explorer-improvements-in-the-latest-non-security-update/">Read more...</a>
+
+## The Asus Vivobook Go (2024) is now available for less than $190
+ - [https://www.neowin.net/deals/the-asus-vivobook-go-2024-is-now-available-for-less-than-190](https://www.neowin.net/deals/the-asus-vivobook-go-2024-is-now-available-for-less-than-190)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T12:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721997715_61kzbt8qegl._ac_sl1200__medium.jpg" /></div>The Asus Vivobook Go (2024) is available on Amazon for just $189.99; that&#039;s a discount of $40 off the list price, which is $229.99. The specs aren&#039;t wild, but it&#039;s suitable for school and office work. <a href="https://www.neowin.net/deals/the-asus-vivobook-go-2024-is-now-available-for-less-than-190/">Read more...</a>
+
+## Samsung reveals why Google Messages was picked over Samsung Messages
+ - [https://www.neowin.net/news/samsung-reveals-why-google-messages-was-picked-over-samsung-messages](https://www.neowin.net/news/samsung-reveals-why-google-messages-was-picked-over-samsung-messages)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T12:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/08/1628534262_samsung_logo_medium.jpg" /></div>After announcing that it would replace the Samsung Messages app with Google Messages without any explanation, Samsung has revealed why the decision to go for one messaging app was made. <a href="https://www.neowin.net/news/samsung-reveals-why-google-messages-was-picked-over-samsung-messages/">Read more...</a>
+
+## CrowdStrike CEO: Over 97 percent of Windows sensors are now back online following outage
+ - [https://www.neowin.net/news/crowdstrike-ceo-over-97-percent-of-windows-sensors-are-now-back-online-following-outage](https://www.neowin.net/news/crowdstrike-ceo-over-97-percent-of-windows-sensors-are-now-back-online-following-outage)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T11:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721409055_crowdstrike-logo_medium.jpg" /></div>Nearly a week after a failed update from CrowdStrike shut down over 8 million Windows PCs worldwide, the company&#039;s CEO now says that over 97 percent of Windows sensors are back online. <a href="https://www.neowin.net/news/crowdstrike-ceo-over-97-percent-of-windows-sensors-are-now-back-online-following-outage/">Read more...</a>
+
+## Get the 1TB Samsung T7 Portable SSD for half its list price
+ - [https://www.neowin.net/deals/get-the-1tb-samsung-t7-portable-ssd-for-half-its-list-price](https://www.neowin.net/deals/get-the-1tb-samsung-t7-portable-ssd-for-half-its-list-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T10:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/01/1674394544_samsung_t7_portable_ssd_medium.jpg" /></div>Those in need of a portable SSD with snappy performance and a decent amount of space should check out the Samsung T7 Portable SSD. It is now available on Amazon for half the price. <a href="https://www.neowin.net/deals/get-the-1tb-samsung-t7-portable-ssd-for-half-its-list-price/">Read more...</a>
+
+## Microsoft updates Windows 11 23H2 and 22H2 initial setup (OOBE) with KB5041655
+ - [https://www.neowin.net/news/microsoft-updates-windows-11-23h2-and-22h2-initial-setup-oobe-with-kb5041655](https://www.neowin.net/news/microsoft-updates-windows-11-23h2-and-22h2-initial-setup-oobe-with-kb5041655)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T08:30:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721981905_windows_11_medium.jpg" /></div>Microsoft has released a new update for Windows 11&#039;s OOBE, which stands for out-of-box experience or initial setup. KB5041655 is now live with improvements for Windows 11 versions 22H2 and 23H2. <a href="https://www.neowin.net/news/microsoft-updates-windows-11-23h2-and-22h2-initial-setup-oobe-with-kb5041655/">Read more...</a>
+
+## Oracle releases VirtualBox 7.1 Beta with a refreshed UI, ARM virtualization for Linux, more
+ - [https://www.neowin.net/news/oracle-releases-virtualbox-71-beta-with-a-refreshed-ui-arm-virtualization-for-linux-more](https://www.neowin.net/news/oracle-releases-virtualbox-71-beta-with-a-refreshed-ui-arm-virtualization-for-linux-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T07:30:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721977635_virtualbox_7.1_medium.jpg" /></div>Oracle has released the first beta of VirtualBox 7.1, a major feature update for the popular cross-platform virtualization app. It includes a refreshed UI, ARM virtualization for Linux, and more. <a href="https://www.neowin.net/news/oracle-releases-virtualbox-71-beta-with-a-refreshed-ui-arm-virtualization-for-linux-more/">Read more...</a>
+
+## Microsoft releases Edge 127 with Password Monitor improvements and more
+ - [https://www.neowin.net/news/microsoft-releases-edge-127-with-password-monitor-improvements-and-more](https://www.neowin.net/news/microsoft-releases-edge-127-with-password-monitor-improvements-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T07:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1682582580_microsoft_edge_medium.jpg" /></div>Microsoft has released Edge 127 for the general public. The browser is now available in the Stable Channel, bringing users Password Monitor improvements, security fixes, bug fixes, and more. <a href="https://www.neowin.net/news/microsoft-releases-edge-127-with-password-monitor-improvements-and-more/">Read more...</a>
+
+## New One UI 7 leak shows off the new design and key features
+ - [https://www.neowin.net/news/new-one-ui-7-leak-shows-off-the-new-design-and-key-features](https://www.neowin.net/news/new-one-ui-7-leak-shows-off-the-new-design-and-key-features)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T06:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721975541_one-ui_medium.jpg" /></div>A fresh leak has emerged that shows off the new design elements, key features, and the changes Samsung is rumored to introduce with the soon-to-launch Android 15-based One UI 7 update. <a href="https://www.neowin.net/news/new-one-ui-7-leak-shows-off-the-new-design-and-key-features/">Read more...</a>
+
+## Google Home app will notify you if you left your garage door open
+ - [https://www.neowin.net/news/google-home-app-will-notify-you-if-you-left-your-garage-door-open](https://www.neowin.net/news/google-home-app-will-notify-you-if-you-left-your-garage-door-open)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T06:36:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721973036_google-home_medium.jpg" /></div>Google is now rolling out new updates in Public Preview for our Nest camera and doorbell, adding AI-powered garage door detection for Next Cam users with Nest Aware in the US and Canada. <a href="https://www.neowin.net/news/google-home-app-will-notify-you-if-you-left-your-garage-door-open/">Read more...</a>
+
+## Google Maps adds 6 new India-specific features to solve the most common commuter problems
+ - [https://www.neowin.net/news/google-maps-adds-6-new-india-specific-features-to-solve-the-most-common-commuter-problems](https://www.neowin.net/news/google-maps-adds-6-new-india-specific-features-to-solve-the-most-common-commuter-problems)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T05:36:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721970922_google-maps_medium.jpg" /></div>Google Maps has introduced 6 new India-specific features, which also include some of the most requested features outside of India, including the option to report incidents from within the app. <a href="https://www.neowin.net/news/google-maps-adds-6-new-india-specific-features-to-solve-the-most-common-commuter-problems/">Read more...</a>
+
+## Samsung Galaxy phones pick up two new audio settings with One UI 6.1.1 update
+ - [https://www.neowin.net/news/samsung-galaxy-phones-pick-up-two-new-audio-settings-with-one-ui-611-update](https://www.neowin.net/news/samsung-galaxy-phones-pick-up-two-new-audio-settings-with-one-ui-611-update)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T04:58:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713861298_galaxy-z-fold-5-z-flip-5-hero_medium.jpg" /></div>Samsung Galaxy phones are picking up two new audio settings with the latest One UI 6.1.1 update, which helps boost dialogue and normalize volume when media is played via speakers or any headset. <a href="https://www.neowin.net/news/samsung-galaxy-phones-pick-up-two-new-audio-settings-with-one-ui-611-update/">Read more...</a>
+
+## The new Voice Mode will be available to ChatGPT Plus subscribers next week
+ - [https://www.neowin.net/news/the-new-voice-mode-will-be-available-to-chatgpt-plus-subscribers-next-week](https://www.neowin.net/news/the-new-voice-mode-will-be-available-to-chatgpt-plus-subscribers-next-week)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-07-26T04:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721964220_chatgpt_voice_mode_rollout_medium.jpg" /></div>The rollout of the advanced Voice Mode was delayed due to the need for further content filtering improvements. Now, OpenAI CEO Sam Altman has confirmed that the alpha rollout is happening next week. <a href="https://www.neowin.net/news/the-new-voice-mode-will-be-available-to-chatgpt-plus-subscribers-next-week/">Read more...</a>
+
