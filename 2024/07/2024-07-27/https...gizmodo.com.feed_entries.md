@@ -1,0 +1,142 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Kamala Harris Gatecrashed San Diego Comic-Con In the Weirdest Way
+ - [https://gizmodo.com/sdcc-2024-kamala-harris-simpsons-panel-2000480250](https://gizmodo.com/sdcc-2024-kamala-harris-simpsons-panel-2000480250)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T23:25:56+00:00
+
+<p><img alt="Kamala Harris Air Force Two" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Kamala-Harris-Air-Force-Two.jpg" width="1500" /></p>The Vice President of the United States (and presumptive Democrat nominee for this year's Presidential Election) made a surprise appearance... during the <i>Simpsons</i> Comic-Con panel?
+
+## Star Trek Is Getting Its First Live-Action Comedy
+ - [https://gizmodo.com/sdcc-2024-star-trek-live-action-comedy-tawny-newsome-2000480245](https://gizmodo.com/sdcc-2024-star-trek-live-action-comedy-tawny-newsome-2000480245)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T22:15:20+00:00
+
+<p><img alt="Star Trek Tawny Newsome Justin Simien" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/star-trek-tawny-newsome-justin-simien.jpg" width="1500" /></p>Justin Simien and <i>Star Trek: Lower Decks</i>' Tawny Newsome are in early development on a brand new <i>Star Trek</i> show... with a hell of a twist.
+
+## Section 31‘s First Trailer Is Star Trek‘s Answer to Suicide Squad
+ - [https://gizmodo.com/star-trek-section-31-trailer-sdcc-2024-michelle-yeoh-2000478754](https://gizmodo.com/star-trek-section-31-trailer-sdcc-2024-michelle-yeoh-2000478754)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T22:05:46+00:00
+
+<p><img alt="Star Trek Section 31 Trailer Michelle Yeoh" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Star-Trek-Section-31-Trailer-Michelle-Yeoh.jpg" width="1500" /></p>Oscar-winner Michelle Yeoh returns to <i>Star Trek</i> as her <i>Discovery</i> character Phillipa Georgiou, for a new movie about the mysterious Starfleet black ops division.
+
+## Starfleet Academy Is Recruiting Some Familiar Star Trek Faces
+ - [https://gizmodo.com/starfleet-academy-star-trek-cast-robert-picardo-voyager-discovery-sdcc-2024-2000480237](https://gizmodo.com/starfleet-academy-star-trek-cast-robert-picardo-voyager-discovery-sdcc-2024-2000480237)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T21:59:50+00:00
+
+<p><img alt="Star Trek Starfleet Academy Casting" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Star-Trek-Starfleet-Academy-Casting.jpg" width="1500" /></p><i>Star Trek: Voyager</i> icon Robert Picardo will join <i>Discovery</i>'s Tig Notaro, Mary Wiseman, and Oded Fehr in the new series.
+
+## Star Trek: Lower Decks Season 5’s First Trailer Is the Beginning of the End
+ - [https://gizmodo.com/star-trek-lower-decks-season-5-trailer-release-date-sdcc-2024-2000478751](https://gizmodo.com/star-trek-lower-decks-season-5-trailer-release-date-sdcc-2024-2000478751)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T21:25:53+00:00
+
+<p><img alt="Star Trek Lower Decks Season 5 Trailer" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Star-Trek-lower-Decks-Season-5-Trailer.jpg" width="1500" /></p>Get ready to say goodbye to the Lower Deckers as <i>Star Trek</i> bids farewell with a fifth and final season this year.
+
+## Our First Look at Star Trek: Strange New Worlds Season 3 Is a Vulcan Farce
+ - [https://gizmodo.com/star-trek-strange-new-worlds-season-3-trailer-sdcc-2024-2000478745](https://gizmodo.com/star-trek-strange-new-worlds-season-3-trailer-sdcc-2024-2000478745)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T21:03:56+00:00
+
+<p><img alt="Star Trek Strange New Worlds Season 3 Teaser" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Star-Trek-Strange-New-Worlds-Season-3-Teaser.jpg" width="1500" /></p>Captain Pike and the crew of the starship <i>Enterprise</i> get into some Vulcan hijinks in our first look at <i>Strange New Worlds</i> season 3.
+
+## Trump Promises to Make U.S. the ‘Crypto Capital of the Planet and the Bitcoin Superpower’
+ - [https://gizmodo.com/trump-promises-to-make-u-s-the-crypto-capital-of-the-planet-and-the-bitcoin-superpower-2000480037](https://gizmodo.com/trump-promises-to-make-u-s-the-crypto-capital-of-the-planet-and-the-bitcoin-superpower-2000480037)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T20:59:48+00:00
+
+<p><img alt="Former President Donald Trump speaks at the 2024 Bitcoin Conference." class="attachment-full size-full wp-post-image" height="872" src="https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-27-at-1.02.37 PM.jpg" width="1920" /></p>The former president drew cheers at the 2024 Bitcoin Conference after saying he'll "fire" Biden-nominated SEC Chair Gary Gensler.
+
+## The Coolest Hasbro Star Wars, Marvel, and Transformers Toys Revealed at Comic-Con
+ - [https://gizmodo.com/sdcc-2024-hasbro-marvel-star-wars-transformers-reveals-2000480028](https://gizmodo.com/sdcc-2024-hasbro-marvel-star-wars-transformers-reveals-2000480028)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T20:30:19+00:00
+
+<p><img alt="Sdcc Hasbro Reveals 2024" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/SDCC-Hasbro-Reveals-2024.jpg" width="1500" /></p>Comic-con always brings a ton of cool toy news from Hasbro–here's a look at all their <i>Star Wars</i>, Marvel, and <i>Transformers</i> reveals from the show floor this year.
+
+## Kevin Feige Told His Marvel and Geek Origin Story at Comic-Con 2024
+ - [https://gizmodo.com/sdcc-2024-kevin-feige-cb-cebulski-panel-2000480011](https://gizmodo.com/sdcc-2024-kevin-feige-cb-cebulski-panel-2000480011)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T19:45:08+00:00
+
+<p><img alt="Feige Marvel Sdcc" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Feige-Marvel-SDCC.jpg" width="1500" /></p>The Marvel Studios president joined Marvel Comics EIC C.B. Cebulski for a "Marvel Fanfare" chat at the San Diego convention.
+
+## The Massive-Verse’s No/One Is Making the Jump To Film
+ - [https://gizmodo.com/no-one-massive-verse-film-adaptation-2000479863](https://gizmodo.com/no-one-massive-verse-film-adaptation-2000479863)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T18:50:21+00:00
+
+<p><img alt="No One Image Sdcc" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/no_one-image-sdcc.jpg" width="1500" /></p>Image Comics' superhero noir story is getting the film treatment in the Massive-Verse's biggest transmedia push yet.
+
+## Futurama Season 12 Is the Futurama You Know and Love
+ - [https://gizmodo.com/futurama-season-12-review-hulu-matt-groening-2000476568](https://gizmodo.com/futurama-season-12-review-hulu-matt-groening-2000476568)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T18:00:57+00:00
+
+<p><img alt="Futurama S12 key art" class="attachment-full size-full wp-post-image" height="924" src="https://gizmodo.com/app/uploads/2024/07/FUTURAMA_S12_Hulu_Core_Asset_8100X12000_PRE-2-2.jpg" width="1295" /></p>Hulu's revival of Matt Groening's animated sci-fi series returns (praise the Robot Devil!) July 29.
+
+## Netflix’s BioShock Movie Is Still Happening (No, Really)
+ - [https://gizmodo.com/bioshock-movie-netflix-development-2000479523](https://gizmodo.com/bioshock-movie-netflix-development-2000479523)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T17:25:14+00:00
+
+<p><img alt="A Big Daddy and Little Sister in key art for 2010&#039;s BioShock 2." class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/bioshock-2-sdcc.jpg" width="1500" /></p>The streamer still plans on adapting 2K's franchise, but will it be the same if it's got a slashed budget?
+
+## Justice League Unlimited Brings DC’s A-List Team Back to Prominence
+ - [https://gizmodo.com/justice-league-unlimited-dc-comics-waid-mora-2000479713](https://gizmodo.com/justice-league-unlimited-dc-comics-waid-mora-2000479713)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T16:40:24+00:00
+
+<p><img alt="Justice League Unlimited #1 cover" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/justice-league-unlimited.jpg" width="1500" /></p>DC's top superhero team is back in action, and its new series is borrowing elements of the classic 2004 cartoon.
+
+## The Most Impressive Cosplay at San Diego Comic-Con, Day 2
+ - [https://gizmodo.com/sdcc-2024-comic-con-cosplay-gallery-2000479927](https://gizmodo.com/sdcc-2024-comic-con-cosplay-gallery-2000479927)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T16:00:01+00:00
+
+<p><img alt="SDCC 2024 Cosplay Day 2 Io9" class="attachment-full size-full wp-post-image" height="720" src="https://gizmodo.com/app/uploads/2024/07/Cosplay-day-2-io9.jpg" width="1080" /></p>Here's a round up of pop culture characters we saw amazing fans debut handmade looks at San Diego Comic-Con.
+
+## Mortal Kombat 1’s Next Adventure Is a Krisis on Infinite Earths
+ - [https://gizmodo.com/mortal-kombat-1-khaos-reigns-expansion-2000479998](https://gizmodo.com/mortal-kombat-1-khaos-reigns-expansion-2000479998)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T15:35:06+00:00
+
+<p><img alt="Mk1 Khaos Reigns" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/mk1-khaos-reigns.jpg" width="1500" /></p>NetherRealm's fighter isn't done with the multiverse yet, and it's bringing new fighters along for the ride.
+
+## Rick and Morty: The Anime‘s Creators on How Their Show Is Different From the Original
+ - [https://gizmodo.com/rick-and-morty-the-animes-creators-on-how-their-show-is-different-from-the-original-2000479945](https://gizmodo.com/rick-and-morty-the-animes-creators-on-how-their-show-is-different-from-the-original-2000479945)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T14:45:39+00:00
+
+<p><img alt="Rick and Morty: The Anime" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-26-at-6.38.04 PM.jpg" width="1500" /></p>The new series premieres August 15 on Adult Swim; a Japanese language version arrives August 17.
+
+## Critical Role Teases the Animated Future for Vox Machina and Mighty Nein
+ - [https://gizmodo.com/critical-role-vox-machina-mighty-nein-prime-video-2000479916](https://gizmodo.com/critical-role-vox-machina-mighty-nein-prime-video-2000479916)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T14:00:24+00:00
+
+<p><img alt="Vox Machina Critrole" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/vox-machina-critrole.jpg" width="1500" /></p>The popular actual play series continues to build out its future with two animated shows for Prime Video.
+
+## New Alien: Romulus Footage Just Gave Birth at Comic-Con
+ - [https://gizmodo.com/sdcc-2024-alien-romulus-footage-description-2000478687](https://gizmodo.com/sdcc-2024-alien-romulus-footage-description-2000478687)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T13:00:06+00:00
+
+<p><img alt="Alien Romulus Sdcc" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/07/Alien-SDCC.jpg" width="1500" /></p>Fede Alvarez, Cailee Spaney, and others were on hand in Hall H for the August 16 release.
+
+## The Muon Fails to Upend Physics as We Know It
+ - [https://gizmodo.com/the-muon-fails-to-upend-physics-as-we-know-it-2000478947](https://gizmodo.com/the-muon-fails-to-upend-physics-as-we-know-it-2000478947)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T11:00:07+00:00
+
+<p><img alt="An artist&#039;s conception of muons interacting with a magnetic field." class="attachment-full size-full wp-post-image" height="546" src="https://gizmodo.com/app/uploads/2024/07/Muon-g-2_feature-e1721926718141.jpg" width="972" /></p>The unusually large Muon has threatened the Standard Model for decades, but new data parks the particle inside the cozy confines of established physics.
+
+## This Is How Deadpool Works at Disneyland
+ - [https://gizmodo.com/deadpool-disneyland-appearances-details-video-marvel-disney-2000479561](https://gizmodo.com/deadpool-disneyland-appearances-details-video-marvel-disney-2000479561)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-07-27T00:15:38+00:00
+
+<p><img alt="Deadpool And Wolverine Disneyland Io9" class="attachment-full size-full wp-post-image" height="720" src="https://gizmodo.com/app/uploads/2024/07/Deadpool-and-Wolverine-Disneyland-io9.jpg" width="1080" /></p>A promise was made by the merc with the mouth, and that promise has been honored at Avengers Campus... with Wolverine in tow.
+
