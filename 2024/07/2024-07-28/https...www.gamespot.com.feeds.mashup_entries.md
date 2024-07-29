@@ -1,0 +1,58 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Mortal Kombat 1 - New Guest Fighters Discussion with Ed Boon At San Diego Comic Con 2024
+ - [https://www.gamespot.com/videos/mortal-kombat-1-new-guest-fighters-discussion-with-ed-boon-at-san-diego-comic-con-2024/2300-6464689](https://www.gamespot.com/videos/mortal-kombat-1-new-guest-fighters-discussion-with-ed-boon-at-san-diego-comic-con-2024/2300-6464689)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T19:30:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4341960-mk1_site.jpg" width="480" /> Ed Boon join Chris Hayner to Mortal Kombat 1's upcoming Khaos Reigns DLC, and new guest fighters that include Scream's Ghostface, Terminator 2's T-1000, and Conan the Barbarian.
+
+## Marvel Confirms Avengers 5 And 6 Titles At Comic-Con
+ - [https://www.gamespot.com/articles/marvel-confirms-avengers-5-and-6-titles-at-comic-con/1100-6525362/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-confirms-avengers-5-and-6-titles-at-comic-con/1100-6525362/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T02:44:00+00:00
+
+<p>Leave it to Marvel Studios to close out its signature Hall H Comic-Con panel with a series of huge announcements. First, Kevin Feige confirmed that <a href="https://www.gamespot.com/articles/avengers-veterans-joe-and-anthony-russo-could-direct-next-two-avengers-films/1100-6525069/">Joe and Anthony Russo will return to the MCU</a> with Avengers 5 and Avengers 6. While the sixth film in the franchise is still called Avengers: Secret Wars, the fifth film will no longer be Avengers: The Kang Dynasty. Instead, it will now be known as Avengers: Doomsday.</p><figure style="width: 1300px;"><a href="https://www.gamespot.com/a/uploads/original/1837/18375603/4341876-avengersdoomsday.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/scale_super/1837/18375603/4341876-avengersdoomsday.jpg" /></a></figure><p>The shift away from Kang began after Jonathan Majors was fired from the role following his conviction for assaulting his ex-girlfriend. Instead, the new primary vill
+
+## Robert Downey Jr. Returns To The MCU In Avengers: Doomsday, But Not How You Think
+ - [https://www.gamespot.com/articles/robert-downey-jr-returns-to-the-mcu-in-avengers/1100-6525361/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/robert-downey-jr-returns-to-the-mcu-in-avengers/1100-6525361/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T02:44:00+00:00
+
+<p>Robert Downey Jr. is returning to the MCU, but Iron Man isn't. Instead, he'll be taking a new name and wearing a new mask--that of Victor von Doom, one of Marvel's greatest villains. RDJ kicked off the MCU and introduced superheroes to Earth-616 in 2008's Iron Man and ended his run as Tony Stark in 2018's Avengers Endgame. This could be the MCU's coolest moment--or its silliest.</p><p>Downey revealed his new role on the Hall H stage, coming out in a Dr. Doom mask and tearing it off to reveal his face to a surprised audience. His comment was simple: "New mask, same task."</p><div>          </div><p>As part of Marvel Studios' San Diego Comic-Con 2024 panel, the studio announced that directing team Joe and Anthony Russo will return to direct a <a href="https://www.gamespot.com/articles/marvel-confirms-avengers-5-and-6-titles-at-comic-con/1100-6525362/">pair of new Avengers films</a>, with Avengers: Doomsday coming in 2026 and Avengers: Secret Wars following a year after. Victor von Do
+
+## Marvel Debuts First Thunderbolts Footage At Comic-Con 2024
+ - [https://www.gamespot.com/articles/marvel-debuts-first-thunderbolts-footage-at-comic-con-2024/1100-6525359/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-debuts-first-thunderbolts-footage-at-comic-con-2024/1100-6525359/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T02:15:00+00:00
+
+<p>Marvel's Thunderbolts will kick off the summer box office in 2025, but the cast and director Jake Schreier debuted the first footage from the film at this year's Marvel Studios panel at San Diego Comic-Con. And if the preview clips are any indication, this team may play like Marvel's Suicide Squad.</p><p>The footage began with Florence Pugh's Yelena Belova reuniting with her surrogate father, Alexei Shostakov/Red Guardian (David Harbour). He's living alone in a messy apartment, and Yelena confesses that she feels an emptiness inside of her and that "there is something wrong with me." Wyatt Russell's John Walker/U.S. Agent is shown at home with his child while reading a story about his downfall.</p><p>Later, Yelena encounters Ghost (Hannah John-Kamen) on a mission that turns out to be a trap for both of them. They're convinced that someone is trying to kill them. Bucky Barnes (Sebastian Stan) is then seen spying on Valentina Allegra de Fontaine (Julia Louis-Dreyfus) before cutting t
+
+## Captain America: Brave New World Brings Adamantium, Finally References Eternals
+ - [https://www.gamespot.com/articles/captain-america-brave-new-world-brings-adamantium-finally-references-eternals/1100-6525358/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/captain-america-brave-new-world-brings-adamantium-finally-references-eternals/1100-6525358/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T02:06:00+00:00
+
+<p>Adamantium is coming to the MCU thanks to Captain America: Brave New World from an unlikely source--The Eternals. If you've ever been a Marvel comics fan, you know why this is big news. The fictional metal Vibranium has been a central element of the MCU since Captain America's shield first appeared, but that's because Marvel's most famous metal belonged to a character they couldn't use at the time.</p><p>As part of Marvel Studios' big San Diego Comic-Con panel, the studio is talking about the upcoming Captain America: Brave New World. Among the many details shared in the panel and trailer, this one stood out: Adamantium is coming to the MCU.</p><p>In Marvel comic books, Adamantium is the king of sci-fi metals. Captain America's shield is crafted from the material in the books, as is the body of Ultron (the primary antagonist of Avengers: Age of Ultron). But Adamantium is best know as the material coating the skeleton of Marvel's best-known and most profitable mutant, Wolverine.</p>
+
+## Marvel's Fantastic Four Movie Receives New Subtitle
+ - [https://www.gamespot.com/articles/marvels-fantastic-four-movie-receives-new-subtitle/1100-6525360/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvels-fantastic-four-movie-receives-new-subtitle/1100-6525360/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T01:54:00+00:00
+
+<p>After the cast was announced and confirmed for Marvel Studios' Fantastic Four this past February, the latest installment of Marvel's first family gets a new title. Announced at Marvel's Hall H presentation during Comic-Con, the film will now be called The Fantastic Four: First Steps.</p><p>Since the movie starts filming in late-July, obviously there was no footage, However, there was a vintage style science reel made by the Future Foundation presented to the audience. In the video, Mr. Fantastic (Pedro Pascal) hosts a science show called Fantastic Science. We see the crew in a jet engine explosion, as well as Richards and Ben Grimm (Ebon Moss-Bachrach) prepping for space travel.</p><div><blockquote class="instagram-media"><div style="padding: 16px;"><div style="display: flex;"> </div><div style="padding: 19% 0;"> </div><div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"> </div><div style="padding-top: 8px;"><div style="color: #3897f0; font-family: Arial,san
+
+## Giancarlo Esposito Confirmed As Leader Of The Serpent Society For Captain America 4
+ - [https://www.gamespot.com/articles/giancarlo-esposito-confirmed-as-leader-of-the-serpent-society-for-captain-america-4/1100-6525357/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/giancarlo-esposito-confirmed-as-leader-of-the-serpent-society-for-captain-america-4/1100-6525357/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T01:38:00+00:00
+
+<p>After a year of rumors and fan speculation, Giancarlo Esposito's mystery role in Captain America: Brave New World has finally been confirmed. During the Marvel Studios panel at Comic-Con, the actor told the audience that he will be playing Sidewinder, leader of The Serpent Society.</p><p>Esposito enthusiastically spoke to the Hall H attendees: "So there's been a lot of guessing for who I really am. Can I say it? I can say it. I am the king of the Serpent Society! I am Seth Voelker, I am Sidewinder!"</p><div>          </div><p>Joining Esposito against the new Captain America will be The Leader (Tim Nelson Blake), and President Ross (Harrison Ford), who will mutate into the unstoppable Red Hulk. This is Anthony Mackie's first solo outing as the new Captain America after The Falcon and the Winter Soldier show on Disney+ had him don the shield and suit for the first time.</p><a href="https://www.gamespot.com/articles/giancarlo-esposito-confirmed-as-leader-of-the-serpent-society-for-cap
+
+## The Penguin's New Comic-Con Trailer Unleashes A War For Gotham's Underworld
+ - [https://www.gamespot.com/articles/the-penguins-new-comic-con-trailer-unleashes-a-war-for-gothams-underworld/1100-6525355/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-penguins-new-comic-con-trailer-unleashes-a-war-for-gothams-underworld/1100-6525355/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-07-28T00:59:00+00:00
+
+<p>During San Diego Comic-Con, a trailer for <a href="https://www.gamespot.com/articles/the-penguin-and-dune-prophecy-will-be-rebranded-as-hbo-originals/1100-6524870/">The Penguin</a> was released. The upcoming spin-off of <a href="https://www.gamespot.com/reviews/the-batman-review-riddle-me-this/1900-6417835/">The Batman</a> will be a limited series branded as an HBO Original. The Batman's Colin Farrell is reprising his role as Oswald "Oz" Cobblepot, and where others see disaster, the Penguin sees an opportunity to take control of the criminal underworld. But as shown in the new trailer, Oz has a significant adversary in his way.</p><div>          </div><p>Since Carmine Falcone was killed in The Batman, his daughter--Sofia Falcone (Cristin Milioti)--believes that she's the natural choice to take over the crime family. That puts her at odds against Oz, and for the first time, we see that Sophia was apparently institutionalized in Arkham Asylum. It also suggests that she may be a vigil
+

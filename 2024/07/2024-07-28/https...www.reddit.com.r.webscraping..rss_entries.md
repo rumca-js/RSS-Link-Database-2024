@@ -1,0 +1,16 @@
+# Source:webscraping, URL:https://www.reddit.com/r/webscraping/.rss, language:en
+
+## Help scraping for articles
+ - [https://www.reddit.com/r/webscraping/comments/1eecmth/help_scraping_for_articles](https://www.reddit.com/r/webscraping/comments/1eecmth/help_scraping_for_articles)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-07-28T17:23:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm trying to get a handful of news articles from a website if given a base domain. The base domain is not specified, so I can't know the directories in which the articles fall ahead of time. </p> <p>I've thought about trying to find the rss feed for the site, but not every site is doing to have an rss feed. </p> <p>I'm thinking of maybe crawling with AI, but would like to know if any packages exist that might help beforehand. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qa_anaaq"> /u/qa_anaaq </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1eecmth/help_scraping_for_articles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1eecmth/help_scraping_for_articles/">[comments]</a></span>
+
+## HTTP Headers
+ - [https://www.reddit.com/r/webscraping/comments/1ee74m4/http_headers](https://www.reddit.com/r/webscraping/comments/1ee74m4/http_headers)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-07-28T13:12:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm trying to make my scraping better by including more http headers than just user agent. I accessed the website with my own browser and found a bunch of different headers. I'm going to be using these headers: </p> <p>Accept, Accept-Encoding, Accept-Language, Cache-Control, Referer, User-Agent. There is the Cookie header but I'm not sure what to use there.</p> <p>There are a load of other headers like Pragma, Priority, Sec-Fetch-User, Sec-Fetch-Site etc. Is it sufficient to be using the 5-6 above only or should I be using these ones as well?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fuarkistani"> /u/Fuarkistani </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1ee74m4/http_headers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ee74m4/http_headers/">[comments]</a></span>
+
