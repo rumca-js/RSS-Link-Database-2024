@@ -1,0 +1,266 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Google Pulls 'Dear Sydney' Olympics Ad After Appearing Tone-Deaf To AI Concerns
+ - [https://tech.slashdot.org/story/24/08/02/1937249/google-pulls-dear-sydney-olympics-ad-after-appearing-tone-deaf-to-ai-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/08/02/1937249/google-pulls-dear-sydney-olympics-ad-after-appearing-tone-deaf-to-ai-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T23:04:56.410442+00:00
+
+Google has pulled its "Dear Sydney" Olympics ad after it garnered significant backlash. (You can still watch the ad on YouTube, but comments have been turned off.) According to Ad Age, the ad was "meant to promote Google's Gemini AI platform, but viewers had a difficult time looking past its miscalculated storyline." From the report: In the ad, a father wants to help his daughter write a letter to her idol, Olympic track star Sydney McLaughlin-Levrone. But instead of encouraging her to take part in such a personal moment, he delegates Gemini to write the letter for her. Viewers and ad leaders lambasted the spot on social media for being tone-deaf. Some were upset over Google evidently seeing no problem with an AI co-opting a formative childhood act, while others alluded to its reinforcing of a more existential fear, that AI is bound to replace meaningful work. The ad got significant airplay during NBCU's TV coverage of the Olympics this week, including on NBC in primetime, as well as 
+
+## US Sues TikTok Over 'Massive-Scale' Privacy Violations of Kids Under 13
+ - [https://yro.slashdot.org/story/24/08/02/1946231/us-sues-tiktok-over-massive-scale-privacy-violations-of-kids-under-13?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/08/02/1946231/us-sues-tiktok-over-massive-scale-privacy-violations-of-kids-under-13?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T23:04:53.744991+00:00
+
+An anonymous reader quotes a report from Reuters: The U.S. Justice Department filed a lawsuit Friday against TikTok and parent company ByteDance for failing to protect children's privacy on the social media app as the Biden administration continues its crackdown on the social media site. The government said TikTok violated the Children's Online Privacy Protection Act that requires services aimed at children to obtain parental consent to collect personal information from users under age 13. The suit (PDF), which was joined by the Federal Trade Commission, said it was aimed at putting an end "to TikTok's unlawful massive-scale invasions of children's privacy." Representative Frank Pallone, the top Democrat on the Energy and Commerce Committee, said the suit "underscores the importance of divesting TikTok from Chinese Communist Party control. We simply cannot continue to allow our adversaries to harvest vast troves of Americans' sensitive data."
+ 
+The DOJ said TikTok knowingly permitted 
+
+## Edge-Lit LCD TV Durability Concerns Emerge in New Test
+ - [https://entertainment.slashdot.org/story/24/08/02/1918228/edge-lit-lcd-tv-durability-concerns-emerge-in-new-test?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/08/02/1918228/edge-lit-lcd-tv-durability-concerns-emerge-in-new-test?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T21:44:04.058275+00:00
+
+A recent investigation by consumer electronics testing site RTINGs has raised concerns about the long-term durability of edge-lit LCD-LED televisions, a popular choice among consumers for their slim profiles and aesthetic appeal. The study, which simulated approximately six years of use through 10,000 hours of extreme testing on dozens of TVs, revealed a troubling trend of uniformity issues in edge-lit models, particularly affecting Samsung and LG products. 
+
+According to RTINGs' findings, 64% of edge-lit TVs tested exhibited noticeable uniformity problems, compared to only 20% of full array local dimming (FALD) and direct-lit models. The primary issues identified were warped reflector sheets, cracked light guide plates, and burnt-out LEDs, all exacerbated by extended use at maximum brightness settings. RTINGs attributed these problems to the concentrated heat generation in edge-lit designs, with some LEDs reaching temperatures as high as 253.4F (123C). While Samsung defended its use 
+
+## Intel Stock Drops Toward 50-Year Low Amid Mass Layoffs
+ - [https://slashdot.org/story/24/08/02/1927237/intel-stock-drops-toward-50-year-low-amid-mass-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/08/02/1927237/intel-stock-drops-toward-50-year-low-amid-mass-layoffs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T21:43:59.934620+00:00
+
+Intel's stock plunged as much as 30% on Friday after the company issued disappointing guidance and announced plans for a substantial workforce reduction. According to Bloomberg, it was the company's biggest single-day drop since at least 1982. Markets Insider reports: The decline comes after the software company announced quarterly revenue of $12.83 billion, down 1% from the previous year and missing analyst expectations of $12.94 billion, according to LSEG estimates. The company also lowered its revenue forecast for the current quarter to a range between $12.5 billion and $13.5 billion, down from analyst estimates of $14.35 billion. Intel executives pointed to unexpected trends in the most recent quarter to explain how it performed this way even with product milestones.
+ 
+"Our Q2 financial performance was disappointing, even as we hit key product and process technology milestones," CEO Pat Gelsinger said in a press release. "Second-half trends are more challenging than we previously 
+
+## Secret Service's Tech Issues Helped Shooter Go Undetected At Trump Rally
+ - [https://politics.slashdot.org/story/24/08/02/1913251/secret-services-tech-issues-helped-shooter-go-undetected-at-trump-rally?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://politics.slashdot.org/story/24/08/02/1913251/secret-services-tech-issues-helped-shooter-go-undetected-at-trump-rally?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T20:25:46.947389+00:00
+
+An anonymous reader quotes a report from The Guardian: The technology flaws of the U.S. Secret Service helped the gunman who attempted to assassinate Donald Trump during a rally in Butler, Pennsylvania, last month evade detection. An officer broadcast "long gun!" over the local law enforcement radio system, according to congressional testimony from the Secret Service this week, the New York Times reported. The radio message should have travelled to a command center shared between local police and the Secret Service, but the message was never received by the Secret Service. About 30 seconds later, the shooter, Thomas Crooks, fired his first shots.
+ 
+It was one of several technology issues facing the Secret Service on 13 July due to either malfunction, improper deployment or the Secret Service opting not to utilize them. The Secret Service had also previously rejected requests from the Trump campaign for more resources over the past two years. The use of a surveillance drone was turned 
+
+## Intel Will Give Two Years of Additional Warranty on Crash-Prone 13th and 14th Gen CPUs
+ - [https://hardware.slashdot.org/story/24/08/02/197211/intel-will-give-two-years-of-additional-warranty-on-crash-prone-13th-and-14th-gen-cpus?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/08/02/197211/intel-will-give-two-years-of-additional-warranty-on-crash-prone-13th-and-14th-gen-cpus?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T20:25:44.517721+00:00
+
+After months of back and forth, Intel has finally agreed to extend the warranty on all affected 13th- and 14th-generation desktop CPUs by an additional two years. This extension increases the warranty period for new boxed Intel CPUs from three to five years. For CPUs pre-installed in systems, Intel directs users to contact their PC's manufacturer for support, maintaining its established channels for warranty claims. The Verge adds: Intel has said that a primary cause of the instability issues for the desktop CPUs was due to an "elevated operating voltage" and that it was working on a patch for mid-August that addresses the root cause of that. But the patch apparently won't fix any damage that's already happened, meaning the best way to fix a damaged chip is to replace it.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Intel+Will+Give+Two+Years+of+Additional+Warranty+on+Crash-Prone+13th+and+14th+Gen+CPUs%3A+https%3A%2F%2Fhardware.slashdot.org%
+
+## The Best ROM Hack Website is Shutting Down After Nearly 20 Years
+ - [https://games.slashdot.org/story/24/08/02/1810215/the-best-rom-hack-website-is-shutting-down-after-nearly-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/08/02/1810215/the-best-rom-hack-website-is-shutting-down-after-nearly-20-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T19:14:05.554828+00:00
+
+ROMhacking.net, a prominent platform for fan translations and modifications of classic games, is shutting down after nearly two decades of operation. The site's administrator, who goes by the name Nightcrawler, said the website will remain accessible in a read-only format, but all new submissions have been halted and the site's extensive database has been transferred to the Internet Archive for preservation. 
+
+ROMhacking.net has long served as a crucial resource for gaming enthusiasts, according to Polygon, hosting a vast array of fan-made translations, bug fixes, and modifications for classic titles, many of which never received official localizations outside their countries of origin. The site's contributions to the gaming community include fan translations of Japanese-exclusive titles and even patches for long-standing bugs in popular games like Super Mario 64. Nightcrawler said the website ran into challenges including in managing the site's exponential growth and increasing copyr
+
+## Google Hires Character.AI Cofounders and Licenses Its Models
+ - [https://tech.slashdot.org/story/24/08/02/1851252/google-hires-characterai-cofounders-and-licenses-its-models?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/08/02/1851252/google-hires-characterai-cofounders-and-licenses-its-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T19:14:03.950643+00:00
+
+An anonymous reader shares a report: Google has agreed to pay a licensing fee [non-paywalled link] to chatbot maker Character.AI for its models and will hire its cofounders and many of its researchers, Character's leaders told staff on Friday. The leaders told Character staff that investors would be bought out at a valuation of about $88 per share, the leaders said in a meeting. That's about 2.5 times the value of shares in Character's 2023 Series A, which valued the company at $1 billion, they said. 
+
+The Character employees joining Google will work on its Gemini AI efforts, they said. Character will switch to open-source models such as Meta Platforms' Llama 3.1 to power its products, rather than its in-house models, they said. The deal follows a string of similar arrangements by other well-funded artificial intelligence startups. AI developers Adept and Inflection have both effectively sold themselves to Amazon and Microsoft, respectively, in the last five months despite raising con
+
+## Rediff, Once an Internet Pioneer in India, Sells Majority Stake for $3M
+ - [https://tech.slashdot.org/story/24/08/02/1534227/rediff-once-an-internet-pioneer-in-india-sells-majority-stake-for-3m?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/08/02/1534227/rediff-once-an-internet-pioneer-in-india-sells-majority-stake-for-3m?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T18:07:04.395201+00:00
+
+An anonymous reader shares a report: Payments infrastructure firm Infibeam Avenues has acquired a majority 54% stake in Rediff.com for up to $3 million, a dramatic twist of fate for the 28-year-old business that was the first Indian internet firm to list on Nasdaq back in the year 2000. 
+
+Founded in 1996, Rediff rode the initial dot-com wave to become one of India's leading web portals, offering email, news, and e-commerce services. At its peak, Rediff was valued at over $600 million on the Nasdaq stock exchange. It also drove some of the largest traffic in India, climbing at least up to the 12th spot, according to brokerage house Jefferies.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Rediff%2C+Once+an+Internet+Pioneer+in+India%2C+Sells+Majority+Stake+for+%243M%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F08%2F02%2F1534227%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+
+
+## US Court Blocks Biden Administration Net Neutrality Rules
+ - [https://news.slashdot.org/story/24/08/02/165242/us-court-blocks-biden-administration-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/08/02/165242/us-court-blocks-biden-administration-net-neutrality-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T18:07:01.893196+00:00
+
+schwit1 writes: A U.S. appeals court on Thursday blocked the Federal Communications Commission's reinstatement of landmark net neutrality rules, saying broadband providers are likely to succeed in a legal challenge. The agency voted in April along party lines to reassume regulatory oversight of broadband internet and reinstate open internet rules adopted in 2015 that were rescinded under then-President Donald Trump. 
+
+The Sixth Circuit U.S. Court of Appeals, which had temporarily delayed the rules, said on Thursday it would temporarily block net neutrality rules and scheduled oral arguments for late October or early November on the issue, dealing a serious blow to President Joe Biden's effort to reinstate the rules. "The final rule implicates a major question, and the commission has failed to satisfy the high bar for imposing such regulations," the court wrote. "Net neutrality is likely a major question requiring clear congressional authorization."<p><div class="share_submission">
+<a 
+
+## UK Government Shelves $1.66 Billion Tech and AI Plans
+ - [https://news.slashdot.org/story/24/08/02/1651236/uk-government-shelves-166-billion-tech-and-ai-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/08/02/1651236/uk-government-shelves-166-billion-tech-and-ai-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T18:06:59.669326+00:00
+
+An anonymous reader shares a report: The new Labour government has shelved $1.66 bn of funding promised by the Conservatives for tech and Artificial Intelligence (AI) projects, the BBC has learned. It includes $1 bn for the creation of an exascale supercomputer at Edinburgh University and a further $640m for AI Research Resource, which funds computing power for AI. Both funds were unveiled less than 12 months ago. 
+
+The Department for Science, Innovation and Technology (DSIT) said the money was promised by the previous administration but was never allocated in its budget. Some in the industry have criticised the government's decision. Tech business founder Barney Hussey-Yeo posted on X that reducing investment risked "pushing more entrepreneurs to the US." Businessman Chris van der Kuyl described the move as "idiotic." Trade body techUK said the government now needed to make "new proposals quickly" or the UK risked "losing out" to other countries in what are crucial industries of the 
+
+## GameStop Shuts Down Game Informer
+ - [https://games.slashdot.org/story/24/08/02/1728236/gamestop-shuts-down-game-informer?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/08/02/1728236/gamestop-shuts-down-game-informer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T18:06:57.166874+00:00
+
+Game Informer, the longest-running gaming magazine in the U.S., is officially dead and GameStop killed it. Kotaku: It began publishing in 1991 and has been one of the last remaining physical gaming magazines in the world, with cover stories that continued to share deep dives and exclusive interviews on the biggest games coming out, from Final Fantasy: VII Rebirth to Star Wars Outlaws. No more. 
+
+Staff at the magazine, which also publishes a website, weekly podcast, and online video documentaries about game studios and developers, were all called into a meeting on Friday with parent company GameStop's VP of HR. In it they were told the publication was closing immediately, they were all laid off, and would begin receiving severance terms. At least one staffer was in the middle of a work trip when the team was told. The sudden closure of Game Informer means that issue number 367, the outlet's Dragon Age: The Veilguard cover story, will be its last.<p><div class="share_submission">
+<a cla
+
+## Antarctic Temperatures Rise 10C Above Average in Near Record Heatwave
+ - [https://news.slashdot.org/story/24/08/02/0814205/antarctic-temperatures-rise-10c-above-average-in-near-record-heatwave?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/08/02/0814205/antarctic-temperatures-rise-10c-above-average-in-near-record-heatwave?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T15:21:58.404876+00:00
+
+Ground temperatures across great swathes of the ice sheets of Antarctica have soared an average of 10C above normal over the past month, in what has been described as a near record heatwave. From a report: While temperatures remain below zero on the polar land mass, which is shrouded in darkness at this time of year, the depths of southern hemisphere winter, temperatures have reportedly reached 28C above expectations on some days. The globe has experienced 12 months of record warmth, with temperatures consistently exceeding the 1.5C rise above preindustrial levels that has been touted as the limit to avoiding the worst of climate breakdown. 
+
+Michael Dukes, the director of forecasting at MetDesk, said that while individual daily high temperatures were surprising, far more significant was the average rise over the month. Climate scientists' models have long predicted that the most significant effects of anthropogenic climate change would be on polar regions, "and this is a great exampl
+
+## Elliott Says Nvidia is in a 'Bubble' and AI is 'Overhyped'
+ - [https://slashdot.org/story/24/08/02/1453257/elliott-says-nvidia-is-in-a-bubble-and-ai-is-overhyped?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/08/02/1453257/elliott-says-nvidia-is-in-a-bubble-and-ai-is-overhyped?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T15:21:55.422114+00:00
+
+Hedge fund Elliott Management has told investors that Nvidia is in a "bubble," and the AI technology driving the chipmaking giant's share price is "overhyped." From a report: The Florida-based firm, which manages about $70bn in assets, said in a recent letter to clients seen by the Financial Times that the megacap technology stocks, particularly Nvidia, were in "bubble land." [non-paywalled link] It added that it was "sceptical" that Big Tech companies would keep buying the chipmaker's graphics processing units in such high volumes, and that AI is "overhyped with many applications not ready for prime time." 
+
+[...] Many of AI's supposed uses are "never going to be cost-efficient, are never going to actually work right, will take up too much energy, or will prove to be untrustworthy," it said. Elliott, which was founded by billionaire Paul Singer in 1977, added in its client letter that, so far, AI had failed to deliver a promised huge uplift in productivity.&#194; "There are few real 
+
+## Microsoft Now Lists OpenAI as a Competitor in AI and Search
+ - [https://slashdot.org/story/24/08/01/1854203/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/08/01/1854203/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:50.891909+00:00
+
+An anonymous reader shares a report: Microsoft has a long and tangled history with OpenAI, having invested a reported $13 billion in the ChatGPT maker as part of a long term partnership. As part of the deal, Microsoft runs OpenAI's models across its enterprise and consumer products, and is OpenAI's exclusive cloud provider. However, the tech giant called the startup a "competitor" for the first time in an SEC filing on Tuesday. 
+
+In Microsoft's annual 10K, OpenAI joined long list of competitors in AI, alongside Anthropic, Amazon, and Meta. OpenAI was also listed alongside Google as a competitor to Microsoft in search, thanks to OpenAI's new SearchGPT feature announced last week. It's possible Microsoft is trying to change the narrative on its relationship with OpenAI in light of antitrust concerns -- the FTC is currently looking into the relationship, alongside similar cloud provider investments into AI startups.<p><div class="share_submission">
+<a class="slashpop" href="http://twitte
+
+## Argentina Will Use AI To 'Predict Future Crimes'
+ - [https://slashdot.org/story/24/08/01/194230/argentina-will-use-ai-to-predict-future-crimes?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/08/01/194230/argentina-will-use-ai-to-predict-future-crimes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:48.577381+00:00
+
+Argentina's security forces have announced plans to use AI to "predict future crimes" in a move experts have warned could threaten citizens' rights. From a report: The country's far-right president Javier Milei this week created the Artificial Intelligence Applied to Security Unit, which the legislation says will use "machine-learning algorithms to analyse historical crime data to predict future crimes." It is also expected to deploy facial recognition software to identify "wanted persons," patrol social media, and analyse real-time security camera footage to detect suspicious activities. 
+
+While the ministry of security has said the new unit will help to "detect potential threats, identify movements of criminal groups or anticipate disturbances," the Minority Report-esque resolution has sent alarm bells ringing among human rights organisations. Experts fear that certain groups of society could be overly scrutinised by the technology, and have also raised concerns over who -- and how 
+
+## Senators Propose 'Digital Replication Right' For Likeness, Extending 70 Years After Death
+ - [https://yro.slashdot.org/story/24/08/01/2010228/senators-propose-digital-replication-right-for-likeness-extending-70-years-after-death?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/08/01/2010228/senators-propose-digital-replication-right-for-likeness-extending-70-years-after-death?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:46.313589+00:00
+
+An anonymous reader quotes a report from Ars Technica: On Wednesday, US Sens. Chris Coons (D-Del.), Marsha Blackburn (R.-Tenn.), Amy Klobuchar (D-Minn.), and Thom Tillis (R-NC) introduced the Nurture Originals, Foster Art, and Keep Entertainment Safe (NO FAKES) Act of 2024. The bipartisan legislation, up for consideration in the US Senate, aims to protect individuals from unauthorized AI-generated replicas of their voice or likeness. The NO FAKES Act would create legal recourse for people whose digital representations are created without consent. It would hold both individuals and companies liable for producing, hosting, or sharing these unauthorized digital replicas, including those created by generative AI. Due to generative AI technology that has become mainstream in the past two years, creating audio or image media fakes of people has become fairly trivial, with easy photorealistic video replicas likely next to arrive. [...]
+ 
+To protect a person's digital likeness, the NO FAKES A
+
+## Linux Hits Another Desktop Market Share Record
+ - [https://linux.slashdot.org/story/24/08/01/2029219/linux-hits-another-desktop-market-share-record?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://linux.slashdot.org/story/24/08/01/2029219/linux-hits-another-desktop-market-share-record?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:44.167252+00:00
+
+According to Statcounter, Linux use hit another all-time high in July. For July 2024, the statistics website is showing Linux at 4.45%, climbing almost a half a percentage point from June's 4.05% high.
+ 
+Is 2024 truly the year of Linux on the desktop?<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=Linux+Hits+Another+Desktop+Market+Share+Record%3A+https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F08%2F01%2F2029219%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png" /></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F08%2F01%2F2029219%2Flinux-hits-another-desktop-market-share-record%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img src="https://a.fsdn.com/sd/facebook_icon_large.png" /></a>
+
+
+
+</div></p><p><a href="https://linux.slashdot.org/story/24/08/01/2029219/linux-hits-another-desktop-market-share-record?utm_source=rss1
+
+## Intel To Cut 16,000 Jobs To Save Costs
+ - [https://slashdot.org/story/24/08/01/2126209/intel-to-cut-16000-jobs-to-save-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/08/01/2126209/intel-to-cut-16000-jobs-to-save-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:41.644737+00:00
+
+Intel has announced plans for a substantial workforce reduction, surpassing initial expectations, as part of a comprehensive strategy to bolster its financial position and streamline operations. The company intends to lay off over 16,000 employees, representing more than 15% of its global workforce, with the majority of these cuts slated for completion by the end of 2024, according to the firm's second-quarter earnings report released on Thursday. 
+
+Concurrent with the workforce reductions, Intel has outlined plans to significantly curtail its capital expenditures, projecting a decrease of over 20% to a range of $25 to $27 billion in 2024, with further reductions anticipated in 2025. This shift in focus towards capital efficiency comes as the company achieves its goal of developing five process nodes in four years, signaling a recalibration of investment levels to align with market demands. As part of its financial restructuring, Intel has also made the decision to suspend its quarter
+
+## 'Venmo and Zelle May Not Be Free For Much Longer'
+ - [https://news.slashdot.org/story/24/08/01/2056232/venmo-and-zelle-may-not-be-free-for-much-longer?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/08/01/2056232/venmo-and-zelle-may-not-be-free-for-much-longer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:39.642430+00:00
+
+An anonymous reader quotes an op-ed, written by former hedge fund manager Marc Rubinstein: With new technologies come new rules governing how they are used. Often, policy is framed via analogy: Are social media platforms publishers or are they town squares? Are instant messages water-cooler chatter or are they formal communication? So it is with peer-to-peer electronic payments. Last week a US Senate committee joined the debate over whether they're analogous to cash or to bank-payment channels. It's an essential distinction -- for both consumers and the companies that provide this free service. [...] Yet while no bank would accept liability if a customer lost their wallet to a pickpocket, the senators' debate focused on who's responsible when fraudsters target electronic wallets. Last year, customers of the three largest lenders -- Bank of America, JPMorgan Chase and Wells Fargo -- lost a total of $370 million via Zelle, the platform these banks jointly own with four others. According
+
+## San Francisco Supervisors Approve Ban on Rent-Setting Software
+ - [https://news.slashdot.org/story/24/08/01/2117231/san-francisco-supervisors-approve-ban-on-rent-setting-software?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/08/01/2117231/san-francisco-supervisors-approve-ban-on-rent-setting-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:37.539996+00:00
+
+San Francisco's Board of Supervisors has approved a first-in-the-nation ordinance banning landlords from using certain software and algorithms to set rents. The measure, proposed by Board President Aaron Peskin, passed with a 10-0 vote and targets companies like RealPage and Yardi. 
+
+The ordinance prohibits the sale or use of "algorithmic devices" that analyze non-public competitor data to recommend rents or occupancy levels for residential units in San Francisco. Violators could face civil penalties up to $1,000 per infraction. Proponents argue the software exacerbates the city's housing crisis by enabling artificial rent inflation. RealPage defended its product, stating it "benefits both housing providers and residents" and that customers can reject price recommendations. The ban follows federal scrutiny of algorithmic rent-setting practices. A final vote is scheduled for September 3.<p><div class="share_submission">
+<a class="slashpop" href="http://twitter.com/home?status=San+Franc
+
+## Broken Fisker Ocean Lures In Buyer With Its $10,000 Price Tag
+ - [https://tech.slashdot.org/story/24/08/01/2043231/broken-fisker-ocean-lures-in-buyer-with-its-10000-price-tag?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/08/01/2043231/broken-fisker-ocean-lures-in-buyer-with-its-10000-price-tag?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:35.419933+00:00
+
+Longtime Slashdot reader ArchieBunker shares a report from Jalopnik: YouTube's Rich Rebuilds has been taking electric vehicles apart to see what makes them tick for years, so when a bargain-priced Fisker Ocean came on his radar, he had to buy it. Even if it was totally bricked. This car was purchased new for over $70,000, had several thousand dollars of paint protection and tint applied, was driven for 300 miles, and traded in. It sat on the dealer lot for long enough for the battery to die, and the techs at the dealer couldn't figure it out. So they sold it to Rich for just 10 grand!
+ 
+As Rich notes in the video, the car is worth way more than ten grand in parts alone, as current Fisker owners will be looking for ways to keep their cars on the road for years to come. The company has gone the way of the dodo, and parts supply and software updates are never going to come. What you see is what you get, and what you get is kind of shitty. In June, Fisker filed for bankruptcy, months afte
+
+## US Progressives Push For Nvidia Antitrust Investigation
+ - [https://yro.slashdot.org/story/24/08/01/2139241/us-progressives-push-for-nvidia-antitrust-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/08/01/2139241/us-progressives-push-for-nvidia-antitrust-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:33.147422+00:00
+
+Progressive groups and Senator Elizabeth Warren are urging the Department of Justice to investigate Nvidia for potential antitrust violations due to its dominant position in the AI chip market. The groups criticize Nvidia's bundling of software and hardware, claiming it stifles innovation and locks in customers. Reuters reports: Demand Progress and nine other groups wrote a letter (PDF) this week, opens new tab urging Department of Justice antitrust chief Jonathan Kanter to probe business practices at Nvidia, whose market value hit $3 trillion this summer on demand for chips able to run the complex models behind generative AI. The groups, which oppose monopolies and promote government oversight of tech companies, among other issues, took aim at Nvidia's bundling of software and hardware, a practice that French antitrust enforcers have flagged as they prepare to bring charges.
+ 
+"This aggressively proprietary approach, which is strongly contrary to industry norms about collaboration an
+
+## Bungie CEO Faces Backlash After Announcing 220 Employees Will Be Laid Off
+ - [https://games.slashdot.org/story/24/08/01/2125246/bungie-ceo-faces-backlash-after-announcing-220-employees-will-be-laid-off?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/08/01/2125246/bungie-ceo-faces-backlash-after-announcing-220-employees-will-be-laid-off?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:30.997251+00:00
+
+Rob Thubron reports via TechSpot: It's a sad case of another day, another round of mass layoffs at a game studio. On this occasion, Destiny developer Bungie has announced it is letting go of 220 employees, or 17% of its workforce. CEO Pete Parsons said the eliminations were due to "financial challenges," which isn't going down well, especially after it was discovered he may have spent over $2.4 million on classic cars after Sony acquired the company, and continued buying them even after the previous layoffs. Bungie blames the job eliminations on "rising costs of development and industry shifts as well as enduring economic conditions." The Sony subsidiary says it needs to make substantial changes to its cost structure and focus development efforts entirely on Destiny and Marathon. The cuts will impact every level of the company, including executives and senior leader roles -- but not Parsons, obviously.
+ 
+In what appears to be a way of reducing the number of people being laid off, Bung
+
+## Microsoft Dynamics 365 Called Out For 'Worker Surveillance'
+ - [https://slashdot.org/story/24/08/01/2157252/microsoft-dynamics-365-called-out-for-worker-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/08/01/2157252/microsoft-dynamics-365-called-out-for-worker-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:28.256295+00:00
+
+Microsoft Dynamics 365's "field service management" tools enable employers to monitor mobile workers via smartphone apps -- "allegedly to the detriment of their autonomy and dignity," reports The Register. From the report: According to a probe by Cracked Labs - an Austrian nonprofit research group -- the software is part of a broader set of applications that disempowers workers through algorithmic management. The case study [PDF] summarizes how employers in Europe actually use software and smartphone apps to oversee field technicians, home workers, and cleaning staff. It's part of a larger ongoing project helmed by the group called "Surveillance and Digital Control at Work," which includes contributions from AlgorithmWatch; Jeremias Adams-Prassl, professor of law at the University of Oxford; and trade unions UNI Europa and GPA.
+ 
+Mobile maintenance workers used to have a substantial amount of autonomy when they were equipped with basic mobile phones, the study notes, but smartphones h
+
+## More Evidence Links Ultraprocessed Foods To Dementia
+ - [https://science.slashdot.org/story/24/08/01/229241/more-evidence-links-ultraprocessed-foods-to-dementia?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/08/01/229241/more-evidence-links-ultraprocessed-foods-to-dementia?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:25.941476+00:00
+
+An anonymous reader quotes a report from the New York Times: People who regularly eat processed red meat, like hot dogs, bacon, sausage, salami and bologna, have a greater risk of developing dementia later in life. That was the conclusion of preliminary research presented this week at the Alzheimer's Association International Conference. The study tracked more than 130,000 adults in the United States for up to 43 years. During that period, 11,173 people developed dementia. Those who consumed about two servings of processed red meat per week had a 14 percent greater risk of developing dementia compared to those who ate fewer than three servings per month. Eating unprocessed red meat, like steak or pork chops, did not significantly increase the risk for dementia, though people who ate it every day were more likely to report that they felt their cognition had declined than those who ate red meat less often. (The results of the study have not yet been published in a journal.) There have b
+
+## Fully-Automatic Robot Dentist Performs World's First Human Procedure
+ - [https://hardware.slashdot.org/story/24/08/02/0528248/fully-automatic-robot-dentist-performs-worlds-first-human-procedure?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/08/02/0528248/fully-automatic-robot-dentist-performs-worlds-first-human-procedure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:23.836397+00:00
+
+For the first time, an AI-controlled autonomous robot performed an entire dental procedure on a human patient, completing the task eight times faster than a human dentist could. New Atlas reports: The system, built by Boston company Perceptive, uses a hand-held 3D volumetric scanner, which builds a detailed 3D model of the mouth, including the teeth, gums and even nerves under the tooth surface, using optical coherence tomography, or OCT. This cuts harmful X-Ray radiation out of the process, as OCT uses nothing more than light beams to build its volumetric models, which come out at high resolution, with cavities automatically detected at an accuracy rate around 90%. At this point, the (human) dentist and patient can discuss what needs doing -- but once those decisions are made, the robotic dental surgeon takes over. It plans out the operation, then jolly well goes ahead and does it.
+ 
+The machine's first specialty: preparing a tooth for a dental crown. Perceptive claims this is genera
+
+## China's Wind and Solar Energy Surpass Coal In Historic First
+ - [https://hardware.slashdot.org/story/24/08/02/0538210/chinas-wind-and-solar-energy-surpass-coal-in-historic-first?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/08/02/0538210/chinas-wind-and-solar-energy-surpass-coal-in-historic-first?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:21.606361+00:00
+
+According to China's National Energy Administration (NEA), wind and solar energy have collectively eclipsed coal in capacity for the first time ever. By 2026, analysts forecast solar power alone will surpass coal as the country's primary energy source, with a cumulative capacity exceeding 1.38 terawatts (TW) -- 150 gigawatts (GW) more than coal. Oil Pricereports: This shift stems from a growing emphasis on cleaner energy sources and a move away from fossil fuels for the nation. Despite coal's early advantage, with around 50 GW of annual installations before 2016, China has made substantial investments to expand its renewable energy infrastructure. Since 2020, annual installations of wind and solar energy have consistently exceeded 100 GW, three to four times the capacity additions for coal. This momentum has only gathered pace since then, with last year seeing China set a record with 293 GW of wind and solar installations, bolstered by gigawatt-scale renewable hub projects from the NE
+
+## Google Gemini 1.5 Pro Leaps Ahead In AI Race, Challenging GPT-4o
+ - [https://tech.slashdot.org/story/24/08/02/0547223/google-gemini-15-pro-leaps-ahead-in-ai-race-challenging-gpt-4o?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/08/02/0547223/google-gemini-15-pro-leaps-ahead-in-ai-race-challenging-gpt-4o?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-08-02T13:22:19.536705+00:00
+
+An anonymous reader quotes a report from VentureBeat: Google launched its latest artificial intelligence powerhouse, Gemini 1.5 Pro, today, making the experimental "version 0801" available for early testing and feedback through Google AI Studio and the Gemini API. This release marks a major leap forward in the company's AI capabilities and has already sent shockwaves through the tech community. The new model has quickly claimed the top spot on the prestigious LMSYS Chatbot Arena leaderboard (built with Gradio), boasting an impressive ELO score of 1300.
+ 
+This achievement puts Gemini 1.5 Pro ahead of formidable competitors like OpenAI's GPT-4o (ELO: 1286) and Anthropic's Claude-3.5 Sonnet (ELO: 1271), potentially signaling a shift in the AI landscape. Simon Tokumine, a key figure in the Gemini team, celebrated the release in a post on X.com, describing it as "the strongest, most intelligent Gemini we've ever made." Early user feedback supports this claim, with one Redditor calling the 
+

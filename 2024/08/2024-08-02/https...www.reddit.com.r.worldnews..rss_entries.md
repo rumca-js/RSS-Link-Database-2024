@@ -1,0 +1,331 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Exclusive: US intelligence suggests Russian military is advising Houthis inside Yemen
+ - [https://www.reddit.com/r/worldnews/comments/1eiofr7/exclusive_us_intelligence_suggests_russian](https://www.reddit.com/r/worldnews/comments/1eiofr7/exclusive_us_intelligence_suggests_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T23:24:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eiofr7/exclusive_us_intelligence_suggests_russian/"> <img alt="Exclusive: US intelligence suggests Russian military is advising Houthis inside Yemen" src="https://external-preview.redd.it/VCjoR7LU1AcFI9TRGawHfimhYIvm_fdcF8NYxUiwb6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b24922cfc1af1be8531a19d7aa683d5aa0a31a80" title="Exclusive: US intelligence suggests Russian military is advising Houthis inside Yemen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Consistent-Bat-20"> /u/Consistent-Bat-20 </a> <br /> <span><a href="https://www.middleeasteye.net/news/exclusive-russian-military-advising-houthis-inside-yemen-us-intelligence-suggests">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eiofr7/exclusive_us_intelligence_suggests_russian/">[comments]</a></span> </td></tr></table>
+
+## Mexican Army acknowledges some of its soldiers have been killed by cartel bomb-dropping drones
+ - [https://www.reddit.com/r/worldnews/comments/1einzsx/mexican_army_acknowledges_some_of_its_soldiers](https://www.reddit.com/r/worldnews/comments/1einzsx/mexican_army_acknowledges_some_of_its_soldiers)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T23:04:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1einzsx/mexican_army_acknowledges_some_of_its_soldiers/"> <img alt="Mexican Army acknowledges some of its soldiers have been killed by cartel bomb-dropping drones" src="https://external-preview.redd.it/E4jy3Ai0svOkB1_55H1Epd3OoGzLW0xLha86_Kd07AM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc9319d721a4fb06620b5baf2747ea3307e891ba" title="Mexican Army acknowledges some of its soldiers have been killed by cartel bomb-dropping drones" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SoCalGoldWave"> /u/SoCalGoldWave </a> <br /> <span><a href="https://abcnews.go.com/International/wireStory/mexican-army-acknowledges-soldiers-killed-cartel-bomb-dropping-112518619">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1einzsx/mexican_army_acknowledges_some_of_its_soldiers/">[comments]</a></span> </td></tr></table>
+
+## Pentagon tells Israel it will deploy additional fighters, Navy warships to the Middle East
+ - [https://www.reddit.com/r/worldnews/comments/1einnyh/pentagon_tells_israel_it_will_deploy_additional](https://www.reddit.com/r/worldnews/comments/1einnyh/pentagon_tells_israel_it_will_deploy_additional)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T22:49:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1einnyh/pentagon_tells_israel_it_will_deploy_additional/"> <img alt="Pentagon tells Israel it will deploy additional fighters, Navy warships to the Middle East" src="https://external-preview.redd.it/bhbTND-sEKAbjtjPtd_dpoXhCft08VAnTndJVM-Hp8I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98fd1a8a0f3cbd24673e1d0a3cc7e38041ed8dc6" title="Pentagon tells Israel it will deploy additional fighters, Navy warships to the Middle East" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic-Medium-6320"> /u/Ecstatic-Medium-6320 </a> <br /> <span><a href="https://m.jpost.com/middle-east/article-813039">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1einnyh/pentagon_tells_israel_it_will_deploy_additional/">[comments]</a></span> </td></tr></table>
+
+## Children of Russian spy couple in prisoner swap only learned their nationality on flight to Moscow
+ - [https://www.reddit.com/r/worldnews/comments/1einjts/children_of_russian_spy_couple_in_prisoner_swap](https://www.reddit.com/r/worldnews/comments/1einjts/children_of_russian_spy_couple_in_prisoner_swap)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T22:44:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1einjts/children_of_russian_spy_couple_in_prisoner_swap/"> <img alt="Children of Russian spy couple in prisoner swap only learned their nationality on flight to Moscow" src="https://external-preview.redd.it/t4HC87UvFC_cWg_LYHKy0L-t8KHSzzkSop8IhEKMT1Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0412a571c3f1ac2be988997c7b9aa91b5410ff9" title="Children of Russian spy couple in prisoner swap only learned their nationality on flight to Moscow" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BitterFuture"> /u/BitterFuture </a> <br /> <span><a href="https://www.cnn.com/2024/08/02/europe/russian-spies-children-prisoner-swap-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1einjts/children_of_russian_spy_couple_in_prisoner_swap/">[comments]</a></span> </td></tr></table>
+
+## US sending aircraft carrier, warships and fighter squadron to Middle East as region braces for Iranian retaliation
+ - [https://www.reddit.com/r/worldnews/comments/1einjq9/us_sending_aircraft_carrier_warships_and_fighter](https://www.reddit.com/r/worldnews/comments/1einjq9/us_sending_aircraft_carrier_warships_and_fighter)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T22:44:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1einjq9/us_sending_aircraft_carrier_warships_and_fighter/"> <img alt="US sending aircraft carrier, warships and fighter squadron to Middle East as region braces for Iranian retaliation" src="https://external-preview.redd.it/s7YF4Jead4UL7gV6Q39X4umoGj3r7RGtMsViJNVA9GU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ca0c581dd095218b02df9ef22f37cfbf5f61640" title="US sending aircraft carrier, warships and fighter squadron to Middle East as region braces for Iranian retaliation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObjectiveAd6551"> /u/ObjectiveAd6551 </a> <br /> <span><a href="https://www.cnn.com/2024/08/02/politics/us-warships-middle-east-brace-iranian-retaliation?cid=external-feeds_iluminar_msn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1einjq9/us_sending_aircraft_carrier_warships_and_fighter/">[comments]</a></span> </td></tr></tabl
+
+## Anti-whaling activist Paul Watson could face up to 15 years’ prison in Japan if convicted
+ - [https://www.reddit.com/r/worldnews/comments/1eincm5/antiwhaling_activist_paul_watson_could_face_up_to](https://www.reddit.com/r/worldnews/comments/1eincm5/antiwhaling_activist_paul_watson_could_face_up_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T22:35:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eincm5/antiwhaling_activist_paul_watson_could_face_up_to/"> <img alt="Anti-whaling activist Paul Watson could face up to 15 years’ prison in Japan if convicted" src="https://external-preview.redd.it/D305-5xA2bkTqApzqRNncpXBJyiDgbB4pXUHz1mxe8A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f43b14e98116b60acefb5979fc4cb76bb17217e" title="Anti-whaling activist Paul Watson could face up to 15 years’ prison in Japan if convicted" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plus-Bluejay-2024"> /u/Plus-Bluejay-2024 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/jul/31/sea-shepherd-founder-anti-whaling-activist-paul-watson-arrest-japan-ntwnfb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eincm5/antiwhaling_activist_paul_watson_could_face_up_to/">[comments]</a></span> </td></tr></table>
+
+## WSP : U.S. forces move toward Israel as Iran threatens to attack
+ - [https://www.reddit.com/r/worldnews/comments/1ein260/wsp_us_forces_move_toward_israel_as_iran](https://www.reddit.com/r/worldnews/comments/1ein260/wsp_us_forces_move_toward_israel_as_iran)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T22:22:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ein260/wsp_us_forces_move_toward_israel_as_iran/"> <img alt="WSP : U.S. forces move toward Israel as Iran threatens to attack" src="https://external-preview.redd.it/-mJo63Amc7MYNnstrisRsITleOu_ocqg1ScRXc_UkIs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb12aff535de044afad9dc08a3230981ed7ec671" title="WSP : U.S. forces move toward Israel as Iran threatens to attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/exophades"> /u/exophades </a> <br /> <span><a href="https://www.washingtonpost.com/national-security/2024/08/02/us-military-israel-iran-attack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ein260/wsp_us_forces_move_toward_israel_as_iran/">[comments]</a></span> </td></tr></table>
+
+## Brazil, Colombia, and Mexico create join statement insisting on the release of voting records in Venezuela
+ - [https://www.reddit.com/r/worldnews/comments/1eimng9/brazil_colombia_and_mexico_create_join_statement](https://www.reddit.com/r/worldnews/comments/1eimng9/brazil_colombia_and_mexico_create_join_statement)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T22:04:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eimng9/brazil_colombia_and_mexico_create_join_statement/"> <img alt="Brazil, Colombia, and Mexico create join statement insisting on the release of voting records in Venezuela" src="https://external-preview.redd.it/QSXqciPBQQVkOYr8W2Ggq_5I7MvznO2SnRMDbGgTRtY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=167145cd39253bee99a28ff3ad9f0c00fcdeffc8" title="Brazil, Colombia, and Mexico create join statement insisting on the release of voting records in Venezuela" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hellboundhart"> /u/hellboundhart </a> <br /> <span><a href="https://brazilreports.com/brazil-colombia-and-mexico-call-for-the-release-of-voting-records-in-venezuela/6424/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eimng9/brazil_colombia_and_mexico_create_join_statement/">[comments]</a></span> </td></tr></table>
+
+## Russia pulled back weapons shipment to Houthis amid US and Saudi pressure | CNN Politics
+ - [https://www.reddit.com/r/worldnews/comments/1eilze8/russia_pulled_back_weapons_shipment_to_houthis](https://www.reddit.com/r/worldnews/comments/1eilze8/russia_pulled_back_weapons_shipment_to_houthis)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T21:36:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eilze8/russia_pulled_back_weapons_shipment_to_houthis/"> <img alt="Russia pulled back weapons shipment to Houthis amid US and Saudi pressure | CNN Politics" src="https://external-preview.redd.it/eupKltOys7ncxpdX_EogYHfFPxlZ1cBHd2hVtGPTP5I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=298dab34bab3dbd2baca4a4235ad422cada86753" title="Russia pulled back weapons shipment to Houthis amid US and Saudi pressure | CNN Politics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CentJr"> /u/CentJr </a> <br /> <span><a href="https://edition.cnn.com/2024/08/02/politics/russia-weapons-houthis-saudi-arabia/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eilze8/russia_pulled_back_weapons_shipment_to_houthis/">[comments]</a></span> </td></tr></table>
+
+## Crimean Bridge could be destroyed in coming months, Budanov says
+ - [https://www.reddit.com/r/worldnews/comments/1eilsc1/crimean_bridge_could_be_destroyed_in_coming](https://www.reddit.com/r/worldnews/comments/1eilsc1/crimean_bridge_could_be_destroyed_in_coming)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T21:27:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eilsc1/crimean_bridge_could_be_destroyed_in_coming/"> <img alt="Crimean Bridge could be destroyed in coming months, Budanov says" src="https://external-preview.redd.it/40vdXBd6RGKWkKNK2mAHRN5UKAWByBCx1sshfEQhx8g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73bb616818fc8d1a530ba9b4dff73f172e993026" title="Crimean Bridge could be destroyed in coming months, Budanov says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_Sleep_4"> /u/Apprehensive_Sleep_4 </a> <br /> <span><a href="https://kyivindependent.com/crimean-bridge-could-be-destroyed-in-coming-months-budanov-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eilsc1/crimean_bridge_could_be_destroyed_in_coming/">[comments]</a></span> </td></tr></table>
+
+## Japan's Olympics delegation has said it will consider contacting the police or taking legal action against defamatory content posted online against athletes
+ - [https://www.reddit.com/r/worldnews/comments/1eikkr8/japans_olympics_delegation_has_said_it_will](https://www.reddit.com/r/worldnews/comments/1eikkr8/japans_olympics_delegation_has_said_it_will)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T20:37:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eikkr8/japans_olympics_delegation_has_said_it_will/"> <img alt="Japan's Olympics delegation has said it will consider contacting the police or taking legal action against defamatory content posted online against athletes" src="https://external-preview.redd.it/UEWVzVqzKD6byaYempV-BhZCJKpfrRfqbDXbQS5x1do.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b03d62e4b7b79b8602a791a66f3e8ba9ebb56035" title="Japan's Olympics delegation has said it will consider contacting the police or taking legal action against defamatory content posted online against athletes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maxleslies"> /u/maxleslies </a> <br /> <span><a href="https://japantoday.com/category/paris-2024-olympics/Japanese-delegation-warns-against-defamatory-online-posts">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eikkr8/japans_olympics_delegation_has_s
+
+## Dozens of children killed in Bangladesh protests - UNICEF
+ - [https://www.reddit.com/r/worldnews/comments/1eiiq5f/dozens_of_children_killed_in_bangladesh_protests](https://www.reddit.com/r/worldnews/comments/1eiiq5f/dozens_of_children_killed_in_bangladesh_protests)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T19:22:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eiiq5f/dozens_of_children_killed_in_bangladesh_protests/"> <img alt="Dozens of children killed in Bangladesh protests - UNICEF " src="https://external-preview.redd.it/3N7bQrvkVsDaLNPbcpnPI3k5S0SGqCGMyj8r5eblbJY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e68fa6301f10ad0c976df5ff15c327e9b3e4fa8" title="Dozens of children killed in Bangladesh protests - UNICEF " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Misbahussad"> /u/Misbahussad </a> <br /> <span><a href="https://www.bbc.com/news/articles/c16j6w1dxl1o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eiiq5f/dozens_of_children_killed_in_bangladesh_protests/">[comments]</a></span> </td></tr></table>
+
+## [ Removed by Reddit ]
+ - [https://www.reddit.com/r/worldnews/comments/1eihdyr/removed_by_reddit](https://www.reddit.com/r/worldnews/comments/1eihdyr/removed_by_reddit)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T18:26:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/famosoze"> /u/famosoze </a> <br /> <span><a href="https://www.reddit.com/r/worldnews/comments/1eihdyr/removed_by_reddit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eihdyr/removed_by_reddit/">[comments]</a></span>
+
+## Nicolás Maduro announces the preparation of re-education camps to imprison detained demonstrators
+ - [https://www.reddit.com/r/worldnews/comments/1eihdyr/nicolás_maduro_announces_the_preparation_of](https://www.reddit.com/r/worldnews/comments/1eihdyr/nicolás_maduro_announces_the_preparation_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T18:26:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eihdyr/nicolás_maduro_announces_the_preparation_of/"> <img alt="Nicolás Maduro announces the preparation of re-education camps to imprison detained demonstrators" src="https://external-preview.redd.it/JT4jxz5VCP-2l8v4ItRJrh5yQUikDNf8IfUroLbFC_M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f4aa489769cd89b3cbf35be4442aaf5f5f91f61" title="Nicolás Maduro announces the preparation of re-education camps to imprison detained demonstrators" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/famosoze"> /u/famosoze </a> <br /> <span><a href="https://voz.us/en/world/240802/15087/nicolas-maduro-announces-the-preparation-of-re-education-camps-to-detain-detained-demonstrators.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eihdyr/nicolás_maduro_announces_the_preparation_of/">[comments]</a></span> </td></tr></table>
+
+## Ukraine receives first F-16 fighter jets from Netherlands
+ - [https://www.reddit.com/r/worldnews/comments/1eiggnb/ukraine_receives_first_f16_fighter_jets_from](https://www.reddit.com/r/worldnews/comments/1eiggnb/ukraine_receives_first_f16_fighter_jets_from)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T17:48:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eiggnb/ukraine_receives_first_f16_fighter_jets_from/"> <img alt="Ukraine receives first F-16 fighter jets from Netherlands" src="https://external-preview.redd.it/yS3aRz6TI3P3xTX1zEJlh_7XP5uNM4jCzaGbeHVsKY0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9254c6b958e30c6ae090ee2f8e2c21d20c79768" title="Ukraine receives first F-16 fighter jets from Netherlands" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/riwnodennyk"> /u/riwnodennyk </a> <br /> <span><a href="https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-receives-first-f-16-fighter-jets-netherlands-67h2flctf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eiggnb/ukraine_receives_first_f16_fighter_jets_from/">[comments]</a></span> </td></tr></table>
+
+## 'We will act': Brussels asks Hungary to explain the easing of visa rules for Russians
+ - [https://www.reddit.com/r/worldnews/comments/1eif9t1/we_will_act_brussels_asks_hungary_to_explain_the](https://www.reddit.com/r/worldnews/comments/1eif9t1/we_will_act_brussels_asks_hungary_to_explain_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T17:00:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eif9t1/we_will_act_brussels_asks_hungary_to_explain_the/"> <img alt="'We will act': Brussels asks Hungary to explain the easing of visa rules for Russians" src="https://external-preview.redd.it/WBQ9ccKZBTGF2sVxavx7yScBbuOafmi5cSmKz62Lh9w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70b86142cbc885e7beaa43177c79794c26028578" title="'We will act': Brussels asks Hungary to explain the easing of visa rules for Russians" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CompetitiveNovel8990"> /u/CompetitiveNovel8990 </a> <br /> <span><a href="https://www.euronews.com/my-europe/2024/08/02/we-will-act-brussels-asks-hungary-to-explain-the-easing-of-visa-rules-for-russians">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eif9t1/we_will_act_brussels_asks_hungary_to_explain_the/">[comments]</a></span> </td></tr></table>
+
+## Iran plans to attack Israel on Tisha B’Av - the Jewish day of disasters, Western intelligence says
+ - [https://www.reddit.com/r/worldnews/comments/1eiezop/iran_plans_to_attack_israel_on_tisha_bav_the](https://www.reddit.com/r/worldnews/comments/1eiezop/iran_plans_to_attack_israel_on_tisha_bav_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T16:49:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eiezop/iran_plans_to_attack_israel_on_tisha_bav_the/"> <img alt="Iran plans to attack Israel on Tisha B’Av - the Jewish day of disasters, Western intelligence says" src="https://external-preview.redd.it/hvgKDxlKNYIn8joKNf_9nq5N-2Ryeuj8mIsno5O8A_s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f21e53f7c89273884ef5e7c472580dce70a9fcb" title="Iran plans to attack Israel on Tisha B’Av - the Jewish day of disasters, Western intelligence says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahad_Haam"> /u/Ahad_Haam </a> <br /> <span><a href="https://m.jpost.com/middle-east/iran-news/article-813044">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eiezop/iran_plans_to_attack_israel_on_tisha_bav_the/">[comments]</a></span> </td></tr></table>
+
+## China lodges complaint after Canadian warship passes through Taiwan Strait - HMCS Montreal was conducting a routine transit, Ottawa says
+ - [https://www.reddit.com/r/worldnews/comments/1eieplj/china_lodges_complaint_after_canadian_warship](https://www.reddit.com/r/worldnews/comments/1eieplj/china_lodges_complaint_after_canadian_warship)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T16:38:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eieplj/china_lodges_complaint_after_canadian_warship/"> <img alt="China lodges complaint after Canadian warship passes through Taiwan Strait - HMCS Montreal was conducting a routine transit, Ottawa says" src="https://external-preview.redd.it/a2juS_X2magIXJQGHY9EQZSgGw9S3INCKwobrL12JFU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=27093dcd9e1d3674fd7474c97acd1b8314e38dd6" title="China lodges complaint after Canadian warship passes through Taiwan Strait - HMCS Montreal was conducting a routine transit, Ottawa says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaliperLee62"> /u/CaliperLee62 </a> <br /> <span><a href="https://www.cbc.ca/news/politics/canada-warship-taiwan-strait-1.7283572">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eieplj/china_lodges_complaint_after_canadian_warship/">[comments]</a></span> </td></tr></table>
+
+## $10M cash withdrawal drove secret probe into whether Trump took money from Egypt
+ - [https://www.reddit.com/r/worldnews/comments/1eidp09/10m_cash_withdrawal_drove_secret_probe_into](https://www.reddit.com/r/worldnews/comments/1eidp09/10m_cash_withdrawal_drove_secret_probe_into)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T15:57:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eidp09/10m_cash_withdrawal_drove_secret_probe_into/"> <img alt="$10M cash withdrawal drove secret probe into whether Trump took money from Egypt" src="https://external-preview.redd.it/4zgQ5ElU3nbqikYUHlGOQK4n7TDB6kimLPefYvUn34E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e24b9480e6d1e1fa1f6b07984e374e178999e143" title="$10M cash withdrawal drove secret probe into whether Trump took money from Egypt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pechinburger"> /u/pechinburger </a> <br /> <span><a href="https://www.washingtonpost.com/investigations/2024/08/02/trump-campaign-egypt-investigation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eidp09/10m_cash_withdrawal_drove_secret_probe_into/">[comments]</a></span> </td></tr></table>
+
+## France investigates death threats against Olympics ceremony director
+ - [https://www.reddit.com/r/worldnews/comments/1eid46u/france_investigates_death_threats_against](https://www.reddit.com/r/worldnews/comments/1eid46u/france_investigates_death_threats_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T15:34:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sasko12"> /u/sasko12 </a> <br /> <span><a href="https://www.reuters.com/sports/olympics/france-investigates-death-threats-against-olympics-ceremony-director-2024-08-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eid46u/france_investigates_death_threats_against/">[comments]</a></span>
+
+## France has formally advised its citizen against travelling to Iran and has asked French citizens still the country to leave as soon as possible due to a risk of military escalation in the region
+ - [https://www.reddit.com/r/worldnews/comments/1eicqfy/france_has_formally_advised_its_citizen_against](https://www.reddit.com/r/worldnews/comments/1eicqfy/france_has_formally_advised_its_citizen_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T15:19:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eicqfy/france_has_formally_advised_its_citizen_against/"> <img alt="France has formally advised its citizen against travelling to Iran and has asked French citizens still the country to leave as soon as possible due to a risk of military escalation in the region" src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" title="France has formally advised its citizen against travelling to Iran and has asked French citizens still the country to leave as soon as possible due to a risk of military escalation in the region" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-813042">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eicqfy/f
+
+## Children of freed sleeper agents learned they were Russians on the flight, Kremlin says
+ - [https://www.reddit.com/r/worldnews/comments/1eicbea/children_of_freed_sleeper_agents_learned_they](https://www.reddit.com/r/worldnews/comments/1eicbea/children_of_freed_sleeper_agents_learned_they)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T15:02:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/whisperingdrum"> /u/whisperingdrum </a> <br /> <span><a href="https://www.reuters.com/world/europe/kremlin-says-an-fsb-agent-deep-cover-russian-sleeper-agents-among-those-returned-2024-08-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eicbea/children_of_freed_sleeper_agents_learned_they/">[comments]</a></span>
+
+## Hezbollah evacuates military equipment from Beirut in preparation for escalation - report
+ - [https://www.reddit.com/r/worldnews/comments/1eian3o/hezbollah_evacuates_military_equipment_from](https://www.reddit.com/r/worldnews/comments/1eian3o/hezbollah_evacuates_military_equipment_from)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T13:53:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eian3o/hezbollah_evacuates_military_equipment_from/"> <img alt="Hezbollah evacuates military equipment from Beirut in preparation for escalation - report" src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" title="Hezbollah evacuates military equipment from Beirut in preparation for escalation - report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NamelessForce"> /u/NamelessForce </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-813040">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eian3o/hezbollah_evacuates_military_equipment_from/">[comments]</a></span> </td></tr></table>
+
+## Outcry as Turkish embassy in Israel lowers flag in honor of Haniyeh; envoy summoned
+ - [https://www.reddit.com/r/worldnews/comments/1eia0ex/outcry_as_turkish_embassy_in_israel_lowers_flag](https://www.reddit.com/r/worldnews/comments/1eia0ex/outcry_as_turkish_embassy_in_israel_lowers_flag)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T13:25:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eia0ex/outcry_as_turkish_embassy_in_israel_lowers_flag/"> <img alt="Outcry as Turkish embassy in Israel lowers flag in honor of Haniyeh; envoy summoned" src="https://external-preview.redd.it/B6HXODVu_HVIDbRU9soNGgycosqPQxF5yakZPw1mh9k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22223d875db26e970b5ab90c8bc733188590109f" title="Outcry as Turkish embassy in Israel lowers flag in honor of Haniyeh; envoy summoned" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NamelessForce"> /u/NamelessForce </a> <br /> <span><a href="https://www.timesofisrael.com/outcry-as-turkish-embassy-in-israel-lowers-flag-in-honor-of-haniyeh-envoy-summoned/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eia0ex/outcry_as_turkish_embassy_in_israel_lowers_flag/">[comments]</a></span> </td></tr></table>
+
+## Israelis brace for a thousand-rocket, multi-proxy attack
+ - [https://www.reddit.com/r/worldnews/comments/1ei9sxx/israelis_brace_for_a_thousandrocket_multiproxy](https://www.reddit.com/r/worldnews/comments/1ei9sxx/israelis_brace_for_a_thousandrocket_multiproxy)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T13:16:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei9sxx/israelis_brace_for_a_thousandrocket_multiproxy/"> <img alt="Israelis brace for a thousand-rocket, multi-proxy attack" src="https://external-preview.redd.it/RYtQ5OiniTSlJOL-KTqJSd477IZsfWXo8ErBz00M0qk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebfa92455bcb5bee94fae12530b055e5dc19440d" title="Israelis brace for a thousand-rocket, multi-proxy attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic-Medium-6320"> /u/Ecstatic-Medium-6320 </a> <br /> <span><a href="https://m.jpost.com/israel-hamas-war/article-813004#google_vignette">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei9sxx/israelis_brace_for_a_thousandrocket_multiproxy/">[comments]</a></span> </td></tr></table>
+
+## Russia-West prisoner exchange: Kremlin admits killer Krasikov is FSB agent
+ - [https://www.reddit.com/r/worldnews/comments/1ei9gq1/russiawest_prisoner_exchange_kremlin_admits](https://www.reddit.com/r/worldnews/comments/1ei9gq1/russiawest_prisoner_exchange_kremlin_admits)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T13:00:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei9gq1/russiawest_prisoner_exchange_kremlin_admits/"> <img alt="Russia-West prisoner exchange: Kremlin admits killer Krasikov is FSB agent" src="https://external-preview.redd.it/HE5ulo_FFK0KaE4pefX_5DU4O8Kb1U-RDnw2xzbQs5M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22609032c800e132325f79ff67608070333972f7" title="Russia-West prisoner exchange: Kremlin admits killer Krasikov is FSB agent" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/08/2/7468632/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei9gq1/russiawest_prisoner_exchange_kremlin_admits/">[comments]</a></span> </td></tr></table>
+
+## Montreal man launches class-action lawsuit against social media platforms for being too addictive
+ - [https://www.reddit.com/r/worldnews/comments/1ei8irx/montreal_man_launches_classaction_lawsuit_against](https://www.reddit.com/r/worldnews/comments/1ei8irx/montreal_man_launches_classaction_lawsuit_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T12:14:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei8irx/montreal_man_launches_classaction_lawsuit_against/"> <img alt="Montreal man launches class-action lawsuit against social media platforms for being too addictive " src="https://external-preview.redd.it/NV_Y4Nl_UC1cgtMe3tr7iUPO1zKdjXAhRbOUcSKAPhY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=54a8bf40c0c8420263cb1ff9bf8b1205e8bbbfd8" title="Montreal man launches class-action lawsuit against social media platforms for being too addictive " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yimmy51"> /u/yimmy51 </a> <br /> <span><a href="https://montreal.ctvnews.ca/montreal-man-launches-class-action-lawsuit-against-social-media-platforms-for-being-too-addictive-1.6986404">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei8irx/montreal_man_launches_classaction_lawsuit_against/">[comments]</a></span> </td></tr></table>
+
+## Iran masterminded anti-Israel protest in Canadian university
+ - [https://www.reddit.com/r/worldnews/comments/1ei8feb/iran_masterminded_antiisrael_protest_in_canadian](https://www.reddit.com/r/worldnews/comments/1ei8feb/iran_masterminded_antiisrael_protest_in_canadian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T12:10:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei8feb/iran_masterminded_antiisrael_protest_in_canadian/"> <img alt="Iran masterminded anti-Israel protest in Canadian university" src="https://external-preview.redd.it/Q446IwhfeqZwJnWFFq65bKt2DtXWN6mCrs4cOISQBFY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7f49aed2a58fafc87d512f917d5f181e3a7b851" title="Iran masterminded anti-Israel protest in Canadian university" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zlex"> /u/zlex </a> <br /> <span><a href="https://www.iranintl.com/en/202408012272">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei8feb/iran_masterminded_antiisrael_protest_in_canadian/">[comments]</a></span> </td></tr></table>
+
+## [ Removed by Reddit ]
+ - [https://www.reddit.com/r/worldnews/comments/1ei88tz/removed_by_reddit](https://www.reddit.com/r/worldnews/comments/1ei88tz/removed_by_reddit)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T12:01:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cicinnajdo"> /u/cicinnajdo </a> <br /> <span><a href="https://www.reddit.com/r/worldnews/comments/1ei88tz/removed_by_reddit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei88tz/removed_by_reddit/">[comments]</a></span>
+
+## Eight Indians killed while fighting against Ukraine in Russian army
+ - [https://www.reddit.com/r/worldnews/comments/1ei88tz/eight_indians_killed_while_fighting_against](https://www.reddit.com/r/worldnews/comments/1ei88tz/eight_indians_killed_while_fighting_against)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T12:01:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei88tz/eight_indians_killed_while_fighting_against/"> <img alt="Eight Indians killed while fighting against Ukraine in Russian army" src="https://external-preview.redd.it/8RfMVWgJ45xPumB_zfPXHhnWNmkoE0oIdyei0zUIKQk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e5f6dcf7e4990396ec373c5b2b1203ed8682d09" title="Eight Indians killed while fighting against Ukraine in Russian army" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cicinnajdo"> /u/cicinnajdo </a> <br /> <span><a href="https://euromaidanpress.com/2024/08/02/eight-indians-killed-while-fighting-against-ukraine-in-russian-army/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei88tz/eight_indians_killed_while_fighting_against/">[comments]</a></span> </td></tr></table>
+
+## 55 Russian indigenous, regional and ethno groups labeled as extremists by Russian Ministry of Justice
+ - [https://www.reddit.com/r/worldnews/comments/1ei7hb6/55_russian_indigenous_regional_and_ethno_groups](https://www.reddit.com/r/worldnews/comments/1ei7hb6/55_russian_indigenous_regional_and_ethno_groups)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T11:19:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei7hb6/55_russian_indigenous_regional_and_ethno_groups/"> <img alt="55 Russian indigenous, regional and ethno groups labeled as extremists by Russian Ministry of Justice" src="https://external-preview.redd.it/-lvJJKVGPHY51VHOJ4sZC4Oi6NlZVHheGmM_gLsRPJ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8dcd228b8aee14520951bf77754c748b893c7ebe" title="55 Russian indigenous, regional and ethno groups labeled as extremists by Russian Ministry of Justice" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheArcticBeyond"> /u/TheArcticBeyond </a> <br /> <span><a href="https://thebarentsobserver.com/en/life-and-public/2024/07/55-russian-indigenous-groups-labeled-extremists">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei7hb6/55_russian_indigenous_regional_and_ethno_groups/">[comments]</a></span> </td></tr></table>
+
+## IDF kills Palestinian Islamic Jihad deputy weapons production head Mohammed al-Jabari
+ - [https://www.reddit.com/r/worldnews/comments/1ei6qze/idf_kills_palestinian_islamic_jihad_deputy](https://www.reddit.com/r/worldnews/comments/1ei6qze/idf_kills_palestinian_islamic_jihad_deputy)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T10:35:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei6qze/idf_kills_palestinian_islamic_jihad_deputy/"> <img alt="IDF kills Palestinian Islamic Jihad deputy weapons production head Mohammed al-Jabari" src="https://external-preview.redd.it/Mp3Wdflls23DuXFcgALweniVuB2g6nN2-NbZCf3X6Vk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=17610a7c303c8bce8b41967906184e3c5c59ea2b" title="IDF kills Palestinian Islamic Jihad deputy weapons production head Mohammed al-Jabari" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SamuelEdri"> /u/SamuelEdri </a> <br /> <span><a href="https://www.jpost.com/israel-hamas-war/article-813024">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei6qze/idf_kills_palestinian_islamic_jihad_deputy/">[comments]</a></span> </td></tr></table>
+
+## Kim Jong Un wants Trump back, elite defector tells BBC
+ - [https://www.reddit.com/r/worldnews/comments/1ei6ats/kim_jong_un_wants_trump_back_elite_defector_tells](https://www.reddit.com/r/worldnews/comments/1ei6ats/kim_jong_un_wants_trump_back_elite_defector_tells)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T10:06:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei6ats/kim_jong_un_wants_trump_back_elite_defector_tells/"> <img alt="Kim Jong Un wants Trump back, elite defector tells BBC" src="https://external-preview.redd.it/hJ79Utidu6UXJe3YwpOl0_96Bz7yqQJzHu1H7TeO3Yo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6320259b6e7a4ceba0671efe3af02f638951193" title="Kim Jong Un wants Trump back, elite defector tells BBC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gyro_Armadillo"> /u/Gyro_Armadillo </a> <br /> <span><a href="https://www.bbc.com/news/articles/c0jqjwdyl1ko">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei6ats/kim_jong_un_wants_trump_back_elite_defector_tells/">[comments]</a></span> </td></tr></table>
+
+## Hamas chief Haniyeh's killing 'doesn't help' ceasefire talks, says Biden
+ - [https://www.reddit.com/r/worldnews/comments/1ei63rg/hamas_chief_haniyehs_killing_doesnt_help](https://www.reddit.com/r/worldnews/comments/1ei63rg/hamas_chief_haniyehs_killing_doesnt_help)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T09:53:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei63rg/hamas_chief_haniyehs_killing_doesnt_help/"> <img alt="Hamas chief Haniyeh's killing 'doesn't help' ceasefire talks, says Biden" src="https://external-preview.redd.it/N8G1eLy-jrW0Jhh21eou0pOhXm4f9Ibd8vmiMcMf0Co.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7581991fee8921d6c9719291fc606671c4810f61" title="Hamas chief Haniyeh's killing 'doesn't help' ceasefire talks, says Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puzzleheaded_Post_20"> /u/Puzzleheaded_Post_20 </a> <br /> <span><a href="https://www.bbc.co.uk/news/articles/cql8ly2g10no">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei63rg/hamas_chief_haniyehs_killing_doesnt_help/">[comments]</a></span> </td></tr></table>
+
+## Costa Rica is prepared to offer asylum to Venezuelan opposition leaders, minister says
+ - [https://www.reddit.com/r/worldnews/comments/1ei61ba/costa_rica_is_prepared_to_offer_asylum_to](https://www.reddit.com/r/worldnews/comments/1ei61ba/costa_rica_is_prepared_to_offer_asylum_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T09:48:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei61ba/costa_rica_is_prepared_to_offer_asylum_to/"> <img alt="Costa Rica is prepared to offer asylum to Venezuelan opposition leaders, minister says" src="https://external-preview.redd.it/Jw-Ju_9eX_7J3ladRRk3PZ0k7hPsj1LON6Hgg9CvVrM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d89bca4a12866d81b7e4d2eacf805371c69451df" title="Costa Rica is prepared to offer asylum to Venezuelan opposition leaders, minister says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doodly-123"> /u/doodly-123 </a> <br /> <span><a href="https://www.cnbc.com/2024/07/31/costa-rica-is-prepared-to-offer-asylum-to-venezuelan-opposition-leaders-minister-says.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei61ba/costa_rica_is_prepared_to_offer_asylum_to/">[comments]</a></span> </td></tr></table>
+
+## Blinken: Overwhelming evidence Venezuela opposition won election
+ - [https://www.reddit.com/r/worldnews/comments/1ei41no/blinken_overwhelming_evidence_venezuela](https://www.reddit.com/r/worldnews/comments/1ei41no/blinken_overwhelming_evidence_venezuela)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T07:32:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei41no/blinken_overwhelming_evidence_venezuela/"> <img alt="Blinken: Overwhelming evidence Venezuela opposition won election" src="https://external-preview.redd.it/QvTsLwTyYEAjicon8MCU60UmONVVX9Fs4iY5LG96N1c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0abd1b48b501f56fce1d8f17ee89453c31419e6" title="Blinken: Overwhelming evidence Venezuela opposition won election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Big-Umpire-9122"> /u/Big-Umpire-9122 </a> <br /> <span><a href="https://www.bbc.com/news/articles/cd1d10453zno">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei41no/blinken_overwhelming_evidence_venezuela/">[comments]</a></span> </td></tr></table>
+
+## BBC executive dismisses letter from Jewish staff highlighting systemic antisemitism at network
+ - [https://www.reddit.com/r/worldnews/comments/1ei3vof/bbc_executive_dismisses_letter_from_jewish_staff](https://www.reddit.com/r/worldnews/comments/1ei3vof/bbc_executive_dismisses_letter_from_jewish_staff)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T07:21:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei3vof/bbc_executive_dismisses_letter_from_jewish_staff/"> <img alt="BBC executive dismisses letter from Jewish staff highlighting systemic antisemitism at network" src="https://external-preview.redd.it/awT_uTY3T9ZnIoDim-3Qk4yS2ntzRC4w4YVAEhA2h90.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f2640a1ae7c3cff736ee7ef459e86792238fc81" title="BBC executive dismisses letter from Jewish staff highlighting systemic antisemitism at network" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SamuelEdri"> /u/SamuelEdri </a> <br /> <span><a href="https://www.jpost.com/diaspora/antisemitism/article-813020">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei3vof/bbc_executive_dismisses_letter_from_jewish_staff/">[comments]</a></span> </td></tr></table>
+
+## Turkey's Erdogan declares Aug 2 day of national mourning over killing of Hamas chief
+ - [https://www.reddit.com/r/worldnews/comments/1ei35ws/turkeys_erdogan_declares_aug_2_day_of_national](https://www.reddit.com/r/worldnews/comments/1ei35ws/turkeys_erdogan_declares_aug_2_day_of_national)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T06:33:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahad_Haam"> /u/Ahad_Haam </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/turkeys-erdogan-declares-aug-2-day-national-mourning-over-killing-hamas-chief-2024-08-01/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei35ws/turkeys_erdogan_declares_aug_2_day_of_national/">[comments]</a></span>
+
+## Bomb Smuggled Into Tehran Guesthouse Months Ago Killed Hamas Leader
+ - [https://www.reddit.com/r/worldnews/comments/1ei2p6t/bomb_smuggled_into_tehran_guesthouse_months_ago](https://www.reddit.com/r/worldnews/comments/1ei2p6t/bomb_smuggled_into_tehran_guesthouse_months_ago)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T06:02:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei2p6t/bomb_smuggled_into_tehran_guesthouse_months_ago/"> <img alt="Bomb Smuggled Into Tehran Guesthouse Months Ago Killed Hamas Leader" src="https://external-preview.redd.it/HY_M9lOPlQIuxG5SXblLrVv_sS0RZyJAJELpCSa0Oho.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ad3c6fd9a78610e955cc37768d8f47252e176d1" title="Bomb Smuggled Into Tehran Guesthouse Months Ago Killed Hamas Leader" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/robertbrysonhall"> /u/robertbrysonhall </a> <br /> <span><a href="https://www.nytimes.com/2024/08/01/world/middleeast/how-hamas-leader-haniyeh-killed-iran-bomb.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei2p6t/bomb_smuggled_into_tehran_guesthouse_months_ago/">[comments]</a></span> </td></tr></table>
+
+## Argentina will use AI to ‘predict future crimes’ but experts worry for citizens’ rights | Argentina
+ - [https://www.reddit.com/r/worldnews/comments/1ei1f0a/argentina_will_use_ai_to_predict_future_crimes](https://www.reddit.com/r/worldnews/comments/1ei1f0a/argentina_will_use_ai_to_predict_future_crimes)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T04:44:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei1f0a/argentina_will_use_ai_to_predict_future_crimes/"> <img alt="Argentina will use AI to ‘predict future crimes’ but experts worry for citizens’ rights | Argentina" src="https://external-preview.redd.it/TxffFKN-jnzKWrU5uuugaaCH1m5asnJwccUZxIFrpOk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c738224a85c302cf2d5fe738738950b713c59af" title="Argentina will use AI to ‘predict future crimes’ but experts worry for citizens’ rights | Argentina" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/katxwoods"> /u/katxwoods </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/aug/01/argentina-ai-predicting-future-crimes-citizen-rights">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei1f0a/argentina_will_use_ai_to_predict_future_crimes/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 890, Part 1 (Thread #1037)
+ - [https://www.reddit.com/r/worldnews/comments/1ei0nqy/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1ei0nqy/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T04:02:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei0nqy/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 890, Part 1 (Thread #1037)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 890, Part 1 (Thread #1037)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei0nqy/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Australia says Israel did not deliberately kill foreign aid workers in Gaza
+ - [https://www.reddit.com/r/worldnews/comments/1ei06mr/australia_says_israel_did_not_deliberately_kill](https://www.reddit.com/r/worldnews/comments/1ei06mr/australia_says_israel_did_not_deliberately_kill)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T03:36:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ei06mr/australia_says_israel_did_not_deliberately_kill/"> <img alt="Australia says Israel did not deliberately kill foreign aid workers in Gaza" src="https://external-preview.redd.it/wJFcm33YtduL8NAOgL0ZoqQb_JR_3aI2184tfajzw0M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=162c086596698dbaeec81e30fdf2a15492fe2f74" title="Australia says Israel did not deliberately kill foreign aid workers in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-813007#google_vignette">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ei06mr/australia_says_israel_did_not_deliberately_kill/">[comments]</a></span> </td></tr></table>
+
+## US recognizes opposition candidate González as the winner of Venezuela's presidential election
+ - [https://www.reddit.com/r/worldnews/comments/1ehy1wf/us_recognizes_opposition_candidate_gonzález_as](https://www.reddit.com/r/worldnews/comments/1ehy1wf/us_recognizes_opposition_candidate_gonzález_as)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T01:46:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ehy1wf/us_recognizes_opposition_candidate_gonzález_as/"> <img alt="US recognizes opposition candidate González as the winner of Venezuela's presidential election" src="https://external-preview.redd.it/a9DaFlpY_KNB1wO-7p1dac6O6JS08O6hRUfemn2y7NM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4598c3cdda91e655df48089b51cc030857edc02f" title="US recognizes opposition candidate González as the winner of Venezuela's presidential election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AmbitionDue1421"> /u/AmbitionDue1421 </a> <br /> <span><a href="https://apnews.com/article/fa5780b54ffd166b4e20513d5b457512">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ehy1wf/us_recognizes_opposition_candidate_gonzález_as/">[comments]</a></span> </td></tr></table>
+
+## Israeli hacker group takes responsibility for reported collapse of Wi-Fi in Iran
+ - [https://www.reddit.com/r/worldnews/comments/1ehxyzj/israeli_hacker_group_takes_responsibility_for](https://www.reddit.com/r/worldnews/comments/1ehxyzj/israeli_hacker_group_takes_responsibility_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T01:43:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ehxyzj/israeli_hacker_group_takes_responsibility_for/"> <img alt="Israeli hacker group takes responsibility for reported collapse of Wi-Fi in Iran" src="https://external-preview.redd.it/eIMbrUZwQWxQRhhWtBc75f7sMwaiHFdf_i5w-n2MiHM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4f53ae034c11ebc6a68331a252f8bc319bd9dd9" title="Israeli hacker group takes responsibility for reported collapse of Wi-Fi in Iran" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic-Medium-6320"> /u/Ecstatic-Medium-6320 </a> <br /> <span><a href="https://m.jpost.com/breaking-news/article-813000">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ehxyzj/israeli_hacker_group_takes_responsibility_for/">[comments]</a></span> </td></tr></table>
+
+## US Secretary of State Blinken: ‘Overwhelming evidence’ González won presidential election in Venezuela
+ - [https://www.reddit.com/r/worldnews/comments/1ehwhzl/us_secretary_of_state_blinken_overwhelming](https://www.reddit.com/r/worldnews/comments/1ehwhzl/us_secretary_of_state_blinken_overwhelming)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T00:31:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ehwhzl/us_secretary_of_state_blinken_overwhelming/"> <img alt="US Secretary of State Blinken: ‘Overwhelming evidence’ González won presidential election in Venezuela" src="https://external-preview.redd.it/ZsBS7572hRI38DRyhj7gQZSvv58K-T4agXyJSNMBR1o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ecde33664c0ca8d86b0eb3a028a4b5e9d3906b14" title="US Secretary of State Blinken: ‘Overwhelming evidence’ González won presidential election in Venezuela" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pagadoporlaCIA"> /u/pagadoporlaCIA </a> <br /> <span><a href="https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article290677514.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ehwhzl/us_secretary_of_state_blinken_overwhelming/">[comments]</a></span> </td></tr></table>
+
+## US recognizes the opposition candidate as the winner of Venezuela's presidential election
+ - [https://www.reddit.com/r/worldnews/comments/1ehwh4u/us_recognizes_the_opposition_candidate_as_the](https://www.reddit.com/r/worldnews/comments/1ehwh4u/us_recognizes_the_opposition_candidate_as_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T00:30:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ehwh4u/us_recognizes_the_opposition_candidate_as_the/"> <img alt="US recognizes the opposition candidate as the winner of Venezuela's presidential election" src="https://external-preview.redd.it/a9DaFlpY_KNB1wO-7p1dac6O6JS08O6hRUfemn2y7NM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4598c3cdda91e655df48089b51cc030857edc02f" title="US recognizes the opposition candidate as the winner of Venezuela's presidential election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thed4nm4n"> /u/Thed4nm4n </a> <br /> <span><a href="https://apnews.com/article/venezuela-election-brazil-mexico-colombia-diplomacy-fa5780b54ffd166b4e20513d5b457512?utm_source=copy&amp;utm_medium=share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ehwh4u/us_recognizes_the_opposition_candidate_as_the/">[comments]</a></span> </td></tr></table>
+
+## Leader of the Venezuelan opposition says she is in hiding and fears for her life
+ - [https://www.reddit.com/r/worldnews/comments/1ehw6ms/leader_of_the_venezuelan_opposition_says_she_is](https://www.reddit.com/r/worldnews/comments/1ehw6ms/leader_of_the_venezuelan_opposition_says_she_is)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-02T00:16:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ehw6ms/leader_of_the_venezuelan_opposition_says_she_is/"> <img alt="Leader of the Venezuelan opposition says she is in hiding and fears for her life" src="https://external-preview.redd.it/rKUITtnEBzDeX4Y7oUydYDnROe_5Q8RcQYGgERAHA_c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a35b155127936efabb017992f584b36e76773af" title="Leader of the Venezuelan opposition says she is in hiding and fears for her life" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dept404"> /u/Dept404 </a> <br /> <span><a href="https://amp.miamiherald.com/news/nation-world/world/americas/venezuela/article290673679.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ehw6ms/leader_of_the_venezuelan_opposition_says_she_is/">[comments]</a></span> </td></tr></table>
+
