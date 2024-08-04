@@ -1,0 +1,93 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Canada raises travel advisory for Israel to 'avoid all travel' due to escalating violence
+ - [https://www.cbc.ca/news/world/global-affairs-canada-travel-warning-israel-1.7284919?cmp=rss](https://www.cbc.ca/news/world/global-affairs-canada-travel-warning-israel-1.7284919?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T17:49:12+00:00
+
+<img alt="Smoke rises over building located on a hill." height="349" src="https://i.cbc.ca/1.7284933.1722720730!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-lebanon.JPG" title="Smoke rises from Kfar Kila, amid cross-border hostilities between Hezbollah and Israeli forces, as pictured from Marjayoun, near the border with Israel, Lebanon August 3, 2024. REUTERS/Karamallah Daher" width="620" /><p>Fears of a wider regional conflict have grown in the wake of recent actions between Israel and Hezbollah, a militant group based in neighbouring Lebanon. </p>
+
+## Mother angered by MPs' 'disgusting' treatment of her daughter at meeting on domestic violence
+ - [https://www.cbc.ca/news/politics/mother-letter-mps-committee-1.7284723?cmp=rss](https://www.cbc.ca/news/politics/mother-letter-mps-committee-1.7284723?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T12:00:09+00:00
+
+<img alt="A woman is pictured in front of a wood-paneled wall." height="349" src="https://i.cbc.ca/1.7284731.1722697391!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ont-intimate-partner-violence-20240515.JPG" title="Cait Alexander, an advocate for sex assault survivors is photographed at Queen&apos;s Park in Toronto, Wednesday, May 15, 2024." width="620" /><p>The mother of a witness who left a House of Commons committee in Ottawa after giving emotional testimony earlier this week says the MPs who were involved mistreated her daughter.</p>
+
+## Aerosmith retires from touring, citing Steven Tyler's vocal cord injury
+ - [https://www.cbc.ca/news/entertainment/aerosmith-retiring-touring-injury-1.7284670?cmp=rss](https://www.cbc.ca/news/entertainment/aerosmith-retiring-touring-injury-1.7284670?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T08:28:04+00:00
+
+<img alt="Aerosmith lead singer Steven Tyler." height="349" src="https://i.cbc.ca/1.7284679.1722682686!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aerosmith-in-concert-philadelphia.jpg" title="Steven Tyler of Aerosmith performs during night one of their &quot;Peace Out: The Farewell Tour&quot; on Saturday, Sept. 2, 2023, at Wells Fargo Center in Philadelphia. (Photo by Amy Harris/Invision/AP)" width="620" /><p>Aerosmith says Steven Tyler's voice has been permanently damaged by a vocal cord injury last year and the rock band will no longer tour.</p>
+
+## Explore the rich history of Thunder Bay's Port Arthur Stadium, host of the Women's Baseball World Cup
+ - [https://www.cbc.ca/news/canada/thunder-bay/port-arthur-stadium-profile-thunder-bay-1.7274092?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/port-arthur-stadium-profile-thunder-bay-1.7274092?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T05:00:00+00:00
+
+<img alt="A baseball field." height="349" src="https://i.cbc.ca/1.7274109.1721848694!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/port-arthur-stadium.JPG" title="Fans back the grandstand at Thunder Bay&apos;s Port Arthur Stadium for a baseball game." width="620" /><p>Port Arthur Stadium in Thunder Bay, Ont., is back in the international spotlight as the site of the 2024 Women’s Baseball World Cup finals, including today's medal matches that involve Canada. But hosting major events isn’t unfamiliar ground for the old building.</p>
+
+## Tornado database from Environment Canada archives offers new twist on storm chasing
+ - [https://www.cbc.ca/news/canada/london/tornado-digital-archive-environment-canada-meteorologist-1.7281032?cmp=rss](https://www.cbc.ca/news/canada/london/tornado-digital-archive-environment-canada-meteorologist-1.7281032?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T05:00:00+00:00
+
+<img alt="A still from a short video filmed by a Woodstock, Ont. resident during the severe tornado that struck the community in August 1979." height="349" src="https://i.cbc.ca/1.7281317.1722452274!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/august-1979-woodstock-tornado.jpg" title="A still from a short video filmed by a Woodstock, Ont. resident during the severe tornado that struck the community in August 1979. The footage is among the numerous artifacts found in the new Michael Newark Digitized Tornado Archive." width="620" /><p>A trove of documents detailing more than two centuries of tornado events in Canada is now available to anyone with an internet connection, thanks to the work of the Northern Tornadoes Project (NTP) and former Environment Canada meteorologist Michael Newark.</p>
+
+## 25 years on, The Blair Witch Project leaves its mark on horror — and the film's stars
+ - [https://www.cbc.ca/radio/day6/blair-witch-actors-25th-anniversary-film-1.7282759?cmp=rss](https://www.cbc.ca/radio/day6/blair-witch-actors-25th-anniversary-film-1.7282759?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="An extreme close-up of an eye and eyebrow. " height="349" src="https://i.cbc.ca/1.3988689.1721244958!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-blair-witch-project.jpg" title="The Blair Witch Project shocked Hollywood in 1999, becoming a smash hit in part due to an online marketing campaign that used what might now be termed &quot;fake news.&quot;" width="620" /><p>Michael C. Williams and Joshua Leonard co-starred in the horror film that popularized the found footage subgenre. But the actors describe being underpaid, facing harassment from moviegoers, and continue to fight for credit and residuals as the multimillion-dollar franchise lives on.</p>
+
+## As the ghost of Chornobyl lingers over Belarus, Quebec families offer kids a healthy home
+ - [https://www.cbc.ca/news/canada/montreal/chornobyl-quebec-host-families-1.7283731?cmp=rss](https://www.cbc.ca/news/canada/montreal/chornobyl-quebec-host-families-1.7283731?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="Edith Harvey, Aksenia, Harvey&apos;s daughter, and Harvey&apos;s husband" height="349" src="https://i.cbc.ca/1.7284240.1722633180!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/edith-harvey2.JPG" title="A Quebec program aims to improve the physical health of Belarusian children who are feeling the effects of the nuclear disaster, almost 40 years after it happened. Edith Harvey, left, Aksenia, Harvey&apos;s daughter, and Harvey&apos;s husband." width="620" /><p>Every summer, Quebec families host Belarusian children in the hope of giving them a break from their polluted environment and reducing their radiation levels.</p>
+
+## 'Canada's shawarma capital' turns to its signature wrap to explain storm risks
+ - [https://www.cbc.ca/news/canada/ottawa/ottawa-shawarma-weather-tornado-warning-graphic-social-1.7281269?cmp=rss](https://www.cbc.ca/news/canada/ottawa/ottawa-shawarma-weather-tornado-warning-graphic-social-1.7281269?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="Tongs place sliced meat on a pita with vegetables to make shawarma." height="349" src="https://i.cbc.ca/1.7120368.1708518048!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ottawa-shawarma.JPG" title="A shawarma sandwhich in the making." width="620" /><p>Having trouble wrapping your head around what a tornado or thunderstorm watch and warning mean for your day-to-day decisions? The City of Ottawa hopes its signature wrap can help sort it out.</p>
+
+## Misinformation persists online after super-brief Olympic boxing bout
+ - [https://www.cbc.ca/news/world/imane-khelif-algerian-boxer-gender-1.7283949?cmp=rss](https://www.cbc.ca/news/world/imane-khelif-algerian-boxer-gender-1.7283949?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="A female competitor kneels on the canvas with wrapped hands and without boxing gloves as the opponent stands nearby." height="349" src="https://i.cbc.ca/1.7282050.1722515557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/paris-olympics-boxing.jpg" title="Algeria&apos;s Imane Khelif, right, defeated, Italy&apos;s Angela Carini in their women&apos;s 66kg preliminary boxing match at the 2024 Summer Olympics, Thursday, Aug. 1, 2024, in Paris, France.  " width="620" /><p>Unfounded claims about Algerian boxer Imane Khelif's gender identity went viral after her very quick victory at the Olympics. We talk to experts about how and why misinformation spreads.</p>
+
+## Munro's Books employee quits after Alice Munro abuse revelations
+ - [https://www.cbc.ca/news/munros-books-employee-1.7282383?cmp=rss](https://www.cbc.ca/news/munros-books-employee-1.7282383?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="A woman with a shaved head, wearing a black tank top, stands in a park. She has a stern expression." height="349" src="https://i.cbc.ca/1.7282954.1722553427!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/justina-elias.jpg" title="Justina Elias quit working at Munro’s books in Victoria, B.C. after she says management helped to contain the sexual abuse of Munro’s daughter Andrea Robin Skinner by her step father, Munro’s husband. " width="620" /><p>Justina Elias quit working at Munro’s Books in Victoria after she says management helped to contain the sexual abuse of Alice Munro’s daughter by her step-father, Munro’s husband.</p>
+
+## New border rules for dogs were triggered by spike in fraud, forgery cases: U.S. document
+ - [https://www.cbc.ca/news/politics/dogs-rabies-canada-u-s-1.7284105?cmp=rss](https://www.cbc.ca/news/politics/dogs-rabies-canada-u-s-1.7284105?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="A closeup shows a dog wearing a black vest, looking up at the camera." height="349" src="https://i.cbc.ca/1.7193672.1714765068!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/scooby-arson-dog-may-3-2024.jpg" title="The Winnipeg Fire Paramedic Service formally welcomed Scooby the arson dog to its fire investigations branch at a news conference on Friday, May 3, 2024." width="620" /><p>A controversial American government decision to impose new requirements on dogs entering the U.S. was prompted by a "dramatic increase" in falsified documents and fraud — including cases of people using Canada to bring dogs from countries with high rates of rabies into the U.S.</p>
+
+## The Maduro government still shows no signs of surrendering power in Venezuela
+ - [https://www.cbc.ca/news/politics/maduro-venezuela-cuba-urrutia-1.7284279?cmp=rss](https://www.cbc.ca/news/politics/maduro-venezuela-cuba-urrutia-1.7284279?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="A woman runs with her hands up, fire on the ground behind her and a phalanx of police holding riot shields behind that." height="349" src="https://i.cbc.ca/1.7279723.1722349205!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/venezuela-election.JPG" title="A demonstrator reacts when Molotov cocktails hit the ground in front of security forces during protests against election results after Venezuela&apos;s President Nicolas Maduro and his opposition rival Edmundo Gonzalez claimed victory in Sunday&apos;s presidential election, in Puerto La Cruz, Venezuela July 29, 2024. REUTERS/Samir Aponte     TPX IMAGES OF THE DAY" width="620" /><p>Foreign allies such as Russia, China, Cuba and Iran have become critical to the survival of the Nicolas Maduro regime in Venezuela, and his dependence on them has only deepened in the wake of last weekend's election.</p>
+
+## We took a ride in an award-winning solar-powered car made in Montreal
+ - [https://www.cbc.ca/player/play/9.6469026?cmp=rss](https://www.cbc.ca/player/play/9.6469026?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-08-03T04:00:00+00:00
+
+<img alt="CBC&apos;s Paula Dayan-Perez smiles wearing a helmet while taking a ride as a passenger in a solar-powered car" height="349" src="https://i.cbc.ca/ais/4edd7ed3-33f5-450f-b595-43cae3722c7a,1722631675840/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1279%2C719%29%3BResize%3D%28620%29" title="" width="620" /><p>A prototype designed by students at Polytechnique Montréal that has won awards and competitions boasts some impressive range and efficiency statistics. </p>
+
