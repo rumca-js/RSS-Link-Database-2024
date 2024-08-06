@@ -1,0 +1,86 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## 2024 Aug 5 Stickied -FAQ- & -HELPDESK- thread - Boot problems? Power supply problems? Display problems? Networking problems? Need ideas? Get help with these and other questions!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1el0kx9/2024_aug_5_stickied_faq_helpdesk_thread_boot](https://www.reddit.com/r/raspberry_pi/comments/1el0kx9/2024_aug_5_stickied_faq_helpdesk_thread_boot)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T22:03:24+00:00
+
+<!-- SC_OFF --><div class="md"><h3><a href="http://f2z.net/RPi-Helpdesk-FAQ.png">Welcome to the r/raspberry_pi Helpdesk and Frequently Asked Questions!</a></h3> <p><a href="https://www.reddit.com/r/raspberry_pi/comments/1efdn48/2024_jul_29_stickied_faq_helpdesk_thread_boot/">Link to last week's thread</a></p> <p>Having a hard time searching for answers to your Raspberry Pi questions? Let the <a href="/r/raspberry_pi">r/raspberry_pi</a> community members search for answers <em>for you</em>!<sup>†</sup> Looking for help getting started with a project? Have a question that you need answered? Was it not answered last week? Did not get a satisfying answer? A question that you've only done basic research for? Maybe something you think everyone but you knows? <strong>Ask your question in the comments on this page,</strong> operators are standing by!</p> <p>This helpdesk and idea thread is here so that the front page won't be filled with these same questions day in and day out:</p> <ol> <li>Q
+
+## Stardew Valley, 3480x1600, Raspberry Pi 5 Model B Rev 1.0
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekvaj6/stardew_valley_3480x1600_raspberry_pi_5_model_b](https://www.reddit.com/r/raspberry_pi/comments/1ekvaj6/stardew_valley_3480x1600_raspberry_pi_5_model_b)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T18:31:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ekvaj6/stardew_valley_3480x1600_raspberry_pi_5_model_b/"> <img alt="Stardew Valley, 3480x1600, Raspberry Pi 5 Model B Rev 1.0" src="https://preview.redd.it/g8pqu2zs2wgd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ecd7cd1e390a0873910018af1f60f085bed06d0" title="Stardew Valley, 3480x1600, Raspberry Pi 5 Model B Rev 1.0" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sprtnturtl3"> /u/Sprtnturtl3 </a> <br /> <span><a href="https://i.redd.it/g8pqu2zs2wgd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ekvaj6/stardew_valley_3480x1600_raspberry_pi_5_model_b/">[comments]</a></span> </td></tr></table>
+
+## Help Needed: Raspberry Pi 3B+ Wi-Fi Issue with Mainsail and Klipper for Voron 2.4 3-D Printer
+ - [https://www.reddit.com/r/raspberry_pi/comments/1eku0py/help_needed_raspberry_pi_3b_wifi_issue_with](https://www.reddit.com/r/raspberry_pi/comments/1eku0py/help_needed_raspberry_pi_3b_wifi_issue_with)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T17:41:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I'm setting up a Raspberry Pi 3B+ for my Voron 2.4 3D printer build, and I'm running into a frustrating issue with Wi-Fi connectivity. I’m having the Pi display to a touchscreen that came in the 3d printer kit from FYSETC, and I’ve installed Mainsail, Klipper, Moonraker, and KlipperScreen, with some of these installed through Kiauh.</p> <p>Here’s the issue: <strong>wpa_supplicant</strong>, the software responsible for managing Wi-Fi connections, starts and then immediately stops. I’ve tried all the classic fixes, including power cycling, restarting processes, and rebooting the Pi. I’ve also manually edited my <code>wpa_supplicant.conf</code> file to add the network, but the issue persists.</p> <p><strong>Steps I've tried:</strong></p> <ol> <li>Power cycle and reboot the Raspberry Pi multiple times.</li> <li>Restart the <code>wpa_supplicant</code> process.</li> <li>Manually edited <code>wpa_supplicant.conf</code> to add the network.
+
+## Kiosk exiting full screen
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekss9f/kiosk_exiting_full_screen](https://www.reddit.com/r/raspberry_pi/comments/1ekss9f/kiosk_exiting_full_screen)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T16:51:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've got my Pi set up as a Kiosk screen showing my Dakboard. I've been having trouble with it exiting full screen mode after a period of time (I've been unable to figure out what the period is). When it reboots it starts full screen, but then reduces to maximised. Is there any way to find out in the logs perhaps what's causing it? Or searching within files for the Dakboard URL? I've looked at my boot up script, and I can't see anything that seems to be out of the ordinary.</p> <p>(I've also got PiHole running on this and it's doing some networking stuff for me. If I need to wipe fresh I will, but I'd rather avoid that if possible.)</p> <p>Below is my script in ~/.config/wayfire.ini for perusal.</p> <pre><code>[autostart] panel = wfrespawn wf-panel-pi background = wfrespawn pcmanfm --desktop --profile LXDE-pi xdg-autostart = lxsession-xdg-autostart chromium = chromium-browser &quot;https://dakboard.com/&quot; --kiosk --noerrdialogs --disable-infobars -
+
+## Birdwatching camera (Raspberry Pi 3A+ / enclosure 3D-printed)
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekr88n/birdwatching_camera_raspberry_pi_3a_enclosure](https://www.reddit.com/r/raspberry_pi/comments/1ekr88n/birdwatching_camera_raspberry_pi_3a_enclosure)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T15:49:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ekr88n/birdwatching_camera_raspberry_pi_3a_enclosure/"> <img alt="Birdwatching camera (Raspberry Pi 3A+ / enclosure 3D-printed)" src="https://b.thumbs.redditmedia.com/GWvzjQxhiwuBQb8wdx-n604GOMwgoohoW5f-Zkz7A_I.jpg" title="Birdwatching camera (Raspberry Pi 3A+ / enclosure 3D-printed)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ede_enok"> /u/ede_enok </a> <br /> <span><a href="https://www.reddit.com/gallery/1ekr88n">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ekr88n/birdwatching_camera_raspberry_pi_3a_enclosure/">[comments]</a></span> </td></tr></table>
+
+## I made a MIDI spoon piano with the Raspberry Pi Pico and capacitive sensing
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekmtsm/i_made_a_midi_spoon_piano_with_the_raspberry_pi](https://www.reddit.com/r/raspberry_pi/comments/1ekmtsm/i_made_a_midi_spoon_piano_with_the_raspberry_pi)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T12:44:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ekmtsm/i_made_a_midi_spoon_piano_with_the_raspberry_pi/"> <img alt="I made a MIDI spoon piano with the Raspberry Pi Pico and capacitive sensing" src="https://external-preview.redd.it/IkyCKL6WHpD7PHk82ZDWjlEfx3e0BmOxbtqIVQDyhKQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=47090b3a39e6725fcbb7f234772663c9ca465469" title="I made a MIDI spoon piano with the Raspberry Pi Pico and capacitive sensing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/safetysandals"> /u/safetysandals </a> <br /> <span><a href="https://www.youtube.com/watch?v=52Xef2qi53g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ekmtsm/i_made_a_midi_spoon_piano_with_the_raspberry_pi/">[comments]</a></span> </td></tr></table>
+
+## "pigg" (GUI for Raspberry Pi GPIO) v0.3.3 released
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekid8k/pigg_gui_for_raspberry_pi_gpio_v033_released](https://www.reddit.com/r/raspberry_pi/comments/1ekid8k/pigg_gui_for_raspberry_pi_gpio_v033_released)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T08:08:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>&quot;pigg&quot; (GUI for Raspberry Pi GPIO interaction using Iced) v0.3 is out and ready for use:</p> <p>Release notes: <a href="https://github.com/andrewdavidmackenzie/pigg/releases/tag/0.3.3">https://github.com/andrewdavidmackenzie/pigg/releases/tag/0.3.3</a></p> <p>The main new feature is the addition of Remote GPIO interaction between &quot;piggui&quot; and a remote &quot;piglet&quot; over iroh-net.</p> <p>Video with Dialog to connect: <a href="https://youtu.be/aToJ1aT7NeM">https://youtu.be/aToJ1aT7NeM</a></p> <p>Video using CLI argument to connect: <a href="https://youtu.be/zcEa_Oke014">https://youtu.be/zcEa_Oke014</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/andrewdavidmackenzie"> /u/andrewdavidmackenzie </a> <br /> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ekid8k/pigg_gui_for_raspberry_pi_gpio_v033_released/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspb
+
+## Raspberry Pi 4 - ttySC* ports missing
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekhk66/raspberry_pi_4_ttysc_ports_missing](https://www.reddit.com/r/raspberry_pi/comments/1ekhk66/raspberry_pi_4_ttysc_ports_missing)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T07:11:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ekhk66/raspberry_pi_4_ttysc_ports_missing/"> <img alt="Raspberry Pi 4 - ttySC* ports missing" src="https://b.thumbs.redditmedia.com/bcdwcwaFwE5MLqpVkKvdhi39YHkOdxbPkaZs-0tipDs.jpg" title="Raspberry Pi 4 - ttySC* ports missing" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I'm using Raspberry Pi 4 with Ubuntu Server OS 20. I want to read some sensors with the serial channels. I've done this a few months ago using 'ttySC0' and 'ttySC1' on the same Pi and they worked. But now I can no longer find these ports in 'ls /dev':</p> <p><a href="https://preview.redd.it/1jsoyi7posgd1.png?width=1409&amp;format=png&amp;auto=webp&amp;s=e2c84cc694c3327a9bfae7e5485cdaac8f3866e8">https://preview.redd.it/1jsoyi7posgd1.png?width=1409&amp;format=png&amp;auto=webp&amp;s=e2c84cc694c3327a9bfae7e5485cdaac8f3866e8</a></p> <p>I figured maybe the port names were changed so I tried reading the channels with all the tty ports available
+
+## Installing Pi to boot from a large NVMe >2TB
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekeu44/installing_pi_to_boot_from_a_large_nvme_2tb](https://www.reddit.com/r/raspberry_pi/comments/1ekeu44/installing_pi_to_boot_from_a_large_nvme_2tb)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T04:19:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Many thanks to <a href="/u/coreyfro">u/coreyfro</a> for their excellent post <a href="https://www.reddit.com/r/raspberry_pi/comments/19e0x42/booting_pi_from_nvme_greater_than_2tb_gpt_as/">Booting Pi from NVME greater than 2TB (GPT as opposed to MBR)</a>. I used their method to get a Pi 5 running on a 4TB NVMe M.2 SSD.</p> <pre><code>pi@raspberrypi:~ $ sudo fdisk -l /dev/nvme0n1 Disk /dev/nvme0n1: 3.73 TiB, 4096805658624 bytes, 8001573552 sectors Disk model: TEAM TM8FP4004T Units: sectors of 1 * 512 = 512 bytes Sector size (logical/physical): 512 bytes / 512 bytes I/O size (minimum/optimal): 512 bytes / 512 bytes Disklabel type: gpt Disk identifier: ***** Device Start End Sectors Size Type /dev/nvme0n1p1 8192 1056767 1048576 512M EFI System /dev/nvme0n1p2 1056768 537927679 536870912 256G Linux filesystem /dev/nvme0n1p3 537927680 8001572863 7463645184 3.5T Linux filesystem pi@raspberrypi:~ $ </code></pre> <p>A Raspberry Pi can boot from a large (&gt;2TB
+
+## Created a real KITT from Knight Rider using a Raspberry Pi 5
+ - [https://www.reddit.com/r/raspberry_pi/comments/1eke9in/created_a_real_kitt_from_knight_rider_using_a](https://www.reddit.com/r/raspberry_pi/comments/1eke9in/created_a_real_kitt_from_knight_rider_using_a)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T03:47:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1eke9in/created_a_real_kitt_from_knight_rider_using_a/"> <img alt="Created a real KITT from Knight Rider using a Raspberry Pi 5" src="https://external-preview.redd.it/ZHRtanZzMDNwcmdkMY2obQzCVMpb5HLLblh8A0MbGXwVOCvCxiHzS3lA-j7u.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=289b84a5b5a9f319e2c170eca174cadabbe1f983" title="Created a real KITT from Knight Rider using a Raspberry Pi 5" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I've always been a fan of Knight Rider and have created KITT before with an RP2040. This time, I created him using OpenAI and ElevenLabs APIs running off a Pi 5. He can talk to you about his adventures with Michael Knight, answer your questions about different topics, see through a camera, control lighting, tell you about the latest news, and a bit more. His personality was modeled after the KR2000 movie. If you guys want to recreate him, I've uploaded the scripts onto my github wh
+
+## Pi Camera Module 3 and PiCamera2 Preview vs capture_array()
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekb901/pi_camera_module_3_and_picamera2_preview_vs](https://www.reddit.com/r/raspberry_pi/comments/1ekb901/pi_camera_module_3_and_picamera2_preview_vs)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T01:11:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi, i'm not exactly sure if this is the right sub for this, but i don't know where else to start.</p> <p>the short of what's going on right now:</p> <p>i have a program that shows me the preview using the default preview config. similar to this:</p> <pre><code>from picamera2 import Picamera2, Preview picam2 = Picamera2() camera_config = picam2.create_preview_configuration() picam2.configure(camera_config) picam2.start_preview(Preview.QTGL) </code></pre> <p>it then displays the picam's current view in a tkinter window using <code>picamera2.capture_array()</code>:</p> <pre><code>window = tkinter.Tk() canvas = tkinter.Canvas(window) canvas.pack() array = picamera2.capture_array() photo = ImageTk.PhotoImage(image=PIL.Image.fromarray(array)) canvas.create_image(0,0, image=photo) </code></pre> <p>but, for whatever reason, the tkinter one seems a lot more zoomed in, even with the same configuration and larger window/frame/canvas size. i don't get how or why,
+
+## HyperHDR on RPi help needed!!!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ekab8e/hyperhdr_on_rpi_help_needed](https://www.reddit.com/r/raspberry_pi/comments/1ekab8e/hyperhdr_on_rpi_help_needed)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-05T00:24:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ekab8e/hyperhdr_on_rpi_help_needed/"> <img alt="HyperHDR on RPi help needed!!!" src="https://b.thumbs.redditmedia.com/zRV1N-fTHrjKcYtOw25Zi4HbJtf8m_QjFNUi2SLkIMI.jpg" title="HyperHDR on RPi help needed!!!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello! I am working on adding an Ambilight system to a TV using a Raspberry Pi 3 B+. I started this project last week, but the RPi 4 I was using at the time got fried due to overvoltage (as some commenters on <a href="/r/WLED">r/WLED</a> warned me of). Lesson learned, and I pivoted from using a now extra crispy RPi 4 to the Pi 3 B+ you see in the picture. I have some problems with the final pieces of this project, and I was hoping reddit could come to my rescue again. (I will give a detailed description of the setup at the end of the post)</p> <p>I cannot get the lights to do anything when connected to the Pi. I know the lights work, as I have tested both the
+
