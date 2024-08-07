@@ -1,0 +1,233 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Lego's Jaws Set Has Arrived - Build It While Watching The New And Steeply Discounted 4K Collection
+ - [https://www.gamespot.com/articles/legos-jaws-set-has-arrived-build-it-while-watching-the-new-and-steeply-discounted-4k-collection/1100-6524714/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/legos-jaws-set-has-arrived-build-it-while-watching-the-new-and-steeply-discounted-4k-collection/1100-6524714/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T21:45:00+00:00
+
+<p><a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=13923&amp;u1=subid_value&amp;murl=https://www.lego.com/en-us/product/jaws-21350&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">Lego's first set based on the Steven Spielberg classic Jaws</a> is now available exclusively at the Lego Store. The building kit launched today, and it's already listed as "backordered," with orders placed now expected to ship in 60 days. The 1,497-piece Jaws Lego set costs $150. If you're looking to get it as a holiday gift for a Jaws fan, we'd recommend ordering soon, as the wait could soon extend beyond two months, or the set could sell out altogether.</p><p>The 50th anniversary of Jaws is next year, so its Lego debut is pretty great timing. If you want to watch the the classic film while building this cool set, you can purchase a<strong> <a href="https://www.amazon.com/Jaws-Blu-ray-Roy-Scheider/dp/B087677JSY?tag=
+
+## Disney+, Hulu, And ESPN+ Get Price Hikes This Fall
+ - [https://www.gamespot.com/articles/disney-hulu-and-espn-get-price-hikes-this-fall/1100-6525577/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-hulu-and-espn-get-price-hikes-this-fall/1100-6525577/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T21:40:00+00:00
+
+<p>If it seems like only last year that Disney raised the prices for Disney+ and Hulu, that's because it was. And it will happen again in the fall of 2024. Disney has officially announced that Disney+, Hulu, and ESPN+ will be more expensive starting on October 17.</p><p>Disney+ was $6.99 per month when it launched in late 2019. But now, Disney+ with ads will be $9.99 per month, a $2 increase over the previous price. The ad-free Disney+ tier will also go up $2 to $15.99. Similarly, Hulu with ads is rising to $9.99 a month, while the ad-free option is only going up by a buck to $18.99. ESPN+ with ads is also getting a dollar more expensive with a new $11.99 price.</p><p>Bundling is still alive and well at Disney, but those rates will also jump. The Disney+, Hulu, and ESPN+ with ads bundle will now be $16.99 a month, while the ad-free option is jumping to $26.99 a month. That's a $2 per month increase for both. Finally, Hulu + Live TV with ads will be going from $76.99 to $82.99. The ad-
+
+## Diablo 4 Season 5 Battle Pass Rewards: All Cosmetics, Titles, And Emotes
+ - [https://www.gamespot.com/gallery/diablo-4-season-5-battle-pass-rewards-all-cosmetics-titles-and-emotes/2900-5666](https://www.gamespot.com/gallery/diablo-4-season-5-battle-pass-rewards-all-cosmetics-titles-and-emotes/2900-5666)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T20:48:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1599/15997278/4346392-d4thumb.jpeg" /><br /><h3><p>The latest season of <a href="https://www.gamespot.com/games/diablo-iv/">Diablo 4</a> has arrived, bringing a fresh season with new content and another battle pass. Season 5, Season of the Infernal Hordes, adds new seasonal story quests, along with a new activity. The new activity, the Infernal Hordes, is a <a href="https://www.gamespot.com/articles/diablo-4-season-5-is-getting-a-vampire-survivors-inspired-game-mode/1100-6524447/">Vampire Survivors-inspired mode</a>, where you have to survive through seemingly endless waves of monsters, earning tons of loot and gold along the way. If you can survive the hordes and defeat enough enemies to collect a large amount of Aether, there are multiple tiers of chests you can open to gain even more materials and rewards.</p><p dir="ltr">As you do the new seasonal activity and complete various questlines you will earn battle pass XP. Diab
+
+## Stranger Things: The First Shadow Is Coming To Broadway In 2025
+ - [https://www.gamespot.com/articles/stranger-things-the-first-shadow-is-coming-to-broadway-in-2025/1100-6525575/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stranger-things-the-first-shadow-is-coming-to-broadway-in-2025/1100-6525575/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T20:23:00+00:00
+
+<p>Before <a href="https://www.gamespot.com/articles/stranger-things-season-5-teaser-reveals-new-cast-members/1100-6524965/">Stranger Things</a> Season 5 brings the long-running Netflix series to an end, fans in America will finally get a chance to see the stage play next year. <a href="https://www.gamespot.com/articles/stranger-things-prequel-play-the-first-shadow-gets-behind-the-scenes-look/1100-6518938/">Stranger Things: The First Shadow</a> has officially set its Broadway debut for April 2025. And with the news came a fresh trailer for the play.</p><div>          </div><p>Stranger Things: The First Shadow opened in London's West End in late 2023. Stephen Daldry directed the play, which serves as a prequel to the series. It features an original story by Stranger Things creators Matt and Ross Duffer, Harry Potter and the Cursed Child co-writer Jack Thorne, and Kate Trefry, who completed the script for the play. </p><p>The play is an origin story for Henry Creel set in the '50s that 
+
+## Arkane Founder Says His Studio's Next Game Will Make Dishonored And Prey Fans Happy
+ - [https://www.gamespot.com/articles/arkane-founder-says-his-studios-next-game-will-make-dishonored-and-prey-fans-happy/1100-6525576/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/arkane-founder-says-his-studios-next-game-will-make-dishonored-and-prey-fans-happy/1100-6525576/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T19:53:00+00:00
+
+<p>WolfEye Studios, a developer founded and largely comprised of former Arkane employees, is working on its sophomore effort. In a recent tweet, co-founder Raphaël Colantonio revealed that WolfEye's next game will likely excite fans of Dishonored and Prey.</p><p>"We’ll reveal a bit more about our next game in a few days," wrote Colantonio. "Fans of the previous 1st person games I was involved with (Dishonored and Prey) will be happy."</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">We’ll reveal a bit more about our next game in a few days… Fans of the previous 1st person games I was involved with (Dishonored and Prey) will be happy.</p>  — Raphael Colantonio (@rafcolantonio) <a href="https://twitter.com/rafcolantonio/status/1820891833028727212?ref_src=twsrc^tfw">August 6, 2024</a></blockquote>              </div><p>A few months ago, WolfEye Studios was pitching its next game at <a href="https://x.com/rafcolantonio/status/1770082408148406301">GDC 2024,</a> and the
+
+## Jenna Ortega Revisits Her Controversial Wednesday Comments
+ - [https://www.gamespot.com/articles/jenna-ortega-revisits-her-controversial-wednesday-comments/1100-6525571/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jenna-ortega-revisits-her-controversial-wednesday-comments/1100-6525571/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T18:50:00+00:00
+
+<p>Shortly before the 2023 writers and actors strikes, <a href="https://www.gamespot.com/reviews/netflixs-wednesday-review-this-addams-family-spin-off-is-a-classic-burton-throw-back/1900-6418000/">Wednesday</a> star Jenna Ortega revealed that she felt the need to <a href="https://www.gamespot.com/articles/jenna-ortega-opens-up-about-difficulties-filming-wednesday/1100-6512146/">rewrite some of her character's dialogue</a> on the set of the Netflix series. Ortega believed that the lines as written were out of character for Wednesday Addams, but her remarks weren't well-received by Hollywood's screenwriters. Now, Ortega has had a lot of time to reflect on what she said, and how she would have done things differently.</p><p>"I probably could have used my words better in describing all of that," Ortega told <a href="https://www.vanityfair.com/hollywood/story/jenna-ortega-cover-interview">Vanity Fair</a>. "I think, oftentimes, I'm such a rambler. I think it was hard because I felt like had
+
+## Metal Gear Solid Nendoroid Preorders Restocked At Amazon - Low-Poly Snake And Naked Raiden
+ - [https://www.gamespot.com/articles/metal-gear-solid-nendoroid-preorders-restocked-at-amazon-low-poly-snake-and-naked-raiden/1100-6525567/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/metal-gear-solid-nendoroid-preorders-restocked-at-amazon-low-poly-snake-and-naked-raiden/1100-6525567/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T18:38:00+00:00
+
+<p>Sure, the market for pocket-sized collectibles might be fierce, but Nendoroid has made a name for itself as it continues to add to its customizable lineup of posable figures. The company might have just outdone itself with its upcoming <a href="https://www.amazon.com/Good-Smile-Company-Metal-Solid/dp/B0D9NPBKRH?tag=gamespot-preorders-20">Solid Snake</a> and <a href="https://www.amazon.com/dp/B0D9NPWM8T?tag=gamespot-preorders-20">Raiden</a> Metal Gear Solid collectibles. Not only are they cute and impressively detailed, they're also <em>hilarious </em>thanks to one of the optional extra parts included with them. Unfortunately, you'll have to wait until August 13, 2025 to get your order, but preorders have already sold out numerous times at Amazon. At the time of writing, however, the figures were back in stock.</p><h2>Nendoroid: Solid Snake from Metal Gear Solid</h2><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4346147-snaaaaaaaaak
+
+## Apex Legends Season 22: How To Unlock All Shockwave Battle Pass Rewards For Free
+ - [https://www.gamespot.com/gallery/apex-legends-season-22-how-to-unlock-all-shockwave-battle-pass-rewards-for-free/2900-5665](https://www.gamespot.com/gallery/apex-legends-season-22-how-to-unlock-all-shockwave-battle-pass-rewards-for-free/2900-5665)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T18:22:00+00:00
+
+<p><h2>Apex Legends Shockwave Battle Pass: All Rewards &amp; How To Unlock For Free</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1752/17528202/4346258-valkbp.jpg" /><br /><em>The Shockwave battle pass is shockingly easy to unlock for free.</em><br /><h3><p dir="ltr"><a href="https://www.gamespot.com/games/apex-legends/">Apex Legends</a> Season 22: Shockwave is finally here, bringing with it the first battle pass of the season (<a href="https://www.gamespot.com/articles/apex-legends-will-now-have-two-battle-passes-per-season-says-respawn/1100-6524756/">battle pass number two</a> will arrive when Season 22 hits its midpoint). The Shockwave battle pass is a first for Apex Legends, which previously stuck to a single, 110-level battle pass each season, but has swapped that pass out for two 60-level battle passes that are jam-packed with valuable loot. The best part? The entire Shockwave battle pass can be unlocked for free.</p><p dir="ltr">Of course, there are also other wa
+
+## CoD: Black Ops 6 Zombies Terminus Map Trailer Reveals New Story Details
+ - [https://www.gamespot.com/articles/cod-black-ops-6-zombies-terminus-map-trailer-reveals-new-story-details/1100-6525572/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-black-ops-6-zombies-terminus-map-trailer-reveals-new-story-details/1100-6525572/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T18:14:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/articles/call-of-duty-2024-release-date-trailer-news/1100-6523361/">Call of Duty: Black Ops 6</a> arrives later this year, which includes brand-new round-based Zombies maps. A new cinematic trailer for the Terminus map sets up the events that followed the final Zombies cutscene from Black Ops Cold War. Here's everything we learned from the trailer reveal.</p><p dir="ltr">In the final events of Black Ops Cold War's Zombies storyline, players helped the Requiem crew stop the threat of the Forsaken and the Dark Aether. The victory came at a steep cost with the loss of Agent Samantha Maxis, who sacrificed herself to seal the Dark Aether portal, and the entire Requiem crew was arrested by the "Director," a character revealed to be Edward Richtofen.</p><p dir="ltr">Now, the Black Ops 6 storyline takes place almost half a decade later, and Terminus is a nighttime map set on a remote prison island. The Requiem crew is imprisoned here--including W
+
+## Jack Black Finished Recording His Borderlands Role Before Filming Began
+ - [https://www.gamespot.com/articles/jack-black-finished-recording-his-borderlands-role-before-filming-began/1100-6525564/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jack-black-finished-recording-his-borderlands-role-before-filming-began/1100-6525564/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T17:35:00+00:00
+
+<p>Later this week, the <a href="https://www.gamespot.com/articles/first-borderlands-trailer-is-full-of-chaos-carnage-and-a-bullet-pooping-claptrap/1100-6521237/">Borderlands</a> movie will bring the long-running video game franchise to the big screen. Jack Black is co-starring in the film as the voice of the fan-favorite robot, Claptrap. That's a role that Borderlands creator Randy Pitchford <a href="https://www.gamespot.com/articles/borderlands-creator-randy-pitchford-pitched-jack-black-on-playing-claptrap-back-in-2012/1100-6525514/">has wanted Black to play</a> since 2012. And because it's a voiceover only role, Black was able to record all of his lines for the movie before a single frame of footage was shot.</p><p>"I have to admit, I never went to the set," said Black during a recent appearance on <a href="https://open.spotify.com/episode/0Y5MDJ3ZGxQfddt5LJMJMD?si=EbnkVzkCSnynxPiiHEDAGQ&amp;nd=1&amp;dlsi=a76fdb64963d459f">Conan O'Brien Needs a Friend</a>. "I did my whole role in a
+
+## Review Roundup For SteamWorld Heist 2
+ - [https://www.gamespot.com/articles/review-roundup-for-steamworld-heist-2/1100-6525569/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/review-roundup-for-steamworld-heist-2/1100-6525569/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T17:23:00+00:00
+
+<p>Developer Thunderful's <a href="https://www.gamespot.com/games/steamworld-heist-ii/">SteamWorld Heist 2</a> releases on August 8, introducing itself as the sequel to the beloved first entry. Almost a decade later since the original's launch in 2015, SteamWorld Heist 2 goes all in on the pirate theme, inviting you to maintain a crew and prepare them for real-time naval combat and the classic turn-based action of its predecessor.</p><p>As the crew's captain, you're tasked with customizing a band of characters with different abilities and weapons to survive all sorts of challenges. Outside of turn-based encounters, you set sail from a top-down perspective to raid enemy outposts and seize loot from hostile ships.</p><p>Reviewer Steve Watts wrote in his GameSpot's SteamWorld Heist 2 review that "like the first game, SteamWorld Heist 2 defies easy categorization, as it really only plays like itself."</p><a href="https://www.gamespot.com/articles/review-roundup-for-steamworld-heist-2/1100
+
+## CoD: Warzone And MW3 Patch Notes Include Nerfs For The RPK And Superi 46
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-patch-notes-include-nerfs-for-the-rpk-and-superi-46/1100-6525565/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-patch-notes-include-nerfs-for-the-rpk-and-superi-46/1100-6525565/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:49:00+00:00
+
+<p dir="ltr">A small update has arrived to <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>. The patch notes include weapon balancing for both games, including Superi 46 and the overpowered build of the RPK light machine gun.</p><p dir="ltr">For Modern Warfare 3, the update makes changes to Season 5's limited-time CoD Warrior game mode. It fixes an issue that previously caused players to die immediately in the Revive minigame, and the Revive game will no longer occur if a team of fewer than two players exists. Additionally, players downed during the Revive minigame will no longer be warned for inactivity.</p><p dir="ltr">A small change is made to the new STG44 assault rifle, with an increase to the lower-left-arm damage multiplier from 1.2x to 1.3x. The developer says this adjustment is made to make sure the damage dealt to lower arms is now consis
+
+## Descenders Next Is A Full Sequel Coming In 2025, Day-One To Game Pass
+ - [https://www.gamespot.com/articles/descenders-next-is-a-full-sequel-coming-in-2025-day-one-to-game-pass/1100-6525566/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/descenders-next-is-a-full-sequel-coming-in-2025-day-one-to-game-pass/1100-6525566/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:44:00+00:00
+
+<p>Publisher No More Robots has announced that Descenders Next will be coming in 2025 for PC and Xbox, and it will be included on <a href="https://x.com/RaveofRavendale/status/1820837811106222281">Game Pass</a>. Even though this is the follow-up to the first Descenders, the publisher cheekily <a href="https://x.com/RaveofRavendale/status/1820848500692664563">said</a>, "Told you Descenders 2 didn't exist."</p><p><a href="https://store.steampowered.com/app/2375530/Descenders_Next/">Descenders Next</a> is expanding on its 2019 predecessor, which primarily had only downhill mountain biking, by including a variety of other extreme sports and different biomes such as grasslands, snowy slopes, and dry mountains. Now, players will be able to shred downhill on snowboards and mountain boards.</p><div>          </div><p>The game will also feature a character customizer and a rep system that will allow players to unlock new threads, gear, and boards, as well as editing tools to help players creat
+
+## Shin Megami Tensei Tabletop RPG Finally Up For Preorder At Amazon, Releases Next Month
+ - [https://www.gamespot.com/articles/shin-megami-tensei-tabletop-rpg-finally-up-for-preorder-at-amazon-releases-next-month/1100-6525561/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/shin-megami-tensei-tabletop-rpg-finally-up-for-preorder-at-amazon-releases-next-month/1100-6525561/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:24:00+00:00
+
+<p>Shin Megami Tensei - The Roleplaying Game: Tokyo Conception is finally available to <a href="https://www.amazon.com/dp/B0CMR2KMS8?tag=gamespot-preorders-20&amp;tag=gamespot-buybutton-20">preorder for $49 at Amazon</a> ahead of its September 10 release. The tabletop RPG originally released in Japan in 1993 and has seen numerous editions and revisions in the years since, but this marks the first English localization. Tabletop RPG adaptations of video games tend to sell out quickly at Amazon, so we'd recommend placing your order for the hardcover book soon.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0CMR2KMS8?tag=gamespot-preorders-20">Preorder at Amazon</a> </div></div><p> </p><figure style="width: 1000px;"><a href="https://www.gamespot.com/a/uploads/original/1595/15950357/4346126-shinmegamirole-playinggame.jpg"><img alt="Shin Megami Tensei - Tokyo Conception Role-playing Game" src="https://www.gamespot.com/a/uploads/original/1595/15950357/
+
+## Dead by Daylight x Castlevania Trailer
+ - [https://www.gamespot.com/videos/dead-by-daylight-x-castlevania-trailer/2300-6464760](https://www.gamespot.com/videos/dead-by-daylight-x-castlevania-trailer/2300-6464760)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:23:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4346133-deadbydaylight_castlevania_officialtrailer.mp4.00_00_14_17.still002.jpg" width="480" /> Dead by Daylight: Castlevania brings Dracula and Trevor Belmont into The Fog’s dark embrace.
+
+## Monster Hunter Wilds Great Sword Weapon Overview
+ - [https://www.gamespot.com/videos/monster-hunter-wilds-great-sword-weapon-overview/2300-6464759](https://www.gamespot.com/videos/monster-hunter-wilds-great-sword-weapon-overview/2300-6464759)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:21:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4346132-monsterhunterwilds_greatsword_weaponoverview.mp4.00_00_04_16.still001.jpg" width="480" /> Tried and TRUE. The iconic Great Sword delivers powerful, satisfying chops that'll send foes reeling.
+
+## Fortnite x Fall Guys Launch Trailer
+ - [https://www.gamespot.com/videos/fortnite-x-fall-guys-launch-trailer/2300-6464758](https://www.gamespot.com/videos/fortnite-x-fall-guys-launch-trailer/2300-6464758)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:20:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4346131-wherewefallin%E2%80%99_-launchtrailer.mp4.00_00_08_09.still001.jpg" width="480" /> In Battle Royale, Where We Fallin’ starts now. Find a golden Bean Idol, take on the floating obstacle course in the sky, and bring back loot to help you get a Victory Royale.
+
+## Call of Duty: Black Ops 6 - Zombies Terminus Cinematic Trailer
+ - [https://www.gamespot.com/videos/call-of-duty-black-ops-6-zombies-terminus-cinematic-trailer/2300-6464757](https://www.gamespot.com/videos/call-of-duty-black-ops-6-zombies-terminus-cinematic-trailer/2300-6464757)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:18:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4346130-callofduty_blackops6-zombiesterminuscinematictrailer.mp4.00_00_26_16.still004.jpg" width="480" /> The Dark Aether story continues in Terminus COD Black Ops 6 Zombies.
+
+## Monster Hunter Wilds Focus Mode Overview
+ - [https://www.gamespot.com/videos/monster-hunter-wilds-focus-mode-overview/2300-6464756](https://www.gamespot.com/videos/monster-hunter-wilds-focus-mode-overview/2300-6464756)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:17:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4346128-monsterhunterwilds_focusmodeoverview.mp4.00_00_03_13.still001.jpg" width="480" /> Focus Mode adds a new layer to the hunt in Monster Hunter Wilds. Aim attacks or guards, and hit wounds that are highlighted in this mode for extra damage. Use Focus Strikes to unleash special attacks for big damage to wounds and weak points.
+
+## Monster Hunter Wilds Basic Mechanics Overview
+ - [https://www.gamespot.com/videos/monster-hunter-wilds-basic-mechanics-overview/2300-6464755](https://www.gamespot.com/videos/monster-hunter-wilds-basic-mechanics-overview/2300-6464755)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:05:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4346127-monsterhunterwilds_basicmechanicsoverview.mp4.00_00_06_25.still002.jpg" width="480" /> A run down of the basic mechanics, slinger functions, and abilities while riding a Seikret in Monster Hunter Wilds!
+
+## Balatro Creator Stipulates In Will That Game Can't Be Used For Gambling
+ - [https://www.gamespot.com/articles/balatro-creator-stipulates-in-will-that-game-cant-be-used-for-gambling/1100-6525562/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/balatro-creator-stipulates-in-will-that-game-cant-be-used-for-gambling/1100-6525562/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T16:01:00+00:00
+
+<p>Balatro creator LocalThunk said that they have put it in measures to prevent the game from becoming a real gambling game, even after their death.</p><p>"From the outside this might make 0 sense but I hate the thought of Balatro becoming a true gambling game so much that when I recently created my will I stipulated that the Balatro IP may never be sold or licensed to any gambling company/Casino," they posted on Twitter.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">From the outside this might make 0 sense but I hate the thought of Balatro becoming a true gambling game so much that when I recently created my will I stipulated that the Balatro IP may never be sold or licensed to any gambling company/Casino <a href="https://t.co/svKdhgjjm4">https://t.co/svKdhgjjm4</a></p>  — localthunk (@LocalThunk) <a href="https://twitter.com/LocalThunk/status/1820752209765961746?ref_src=twsrc^tfw">August 6, 2024</a></blockquote>              </div><p>Earlier this year, Balatr
+
+## CoD: Black Ops 6 Leaks Reveal A Controversial Warzone Map With Caldera 2.0 Vibes
+ - [https://www.gamespot.com/articles/cod-black-ops-6-leaks-reveal-a-controversial-warzone-map-with-caldera-2-0-vibes/1100-6525560/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-black-ops-6-leaks-reveal-a-controversial-warzone-map-with-caldera-2-0-vibes/1100-6525560/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T15:56:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/articles/call-of-duty-2024-release-date-trailer-news/1100-6523361/">Call of Duty: Black Ops 6</a> is gearing up for an in-depth reveal and beta later this month, but leakers are already posting tons of game footage online. One of the latest leaks shows a potential new Warzone map, which is already creating some controversy due to the design.</p><p dir="ltr">As <a href="https://x.com/charlieINTEL/status/1819837521133760767">originally reported by CharlieIntel</a>, the leaked footage shows an island setting for a large-scale battle-royale map called Avalon. The video reveals that the map consists of a series of small islands. The islands are connected by bridges, but there is plenty of surrounding water that could potentially lead to a lot of swimming and water fights.</p><p dir="ltr">The video clip from CharlieIntel has been removed by a copyright strike, but the same video shared by <a href="https://www.reddit.com/r/CODWarzone/comments/1e
+
+## Snag 11 Jeff VanderMeer Books For $18 - Catch Up On Southern Reach Before Absolution Releases
+ - [https://www.gamespot.com/articles/jeff-vandermeer-absolution-southern-reach-annihilation-preorder-guide/1100-6525451/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/jeff-vandermeer-absolution-southern-reach-annihilation-preorder-guide/1100-6525451/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T15:24:00+00:00
+
+<div><div class="norewrite" title="6525451 - Jeff VanderMeer Absolution">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4343827-81kqxc0tecl._sl1500.jpg" />                                 <a href="https://www.amazon.com/Absolution-Southern-Reach-Novel/dp/0374616590?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/Absolution-Southern-Reach-Novel/dp/0374616590?tag=gamespot-preorders-20">Absolution: A
+
+## Xbox Game Pass Is Losing A Great Horror Game In August
+ - [https://www.gamespot.com/gallery/xbox-game-pass-is-losing-a-great-horror-game-in-august/2900-5664](https://www.gamespot.com/gallery/xbox-game-pass-is-losing-a-great-horror-game-in-august/2900-5664)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T14:38:00+00:00
+
+<p><h2>Goodbye!</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1646/16465123/4346103-image_2024-08-06_104233098.jpg" /><br /><h3><p>With every new game that gets added to Xbox Game Pass, older ones are removed. This is the circle of life. This month sees the <a href="https://www.gamespot.com/gallery/xbox-is-adding-a-former-playstation-mascot-to-game-pass-in-august/2900-5663/">addition of three new games</a>, but four are leaving on August 15. Remember that Game Pass subscribers can buy all of these titles for a 20% discount until they're removed from the service.</p><p>The big one leaving is the Texas Chainsaw Massacre, which is a third-person asymmetrical survival-horror game that plays similarly to Dead by Daylight. It pits players against each other as victims vs. members of the Slaughter family, and the victims must find a way to escape.</p><p>Shadow Warrior 3 is another big game leaving the service. This action-adventure and shooter game is the third main installmen
+
+## M. Night Shayamalan's New Movie Trap Is Already Available To Preorder On Blu-Ray
+ - [https://www.gamespot.com/articles/m-night-shayamalan-trap-4k-blu-ray-preorder-amazon/1100-6525542/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/m-night-shayamalan-trap-4k-blu-ray-preorder-amazon/1100-6525542/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T14:27:00+00:00
+
+<p>The latest M. Night Shyamalan film, Trap, hit theaters on August 2, and now it's officially available for <a href="https://www.amazon.com/dp/B0D9MKNQ7V?tag=gamespot-preorders-20">preorder at Amazon</a>. You'll find <a href="https://www.amazon.com/dp/B0D9MKNQ7V?tag=gamespot-preorders-20">4K Blu-ray</a>, <a href="https://www.amazon.com/Trap-Blu-ray-Digital-Josh-Hartnett/dp/B0D9MKD5WX?tag=gamespot-preorders-20">Blu-ray</a>, and <a href="https://www.amazon.com/Trap-Josh-Hartnett/dp/B0D83PQ581?tag=gamespot-preorders-20">digital</a> formats up for grabs, though an official release date has yet to be announced. However, preordering at Amazon is a wise choice if you know you'll add it to your home theater collection, as its preorder price guarantee ensures you get the lowest available price between the time you order and release.</p><div class="norewrite" title="6525542 - Trap Preorders">  <div class="buylink-container">                                                                     <
+
+## John Wick Blu-Ray Box Set Is Only $18 At Amazon, And Walmart's 4K Steelbook Set Is 50% Off
+ - [https://www.gamespot.com/articles/john-wick-blu-ray-box-set-is-only-18-at-amazon-and-walmarts-4k-steelbook-set-is-50-off/1100-6525554/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/john-wick-blu-ray-box-set-is-only-18-at-amazon-and-walmarts-4k-steelbook-set-is-50-off/1100-6525554/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T14:00:00+00:00
+
+<p>For a limited time, you can <a href="https://www.amazon.com/John-Wick-Chapter-1-4-Collection/dp/B0CBW6W763?tag=gamespot-promos-20">grab all four John Wick films on Blu-ray for only $18</a> at Amazon. The John Wick: Chapter 1-4 Collection has never been available for this cheap, so we'd expect it to sell out. Walmart also has a deal that slashes <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/John-Wick-Chapter-1-3-Stash-Book-Collection-Walmart-Exclusive-Steelbook-Box-Set-4K-Ultra-HD-Blu-Ray-Digital-Copy/6274302377&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/news/xbox-one/&amp;event_type=click">50% off its exclusive John Wick Stash Book 4K steelbook collection</a>, which received a reprinting last month.</p><div class="norewrite" title="6517189 - John Wick 4 Collection">  <div class="buylink-container">                             
+
+## Fall Guys Invades Fortnite's Battle Royale Modes
+ - [https://www.gamespot.com/articles/fall-guys-invades-fortnites-battle-royale-modes/1100-6525545/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fall-guys-invades-fortnites-battle-royale-modes/1100-6525545/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T13:44:00+00:00
+
+<p>It's been a long time coming, but <a href="https://www.gamespot.com/games/fall-guys/">Fall Guys</a> has finally arrived in <a href="https://www.gamespot.com/games/fortnite/">Fortnite</a>. The bean-based competition game begins its integration into the Fortnite ecosystem in several different ways--with Fortnite creative islands by Fall Guys developer Mediatonic, the ability for users to publish their own Fall Guys maps and, most importantly, an all-new Fall Guys-themed mini-game for battle royale and Zero Build.</p><p>Let's start with that. With this week's update, Fortnite battle royale will now host a Fall Guys mini-game that players can participate in by praising one of the statues of a Fall Guys bean person located around Classy Courts. Once you do, you'll be transformed into a bean person and made to play Fall Guys in an obstacle course in the sky. You'll have 120 seconds to complete it for loot--the faster you get it done, the better your loot will be. You can only complete it
+
+## Xbox Is Adding A Former PlayStation Mascot To Game Pass In August
+ - [https://www.gamespot.com/gallery/xbox-is-adding-a-former-playstation-mascot-to-game-pass-in-august/2900-5663](https://www.gamespot.com/gallery/xbox-is-adding-a-former-playstation-mascot-to-game-pass-in-august/2900-5663)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T13:39:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1646/16465123/4346087-image_2024-08-06_100107776.jpg" /><br /><h3><p>July closed out with some pretty strong games for <a href="https://www.gamespot.com/gallery/xbox-game-pass-is-closing-out-july-2024-with-five-more-games/2900-5605/">Xbox Game Pass</a>, including the (not so) surprise drop of <a href="https://www.gamespot.com/articles/call-of-duty-modern-warfare-3-comes-to-game-pass-this-week-report/1100-6525182/">Call of Duty: Modern Warfare 3</a> onto the service. With August in full swing, Game Pass has already gotten some new games, including Riot Games' <a href="https://www.gamespot.com/articles/valorant-is-now-available-to-play-on-console/1100-6525502/">Valorant</a>, but there are more coming.</p><p>The Crash Bandicoot N. Sane Trilogy is coming to Game Pass for cloud, console, and PC on August 8. This package includes Crash Bandicoot, Crash Bandicoot 2: Cortex Strikes Back, and Crash Bandicoot 3: Warped. Crash used to b
+
+## Black Myth: Wukong Development Is Done And Devs Ask Fans Not To Spoil The Game
+ - [https://www.gamespot.com/articles/black-myth-wukong-development-is-done-and-devs-ask-fans-not-to-spoil-the-game/1100-6525553/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/black-myth-wukong-development-is-done-and-devs-ask-fans-not-to-spoil-the-game/1100-6525553/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T13:13:00+00:00
+
+<p>Developer Game Science has <a href="https://x.com/BlackMythGame/status/1820649285450649680">confirmed</a> that development on Black Myth: Wukong has been completed and that the studio will release a new trailer later this week.</p><p>The trailer will be shared on August 8 at 10 AM Beijing time / August 7 at 10 PM Eastern. Game Science also asked fans not to spoil the game so that others can enjoy it on their own terms.</p><p>"Although we're incredibly eager to share every fun detail of the game with you, 'Black Myth: Wukong' is a single-player game with an original storyline and unique gameplay," Game Science said on Twitter. "Therefore, we kindly ask that in these last few days before the official release, you avoid spreading any text, images, or videos that might reveal unreleased content, as well as any 'leak information' from unofficial sources."</p><a href="https://www.gamespot.com/articles/black-myth-wukong-development-is-done-and-devs-ask-fans-not-to-spoil-the-game/1100-6525
+
+## The Lore of Borderlands Explained
+ - [https://www.gamespot.com/videos/the-lore-of-borderlands-explained/2300-6464740](https://www.gamespot.com/videos/the-lore-of-borderlands-explained/2300-6464740)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T13:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237490/4345599-bl_world_site.jpg" width="480" /> Whether you’re familiar and need a refresh or you’ve never touched a Borderlands game, we're going to tell you all about the key players and locations from Borderlands 1 with a little sprinkle of Borderlands 2.
+
+## How To Make A Fence In Minecraft
+ - [https://www.gamespot.com/articles/how-to-make-a-fence-in-minecraft/1100-6525128/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-make-a-fence-in-minecraft/1100-6525128/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T08:32:00+00:00
+
+<p> Aside from a basic front door, one of the best ways to protect your base or stop mobs from going anywhere is with a fence. The fence in <a href="https://www.gamespot.com/games/minecraft/">Minecraft </a>is quite powerful, as you can't hop over it while standing on the ground, unlike many other blocks. To see how to craft a fence and the best way to use it, read the guide below. </p><h2>Making a Fence in Minecraft </h2><p>A fence is an extremely simple item to make once you know the recipe, as it only requires two basic resources to craft. You can see the crafting recipe for a basic fence below:</p><ul><li>At a crafting table, place two Sticks in the middle and bottom middle boxes </li><li>Then, place four of the same wood Planks in the four boxes that border the Sticks</li></ul><figure style="width: 2560px;"><a href="https://www.gamespot.com/a/uploads/original/1745/17457013/4336440-minecraftscreenshot2024.07.18-17.28.23.23.png"><img alt="The crafting recipe for a fence in Minecraft
+
+## House Of The Dragon Season 2 4K Steelbook Preorders Are Live At Amazon
+ - [https://www.gamespot.com/articles/house-of-the-dragon-season-two-blu-ray-preorders-game-of-thrones/1100-6525539/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/house-of-the-dragon-season-two-blu-ray-preorders-game-of-thrones/1100-6525539/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T04:32:00+00:00
+
+<div class="norewrite" title="6525539 - House of the Dragon Season 2 preorders">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4345948-houseofthedragon4kblu-ray.png" />                                 <a href="https://www.amazon.com/dp/B0DBMXM8X5?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0DBMXM8X5?tag=gamespot-preorders-20">House of the Dragon Season 2 - 4K Blu-ray Steelbook Edition</a> 
+
+## Lego Advent Calendars 2024 - Preorder Star Wars, Spider-Man, Disney, And More At Amazon
+ - [https://www.gamespot.com/articles/lego-advent-calendars-2024-star-wars-spider-man-harry-potter-disney/1100-6525498/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lego-advent-calendars-2024-star-wars-spider-man-harry-potter-disney/1100-6525498/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-06T00:16:00+00:00
+
+<p>More than <a href="https://www.gamespot.com/gallery/lego-new-releases-august-2024-mario-star-wars-marvel-minecraft-batman/2900-5655/">100 (seriously) new Lego sets launched within the last week</a>, but amidst the chaos, the king of brick-building sets also revealed its slate of 2024 Advent Calendars. Releasing September 1, each <a href="https://www.amazon.com/stores/page/017EF856-965D-4B56-A171-EA61CAFF45DD/search?ingress=0&amp;visitId=1cb88bf5-e2b1-4689-b149-41764ba8bc9d&amp;terms=advent&amp;tag=gamespot-promos-20">Lego Advent Calendar for 2024</a> has its own them and 24 miniature builds, one for each day in the weeks leading up to Christmas. You can preorder Lego Advent Calendars themed around <a href="https://www.amazon.com/LEGO-Calendar-Building-Collectible-Christmas/dp/B0CV287MYQ?tag=gamespot-preorders-20">Star Wars</a>, <a href="https://www.amazon.com/LEGO-Spider-Man-Calendar-Seasonal-Buildable/dp/B0CV2FC2V1?tag=gamespot-preorders-20">Spider-Man</a>, <a href="https://www.am
+

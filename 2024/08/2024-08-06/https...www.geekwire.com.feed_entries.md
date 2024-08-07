@@ -1,0 +1,30 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## ‘It’s Twilight Zone’: Redfin CEO befuddled at housing market as sales stay slow despite lower rates
+ - [https://www.geekwire.com/2024/its-twilight-zone-redfin-ceo-befuddled-at-housing-market-as-sales-stay-slow-despite-lower-rates](https://www.geekwire.com/2024/its-twilight-zone-redfin-ceo-befuddled-at-housing-market-as-sales-stay-slow-despite-lower-rates)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-06T22:00:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://cdn.geekwire.com/wp-content/uploads/2020/03/redfin-1260x709.jpg" width="1260" /><br />It&#8217;s not often that the phrases &#8220;urine&#8221; and &#8220;blood&#8221; make it on to a public company&#8217;s earnings call with analysts. But that&#8217;s what you get with Glenn Kelman. The longtime Redfin CEO, known for his colorful housing market commentary on earnings calls, was at it again on Tuesday after the Seattle company reported its second quarter financial results. Redfin&#8217;s revenue came in at $295.2 million, up 7% year-over-year, while net losses were $27.9 million, slightly higher than the year-ago period. The results beat estimates, but Redfin stock was down more than 4% in after-hours trading. Mortgage rates were a hot&#8230; <a href="https://www.geekwire.com/2024/its-twilight-zone-redfin-ceo-befuddled-at-housing-market-as-sales-stay-slow-despite-lower-rates/">Read More</a>
+
+## Seattle digital remittance company Remitly opening new office in Vancouver, B.C., area
+ - [https://www.geekwire.com/2024/seattle-digital-remittance-company-remitly-opening-new-office-in-vancouver-b-c-area](https://www.geekwire.com/2024/seattle-digital-remittance-company-remitly-opening-new-office-in-vancouver-b-c-area)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-06T17:26:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/Remitly-New-Westminster-Office-1260x945.jpg" width="1260" /><br />Seattle-based digital remittance company Remitly is expanding its office-space footprint to the Greater Vancouver, B.C., area, the company announced Tuesday. The location in New Westminster, B.C., is the first in Canada for the 13-year-old company. Remitly said the 3,600-square-foot office will support up to 35 employees with a focus on product development &#8220;across several priority areas for the business.&#8221; At least 10 job openings on the Remitly site are for a variety of engineering roles. In June, Remitly confirmed that it had secured space at the Rainier Square Tower in downtown Seattle, with plans to relocate next year from its&#8230; <a href="https://www.geekwire.com/2024/seattle-digital-remittance-company-remitly-opening-new-office-in-vancouver-b-c-area/">Read More</a>
+
+## Industrial analytics startup Seeq lands $50M to continue its growth
+ - [https://www.geekwire.com/2024/industrial-analytics-startup-seeq-lands-50m-to-continue-its-growth](https://www.geekwire.com/2024/industrial-analytics-startup-seeq-lands-50m-to-continue-its-growth)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-06T16:59:34+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="300" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/1-Lisa-Graham.jpg" width="300" /><br />Seattle industrial analytics startup Seeq announced on Tuesday that it has landed $50 million in new funding. The company has raised a total of approximately $165 million from investors to date. Using analytics, artificial intelligence and monitoring, Seeq provides data that helps industrial businesses optimize operations. Seeq&#8217;s customers span 36 countries in sectors including energy, pharmaceuticals, specialty chemicals, materials, mining and utilities. Steve Sliwa launched Seeq in 2012 after he sold unmanned aircraft maker Insitu to Boeing for a reported purchase price of $400 million. Sliwa was CEO until 2021, when Lisa Graham moved from chief operating officer to the&#8230; <a href="https://www.geekwire.com/2024/industrial-analytics-startup-seeq-lands-50m-to-continue-its-growth/">Read More</a>
+
+## First Mode files notice to lay off 65 workers at clean-tech facilities in Washington state
+ - [https://www.geekwire.com/2024/first-mode-files-layoff-notice-washington](https://www.geekwire.com/2024/first-mode-files-layoff-notice-washington)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-06T01:11:59+00:00
+
+<img alt="First Mode factory opening" class="webfeedsFeaturedVisual wp-post-image" height="788" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/240805-firstmode-1260x788.jpg" width="1260" /><br />Seattle-based First Mode is reporting that 65 of its workers in Washington state are being laid off in a move that follows through on a previously announced plan to trim back operations at the clean-tech company. The layoffs were cited in a notice filed today with the state&#8217;s Employment Security Department. The reported job reductions represent nearly 40% of First Mode&#8217;s Washington state workforce in Seattle and Centralia. First Mode produces powertrain conversion kits that are designed to reduce carbon emissions for mining trucks and other heavyweight vehicles, potentially including railway locomotives. Back in January, the company said that it&#8230; <a href="https://www.geekwire.com/2024/first-mode-files-layoff-notice-washington/">Read More</a>
+
