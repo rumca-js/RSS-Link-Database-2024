@@ -1,0 +1,303 @@
+# Source:boardgames, URL:https://www.reddit.com/r/boardgames/.rss, language:en
+
+## Best X and write game with player interaction
+ - [https://www.reddit.com/r/boardgames/comments/1empkz8/best_x_and_write_game_with_player_interaction](https://www.reddit.com/r/boardgames/comments/1empkz8/best_x_and_write_game_with_player_interaction)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T22:36:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>Is there any great x and write game with good amount of player interaction? I kinda like the monster ambush in Cartographers, but I am not sure it is enough. I still want something that is a complex puzzle, but I don't want to sit silently next to my partner filling spreadsheets. Also the less luck involved, the better. </p> <p>Any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/viiktor22"> /u/viiktor22 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1empkz8/best_x_and_write_game_with_player_interaction/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1empkz8/best_x_and_write_game_with_player_interaction/">[comments]</a></span>
+
+## Which TTR version should I buy for 3 players?
+ - [https://www.reddit.com/r/boardgames/comments/1emo0wc/which_ttr_version_should_i_buy_for_3_players](https://www.reddit.com/r/boardgames/comments/1emo0wc/which_ttr_version_should_i_buy_for_3_players)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T21:32:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>My 10 year old brothers birthday is coming up and I want to buy him a new board game. He loves playing games which require strategy. His favourites are Cluedo and Catan. </p> <p>We’ve never played Train to Ride before so I want to know what the best version is for 3 players from the following options:</p> <ul> <li>TTR US</li> <li>TTR London</li> <li>TTR Europe</li> <li>TTR Nordic</li> <li>TTR Rails &amp; Sails </li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PlatypusAdmirable335"> /u/PlatypusAdmirable335 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emo0wc/which_ttr_version_should_i_buy_for_3_players/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emo0wc/which_ttr_version_should_i_buy_for_3_players/">[comments]</a></span>
+
+## Painted and Organized Star Wars Rebellion
+ - [https://www.reddit.com/r/boardgames/comments/1emns59/painted_and_organized_star_wars_rebellion](https://www.reddit.com/r/boardgames/comments/1emns59/painted_and_organized_star_wars_rebellion)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T21:22:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1emns59/painted_and_organized_star_wars_rebellion/"> <img alt="Painted and Organized Star Wars Rebellion " src="https://b.thumbs.redditmedia.com/VBRIuEOB_NoEntLyuoit_yPncm6dq39y3w-4-UC7bOQ.jpg" title="Painted and Organized Star Wars Rebellion " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I completed my first ever miniatures painting project last week. Pretty happy with the way they turned out considering I had no clue how to paint going into it. I also got some Plano boxes for storing the miniatures for each side and another for neutral pieces. Setup and gameplay is so much quicker and more enjoyable now. If you’re looking for a fun way to spend many evenings(lost track of how much time it took haha) and you love the game like I do, I’d highly recommend giving the painting hobby a try. Tips and feedback on future projects would be awesome(I primed Mansions of Madness + expansions last night).</p> </div><!--
+
+## Dinogenics
+ - [https://www.reddit.com/r/boardgames/comments/1emnq6e/dinogenics](https://www.reddit.com/r/boardgames/comments/1emnq6e/dinogenics)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T21:20:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to separate my copy of Dinogenics from the expansion. Is there a list or an easy way to separate the cards that belong to the expansion from the base game cards?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Schwa4aa"> /u/Schwa4aa </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emnq6e/dinogenics/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emnq6e/dinogenics/">[comments]</a></span>
+
+## Can anyone tell me the name of the game this part comes from?
+ - [https://www.reddit.com/r/boardgames/comments/1emnp2j/can_anyone_tell_me_the_name_of_the_game_this_part](https://www.reddit.com/r/boardgames/comments/1emnp2j/can_anyone_tell_me_the_name_of_the_game_this_part)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T21:18:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1emnp2j/can_anyone_tell_me_the_name_of_the_game_this_part/"> <img alt="Can anyone tell me the name of the game this part comes from?" src="https://preview.redd.it/ay23clsg6bhd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b88f627727efe33814ee50b35ee21ba925cdb1f0" title="Can anyone tell me the name of the game this part comes from?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Only_Professor8857"> /u/Only_Professor8857 </a> <br /> <span><a href="https://i.redd.it/ay23clsg6bhd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emnp2j/can_anyone_tell_me_the_name_of_the_game_this_part/">[comments]</a></span> </td></tr></table>
+
+## What dominoes game is most reliant on skill? What dominoes game is most reliant on luck?
+ - [https://www.reddit.com/r/boardgames/comments/1emmedv/what_dominoes_game_is_most_reliant_on_skill_what](https://www.reddit.com/r/boardgames/comments/1emmedv/what_dominoes_game_is_most_reliant_on_skill_what)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T20:26:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Oh, let’s add to it…. What game is the perfect blend of each?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aggressive_Opossum"> /u/Aggressive_Opossum </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emmedv/what_dominoes_game_is_most_reliant_on_skill_what/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emmedv/what_dominoes_game_is_most_reliant_on_skill_what/">[comments]</a></span>
+
+## Games with the best Scorepads?
+ - [https://www.reddit.com/r/boardgames/comments/1emm7cp/games_with_the_best_scorepads](https://www.reddit.com/r/boardgames/comments/1emm7cp/games_with_the_best_scorepads)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T20:18:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>There’s games like <strong>Scrabble</strong> with generic score sheets and games like <strong>Yahtzee</strong> with very specific scorepads and games like <strong>Clue</strong> with very thematic scorepads and games like <strong>Fantasy Realms</strong> with very utilitarian scorepads. . .</p> <p>I’m not specifically including <strong>Roll and Write</strong> games but I’m not <strong><em>excluding</em></strong> them either.</p> <p><strong>What’s your favorite game scorepad</strong> (<em>not favorite</em> <strong>game</strong> <em>with a scorepad</em>) <strong>and why?</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/infinitum3d"> /u/infinitum3d </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emm7cp/games_with_the_best_scorepads/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emm7cp/games_with_the_best_scorepads/">[comments]</a></span>
+
+## How many games does a “complete” collection “need?”
+ - [https://www.reddit.com/r/boardgames/comments/1emlcby/how_many_games_does_a_complete_collection_need](https://www.reddit.com/r/boardgames/comments/1emlcby/how_many_games_does_a_complete_collection_need)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T19:44:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have limited myself to 60 games total. Always. If I want a game, I have to get rid of another first. This number feels pretty good for me. It allows me to have a wide variety of games and multiple games in similar genres I really like without it feeling like an overwhelming amount of games.</p> <p>What categories of game do y'all think are needed to make your collection feel complete?</p> <p>This is by no means a comprehensive list, but mine would be something like: A heavy coop, a lighter coop, a dungeon crawl, an engine builder, a gateway game, a heavy 2 player game, a light 2 player game, an auction game, a negotiation game, an area control game, a solid euro game, a fun dice chucker, a dexterity game, a party game, a racing game, etc.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AleksO369"> /u/AleksO369 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emlcby/how_many_games_does_a_
+
+## Sorry Card Revenge electronic version
+ - [https://www.reddit.com/r/boardgames/comments/1eml7ux/sorry_card_revenge_electronic_version](https://www.reddit.com/r/boardgames/comments/1eml7ux/sorry_card_revenge_electronic_version)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T19:39:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>In Sorry Card Revenge can I put a slide with a slide? Let's say I'm sliding a green cards, can I add a second green slide card to the set I put down? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlexTheEditor1"> /u/AlexTheEditor1 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1eml7ux/sorry_card_revenge_electronic_version/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1eml7ux/sorry_card_revenge_electronic_version/">[comments]</a></span>
+
+## When you get to the beginning of a long straight, and your hand looks like this 🥲
+ - [https://www.reddit.com/r/boardgames/comments/1eml1pr/when_you_get_to_the_beginning_of_a_long_straight](https://www.reddit.com/r/boardgames/comments/1eml1pr/when_you_get_to_the_beginning_of_a_long_straight)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T19:32:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1eml1pr/when_you_get_to_the_beginning_of_a_long_straight/"> <img alt="When you get to the beginning of a long straight, and your hand looks like this 🥲" src="https://a.thumbs.redditmedia.com/DbYQPcaOFPAXmtwKf_AdYEmSQNaZrnlqAsNsWo_tMP4.jpg" title="When you get to the beginning of a long straight, and your hand looks like this 🥲" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Youkai280"> /u/Youkai280 </a> <br /> <span><a href="https://www.reddit.com/gallery/1eml1pr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1eml1pr/when_you_get_to_the_beginning_of_a_long_straight/">[comments]</a></span> </td></tr></table>
+
+## Game about composing music?
+ - [https://www.reddit.com/r/boardgames/comments/1emkych/game_about_composing_music](https://www.reddit.com/r/boardgames/comments/1emkych/game_about_composing_music)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T19:28:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I could have sworn about 2 years ago there was a game all about composing music (like notes on a staff.) Anyone know what game this might be? Perhaps it doesn't exist and I'm just misremembering, because I can't find it on Google when I search for it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pappajay2001"> /u/pappajay2001 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emkych/game_about_composing_music/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emkych/game_about_composing_music/">[comments]</a></span>
+
+## How often do you buy games or expansions?
+ - [https://www.reddit.com/r/boardgames/comments/1emktb1/how_often_do_you_buy_games_or_expansions](https://www.reddit.com/r/boardgames/comments/1emktb1/how_often_do_you_buy_games_or_expansions)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T19:22:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I often make a promise to my gf that I won't buy any more games or expansions for a certain time like a couple of weeks or a month. Then fast forward to me a week later just looking at all the games that we could have and am just dying to get. After a couple of days I can't stop myself and just get whatever I wanted. Then I'm happy, promise I won't get anything for a while and the cycle continues. Sometimes my gf manages to convince me to wait with my purchase so it's not that bad yet, I guess I get something every 3 weeks.</p> <p>What about you guys and girls? You also suffering from this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LeonQuin"> /u/LeonQuin </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emktb1/how_often_do_you_buy_games_or_expansions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emktb1/how_often_do_you_buy_games_or_expansions/"
+
+## Beach games
+ - [https://www.reddit.com/r/boardgames/comments/1emj94m/beach_games](https://www.reddit.com/r/boardgames/comments/1emj94m/beach_games)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T18:21:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m going to the beach for a couple weeks so I swung by the library and grabbed a few thematically appropriate games to play in the evening:</p> <p>• Ahoy!</p> <p>• Sea Salt &amp; Paper</p> <p>• Beacon Patrol</p> <p>How’d I do? The other potential players include 7, 9, and 41 year old kids. Any thoughts on them?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Neckbreaker70"> /u/Neckbreaker70 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emj94m/beach_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emj94m/beach_games/">[comments]</a></span>
+
+## For those who played multiple versions of Ticket to Ride - what makes a map balanced in your experience?
+ - [https://www.reddit.com/r/boardgames/comments/1emiolc/for_those_who_played_multiple_versions_of_ticket](https://www.reddit.com/r/boardgames/comments/1emiolc/for_those_who_played_multiple_versions_of_ticket)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T17:59:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to make a custom map as a present and while I made quite a big progress I’m afraid it might be misbalanced in its core. However, I played only in Europe version, so please share your own experience.</p> <p>Also, right now I’m working with design of it, and I need references but I don’t have a game at my place. So if you can, please, send me images of Ticket to Ride close-up boards and their elements, including score counter (preferably Europe version)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Storsjoodjuret"> /u/Storsjoodjuret </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emiolc/for_those_who_played_multiple_versions_of_ticket/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emiolc/for_those_who_played_multiple_versions_of_ticket/">[comments]</a></span>
+
+## UNO junior success
+ - [https://www.reddit.com/r/boardgames/comments/1emhwy6/uno_junior_success](https://www.reddit.com/r/boardgames/comments/1emhwy6/uno_junior_success)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T17:30:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Taught little (4) to play uno junior Paw patrol just now. Little’s picked it up so quickly. I’ve also been able to start teaching a bit of tactics and teaching how to deal the cards. Games are so versatile for teaching so many different skills, not just how to play the game. It’s so cute to see. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/History_fangirl"> /u/History_fangirl </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emhwy6/uno_junior_success/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emhwy6/uno_junior_success/">[comments]</a></span>
+
+## Piece ID
+ - [https://www.reddit.com/r/boardgames/comments/1emhtdy/piece_id](https://www.reddit.com/r/boardgames/comments/1emhtdy/piece_id)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T17:26:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1emhtdy/piece_id/"> <img alt="Piece ID" src="https://preview.redd.it/foeyxvhy0ahd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d52a7430e86748af7474ebc1b08874ea03a7630" title="Piece ID" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>What game is this from? Thank you. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blouz"> /u/Blouz </a> <br /> <span><a href="https://i.redd.it/foeyxvhy0ahd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emhtdy/piece_id/">[comments]</a></span> </td></tr></table>
+
+## After months of hard work I've decided to post my print and play for my piratical map-building strategy game Isles of Odd to the public! Would anyone here be willing to help playtest it? (link in comments)
+ - [https://www.reddit.com/r/boardgames/comments/1emhpml/after_months_of_hard_work_ive_decided_to_post_my](https://www.reddit.com/r/boardgames/comments/1emhpml/after_months_of_hard_work_ive_decided_to_post_my)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T17:21:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1emhpml/after_months_of_hard_work_ive_decided_to_post_my/"> <img alt="After months of hard work I've decided to post my print and play for my piratical map-building strategy game Isles of Odd to the public! Would anyone here be willing to help playtest it? (link in comments)" src="https://a.thumbs.redditmedia.com/IQu8AVdwiSfoZPIFNhw_MN2V_TXVddNzifOQvfJFwy4.jpg" title="After months of hard work I've decided to post my print and play for my piratical map-building strategy game Isles of Odd to the public! Would anyone here be willing to help playtest it? (link in comments)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nerfslays"> /u/nerfslays </a> <br /> <span><a href="https://www.reddit.com/gallery/1emhpml">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emhpml/after_months_of_hard_work_ive_decided_to_post_my/">[comments]</a></span> </td></tr></t
+
+## Is anyone else done buying board games and happy with the collection they have?
+ - [https://www.reddit.com/r/boardgames/comments/1emgoxy/is_anyone_else_done_buying_board_games_and_happy](https://www.reddit.com/r/boardgames/comments/1emgoxy/is_anyone_else_done_buying_board_games_and_happy)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T16:42:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I watch some of the board game content creators and the new stuff coming out, it just doesnt seen very interesting to me anymore. I have about 50 games and I think I'm happy with the games I have and don't need to add any more. Does anyone else feel that way too?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FattyMcFattso"> /u/FattyMcFattso </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emgoxy/is_anyone_else_done_buying_board_games_and_happy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emgoxy/is_anyone_else_done_buying_board_games_and_happy/">[comments]</a></span>
+
+## Apart from dominoes and a standard deck of playing cards, are there any games where you buy one set, and can play many different games?
+ - [https://www.reddit.com/r/boardgames/comments/1emeyes/apart_from_dominoes_and_a_standard_deck_of](https://www.reddit.com/r/boardgames/comments/1emeyes/apart_from_dominoes_and_a_standard_deck_of)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T15:35:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m thinking in particular of more modern games, do any of them allow you to play many different games like you can if you have a set of playing cards or a set of dominoes? Most seem to be that if you want to play other games, it involves buying an expansion and then it is a very similar game to the original. </p> <p>The only other example I could think of was darts, you can play many different games with a dartboard and a set of darts.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cuberootsgame"> /u/cuberootsgame </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emeyes/apart_from_dominoes_and_a_standard_deck_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emeyes/apart_from_dominoes_and_a_standard_deck_of/">[comments]</a></span>
+
+## Console Wars: The Card Game (now on KS)
+ - [https://www.reddit.com/r/boardgames/comments/1eme4rw/console_wars_the_card_game_now_on_ks](https://www.reddit.com/r/boardgames/comments/1eme4rw/console_wars_the_card_game_now_on_ks)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T15:04:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Seen this one on Resetera:</p> <p><a href="https://www.kickstarter.com/projects/xboxera/console-wars-the-card-game">https://www.kickstarter.com/projects/xboxera/console-wars-the-card-game</a></p> <p>It basically seems a medium-light card game based on the console wars, with players being platform holders (like Sony, Nintendo, etc...) &quot;battling&quot; to gather game exclusives.</p> <p>Absolutely NO official licenses, yet it is nice to see the various fake games they added, like Boulder's Gate, Alan Woke and Barrio Bros, each with their own logo.</p> <p>It contains a bit of &quot;take that!&quot; element that I personally do not appreciate (action cards that allow to steal things from other players) but overall it seems a nice card game for videogame lovers.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Castef76"> /u/Castef76 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1eme4rw/cons
+
+## Thoughts on Scythe??
+ - [https://www.reddit.com/r/boardgames/comments/1emdx48/thoughts_on_scythe](https://www.reddit.com/r/boardgames/comments/1emdx48/thoughts_on_scythe)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T14:56:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Me and my buddies absolutely love Catan. It’s our go to game most weekends. I can tell some people on our group are getting sick of playing it every weekend tho so we’ve dipped our toes into different games but nothings hit as nice as Catan. Could Scythe be a good Catan sub? Why or why not?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Basment-Fridge"> /u/Basment-Fridge </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emdx48/thoughts_on_scythe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emdx48/thoughts_on_scythe/">[comments]</a></span>
+
+## New Go stones, sustainable and handmade, where?
+ - [https://www.reddit.com/r/boardgames/comments/1emczc8/new_go_stones_sustainable_and_handmade_where](https://www.reddit.com/r/boardgames/comments/1emczc8/new_go_stones_sustainable_and_handmade_where)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T14:17:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm looking for Go stokene, hand made from a durable and natural, renewable material (no shells from extinct or red listed bivalves used please). Size 35-42 I think. I'm not sure what colors I want yet. Does anyone have any recommendations for where to look for them? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Collection-4886"> /u/No-Collection-4886 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emczc8/new_go_stones_sustainable_and_handmade_where/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emczc8/new_go_stones_sustainable_and_handmade_where/">[comments]</a></span>
+
+## [COMC] - My collection in our new games nook
+ - [https://www.reddit.com/r/boardgames/comments/1emctan/comc_my_collection_in_our_new_games_nook](https://www.reddit.com/r/boardgames/comments/1emctan/comc_my_collection_in_our_new_games_nook)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T14:11:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1emctan/comc_my_collection_in_our_new_games_nook/"> <img alt="[COMC] - My collection in our new games nook" src="https://b.thumbs.redditmedia.com/6aM_HnQeosiKpcfdcThdYRbaQ1doC-xVS4xA7ugq4Rk.jpg" title="[COMC] - My collection in our new games nook" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Check out my collection in our new games nook! I've enjoyed playing board games and card games ever since I can remember.</p> <p>My first board game was <strong>Chess</strong> and I then played games like <strong>Monopoly</strong>, <strong>Risk</strong>, <strong>Cluedo</strong>, <strong>Scrabble</strong>, and <strong>Scotland Yard</strong>. My cousin introduced me to his <strong>Talisman (2nd Edition)</strong> set up and from there I started my collection. As well as the commercial stuff visible I've also got sets of <strong>Bagh Chal</strong>, <strong>Chess</strong>, <strong>Nine Man Morris</strong>, <strong>Dominoes</s
+
+## Is Chess a War Game?
+ - [https://www.reddit.com/r/boardgames/comments/1emcrry/is_chess_a_war_game](https://www.reddit.com/r/boardgames/comments/1emcrry/is_chess_a_war_game)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T14:09:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm wondering specifically what do you call a game that's all about capturing pieces and moving throughout a tiled board. War games seems right but I don't think checkers and chess are part of it, and calling it strategy seems too vague. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nerfslays"> /u/nerfslays </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emcrry/is_chess_a_war_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emcrry/is_chess_a_war_game/">[comments]</a></span>
+
+## Circadians Chaos Order - League
+ - [https://www.reddit.com/r/boardgames/comments/1emc9sc/circadians_chaos_order_league](https://www.reddit.com/r/boardgames/comments/1emc9sc/circadians_chaos_order_league)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T13:48:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone have free time on a weekend and would like to play in a Chaos Order League? Would be played at 2 games a month. Looking to create leagues in different timezones.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fantastic-Vanilla-22"> /u/Fantastic-Vanilla-22 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1emc9sc/circadians_chaos_order_league/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1emc9sc/circadians_chaos_order_league/">[comments]</a></span>
+
+## "People have spent 20 hours solving" City of Six Moons, the board game you must learn an alien language to play (designed by Amabel Holland)
+ - [https://www.reddit.com/r/boardgames/comments/1embyw7/people_have_spent_20_hours_solving_city_of_six](https://www.reddit.com/r/boardgames/comments/1embyw7/people_have_spent_20_hours_solving_city_of_six)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T13:35:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1embyw7/people_have_spent_20_hours_solving_city_of_six/"> <img alt="&quot;People have spent 20 hours solving&quot; City of Six Moons, the board game you must learn an alien language to play (designed by Amabel Holland)" src="https://external-preview.redd.it/8go4OWlsmIDhsTxx-Epw-GfDecfzUKxdlQU-rDtUufI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd9c06dc402cdb39efab823e9822fa3a95b147ec" title="&quot;People have spent 20 hours solving&quot; City of Six Moons, the board game you must learn an alien language to play (designed by Amabel Holland)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/moo422"> /u/moo422 </a> <br /> <span><a href="https://www.gamesradar.com/tabletop-gaming/people-have-spent-20-hours-solving-city-of-six-moons-the-board-game-you-must-learn-an-alien-language-to-play/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1embyw7/peop
+
+## Mystery Game for Halloween Party
+ - [https://www.reddit.com/r/boardgames/comments/1ema5kb/mystery_game_for_halloween_party](https://www.reddit.com/r/boardgames/comments/1ema5kb/mystery_game_for_halloween_party)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T12:11:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! I’ve been looking for a “solve a mystery” box online (like the Hunt A Killer ones) for a family Halloween party this October. Can anyone suggest a game for:</p> <p>• A collaborative, table-top game we can unpack and try to solve • We don’t want the theme to be too dark or mature for elementary-age kids • Ideal themes: burglary, conspiracy, jewel thief, cryptid, aliens, haunted house, etc.</p> <p>All of the options I’m seeing are unavailable/not sold anymore or they’re about a murder. TIA!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/okmurphy"> /u/okmurphy </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ema5kb/mystery_game_for_halloween_party/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ema5kb/mystery_game_for_halloween_party/">[comments]</a></span>
+
+## How to have fun - Robinson Crusoe
+ - [https://www.reddit.com/r/boardgames/comments/1em9n4g/how_to_have_fun_robinson_crusoe](https://www.reddit.com/r/boardgames/comments/1em9n4g/how_to_have_fun_robinson_crusoe)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T11:45:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I got this game and i wantes to try it for a long time. I am a big fan of Spirit Island and i play games solo frequently, i also like adventure styles of game.</p> <p>So i went trough all tutorial campaignes, but i just dont feel the fun, i dont know. I get that it is hard, i dont mind that, it is just i dont know where to start. There are so many options and i just get lost.</p> <p>So is there a general strategy that i could follow to learn a bit and to learn to have fun with the game :) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SusScrofa95"> /u/SusScrofa95 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em9n4g/how_to_have_fun_robinson_crusoe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em9n4g/how_to_have_fun_robinson_crusoe/">[comments]</a></span>
+
+## [UBISOFT UNO] Stacking normal cards rule?
+ - [https://www.reddit.com/r/boardgames/comments/1em94uz/ubisoft_uno_stacking_normal_cards_rule](https://www.reddit.com/r/boardgames/comments/1em94uz/ubisoft_uno_stacking_normal_cards_rule)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T11:17:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Starting to think we only play this rule in my country, cause nobody in the internet seems to know about it so far.</p> <p>Basically if you have x number of cards of the same number that matches the number on the last card placed, you can stack them on the same turn. Example: you have a yellow 2, a green 2 and a blue 2. The last card is a red 2. You can then choose to place all those 2s in your turn. Also works with +2 and +4, very chaotic.</p> <p>Did you know this rule? And do you know if its possible to use it in the UBISOFT UNO game?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Excuse_My_Name"> /u/Excuse_My_Name </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em94uz/ubisoft_uno_stacking_normal_cards_rule/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em94uz/ubisoft_uno_stacking_normal_cards_rule/">[comments]</a></span>
+
+## Dune: Uprising - expansions?
+ - [https://www.reddit.com/r/boardgames/comments/1em80uj/dune_uprising_expansions](https://www.reddit.com/r/boardgames/comments/1em80uj/dune_uprising_expansions)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T10:09:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey!</p> <p>Planning to buy Uprising for my girlfriend's birthday since she loves Dune: Imperium. We mostly played that with Rise of Ix. </p> <p>Are there any expansions I should consider? What were your experiences? </p> <p>(edit: We don't own anything yet - we only played with our friends' kits.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Most-Development3597"> /u/Most-Development3597 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em80uj/dune_uprising_expansions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em80uj/dune_uprising_expansions/">[comments]</a></span>
+
+## Coop game advise
+ - [https://www.reddit.com/r/boardgames/comments/1em7bn7/coop_game_advise](https://www.reddit.com/r/boardgames/comments/1em7bn7/coop_game_advise)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T09:22:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>My SO and I are looking to expand our game collection. We are looking for coop games that work well with two players. Furthermore, the game should not allow a single player to play for two. So that excludes games like Pandemic, where you only really need one player because everyone has the exact same information. It includes games like The Crew, which only works because not all players have the same information.</p> <p>What are some good games that satisfy these conditions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SnooApples5511"> /u/SnooApples5511 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em7bn7/coop_game_advise/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em7bn7/coop_game_advise/">[comments]</a></span>
+
+## Boardgames where you run a shop
+ - [https://www.reddit.com/r/boardgames/comments/1em70xo/boardgames_where_you_run_a_shop](https://www.reddit.com/r/boardgames/comments/1em70xo/boardgames_where_you_run_a_shop)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T09:02:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Been playing few videogames where you run a shop. And now I was wondering if there are any fun boardgames where you run a shop or tavern. Prefer medium to long games</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scuderia1"> /u/Scuderia1 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em70xo/boardgames_where_you_run_a_shop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em70xo/boardgames_where_you_run_a_shop/">[comments]</a></span>
+
+## Created my own boardgame in TTS, should I license it before uploading it to workshop?
+ - [https://www.reddit.com/r/boardgames/comments/1em3g0l/created_my_own_boardgame_in_tts_should_i_license](https://www.reddit.com/r/boardgames/comments/1em3g0l/created_my_own_boardgame_in_tts_should_i_license)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T05:06:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>(TTS = tabletop simulator, the steam game)</p> <p>Not really thinking about selling it (or at least right now) but I want to play it with friends over the internet so I have to upload it to workshop yet I'd be heartbroken if someone claims they've made it or if someone licenses the game on their name</p> <p>Does anyone have any clue as to how to license a game? how hard is it? would you recommend I license it before uploading to the workshop? also any related experiences are highly appreciated, I have 0 clue about the boardgame scene</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IronH3eavenZ"> /u/IronH3eavenZ </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em3g0l/created_my_own_boardgame_in_tts_should_i_license/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em3g0l/created_my_own_boardgame_in_tts_should_i_license/">[comments]</a></span>
+
+## Daily Game Recommendations Thread (August 07, 2024)
+ - [https://www.reddit.com/r/boardgames/comments/1em3czi/daily_game_recommendations_thread_august_07_2024](https://www.reddit.com/r/boardgames/comments/1em3czi/daily_game_recommendations_thread_august_07_2024)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T05:01:08+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Welcome to <a href="/r/boardgames">/r/boardgames</a>'s Daily Game Recommendations</strong></p> <p>This is a place where you can ask any and all questions relating to the board gaming world including but not limited to<a href="https://en.wiktionary.org/wiki/meeple#/media/File:Carcassonne_Miples.jpg">:</a></p> <ul> <li>general or specific game recommendations</li> <li>help identifying a game or game piece</li> <li>advice regarding situation limited to you (e.g, questions about a specific FLGS)</li> <li>rule clarifications</li> <li>and other quick questions that might not warrant their own post</li> </ul> <h2>Asking for Recommendations</h2> <p>You're much more likely to get good and personalized recommendations if you take the time to format a well-written ask. We <strong>highly recommend</strong> using <a href="/r/boardgames/wiki/personalized-game-recommendation-template-no-explainer">this template</a> as a guide. <a href="/r/boardgames/wiki/per
+
+## One-Player Wednesday - (August 07, 2024)
+ - [https://www.reddit.com/r/boardgames/comments/1em3c6o/oneplayer_wednesday_august_07_2024](https://www.reddit.com/r/boardgames/comments/1em3c6o/oneplayer_wednesday_august_07_2024)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T05:00:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>What are your favourites when you're playing solo? Are there any unofficial solo-variants that you really enjoyed? What are you looking forward to play solo? Here's the place for everything related to solo games!</p> <p>And if you want even more solo-related content, don't forget to visit the <a href="https://boardgamegeek.com/guild/1303">1 Player Guild</a> on BGG</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em3c6o/oneplayer_wednesday_august_07_2024/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em3c6o/oneplayer_wednesday_august_07_2024/">[comments]</a></span>
+
+## Anyone tried the new Clank! digital game on Steam?
+ - [https://www.reddit.com/r/boardgames/comments/1em2fds/anyone_tried_the_new_clank_digital_game_on_steam](https://www.reddit.com/r/boardgames/comments/1em2fds/anyone_tried_the_new_clank_digital_game_on_steam)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T04:08:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just saw that Clank! was recently released on steam and it looks super cool! I do have a few questions though, for those that have already bought and tried it out so far.</p> <p>1) Are there all/any expansions included? If not, do they have any other variety added in that the tabletop version otherwise lacks?</p> <p>2) I noticed there’s not remote play available. Would each of my friends have to buy the game in order to play it remotely? This may be a dumb question, but I probably won’t buy it unless we can easily (and cheaply) play remotely with each other.</p> <p>3) I read something somewhere about solo play? How is that? Overall, is the game worth the money?</p> <p>Feel free to answer any or all of these questions. Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChiefKeith1"> /u/ChiefKeith1 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em2fds/anyone_tried_the_new
+
+## Military Aviation Board Game?
+ - [https://www.reddit.com/r/boardgames/comments/1em2az1/military_aviation_board_game](https://www.reddit.com/r/boardgames/comments/1em2az1/military_aviation_board_game)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T04:01:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Back when I was a kid I remember having a game that was based on jet fighter combat . The board was composed of diamond-like shapes and the pieces for one side were MiG-25s. The planes were held up I believe by small plastic stands whose bases fit on the diamonds. </p> <p>Does anyone remember this game? What was it called?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jeff_sharon"> /u/jeff_sharon </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em2az1/military_aviation_board_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em2az1/military_aviation_board_game/">[comments]</a></span>
+
+## Board Game Recs
+ - [https://www.reddit.com/r/boardgames/comments/1em1a9t/board_game_recs](https://www.reddit.com/r/boardgames/comments/1em1a9t/board_game_recs)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T03:08:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for some board game recommendations my husband loves board games like Dune Imperium, Scythe, and Root. I want to find him something similar he will like. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RightMeowMix"> /u/RightMeowMix </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em1a9t/board_game_recs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em1a9t/board_game_recs/">[comments]</a></span>
+
+## Anything similar to tetrachia? My local store doesnt have it
+ - [https://www.reddit.com/r/boardgames/comments/1em0ges/anything_similar_to_tetrachia_my_local_store](https://www.reddit.com/r/boardgames/comments/1em0ges/anything_similar_to_tetrachia_my_local_store)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T02:27:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sheepy_Dream"> /u/Sheepy_Dream </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1em0ges/anything_similar_to_tetrachia_my_local_store/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1em0ges/anything_similar_to_tetrachia_my_local_store/">[comments]</a></span>
+
+## New Tabletop Game - Havoc: Gen Zero
+ - [https://www.reddit.com/r/boardgames/comments/1elyrwt/new_tabletop_game_havoc_gen_zero](https://www.reddit.com/r/boardgames/comments/1elyrwt/new_tabletop_game_havoc_gen_zero)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T01:06:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1elyrwt/new_tabletop_game_havoc_gen_zero/"> <img alt="New Tabletop Game - Havoc: Gen Zero" src="https://external-preview.redd.it/KgUUHrEi0ncjmFTKWKoKfq67V077XOYpJBvf2RF3roE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6675a3bb749d6ce979bcea267261eb1998cc9246" title="New Tabletop Game - Havoc: Gen Zero" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DavidRainsbergerII"> /u/DavidRainsbergerII </a> <br /> <span><a href="/r/tabletop/comments/1elukaq/new_tabletop_game_havoc_gen_zero/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1elyrwt/new_tabletop_game_havoc_gen_zero/">[comments]</a></span> </td></tr></table>
+
+## Digital Cards
+ - [https://www.reddit.com/r/boardgames/comments/1ely1nh/digital_cards](https://www.reddit.com/r/boardgames/comments/1ely1nh/digital_cards)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T00:32:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1ely1nh/digital_cards/"> <img alt="Digital Cards " src="https://external-preview.redd.it/HWu_iS_WjxTWrAbXaSf8erzwd6IPfBhcWPB3hhho4hQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8b47bab969d880072142fc28cb7404562e88e9d7" title="Digital Cards " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>We need to implement these into board games. Now… please :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Grouchy-Ear-5602"> /u/Grouchy-Ear-5602 </a> <br /> <span><a href="https://youtu.be/atsMD_C0N9s?si=F_vw-vQCQ93zDn79">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ely1nh/digital_cards/">[comments]</a></span> </td></tr></table>
+
+## What are these minis from?
+ - [https://www.reddit.com/r/boardgames/comments/1elxure/what_are_these_minis_from](https://www.reddit.com/r/boardgames/comments/1elxure/what_are_these_minis_from)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T00:23:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1elxure/what_are_these_minis_from/"> <img alt="What are these minis from?" src="https://preview.redd.it/r62hntzhy4hd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=013c9742350151dfd77190665624d8ad5a7559f7" title="What are these minis from?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I bought a bundle of games second hand, and these were in a tray but no box. Any idea what game they're from?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AtmosphereDefiant"> /u/AtmosphereDefiant </a> <br /> <span><a href="https://i.redd.it/r62hntzhy4hd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1elxure/what_are_these_minis_from/">[comments]</a></span> </td></tr></table>
+
+## Rock Hard 1977 article with designer Jackie Fox
+ - [https://www.reddit.com/r/boardgames/comments/1elxl29/rock_hard_1977_article_with_designer_jackie_fox](https://www.reddit.com/r/boardgames/comments/1elxl29/rock_hard_1977_article_with_designer_jackie_fox)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-07T00:10:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1elxl29/rock_hard_1977_article_with_designer_jackie_fox/"> <img alt="Rock Hard 1977 article with designer Jackie Fox" src="https://external-preview.redd.it/1BgNK_e8I1wpIQNdc2zITqUEyn2YDCzmPidcVW21xSc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e83c67c24e5bb85b3c49b32618455207fcd3240" title="Rock Hard 1977 article with designer Jackie Fox" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Devir_Americas"> /u/Devir_Americas </a> <br /> <span><a href="https://www.nytimes.com/2024/08/03/arts/music/jackie-fox-runaways-rock-hard-1977-game.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1elxl29/rock_hard_1977_article_with_designer_jackie_fox/">[comments]</a></span> </td></tr></table>
+

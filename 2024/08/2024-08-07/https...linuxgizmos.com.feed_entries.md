@@ -1,0 +1,16 @@
+# Source:LinuxGizmos.com, URL:https://linuxgizmos.com/feed, language:en-US
+
+## ADLINK Unveils New SBC35 Series: 3.5” Single Board Computers Featuring Intel i3/i5/i7 & N97 Processors
+ - [https://linuxgizmos.com/adlink-unveils-new-sbc35-series-3-5-single-board-computers-featuring-intel-i3-i5-i7-n97-processors](https://linuxgizmos.com/adlink-unveils-new-sbc35-series-3-5-single-board-computers-featuring-intel-i3-i5-i7-n97-processors)
+ - RSS feed: https://linuxgizmos.com/feed
+ - date published: 2024-08-07T03:33:00+00:00
+
+ADLINK Technology Inc has announced the launch of its new SBC35 Series of 3.5&#8221; Single Board Computers. These boards are engineered to maximize efficiency in compact spaces, making them ideal for space-constrained applications in automation, transportation, medical fields, and smart city projects. The SBC35 Series introduces two models: the high-performance SBC35-RPL and the energy-optimized SBC35-ALN. [&#8230;]
+
+## TinyWATCH S3 P7: A Hackable and Open-Source Smartwatch Based on the ESP32-S3 SoC
+ - [https://linuxgizmos.com/tinywatch-s3-p7-a-hackable-and-open-source-smartwatch-based-on-the-esp32-s3-soc](https://linuxgizmos.com/tinywatch-s3-p7-a-hackable-and-open-source-smartwatch-based-on-the-esp32-s3-soc)
+ - RSS feed: https://linuxgizmos.com/feed
+ - date published: 2024-08-07T02:57:45+00:00
+
+TinyWATCH S3 P7 is an innovative, open-source smartwatch designed specifically for tech enthusiasts and embedded developers. Created by Unexpected Maker, this device arrives pre-assembled but is designed for easy disassembly, catering to those who wish to hack or modify its hardware. Powered by an Espressif ESP32-S3 Dual Core MCU operating at 240 MHz, the smartwatch [&#8230;]
+
