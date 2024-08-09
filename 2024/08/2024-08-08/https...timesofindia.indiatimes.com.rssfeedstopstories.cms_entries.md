@@ -1,0 +1,821 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Delhi reaches out to new Dhaka regime, talks of people’s interest
+ - [https://timesofindia.indiatimes.com/india/delhi-reaches-out-to-new-dhaka-regime-talks-of-peoples-interest/articleshow/112387715.cms](https://timesofindia.indiatimes.com/india/delhi-reaches-out-to-new-dhaka-regime-talks-of-peoples-interest/articleshow/112387715.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T23:08:49+00:00
+
+India has shown initial signs of engagement with Bangladesh's interim government, prioritizing the interests of its people. Despite not openly acknowledging anti-Hasina sentiment or emphasizing democratic principles, New Delhi ensures the safety of Indian citizens and minorities, coordinating with Dhaka's military for safe passage and facilitating consular services.
+
+## Bengal’s last communist CM (2000-11), defeated by Mamata, passes away
+ - [https://timesofindia.indiatimes.com/india/bengals-last-communist-cm-2000-11-defeated-by-mamata-passes-away/articleshow/112387478.cms](https://timesofindia.indiatimes.com/india/bengals-last-communist-cm-2000-11-defeated-by-mamata-passes-away/articleshow/112387478.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T23:01:06+00:00
+
+Buddhadeb Bhattacharjee, the former Left Front Chief Minister of West Bengal, passed away at 80 following a cardiac arrest in Kolkata. Known for his efforts to make Bengal industry-friendly, his tenure spanned 11 years. Though his industrialization efforts were not immediately successful, all political parties in Bengal now emphasize industrial growth.
+
+## Centre waives local trials for advanced fgn drugs, vaccines
+ - [https://timesofindia.indiatimes.com/india/centre-waives-local-trials-for-advanced-fgn-drugs-vaccines/articleshow/112386904.cms](https://timesofindia.indiatimes.com/india/centre-waives-local-trials-for-advanced-fgn-drugs-vaccines/articleshow/112386904.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T22:51:19+00:00
+
+The Indian government decided to waive local trials for advanced drugs and vaccines approved in the US, UK, Japan, Australia, Canada, and the EU. This move aims to expedite the availability of therapies for diseases like breast cancer and leukaemia. The regulator will ensure post-marketing monitoring through surveillance and clinical trials.
+
+## Bodycam video shows moment after police spotted Trump shooter; watch
+ - [https://timesofindia.indiatimes.com/world/us/-on-top-of-roof-bodycam-video-footage-shows-moment-after-police-spotted-trump-shooter-watch/articleshow/112386059.cms](https://timesofindia.indiatimes.com/world/us/-on-top-of-roof-bodycam-video-footage-shows-moment-after-police-spotted-trump-shooter-watch/articleshow/112386059.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T22:48:13+00:00
+
+
+
+## Supreme Court sets up panel to review nod to Uttrakhand hydel projects
+ - [https://timesofindia.indiatimes.com/india/supreme-court-sets-up-panel-to-review-nod-to-uttrakhand-hydel-projects/articleshow/112386903.cms](https://timesofindia.indiatimes.com/india/supreme-court-sets-up-panel-to-review-nod-to-uttrakhand-hydel-projects/articleshow/112386903.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T22:46:37+00:00
+
+The Supreme Court directed the formation of a high-powered committee to re-evaluate the expert panel’s report approving 28 hydro power projects in Uttarakhand. The court questioned the government’s rationale on approving only seven projects, urging transparency in the decision-making process. The review follows concerns on environmental impacts highlighted after the 2013 floods.
+
+## Allies backing,waqf bill tabled, sent to JPC
+ - [https://timesofindia.indiatimes.com/india/allies-backingwaqf-bill-tabled-sent-to-jpc/articleshow/112386638.cms](https://timesofindia.indiatimes.com/india/allies-backingwaqf-bill-tabled-sent-to-jpc/articleshow/112386638.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T22:39:09+00:00
+
+The Waqf (Amendment) Bill was referred to a joint parliamentary committee for scrutiny after initial support in Lok Sabha. Proposed changes include oversight of Waqf Boards' power to declare Waqf assets and involvement of district magistrates. The amendment aims for transparency and addresses complaints about arbitrary property declarations.
+
+## Neeraj Chopra adds silver to hockey’s back-to-back Olympic bronze
+ - [https://timesofindia.indiatimes.com/india/neeraj-chopra-adds-silver-to-hockeys-back-to-back-olympic-bronze/articleshow/112386348.cms](https://timesofindia.indiatimes.com/india/neeraj-chopra-adds-silver-to-hockeys-back-to-back-olympic-bronze/articleshow/112386348.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T22:32:58+00:00
+
+Neeraj Chopra secured a silver medal in javelin at the Paris Games with a throw of 89.45m, while India’s hockey team won its second consecutive Olympic bronze by defeating Spain 2-1. Arshad Nadeem dominated the event with a 92.97m throw, earning Pakistan its first Olympic medal since 1992. The Indian hockey team showcased their skill and resilience to claim victory.
+
+## How will retired district, HC judges survive with Rs 15k-25k as pension, asks CJI
+ - [https://timesofindia.indiatimes.com/india/dist-judges-retiring-as-hc-judges-get-15k-25k-as-pension-how-will-they-survive-asks-cji/articleshow/112385725.cms](https://timesofindia.indiatimes.com/india/dist-judges-retiring-as-hc-judges-get-15k-25k-as-pension-how-will-they-survive-asks-cji/articleshow/112385725.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:50:17+00:00
+
+The Supreme Court expressed concern over retired HC judges receiving pensions between Rs 15,000 and Rs 25,000, following lifelong district judiciary service. The CJI urged the Attorney General and Solicitor General to resolve this issue despite potential financial burdens, highlighting the need for social security for these judges. The case is set for hearing on Aug 27.
+
+## Congress institutes performance review system for its Lok Sabha MPs
+ - [https://timesofindia.indiatimes.com/india/congress-institutes-performance-review-system-for-its-lok-sabha-mps/articleshow/112385716.cms](https://timesofindia.indiatimes.com/india/congress-institutes-performance-review-system-for-its-lok-sabha-mps/articleshow/112385716.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:46:06+00:00
+
+The Congress party introduced a system to assess its Lok Sabha MPs' performance in Parliament. Leaders were encouraged to attend sessions, raise issues, and speak effectively. Rahul Gandhi chaired a meeting, acknowledging notable MPs. The initiative aims to ensure MPs remain engaged with constituents and perform well in the House, especially first-term members.
+
+## Wanted bizman baffles agencies by filing for relief in J&K court
+ - [https://timesofindia.indiatimes.com/india/wanted-bizman-baffles-agencies-by-filing-for-relief-in-jk-court/articleshow/112385676.cms](https://timesofindia.indiatimes.com/india/wanted-bizman-baffles-agencies-by-filing-for-relief-in-jk-court/articleshow/112385676.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:41:58+00:00
+
+A writ petition was filed in the J&amp;K high court by ex-KCCI president Mubeen Shah, seeking to quash an FIR from 2020 for threatening social media posts against non-locals in Kashmir. Shah, previously detained under PSA and currently living in Malaysia, managed to obtain court relief despite a lookout circular against him.
+
+## Is PMLA review plea ‘appeal in disguise’? SC to examine
+ - [https://timesofindia.indiatimes.com/india/is-pmla-review-plea-appeal-in-disguise-sc-to-examine/articleshow/112385487.cms](https://timesofindia.indiatimes.com/india/is-pmla-review-plea-appeal-in-disguise-sc-to-examine/articleshow/112385487.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:37:59+00:00
+
+The Supreme Court, reviewing a 2022 ruling on the Prevention of Money Laundering Act (PMLA), questioned if the review petition resembled an appeal. This comes as petitioners seek re-evaluation of the stringent measures and powers given to the Enforcement Directorate. A three-judge bench upheld these provisions, raising questions on bail conditions and procedural rights of the accused.
+
+## Lalu meets widow of Shahabuddin in bid to mend ties
+ - [https://timesofindia.indiatimes.com/india/lalu-meets-widow-of-shahabuddin-in-bid-to-mend-ties/articleshow/112385479.cms](https://timesofindia.indiatimes.com/india/lalu-meets-widow-of-shahabuddin-in-bid-to-mend-ties/articleshow/112385479.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:37:12+00:00
+
+
+
+## Manipur CM N Biren says Delhi agencies trying to reimpose Afspa in valley
+ - [https://timesofindia.indiatimes.com/india/manipur-cm-n-biren-says-delhi-agencies-trying-to-reimpose-afspa-in-valley/articleshow/112385444.cms](https://timesofindia.indiatimes.com/india/manipur-cm-n-biren-says-delhi-agencies-trying-to-reimpose-afspa-in-valley/articleshow/112385444.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:26:23+00:00
+
+Manipur Chief Minister N Biren Singh informed the assembly about central agencies advocating for the reimposition of the Armed Forces (Special Powers) Act, 1958, in valley districts following unrest since May 2023. Singh emphasized addressing the situation gradually while expressing longstanding resistance to Afspa and highlighting the necessity for a compassionate review of its imposition.
+
+## Speaker’s rights curtailed, says Akhilesh, draws Shah’s attack
+ - [https://timesofindia.indiatimes.com/india/speakers-rights-curtailed-says-akhilesh-draws-shahs-attack/articleshow/112385439.cms](https://timesofindia.indiatimes.com/india/speakers-rights-curtailed-says-akhilesh-draws-shahs-attack/articleshow/112385439.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:22:45+00:00
+
+Home Minister Amit Shah criticized Akhilesh Yadav's remarks about the Lok Sabha Speaker's rights being curtailed, calling it an insult to the Chair. During the debate on the Waqf (Amendment) Bill, Yadav argued that the opposition would need to fight for the Speaker's rights, prompting Shah's objection and a reprimand from Speaker Om Birla.
+
+## 1,734 sq km of forests lost to devpt activities in 10 years: Govt
+ - [https://timesofindia.indiatimes.com/india/1734-sq-km-of-forests-lost-to-devpt-activities-in-10-years-govt/articleshow/112385437.cms](https://timesofindia.indiatimes.com/india/1734-sq-km-of-forests-lost-to-devpt-activities-in-10-years-govt/articleshow/112385437.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:20:17+00:00
+
+The government informed Rajya Sabha that India lost 1,734 sq km of forest area to development activities in the last decade. Despite this, compensatory afforestation led to an overall increase of 21,762 sq km in forest cover by 2021 compared to 2011. Major forest land diversions occurred in MP, Odisha, Telangana, Gujarat, and Arunachal Pradesh.
+
+## HC to Jharkhand: Take action against illegal Bangladesh migrants
+ - [https://timesofindia.indiatimes.com/india/hc-to-jharkhand-take-action-against-illegal-bangladesh-migrants/articleshow/112385433.cms](https://timesofindia.indiatimes.com/india/hc-to-jharkhand-take-action-against-illegal-bangladesh-migrants/articleshow/112385433.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:18:34+00:00
+
+Jharkhand High Court directed the state government to take immediate action against illegal Bangladeshi immigrants entering through Santhal Parganas, citing political instability in Bangladesh. The court suggested sudden inspections of Aadhaar and voter ID cards to identify bona fide residents. The case, involving several high-level agencies, will be heard next on August 22.
+
+## Will be tough to cooperate with India if it helps our enemy Hasina: BNP
+ - [https://timesofindia.indiatimes.com/india/will-be-tough-to-cooperate-with-india-if-it-helps-our-enemy-hasina-bnp/articleshow/112385419.cms](https://timesofindia.indiatimes.com/india/will-be-tough-to-cooperate-with-india-if-it-helps-our-enemy-hasina-bnp/articleshow/112385419.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:14:03+00:00
+
+The Bangladesh Nationalist Party (BNP) expressed its displeasure with India for hosting ousted Prime Minister Sheikh Hasina. BNP leader Gayeshwar Roy criticized India's support for Hasina, and refuted claims that BNP is anti-Hindu or harbors terrorist elements. Roy emphasized BNP's commitment to individual rights and discussed the party's strategic ties with Jamaat-e-Islami and support for a non-political interim government.
+
+## ‘Opposition crossing all limits’, says irked Dhankhar, leaves House
+ - [https://timesofindia.indiatimes.com/india/opposition-crossing-all-limits-says-irked-dhankhar-leaves-house/articleshow/112385426.cms](https://timesofindia.indiatimes.com/india/opposition-crossing-all-limits-says-irked-dhankhar-leaves-house/articleshow/112385426.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T21:13:57+00:00
+
+Rajya Sabha Chairperson Jagdeep Dhankhar left a session after a dispute with opposition over wrestler Vinesh Phogat's disqualification from the Olympics. Dhankhar accused the opposition of creating disorder and disrespecting the Chair. Leader of the House J P Nadda and Dhankhar condemned opposition's behavior. A meeting of floor leaders was called to address the issue.
+
+## Waqf bill bats for deprived Muslims: Govt
+ - [https://timesofindia.indiatimes.com/india/waqf-bill-bats-for-deprived-muslims-govt/articleshow/112385297.cms](https://timesofindia.indiatimes.com/india/waqf-bill-bats-for-deprived-muslims-govt/articleshow/112385297.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:45:54+00:00
+
+Union minority affairs minister Kiren Rijiju defended the Waqf (Amendment) Bill against opposition criticism, stating it aimed to provide justice to all Muslim communities and was not anti-Muslim. He argued it updated archaic provisions. Opposition leaders claimed it violated constitutional rights and was driven by electoral motives for upcoming state elections.
+
+## Man convicted of wife’s murder on testimony of 12-year-old daughter
+ - [https://timesofindia.indiatimes.com/city/lucknow/man-convicted-of-wifes-murder-on-testimony-of-12-year-old-daughter/articleshow/112385261.cms](https://timesofindia.indiatimes.com/city/lucknow/man-convicted-of-wifes-murder-on-testimony-of-12-year-old-daughter/articleshow/112385261.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:41:02+00:00
+
+In a quick trial, a court in Sultanpur found a man guilty of murdering his wife, largely due to his daughter's statement. The man strangled his wife in their SUV on the Purvanchal Expressway and attempted to harm his children when police intervened. The sentencing will be on August 12.
+
+## HC calls out ‘ghost’ FIR filed in UP 3 years after complainant’s death
+ - [https://timesofindia.indiatimes.com/india/hc-calls-out-ghost-fir-filed-in-up-3-years-after-complainants-death/articleshow/112385256.cms](https://timesofindia.indiatimes.com/india/hc-calls-out-ghost-fir-filed-in-up-3-years-after-complainants-death/articleshow/112385256.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:36:39+00:00
+
+The Allahabad High Court encountered a peculiar case involving a deceased individual who allegedly lodged an FIR and signed documents years after his death. The court quashed the proceedings and called for an investigation into the investigating officer's conduct.
+
+## Woman gets 20-year rigorous imprisonment for 2016 kidnap, gang-rape of Dalit girl in UP village
+ - [https://timesofindia.indiatimes.com/india/woman-gets-20-year-rigorous-imprisonment-for-2016-kidnap-gang-rape-of-dalit-girl-in-up-village/articleshow/112385237.cms](https://timesofindia.indiatimes.com/india/woman-gets-20-year-rigorous-imprisonment-for-2016-kidnap-gang-rape-of-dalit-girl-in-up-village/articleshow/112385237.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:35:17+00:00
+
+In a significant ruling, an additional district and sessions judge sentenced a man to life imprisonment and two others to 20 years under the SC/ST Act for the 2016 kidnapping and gang rape of a Dalit girl in Amroha, UP. Despite initial lapses, police registered the case, leading to the arrests and convictions.
+
+## 13-year-old girl swallows pin, docs retrieve it from her lung
+ - [https://timesofindia.indiatimes.com/india/13-year-old-girl-swallows-pin-docs-retrieve-it-from-her-lung/articleshow/112385215.cms](https://timesofindia.indiatimes.com/india/13-year-old-girl-swallows-pin-docs-retrieve-it-from-her-lung/articleshow/112385215.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:30:17+00:00
+
+A 13-year-old girl from Rajapur, Maharashtra, narrowly survived after inadvertently swallowing a pin while attempting to fix her scarf. Doctors initially couldn't locate the pin via an endoscopic procedure, leading to suspicions it was in her lungs. Pulmonologist Dr Shahid Patel confirmed its presence in the left lung, and it was safely removed through a bronchoscopic procedure.
+
+## Haryana selects tainted official for govt jobs panel
+ - [https://timesofindia.indiatimes.com/india/haryana-selects-tainted-official-for-govt-jobs-panel/articleshow/112385211.cms](https://timesofindia.indiatimes.com/india/haryana-selects-tainted-official-for-govt-jobs-panel/articleshow/112385211.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:29:01+00:00
+
+A chargesheeted officer, Vatsal Vashisht, involved in the 2001 HCS recruitment scam, was appointed as Officer on Special Duty in Haryana Staff Selection Commission. Vashisht, currently serving as Secretary of Haryana Right to Service Commission, was implicated by the anti-corruption bureau. He was found to have been awarded additional marks illegitimately, making him eligible for the post.
+
+## Bodies of 3 Hmar men bore bruises, says autopsy report, fuels ‘fake encounter’ buzz
+ - [https://timesofindia.indiatimes.com/india/bodies-of-3-hmar-men-bore-bruises-says-autopsy-report-fuels-fake-encounter-buzz/articleshow/112385202.cms](https://timesofindia.indiatimes.com/india/bodies-of-3-hmar-men-bore-bruises-says-autopsy-report-fuels-fake-encounter-buzz/articleshow/112385202.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:23:27+00:00
+
+Postmortem reports of three Hmar individuals, whom Assam Police claimed were militants killed in a crossfire, revealed signs of blunt force trauma along with bullet marks. This has led to suspicions of a fake encounter. The families, alleging torture and extrajudicial killing, filed for a CBI inquiry. The case is set for a hearing on September 10.
+
+## Raigad boy, 16, ‘shoots self’ using dad’s rifle
+ - [https://timesofindia.indiatimes.com/india/raigad-boy-16-shoots-self-using-dads-rifle/articleshow/112385201.cms](https://timesofindia.indiatimes.com/india/raigad-boy-16-shoots-self-using-dads-rifle/articleshow/112385201.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:22:39+00:00
+
+A 16-year-old boy, Suyash Nagarkar, allegedly shot himself in the head with his father's licenced rifle at their home in Mahad, Raigad. His parents, who were downstairs at the time, found him in a pool of blood. Despite rushing him to the hospital, he was declared dead. Nagarkar had recently shown signs of being disturbed.
+
+## CoBRA SI hurt in Maoist blast in Jharkhand
+ - [https://timesofindia.indiatimes.com/india/cobra-si-hurt-in-maoist-blast-in-jharkhand/articleshow/112385185.cms](https://timesofindia.indiatimes.com/india/cobra-si-hurt-in-maoist-blast-in-jharkhand/articleshow/112385185.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:18:33+00:00
+
+
+
+## CBI arrests ED assistant director for accepting Rs 20 lakh bribe
+ - [https://timesofindia.indiatimes.com/india/cbi-arrests-ed-assistant-director-for-accepting-rs-20-lakh-bribe/articleshow/112385161.cms](https://timesofindia.indiatimes.com/india/cbi-arrests-ed-assistant-director-for-accepting-rs-20-lakh-bribe/articleshow/112385161.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:15:50+00:00
+
+CBI arrested an assistant director of the Enforcement Directorate, Sandeep Singh, for accepting a bribe of Rs 20 lakh. The arrest followed a joint operation involving raids at his office and residence. Singh was suspended and faces money laundering charges after allegedly extorting money from a jeweller. He misrepresented himself as the case's investigating officer.
+
+## 3 school kids bring knife to ‘attack’ teacher, held
+ - [https://timesofindia.indiatimes.com/india/3-school-kids-bring-knife-to-attack-teacher-held/articleshow/112385170.cms](https://timesofindia.indiatimes.com/india/3-school-kids-bring-knife-to-attack-teacher-held/articleshow/112385170.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:14:53+00:00
+
+
+
+## Neeraj Chopra is excellence personified: PM Modi
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/neeraj-chopra-is-excellence-personified-pm-narendra-modi-hails-indias-javelin-star-after-second-successive-olympic-medal/articleshow/112384471.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/neeraj-chopra-is-excellence-personified-pm-narendra-modi-hails-indias-javelin-star-after-second-successive-olympic-medal/articleshow/112384471.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:14:10+00:00
+
+Gold eluded defending champion Neeraj Chopra as he signed off with a silver in the Olympics men's javelin throw event, while Pakistan's Arshad Nadeem bossed the field with a new Games record of 92.97m in Paris on Thursday.  The 26-year-old Chopra, who has never lost to Nadeem in their earlier 10 meetings, took the silver with his second round throw of 89.45m. He had won gold in Tokyo with a throw of 87.58m three years ago.
+
+## Conversions in UP: 835 cases registered, 1,682 arrested in 4 years
+ - [https://timesofindia.indiatimes.com/india/conversions-in-up-835-cases-registered-1682-arrested-in-4-years/articleshow/112385144.cms](https://timesofindia.indiatimes.com/india/conversions-in-up-835-cases-registered-1682-arrested-in-4-years/articleshow/112385144.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:11:06+00:00
+
+Since 2020, the Uttar Pradesh Prohibition of Unlawful Conversion of Religion Act has seen 835 registered cases and 1,682 arrests. The Ghaziabad commissionerate and districts such as Saharanpur recorded the highest actions. Senior officers monitor the probes. Convictions have been achieved in four cases, with ongoing investigations and trials for others.
+
+## Autopsy report reveals 4 holes in skull of tiger, raises MP poaching fears
+ - [https://timesofindia.indiatimes.com/india/autopsy-report-reveals-4-holes-in-skull-of-tiger-raises-mp-poaching-fears/articleshow/112385114.cms](https://timesofindia.indiatimes.com/india/autopsy-report-reveals-4-holes-in-skull-of-tiger-raises-mp-poaching-fears/articleshow/112385114.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:10:10+00:00
+
+
+
+## India calls for restraint, de-escalation in West Asia
+ - [https://timesofindia.indiatimes.com/india/india-calls-for-restraint-de-escalation-in-west-asia/articleshow/112385109.cms](https://timesofindia.indiatimes.com/india/india-calls-for-restraint-de-escalation-in-west-asia/articleshow/112385109.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:07:03+00:00
+
+
+
+## ‘Jai Hind’ to replace ‘good morning’ in Haryana schools from Aug 15
+ - [https://timesofindia.indiatimes.com/india/jai-hind-to-replace-good-morning-in-haryana-schools-from-aug-15/articleshow/112385085.cms](https://timesofindia.indiatimes.com/india/jai-hind-to-replace-good-morning-in-haryana-schools-from-aug-15/articleshow/112385085.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:04:39+00:00
+
+From August 15, Haryana students began greeting each other with 'Jai Hind' instead of 'Good Morning'. The state government implemented this change to foster patriotism and national pride. The greeting, introduced by Netaji Subhas Chandra Bose, aims to inspire national unity and remind students of their identity as Indians.
+
+## Banker ‘plotted’ murder for Rs 90 lakh FD
+ - [https://timesofindia.indiatimes.com/india/banker-plotted-murder-for-rs-90-lakh-fd/articleshow/112385088.cms](https://timesofindia.indiatimes.com/india/banker-plotted-murder-for-rs-90-lakh-fd/articleshow/112385088.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T20:03:59+00:00
+
+An 82-year-old retired BSNL engineer in Kerala’s Kollam was killed in a hit-and-run allegedly orchestrated by a local bank manager and four others. The suspects, aiming to claim a Rs 90-lakh FD, were arrested and remanded in judicial custody. The murder was revealed after police reviewed crash footage, leading to revelations of a wider conspiracy.
+
+## Odisha plans India’s 1st university for the blind
+ - [https://timesofindia.indiatimes.com/india/odisha-plans-indias-1st-university-for-the-blind/articleshow/112385072.cms](https://timesofindia.indiatimes.com/india/odisha-plans-indias-1st-university-for-the-blind/articleshow/112385072.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T19:59:23+00:00
+
+India's first international university for the blind was set to be established in Odisha, named after Bhima Bhoi, a blind poet and social reformer. The university would include a technology centre of excellence and schools for higher education, accessible residential facilities, and vocational courses.
+
+## ASI statement sparks mandir-masjid row
+ - [https://timesofindia.indiatimes.com/india/asi-statement-sparks-mandir-masjid-row/articleshow/112385063.cms](https://timesofindia.indiatimes.com/india/asi-statement-sparks-mandir-masjid-row/articleshow/112385063.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T19:58:04+00:00
+
+A new controversy arose in Madhya Pradesh over the ancient Vijay Surya Mandir in Vidisha, managed by the ASI. Hindu groups sought permission to hold puja inside the site on August 9, but ASI cited a 1951 notification classifying it as the 'Bijamandal Mosque.' The permission was denied, causing outrage among Hindu groups.
+
+## Pune business family’s Mumbai mansion buy sets tongues wagging
+ - [https://timesofindia.indiatimes.com/india/pune-business-familys-mumbai-mansion-buy-sets-tongues-wagging/articleshow/112385061.cms](https://timesofindia.indiatimes.com/india/pune-business-familys-mumbai-mansion-buy-sets-tongues-wagging/articleshow/112385061.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T19:55:09+00:00
+
+Industrialist Yohan Poonawalla and his wife Michelle announced the acquisition of a mansion in south Mumbai's exclusive Cuffe Parade area. The property, believed to be Taraporewala Mansion, spans 30,000 square feet and will be transformed into Poonawalla Mansion. Michelle's art collection and Yohan's automobile collection will be showcased there, adding to their assets from Pune.
+
+## Govt set to have Rajya Sabha numbers for waqf bill in Nov-Dec sitting
+ - [https://timesofindia.indiatimes.com/india/govt-set-to-have-rajya-sabha-numbers-for-waqf-bill-in-nov-dec-sitting/articleshow/112385049.cms](https://timesofindia.indiatimes.com/india/govt-set-to-have-rajya-sabha-numbers-for-waqf-bill-in-nov-dec-sitting/articleshow/112385049.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T19:54:12+00:00
+
+The government was expected to comfortably pass the Waqf (Amendment) Bill in the Rajya Sabha in the next session, as the NDA projected having adequate numbers. Upcoming wins and filling four vacant nominated seats would help meet the majority mark. Congress was also set to retain its leader of opposition status with gains in Telangana.
+
+## Neeraj bags silver for second successive Olympic medal; Pak's Nadeem clinches gold
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/neeraj-chopra-wins-silver-claims-second-successive-olympic-medal/articleshow/112384052.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/neeraj-chopra-wins-silver-claims-second-successive-olympic-medal/articleshow/112384052.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T19:42:25+00:00
+
+With this silver, Neeraj Chopra became the fourth Indian athlete to clinch two Olympic medals in individual sport. Shuttler PV Sindhu (one silver, one bronze), wrestler Sushil Kumar (one silver, one bronze) and shooter Manu Bhaker (two bronze) have won two Olympic medals each post Independence. ​Pakistan's Arshad Nadeem came up with a sensational record Olympic throw of 92.97 metres in his second attempt to dethrone defending champion Neeraj.
+
+## Hockey India announces cash prize for Olympics bronze medal
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/hockey-india-announces-cash-prize-for-paris-olympics-bronze-medal-winning-team/articleshow/112383786.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/hockey-india-announces-cash-prize-for-paris-olympics-bronze-medal-winning-team/articleshow/112383786.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T17:47:31+00:00
+
+Hockey India announced a financial reward for the national men's hockey team after their bronze medal win at the Olympic Games. Each player will receive Rs 15 lakh, while the support staff will get Rs 7.5 lakh each. The team secured their second consecutive Olympic bronze by defeating Spain 2-1, marking a significant achievement in India's hockey history. This victory also honoured the final international appearance of veteran goalkeeper PR Sreejesh. Hockey India's reward underscores their commitment to promoting excellence in the sport.
+
+## Airtel expands high-speed Wi-Fi to 4 millions new households across four states
+ - [https://timesofindia.indiatimes.com/technology/tech-news/airtel-expands-high-speed-wi-fi-to-almost-4-millions-new-households-across-these-four-states/articleshow/112383873.cms](https://timesofindia.indiatimes.com/technology/tech-news/airtel-expands-high-speed-wi-fi-to-almost-4-millions-new-households-across-these-four-states/articleshow/112383873.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T17:44:37+00:00
+
+Airtel expanded its Wi-Fi services to an additional 3.9 million households in Madhya Pradesh, Chhattisgarh, Bihar, and Jharkhand. This move aimed to enhance its regional presence and meet growing digital service demands. The company also began reallocating mid-band spectrum to support its 5G network expansion across various bands. Affordable plans start at Rs. 699 per month.
+
+## Labour MP Lauren Edwards apologises for offensive old tweets
+ - [https://timesofindia.indiatimes.com/world/uk/fg-estonians-labour-mp-lauren-edwards-apologises-for-offensive-old-tweets/articleshow/112382602.cms](https://timesofindia.indiatimes.com/world/uk/fg-estonians-labour-mp-lauren-edwards-apologises-for-offensive-old-tweets/articleshow/112382602.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T16:51:26+00:00
+
+
+
+## Indian expedition team unfurls largest Tricolour atop Mt Kilimanjaro
+ - [https://timesofindia.indiatimes.com/india/indian-expedition-team-unfurls-largest-tricolour-atop-mt-kilimanjaro/articleshow/112382742.cms](https://timesofindia.indiatimes.com/india/indian-expedition-team-unfurls-largest-tricolour-atop-mt-kilimanjaro/articleshow/112382742.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T16:47:35+00:00
+
+
+
+## Govt defends proposed changes in Waqf Act; Cong links it to polls
+ - [https://timesofindia.indiatimes.com/india/opposition-misleading-muslims-govt-defends-proposed-changes-in-waqf-act-congress-links-it-to-assembly-elections/articleshow/112382525.cms](https://timesofindia.indiatimes.com/india/opposition-misleading-muslims-govt-defends-proposed-changes-in-waqf-act-congress-links-it-to-assembly-elections/articleshow/112382525.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T16:21:06+00:00
+
+
+
+## 'Hope for ...': PM Modi's appeal to head of B'desh interim govt
+ - [https://timesofindia.indiatimes.com/india/hope-for-early-return-to-normalcy-pm-modi-after-muhammad-yunus-takes-oath-as-head-of-bangladesh-interim-government/articleshow/112382363.cms](https://timesofindia.indiatimes.com/india/hope-for-early-return-to-normalcy-pm-modi-after-muhammad-yunus-takes-oath-as-head-of-bangladesh-interim-government/articleshow/112382363.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T16:12:53+00:00
+
+
+
+## Watch: PM Modi's call evokes laughter after Oly bronze
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/sarpanch-sahab-pm-modis-call-evokes-laughter-in-team-indias-dressing-room-after-olympic-bronze-watch/articleshow/112382468.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/sarpanch-sahab-pm-modis-call-evokes-laughter-in-team-indias-dressing-room-after-olympic-bronze-watch/articleshow/112382468.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T16:08:23+00:00
+
+Indian Prime Minister Narendra Modi congratulated the Indian men’s hockey team on their bronze medal victory at the Paris Olympics, marking their second consecutive bronze since 1972. In a significant gesture, Modi called Team India’s captain, Harmanpreet Singh, and praised the team’s resilience, especially their comeback win against Spain. The match was a tense affair with India prevailing 2-1, thanks to Harmanpreet’s two goals. Modi's call and the nationwide celebration highlight the team’s inspiring achievement amid recent sports challenges.
+
+## Bangladesh gets interim govt: Who is part of the new regime?
+ - [https://timesofindia.indiatimes.com/world/south-asia/bangladesh-gets-interim-govt-led-by-nobel-laureate-muhammad-yunus-who-are-the-other-16-advisors/articleshow/112382021.cms](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-gets-interim-govt-led-by-nobel-laureate-muhammad-yunus-who-are-the-other-16-advisors/articleshow/112382021.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T16:03:16+00:00
+
+
+
+## Indian hockey players dance their hearts out. Watch
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/chak-de-india-indian-hockey-players-dance-their-hearts-out-in-dressing-room-watch/articleshow/112382289.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/chak-de-india-indian-hockey-players-dance-their-hearts-out-in-dressing-room-watch/articleshow/112382289.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T15:54:11+00:00
+
+The Indian hockey team erupted in euphoric celebrations in their dressing room, dancing with unbridled joy and exuberance after securing a hard-fought bronze medal at the Paris Olympics.
+
+## Happy Nag Panchami 2024: Top 50 wishes, messages and quotes
+ - [https://timesofindia.indiatimes.com/life-style/events/happy-nag-panchami-2024-top-50-wishes-messages-and-quotes-to-share-with-your-loved-ones/articleshow/112346691.cms](https://timesofindia.indiatimes.com/life-style/events/happy-nag-panchami-2024-top-50-wishes-messages-and-quotes-to-share-with-your-loved-ones/articleshow/112346691.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T15:30:00+00:00
+
+Nag Panchami is a deeply sacred Hindu festival celebrated in the month of Shravan, also known as Savan, which falls between July and August. The festival centers around honoring and worshiping snakes, which hold a special place in Hindu tradition as sacred creatures. As we celebrate this special festival and express gratitude for the divine energies that protect and enrich our lives, we have curated a collection of the top 50 wishes, messages, and quotes to be shared with loved ones to celebrate the festival, honor Lord Shiva, and appreciate the sacred snakes and nature.
+
+## 'Hockey is an emotion': Social media erupts after India's bronze
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/hockey-is-an-emotion-social-media-erupts-in-joy-after-indias-second-successive-olympic-bronze/articleshow/112381380.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/hockey-is-an-emotion-social-media-erupts-in-joy-after-indias-second-successive-olympic-bronze/articleshow/112381380.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T15:06:21+00:00
+
+The Indian men’s hockey team secured their second consecutive Olympic bronze with a 2-1 win over Spain, a milestone last achieved in 1972. After Spain’s Marc Miralles scored a penalty stroke, India’s captain Harmanpreet Singh scored twice (30th, 33rd) to clinch victory. Despite a challenging lead-up and a semifinal loss to Germany, India’s resilience and determination prevailed. The win also marked a heartfelt farewell for veteran goalkeeper PR Sreejesh. Prime Minister Narendra Modi and President Droupadi Murmu congratulated the team, while Gautam Gambhir and other prominent figures praised the achievement.
+
+## The battle of 'stolen valor': Circular fire in US race over military service
+ - [https://timesofindia.indiatimes.com/world/us/the-battle-of-stolen-valor-circular-fire-in-us-race-over-military-service-jd-vance-tim-walz-elections/articleshow/112380885.cms](https://timesofindia.indiatimes.com/world/us/the-battle-of-stolen-valor-circular-fire-in-us-race-over-military-service-jd-vance-tim-walz-elections/articleshow/112380885.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T14:47:51+00:00
+
+
+
+## Watch: Teammates bow down to Sreejesh after victorious last dance
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/watch-teammates-bow-down-to-pr-sreejesh-after-victorious-last-dance-skipper-harmanpreet-lifts-him-on-shoulder/articleshow/112380763.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/watch-teammates-bow-down-to-pr-sreejesh-after-victorious-last-dance-skipper-harmanpreet-lifts-him-on-shoulder/articleshow/112380763.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T14:29:14+00:00
+
+Eight-time champions India came from behind to collect their 13th men's Olympic hockey medal with a hard-fought 2-1 win over Spain in the bronze medal match on Thursday. It is India's fourth bronze medal, and second in succession following Tokyo, and adds to those eight golds, the last of which came in 1980, and three silvers.
+
+## Another delegation stopped at Parliament? Rahul meets fishermen in reception area
+ - [https://timesofindia.indiatimes.com/india/it-is-our-right-to-meet-anyone-lop-rahul-gandhi/articleshow/112380790.cms](https://timesofindia.indiatimes.com/india/it-is-our-right-to-meet-anyone-lop-rahul-gandhi/articleshow/112380790.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T14:27:21+00:00
+
+Rahul Gandhi, Congress leader, claimed that a delegation of fishermen was stopped from meeting him in Parliament to discuss issues related to Sri Lanka. Gandhi has been actively meeting various delegations, including farmers, child welfare groups, and manual scavengers, to address their concerns. The Waqf (Amendment) Bill, 2024, was also introduced in Parliament by Kiren Rijiju.
+
+## Men's hockey team wins Olympic Bronze: What PM Modi said
+ - [https://timesofindia.indiatimes.com/india/a-feat-that-will-be-cherished-for-generations-pm-modi-congratulates-mens-hockey-team-for-olympic-bronze-medal/articleshow/112380393.cms](https://timesofindia.indiatimes.com/india/a-feat-that-will-be-cherished-for-generations-pm-modi-congratulates-mens-hockey-team-for-olympic-bronze-medal/articleshow/112380393.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T14:11:57+00:00
+
+Indian captain Harmanpreet Singh scored for India in the 30th and 33rd minute, while Spain's only goal was scored by captain Marc Miralles in the 18th minute from a penalty stroke.
+
+## How Jeff Bezos, Mark Zuckerberg and Elon Musk lost $30 billion overnight
+ - [https://timesofindia.indiatimes.com/technology/tech-news/tech-billionaires-nightmare-how-jeff-bezos-mark-zuckerberg-and-elon-musk-lost-30-billion-overnight/articleshow/112380377.cms](https://timesofindia.indiatimes.com/technology/tech-news/tech-billionaires-nightmare-how-jeff-bezos-mark-zuckerberg-and-elon-musk-lost-30-billion-overnight/articleshow/112380377.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T14:09:12+00:00
+
+On Monday, U.S. stock markets faced significant losses driven by weak economic data and concerns over the Federal Reserve's inflation strategy. Major indexes like Dow Jones and Nasdaq saw sharp declines. The tech sector was hit hard, impacting billionaires like Jeff Bezos and Elon Musk. Global markets also experienced disruptions, highlighting widespread investor anxiety.
+
+## Watch: Harmanpreet's two goals that led India to Oly medal
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/watch-skipper-harmanpreets-two-goals-that-led-india-to-a-historic-successive-bronze-medal-at-olympics/articleshow/112380286.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/watch-skipper-harmanpreets-two-goals-that-led-india-to-a-historic-successive-bronze-medal-at-olympics/articleshow/112380286.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T14:07:36+00:00
+
+India's men's hockey team clinched their second consecutive Olympic bronze by defeating Spain 2-1 at the Paris Games. Despite trailing early due to a penalty stroke, India rallied with captain Harmanpreet Singh scoring twice. His drag-flicks in the dying moments of the second quarter and early in the third quarter were crucial in turning the game. The Indian defence, anchored by goalkeeper PR Sreejesh, held firm against Spain’s late pressure. Harmanpreet's pivotal performance secured India’s victory and added to their rich hockey legacy.
+
+## India clinch second consecutive Olympic hockey bronze
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/india-clinch-second-consecutive-olympic-hockey-bronze-beat-spain-2-1-in-third-place-play-off/articleshow/112380314.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/india-clinch-second-consecutive-olympic-hockey-bronze-beat-spain-2-1-in-third-place-play-off/articleshow/112380314.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T14:03:19+00:00
+
+The Indian men's hockey team clinched its second successive bronze medal in the Olympic Games after beating Spain 2-1 in the third position playoff match in Paris on Thursday.
+
+## Let loose the dogs of war: Ukraine to deploy 'Bad One' along front lines
+ - [https://timesofindia.indiatimes.com/world/europe/let-loose-the-dogs-of-war-ukraine-to-deploy-bad-one-along-front-lines/articleshow/112380143.cms](https://timesofindia.indiatimes.com/world/europe/let-loose-the-dogs-of-war-ukraine-to-deploy-bad-one-along-front-lines/articleshow/112380143.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T13:55:56+00:00
+
+
+
+## Read: Top 5 entertainment news of the day
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/naga-chaitanya-and-sobhita-dhulipala-get-engaged-imran-khan-on-divorce-with-avantika-malik-deleted-scene-from-ranbir-kapoor-starrer-animal-top-5-entertainment-news-of-the-day/articleshow/112378710.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/naga-chaitanya-and-sobhita-dhulipala-get-engaged-imran-khan-on-divorce-with-avantika-malik-deleted-scene-from-ranbir-kapoor-starrer-animal-top-5-entertainment-news-of-the-day/articleshow/112378710.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T13:30:00+00:00
+
+Today's top entertainment news features Naga Chaitanya and Sobhita Dhulipala's engagement, a viral deleted scene from Ranbir Kapoor's "Animal," and Imran Khan’s candid remarks on his 2019 divorce and fatherhood with Lekha Washington. Also, "Pushpa 2" shifts to Sri Lanka, and Arshad Warsi addresses Bollywood’s pay disparity.
+
+## 'For welfare of Muslims' or 'Draconian'? Key points of Waqf Amendment Bill
+ - [https://timesofindia.indiatimes.com/india/for-welfare-of-muslims-or-draconian-key-amendments-concerns-raised-in-lok-sabha-on-waqf-amendment-bill/articleshow/112373985.cms](https://timesofindia.indiatimes.com/india/for-welfare-of-muslims-or-draconian-key-amendments-concerns-raised-in-lok-sabha-on-waqf-amendment-bill/articleshow/112373985.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T13:29:21+00:00
+
+The minority affairs minister, Kiren Rijiju, referred the Waqf (Amendment) Bill, 2024, to a joint Parliamentary committee for further discussion. The bill aimed to modernize the Waqf Act, 1995, by enhancing women's rights and ensuring equitable representation. Key changes included clarifying property dedication rules and repealing Section 40, which allowed Waqf boards to decide on Waqf property status.
+
+## 'Sehrawat Sehra Do': Netizens applaud Sehrawat's display
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/sehrawat-sehra-do-netizens-applaud-aman-sehrawats-remarkable-display-at-paris-olympics/articleshow/112379392.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/sehrawat-sehra-do-netizens-applaud-aman-sehrawats-remarkable-display-at-paris-olympics/articleshow/112379392.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T13:24:50+00:00
+
+Indian wrestler Aman Sehrawat secured a spot in the men’s 57kg freestyle wrestling semifinals at the Paris Olympics with commanding victories over European champion Vladimir Egorov and reigning world champion Zelimkhan Abakarov. His dominant 12-0 quarterfinal win marked his second consecutive victory via technical superiority. As he prepares to face Japan's top seed Rei Higuchi, social media is buzzing with support and congratulations from fans, including wrestler Bajrang Punia and former cricketer Manoj Tiwari, with some adding humour to the celebrations.
+
+## EAM Jaishankar to visit Maldives from August 9-11 amid tense ties
+ - [https://timesofindia.indiatimes.com/india/eam-jaishankar-to-visit-maldives-from-august-9-11-amid-tense-ties/articleshow/112378568.cms](https://timesofindia.indiatimes.com/india/eam-jaishankar-to-visit-maldives-from-august-9-11-amid-tense-ties/articleshow/112378568.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T12:43:43+00:00
+
+External affairs minister S Jaishankar visited the Maldives from August 9 to August 11, marking the first high-level interaction since Mohamed Muizzu became president. Jaishankar's trip followed Muizzu's visit to India for the swearing-in of the new cabinet. Discussions with Maldivian counterpart Moosa Zameer and President Muizzu focused on development cooperation, emphasizing India's 'Neighbourhood First' policy and Vision 'SAGAR'.
+
+## IOA refutes reports of imposing ban on Antim for indiscipline
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/ioa-refutes-reports-of-imposing-3-year-ban-on-antim-panghal-for-indiscipline/articleshow/112376810.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/ioa-refutes-reports-of-imposing-3-year-ban-on-antim-panghal-for-indiscipline/articleshow/112376810.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T12:17:15+00:00
+
+The Indian Olympic Association (IOA) denied media reports of a ban on wrestler Antim Panghal after a disciplinary breach at the Paris Olympics. The incident involved Antim’s sister impersonating her to access the Athletes Village. The IOA clarified no ban was imposed and urged media to verify reports with them. The incident has raised concerns about Olympic protocol adherence, and the IOA, along with Paris organizers, will likely investigate further to maintain the Games's integrity and security.
+
+## 20 of the most powerful US cars ever built; check their speed, engine, power and more
+ - [https://timesofindia.indiatimes.com/auto/cars/20-of-the-most-powerful-us-cars-ever-built-check-their-speed-engine-power-and-more/articleshow/112377205.cms](https://timesofindia.indiatimes.com/auto/cars/20-of-the-most-powerful-us-cars-ever-built-check-their-speed-engine-power-and-more/articleshow/112377205.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T12:07:35+00:00
+
+The article reviewed 20 of the most powerful cars ever built in the U.S., highlighting their engineering and performance. It included supercars like the Hennessy Venom F5, muscle cars like the Dodge Challenger Demon, and electric vehicles like the Tesla Model S Plaid, showcasing the diverse range of high-performance vehicles American manufacturers have produced.
+
+## 0.0.0.0 bug: How Google and Apple plan to save your devices from this 'spy attack'
+ - [https://timesofindia.indiatimes.com/technology/tech-news/0-0-0-0-bug-how-google-and-apple-plan-to-save-your-devices-from-this-spy-attack/articleshow/112377341.cms](https://timesofindia.indiatimes.com/technology/tech-news/0-0-0-0-bug-how-google-and-apple-plan-to-save-your-devices-from-this-spy-attack/articleshow/112377341.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T12:01:24+00:00
+
+Apple and Google are working to patch a long-standing security flaw in Safari and Chrome, allowing hackers to exploit the 0.0.0.0 IP address to bypass network security. By blocking this vulnerable address in their upcoming updates, both tech giants aim to prevent unauthorized access to private networks, impacting users hosting web servers and AI training frameworks.
+
+## AJ Lee dating history: Exploring personal life of CM Punk's beloved wife
+ - [https://timesofindia.indiatimes.com/sports/wwe/top-stories/aj-lee-dating-history-a-look-into-cm-punks-wifes-past-relationships/articleshow/112375158.cms](https://timesofindia.indiatimes.com/sports/wwe/top-stories/aj-lee-dating-history-a-look-into-cm-punks-wifes-past-relationships/articleshow/112375158.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T11:46:18+00:00
+
+AJ Mendez, also known as AJ Lee, a retired WWE wrestler, has had her share of relationships before marrying CM Punk in 2014. Her past relationships included John Cena, Trent Barreta, Jay Lethal, and Dolph Ziggler, although she denied dating Ziggler. AJ and CM Punk’s relationship began during a WWE storyline in 2012.
+
+## 'No updates' on when Sheikh Hasina will leave India, says MEA
+ - [https://timesofindia.indiatimes.com/india/no-updates-on-when-sheikh-hasina-will-leave-india-says-mea/articleshow/112376244.cms](https://timesofindia.indiatimes.com/india/no-updates-on-when-sheikh-hasina-will-leave-india-says-mea/articleshow/112376244.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T11:28:18+00:00
+
+
+
+## Neeraj Chopra in javelin final at Paris Olympics: Know his age, height and other details
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/neeraj-chopra-in-javelin-final-at-paris-olympics-know-his-age-height-education-family-net-worth-achievements-and-medals/articleshow/112374701.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/neeraj-chopra-in-javelin-final-at-paris-olympics-know-his-age-height-education-family-net-worth-achievements-and-medals/articleshow/112374701.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T11:16:29+00:00
+
+Neeraj Chopra, the Indian javelin thrower, secured his place among the greats by defending his 2020 Tokyo gold medal at the 2024 Paris Olympics with a record throw of 89.12 metres. Born in 1997 in Panipat, Haryana, Chopra's journey from a small village to global fame reflects his dedication and talent, making him a national icon.
+
+## Ladakh discovery unveils key clues for extraterrestrial life search
+ - [https://timesofindia.indiatimes.com/science/ladakh-discovery-unveils-key-clues-for-extraterrestrial-life-search/articleshow/112375597.cms](https://timesofindia.indiatimes.com/science/ladakh-discovery-unveils-key-clues-for-extraterrestrial-life-search/articleshow/112375597.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T11:10:08+00:00
+
+Researchers from BSIP unearthed magnetofossils in the rock varnish of Ladakh, India's cold desert. This discovery is crucial for astrobiology and highlights the role of biotic processes in rock varnish formation. The harsh conditions of Ladakh serve as a model for Martian environments, aiding future space missions in searching for potential biosignatures on Mars.
+
+## Delhi court extends Kejriwal's judicial custody till August 20
+ - [https://timesofindia.indiatimes.com/city/delhi/excise-policy-cbi-case-delhi-court-extends-arvind-kejriwals-judicial-custody-till-august-20/articleshow/112374419.cms](https://timesofindia.indiatimes.com/city/delhi/excise-policy-cbi-case-delhi-court-extends-arvind-kejriwals-judicial-custody-till-august-20/articleshow/112374419.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T10:25:14+00:00
+
+Delhi Chief Minister Arvind Kejriwal's judicial custody in connection to the excise policy case was extended till August 20. The Delhi high court had earlier upheld his arrest by the CBI. Previously arrested on March 21 by the ED for money laundering, Kejriwal had received interim bail from the Supreme Court on July 12 in the same case.
+
+## Antim faces 3-year ban for indiscipline at Olympics: Source
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/antim-panghal-faces-three-year-ban-for-indiscipline-at-paris-olympics-source/articleshow/112374087.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/antim-panghal-faces-three-year-ban-for-indiscipline-at-paris-olympics-source/articleshow/112374087.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T10:20:12+00:00
+
+​​Panghal's actions during the Olympics brought shame to the Indian contingent when she attempted to use her accreditation card to grant her sister access to the Athletes Village. According to the source, Antim's sister was caught for impersonation and was taken to a police station to record her statement. She was eliminated in the first round of 53kg competition.
+
+## Meet US startup CEO who promised free visa to anywhere if Neeraj Chopra wins Gold
+ - [https://timesofindia.indiatimes.com/technology/tech-news/meet-the-us-startup-ceo-who-has-promised-free-visa-to-anywhere-if-neeraj-chopra-wins-gold-at-paris-olympics/articleshow/112373705.cms](https://timesofindia.indiatimes.com/technology/tech-news/meet-the-us-startup-ceo-who-has-promised-free-visa-to-anywhere-if-neeraj-chopra-wins-gold-at-paris-olympics/articleshow/112373705.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T10:04:09+00:00
+
+Mohak Nahta, CEO of Atlys, promised to give free visas for a day if Neeraj Chopra wins gold at the Paris Olympics. Announced on LinkedIn, Nahta pledged that travelers could get visas without charges for one day. Atlys simplifies the visa application process and keeps users informed about travel restrictions and requirements.
+
+## Neeraj Chopra's javelin final in Paris Olympics 2024: Know time and other details
+ - [https://timesofindia.indiatimes.com/technology/tech-tips/neeraj-chopras-javelin-final-in-paris-olympics-2024-know-how-to-watch-time-and-other-details/articleshow/112372929.cms](https://timesofindia.indiatimes.com/technology/tech-tips/neeraj-chopras-javelin-final-in-paris-olympics-2024-know-how-to-watch-time-and-other-details/articleshow/112372929.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T09:48:41+00:00
+
+Neeraj Chopra, World Championships gold medallist, is preparing to defend his title at Paris Olympics 2024. With an impressive 89.34-metre throw in the qualification round, he secured his spot in the final. The event will be broadcast live on Sports18 1 SD/HD and available on JioCinema.
+
+## 'Speaker's powers under threat': Akhilesh in LS; Amit Shah responds
+ - [https://timesofindia.indiatimes.com/india/amit-shah-vs-akhilesh-yadav-in-lok-sabha-akhilesh-alleges-speakers-rights-being-taken-away-amit-shah-responds/articleshow/112372303.cms](https://timesofindia.indiatimes.com/india/amit-shah-vs-akhilesh-yadav-in-lok-sabha-akhilesh-alleges-speakers-rights-being-taken-away-amit-shah-responds/articleshow/112372303.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T09:34:03+00:00
+
+
+
+## NEET PG 2024 admit card released; direct link here
+ - [https://timesofindia.indiatimes.com/education/news/neet-pg-2024-admit-card-released-at-natboard-edu-in-direct-link-here-check-hall-ticket-instructions/articleshow/112366561.cms](https://timesofindia.indiatimes.com/education/news/neet-pg-2024-admit-card-released-at-natboard-edu-in-direct-link-here-check-hall-ticket-instructions/articleshow/112366561.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T09:33:22+00:00
+
+The National Board of Examinations in Medical Sciences (NBEMS) released the NEET PG 2024 Admit Card on August 8. Candidates can download their admit cards from natboard.edu.in using their application number and password.
+
+## 'Attack on freedom of religion': Oppn targets Centre over Waqf Bill
+ - [https://timesofindia.indiatimes.com/india/draconian-attack-on-freedom-of-religion-oppn-targets-centre-over-waqf-bill-parliament-session/articleshow/112369810.cms](https://timesofindia.indiatimes.com/india/draconian-attack-on-freedom-of-religion-oppn-targets-centre-over-waqf-bill-parliament-session/articleshow/112369810.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T09:18:30+00:00
+
+The Congress party and other opposition members strongly protested against the Modi 3.0 government's proposal to amend the Waqf Act, 1995. They described the bill as unconstitutional, targeting religious minorities, and divisive. Minister Kiren Rijiju sought to table the bill, which includes changing Waqf board memberships to include Muslims and non-Muslims.
+
+## How Vinesh Phogat has fought with adversities since childhood
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/how-vinesh-phogat-has-fought-with-adversities-and-family-tragedies-since-childhood/articleshow/112370966.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/how-vinesh-phogat-has-fought-with-adversities-and-family-tragedies-since-childhood/articleshow/112370966.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T08:40:47+00:00
+
+Indian wrestler Vinesh Phogat announced her retirement after being disqualified from the Paris Olympics due to being overweight. Despite facing numerous challenges, including her father's tragic death and societal pressures, Vinesh achieved considerable success in wrestling, earning medals at the Commonwealth Games, Asian Games, and World Championships. Her family has been instrumental in her journey.
+
+## 'I stand between the posts for final time': Sreejesh before 'farewell' match
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/i-stand-between-the-posts-for-the-final-time-pr-sreejesh-shares-emotional-message-ahead-of-his-farewell-match-for-india/articleshow/112370722.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/i-stand-between-the-posts-for-the-final-time-pr-sreejesh-shares-emotional-message-ahead-of-his-farewell-match-for-india/articleshow/112370722.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T08:37:00+00:00
+
+PR Sreejesh shared a heartfelt message on social media before his final appearance for the Indian hockey team, expressing gratitude and pride. In the Paris Olympics, India will aim for bronze against Spain after a close semifinal loss to Germany. Sreejesh previously played a key role in India's bronze at Tokyo 2020 and in other major championships.
+
+## Lion's Gate Portal 2024; What does it mean for your zodiac sign
+ - [https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/lions-gate-portal-2024-what-does-it-mean-for-your-zodiac-sign/articleshow/112369885.cms](https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/lions-gate-portal-2024-what-does-it-mean-for-your-zodiac-sign/articleshow/112369885.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T08:07:22+00:00
+
+The Lion's Gate Portal of 2024 offered a unique cosmic energy, particularly impactful due to Angel Number 888 and Solar Cycle 25. Each zodiac sign experienced specific influences, ranging from Aries' boost in courage to Pisces' focus on daily routines. This period allowed individuals to harness universal cosmic energy for personal growth and transformation.
+
+## Government has a high risk warning for these Android smartphone users
+ - [https://timesofindia.indiatimes.com/technology/tech-news/government-has-a-high-risk-warning-for-these-android-users/articleshow/112369801.cms](https://timesofindia.indiatimes.com/technology/tech-news/government-has-a-high-risk-warning-for-these-android-users/articleshow/112369801.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T08:02:03+00:00
+
+Indian Cyber Emergency Response Team (CERT-In) issued an advisory regarding multiple vulnerabilities in Android devices running Android 12, 12L, 13, and 14.
+
+## See Pic: Naga Chaitanya and Sobhita Dhulipala Engaged!
+ - [https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-and-sobhita-dhulipala-engaged-nagarjuna-announces-officially-see-pic/articleshow/112369714.cms](https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-and-sobhita-dhulipala-engaged-nagarjuna-announces-officially-see-pic/articleshow/112369714.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T07:59:24+00:00
+
+Actor Naga Chaitanya and actress Sobhita Dhulipala got engaged after years of dating. Naga Chaitanya's father, Nagarjuna, shared the news on social media, posting an official engagement picture. The ceremony took place at Chaitanya's house in Hyderabad, attended by their families. The couple had kept their relationship private until this announcement.
+
+## 7.1 magnitude earthquake strikes Japan; Tsunami warning issued
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-hits-japans-southern-region/articleshow/112369467.cms](https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-hits-japans-southern-region/articleshow/112369467.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T07:53:54+00:00
+
+
+
+## Why are people protesting in the UK? What sparked the outrage?
+ - [https://timesofindia.indiatimes.com/world/uk/explained-why-are-people-protesting-in-the-uk-what-sparked-the-outrage/articleshow/112368207.cms](https://timesofindia.indiatimes.com/world/uk/explained-why-are-people-protesting-in-the-uk-what-sparked-the-outrage/articleshow/112368207.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T07:41:39+00:00
+
+A wave of riots erupted across the UK, triggered by a tragic knife attack in Southport, leading to violent anti-immigration demonstrations. Misidentification of the attacker, hailing from Rwandan parents, fueled misinformation and clashes. Both far-right groups and anti-racism protesters took to the streets, resulting in numerous arrests and judicial actions. PM Starmer condemned the unrest.
+
+## 'Prepared for chaos, but that was...': Gold medalist Sarah on Vinesh
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/i-prepared-for-chaos-but-that-was-gold-medalist-sarah-ann-hildebrandt-on-vinesh-phogats-disqualification-from-paris-olympics/articleshow/112367588.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/i-prepared-for-chaos-but-that-was-gold-medalist-sarah-ann-hildebrandt-on-vinesh-phogats-disqualification-from-paris-olympics/articleshow/112367588.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T07:04:19+00:00
+
+Sarah Ann Hildebrandt won the gold in the 50kg wrestling category at the Paris Olympics after Indian wrestler Vinesh Phogat was disqualified for being 100 grams overweight. Hildebrandt, initially confused about Phogat's absence, defeated Cuban wrestler Yusneylis Guzman Lopez in the final. Hildebrandt's disciplined weight cut over two years paid off successfully.
+
+## 'How dare you shout at the Chair?' Dhankhar rebukes Derek O'Brien, other oppn leaders in RS
+ - [https://timesofindia.indiatimes.com/india/how-dare-you-shout-at-the-chair-dhankhar-rebukes-derek-obrien-other-oppn-leaders-in-rs-see-video/articleshow/112367687.cms](https://timesofindia.indiatimes.com/india/how-dare-you-shout-at-the-chair-dhankhar-rebukes-derek-obrien-other-oppn-leaders-in-rs-see-video/articleshow/112367687.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T07:03:46+00:00
+
+Rajya Sabha Chairman Jagdeep Dhankar criticized TMC leader Derek O'Brien and other opposition leaders following ruckus over wrestler Vinesh Phogat's disqualification from the Paris Olympics. Dhankar condemned the opposition's conduct and praised Haryana's decision to honor Phogat. Phogat announced her retirement from international wrestling, citing a lack of strength to continue after her disqualification for being overweight.
+
+## Neeraj vs Nadeem: 'Yeh gold hum jeetenge' - Pak cricketers
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/neeraj-chopra-vs-arshad-nadeem-yeh-gold-medal-hum-jeetenge-say-pakistan-cricketers-watch/articleshow/112367149.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/neeraj-chopra-vs-arshad-nadeem-yeh-gold-medal-hum-jeetenge-say-pakistan-cricketers-watch/articleshow/112367149.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T06:43:46+00:00
+
+One of the subplots of the much-awaited men's javelin throw final at the Paris Olympics on Thursday is the India vs Pakistan battle between defending champion Neeraj Chopra and Arshad Nadeem. Germany's Julian Weber, Jakub Vadlejch of Czech Republic and Anderson Peters of Grenada are also gold-medal contenders. The final is scheduled for 11:55 pm IST today.
+
+## Marxist journey of 'Brand Buddha' Buddhadeb Bhattacharjee
+ - [https://timesofindia.indiatimes.com/city/kolkata/left-behind-the-marxist-journey-of-brand-buddha-buddhadeb-bhattacharjee/articleshow/112366309.cms](https://timesofindia.indiatimes.com/city/kolkata/left-behind-the-marxist-journey-of-brand-buddha-buddhadeb-bhattacharjee/articleshow/112366309.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T06:22:24+00:00
+
+Buddhadeb Bhattacharjee, former West Bengal Chief Minister, passed away at 80. Known for prioritizing industrialization over traditional Marxist policies, he aimed to rejuvenate Bengal's economy. Despite efforts, his initiatives, especially at Singur and Nandigram, led to public backlash and TMC's rise to power in 2011, ending a 34-year Left regime.
+
+## Can never forget what I saw in Bangladesh, now I love India more!
+ - [https://timesofindia.indiatimes.com/life-style/relationships/soul-curry/i-can-never-forget-what-i-saw-in-bangladesh-and-now-i-love-india-even-more/articleshow/112366390.cms](https://timesofindia.indiatimes.com/life-style/relationships/soul-curry/i-can-never-forget-what-i-saw-in-bangladesh-and-now-i-love-india-even-more/articleshow/112366390.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T06:13:08+00:00
+
+Chittagong port is huge and the city is bustling. Dhaka looked like Bandra Kurla Complex, the are we lived in was Banani, a tony upscale part of the city. Traffic was chaotic, heat was oppressive but it felt nice when did Jamdani saree shopping and ate Hilsa, the queen of Padma river. My family left for Kolkata and I settled back in Chittagong, my teaching begun. Since it is an university for women my students were all girls and oh, boy they came from societies which are oppressive and some from warzone like Afghanistan or Sri Lanka.
+
+## Rohit Sharma explains why India failed to dominate SL spin
+ - [https://timesofindia.indiatimes.com/sports/cricket/india-in-sri-lanka/we-did-not-play-rohit-sharma-explains-why-india-failed-to-dominate-against-sri-lanka-spin/articleshow/112365958.cms](https://timesofindia.indiatimes.com/sports/cricket/india-in-sri-lanka/we-did-not-play-rohit-sharma-explains-why-india-failed-to-dominate-against-sri-lanka-spin/articleshow/112365958.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T05:56:31+00:00
+
+After India's series defeat by Sri Lanka, captain Rohit Sharma expressed concerns about the team's struggles against spin and the lack of sweep shots. Sri Lanka won the series 2-0, marking their first ODI series victory over India in 27 years. Rohit emphasized the importance of scoring during the powerplay and acknowledged Sri Lankan batsmen's smarter approach to handling spin.
+
+## Plea filed in SC seeking NEET-PG exam postponement
+ - [https://timesofindia.indiatimes.com/education/news/neet-pg-2024-supreme-court-plea-for-exam-postponement-amid-logistical-issues-and-paper-leak-rumours/articleshow/112365731.cms](https://timesofindia.indiatimes.com/education/news/neet-pg-2024-supreme-court-plea-for-exam-postponement-amid-logistical-issues-and-paper-leak-rumours/articleshow/112365731.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T05:51:16+00:00
+
+A Supreme Court plea has been filed to postpone the NEET PG 2024 exam, scheduled for August 11, due to inconvenient test city allocations and potential logistical issues. The petition highlights difficulties faced by students in reaching their centres amid rising travel costs. Additionally, social media claims of a paper leak have caused concern. However, the NBEMS has clarified that no papers have been set and assured candidates that claims of leaks are false.
+
+## Nasa telescope uncovers surprising jets heating dust around black hole
+ - [https://timesofindia.indiatimes.com/science/nasa-james-webb-space-telescope-uncovers-surprising-jets-heating-dust-around-distant-supermassive-black-hole/articleshow/112364850.cms](https://timesofindia.indiatimes.com/science/nasa-james-webb-space-telescope-uncovers-surprising-jets-heating-dust-around-distant-supermassive-black-hole/articleshow/112364850.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T05:37:11+00:00
+
+Astronomers, using the James Webb Space Telescope, revealed that the heating of dust and gas around a distant supermassive black hole in ESO 428-G14 originated from high-speed gas jets rather than the black hole itself. This discovery challenges previous theories and could provide new insights into how supermassive black holes influence their galaxies and recycle material in AGNs.
+
+## RBI keeps repo rate unchanged for 9th time in a row at 6.5%
+ - [https://timesofindia.indiatimes.com/business/india-business/rbi-keeps-repo-rate-unchanged-for-9th-time-in-a-row-at-6-5/articleshow/112365174.cms](https://timesofindia.indiatimes.com/business/india-business/rbi-keeps-repo-rate-unchanged-for-9th-time-in-a-row-at-6-5/articleshow/112365174.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T05:29:47+00:00
+
+The Reserve Bank of India decided to keep the policy repo rate unchanged at 6.5% for the ninth consecutive time, citing strong demand and the need to manage inflation. The governor, Shaktikanta Das, also emphasized the importance for banks to focus on mobilizing household deposits instead of relying on wholesale resources for lending.
+
+## Israel vows to eliminate new Hamas chief; stokes fears of deepening Gaza war
+ - [https://timesofindia.indiatimes.com/world/middle-east/israel-vows-to-eliminate-new-hamas-chief-stokes-fears-of-deepening-gaza-war/articleshow/112364831.cms](https://timesofindia.indiatimes.com/world/middle-east/israel-vows-to-eliminate-new-hamas-chief-stokes-fears-of-deepening-gaza-war/articleshow/112364831.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T05:26:50+00:00
+
+Israel pledged to remove Hamas leader Yahya Sinwar, accused of masterminding the October 7 assault. The Gaza war’s intensity grows with Sinwar’s appointment. Israel is prepared for potential Iranian retaliation following the assassination of Sinwar’s predecessor. Sinwar’s leadership and hardline approach suggests a less likely ceasefire, impacting residents in Israel and Gaza.
+
+## Will try talking to Vinesh about competing in 2028 Olympics: Mahavir Phogat
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/will-try-talking-to-her-about-competing-in-2028-olympics-mahavir-phogat-after-vinesh-phogat-announces-retirement/articleshow/112364409.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/will-try-talking-to-her-about-competing-in-2028-olympics-mahavir-phogat-after-vinesh-phogat-announces-retirement/articleshow/112364409.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T05:14:04+00:00
+
+Vinesh Phogat retired from wrestling after being disqualified at the Paris Olympics for being overweight. Her uncle, Mahavir Phogat, aims to persuade her to compete in the 2028 Olympics. The Haryana government has decided to honor her with the same respect and rewards as an Olympic silver medalist, encouraging other athletes in similar situations.
+
+## Former West Bengal chief minister Buddhadeb Bhattacharjee passes away
+ - [https://timesofindia.indiatimes.com/india/former-west-bengal-chief-minister-buddhadeb-bhattacharjee-passes-away/articleshow/112364717.cms](https://timesofindia.indiatimes.com/india/former-west-bengal-chief-minister-buddhadeb-bhattacharjee-passes-away/articleshow/112364717.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T05:10:56+00:00
+
+
+
+## Beyond the Mat: Post-Olympics, what’s next for Vinesh Phogat
+ - [https://timesofindia.indiatimes.com/astrology/others/beyond-the-mat-post-olympics-whats-next-for-vinesh-phogat/articleshow/112363902.cms](https://timesofindia.indiatimes.com/astrology/others/beyond-the-mat-post-olympics-whats-next-for-vinesh-phogat/articleshow/112363902.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T04:39:02+00:00
+
+Vinesh Phogat was disqualified from the Paris Olympics 2024 and has announced her retirement. Numerological analysis of her name and birth date indicates she may soon enter politics and achieve international recognition. Her upcoming period shows promise in coaching and professional success but may include health concerns. Aligning her personal details could benefit her future endeavors.
+
+## High school romance: Class 9 student steals mother's gold to buy iPhone for girlfriend in Delhi
+ - [https://timesofindia.indiatimes.com/city/delhi/high-school-romance-class-9-student-steals-mothers-gold-to-buy-iphone-for-girlfriend-in-delhi/articleshow/112363411.cms](https://timesofindia.indiatimes.com/city/delhi/high-school-romance-class-9-student-steals-mothers-gold-to-buy-iphone-for-girlfriend-in-delhi/articleshow/112363411.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T04:31:55+00:00
+
+A Class 9 student in southwest Delhi's Najafgarh was apprehended for allegedly stealing his mother's gold jewelry to buy an iPhone for a female friend. The boy's mother had reported the theft, leading to a police investigation. The juvenile confessed after being caught, and a goldsmith was also arrested for buying the stolen items.
+
+## Airbnb may have just ‘told’ the worst that many feared about the US
+ - [https://timesofindia.indiatimes.com/technology/tech-news/airbnb-may-have-just-told-the-worst-that-many-have-been-fearing-about-the-us/articleshow/112363488.cms](https://timesofindia.indiatimes.com/technology/tech-news/airbnb-may-have-just-told-the-worst-that-many-have-been-fearing-about-the-us/articleshow/112363488.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T04:22:42+00:00
+
+Airbnb's earnings report revealed a projected decline in bookings for the upcoming quarter due to weakening US demand and shorter booking windows. Despite thriving international markets like Latin America and Asia Pacific, the US market showed signs of cooling.
+
+## Man shot dead by wife’s brother over inter-caste marriage in Rajasthan
+ - [https://timesofindia.indiatimes.com/city/jaipur/honour-killing-25-year-old-man-shot-dead-by-wifes-bro-over-inter-caste-marriage-in-rajasthans-jhunjhunu-district/articleshow/112363225.cms](https://timesofindia.indiatimes.com/city/jaipur/honour-killing-25-year-old-man-shot-dead-by-wifes-bro-over-inter-caste-marriage-in-rajasthans-jhunjhunu-district/articleshow/112363225.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T04:11:55+00:00
+
+In an incident of alleged honour killing in Jhunjhunu district, Ankit Jat was killed and his hand severed by his brother-in-law Rinku Rajput and his associates. The couple had married in an inter-caste ceremony seven months ago, despite threats. Ankit's family had sought police protection, but the attackers were undeterred.
+
+## 'Heartbroken that I cannot see and hug my mother': Sheikh Hasina's daughter
+ - [https://timesofindia.indiatimes.com/world/south-asia/heartbroken-that-i-cannot-see-and-hug-my-mother-former-bangladesh-pm-sheikh-hasinas-daughter/articleshow/112362632.cms](https://timesofindia.indiatimes.com/world/south-asia/heartbroken-that-i-cannot-see-and-hug-my-mother-former-bangladesh-pm-sheikh-hasinas-daughter/articleshow/112362632.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:57:27+00:00
+
+Sheikh Hasina's daughter, Saima Wazed, expressed sorrow over the events in Bangladesh and not being able to see her mother. Sheikh Hasina resigned as Prime Minister amid growing protests. After her resignation, she was moved to a secure location in Delhi. President Shahabuddin dissolved parliament, and Muhammad Yunus was appointed to lead the interim government. The demonstrations, initially focused on the abolition of the quota system for government jobs, transformed into broader anti-government sentiments.
+
+## BSF struggles to block terror-struck Bangladeshis fleeing homeland
+ - [https://timesofindia.indiatimes.com/city/kolkata/bsf-struggles-to-block-terror-struck-bangladeshis-fleeing-homeland/articleshow/112362798.cms](https://timesofindia.indiatimes.com/city/kolkata/bsf-struggles-to-block-terror-struck-bangladeshis-fleeing-homeland/articleshow/112362798.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:50:34+00:00
+
+
+
+## Newlyweds fight hours after marriage; woman found dead, man battling for life
+ - [https://timesofindia.indiatimes.com/city/bengaluru/karnatakas-newlyweds-fight-hours-after-marriage-woman-found-dead-man-battling-for-life/articleshow/112362784.cms](https://timesofindia.indiatimes.com/city/bengaluru/karnatakas-newlyweds-fight-hours-after-marriage-woman-found-dead-man-battling-for-life/articleshow/112362784.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:50:17+00:00
+
+A 19-year-old woman named Likitha was murdered by her husband, Naveen, just hours after their marriage in Kolar Gold Fields. The incident occurred in Chambarasanahalli village on Wednesday evening. Naveen attacked Likitha with a machete at his uncle's house. Police are investigating the motive behind the attack and how Naveen obtained the weapon.
+
+## 31 hours that broke Vinesh Phogat to the point that she quit
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/31-hours-that-broke-vinesh-phogat-to-the-point-that-she-quit/articleshow/112361986.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/31-hours-that-broke-vinesh-phogat-to-the-point-that-she-quit/articleshow/112361986.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:26:38+00:00
+
+After weighing a 100 gm more than her weight category of 50kg, Vinesh was disqualified from the Paris Olympics after reaching the final, and the echo of the uproar was heard in the Indian parliament as well. And understandably, it would have been too much for her to see someone who she beat in the semifinals winning the silver medal for her country.
+
+## Indore: Teen dies by suicide after teacher alleges rape
+ - [https://timesofindia.indiatimes.com/city/indore/indore-teen-dies-by-suicide-after-teacher-alleges-rape/articleshow/112362133.cms](https://timesofindia.indiatimes.com/city/indore/indore-teen-dies-by-suicide-after-teacher-alleges-rape/articleshow/112362133.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:23:42+00:00
+
+A 19-year-old student in Indore died by suicide after a teacher alleged rape, leading to allegations of harassment and corruption. The police have also filed a human trafficking case against Dr. Ajay Lal and associates in Damoh. Lal faces accusations of trafficking and religious coercion while his whereabouts remain unknown.
+
+## Now an industrial powerhouse, Kutch set for new airport at Kandla port
+ - [https://timesofindia.indiatimes.com/city/rajkot/kutch-set-for-new-airport-at-kandla/articleshow/112361993.cms](https://timesofindia.indiatimes.com/city/rajkot/kutch-set-for-new-airport-at-kandla/articleshow/112361993.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:18:00+00:00
+
+
+
+## Haryana govt to welcome and felicitate Vinesh Phogat like a medalist: CM Nayab Singh Saini
+ - [https://timesofindia.indiatimes.com/india/haryana-govt-to-welcome-and-felicitate-vinesh-phogat-like-a-medalist-cm-nayab-singh-saini/articleshow/112361806.cms](https://timesofindia.indiatimes.com/india/haryana-govt-to-welcome-and-felicitate-vinesh-phogat-like-a-medalist-cm-nayab-singh-saini/articleshow/112361806.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:13:09+00:00
+
+
+
+## Uttarakhand college bars married girl’s entry to ‘save its environment’
+ - [https://timesofindia.indiatimes.com/city/dehradun/married-11th-grader-denied-permission-to-attend-classes-in-uttarakhand/articleshow/112361514.cms](https://timesofindia.indiatimes.com/city/dehradun/married-11th-grader-denied-permission-to-attend-classes-in-uttarakhand/articleshow/112361514.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T03:00:26+00:00
+
+A 19-year-old class XI student in Almora, identified as Simran, was denied permission to attend Anand Singh Government Girls' Inter College after her marriage due to policies against married students. The principal cited concerns about classroom disruption. However, the chief education officer clarified there were no rules barring married students and provisionally allowed her to attend classes.
+
+## Watch: Protesters disrupt Harris's speech in Michigan. Her response
+ - [https://timesofindia.indiatimes.com/world/us/watch-protesters-try-to-disrupt-kamala-harriss-speech-in-michigan-her-response/articleshow/112360880.cms](https://timesofindia.indiatimes.com/world/us/watch-protesters-try-to-disrupt-kamala-harriss-speech-in-michigan-her-response/articleshow/112360880.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T02:46:44+00:00
+
+
+
+## 'Son of Fidel Castro, ... ':' What Trump said on Trudeau, Kim & Xi
+ - [https://timesofindia.indiatimes.com/world/us/son-of-fidel-castro-rocket-man-patriot-what-trump-said-on-justin-trudeau-kim-jong-un-and-xi-jinping/articleshow/112360373.cms](https://timesofindia.indiatimes.com/world/us/son-of-fidel-castro-rocket-man-patriot-what-trump-said-on-justin-trudeau-kim-jong-un-and-xi-jinping/articleshow/112360373.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T02:41:05+00:00
+
+Former US President Donald Trump reignited a conspiracy theory about Canadian Prime Minister Justin Trudeau's lineage, suggesting he could be Fidel Castro's son. Trump expressed his disapproval of Trudeau's liberal policies, claiming Canadians are unhappy. He also discussed his relationships with global leaders, including Xi Jinping and Kim Jong Un, and compared his approach to Biden's administration.
+
+## Lawrence Bishnoi interview: 'Black sheep in Punjab Police have to be identified'
+ - [https://timesofindia.indiatimes.com/city/chandigarh/black-sheep-in-punjab-police-have-to-be-identified-brought-to-book-punjab-and-haryana-high-court/articleshow/112360985.cms](https://timesofindia.indiatimes.com/city/chandigarh/black-sheep-in-punjab-police-have-to-be-identified-brought-to-book-punjab-and-haryana-high-court/articleshow/112360985.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T02:23:28+00:00
+
+The Punjab and Haryana high court urged for the identification and punishment of police officers involved in gangster Lawrence Bishnoi's interview at a Kharar police station. An SIT report confirmed the interview location. Opposition leaders demanded Punjab CM Bhagwant Mann's resignation over the incident, criticizing the government's handling and increasing gangsterism under AAP's rule since 2022.
+
+## 'Vinesh, aap haari nahi, haraaya gaya hai': Bajrang Punia
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/bajrang-punia-after-vinesh-phogat-announces-retirement-paris-olympics-vinesh-phogat-weight/articleshow/112360430.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/bajrang-punia-after-vinesh-phogat-announces-retirement-paris-olympics-vinesh-phogat-weight/articleshow/112360430.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T01:50:55+00:00
+
+Indian wrestler Vinesh Phogat has decided to end her career after a disappointing disqualification from the Olympic Games. The 29-year-old athlete was disqualified for being 100 grams over the weight limit in her 50kg category, just before her gold medal match on Wednesday. Phogat shared her decision to retire on social media platforms, expressing that she lacks the energy to carry on.
+
+## Isro to use mini-launcher SSLV to launch earth observation satellite-08 on I-Day
+ - [https://timesofindia.indiatimes.com/science/isro-to-use-mini-launcher-sslv-to-launch-earth-observation-satellite-08-on-i-day/articleshow/112360231.cms](https://timesofindia.indiatimes.com/science/isro-to-use-mini-launcher-sslv-to-launch-earth-observation-satellite-08-on-i-day/articleshow/112360231.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T01:25:18+00:00
+
+Isro, on Aug 15, successfully launched the Earth Observation Satellite-8 using its newly-developed SSLV-D3 from Sriharikota. The EOS-08 mission aimed to design a microsatellite, develop new technologies for future satellites, and included polarized payloads like EOIR and GNSS-R. The integration of advanced satellite technology marked a significant achievement for Isro's operational capabilities.
+
+## 'Alvida, kushti': Vinesh Phogat announces retirement after Paris Olympics disqualification
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/alvida-kushti-vinesh-phogat-announces-retirement-after-paris-olympics-disqualification/articleshow/112359967.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/alvida-kushti-vinesh-phogat-announces-retirement-after-paris-olympics-disqualification/articleshow/112359967.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T00:38:11+00:00
+
+A disappointed and heartbroken Indian wrestler, Vinesh Phogat announced her retirement from wrestling on Thursday following her disqualification from the Paris Olympics. Vinesh shared an emotional message on social media. She was disqualified after being found 100 grams overweight during the weigh-in ahead of her gold medal match. Vinesh made history by becoming the first Indian woman wrestler to reach the gold medal bout in her category on Tuesday. She was assured of at least a silver medal before the disqualification.
+
+## 100g crush a billion hopes, turn dream of gold to dust
+ - [https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/100g-crush-a-billion-hopes-turn-dream-of-gold-to-dust/articleshow/112359931.cms](https://timesofindia.indiatimes.com/sports/paris-olympics-2024/indiaparis/100g-crush-a-billion-hopes-turn-dream-of-gold-to-dust/articleshow/112359931.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T00:32:12+00:00
+
+Vinesh Phogat faced disqualification from the competition due to exceeding the weight limit by 100 grams. Despite her efforts and struggles, including fighting against the federation chief, she couldn't manage her weight after competing in multiple bouts. This setback halted her journey towards the Olympics gold medal fight in Paris.
+
+## SC expunges HC judge’s remarks against top court, warns against indiscipline
+ - [https://timesofindia.indiatimes.com/india/sc-expunges-hc-judges-remarks-against-top-court-warns-against-indiscipline/articleshow/112359872.cms](https://timesofindia.indiatimes.com/india/sc-expunges-hc-judges-remarks-against-top-court-warns-against-indiscipline/articleshow/112359872.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T00:21:59+00:00
+
+The Supreme Court expunged remarks made by Punjab and Haryana HC judge Rajbir Sehrawat in a July 17 order, citing harm to the judiciary's image. The bench refrained from further action but issued a caution for the future. The court emphasized the need to preserve the judicial process's sanctity. Justice Sehrawat, who was appointed as a judge of Punjab and Haryana HC on July 10, 2017, is scheduled to retire on Oct 30.
+
+## Bill for oversight of Waqf Boards likely in Lok Sabha today
+ - [https://timesofindia.indiatimes.com/india/bill-for-oversight-of-waqf-boards-likely-in-lok-sabha-today/articleshow/112359721.cms](https://timesofindia.indiatimes.com/india/bill-for-oversight-of-waqf-boards-likely-in-lok-sabha-today/articleshow/112359721.cms)
+ - RSS feed: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2024-08-08T00:08:48+00:00
+
+The government planned to introduce the Waqf (Amendment) Bill, 2024, in Lok Sabha. The bill aimed to limit Waqf Boards' powers in declaring a property as ‘Waqf’, requiring a district magistrate’s survey. It proposed changes in the composition of Waqf Councils and Boards, inclusion of diverse representation, and introduced a chief executive officer role.
+
