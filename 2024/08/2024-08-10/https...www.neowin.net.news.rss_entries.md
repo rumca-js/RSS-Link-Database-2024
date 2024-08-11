@@ -1,0 +1,142 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Save 80% off this AI Super Skills Bundle feat. ChatGPT, Leonardo, Midjourney, and more
+ - [https://www.neowin.net/deals/save-80-off-this-ai-super-skills-bundle-feat-chatgpt-leonardo-midjourney-and-more](https://www.neowin.net/deals/save-80-off-this-ai-super-skills-bundle-feat-chatgpt-leonardo-midjourney-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1695234658_openai-dall-e3_medium.jpg" /></div>With today&#039;s highlighted deal, use the power of the ever-growing AI reliance to your advantage with 15 hours of content on ChatGPT, Leonardo, Midjourney, DALL-E 3 and more. Time limited deal. <a href="https://www.neowin.net/deals/save-80-off-this-ai-super-skills-bundle-feat-chatgpt-leonardo-midjourney-and-more/">Read more...</a>
+
+## Perplexity now receives as many monthly search queries as it did during all of 2023
+ - [https://www.neowin.net/news/perplexity-now-receives-as-many-monthly-search-queries-as-it-did-during-all-of-2023](https://www.neowin.net/news/perplexity-now-receives-as-many-monthly-search-queries-as-it-did-during-all-of-2023)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T15:36:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/01/1704431339_perplexity_medium.jpg" /></div>The AI search engine Perplexity has just recorded 250 million monthly searches. This is compared to the 500 million queries it received during the whole of 2023. This highlights its growing popularity <a href="https://www.neowin.net/news/perplexity-now-receives-as-many-monthly-search-queries-as-it-did-during-all-of-2023/">Read more...</a>
+
+## 65-inch Sony 4K Ultra HD BRAVIA 3 Smart Google TV is available at its lowest price
+ - [https://www.neowin.net/deals/65-inch-sony-4k-ultra-hd-bravia-3-smart-google-tv-is-available-at-its-lowest-price](https://www.neowin.net/deals/65-inch-sony-4k-ultra-hd-bravia-3-smart-google-tv-is-available-at-its-lowest-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T15:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723301839_sony_bravia_3_medium.jpg" /></div>Currently, the 65-inch Sony 4K Ultra HD BRAVIA 3 Smart Google TV is available at its lowest price on Amazon. Upgrade your home entertainment experience today with a high-quality Sony TV. <a href="https://www.neowin.net/deals/65-inch-sony-4k-ultra-hd-bravia-3-smart-google-tv-is-available-at-its-lowest-price/">Read more...</a>
+
+## Get this Cybersecurity For Dummies, 2nd Edition eBook ($19 Value) — for free
+ - [https://www.neowin.net/sponsored/get-this-cybersecurity-for-dummies-2nd-edition-ebook-19-value--for-free](https://www.neowin.net/sponsored/get-this-cybersecurity-for-dummies-2nd-edition-ebook-19-value--for-free)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T15:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723111023_w_wile596c82_medium.jpg" /></div>Every day it seems we read another story about one company or another being targeted by cybercriminals. It makes some of us wonder: am I safe online? Find out now with this eBook, for free! <a href="https://www.neowin.net/sponsored/get-this-cybersecurity-for-dummies-2nd-edition-ebook-19-value--for-free/">Read more...</a>
+
+## Latest Galaxy S24 FE leak reveals almost everything you need to know about the phone
+ - [https://www.neowin.net/news/latest-galaxy-s24-fe-leak-reveals-almost-everything-you-need-to-know-about-the-phone](https://www.neowin.net/news/latest-galaxy-s24-fe-leak-reveals-almost-everything-you-need-to-know-about-the-phone)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T14:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723298077_samsung-galaxy-s24-fe_medium.jpg" /></div>Multiple leaked promotional images of the alleged Samsung Galaxy S24 FE show off all the details you need to know from key specifications to colors of the upcoming Fan Edition phone. <a href="https://www.neowin.net/news/latest-galaxy-s24-fe-leak-reveals-almost-everything-you-need-to-know-about-the-phone/">Read more...</a>
+
+## Google Meet gets a new 'Take notes for me' AI-powered feature
+ - [https://www.neowin.net/news/google-meet-gets-a-new-take-notes-for-me-ai-powered-feature](https://www.neowin.net/news/google-meet-gets-a-new-take-notes-for-me-ai-powered-feature)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T13:12:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/07/1657560219_meet_blog_hero.max-1000x1000_medium.jpg" /></div>Google Meet is adding a new AI-powered feature called &quot;Take notes for me,&quot; which will automatically take notes during meetings to help you focus on your meetings rather than taking notes. <a href="https://www.neowin.net/news/google-meet-gets-a-new-take-notes-for-me-ai-powered-feature/">Read more...</a>
+
+## Get the Sennheiser Accentum wireless earbuds now with a 25% discount
+ - [https://www.neowin.net/deals/get-the-sennheiser-accentum-wireless-earbuds-now-with-a-25-discount](https://www.neowin.net/deals/get-the-sennheiser-accentum-wireless-earbuds-now-with-a-25-discount)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T10:40:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723284623_sennheiser-accentum_medium.jpg" /></div>You can now save a whopping 25% off the Sennheiser Accentum true wireless earbuds. They feature Bluetooth 5.3 connectivity, touch controls, hybrid active noise cancellation and more. <a href="https://www.neowin.net/deals/get-the-sennheiser-accentum-wireless-earbuds-now-with-a-25-discount/">Read more...</a>
+
+## Weekend PC Game Deals: QuakeCon specials, Bundled Capcom, and cats
+ - [https://www.neowin.net/news/weekend-pc-game-deals-quakecon-specials-bundled-capcom-and-cats](https://www.neowin.net/news/weekend-pc-game-deals-quakecon-specials-bundled-capcom-and-cats)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T09:30:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2018/04/1524140359_2_medium.jpg" /></div>This weekend&#039;s PC game deals include bundles containing Capcom hits and puzzle games for escape room fans, alongside a free event for Elder Scrolls fans, a double giveaway, QuakeCon specials and more. <a href="https://www.neowin.net/news/weekend-pc-game-deals-quakecon-specials-bundled-capcom-and-cats/">Read more...</a>
+
+## You can now try the new Start menu Category view in the latest Windows 11 Beta build
+ - [https://www.neowin.net/news/you-can-now-try-the-new-start-menu-category-view-in-the-latest-windows-11-beta-build](https://www.neowin.net/news/you-can-now-try-the-new-start-menu-category-view-in-the-latest-windows-11-beta-build)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T08:50:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1722586330_windows_11_medium.jpg" /></div>Users recently discovered that Microsoft is working on a new Category view for the Start menu. Now, with the latest Windows 11 Beta build, every insider can try the new view in its working state. <a href="https://www.neowin.net/news/you-can-now-try-the-new-start-menu-category-view-in-the-latest-windows-11-beta-build/">Read more...</a>
+
+## Apple Maps on iOS 18 gains a useful 'Search Here' feature
+ - [https://www.neowin.net/news/apple-maps-on-ios-18-gains-a-useful-search-here-feature](https://www.neowin.net/news/apple-maps-on-ios-18-gains-a-useful-search-here-feature)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T08:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2016/02/apple-maps-connect1-1920_medium.jpg" /></div>With iOS 18, Apple has added a new Search Here button to Apple Maps, making it much easier to find what you were looking for in a previous location when you move to a different location. <a href="https://www.neowin.net/news/apple-maps-on-ios-18-gains-a-useful-search-here-feature/">Read more...</a>
+
+## Susan Wojcicki, formative Google Exec and former YouTube CEO passed away at 56
+ - [https://www.neowin.net/news/susan-wojcicki-formative-google-exec-and-former-youtube-ceo-passed-away-at-56](https://www.neowin.net/news/susan-wojcicki-formative-google-exec-and-former-youtube-ceo-passed-away-at-56)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T07:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723273225_wojcicki_medium.jpg" /></div>One of the earliest Google employees, Susan Wojcicki, has died at the age of 56. The former CEO of YouTube stepped away from the key role early last year to focus on her family and health. <a href="https://www.neowin.net/news/susan-wojcicki-formative-google-exec-and-former-youtube-ceo-passed-away-at-56/">Read more...</a>
+
+## Microsoft Edge 129 is out in Dev Channel with Browser Essentials and Gamer Mode improvements
+ - [https://www.neowin.net/news/microsoft-edge-129-is-out-in-dev-channel-with-browser-essentials-and-gamer-mode-improvements](https://www.neowin.net/news/microsoft-edge-129-is-out-in-dev-channel-with-browser-essentials-and-gamer-mode-improvements)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T06:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723271571_edge_dev_129_medium.jpg" /></div>Microsoft Edge 129 is now available for testing in the Dev Channel. This week&#039;s feature update delivers improvements for Browser Essentials and Gamer Mode and various fixes under the hood. <a href="https://www.neowin.net/news/microsoft-edge-129-is-out-in-dev-channel-with-browser-essentials-and-gamer-mode-improvements/">Read more...</a>
+
+## Microsoft is retiring the Paint 3D Windows app on November 4
+ - [https://www.neowin.net/news/microsoft-is-retiring-the-paint-3d-windows-app-on-november-4](https://www.neowin.net/news/microsoft-is-retiring-the-paint-3d-windows-app-on-november-4)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T06:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723267162_paint-3d_medium.jpg" /></div>Microsoft is quietly retiring its Paint 3D Windows app. The app, which was launched in 2016, will no longer receive updates and will be removed from the Microsoft Store on November 4. <a href="https://www.neowin.net/news/microsoft-is-retiring-the-paint-3d-windows-app-on-november-4/">Read more...</a>
+
+## Samsung Galaxy Tab S10+ picks up SafetyKorea certification ahead of launch
+ - [https://www.neowin.net/news/samsung-galaxy-tab-s10-picks-up-safetykorea-certification-ahead-of-launch](https://www.neowin.net/news/samsung-galaxy-tab-s10-picks-up-safetykorea-certification-ahead-of-launch)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T05:48:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723267773_galaxy-tab-s9_medium.jpg" /></div>A Samsung Galaxy Tab S10+ Wi-Fi variant with model number SM-X820N has been spotted on the SafetyKorea certification website, signaling the imminent launch of the Galaxy Tab S10 series. <a href="https://www.neowin.net/news/samsung-galaxy-tab-s10-picks-up-safetykorea-certification-ahead-of-launch/">Read more...</a>
+
+## Get the Lenovo Legion Go portable gaming PC for its lowest price ever
+ - [https://www.neowin.net/deals/get-the-lenovo-legion-go-portable-gaming-pc-for-its-lowest-price-ever](https://www.neowin.net/deals/get-the-lenovo-legion-go-portable-gaming-pc-for-its-lowest-price-ever)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T05:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1693546516_17_legion_go_hero_front_facing_right_controlllers_off-1024x576_medium.jpg" /></div>The Lenovo Legion Go is a portable gaming PC with an 8.8-inch display and side controllers that can detach from the main PC. It&#039;s available now on Amazon for its lowest price ever of $551.95. <a href="https://www.neowin.net/deals/get-the-lenovo-legion-go-portable-gaming-pc-for-its-lowest-price-ever/">Read more...</a>
+
+## This UK carrier might offer double the storage for the Google Pixel 9 for free
+ - [https://www.neowin.net/news/this-uk-carrier-might-offer-double-the-storage-for-the-google-pixel-9-for-free](https://www.neowin.net/news/this-uk-carrier-might-offer-double-the-storage-for-the-google-pixel-9-for-free)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T05:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1722606446_pixel-9-series-hero_medium.jpg" /></div>One of the major UK carriers is rumored to offer double the storage for free for the Google Pixel 9 smartphones, which applies to all storage variants of the upcoming flagship smartphones. <a href="https://www.neowin.net/news/this-uk-carrier-might-offer-double-the-storage-for-the-google-pixel-9-for-free/">Read more...</a>
+
+## Samsung's latest One UI update should make streaming phone apps to Windows PCs easier
+ - [https://www.neowin.net/news/samsungs-latest-one-ui-update-should-make-streaming-phone-apps-to-windows-pcs-easier](https://www.neowin.net/news/samsungs-latest-one-ui-update-should-make-streaming-phone-apps-to-windows-pcs-easier)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T05:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721109173_one-ui-hero_medium.jpg" /></div>Samsung&#039;s One UI 6.1.1 update, available on the recently released Galaxy Z Fold6 and Flip6 smartphones, can make it easier to stream phone apps to your Windows PC compared to earlier updates. <a href="https://www.neowin.net/news/samsungs-latest-one-ui-update-should-make-streaming-phone-apps-to-windows-pcs-easier/">Read more...</a>
+
+## Huawei's tri-folding phone allegedly spotted in the wild, tipped to enter production soon
+ - [https://www.neowin.net/news/huaweis-tri-folding-phone-allegedly-spotted-in-the-wild-tipped-to-enter-production-soon](https://www.neowin.net/news/huaweis-tri-folding-phone-allegedly-spotted-in-the-wild-tipped-to-enter-production-soon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T04:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/12/1671014849_1610831357_huawei_standard_logo_medium.jpg" /></div>After being spotted in the hands of the company&#039;s ex-CEO, Richard Yu, a fresh tip suggests that Huawei&#039;s tri-folding phone powered by Kirin 9 series SoC, could enter mass production soon. <a href="https://www.neowin.net/news/huaweis-tri-folding-phone-allegedly-spotted-in-the-wild-tipped-to-enter-production-soon/">Read more...</a>
+
+## SpaceX to help get the North Pole and high latitude areas online - TWIRL #176
+ - [https://www.neowin.net/news/spacex-to-help-get-the-north-pole-and-high-latitude-areas-online---twirl-176](https://www.neowin.net/news/spacex-to-help-get-the-north-pole-and-high-latitude-areas-online---twirl-176)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T04:16:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2024/08/1723261950_twirl-176_medium.jpg" /></div>We have several diverse missions This Week in Rocket Launches. The most interesting will see SpaceX launch satellites that will provide internet over the North Pole and high latitude areas. <a href="https://www.neowin.net/news/spacex-to-help-get-the-north-pole-and-high-latitude-areas-online---twirl-176/">Read more...</a>
+
+## The new Ara: History Untold video dev diary talks about its latest tech alpha
+ - [https://www.neowin.net/news/the-new-ara-history-untold-video-dev-diary-talks-about-its-latest-tech-alpha](https://www.neowin.net/news/the-new-ara-history-untold-video-dev-diary-talks-about-its-latest-tech-alpha)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-08-10T04:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/06/1655071470_arahistory_screenshot_07-scaled_medium.jpg" /></div>Developer Oxide Games has posted its latest video developer diary for its upcoming grand strategy game Ara: History Untold. This time, the video goes over the results of its technical alpha test. <a href="https://www.neowin.net/news/the-new-ara-history-untold-video-dev-diary-talks-about-its-latest-tech-alpha/">Read more...</a>
+

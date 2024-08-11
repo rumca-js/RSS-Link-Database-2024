@@ -1,0 +1,184 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## 76,000 Evacuated as Ukrainian Troops Push into Russia's Kursk Region
+ - [https://www.reddit.com/r/worldnews/comments/1ep3psh/76000_evacuated_as_ukrainian_troops_push_into](https://www.reddit.com/r/worldnews/comments/1ep3psh/76000_evacuated_as_ukrainian_troops_push_into)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T21:21:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ep3psh/76000_evacuated_as_ukrainian_troops_push_into/"> <img alt="76,000 Evacuated as Ukrainian Troops Push into Russia's Kursk Region " src="https://external-preview.redd.it/f-oThvUpi7pTku8Yozh-IypJes4JccMUt5kHjd8KIZk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a0d35822e802f0537dc01e80a4461869f245d4e" title="76,000 Evacuated as Ukrainian Troops Push into Russia's Kursk Region " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jerichoholic1"> /u/jerichoholic1 </a> <br /> <span><a href="https://m.novinite.com/view_news.php?id=227673">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ep3psh/76000_evacuated_as_ukrainian_troops_push_into/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread for Israel-Hamas War (Thread #62)
+ - [https://www.reddit.com/r/worldnews/comments/1ep38yn/rworldnews_live_thread_for_israelhamas_war_thread](https://www.reddit.com/r/worldnews/comments/1ep38yn/rworldnews_live_thread_for_israelhamas_war_thread)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T21:00:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ep38yn/rworldnews_live_thread_for_israelhamas_war_thread/"> <img alt="/r/WorldNews Live Thread for Israel-Hamas War (Thread #62)" src="https://a.thumbs.redditmedia.com/Mp0Gx_HomhJWx5C7CqRbB60Ywgza6uqzNaRuHwatBz4.jpg" title="/r/WorldNews Live Thread for Israel-Hamas War (Thread #62)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br /> <span><a href="https://www.reddit.com/live/1bsso361afr0r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ep38yn/rworldnews_live_thread_for_israelhamas_war_thread/">[comments]</a></span> </td></tr></table>
+
+## UK agency urges social media companies to crack down on violent rhetoric
+ - [https://www.reddit.com/r/worldnews/comments/1ep2wwl/uk_agency_urges_social_media_companies_to_crack](https://www.reddit.com/r/worldnews/comments/1ep2wwl/uk_agency_urges_social_media_companies_to_crack)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T20:44:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ep2wwl/uk_agency_urges_social_media_companies_to_crack/"> <img alt="UK agency urges social media companies to crack down on violent rhetoric" src="https://external-preview.redd.it/M26-wDFhSPDcA1yaPkNY36wLaxyGR0pbO2PBr9wd3YQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71680c8dc49db66a6c90c8dbeaa69c88511739b8" title="UK agency urges social media companies to crack down on violent rhetoric" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WilliamHealy"> /u/WilliamHealy </a> <br /> <span><a href="https://thehill.com/policy/technology/4818953-uk-social-media-elon-musk-x-misinformation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ep2wwl/uk_agency_urges_social_media_companies_to_crack/">[comments]</a></span> </td></tr></table>
+
+## Amid global criticism, Israel names 19 it says it killed in terror HQ at Gaza school
+ - [https://www.reddit.com/r/worldnews/comments/1ep1uv7/amid_global_criticism_israel_names_19_it_says_it](https://www.reddit.com/r/worldnews/comments/1ep1uv7/amid_global_criticism_israel_names_19_it_says_it)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T19:56:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ep1uv7/amid_global_criticism_israel_names_19_it_says_it/"> <img alt="Amid global criticism, Israel names 19 it says it killed in terror HQ at Gaza school" src="https://external-preview.redd.it/HrfufXZ_gtwydTZXtH8oCgu07XapWjQ75wLHbpiYoz4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7689c0002ce08fb9625473dec1c0ede989288e2" title="Amid global criticism, Israel names 19 it says it killed in terror HQ at Gaza school" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vova_Poutine"> /u/Vova_Poutine </a> <br /> <span><a href="https://www.timesofisrael.com/israel-slammed-globally-after-hamas-claims-at-least-90-dead-in-strike-on-gaza-school/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ep1uv7/amid_global_criticism_israel_names_19_it_says_it/">[comments]</a></span> </td></tr></table>
+
+## MFA: Israel can no longer trust Norway as a partner on the Palestinian issue
+ - [https://www.reddit.com/r/worldnews/comments/1ep16yb/mfa_israel_can_no_longer_trust_norway_as_a](https://www.reddit.com/r/worldnews/comments/1ep16yb/mfa_israel_can_no_longer_trust_norway_as_a)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T19:26:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ep16yb/mfa_israel_can_no_longer_trust_norway_as_a/"> <img alt="MFA: Israel can no longer trust Norway as a partner on the Palestinian issue " src="https://external-preview.redd.it/ix-z-7r9-McKwDTG6rSwYWyGqkh_Ara4Xq3exyN9s4o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c989aa6fbf964111a6bd2f9c0c85b552f74c0a6" title="MFA: Israel can no longer trust Norway as a partner on the Palestinian issue " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/olegvas21"> /u/olegvas21 </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-814153">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ep16yb/mfa_israel_can_no_longer_trust_norway_as_a/">[comments]</a></span> </td></tr></table>
+
+## Even Switzerland Is Discussing How to Tax the Super-Rich
+ - [https://www.reddit.com/r/worldnews/comments/1ep0jft/even_switzerland_is_discussing_how_to_tax_the](https://www.reddit.com/r/worldnews/comments/1ep0jft/even_switzerland_is_discussing_how_to_tax_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T18:56:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ep0jft/even_switzerland_is_discussing_how_to_tax_the/"> <img alt="Even Switzerland Is Discussing How to Tax the Super-Rich" src="https://external-preview.redd.it/nPHPCNaM101SEIk_SmU2A-ZMHQqj9yuO0YKD75E58RM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=feac15baef5c17cd3fefcddc23e76de2d134654f" title="Even Switzerland Is Discussing How to Tax the Super-Rich" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlitzOrion"> /u/BlitzOrion </a> <br /> <span><a href="https://www.bloomberg.com/news/articles/2024-08-07/switzerland-debates-higher-inheritance-tax-on-billionaires">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ep0jft/even_switzerland_is_discussing_how_to_tax_the/">[comments]</a></span> </td></tr></table>
+
+## White House “deeply concerned” about civilian casualties after the IDF said it had struck a command room that terror operatives set up at a Gaza City school where displaced Palestinian civilians were sheltering
+ - [https://www.reddit.com/r/worldnews/comments/1eoz0jj/white_house_deeply_concerned_about_civilian](https://www.reddit.com/r/worldnews/comments/1eoz0jj/white_house_deeply_concerned_about_civilian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T17:49:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eoz0jj/white_house_deeply_concerned_about_civilian/"> <img alt="White House “deeply concerned” about civilian casualties after the IDF said it had struck a command room that terror operatives set up at a Gaza City school where displaced Palestinian civilians were sheltering" src="https://external-preview.redd.it/zu2aZMBIV-s3M921j-4UyKgKReQYVJt_9gx-brTI4DI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e7d69607058e9f5c7615d169ca5a57b7aa317c4" title="White House “deeply concerned” about civilian casualties after the IDF said it had struck a command room that terror operatives set up at a Gaza City school where displaced Palestinian civilians were sheltering" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/green_flash"> /u/green_flash </a> <br /> <span><a href="https://www.timesofisrael.com/liveblog_entry/white-house-deeply-concerned-about-civilian-casualties-in-idf-strike-on-terror-
+
+## Ukrainian Incursion May Have Expanded to Two Russian Regions
+ - [https://www.reddit.com/r/worldnews/comments/1eoyxf7/ukrainian_incursion_may_have_expanded_to_two](https://www.reddit.com/r/worldnews/comments/1eoyxf7/ukrainian_incursion_may_have_expanded_to_two)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T17:46:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eoyxf7/ukrainian_incursion_may_have_expanded_to_two/"> <img alt="Ukrainian Incursion May Have Expanded to Two Russian Regions" src="https://external-preview.redd.it/2_4bi7704LbFTnY5LYCWeWqbopM-YhAZM-FlftE-bz4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4b419e5fc6f95a644066b8331c754a8065c1285" title="Ukrainian Incursion May Have Expanded to Two Russian Regions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br /> <span><a href="https://www.kyivpost.com/post/37198">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eoyxf7/ukrainian_incursion_may_have_expanded_to_two/">[comments]</a></span> </td></tr></table>
+
+## Frontline report: Official Russian statements hint at possible withdrawal from Vovchansk - Euromaidan Press
+ - [https://www.reddit.com/r/worldnews/comments/1eoxugi/frontline_report_official_russian_statements_hint](https://www.reddit.com/r/worldnews/comments/1eoxugi/frontline_report_official_russian_statements_hint)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T16:59:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eoxugi/frontline_report_official_russian_statements_hint/"> <img alt="Frontline report: Official Russian statements hint at possible withdrawal from Vovchansk - Euromaidan Press" src="https://external-preview.redd.it/43w9HTTvQISnNFUXA-DNyrtkPVJra61-LvTRMGbmxsQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b536f9860d8b71e2133e5e4b1b2c11867192e35d" title="Frontline report: Official Russian statements hint at possible withdrawal from Vovchansk - Euromaidan Press" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tiny-Potato-Peeler"> /u/Tiny-Potato-Peeler </a> <br /> <span><a href="https://euromaidanpress.com/2024/08/10/frontline-report-official-russian-statements-hint-at-possible-withdrawal-from-vovchansk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eoxugi/frontline_report_official_russian_statements_hint/">[comments]</a></span> </td></tr></tabl
+
+## Russia fighting intense battles against major Ukrainian incursion
+ - [https://www.reddit.com/r/worldnews/comments/1eox456/russia_fighting_intense_battles_against_major](https://www.reddit.com/r/worldnews/comments/1eox456/russia_fighting_intense_battles_against_major)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T16:28:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Xxivonneyxx"> /u/Xxivonneyxx </a> <br /> <span><a href="https://www.reuters.com/world/europe/russia-imposes-security-regime-three-border-regions-after-major-ukrainian-attack-2024-08-10/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eox456/russia_fighting_intense_battles_against_major/">[comments]</a></span>
+
+## Report: Jordan to allows Israel to use its airspace against Iran - i24NEWS
+ - [https://www.reddit.com/r/worldnews/comments/1eoupw5/report_jordan_to_allows_israel_to_use_its](https://www.reddit.com/r/worldnews/comments/1eoupw5/report_jordan_to_allows_israel_to_use_its)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T14:45:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eoupw5/report_jordan_to_allows_israel_to_use_its/"> <img alt="Report: Jordan to allows Israel to use its airspace against Iran - i24NEWS" src="https://external-preview.redd.it/Lib9_97DkPybffcb0PcDd5iXyikus0_3yY2Pm-7Xzl0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99dc62aeae02659653aebd9d5546929c4c9eb545" title="Report: Jordan to allows Israel to use its airspace against Iran - i24NEWS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yuri_2022"> /u/yuri_2022 </a> <br /> <span><a href="https://www.i24news.tv/en/news/middle-east/artc-report-jordan-to-allows-israel-to-use-its-airspace-against-iran">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eoupw5/report_jordan_to_allows_israel_to_use_its/">[comments]</a></span> </td></tr></table>
+
+## Russia’s Medvedev Threatens with Tanks in Berlin, Despite Them Already Being Present in Germany
+ - [https://www.reddit.com/r/worldnews/comments/1eou74u/russias_medvedev_threatens_with_tanks_in_berlin](https://www.reddit.com/r/worldnews/comments/1eou74u/russias_medvedev_threatens_with_tanks_in_berlin)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T14:21:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eou74u/russias_medvedev_threatens_with_tanks_in_berlin/"> <img alt="Russia’s Medvedev Threatens with Tanks in Berlin, Despite Them Already Being Present in Germany" src="https://external-preview.redd.it/5qDJWcuuSFmLtdco7dlLzjWYWolOkQ8fjvo6iFBDBuA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=688dc4ab30767fe690acacf2b127a19aa98368a5" title="Russia’s Medvedev Threatens with Tanks in Berlin, Despite Them Already Being Present in Germany" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/olegvas21"> /u/olegvas21 </a> <br /> <span><a href="https://united24media.com/latest-news/russias-medvedev-threatens-with-tanks-in-berlin-despite-them-already-being-present-in-germany-1675">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eou74u/russias_medvedev_threatens_with_tanks_in_berlin/">[comments]</a></span> </td></tr></table>
+
+## Self-proclaimed Belarusian president orders Iskander missile systems and rocket artillery to be sent to border with Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1eotxd8/selfproclaimed_belarusian_president_orders](https://www.reddit.com/r/worldnews/comments/1eotxd8/selfproclaimed_belarusian_president_orders)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T14:09:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eotxd8/selfproclaimed_belarusian_president_orders/"> <img alt="Self-proclaimed Belarusian president orders Iskander missile systems and rocket artillery to be sent to border with Ukraine" src="https://external-preview.redd.it/AfPkpSbKzRrQ0kn-0DpAP75UBPxAYdVqbyDp3LDeJ8Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9309a2ca4bec6dd6b1cd25573b098878baea0afd" title="Self-proclaimed Belarusian president orders Iskander missile systems and rocket artillery to be sent to border with Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/08/10/7469811/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eotxd8/selfproclaimed_belarusian_president_orders/">[comments]</a></span> </td></tr></table>
+
+## US releases $3.5 billion to Israel to spend on US weapons, military equipment, CNN reports
+ - [https://www.reddit.com/r/worldnews/comments/1eor91k/us_releases_35_billion_to_israel_to_spend_on_us](https://www.reddit.com/r/worldnews/comments/1eor91k/us_releases_35_billion_to_israel_to_spend_on_us)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T11:55:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eor91k/us_releases_35_billion_to_israel_to_spend_on_us/"> <img alt="US releases $3.5 billion to Israel to spend on US weapons, military equipment, CNN reports" src="https://external-preview.redd.it/6dHuXN8IgZb3jwPmoVaNuTTGqvKXRoX2P9UsOZTYNeo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8357ef9dd9a99b2cb946153a97e14f923f06dbb6" title="US releases $3.5 billion to Israel to spend on US weapons, military equipment, CNN reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-814088">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eor91k/us_releases_35_billion_to_israel_to_spend_on_us/">[comments]</a></span> </td></tr></table>
+
+## IDF eliminates senior Hamas commander Walid al-Sousi in Gaza
+ - [https://www.reddit.com/r/worldnews/comments/1eor4lt/idf_eliminates_senior_hamas_commander_walid](https://www.reddit.com/r/worldnews/comments/1eor4lt/idf_eliminates_senior_hamas_commander_walid)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T11:48:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eor4lt/idf_eliminates_senior_hamas_commander_walid/"> <img alt="IDF eliminates senior Hamas commander Walid al-Sousi in Gaza" src="https://external-preview.redd.it/_2-KG8BkVgkw8CWYD4NPT9Rq8K6EooZ32QiMGngYbxo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4aa9bfb80029cd8a63d266c1d76b4c54db142991" title="IDF eliminates senior Hamas commander Walid al-Sousi in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PantheraNova"> /u/PantheraNova </a> <br /> <span><a href="https://www.jpost.com/breaking-news/article-814122">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eor4lt/idf_eliminates_senior_hamas_commander_walid/">[comments]</a></span> </td></tr></table>
+
+## Signal has been blocked by Venezuela and Russia
+ - [https://www.reddit.com/r/worldnews/comments/1eor0r4/signal_has_been_blocked_by_venezuela_and_russia](https://www.reddit.com/r/worldnews/comments/1eor0r4/signal_has_been_blocked_by_venezuela_and_russia)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T11:42:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eor0r4/signal_has_been_blocked_by_venezuela_and_russia/"> <img alt="Signal has been blocked by Venezuela and Russia" src="https://external-preview.redd.it/oeZROs_RXgD-zeEMijVyQXPUGvkB3SNrBFGwwgVRxZY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=432b362b01166c4cb95a2b6691a157d16e96311d" title="Signal has been blocked by Venezuela and Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/F0urLeafCl0ver"> /u/F0urLeafCl0ver </a> <br /> <span><a href="https://www.theverge.com/2024/8/9/24217008/signal-blocked-venezuela-russia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eor0r4/signal_has_been_blocked_by_venezuela_and_russia/">[comments]</a></span> </td></tr></table>
+
+## US blacklists five more Chinese firms over Uyghur slavery
+ - [https://www.reddit.com/r/worldnews/comments/1eoql1s/us_blacklists_five_more_chinese_firms_over_uyghur](https://www.reddit.com/r/worldnews/comments/1eoql1s/us_blacklists_five_more_chinese_firms_over_uyghur)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T11:15:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eoql1s/us_blacklists_five_more_chinese_firms_over_uyghur/"> <img alt="US blacklists five more Chinese firms over Uyghur slavery" src="https://external-preview.redd.it/NYrXQwpPdXyi9d44n222pi8wGZMbTEeGHx32b_770T4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d78afc627b996e3b206ccd6b8b827121410dea35" title="US blacklists five more Chinese firms over Uyghur slavery" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Forsaken-Duck-8142"> /u/Forsaken-Duck-8142 </a> <br /> <span><a href="https://www.rfa.org/english/news/uyghur/slave-labor-uflpa-entity-list-exporters-ban-08082024133714.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eoql1s/us_blacklists_five_more_chinese_firms_over_uyghur/">[comments]</a></span> </td></tr></table>
+
+## 'Many' Russian soldiers captured in Kursk Oblast battles, Ukraine's state project claims
+ - [https://www.reddit.com/r/worldnews/comments/1eop9fc/many_russian_soldiers_captured_in_kursk_oblast](https://www.reddit.com/r/worldnews/comments/1eop9fc/many_russian_soldiers_captured_in_kursk_oblast)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T09:49:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eop9fc/many_russian_soldiers_captured_in_kursk_oblast/"> <img alt="'Many' Russian soldiers captured in Kursk Oblast battles, Ukraine's state project claims" src="https://external-preview.redd.it/voPtNewGDp6UT2MeRamojAkB89Al9YHHP4M1kpXylyc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=498115db898a3294e44b2949ff4c3982c47e78d3" title="'Many' Russian soldiers captured in Kursk Oblast battles, Ukraine's state project claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Beratungsmarketing"> /u/Beratungsmarketing </a> <br /> <span><a href="https://kyivindependent.com/many-russian-soldiers-allegedly-captured-in-kursk-oblast/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eop9fc/many_russian_soldiers_captured_in_kursk_oblast/">[comments]</a></span> </td></tr></table>
+
+## Finland drafting bill to prevent Russian citizens buying Finnish properties, Defence Minister say
+ - [https://www.reddit.com/r/worldnews/comments/1eop4ya/finland_drafting_bill_to_prevent_russian_citizens](https://www.reddit.com/r/worldnews/comments/1eop4ya/finland_drafting_bill_to_prevent_russian_citizens)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T09:40:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eop4ya/finland_drafting_bill_to_prevent_russian_citizens/"> <img alt="Finland drafting bill to prevent Russian citizens buying Finnish properties, Defence Minister say" src="https://external-preview.redd.it/7kx9N0Z7OLNkjuYn7O3uDO5uBgnuQYwwpsk3X2cNCek.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=619fcf78198c57d90cd625575bf6e3ca02fb9ea8" title="Finland drafting bill to prevent Russian citizens buying Finnish properties, Defence Minister say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JPR_FI"> /u/JPR_FI </a> <br /> <span><a href="https://yle.fi/a/74-20104223">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eop4ya/finland_drafting_bill_to_prevent_russian_citizens/">[comments]</a></span> </td></tr></table>
+
+## Settlers hold gun to 3-year-old's head in attack on Arab-Israeli family in West Bank
+ - [https://www.reddit.com/r/worldnews/comments/1eop4sd/settlers_hold_gun_to_3yearolds_head_in_attack_on](https://www.reddit.com/r/worldnews/comments/1eop4sd/settlers_hold_gun_to_3yearolds_head_in_attack_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T09:40:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eop4sd/settlers_hold_gun_to_3yearolds_head_in_attack_on/"> <img alt="Settlers hold gun to 3-year-old's head in attack on Arab-Israeli family in West Bank" src="https://external-preview.redd.it/wi14gIuU__aVD6kKO-VcDjyUvfR7lJgb_cc9NHtpwK4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01cb806dc60ef64ccd06cbbb1c3bb0afd889dae3" title="Settlers hold gun to 3-year-old's head in attack on Arab-Israeli family in West Bank" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FudgeAtron"> /u/FudgeAtron </a> <br /> <span><a href="https://www.jpost.com/israel-news/article-814118">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eop4sd/settlers_hold_gun_to_3yearolds_head_in_attack_on/">[comments]</a></span> </td></tr></table>
+
+## Putin Scrambles as Ukrainian Forces Near Russian Nuclear Plant
+ - [https://www.reddit.com/r/worldnews/comments/1eon6hv/putin_scrambles_as_ukrainian_forces_near_russian](https://www.reddit.com/r/worldnews/comments/1eon6hv/putin_scrambles_as_ukrainian_forces_near_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T07:23:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eon6hv/putin_scrambles_as_ukrainian_forces_near_russian/"> <img alt="Putin Scrambles as Ukrainian Forces Near Russian Nuclear Plant" src="https://external-preview.redd.it/yI5oxiPG8P6_xQc64o8HXe3qK-Zhr66gAgXkopMXRSw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52e690acf118f1601367ec0551a78d1de749b7b3" title="Putin Scrambles as Ukrainian Forces Near Russian Nuclear Plant" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntlDogOfMystery"> /u/IntlDogOfMystery </a> <br /> <span><a href="https://www.thedailybeast.com/putin-scrambles-as-ukraine-launches-stunning-incursion-into-russia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eon6hv/putin_scrambles_as_ukrainian_forces_near_russian/">[comments]</a></span> </td></tr></table>
+
+## Germany recognises Ukraine's right to self-defence on territory of Russia's Kursk Oblast
+ - [https://www.reddit.com/r/worldnews/comments/1eomirw/germany_recognises_ukraines_right_to_selfdefence](https://www.reddit.com/r/worldnews/comments/1eomirw/germany_recognises_ukraines_right_to_selfdefence)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T06:40:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eomirw/germany_recognises_ukraines_right_to_selfdefence/"> <img alt="Germany recognises Ukraine's right to self-defence on territory of Russia's Kursk Oblast" src="https://external-preview.redd.it/Zd1lI1sIkkOYwboxkEoLFyYjxHRKcAi8vHe1xGojKd0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a416389ca92e577385a4f3cc1ea9ded287fb1c3" title="Germany recognises Ukraine's right to self-defence on territory of Russia's Kursk Oblast" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/08/9/7469740/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eomirw/germany_recognises_ukraines_right_to_selfdefence/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 898, Part 1 (Thread #1045)
+ - [https://www.reddit.com/r/worldnews/comments/1eojvop/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1eojvop/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T04:03:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eojvop/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 898, Part 1 (Thread #1045)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 898, Part 1 (Thread #1045)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eojvop/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Russian Milbloggers Blame ‘Incompetence’ for Ukrainian HIMARS Strike That Destroyed Russian Battalion
+ - [https://www.reddit.com/r/worldnews/comments/1eojrvs/russian_milbloggers_blame_incompetence_for](https://www.reddit.com/r/worldnews/comments/1eojrvs/russian_milbloggers_blame_incompetence_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T03:57:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eojrvs/russian_milbloggers_blame_incompetence_for/"> <img alt="Russian Milbloggers Blame ‘Incompetence’ for Ukrainian HIMARS Strike That Destroyed Russian Battalion" src="https://external-preview.redd.it/Ai87g7gyV1e2JqWpjnggrBRUIXgxOUpg5HW5x__b-ic.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bb12f651ef67a3029b58e0dcf9034d2d8731ec8" title="Russian Milbloggers Blame ‘Incompetence’ for Ukrainian HIMARS Strike That Destroyed Russian Battalion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br /> <span><a href="https://www.kyivpost.com/post/37140">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eojrvs/russian_milbloggers_blame_incompetence_for/">[comments]</a></span> </td></tr></table>
+
+## Ukraine’s Kursk Offensive Blitzed Russia With Electronic Warfare And Drones
+ - [https://www.reddit.com/r/worldnews/comments/1eoicc3/ukraines_kursk_offensive_blitzed_russia_with](https://www.reddit.com/r/worldnews/comments/1eoicc3/ukraines_kursk_offensive_blitzed_russia_with)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T02:41:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eoicc3/ukraines_kursk_offensive_blitzed_russia_with/"> <img alt="Ukraine’s Kursk Offensive Blitzed Russia With Electronic Warfare And Drones" src="https://external-preview.redd.it/53j-qA3o9ofoganVptAg5aXlvigK07aA7sGPI41mfB4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50ecff07d4f109c802f8ee7d0a959123c4f00ce9" title="Ukraine’s Kursk Offensive Blitzed Russia With Electronic Warfare And Drones" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gosu_link0"> /u/gosu_link0 </a> <br /> <span><a href="https://www.forbes.com/sites/davidhambling/2024/08/09/ukraines-kursk-offensive-blitzed-russia-with-electronic-warfare-and-drones/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eoicc3/ukraines_kursk_offensive_blitzed_russia_with/">[comments]</a></span> </td></tr></table>
+
+## Russians flee for Moscow amid Ukraine border attack: ‘it has to be stopped’
+ - [https://www.reddit.com/r/worldnews/comments/1eogob0/russians_flee_for_moscow_amid_ukraine_border](https://www.reddit.com/r/worldnews/comments/1eogob0/russians_flee_for_moscow_amid_ukraine_border)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-10T01:16:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1eogob0/russians_flee_for_moscow_amid_ukraine_border/"> <img alt="Russians flee for Moscow amid Ukraine border attack: ‘it has to be stopped’" src="https://external-preview.redd.it/Si2Ucpzw0cqG_XSGqf2uTTuZYmCyEXOC8mcqNsfRPD8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1144b84027bbdceede7533ca0ccc83ec54978edb" title="Russians flee for Moscow amid Ukraine border attack: ‘it has to be stopped’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://www.scmp.com/news/world/russia-central-asia/article/3273978/russians-flee-moscow-amid-ukraine-border-attack-it-has-be-stopped?module=top_story&amp;pgtype=homepage">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1eogob0/russians_flee_for_moscow_amid_ukraine_border/">[comments]</a></span> </td></tr></table>
+
