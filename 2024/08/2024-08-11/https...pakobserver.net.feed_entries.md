@@ -1,0 +1,198 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## Bilawal reiterates commitment to safeguarding minorities rights
+ - [https://pakobserver.net/bilawal-reiterates-commitment-to-safeguarding-minorities-rights](https://pakobserver.net/bilawal-reiterates-commitment-to-safeguarding-minorities-rights)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T22:00:00+00:00
+
+<img alt="Karachi mayorship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/12/bilawal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Chairman of Pakistan People&#8217;s Party (PPP) Bilawal Bhutto Zardari on Sunday reaffirmed his unwavering commitment to safeguarding the rights and fostering the development and empowerment of minorities in Pakistan. He emphasized that the PPP would never compromise on these core principles. On the occasion of National Minorities Day, the PPP Chairman underscored his party&#8217;s [&#8230;]
+
+## Solid waste disposal still a nightmare for Karachi: Altaf
+ - [https://pakobserver.net/solid-waste-disposal-still-a-nightmare-for-karachi-altaf](https://pakobserver.net/solid-waste-disposal-still-a-nightmare-for-karachi-altaf)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:59:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Despite spending billions of rupees every year, the solid waste disposal is still a nightmare for Karachi and the government is clueless about how to reduce the growing garbage hills from the megacity, said Pasban Democratic Party (PDP) Chairman Altaf Shakoor here Sunday.He said communicable diseases are rising in Karachi due to rotting uncollected garbage [&#8230;]
+
+## Karachi reports 44,000 street crime in seven months
+ - [https://pakobserver.net/karachi-reports-44000-street-crime-in-seven-months](https://pakobserver.net/karachi-reports-44000-street-crime-in-seven-months)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:59:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Karachi has witnessed a staggering surge in street crimes, with over 44,000 incidents reported in just the first seven months of the year 2024. As per the data released by the local police of Karachi, the majority of the crimes involved the theft of motorcycles in the metropolis. In the span of the first [&#8230;]
+
+## Date Palm Festival kicked off at DHA Creek Club
+ - [https://pakobserver.net/date-palm-festival-kicked-off-at-dha-creek-club](https://pakobserver.net/date-palm-festival-kicked-off-at-dha-creek-club)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:59:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Provincial Minister for Universities and Boards Muhammad Ali Malkani inaugurated the two-day Date Palm Festival here at DHA Creek Club.  Several Memorandum of Understandings (MoUs) were signed between Sindh Agriculture University, Tondo Jam and three universities of Niger to enhance support to each other for further research in varieties of different commodities including dates [&#8230;]
+
+## Epilepsy doctors should teach their patients how to fight the disease: Dr Fowzia
+ - [https://pakobserver.net/epilepsy-doctors-should-teach-their-patients-how-to-fight-the-disease-dr-fowzia](https://pakobserver.net/epilepsy-doctors-should-teach-their-patients-how-to-fight-the-disease-dr-fowzia)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:59:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-11-at-10.42.38-PM-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Epilepsy Foundation Pakistan President andnoted neurophysician of the country Dr Fowzia Siddiqui has urged theepilepsy doctors to empower and teach their patients how to fight thedisease.She said that it is necessary that only a trained doctor should beselected for the treatment of epilepsy.She said for the doctors of the third world countries like Pakistan,practical [&#8230;]
+
+## Nasir lauds minorities’ role in national development
+ - [https://pakobserver.net/nasir-lauds-minorities-role-in-national-development](https://pakobserver.net/nasir-lauds-minorities-role-in-national-development)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:59:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/03/Nasir-shah-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Sindh Minister for Energy, Planning and Development Syed Nasir Hussain Shah, while lauding the role of minorities, said that minorities had an important role in the educational, social and economic development of the country. He said that PPP had always protected the rights of the minorities. In a statement issued here Sunday, the provincial [&#8230;]
+
+## Minorities most protected community in Sindh: CM
+ - [https://pakobserver.net/minorities-most-protected-community-in-sindh-cm](https://pakobserver.net/minorities-most-protected-community-in-sindh-cm)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:59:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/02/murad-ali-shah-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Chief Minister Sindh Syed Murad Ali Shah on Sundaysaid that the minorities were the most protected community in Sindh.  While congratulating the minorities on the National Minorities Day, he said that Sindh was the land of Sufis, which had given full representation to minorities in every field of life. Murad Ali Shah said that minorities [&#8230;]
+
+## Daily Cartoon 12-08-2024
+ - [https://pakobserver.net/daily-cartoon-12-08-2024](https://pakobserver.net/daily-cartoon-12-08-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:55:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/4-8-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />
+
+## Jubilant welcome
+ - [https://pakobserver.net/jubilant-welcome](https://pakobserver.net/jubilant-welcome)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:54:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In the early hours of Sunday morning, Lahore’s airport transformed into a scene of jubilant celebration as Olympic gold medalist, Arshad Nadeem, returned home. The air buzzed with excitement as an ecstatic crowd gathered to welcome the champion who ended Pakistan’s decades-long drought at the Olympics. This was not just a welcome but also a [&#8230;]
+
+## Gaza school strike
+ - [https://pakobserver.net/gaza-school-strike](https://pakobserver.net/gaza-school-strike)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T21:53:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The horror in Gaza has once again reached an unbearable peak, with over 100 Palestinians killed in an Israeli strike on a school sheltering displaced people. This attack, which targeted civilians during the sanctity of dawn prayers, is not just another tragic incident in the decades-long conflict, it is a stark reminder of impunity with [&#8230;]
+
+## More monsoon rains with isolated heavy falls expected in Lahore, parts of Punjab
+ - [https://pakobserver.net/more-monsoon-rains-with-isolated-heavy-falls-expected-in-lahore-parts-of-punjab](https://pakobserver.net/more-monsoon-rains-with-isolated-heavy-falls-expected-in-lahore-parts-of-punjab)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T17:02:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/rainlr-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – More widespread monsoon rains and gusty winds are expected in Lahore and parts of Punjab on Sunday night and Monday with occasional gaps. Isolated heavy rains may cause flash flooding in local nullahs/streams and urban flooding in major cities during the forecast period Per the Pakistan Meteorological Department (PMD), monsoon currents from the [&#8230;]
+
+## Shaheed Lieutenant Uzair Mehmood’s funeral prayers offered
+ - [https://pakobserver.net/shaheed-lieutenant-uzair-mehmoods-funeral-prayers-offered](https://pakobserver.net/shaheed-lieutenant-uzair-mehmoods-funeral-prayers-offered)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T14:10:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/um-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PESHAWAR – Namaz-e-Janaza of Shaheed Lieutenant Uzair Mehmood Malik was offered at Peshawar Garrison on Sunday. Corps Commander Peshawar, relatives of the martyr, and a large number of military and civil officials attended the funeral prayers. The martyr will be laid to rest in his ancestral town with military honours. 24-year-old Uzair Malik, a resident [&#8230;]
+
+## Islamabad, Rawalpindi, Pakistan weather update; wet spell to continue
+ - [https://pakobserver.net/islamabad-rawalpindi-pakistan-weather-update-wet-spell-to-continue](https://pakobserver.net/islamabad-rawalpindi-pakistan-weather-update-wet-spell-to-continue)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T13:01:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/ISDW-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – More intermittent monsoon rains with isolated heavy are predicted in Islamabad, Rawalpindi and parts of Pakistan on Sunday night and Monday. Per the Pakistan Meteorological Department (PMD), monsoon currents from the Arabian Sea and the Bay of Bengal penetrate the upper parts of Pakistan at lower tropospheric levels. They will likely penetrate central [&#8230;]
+
+## Pakistan Shaheens-Bangladesh A series match officials named
+ - [https://pakobserver.net/pakistan-shaheens-bangladesh-a-series-match-officials-named](https://pakobserver.net/pakistan-shaheens-bangladesh-a-series-match-officials-named)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T12:27:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/ban-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Pakistan Cricket Board has announced match officials for the Pakistan Shaheens’ home series against Bangladesh ‘A’, which includes two four-day and three 50-over matches from 13-30 August. Nadeem Arshad will lead the Playing Control Team (PCT) for the 13-16 August and 20-23 August matches, while Iftikhar Ahmed will be the match referee for the [&#8230;]
+
+## Armed Forces acknowledge role of minorities in nation’s progress, prosperity
+ - [https://pakobserver.net/armed-forces-acknowledge-role-of-minorities-in-nations-progress-prosperity](https://pakobserver.net/armed-forces-acknowledge-role-of-minorities-in-nations-progress-prosperity)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T11:36:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/ISPR-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI &#8211; The Armed Forces of Pakistan have extended warm felicitations to the minority communities of the country on their dedicated day, National Minorities Day. The Chairman Joint Chiefs of Staff Committee, and the Services Chiefs, have acknowledged the indispensable contributions of the minorities to the nation&#8217;s progress, prosperity, and rich cultural heritage. “This occasion [&#8230;]
+
+## Tarbela Dam nears maximum conservation level
+ - [https://pakobserver.net/tarbela-dam-nears-maximum-conservation-level](https://pakobserver.net/tarbela-dam-nears-maximum-conservation-level)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T11:20:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/TarbelaDam-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The water level at the major reservoir Tarbela Dam is fast approaching the maximum conservation level due to significant monsoon rains in the upper parts of Pakistan. The water level at Tarbela Dam reached 1544 feet above mean sea level with live storage of 5.421 million acre-feet on Sunday, just six feet below [&#8230;]
+
+## Melbourne Stars beat Pakistan Shaheens in Top End T20 Series match
+ - [https://pakobserver.net/melbourne-stars-beat-pakistan-shaheens-in-top-end-t20-series-match](https://pakobserver.net/melbourne-stars-beat-pakistan-shaheens-in-top-end-t20-series-match)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T10:51:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/S-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DARWIN &#8211; Pakistan Shaheens fell 47 runs short against Melbourne Stars in their second match of the Top End T20 series at the Gardens Oval in Darwin on Sunday. Tayyab Tahir’s unbeaten half-century (57 not out, 43b, 6x4s, 1&#215;6) went in vain as Shaheens finished with 128-9 in 20 overs in pursuit of the 176-run [&#8230;]
+
+## Golden Boy Arshad Nadeem arrives to Grand Reception after Olympic victory
+ - [https://pakobserver.net/golden-boy-arshad-nadeem-arrives-to-grand-reception-after-olympic-victory](https://pakobserver.net/golden-boy-arshad-nadeem-arrives-to-grand-reception-after-olympic-victory)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T04:06:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Arshad-Nadeem-welcome-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Fakhre-Pakistan Arshad Nadeem arrived in Pakistan on early Sunday to hero’s welcome after winning country&#8217;s first ever gold medal at Paris Olympics. Nadeem, who made history, was greeted by government officials, excited fans, and family members who welcomed him with drumbeats, and patriotic chants. His flight was honored with a water cannon salute upon landing. [&#8230;]
+
+## Naqvi chairs meeting on upgradation of Islamabad Police Stations
+ - [https://pakobserver.net/naqvi-chairs-meeting-on-upgradation-of-islamabad-police-stations](https://pakobserver.net/naqvi-chairs-meeting-on-upgradation-of-islamabad-police-stations)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/5-x-110-APP01-100824Islamabad-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Federal Minister for Interior Mohsin Naqvi chaired a review meeting on the upgradation of Islamabad police stations at the Ministry of Interior, here Saturday. He ordered the upgradation of police stations in the federal capital on the pattern of smart police stations. “Traditional police stations have become a symbol of fear, and citizens think multiple [&#8230;]
+
+## Maternal nutrition, breastfeeding most crucial for child’s survival and healthy growth
+ - [https://pakobserver.net/maternal-nutrition-breastfeeding-most-crucial-for-childs-survival-and-healthy-growth](https://pakobserver.net/maternal-nutrition-breastfeeding-most-crucial-for-childs-survival-and-healthy-growth)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/3-x-50-colum-UNICEF-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Qureshi The Ministry of National Health Services, Regulations, and Coordination in collaboration with UNICEF Pakistan organized a dialogue on the vital role of maternal nutrition in promoting breastfeeding practices. The dialogue is titled ‘Empowering Maternal Nutrition: Prioritizing Breastfeeding Promotion and Enforcing the International Code of Marketing of Breast-milk Substitutes.’ The event brought together a [&#8230;]
+
+## Executive has to comply with SC orders: Justice Shah
+ - [https://pakobserver.net/executive-has-to-comply-with-sc-orders-justice-shah](https://pakobserver.net/executive-has-to-comply-with-sc-orders-justice-shah)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Justice-Mansoor-Shah-696x401-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Supreme Court senior puisne judge Justice Mansoor Ali Shah on Saturday stressed that there could be no possibility of the top court’s orders going unimplemented as such a scenario would amount to a constitutional violation and the executive had no choice but to comply with court orders. The remarks came a day after he similarly [&#8230;]
+
+## Historic welcome accorded to Olympic hero Arshad
+ - [https://pakobserver.net/historic-welcome-accorded-to-olympic-hero-arshad](https://pakobserver.net/historic-welcome-accorded-to-olympic-hero-arshad)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Untitled-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As his plane touched down the runway, the premises of the Lahore Airport resonated with slogans ‘long live Pakistan, long live Arshad Nadeem’ by the excited and jubilant crowd present there for long hours to have a glimpse of their hero who won their country Gold Medal at Paris Olympics 2024 after 40 years in [&#8230;]
+
+## Punjab signs solar panel making agreement with Chinese firm
+ - [https://pakobserver.net/punjab-signs-solar-panel-making-agreement-with-chinese-firm](https://pakobserver.net/punjab-signs-solar-panel-making-agreement-with-chinese-firm)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/panjab-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Punjab government and a Chinese solar energy company signed an agreement for solar panels local manufacturing on Saturday. Punjab Minister of Industry Chaudhry Shafay Hussain and China’s Aiko solar energy company officials signed an agreement here. “The Chinese company under the agreement will install solar panels manufacturing plant in Punjab,” the minister said. Chaudhry [&#8230;]
+
+## Pakistani High Commissioner meets Dr Yunus
+ - [https://pakobserver.net/pakistani-high-commissioner-meets-dr-yunus](https://pakobserver.net/pakistani-high-commissioner-meets-dr-yunus)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/829944_43260631-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistani High Commissioner Syed Ahmad Maaroof met Dr Muhammad Yunus, the head of Bangladesh’s interim government. The meeting took place at the Presidential Palace in Dhaka, where Chief Adviser Prof Dr Muhammad Yunus expressed warm sentiments towards Pakistan. High Commissioner Syed Maaroof conveyed Pakistan’s best wishes for the people of Bangladesh, expressing confidence that Dr. [&#8230;]
+
+## US to lift ban on offensive weapons sales to Saudi Arabia
+ - [https://pakobserver.net/us-to-lift-ban-on-offensive-weapons-sales-to-saudi-arabia](https://pakobserver.net/us-to-lift-ban-on-offensive-weapons-sales-to-saudi-arabia)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Biden administration has decided to lift a ban on United States’ sales of offensive weapons to Saudi Arabia, the US State Department said on Friday, reversing a three-year-old policy to pressure the kingdom to wind down the Yemen war. The State Department was lifting its suspension on certain transfers of air-to-ground munitions to Saudi [&#8230;]
+
+## Don’t expect IMF compliance if you don’t provide due funds
+ - [https://pakobserver.net/dont-expect-imf-compliance-if-you-dont-provide-due-funds](https://pakobserver.net/dont-expect-imf-compliance-if-you-dont-provide-due-funds)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/2-106-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Khyber Pakhtunkhwa’s Finance Advisor, Muzammil Aslam, has said that if the province does not receive its due funds, then the federal government should not expect KP to fulfill commitments made to the IMF. Muzammil, talking to a news channel, said that the province was supposed to receive Rs 400b from the federal government this year [&#8230;]
+
+## Gen Sahir calls on UK defence chiefs
+ - [https://pakobserver.net/gen-sahir-calls-on-uk-defence-chiefs](https://pakobserver.net/gen-sahir-calls-on-uk-defence-chiefs)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:18:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Gen Sahir Shamshad Mirza, Chairman Joint Chiefs of Staff Committee, who is on an official visit to United Kingdom, called on Admiral Sir Tony Radakin, Chief of Defence Staff and General Sir Roland Walker, Chief of General Staff of UK. During the separately-held meetings, both sides deliberated upon areas of mutual interest, bilateral defence and [&#8230;]
+
+## Daily Cartoon 11-08-2024
+ - [https://pakobserver.net/daily-cartoon-11-08-2024](https://pakobserver.net/daily-cartoon-11-08-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-11T00:06:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/4-7-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />
+
