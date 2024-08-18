@@ -1,0 +1,107 @@
+# Source:programming, URL:https://www.reddit.com/r/programming/.rss, language:
+
+## Software development is hard
+ - [https://www.reddit.com/r/programming/comments/1eusueq/software_development_is_hard](https://www.reddit.com/r/programming/comments/1eusueq/software_development_is_hard)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T21:42:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/skwee357"> /u/skwee357 </a> <br /> <span><a href="https://yieldcode.blog/post/software-development-is-hard/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eusueq/software_development_is_hard/">[comments]</a></span>
+
+## Implementing strict equality in JavaScript from scratch
+ - [https://www.reddit.com/r/programming/comments/1euskh9/implementing_strict_equality_in_javascript_from](https://www.reddit.com/r/programming/comments/1euskh9/implementing_strict_equality_in_javascript_from)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T21:30:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ArchAndStarch"> /u/ArchAndStarch </a> <br /> <span><a href="https://arhan.sh/blog/implementing-strict-equality-in-javascript-from-scratch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1euskh9/implementing_strict_equality_in_javascript_from/">[comments]</a></span>
+
+## Software Design and Architecture Specialization
+ - [https://www.reddit.com/r/programming/comments/1euptm4/software_design_and_architecture_specialization](https://www.reddit.com/r/programming/comments/1euptm4/software_design_and_architecture_specialization)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T19:27:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Still-Communication8"> /u/Still-Communication8 </a> <br /> <span><a href="https://defi-central.net/sas.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1euptm4/software_design_and_architecture_specialization/">[comments]</a></span>
+
+## How to build a query language in Python
+ - [https://www.reddit.com/r/programming/comments/1eups35/how_to_build_a_query_language_in_python](https://www.reddit.com/r/programming/comments/1eups35/how_to_build_a_query_language_in_python)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T19:25:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/zerojames_"> /u/zerojames_ </a> <br /> <span><a href="https://jamesg.blog/2024/08/17/build-a-query-language/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eups35/how_to_build_a_query_language_in_python/">[comments]</a></span>
+
+## When version updates to JavaScript libraries mean you have to re-write code by hand, again
+ - [https://www.reddit.com/r/programming/comments/1eupq83/when_version_updates_to_javascript_libraries_mean](https://www.reddit.com/r/programming/comments/1eupq83/when_version_updates_to_javascript_libraries_mean)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T19:23:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/guest271314"> /u/guest271314 </a> <br /> <span><a href="https://gist.github.com/guest271314/037c08540e4b56eebe858e24efc26900">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eupq83/when_version_updates_to_javascript_libraries_mean/">[comments]</a></span>
+
+## Bold 0.2 - An IDE with LSP, DAP and more
+ - [https://www.reddit.com/r/programming/comments/1eupocr/bold_02_an_ide_with_lsp_dap_and_more](https://www.reddit.com/r/programming/comments/1eupocr/bold_02_an_ide_with_lsp_dap_and_more)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T19:21:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/levodelellis"> /u/levodelellis </a> <br /> <span><a href="https://bold-edit.com/changelog/0.2.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eupocr/bold_02_an_ide_with_lsp_dap_and_more/">[comments]</a></span>
+
+## Emulating Program ROM on a Real 6502
+ - [https://www.reddit.com/r/programming/comments/1eunlve/emulating_program_rom_on_a_real_6502](https://www.reddit.com/r/programming/comments/1eunlve/emulating_program_rom_on_a_real_6502)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T17:49:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/elemenity"> /u/elemenity </a> <br /> <span><a href="https://www.emulationonline.com/systems/chiplab/emulating-program-rom/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eunlve/emulating_program_rom_on_a_real_6502/">[comments]</a></span>
+
+## VIM Speed Test
+ - [https://www.reddit.com/r/programming/comments/1eumnd1/vim_speed_test](https://www.reddit.com/r/programming/comments/1eumnd1/vim_speed_test)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T17:06:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just wanted to share this tool I made. It'll test your ability to navigate efficiently in code.</p> <p>If you're not a vim user, you can still try to hit the targets! It might demonstrate the value in learning vim motions. VIM isn't an all or nothing thing either, you can get access to all of its commands/motions through a plugin for most popular IDEs. I know Vscode and Intelliji have one.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crippledupdown"> /u/Crippledupdown </a> <br /> <span><a href="https://vim-racer.com/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eumnd1/vim_speed_test/">[comments]</a></span>
+
+## Engineering With Java: Digest #29
+ - [https://www.reddit.com/r/programming/comments/1eukkdy/engineering_with_java_digest_29](https://www.reddit.com/r/programming/comments/1eukkdy/engineering_with_java_digest_29)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T15:37:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Educational-Ad2036"> /u/Educational-Ad2036 </a> <br /> <span><a href="https://javabulletin.substack.com/p/engineering-with-java-digest-29">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eukkdy/engineering_with_java_digest_29/">[comments]</a></span>
+
+## Code as Art
+ - [https://www.reddit.com/r/programming/comments/1eujmfs/code_as_art](https://www.reddit.com/r/programming/comments/1eujmfs/code_as_art)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T14:55:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/_awwsmm"> /u/_awwsmm </a> <br /> <span><a href="https://www.awwsmm.com/blog/code-as-art">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eujmfs/code_as_art/">[comments]</a></span>
+
+## How to Build a Dynamic Web App Using Next.js and Sanity
+ - [https://www.reddit.com/r/programming/comments/1eugi24/how_to_build_a_dynamic_web_app_using_nextjs_and](https://www.reddit.com/r/programming/comments/1eugi24/how_to_build_a_dynamic_web_app_using_nextjs_and)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T12:26:58+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Early_Ad7148"> /u/Early_Ad7148 </a> <br /> <span><a href="https://tushar-tmpatel.medium.com/how-to-build-a-dynamic-web-app-using-next-js-and-sanity-b1c47a843624">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eugi24/how_to_build_a_dynamic_web_app_using_nextjs_and/">[comments]</a></span>
+
+## Setup your Push Notification Server using Firebase in Java
+ - [https://www.reddit.com/r/programming/comments/1eugdlv/setup_your_push_notification_server_using](https://www.reddit.com/r/programming/comments/1eugdlv/setup_your_push_notification_server_using)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T12:20:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant_Event_4917"> /u/Constant_Event_4917 </a> <br /> <span><a href="https://open.substack.com/pub/betterengineers/p/setup-your-push-notification-server-using-firebase-e9bfbf543965?utm_source=share&amp;utm_medium=android&amp;r=209a75">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eugdlv/setup_your_push_notification_server_using/">[comments]</a></span>
+
+## Advanced OpenCV Tutorial: How to Find Differences in Similar Images
+ - [https://www.reddit.com/r/programming/comments/1euf67b/advanced_opencv_tutorial_how_to_find_differences](https://www.reddit.com/r/programming/comments/1euf67b/advanced_opencv_tutorial_how_to_find_differences)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T11:08:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Feitgemel"> /u/Feitgemel </a> <br /> <span><a href="https://eranfeit.net/advanced-python-and-opencv-tutorial-how-to-find-differences-in-similar-images/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1euf67b/advanced_opencv_tutorial_how_to_find_differences/">[comments]</a></span>
+
+## Biggest productivity killers in the engineering industry
+ - [https://www.reddit.com/r/programming/comments/1eud6sr/biggest_productivity_killers_in_the_engineering](https://www.reddit.com/r/programming/comments/1eud6sr/biggest_productivity_killers_in_the_engineering)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T08:50:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gregorojstersek"> /u/gregorojstersek </a> <br /> <span><a href="https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eud6sr/biggest_productivity_killers_in_the_engineering/">[comments]</a></span>
+
+## I made this video explaining fork join framework in Java for concurrency. It's part of a 33 video playlist on Java Multithreading for Beginners :)
+ - [https://www.reddit.com/r/programming/comments/1eubyf3/i_made_this_video_explaining_fork_join_framework](https://www.reddit.com/r/programming/comments/1eubyf3/i_made_this_video_explaining_fork_join_framework)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-08-17T07:20:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sinarest"> /u/sinarest </a> <br /> <span><a href="https://www.youtube.com/watch?v=LdjEHa8Q0MM&amp;list=PLG-dyv583o8yTwh-hlvmmhpbHum2u9DKF&amp;index=33">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1eubyf3/i_made_this_video_explaining_fork_join_framework/">[comments]</a></span>
+
