@@ -1,0 +1,65 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## 2024 Aug 19 Stickied -FAQ- & -HELPDESK- thread - Boot problems? Power supply problems? Display problems? Networking problems? Need ideas? Get help with these and other questions!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1eweu9l/2024_aug_19_stickied_faq_helpdesk_thread_boot](https://www.reddit.com/r/raspberry_pi/comments/1eweu9l/2024_aug_19_stickied_faq_helpdesk_thread_boot)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T22:14:29+00:00
+
+<!-- SC_OFF --><div class="md"><h3><a href="http://f2z.net/RPi-Helpdesk-FAQ.png">Welcome to the r/raspberry_pi Helpdesk and Frequently Asked Questions!</a></h3> <p><a href="https://www.reddit.com/r/raspberry_pi/comments/1eqqy41/2024_aug_12_stickied_faq_helpdesk_thread_boot/">Link to last week's thread</a></p> <p>Having a hard time searching for answers to your Raspberry Pi questions? Let the <a href="/r/raspberry_pi">r/raspberry_pi</a> community members search for answers <em>for you</em>!<sup>†</sup> Looking for help getting started with a project? Have a question that you need answered? Was it not answered last week? Did not get a satisfying answer? A question that you've only done basic research for? Maybe something you think everyone but you knows? <strong>Ask your question in the comments on this page,</strong> operators are standing by!</p> <p>This helpdesk and idea thread is here so that the front page won't be filled with these same questions day in and day out:</p> <ol> <li>Q
+
+## Anyone playing around with a Raspberry Pi Pico 2 yet? Just got mine today.
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ewerxl/anyone_playing_around_with_a_raspberry_pi_pico_2](https://www.reddit.com/r/raspberry_pi/comments/1ewerxl/anyone_playing_around_with_a_raspberry_pi_pico_2)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T22:11:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've tested both the RISC-V and ARM micropython firmware. I also ran a quick benchmark:</p> <ul> <li>MicroPython-1.24.0-preview-riscv--with-newlib4.3.0: Time taken for matrix multiplication of size 100x100: 10.47806 seconds</li> <li>MicroPython-1.24.0-preview-arm--with-newlib4.4.0: Time taken for matrix multiplication of size 100x100: 10.21052 seconds</li> </ul> <p>Feels very similar to the normal Pico without wifi. Anyone done anything interesting with their pico 2 yet?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_frozen_one"> /u/The_frozen_one </a> <br /> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ewerxl/anyone_playing_around_with_a_raspberry_pi_pico_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ewerxl/anyone_playing_around_with_a_raspberry_pi_pico_2/">[comments]</a></span>
+
+## A Pi Zero with an E-Ink display that fetches and displays Mastodon posts
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ewcx5m/a_pi_zero_with_an_eink_display_that_fetches_and](https://www.reddit.com/r/raspberry_pi/comments/1ewcx5m/a_pi_zero_with_an_eink_display_that_fetches_and)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T20:55:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/biblioteko"> /u/biblioteko </a> <br /> <span><a href="https://audiovalentine.com/2024/08/the-mastodon-box/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ewcx5m/a_pi_zero_with_an_eink_display_that_fetches_and/">[comments]</a></span>
+
+## Issues with creating AP with hostapd
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ew8x7a/issues_with_creating_ap_with_hostapd](https://www.reddit.com/r/raspberry_pi/comments/1ew8x7a/issues_with_creating_ap_with_hostapd)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T18:16:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone!</p> <p>Im trying to create AP and route a traffic from hotspot to ethernet through some soft. But there are issues with hostapd.</p> <p>My hostapd.conf:</p> <p><code>country_code=RU</code><br /> <code>interface=wlan0</code><br /> <code>ssid=RpiAP</code><br /> <code>hw_mode=g</code><br /> <code>channel=7</code><br /> <code>macaddr_acl=0</code><br /> <code>auth_algs=1</code><br /> <code>ignore_broadcast_ssid=0</code><br /> <code>wpa=2</code><br /> <code>wpa_passphrase=0123456789</code><br /> <code>wpa_key_mgmt=WPA-PSK</code><br /> <code>wpa_pairwise=TKIP</code><br /> <code>rsn_pairwise=CCMP</code></p> <p>I can see &quot;RpiAP&quot; AP but can't connect.</p> <p>hostapd shows:</p> <p><code>wlan0: interface state UNINITIALIZED-&gt;COUNTRY_UPDATE</code></p> <p><code>wlan0: interface state COUNTRY_UPDATE-&gt;ENABLED</code></p> <p><code>wlan0: AP-ENABLED</code></p> <p><code>wlan0: STA 36:a6:00:d9:1a:dd IEEE 802.11: associated</code></p> <p><co
+
+## Secure Boot on Pi4: Anyone had success?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ew5h2o/secure_boot_on_pi4_anyone_had_success](https://www.reddit.com/r/raspberry_pi/comments/1ew5h2o/secure_boot_on_pi4_anyone_had_success)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T15:59:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all! I have been using pis for many years in a whole verity of solutions and builds.</p> <p>One major limitation to pis is physical security. Because of the OS needing to be run from a SD card or USB disk, it opens the door for pretty easy tampering. This limitation could be mitigated by only allowing specific signed disks to be used. </p> <p>Secure boot seems the only way to mitigate this, but documentation on this is sparse. Below is a link to the white paper:</p> <p><a href="https://pip.raspberrypi.com/categories/685-whitepapers-app-notes/documents/RP-003466-WP/Boot-Security-Howto.pdf">https://pip.raspberrypi.com/categories/685-whitepapers-app-notes/documents/RP-003466-WP/Boot-Security-Howto.pdf</a></p> <p>Has anyone had any luck with secure boot? Any other options to limit tampering other than something wild like a lockbox? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoBudAlpha"> /u/AutoBudAlpha </a
+
+## Watercooling my Raspberry Pi - Too much or just right?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1evy7rk/watercooling_my_raspberry_pi_too_much_or_just](https://www.reddit.com/r/raspberry_pi/comments/1evy7rk/watercooling_my_raspberry_pi_too_much_or_just)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T10:18:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1evy7rk/watercooling_my_raspberry_pi_too_much_or_just/"> <img alt="Watercooling my Raspberry Pi - Too much or just right?" src="https://b.thumbs.redditmedia.com/Xo1idQ7dC3_l_OZewcajv95YwWam358Gx96tO8n4T4s.jpg" title="Watercooling my Raspberry Pi - Too much or just right?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xUnholy"> /u/xUnholy </a> <br /> <span><a href="https://www.reddit.com/gallery/1evy7rk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1evy7rk/watercooling_my_raspberry_pi_too_much_or_just/">[comments]</a></span> </td></tr></table>
+
+## 2GB Raspberry Pi 5 released. $50
+ - [https://www.reddit.com/r/raspberry_pi/comments/1evx7b7/2gb_raspberry_pi_5_released_50](https://www.reddit.com/r/raspberry_pi/comments/1evx7b7/2gb_raspberry_pi_5_released_50)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T09:09:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/fleton"> /u/fleton </a> <br /> <span><a href="https://www.raspberrypi.com/news/2gb-raspberry-pi-5-on-sale-now-at-50/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1evx7b7/2gb_raspberry_pi_5_released_50/">[comments]</a></span>
+
+## LED Matrix Flight Tracker
+ - [https://www.reddit.com/r/raspberry_pi/comments/1evtf8p/led_matrix_flight_tracker](https://www.reddit.com/r/raspberry_pi/comments/1evtf8p/led_matrix_flight_tracker)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T04:49:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1evtf8p/led_matrix_flight_tracker/"> <img alt="LED Matrix Flight Tracker" src="https://preview.redd.it/z2phf1cwwjjd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7967132754665ae3b2af8a6e63782301d61a2130" title="LED Matrix Flight Tracker" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I built this flight tracker from 4 64x64 LED matrices, a raspberry pi 4, and a RTL-SDR dongle. I am using dump1090 (<a href="https://github.com/antirez/dump1090">https://github.com/antirez/dump1090</a>) and RTL-SDR to receive ADSB data from aircraft. </p> <p>The code is very much still a work in progress, but here’s the repo for anyone interested <a href="https://github.com/Weslex/rpi-led-flight-tracker">https://github.com/Weslex/rpi-led-flight-tracker</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wesleygmitchell219"> /u/Wesleygmitchell219 </a> <br /> <span><a href="https://i.red
+
+## DNSMASQ service issues?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1evpcoh/dnsmasq_service_issues](https://www.reddit.com/r/raspberry_pi/comments/1evpcoh/dnsmasq_service_issues)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-19T01:11:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a project where I have users connecting to a raspberry pi hotspot to go to a nodeJS web app on it. To access it, you have to enter the IP address in the browser (and port). I made an nginx proxy and used a DNSMASQ service to allow users connect by the site name. </p> <p>This is where it gets weird. The service runs, but it does not work. I also cannot restart the service because it says port 53 is in use. </p> <p>BUT if I kill all DNSMASQ processes, and then start the service , it works normally, it works on connecting devices and I can also restart it like normal. </p> <p>I need to make this work on startup without any user assistance. Does anyone have an idea why it’d be so weird?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Urban_Legend_Games"> /u/Urban_Legend_Games </a> <br /> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1evpcoh/dnsmasq_service_issues/">[link]</a></span> &#32; <span
+

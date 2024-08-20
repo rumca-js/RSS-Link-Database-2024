@@ -1,0 +1,373 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Fortnite Chapter 5 Season 4 - 22 Marvel Easter Eggs On The Island
+ - [https://www.gamespot.com/gallery/fortnite-chapter-5-season-4-marvel-easter-eggs/2900-5711](https://www.gamespot.com/gallery/fortnite-chapter-5-season-4-marvel-easter-eggs/2900-5711)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:08:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1746/17463818/4352865-4350781-c5s4battlepasslineup_en.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/fortnite/">Fortnite</a>'s latest season has finally dropped. Given that <a href="https://www.gamespot.com/gallery/everything-new-in-fortnite-chapter-5-season-4/2900-5674/">Chapter 5 Season 4</a> is centered around Marvel comics, it's only natural that various Easter eggs are scattered around the island.</p><p dir="ltr">Even though Season 4 is Marvel-themed, this isn't the first time Epic has teamed up with multimedia giant. Last season featured Magneto from the X-Men as an unlockable skin via the battle pass, and of course, Chapter 2 of Season 4 was built around the Avengers stopping Galactus from eating their world. That's not to mention all of the Marvel-themed skins that can be bought from the item shop.</p><p dir="ltr">With Galactus out of the picture, another fan-favorite villain has stepped into the limeligh
+
+## Black Myth: Wukong - 20 Tips To Know Before You Play
+ - [https://www.gamespot.com/gallery/black-myth-wukong-tips-beginners-guide/2900-5688](https://www.gamespot.com/gallery/black-myth-wukong-tips-beginners-guide/2900-5688)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4353213-black-myth-wukong-tips-beginners-guide-.jpg" /><br /><h3><p>A memorable adventure awaits you in <a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a>. This tale, based on Journey to the West, presents many trials for you to undertake throughout the campaign. Whether it's taking on one boss after another, searching for long-lost items, or trying to uncover secrets, there's bound to be an activity that keeps you engaged. But, before you dive right in, we encourage you to read our Black Myth: Wukong tips to help you get started.</p><h2>Black Myth: Wukong beginner's guide - 20 tips to know before you start playing</h2><p>Our Black Myth: Wukong beginner's guide discusses numerous facets that you'll encounter within the first few hours of playing the game. We talk about some basic concepts that are a given in action role-playing games and Soulslikes, as well as fea
+
+## Black Myth: Wukong - All Spirit Locations Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-spirits-guide/2900-5705](https://www.gamespot.com/gallery/black-myth-wukong-spirits-guide/2900-5705)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352461-black-myth-wukong-spirits-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> has you battling over 80 bosses and elites, each providing some nifty rewards. One particular type of reward is a spirit, a form that you can shapeshift into momentarily to make use of that foe's unique ability or spell. Here's our guide on where to find all spirits in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>minor spoilers</strong>.</p><h2>Where to find all spirits in Black Myth: Wukong</h2><p>Most Black Myth: Wukong spirit forms come from Yaoguai Chiefs, which are basically the equivalent of minibosses or elites. Compared to regular enemies, these creatures have a bluish glow emanating from their bodies. Once defeated, they leave behind a blue flame that you can collect.</p><p>Note that other foes in the game 
+
+## Black Myth: Wukong - Chapter 1 Secret Ancient Guanyin Temple Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-chapter-1-secret-ancient-guanyin-temple-guide/2900-5693](https://www.gamespot.com/gallery/black-myth-wukong-chapter-1-secret-ancient-guanyin-temple-guide/2900-5693)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352818-black-myth-wukong-chapter-1-secret-ancient-guanyin-temple-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> takes you to all sorts of realms that have their own mysteries to solve. The first one in Black Wind Mountain sets the tone, as it leads you to an ancient place. Here's our guide to help you complete the Chapter 1 secret area in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>Black Myth: Wukong Chapter 1 secret area guide - Ancient Guanyin Temple</h2><p>To gain access to the Chapter 1 secret area in Black Myth: Wukong, you need to ring the three large bells in the region. We've organized our guide to outline their locations based on how we progressed through the level, as well as the closest fast travel point.</p></h3></p><br />     <p><h2>First bell</h2><img src="htt
+
+## Black Myth: Wukong - Chapter 2 Secret Drunk Boar And Kingdom Of Sahali Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-chapter-2-secret-drunk-boar-kingdom-of-sahali-guide/2900-5695](https://www.gamespot.com/gallery/black-myth-wukong-chapter-2-secret-drunk-boar-kingdom-of-sahali-guide/2900-5695)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352855-black-myth-wukong-chapter-2-secret-drunk-boar-kingdom-of-sahali-.jpg" /><br /><h3><p>The world of <a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> is filled with secrets, and some of them take you to far-flung locations known only in tales of legend. One of these can be discovered in the vastness of a desert, though you need to help the Drunk Boar. Here's our guide on how you can unlock the Chapter 2 secret area in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>Black Myth: Wukong Chapter 2 secret area - The Kingdom of Sahali</h2><p>The Black Myth: Wukong Chapter 2 secret area can be accessed once you complete the Drunk Boar's side quest. In it, you have to give him a key item, before tracking him down to specific locations. Later, upon reaching the Kingdom of Sahali, you'll do battle against 
+
+## Black Myth: Wukong - Chapter 3 Pagoda Realm Wards And Prisoner Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-wards-prisoner-pagoda-realm-guide/2900-5696](https://www.gamespot.com/gallery/black-myth-wukong-wards-prisoner-pagoda-realm-guide/2900-5696)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352931-black-myth-wukong-wards-prisoner-chapter-3-.jpg" /><br /><h3><p>You can complete various quests in <a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a>. A few of these tasks might be straightforward, while others have clues that are quite cryptic and hard to discern. One of them just happens to take place during the game's third chapter. Here's our guide to help you with the Pagoda Realm wards and prisoner in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>Black Myth: Wukong Pagoda Realm wards and prisoner guide - Chapter 3 quest</h2><p>The Black Myth: Wukong Pagoda Realm quest is quite notable since you're not given much of a clue regarding the objectives. Here's a quick summary of what to expect:</p><ul><li>When you get transported to the Pagoda Realm, you'll notice several cliffside paths, as w
+
+## Black Myth: Wukong - Chapter 4 Secret Venom Daoist And Purple Cloud Mountain Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-chapter-4-secret-venom-daoist-purple-cloud-mountain-guide/2900-5697](https://www.gamespot.com/gallery/black-myth-wukong-chapter-4-secret-venom-daoist-purple-cloud-mountain-guide/2900-5697)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352937-black-myth-wukong-chapter-4-secret-area-venom-daoist-guide-.jpg" /><br /><h3><p>Very few objectives in <a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> can hold a candle to the one that unlocks Purple Cloud Mountain. From plumbing the depths of a massive cave system in search of a deadly foe, to tackling multiple tasks for certain denizens, it's really something to behold. The good news is that this arduous trek leads to some cool rewards. Here's our guide to help you complete the Chapter 4 secret area in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>Black Myth: Wukong Chapter 4 secret area - Purple Cloud Mountain</h2><p>The process to complete the Black Myth: Wukong Chapter 4 secret area is rather convoluted, but here's a quick summary:</p><ul><li>Reach a well-hidden area of the Webbed Holl
+
+## Black Myth: Wukong - Chapter 5 Secret Five Element Carts And Bishui Cave Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-chapter-5-secret-five-element-carts-bishui-cave-guide/2900-5698](https://www.gamespot.com/gallery/black-myth-wukong-chapter-5-secret-five-element-carts-bishui-cave-guide/2900-5698)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352948-black-myth-wukong-chapter-5-secret-area-five-element-carts-.jpg" /><br /><h3><p>Exploration is key in <a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a>. The game doesn't have a map, and many objectives aren't made clear to you at the start. As such, you might find yourself wandering around to complete certain tasks. One of these quests takes place in the Flaming Mountains, where you'll go from underground lava flows to scorching peaks in search of a hidden realm. Here's our guide to help you with the Chapter 5 secret area in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>Black Myth: Wukong Chapter 5 secret area - Bishui Cave</h2><p>Unlocking the Black Myth: Wukong Chapter 5 secret area involves multiple steps. Here's a quick summary:</p><ul><li>Talk to the Pale-Axe Stalwart, a miniboss who's r
+
+## Black Myth: Wukong - Guides Hub
+ - [https://www.gamespot.com/articles/black-myth-wukong-guides-hub/1100-6525898/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/black-myth-wukong-guides-hub/1100-6525898/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p>In <a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a>, you are the Destined One, a monkey warrior who sets about on an odyssey to collect ancient objects of great power. Arrayed against you are countless foes, trials and tribulations that are sure to test your mettle. Given all the challenges you face, we've got a Black Myth: Wukong guides hub to help you along the way.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Black Myth: Wukong guides hub</a><ul><li><a href="https://www.gamespot.com">Basics for beginners</a></li></ul></div><p> </p><h2 id="Black_Myth__Wukong_guides_hub">Black Myth: Wukong guides hub</h2><h3 id="Basics_for_beginners">Basics for beginners</h3><p><a href="https://www.gamespot.com/gallery/black-myth-wukong-tips-beginners-guide/2900-5688/"><strong>Beginner's guide</strong></a> - Here are
+
+## Black Myth: Wukong - How To Craft Medicines
+ - [https://www.gamespot.com/gallery/black-myth-wukong-craft-medicines/2900-5691](https://www.gamespot.com/gallery/black-myth-wukong-craft-medicines/2900-5691)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352742-black-myth-wukong-craft-medicines-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> gives you several ways to survive and take the fight to your enemies. One particular mechanic involves brewing concoctions that further buff the Destined One's attributes. Here's our guide on how to craft medicine in Black Myth: Wukong.</p><h2>How to craft medicine in Black Myth: Wukong</h2><p>Black Myth: Wukong medicines can be crafted once you complete the Xu Dog's quest in Chapter 2. Once this mechanic has been unlocked, you'll be able to use your ingredients to come up with consumables based on the recipes/formulae that you've obtained.</p></h3></p><br />     <p><h2>Where to find the Xu Dog</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352746-black-myth-wukong-craft-medicines-guide-1a.jpg" /><br /><h3><p>The Xu D
+
+## Black Myth: Wukong - How To Parry And Unlock The Parry Spell
+ - [https://www.gamespot.com/gallery/black-myth-wukong-parry-spell-rock-solid/2900-5690](https://www.gamespot.com/gallery/black-myth-wukong-parry-spell-rock-solid/2900-5690)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352734-black-myth-wukong-parry-rock-solid-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> offers fast-paced, frenetic, and ferocious combat. Most of the time, though, you'll need to deftly avoid enemy attacks by dodging. Well, at least until you can properly deflect them that is. Here's our guide to help you unlock the parry spell in Black Myth: Wukong.</p><h2>Black Myth: Wukong parry guide - How to unlock the parry spell</h2><p>The Black Myth: Wukong parry spell is called Rock Solid and, no, it's not available at the start of the game. Our guide discusses where you can acquire it, along with its talents/perks, as well as other methods that help you negate damage.</p></h3></p><br />     <p><h2>How to unlock the Rock Solid parry spell</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352735-black-myth-wukong-
+
+## Black Myth: Wukong - How To Tame The Feng-Tail General Giant Beetle In Chapter 6
+ - [https://www.gamespot.com/gallery/black-myth-wukong-feng-tail-general-giant-beetle-chapter-6-guide/2900-5708](https://www.gamespot.com/gallery/black-myth-wukong-feng-tail-general-giant-beetle-chapter-6-guide/2900-5708)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352754-black-myth-wukong-feng-tailed-general-giant-beetle-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> has dozens of bosses that you need to fight in order to conclude the epic saga. However, there's one that will truly test your mettle. It's not a battle, but a strict stat check. Here's our guide to help you tame the Feng-Tail General in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>Black Myth: Wukong Feng-Tail General guide - How to tame the giant beetle boss</h2><p>The Black Myth: Wukong Feng-Tail General is a giant beetle boss found in Mount Huaguo in Chapter 6. It, along with the other massive beasts in this region, reward you with the mythical rarity <a href="https://www.gamespot.com/gallery/black-myth-wukong-mythical-armor-set/2900-5707/"><strong>Monkey King/He
+
+## Black Myth: Wukong - How To Unlock All Transformations
+ - [https://www.gamespot.com/gallery/black-myth-wukong-transformations-guide/2900-5704](https://www.gamespot.com/gallery/black-myth-wukong-transformations-guide/2900-5704)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352617-black-myth-wukong-transformations-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> is based on Journey to the West, a novel where a Monkey King is able to shapeshift into numerous creatures. Naturally, the hero of this game, the Destined One, can use these amazing abilities. Here's our guide on how to unlock all transformations in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>How to unlock all transformations in Black Myth: Wukong</h2><p>There are several Black Myth: Wukong transformations that can be acquired throughout the course of the campaign. When you defeat specific bosses, the Destined One siphons their power, which you can then utilize in combat by way of unique attacks and abilities. Here are some additional tidbits to remember:</p><ul><li>Transformations
+
+## Black Myth: Wukong - Man-In-Stone Quest Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-man-in-stone-quest-guide/2900-5694](https://www.gamespot.com/gallery/black-myth-wukong-man-in-stone-quest-guide/2900-5694)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352847-black-myth-wukong-man-in-stone-guide-.jpg" /><br /><h3><p><a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> has side quests for you to tackle in each region. One of these has you helping a treasure seeker who's suffering from a curse, though this fella does have ulterior motives as well. Here's our guide on how to complete the Man-in-Stone quest in Black Myth: Wukong.</p><h2>Black Myth: Wukong Man-in-Stone quest guide (Chapter 2)</h2><p>The Black Myth: Wukong Man-in-Stone quest takes place in the Yellow Wind Ridge in Chapter 2. Here's how you can reach this unfortunate fella:</p><ul><li>From Sandgate Village, go through the gate at the open area to your right. This is where you'll do battle against the King of Flowing Sands and Second Rat Prince.</li><li>Cross the rickety bridge to the opposite canyon, and keep going straight ahead until you see the Squal
+
+## Black Myth: Wukong - Mythical Wukong Armor And Jingubang Staff Guide
+ - [https://www.gamespot.com/gallery/black-myth-wukong-mythical-armor-set/2900-5707](https://www.gamespot.com/gallery/black-myth-wukong-mythical-armor-set/2900-5707)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T23:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1816/18167535/4352743-black-myth-wukong-mythical-armor-jingubang-weapon-.jpg" /><br /><h3><p>Your journey in <a href="https://www.gamespot.com/games/black-myth-wukong/"><strong>Black Myth: Wukong</strong></a> begins as a random monkey, setting out to collect some ancient artifacts from various regions. Eventually, though, you'll achieve power that can rival the Monkey King himself, especially once you don his iconic equipment. Here's our guide to help you get the mythical Wukong armor and Jingubang in Black Myth: Wukong. Likewise, please be reminded that this article contains <strong>spoilers</strong>.</p><h2>Black Myth: Wukong mythical armor and weapon - Jingubang and Wukong armor set</h2><p>The Black Myth: Wukong mythical armor set and Jingubang weapon, said to be wielded by the Monkey King in ages long past, can be yours in Chapter 6. This chapter is set in the Mount Huaguo region.</p><p>In fact, obtaining all these gear p
+
+## B2G1 Free All Nintendo Switch Games - Save On Zelda: Echoes Of Wisdom, Mario & Luigi, And More Preorders
+ - [https://www.gamespot.com/articles/buy-two-get-one-free-nintendo-switch-games-and-preorders-my-best-buy-members/1100-6525928/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/buy-two-get-one-free-nintendo-switch-games-and-preorders-my-best-buy-members/1100-6525928/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T21:12:00+00:00
+
+<div class="norewrite" title="[Various] - My Best Buy B2G1 Free Switch Games">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4352812-zeldaechoesofwisdom.png" />                                 <a href="https://shop-links.co/1851218951133452894?u1=subid_value"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://shop-links.co/1851218951133452894?u1=subid_value">B2G1 Free All Switch Games, Including Preorders</a>           </p>                  
+
+## Legendary Is Developing A Pacific Rim Prequel Series
+ - [https://www.gamespot.com/articles/legendary-is-developing-a-pacific-rim-prequel-series/1100-6525943/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/legendary-is-developing-a-pacific-rim-prequel-series/1100-6525943/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T20:52:00+00:00
+
+<p>In 2013, director Guillermo del Toro and screenwriter Travis Beacham co-wrote the script for Pacific Rim, a movie that pit giant monsters against giant robots piloted by two-man teams. The film spawned a sequel, Pacific Rim Uprising, in 2018. But aside from the two-season run of the anime, Pacific Rim: The Black on Netflix, the franchise has been largely dormant since then. Now, Legendary Entertainment has revealed plans to make a Pacific Rim prequel series, and a creative team is already in place.</p><p>Via <a href="https://variety.com/2024/tv/news/legendary-entertainment-pacific-rim-prequel-first-look-tv-deal-eric-heisserer-1236111001/">Variety</a>, Eric Heisserer and Carmen Lewis are developing the Pacific Rim prequel series, which will presumably expand upon the origin sequence from the first film. As related in that movie, giant alien monsters called Kaiju broke through to our world through an interdimensional portal at the bottom of the Pacific Ocean. To fight back, humanity 
+
+## With Few Big Releases, What Have Been The Most Popular Games Recently?
+ - [https://www.gamespot.com/gallery/with-few-big-releases-what-have-been-the-most-popular-games-recently/2900-5713](https://www.gamespot.com/gallery/with-few-big-releases-what-have-been-the-most-popular-games-recently/2900-5713)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T20:42:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1599/15997278/4353170-firstdescendantthumb.jpg" /><br /><h3><p>Circana video game industry advisor and executive director Mat Piscatella has shared on <a href="https://x.com/MatPiscatella/status/1825533788786758134">X/Twitter</a> a list of the most popular games on PlayStation 5, Xbox Series X|S, and PC. The lists track the most popular games by player engagement each week, with the latest rankings for the week ending on August 10.</p><p dir="ltr">This week's list is close to last week's, with only one game coming from outside the top ten, which is <a href="https://www.gamespot.com/games/apex-legends/">Apex Legends</a>, which jumped from 15 to 10 on PlayStation 5, which saw <a href="https://www.gamespot.com/gallery/apex-legends-season-22-how-to-unlock-all-shockwave-battle-pass-rewards-for-free/2900-5665/">Season 22</a> drop on August 6. Outside of Apex Legends, the rest of the top 10 on each platform only shifted slightly com
+
+## The Criterion Collection's 40-Film Box Set Costs More Than The PS5 You Watch Blu-Rays On
+ - [https://www.gamespot.com/articles/the-criterion-collections-40-film-box-set-costs-more-than-the-ps5-you-watch-blu-rays-on/1100-6525915/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-criterion-collections-40-film-box-set-costs-more-than-the-ps5-you-watch-blu-rays-on/1100-6525915/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T20:03:00+00:00
+
+<p>The Criterion Collection is responsible for restoring and preserving a bunch of classic and contemporary movies over the past four decades. To celebrate its 40th anniversary, Criterion is releasing a <a href="https://www.amazon.com/dp/B0DCP91P1X?tag=gamespot-preorders-20">40-film box set</a> dubbed CC40 on <strong>November 19</strong>. This mammoth collection contains 49 discs, 40 films, hundreds of hours of special features, and a 216-page retrospective book, all stored in a premium clouthbound slipcase.</p><p>CC40 has a list price of $800 (ouch indeed), but you can <a href="https://www.amazon.com/dp/B0DCP91P1X?tag=gamespot-preorders-20">preorder the set for $560 at Amazon</a> and <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://www.tkqlhce.com/click-100770772-12366831?sid=subid_value&amp;url=https://www.barnesandnoble.com/w/dvd-cc40-criterion-collection-49pc-box-aniv-dts-sgnl/1146148868&amp;p=http://www.gamespot.com/feeds/mashup/?platform=1049&amp;popup=1&a
+
+## A Poltergeist TV Series Is In The Works
+ - [https://www.gamespot.com/articles/a-poltergeist-tv-series-is-in-the-works/1100-6525941/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-poltergeist-tv-series-is-in-the-works/1100-6525941/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T19:44:00+00:00
+
+<p>In 1996, Poltergeist received its first TV series, Poltergeist: The Legacy, which was only loosely connected to the films. That show ran for four seasons before coming to an end in 1999, but now, there's a fresh take on a Poltergeist TV series coming from Amazon MGM Studios.</p><p>Via <a href="https://variety.com/2024/tv/news/poltergeist-tv-series-amazon-mgm-studios-writers-kalinda-vazquez-robbie-thompson-1236109476/">Variety</a>, the Poltergeist series has landed two showrunners and executive producers, Kalinda Vazquez and Robbie Thompson. Of the pair, Vazquez has a more varied list of shows to her credits including Nikita, Prison Break, Fear the Walking Dead, Once Upon a Time, and Star Trek: Discovery. Thompson's experience primarily comes from Supernatural, the long-running genre series where he served as a co-executive producer for several seasons. He was also the creator and showrunner of the prequel series, The Winchesters.</p><p>No story details are currently available about
+
+## 27 Minutes of New Silent Hill 2 Remake Gameplay
+ - [https://www.gamespot.com/videos/27-minutes-of-new-silent-hill-2-remake-gameplay/2300-6464869](https://www.gamespot.com/videos/27-minutes-of-new-silent-hill-2-remake-gameplay/2300-6464869)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T19:43:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4353125-silenthill2remake_gameplay_v1.jpg" width="480" /> Check out X minutes of brand new gameplay of the Silent Hill 2 remake, including the game's opening, exploring the town, the Wood Side Apartments, and an encounter with Pyramid Head.
+
+## People Think A New Dying Light Is Being Teased For Gamescom Opening Night Live 2024
+ - [https://www.gamespot.com/articles/could-geoff-keighley-be-teasing-a-new-dying-light-for-gamescom-opening-night-live-2024/1100-6525940/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/could-geoff-keighley-be-teasing-a-new-dying-light-for-gamescom-opening-night-live-2024/1100-6525940/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T19:29:00+00:00
+
+<p dir="ltr">Dying Light fans might want to tune into Gamescom Opening Night Live tomorrow, August 20. That's because host Geoff Keighley seems to be teasing a new entry in the zombie video game series, especially in light of a recent US Patent and Trademark Office filing.</p><p dir="ltr"><a href="https://x.com/geoffkeighley/status/1825502979950064033">On X</a>, Keighley shared a roughly one-minute live-action video alongside the text: "The Beast Is Coming." What's notable here is that Keighley focuses on "The Beast," since <a href="https://tsdr.uspto.gov/">the USPTO website</a> shows a trademark application for Dying Light: The Beast was submitted on August 12.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">👹 The Beast Is Coming 👹<br />Tune into <a href="https://twitter.com/gamescom?ref_src=twsrc^tfw">@gamescom</a> Opening Night Live, tomorrow at 11a PT / 2p ET / 8p EST for the reveal.<br />Set a Reminder on YouTube to Watch Live: <a href="https://t.co/M13YlBGq
+
+## M3gan Spinoff Soulm8te Casts The Boys And Call Of Duty Actor Claudia Doumit
+ - [https://www.gamespot.com/articles/m3gan-spinoff-soulm8te-casts-the-boys-and-call-of-duty-actor-claudia-doumit/1100-6525939/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/m3gan-spinoff-soulm8te-casts-the-boys-and-call-of-duty-actor-claudia-doumit/1100-6525939/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T19:19:00+00:00
+
+<p>Claudi Doumit is reportedly joining the <a href="https://www.gamespot.com/articles/m3gan-getting-erotic-thriller-spinoff-about-lovebot-who-turns-deadly/1100-6524414/">upcoming M3gan erotic thriller spin-off called Soulma8te</a>. A new report says The Boys star will appear in Soulm8te alongside the previously announced cast members Lily Sullivan and David Rysdahl. </p><p>The story for Soulm8te follows a man (Rysdahl) buying an AI-powered android (Sullivan) to help him deal with the loss of his wife. "In an attempt to create a truly sentient partner, the man inadvertently turns a harmless lovebot into a deadly soulmate," reads a line from the movie's description. <a href="https://deadline.com/2024/08/soulm8te-claudia-doumit-joins-lily-sullivan-david-rysdahl-1236043894/">Deadline</a> broke the news of Doumit joining the cast.</p><p>Doumit plays Victoria Neuman on The Boys. She's also known for portraying Farah in the Call of Duty franchise.</p><a href="https://www.gamespot.com/article
+
+## Black Myth: Wukong Gets Special-Edition 8BitDo Wireless Controller, Available Now For $35
+ - [https://www.gamespot.com/articles/black-myth-wukong-gets-special-edition-8bitdo-wireless-controller-available-now-for-35/1100-6525905/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/black-myth-wukong-gets-special-edition-8bitdo-wireless-controller-available-now-for-35/1100-6525905/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T19:10:00+00:00
+
+<div><div class="norewrite" title="6525905 - Black Myth Wukong 8BitDo Controller">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4352679-black-myth-controller-square.jpg" />                                 <a href="https://www.amazon.com/dp/B0DB4LXDP7?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0DB4LXDP7?tag=gamespot-promos-20">Black Myth: Wukong 8BitDo Ultimate 2C Controller</a>           </
+
+## Crystal Lake, Peacock's Friday The 13th Series, Finds New Showrunner
+ - [https://www.gamespot.com/articles/crystal-lake-peacocks-friday-the-13th-series-finds-new-showrunner/1100-6525942/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/crystal-lake-peacocks-friday-the-13th-series-finds-new-showrunner/1100-6525942/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T18:56:00+00:00
+
+<p>Despite initial behind-the-scenes <a href="https://www.gamespot.com/articles/report-on-a24s-friday-the-13th-series-reveals-behind-the-scenes-turmoil/1100-6524371/">turmoil</a> for Peacock's Crystal Lake, it looks like the <a href="https://fridaythe13th.fandom.com/wiki/Friday_the_13th_Wiki">Friday the 13th</a> prequel series is back on again with a new showrunner. <a href="https://deadline.com/2024/08/crystal-lake-series-brad-caleb-kane-set-new-showrunner-peacock-1236042428/">Deadline</a> is reporting that Brad Caleb Kane is taking the reins from Bryan Fuller and will serve not just as showrunner, but as Crystal Lake's creator, writer, and executive producer.</p><p>First announced in October 2022, Crystal Lake's plot specifics are being kept under wraps. This is the first major IP-driven project for A24, as it attempts to expand towards a more commercial and wide-range appeal. Victor Miller, the writer of the original 1980 horror classic, will also executive produce alongside Kane, 
+
+## Call Of Duty Season 5 Reloaded Adds Some Truly Outrageous Skins
+ - [https://www.gamespot.com/gallery/call-of-duty-season-5-reloaded-adds-some-truly-outrageous-skins/2900-5712](https://www.gamespot.com/gallery/call-of-duty-season-5-reloaded-adds-some-truly-outrageous-skins/2900-5712)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T18:55:00+00:00
+
+<p><h2>Call of Duty gets weird (again)</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4353046-cod1.jpg" /><br /><h3><p>Call of Duty's big new Season 5 Reloaded update introduces a lot more to Modern Warfare III and Warzone, including the latest licensed crossover character and some wacky-looking skins.</p><p>Bill Skarsgard's The Crow comes to Call of Duty with the Season 5 Reloaded update as a paid marketing effort to promote the new movie coming out this month.</p><p>On the wackier side is a new skin that turns you into a slug (?), as well as a killer cat and new types of creepy beasts. Another new skin turns Ghost into a punk rock star.</p><p>Check out the full gallery to see all the new skins coming to Call of Duty. The <a href="https://www.gamespot.com/articles/cod-warzone-and-mw3-season-5-reloaded-release-date-and-details/1100-6525932/">Season 5 Reloaded update arrives on August 21</a>, but as usual, these new skins will likely roll out over the course
+
+## Netflix's Tomb Raider Animated Series Gets Action-Packed First Trailer
+ - [https://www.gamespot.com/articles/netflixs-tomb-raider-animated-series-gets-action-packed-first-trailer/1100-6525911/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflixs-tomb-raider-animated-series-gets-action-packed-first-trailer/1100-6525911/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T18:00:00+00:00
+
+<p>Netflix and Powerhouse Animation are bringing Lara Croft to the animated world in Tomb Raider: The Legend of Lara Croft, coming October 10. Fans got their first look at the series <a href="https://www.gamespot.com/articles/netflix-unveils-first-look-at-tomb-raider-the-legend-of-lara-croft-in-new-teaser-trailer/1100-6518005/">last September</a>, which is focused on Lara's early adventures, and picks up the story after the Survivor trilogy game (Tomb Raider; Rise of the Tomb Raider; Shadow of the Tomb Raider). After almost a year, we finally have our first teaser trailer of Lara and what adventures she has in store.</p><p>"Lara Croft has abandoned her friends to embark on increasingly more perilous solo adventures. But she must return home when a dangerous and powerful Chinese artifact is stolen from Croft Manor by a thief with an uncanny personal connection," the official show synopsis reads. "Her daring pursuit will take her on an adventure around the world and to the depths of for
+
+## CoD: Warzone And MW3 Season 5 Reloaded Release Date And Details
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-season-5-reloaded-release-date-and-details/1100-6525932/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-season-5-reloaded-release-date-and-details/1100-6525932/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T17:59:00+00:00
+
+<p dir="ltr">The Season 5 Reloaded update arrives to <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a>, <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>, and <a href="https://www.gamespot.com/games/call-of-duty-warzone-mobile/">Warzone Mobile</a> later this week. Here is everything announced, including two new weapons, an IP crossover with The Crow, and the final story mission for Zombies.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Season 5 Reloaded start times</a></li><li><a href="https://www.gamespot.com">What to expect from Season 5 Reloaded</a></li></ul></div><h2 dir="ltr" id="Season_5_Reloaded_start_times">Season 5 Reloaded start times</h2><p dir="ltr">Season 5 Reloaded arrives on Wednesday, August 21. The update goes live at 9 AM PT / 12 PM ET / 5 PM BST across a
+
+## Funko Fusion Demo Out Now, Lets You Survive The Thing As Mega Man
+ - [https://www.gamespot.com/articles/funko-fusion-demo-out-now-lets-you-survive-the-thing-as-mega-man/1100-6525931/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/funko-fusion-demo-out-now-lets-you-survive-the-thing-as-mega-man/1100-6525931/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T17:49:00+00:00
+
+<p><a href="https://www.gamespot.com/games/funko-fusion/">Funko Fusion</a>, the upcoming pop culture-mashup from developer 10:10 Games, now has a playable demo, and it's one where fans can experience the horrors of John Carpenter's 1982 film The Thing as extremely out-of-place characters who definitely don't belong there.</p><p dir="ltr">One of those characters is none other than Mega Man. It's been revealed that Capcom's Blue Bomber will be playable in Funko Fusion, and fans can play as him in the free demo now available on Steam. Of course, players can also play as actual characters from The Thing, but why do that when you could be Freddy Fazbear of <a href="https://www.gamespot.com/games/five-nights-at-freddys/">Five Nights at Freddy's</a> fame or He-Man instead?</p><div>          </div><p dir="ltr">"We've been working on this game for three years, and this is the first time we're inviting the public to experience it outside of recent timed convention demos," 10:10 Games writes in 
+
+## H2M Creator Says CoD: MW2 Mod Was Shut Down Over Black Ops 6 Sales Fears
+ - [https://www.gamespot.com/articles/h2m-creator-says-cod-mw2-mod-was-shut-down-over-black-ops-6-sales-fears/1100-6525930/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/h2m-creator-says-cod-mw2-mod-was-shut-down-over-black-ops-6-sales-fears/1100-6525930/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T17:48:00+00:00
+
+<p>Earlier this month, Activision put the kibosh on <a href="https://www.gamespot.com/articles/call-of-duty-mod-shut-down-by-activision-hours-before-launch-leading-to-review-bombing/1100-6525865/">an ambitious mod</a> known as H2M: a fan-created attempt to bring classic Modern Warfare 2 multiplayer to Modern Warfare Remastered. Now, a member of the mod team that goes by the handle "Watchful Wolf" says that the gaming giant put out the cease-and-desist order due to concerns that H2M would hurt Black Ops 6 sales.</p><p dir="ltr">Fans immediately took to forums like the Call of Duty subreddit to <a href="https://www.reddit.com/r/CallOfDuty/comments/1et5csh/cod_h2m_cease_desisted/">express</a> their displeasure with the move, with many of them noting that the C&amp;D came the day before H2M was scheduled to release. In a video posted to <a href="https://www.youtube.com/watch?v=WhHQ76SgPUI">YouTube</a>, Watchful Wolf stated that the order from Activision came just hours before the mod's re
+
+## Attack On Titan: The Final Chapters Limited Edition Up For Preorder - Complete Your Blu-Ray Set
+ - [https://www.gamespot.com/articles/attack-on-titan-final-season-final-chapters-blu-ray-preorder-amazon/1100-6525903/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/attack-on-titan-final-season-final-chapters-blu-ray-preorder-amazon/1100-6525903/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T17:21:00+00:00
+
+<p>Attack on Titan recently wrapped up its anime adaptation, bringing its grand saga and a decade of storytelling to an end. Fans can now complete their Blu-ray collection of the anime by preordering Attack on Titan: The Final Chapters Limited Edition ahead of its <strong>November 26</strong> release. <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://crunchyrollstore.sjv.io/c/1804712/1730612/20100?subId1=subid_value&amp;u=https%3A%2F%2Fstore.crunchyroll.com%2Fproducts%2Fattack-on-titan-final-season-the-final-chapters-part-3-blu-ray-dvd-limited-edition-704400108488.html&amp;p=http://www.gamespot.com/feeds/mashup&amp;event_type=click">Priced at $67.49 on the Crunchyroll Store</a> (already discounted from $90), this collector's edition comes with terrific extra content as well. On Amazon, <a href="https://www.amazon.com/dp/B0D6G17J5D?tag=gamespot-preorders-20">this is currently listed for $90</a>, but like other Blu-ray releases, you can expect this to drop to match
+
+## Joker Director Has Funny Response To Deadpool And Wolverine's Massive Success
+ - [https://www.gamespot.com/articles/joker-director-has-funny-response-to-deadpool-and-wolverines-massive-success/1100-6525927/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/joker-director-has-funny-response-to-deadpool-and-wolverines-massive-success/1100-6525927/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T17:01:00+00:00
+
+<p>For the first time since its release on July 26, <a href="https://www.gamespot.com/reviews/deadpool-and-wolverine-review-status-quo/1900-6418260/">Deadpool &amp; Wolverine</a> did not finish at No. 1 at the box office last weekend. Instead, it fell to No. 2 with $29 million, which brings its domestic take to $545.8 million. When combined with its worldwide grosses, Deadpool &amp; Wolverine has now claimed the record for an R-rated film with $1.08 billion. The previous record holder was director Todd Phillips' 2019 <a href="https://www.gamespot.com/reviews/joker-review-the-dark-antihero-origin-story-that-c/1900-6417285/">Joker</a> movie. Phillips' acknowledged the passing of the torch with a post on Instagram, and he couldn't resist making a joke about it.</p><p>"Have to tip my hat to [Ryan Reynolds] and [Shawn Levy] for this absolute steam roller of a movie. We knew it was gonna be big, but this is too much. Congrats to everyone involved!!"</p><div><blockquote class="instagram-medi
+
+## Tactical Breach Wizards Review - Breach And Cast
+ - [https://www.gamespot.com/reviews/tactical-breach-wizards-review-breach-and-cast/1900-6418270/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/tactical-breach-wizards-review-breach-and-cast/1900-6418270/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T17:00:00+00:00
+
+<p dir="ltr">In a world where a large enough portion of the population has access to a magical ability of some kind, it's easy to envision how that might affect their career path. The military would make great use of those able to see into the future or others that travel along a different plane of time, making for the ultimate espionage tools. A surgeon who isn't burdened with the risk of losing a patient on the table could be invaluable for some of the most complex and dangerous tasks in a hospital room, while an adept pyromancer could find honest (or incredibly dishonest) work in a variety of fields. Tactical Breach Wizards has a lot of fun toying around in this space, thrusting together a renegade party of regular, but magically capable, heroes in a globe-spanning adventure that is supported by an engrossing turn-based tactics system that rewards smart thinking and creative experimentation.</p><p dir="ltr">The adventure starts with Jen, a plucky witch who gets by as a loose-cannon
+
+## XCOM With Wizards | Tactical Breach Wizards Gameplay
+ - [https://www.gamespot.com/videos/xcom-with-wizards-tactical-breach-wizards-gameplay/2300-6464856](https://www.gamespot.com/videos/xcom-with-wizards-tactical-breach-wizards-gameplay/2300-6464856)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T17:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4351871-tbw_thumb_v1_gs.jpg" width="480" /> Watch this gameplay clip of tactical wizards fighting up a two-lane map supporting each other with overlapping fire on their way to rescue a prisoner.
+
+## CoD: Black Ops 6 Zombies Might Have An Early-Access Launch
+ - [https://www.gamespot.com/articles/cod-black-ops-6-zombies-might-have-an-early-access-launch/1100-6525925/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-black-ops-6-zombies-might-have-an-early-access-launch/1100-6525925/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T16:20:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/articles/call-of-duty-2024-release-date-trailer-news/1100-6523361/">Call of Duty: Black Ops 6</a> arrives later this year with the return of Treyarch's iconic round-based Zombies mode. While an official announcement about early access hasn't been made by Activision, leaks suggest that players could get to play Zombies one week before the game's launch on October 25.</p><p dir="ltr">As seen in the post below, <a href="https://x.com/Tridzo/status/1825211847953486085">content creator Tridzo</a> claims that, when viewing the PlayStation dashboard, Zombies is listed as playable on October 17, which is a week before the official release. Recent Call of Duty launches have included one week of campaign early access, but Activision haven't announced any early-access plans for campaign or Zombies.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr"><a href="https://twitter.com/hashtag/BlackOps6?src=hash&amp;ref_src=twsrc^tfw">#Bla
+
+## New Joker 2 Poster Shows Joker And Harley's Blood Romance
+ - [https://www.gamespot.com/articles/new-joker-2-poster-shows-joker-and-harleys-blood-romance/1100-6525924/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-joker-2-poster-shows-joker-and-harleys-blood-romance/1100-6525924/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T15:56:00+00:00
+
+<p>It's been five years since DC's standalone Joker movie that shifted the focus on Batman's greatest villain and his rise to become Gotham's greatest criminal. For the sequel, Joker (Joaquin Phoenix) is joined by Harley Quinn (Lady Gaga) <a href="https://www.gamespot.com/articles/joker-doesnt-become-clown-prince-of-crime-in-joker-2-director-says/1100-6525325/">but don't expect to see him as the Clown Prince of Crime</a>, though he's having a killer time along the way. Warner Bros. released a new poster to hype up Joker and Harley's budding and bloody romance.</p><p>The poster features the duo dressed in their Sunday best, Harley and Joker locked into each other's eyes, their faces speckled with blood.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Let’s give the people what they want. Joker: Folie à Deux – only in theaters and <a href="https://twitter.com/IMAX?ref_src=twsrc^tfw">@imax</a>, October 4. <a href="https://twitter.com/hashtag/JokerMovie?src=hash&amp;
+
+## All The Gamescom Awards 2024 Categories And Nominees
+ - [https://www.gamespot.com/gallery/all-the-gamescom-awards-2024-categories-and-nominees/2900-5710](https://www.gamespot.com/gallery/all-the-gamescom-awards-2024-categories-and-nominees/2900-5710)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T15:55:00+00:00
+
+<p><h2>Awards season</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4352947-gc.jpg" /><br /><h3><p><a href="https://www.gamespot.com/articles/gamescom-2024-dates-how-to-watch-what-to-expect/1100-6525219/">Gamescom 2024</a> begins this week in Cologne, Germany. One of the big parts of the event is the awards show, and now all of the categories and nominees have been announced for this year. Unlike year-end awards shows, the Gamescom Awards Show is focused on games that appear at the show--and this includes not-yet-released games like Kingdom Come: Deliverance II and Monster Hunter: Wilds.</p><p>Some of the categories include Best Visuals, Best Gameplay, and Most Wholesome. There are platform-specific categories, too, covering Xbox, PlayStation, and PC. There is usually a Nintendo Switch category, but it was canceled this year because it received "too few submissions," a spokesperson told <a href="https://www.thegamer.com/gamescom-scraps-best-nintendo-game-aw
+
+## Shang-Chi's Simu Liu Gives Sequel Update
+ - [https://www.gamespot.com/articles/shang-chis-simu-liu-gives-sequel-update/1100-6525914/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/shang-chis-simu-liu-gives-sequel-update/1100-6525914/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T15:18:00+00:00
+
+<p><a href="https://www.gamespot.com/reviews/shang-chi-and-the-legend-of-the-ten-rings-review-something-new-in-the-mcu/1900-6417717/">Shang-Chi and the Legend of the Ten Rings</a> was one of the post-pandemic success stories for Marvel in 2021. The film made Simu Liu into a leading man, and the story seemingly opened up a lot of new options for the MCU. A sequel was announced shortly after its release, but there's been little word on Shang-Chi 2 since then. Regardless, Liu wants fans to know that the sequel is still coming even though it was noticeably absent from <a href="https://www.gamespot.com/gallery/san-diego-comic-con-2024-biggest-news-announcements-trailers/2900-5626/">Marvel's Comic-Con presentation</a>.</p><p>"A lot of it is above my pay grade but it's definitely happening," said Liu during an interview with <a href="https://comicbook.com/movies/news/shang-chi-2-simu-liu-marvel-sequel-update-jackpot-mcu/">Comic Book</a>. "So, just very excited to kind of work on it and it's 
+
+## Grab A New iPad For Only $199, Lowest Price Yet For Apple's 9th Gen Tablet
+ - [https://www.gamespot.com/articles/grab-a-new-ipad-for-only-199-lowest-price-yet-for-apples-9th-gen-tablet/1100-6525912/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/grab-a-new-ipad-for-only-199-lowest-price-yet-for-apples-9th-gen-tablet/1100-6525912/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T15:16:00+00:00
+
+<div class="norewrite" title="6525912 - iPad 9th Gen Deal">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4352768-61pnhlc0hcl._ac_sl1500.jpg" />                                 <a href="https://www.amazon.com/dp/B09G9CJM1Z?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B09G9CJM1Z?tag=gamespot-promos-20">Apple iPad 10.2-Inch (9th Gen)</a>           </p>                                             
+
+## Rockstar Classic Bully Launches On New Platforms Via GTA+ This Week
+ - [https://www.gamespot.com/articles/rockstar-classic-bully-launches-on-new-platforms-via-gta-this-week/1100-6525916/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rockstar-classic-bully-launches-on-new-platforms-via-gta-this-week/1100-6525916/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T15:15:00+00:00
+
+<p>Rockstar Games' new GTA+ subscription service offers a rotating library of games by the Grand Theft Auto developer, and Bully is next on tap. Rockstar announced back in April that Bully and LA Noire would be coming to <a href="https://www.gamespot.com/articles/la-noire-and-bully-free-for-gta-members-this-year-along-with-millions-in-gta-online-cash/1100-6522333/">GTA+</a> "later this year." A recent post on the developer's site <a href="https://www.rockstargames.com/newswire/article/o337151o33aa79/the-new-benefactor-vorschlaghammer-sedan-free-with-gta">announced</a> that Bully will be available through GTA+ starting on August 20.</p><p dir="ltr">A listing on the Taiwan Digital Game Rating Committee indicates that a version of the game called Bully (Canis Canem Edit) is coming soon to new platforms, including PS5, Xbox Series X|S, PS4, Xbox One, and PC (per <a href="https://www.gematsu.com/2024/08/bully-rated-for-ps5-xbox-series-ps4-xbox-one-and-pc-in-taiwan">Gematsu</a>). An emulate
+
+## Xbox Game Pass Is Losing Three Big Games In August
+ - [https://www.gamespot.com/gallery/xbox-game-pass-is-losing-three-big-games-in-august/2900-5709](https://www.gamespot.com/gallery/xbox-game-pass-is-losing-three-big-games-in-august/2900-5709)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T15:04:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1646/16465123/4352786-image_2024-08-19_100228414croppedcropped.jpg" /><br /><h3><p>Three additional games are leaving <a href="https://www.gamespot.com/gallery/best-xbox-game-pass-games/2900-4001/">Xbox Game Pass </a>at the end of August, so make sure to give them a shot before then! The games include NBA 2K24 for both Xbox One and Xbox Series X|S, Atomic Heart, and Guilty Gear Strive. Remember that they can bought at a 20% discount until they leave.</p><p>While NBA 2K24 is going away, fans at least have the new 2K25 to look forward to when it launches on September 6, although it won't launch in Game Pass. Atomic Heart is a first-person shooter game that takes place in the Soviet Union, and doesn't hide its BioShock Infinite influences. In GameSpot's <a href="https://www.gamespot.com/reviews/atomic-heart-review-crispy-critters/1900-6418033/">Atomic Heart review</a>, we said, "Atomic Heart lacks follow-through on its most inte
+
+## Last Chance To Get Lego Super Mario 64 Question Block Before It's Gone For Good
+ - [https://www.gamespot.com/articles/last-chance-to-get-lego-super-mario-64-question-block-before-its-gone-for-good/1100-6525901/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/last-chance-to-get-lego-super-mario-64-question-block-before-its-gone-for-good/1100-6525901/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T14:51:00+00:00
+
+<div><div class="norewrite" title="6517604 - Lego Super Mario 64 Question Mark">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4191132-legomarioquestionmark.jpg" />                                 <a href="https://www.amazon.com/dp/B09FMVDHDM?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B09FMVDHDM?tag=gamespot-promos-20">Lego Super Mario 64 Question Mark</a>           </p>                      
+
+## Star Wars Outlaws PC Requirements Revealed, Galaxy-Class GPU Needed For 4K Graphics
+ - [https://www.gamespot.com/articles/star-wars-outlaws-pc-requirements-revealed-galaxy-class-gpu-needed-for-4k-graphics/1100-6525909/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-outlaws-pc-requirements-revealed-galaxy-class-gpu-needed-for-4k-graphics/1100-6525909/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T14:14:00+00:00
+
+<p><a href="https://www.gamespot.com/articles/star-wars-outlaws-gameplay-characters-and-everything-we-know/1100-6515795/">Star Wars Outlaws</a> is almost here, and if you're wondering if your PC can process a good-looking galaxy full of danger, you can check out the official PC requirements for the game below. Ubisoft has released a list of the hardware you'll need to run Star Wars Outlaws at its bare minimum and very best, and the one unifying factor here is that you'll need an SSD with 65GB of storage capacity.</p><p>Beyond that, the requirements aren't surprising. If you're aiming for a 1080p 30fps experience using the low graphical presets, you'll be fine with an old GPU like a GeForce GTX 1660 or an AMD RX 5600 XT, and to get the game running at 4K 60fps, you'll unsurprisingly need to have a heavy-duty GeForce RTX 4080 with 16GB of VRAM or an AMD RX 7900 XTX with a whopping 24GB of VRAM. It's worth noting that the settings factor in upscaling technology like Nvidia DLSS and AMD F
+
+## Pokemon Trading Card Game Pocket Is A Streamlined TCG Experience For Your Phone
+ - [https://www.gamespot.com/articles/pokemon-trading-card-game-pocket-is-a-streamlined-tcg-experience-for-your-phone/1100-6525910/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-trading-card-game-pocket-is-a-streamlined-tcg-experience-for-your-phone/1100-6525910/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T14:06:00+00:00
+
+<p dir="ltr">During the Pokemon World Championships closing ceremonies in Honolulu, Hawaii, The Pokemon Company introduced a trailer for Pokemon Trading Card Game Pocket, a new game based on the popular collectible card game, which is coming to mobile devices on October 30.</p><p dir="ltr">Pokemon Trading Card Game Pocket is a streamlined TCG experience, which allows players to open packs and collect cards with a simple finger swipe. Collected cards will be stored in in-game albums, and players will be able to build decks and battle against friends in quick matchups, all of which is showcased in the new trailer.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Get ready to immerse yourself in <a href="https://twitter.com/hashtag/PokemonTCGPocket?src=hash&amp;ref_src=twsrc^tfw">#PokemonTCGPocket</a>! An all-new way to TCG drops October 30, 2024. Preregister now on iOS and Android devices.<br />More info: <a href="https://t.co/cg9bWKX53l">https://t.co/cg9bWKX53l</a>
+
+## The Last Of Us Season 2 Finishes Filming, See Photos From The Wrap Party
+ - [https://www.gamespot.com/articles/the-last-of-us-season-2-finishes-filming-see-photos-from-the-wrap-party/1100-6525906/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-last-of-us-season-2-finishes-filming-see-photos-from-the-wrap-party/1100-6525906/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T13:52:00+00:00
+
+<p>Filming has wrapped on The Last of Us Season 2, but there remains extensive post-production work to go ahead of the sophomore season's debut in 2025. Images from the HBO show's Season 2 wrap party have emerged online, showing that the network held a pretty epic event to celebrate filming coming to a close.</p><p>"Congratulations to the incredible production crew of The Last of Us Season 2. We will bring your hard work home now!" wrote editor Timothy Good.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Wrapped! Congratulations to the incredible production crew of <a href="https://twitter.com/hashtag/TheLastOfUs?src=hash&amp;ref_src=twsrc^tfw">#TheLastOfUs</a> season 2. We will bring your hard work home now! <a href="https://twitter.com/hashtag/editing?src=hash&amp;ref_src=twsrc^tfw">#editing</a> <a href="https://twitter.com/hashtag/postproduction?src=hash&amp;ref_src=twsrc^tfw">#postproduction</a> <a href="https://twitter.com/hashtag/TLOU?src=hash&amp;ref_src=
+
+## Movies Are Beginning To "Implode," And Marvel/DC Are Partially To Blame, Brian Cox Says
+ - [https://www.gamespot.com/articles/movies-are-beginning-to-implode-and-marvel-dc-are-partially-to-blame-brian-cox-says/1100-6525908/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/movies-are-beginning-to-implode-and-marvel-dc-are-partially-to-blame-brian-cox-says/1100-6525908/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T13:23:00+00:00
+
+<p>Legendary actor Brian Cox has shared his unfiltered thoughts about the state of movies, saying Marvel and DC are to blame for cinema being in a "very bad way." Speaking at the Edinburgh International Film Festival, Cox said cinema has "lost its place" in part because of the "grandiose element between Marvel, DC, and all of that."</p><p>"I think cinema is in a very bad way," he added, <a href="https://www.hollywoodreporter.com/news/general-news/brian-cox-cinema-deadpool-wolverine-succession-eiff-marvel-1235977671/">according to The Hollywood Reporter</a>. "And I think it's beginning to implode, actually. You're kind of losing the plot."</p><p>Cox commented on the recent success of Deadpool &amp; Wolverine, saying movies like that are "making a lot of money that'll make everybody happy," but there could be consequences down the road.</p><a href="https://www.gamespot.com/articles/movies-are-beginning-to-implode-and-marvel-dc-are-partially-to-blame-brian-cox-says/1100-6525908/?ftag=CAD
+
+## Nintendo Direct Announced, But It's Not The One You're Hoping For
+ - [https://www.gamespot.com/articles/nintendo-direct-announced-but-its-not-the-one-youre-hoping-for/1100-6525896/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-direct-announced-but-its-not-the-one-youre-hoping-for/1100-6525896/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T13:20:00+00:00
+
+<p>Nintendo has announced a new Nintendo Direct presentation for August 19 at 3 PM PT / 6 PM ET. However, it's not the usual kind of Nintendo Direct that you'd expect.</p><p>This showcase is actually a 10-minute "Nintendo Museum Direct" and will be a tour of the Nintendo Museum that's slated to open this fall in Kyoto, Japan. To clear up any confusion and dash any hopes, Nintendo <a href="https://x.com/NintendoAmerica/status/1825291853861683644">also said</a> that there will be no game announcements or any mention of the <a href="https://www.gamespot.com/articles/switch-2-release-date-specs-display-price/1100-6520278/">Switch successor</a> during this presentation.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Join us tomorrow, August 19 at 3pm PT, for a tour of the Nintendo Museum that’s scheduled to open during the fall of 2024 in Kyoto, Japan! The Nintendo Museum Direct livestream will last roughly 10 minutes. <a href="https://twitter.com/hashtag/NintendoDir
+
+## Halle Barry Would Play Catwoman Again On One Condition
+ - [https://www.gamespot.com/articles/halle-barry-would-play-catwoman-again-on-one-condition/1100-6525894/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/halle-barry-would-play-catwoman-again-on-one-condition/1100-6525894/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T13:17:00+00:00
+
+<p>Last month was the 20th anniversary of <a href="https://www.gamespot.com/articles/halle-berry-on-making-catwoman-one-of-the-biggest-paydays-of-my-whole-life/1100-6495035/">Catwoman</a>, a spin-off from the Batman films starring Halle Berry in the title role. Although the film references Michelle Pfeiffer's Selina Kyle from Batman Returns, Berry's Catwoman was Patience Phillips, and the story had nothing to do with Gotham City or Batman. At the time of its release, Catwoman was a flop and it was also denigrated by critics. But now, Berry is more forcefully defending her film, and she's willing to reprise her role.</p><p>Via <a href="https://variety.com/2024/film/news/halle-berry-direct-catwoman-sequel-critics-sucked-balls-1236109467/">Variety</a>, Berry was a guest on The Tonight Show, where she was asked by host Jimmy Fallon if she would play Catwoman again. "Maybe if I could direct it," replied Berry, who previously helmed the sports drama Bruised for Netflix in 2020. Earlier in t
+
+## Hollow Knight: Silksong Will Not Be Shown At Gamescom Opening Night Live
+ - [https://www.gamespot.com/articles/hollow-knight-silksong-will-not-be-shown-at-gamescom-opening-night-live/1100-6525900/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hollow-knight-silksong-will-not-be-shown-at-gamescom-opening-night-live/1100-6525900/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T13:17:00+00:00
+
+<p>Team Cherry will not be showing anything related to Hollow Knight: Silksong this week, much to the dismay of many fans.</p><p>Host Geoff Keighley said on Twitter, "Just to get this out of the way, no Silksong on Tuesday at ONL. Team Cherry is still cooking." Fans have taken the announcement and responded to it in humorous ways in order to cope with the news. One user <a href="https://x.com/Okami13_/status/1824924703066116210">said</a>, "So you're saying Bloodborne 2 has a chance," referencing the endless requests from fans for a Bloodborne follow-up or at <a href="https://www.gamespot.com/articles/from-software-wants-bloodborne-on-pc-too/1100-6524292/">least a release on PC and PS5</a>.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Just to get this out of the way, no Silksong on Tuesday at ONL. <a href="https://twitter.com/TeamCherryGames?ref_src=twsrc^tfw">@TeamCherryGames</a> is still cooking. <a href="https://t.co/FlQHlc26zo">pic.twitter.com/FlQHlc26zo</a
+
+## Borderlands Movie Continues Disaster Run At Box Office With Another Very Bad Weekend
+ - [https://www.gamespot.com/articles/borderlands-movie-continues-disaster-run-at-box-office-with-another-very-bad-weekend/1100-6525904/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/borderlands-movie-continues-disaster-run-at-box-office-with-another-very-bad-weekend/1100-6525904/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T13:14:00+00:00
+
+<p>The Borderlands movie had a <a href="https://www.gamespot.com/articles/borderlands-movie-is-a-huge-flop-over-first-weekend/1100-6525706/">very bad first weekend in theaters</a> and the second weekend had low numbers as well. Of course, most movies see drop-offs in the weeks after release, so this was always expected for Borderlands. It's looking like another major 2024 flop, like Madame Web.</p><p>Borderlands earned <a href="https://apnews.com/article/alien-box-office-28c4fd61a993e63313445d6c5785dc29">$2.4 million in North America this past weekend</a>, finishing No. 9 for the weekend, beating only the Hindi horror comedy Stree 2 ($2.2 million) in the top 10 list. Borderlands has now earned $13.5 million in total from North America and a further $5 million from international markets for a global total of $18.5 million.</p><p>The Borderlands movie reportedly had a <a href="https://www.gamespot.com/articles/borderlands-movie-is-a-huge-flop-over-first-weekend/1100-6525706/">production
+
+## Silent Hill 2 Art Director Masahiro Ito Almost Said No To Returning For Remake
+ - [https://www.gamespot.com/articles/silent-hill-2-art-director-masahiro-ito-almost-said-no-to-returning-for-remake/1100-6525897/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/silent-hill-2-art-director-masahiro-ito-almost-said-no-to-returning-for-remake/1100-6525897/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T12:04:00+00:00
+
+<p>Silent Hill 2 art director Masahiro Ito has revealed that he almost turned down the offer to work on Konami's upcoming Silent Hill 2 remake. Considering Ito's pivotal role in the creation of Silent Hill 2 and its iconic monsters, such as Pyramid Head, the news came as quite a surprise when he shared it during a recent <a href="https://www.gamespot.com/articles/silent-hill-2-remake-preview-significantly-better-than-the-trailers-youve-seen/1100-6525893/">Silent Hill 2 preview event</a>. According to Ito, he initially felt there was simply "no need" for a remake.</p><p>"Back in late 2019 or 2020, [Silent Hill 2 composer Akira] Yamaoka-san reached out to me via Twitter, as it was called at the time, and asked me whether I'd be willing to cooperate in a Silent Hill 2 remake. I felt there was no need to do such a thing, so my original plan was to reject the idea."</p><p>As for why Ito ultimately decided to return, the art director said he realized that Konami could move forward with the 
+
+## Silent Hill 2 Remake Will Have A "Brand-New, Reworked" Soundtrack, Konami Says
+ - [https://www.gamespot.com/articles/silent-hill-2-remake-will-have-a-brand-new-reworked-soundtrack-konami-says/1100-6525895/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/silent-hill-2-remake-will-have-a-brand-new-reworked-soundtrack-konami-says/1100-6525895/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T11:53:00+00:00
+
+<p>Silent Hill 2 composer Akira Yamaoka has announced that the remake's soundtrack will be a "brand-new, reworked" experience. Yamaoka revealed the news to GameSpot and various press outlets during a <a href="https://www.gamespot.com/articles/silent-hill-2-remake-preview-significantly-better-than-the-trailers-youve-seen/1100-6525893/">recent preview event for the upcoming psychological horror game</a>. The longtime composer went on to say that, while he understands that the original soundtrack is "beloved," he ultimately wanted to ensure that all players would have a "fresh experience."</p><p>"I have reworked all the tracks. There are segments and bits and pieces of the original tracks that you can hear, but all of the tracks have been reworked from the ground up. I understand that the soundtrack is very much beloved, but ultimately I composed over nine hours worth of music and I'm still wondering how in the world we are going to fit all of that into a soundtrack."</p><p>Though this n
+
+## The Silent Hill 2 Remake Is Significantly Better Than The Trailers You’ve Seen
+ - [https://www.gamespot.com/articles/silent-hill-2-remake-preview-significantly-better-than-the-trailers-youve-seen/1100-6525893/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/silent-hill-2-remake-preview-significantly-better-than-the-trailers-youve-seen/1100-6525893/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-08-19T07:01:00+00:00
+
+<p dir="ltr">There is no genre quite like horror. At its best, it's so much more than guts and gore, or tired tropes and torture scenes. It's self-reflection. It's catharsis.</p><p dir="ltr">It's entering an implicit agreement with a work's creator: If you spill your guts out to me (metaphorically <em>or </em>perhaps literally), then I will wade through my own, hold them up, and take note of what makes ours similar to one another. While there are certainly qualities that make for a "good" work of horror, the transcendent variety is subjective; it relies on your own fears, traumas, and beliefs to create resonance with what's laid before you. The more vulnerable a work is, the greater its opportunity to connect with--or possibly alienate--its audience. This is precisely what makes Silent Hill 2 such a memorable and pivotal entry in the horror game genre--it's sheer vulnerability creates a game wherein even alienation <em>feels</em> like connection.</p><p dir="ltr">I say all this to emph
+
