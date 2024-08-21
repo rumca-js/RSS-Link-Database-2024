@@ -1,0 +1,212 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## New UAE Labor Law comes into effect with massive fines on hiring Visit Visas holders
+ - [https://pakobserver.net/new-uae-labor-law-comes-into-effect-with-massive-fines-on-hiring-visit-visas-holders](https://pakobserver.net/new-uae-labor-law-comes-into-effect-with-massive-fines-on-hiring-visit-visas-holders)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T18:07:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/tt4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DUBAI &#8211; United Arab Emirates, a home to millions of expats, made key changes in its Labour Law, and from now onwards, there will be massive fines on firms hiring visit visa holders. The labor law of Middle Eastern nation is set to limit employers from hiring individuals on visit visas. With new law in [&#8230;]
+
+## Latest Update on ATM Cyber Attacks in Pakistan
+ - [https://pakobserver.net/latest-update-on-atm-cyber-attacks-in-pakistan](https://pakobserver.net/latest-update-on-atm-cyber-attacks-in-pakistan)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T17:49:50+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/maxresdefault-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Reports of ATM cyber threats sparked concerns among users in Pakistan as online banking services and ATM are part of daily life in this information era. Amid these reports, another clarification surfaced online that recent rumors about ATMs and online banking being shut down are fabricated. National Computer Emergency Response Team confirms that, [&#8230;]
+
+## Zong Internet Packages Daily, Weekly and Monthly – August 2024
+ - [https://pakobserver.net/zong-internet-packages-daily-weekly-and-monthly-august-2024](https://pakobserver.net/zong-internet-packages-daily-weekly-and-monthly-august-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T16:24:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/zong4g-758x426-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zong Mobile Internet remains among the leading services in Pakistan, known for its wide coverage and high-speed connectivity, but the cost remains ahead as compared to other telecom. The telecom giant offers diverse daily, weekly, and monthly Internet Packages, as well as specialized plans for social media usage. It provides portable MiFi devices, 4G dongles, [&#8230;]
+
+## CCP engages regulators, stakeholders for PTCL-Telenor merger
+ - [https://pakobserver.net/ccp-engages-regulators-stakeholders-for-ptcl-telenor-merger](https://pakobserver.net/ccp-engages-regulators-stakeholders-for-ptcl-telenor-merger)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T16:07:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/12/PTCL-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; The Competition Commission of Pakistan (CCP) is conducting an in-depth Phase II merger analysis in response to the proposed merger between Pakistan Telecommunication Company Limited (PTCL) and Telenor Pakistan (Private) Limited (Telenor). CCP is providing key stakeholders an opportunity to present their concerns of potential impact of the merger on Pakistan’s telecom market. [&#8230;]
+
+## Chemical Expo to begin in Lahore on August 24
+ - [https://pakobserver.net/chemical-expo-to-begin-in-lahore-on-august-24](https://pakobserver.net/chemical-expo-to-begin-in-lahore-on-august-24)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T15:57:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/expo-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Exhibition for dyes, chemicals, and allied sectors will begin at Lahore International Expo Centre on August 24. More than 300 exhibitors will showcase their products while representatives of companies from Pakistan and other countries like China, Malaysia, Turkey and Iran will attend the annual event. The Punjab Dyes &#38; Chemicals Merchants Association has [&#8230;]
+
+## World’s Oldest person Maria Branyas Morera, who lived through Two World Wars, dies at 117
+ - [https://pakobserver.net/worlds-oldest-person-maria-branyas-morera-who-lived-through-two-world-wars-dies-at-117](https://pakobserver.net/worlds-oldest-person-maria-branyas-morera-who-lived-through-two-world-wars-dies-at-117)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T15:53:38+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/sd2s32d-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />World’s oldest person Maria Branyas Morera passed away peacefully at the age of 117, and her death made headlines across the globe as she remained fit till the last years. Maria, who hailed from Spain, was born in the United States in 1907, lived through two pandemics, two world wars, and Spain’s civil war. Morera&#8217;s [&#8230;]
+
+## Weather update for Lahore, Punjab; more intermittent rains expected
+ - [https://pakobserver.net/weather-update-for-lahore-punjab-more-intermittent-rains-expected](https://pakobserver.net/weather-update-for-lahore-punjab-more-intermittent-rains-expected)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T15:29:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/rainnnn-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – More intermittent monsoon rains with isolated heavy falls are expected in Lahore and parts of Punjab on Tuesday night and Wednesday. Per the Pakistan Meteorological Department (PMD), monsoon currents from the Arabian Sea penetrate upper and central parts of Pakistan. A westerly wave prevails over upper parts of the country. Under these conditions, [&#8230;]
+
+## LDA continues operation against violation of SOPs during constructions in Lahore
+ - [https://pakobserver.net/lda-continues-operation-against-violation-of-sops-during-constructions-in-lahore](https://pakobserver.net/lda-continues-operation-against-violation-of-sops-during-constructions-in-lahore)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T15:01:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/cons-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The Lahore Development Authority (LDA) continued operation against violation of SOPs during construction activities in Lahore. On Tuesday, the LDA Housing, Town Planning Wing and enforcement teams removed construction materials and debris from roadsides and greenbelts outside 40 properties in Gulberg, Sabzazar, Samanabad, Johar Town, Allama Iqbal Town, and surroundings of Adda Plot. [&#8230;]
+
+## Relief for Bushra Bibi in May 9 violence cases
+ - [https://pakobserver.net/relief-for-bushra-bibi-in-may-9-violence-cases](https://pakobserver.net/relief-for-bushra-bibi-in-may-9-violence-cases)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T14:58:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/bushra-bibi-meets-pti-founder-in-adiala-jail-1712744629-8323-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI – Another relief for wife of Pakistan Tehreek-e-Insaf (PTI) founder Imran Khan, from 12 cases related to the violence that occurred during May 9 riots. The court turned down police&#8217;s request for her physical remand and released her from these cases. Salman Safdar represented Bushra Bibi, while investigation officers from the May 9 cases [&#8230;]
+
+## Silver Rates in Pakistan Today – August 20, 2024
+ - [https://pakobserver.net/silver-rates-in-pakistan-today-august-20-2024](https://pakobserver.net/silver-rates-in-pakistan-today-august-20-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T14:47:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Silver-Rate-in-Pakistan-Today-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Silver Rates in Pakistan remain stable at Rs3,061 per one tola on Tuesday. The pearly material remained in demand amid huge industrial sector&#8217;s growth as it is used in production of electronics, solar panels, and medical equipment. However, the price of silver in Pakistan is influenced by various factors, including global market trends, [&#8230;]
+
+## Pakistan’s busy cricket season begins with first Test against Bangladesh on Wednesday
+ - [https://pakobserver.net/pakistans-busy-cricket-season-begins-with-first-test-against-bangladesh-on-wednesday](https://pakobserver.net/pakistans-busy-cricket-season-begins-with-first-test-against-bangladesh-on-wednesday)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T11:40:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/test-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI &#8211; The Pakistan men’s cricket team will take on Bangladesh in the first of the two-match Test series commencing at the Rawalpindi Cricket Stadium from Wednesday. The second Test match will be played at the same venue from 30 August to 3 September. Pakistan are currently ranked sixth in the ICC World Test Championship [&#8230;]
+
+## Karachi Karsaz Accident: CCTV Captures horrific collision that killed two
+ - [https://pakobserver.net/karachi-karsaz-accident-cctv-captures-horrific-collision-that-killed-two](https://pakobserver.net/karachi-karsaz-accident-cctv-captures-horrific-collision-that-killed-two)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T11:33:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/watch-cctv-footage-of-karahi-s-karsaz-road-accident-1724150462-1146-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Karachi Karsaz Road accident involving the SUV of a businessman&#8217;s wife sent shockwaves across the country, and the CCTV footage of the incident surfaced online. A day after the accident, a clip surfaced online showing a tragic road accident in Karachi&#8217;s Karsaz area, where two people lost their lives. The footage reveals a [&#8230;]
+
+## Mastung IBO: Security forces kill terrorists involved in martyrdom of DC Panjgur
+ - [https://pakobserver.net/mastung-ibo-security-forces-kill-terrorists-involved-in-martyrdom-of-dc-panjgur](https://pakobserver.net/mastung-ibo-security-forces-kill-terrorists-involved-in-martyrdom-of-dc-panjgur)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T10:10:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/for-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI – Security forces have killed three terrorists of BLA involved in martyrdom of Deputy Commission of Panjgur, said military’s media wing on Tuesday. The Inter Services Public Relations (ISPR) said the intelligence based operation was conducted on night between 18 and 19 August 2024 in Mastung district. “The killed terrorists were involved in numerous [&#8230;]
+
+## NAB files new Toshakhana reference against Imran Khan, Bushra Bibi
+ - [https://pakobserver.net/nab-files-new-toshakhana-reference-against-imran-khan-bushra-bibi](https://pakobserver.net/nab-files-new-toshakhana-reference-against-imran-khan-bushra-bibi)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T09:47:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Imran-and-Bushra-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211;  The National Accountability Bureau (NAB) on Tuesday filed a new Toshakhana reference against the founder of PTI Imran Khan and Bushra Bibi. The reference was submitted to the accountability court by NAB&#8217;s investigative officer Mohsin Haroon and case officer Waqar-ul-Hassan. The reference consisted of two volumes. According to the sources, the registrar of [&#8230;]
+
+## Sajal Aly all set to share screen with Indian superstar Prabhas in upcoming film ‘Fauji’
+ - [https://pakobserver.net/sajal-aly-all-set-to-share-screen-with-indian-superstar-prabhas-in-upcoming-film-fauji](https://pakobserver.net/sajal-aly-all-set-to-share-screen-with-indian-superstar-prabhas-in-upcoming-film-fauji)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T09:28:36+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Sajal-Aly-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Actress Sajal Aly is set to share the screen with Indian superstar Prabhas in upcoming film Fauji, the Indian media reported on Tuesday. The film, directed by Hanu Raghavapudi, is due to start shooting on August 24 in Hyderabad. While an official announcement regarding the female lead is still pending, sources close to [&#8230;]
+
+## PM meets Palestine outgoing Ambassador Jawad A.A. Rebei
+ - [https://pakobserver.net/pm-meets-palestine-outgoing-ambassador-jawad-a-a-rebei](https://pakobserver.net/pm-meets-palestine-outgoing-ambassador-jawad-a-a-rebei)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T09:01:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/PM-with-Palestinian-envoy-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Prime Minister Muhammad Shehbaz Sharif met Palestine outgoing Ambassador Ahmed Jawad A.A. Rabei at the Prime Minister House on Tuesday. The Prime Minister reiterated Pakistan&#8217;s unwavering support for the Palestinian people and their right to self-determination. He strongly condemned Israel’s barbaric actions against innocent Palestinians in Gaza since October 7, 2023 that had [&#8230;]
+
+## Gold prices in Pakistan hit all-time high – Check latest rates on August 20
+ - [https://pakobserver.net/gold-prices-in-pakistan-hit-all-time-high-check-latest-rates-on-august-20](https://pakobserver.net/gold-prices-in-pakistan-hit-all-time-high-check-latest-rates-on-august-20)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T08:52:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gold-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Gold prices in Pakistan registered an upward trend to hit all-time high amid rising international prices. According to Sarafa Association, per tola gold price surged by Rs700 to settle at Rs260,700 whereas the price of 10-gram gold moved up by Rs700 to reach Rs223,508. In international market, the price of the precious commodity [&#8230;]
+
+## Punjab, Sindh lock horns over relief in electricity bills
+ - [https://pakobserver.net/punjab-sindh-lock-horns-over-relief-in-electricity-bills](https://pakobserver.net/punjab-sindh-lock-horns-over-relief-in-electricity-bills)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T08:52:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/CMs-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE –  After announcement of Rs14 relief in the electricity bills of the consumers in Punjab, the provincial governments of Sindh and Punjab locked horns and criticized each other. Punjab Chief Minister Maryam Nawaz on Tuesday responded to the remarks by Sindh Chief Syed Murad Ali Shah who called the relief in electricity prices “foolish”. [&#8230;]
+
+## Toyota Yaris latest prices in Pakistan from August 2024 [Check Update]
+ - [https://pakobserver.net/toyota-yaris-latest-prices-in-pakistan-from-august-2024-check-update](https://pakobserver.net/toyota-yaris-latest-prices-in-pakistan-from-august-2024-check-update)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T08:24:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/06/yaris8-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The all-new Toyota Yaris offers blend of modern looks with a powerful engine and framework, making it better choice for car lovers in Pakistan. With elevated appearance, it embraces you in comfort and luxury, turns every drive into a pleasant getaway. The MID system seamlessly integrates convenience into your driving experience, offering door [&#8230;]
+
+## Federal board 11th class results 2024 date [FBISE HSSC 1 Results]
+ - [https://pakobserver.net/federal-board-11th-class-results-2024-date-fbise-hssc-1-results](https://pakobserver.net/federal-board-11th-class-results-2024-date-fbise-hssc-1-results)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T08:06:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/res-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The Federal Board of Intermediate and Secondary Education is expected to announce the results of High Secondary School Certificate Part I or class 11th this week of August 2024 The federal board is an autonomous board, which is responsible for conducting the intermediate and secondary education exams in Pakistan and abroad for Pakistan International [&#8230;]
+
+## SC suspends IHC order in audio leaks case
+ - [https://pakobserver.net/sc-suspends-ihc-order-in-audio-leaks-case](https://pakobserver.net/sc-suspends-ihc-order-in-audio-leaks-case)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:37:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Justice-Naeem-and-Justice-Aminuddin-new-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Supreme Court of Pakistan has suspended the Islamabad High Court’s orders in the case related to audio leaks involving Bushra Bibi, wife of PTI founder Imran Khan, and Najam Saqib, son of former Chief Justice Saqib Nisar. The court has also barred the High Court from further proceedings in the matter and suspended the [&#8230;]
+
+## IHC bars trial court from announcing final verdict
+ - [https://pakobserver.net/ihc-bars-trial-court-from-announcing-final-verdict](https://pakobserver.net/ihc-bars-trial-court-from-announcing-final-verdict)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:37:49+00:00
+
+<img alt="audio leaks" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/04/953224_3608602_IHC_updates-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Islamabad High Court on Monday stopped the trial court from announcing the final verdict in the 190 million pounds case on Imran Khan’s request. A division bench comprising Justice Babar Sattar and Justice Miangul Hassan Aurangzeb heard the case with objections from the Registrar’s Office. The petitioner’s counsels Barrister Salman Safdar and Khalid Yousuf [&#8230;]
+
+## Imran, Bushra sent on 15-day judicial remand
+ - [https://pakobserver.net/imran-bushra-sent-on-15-day-judicial-remand](https://pakobserver.net/imran-bushra-sent-on-15-day-judicial-remand)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:36:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Imran-and-Bushra-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An accountability court on Monday sent Pakistan Tehreek-e-Insaf founder Imran Khan and his wife, Bushra Bibi, to jail on a 15-day judicial remand in a new Toshakhana reference. The hearing, held at the Adiala jail in Rawalpindi, was conducted by Accountability Court Judge Nasir Javed Rana. The judge has also ordered to produce both Imran [&#8230;]
+
+## Value of CPC 3rd plenum & impact on China-Pakistan relations
+ - [https://pakobserver.net/value-of-cpc-3rd-plenum-impact-on-china-pakistan-relations](https://pakobserver.net/value-of-cpc-3rd-plenum-impact-on-china-pakistan-relations)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:34:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/Zhao-Shiren-Chinese-Consul-General-Lahore-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The 20th Central Committee of the Communist Party of China convened its third plenary session in Beijing last month, marking a significant milestone in China’s ongoing efforts to further deepen reforms and opening up in comprehensive manner, and carry forward the Chinese modernization endeavors. The 3rd plenum, through active and thorough deliberations, produced both Communique [&#8230;]
+
+## Islamabad IT Park to help achieve $25b IT export target: PM
+ - [https://pakobserver.net/islamabad-it-park-to-help-achieve-25b-it-export-target-pm](https://pakobserver.net/islamabad-it-park-to-help-achieve-25b-it-export-target-pm)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:31:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/1-15-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Prime Minister Shehbaz Sharif on Monday said that the completion of Information Technology Park project in Islamabad would help boost country’s exports in this sector and prove as significant milestone in achieving $25 billion IT exports target. The prime minister, while chairing a meeting to review the ongoing projects of Information Technology, digitization and steps [&#8230;]
+
+## PSX loses 214 points
+ - [https://pakobserver.net/psx-loses-214-points](https://pakobserver.net/psx-loses-214-points)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:31:22+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/2-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The 100-Index of the Pakistan Stock Exchange (PSX) shed 214.97 points on Monday, showing a negative change of 0.28 percent, closing at 77,830.34 points against 78,045.31 points on the last working day. A total of 471,749,071 shares were traded during the day as compared to 600,719,724 shares the previous day, whereas the price of shares [&#8230;]
+
+## Bilawal inaugurates Cyber Knife at Jinnah Hospital
+ - [https://pakobserver.net/bilawal-inaugurates-cyber-knife-at-jinnah-hospital](https://pakobserver.net/bilawal-inaugurates-cyber-knife-at-jinnah-hospital)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:30:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/02/Bilawal-screengrab1706542819-0-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan People’s Party Chairman Bilawal Bhutto Zardari announced that during Prime Minister Shehbaz Sharif’s next visit, tours of Jinnah Hospital, NICVD, and NICHE would be arranged. He emphasised on his party’s commitment to building similar hospitals in Lahore that provide free treatment to the public, if the PPP was elected into power from the province. [&#8230;]
+
+## Tarar urges provinces to follow Center, Punjab in relief to masses
+ - [https://pakobserver.net/tarar-urges-provinces-to-follow-center-punjab-in-relief-to-masses](https://pakobserver.net/tarar-urges-provinces-to-follow-center-punjab-in-relief-to-masses)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T01:30:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/03/Attaullah-Tarar-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Minister for Information, Broadcasting, Culture and National Heritage Attaullah Tarar putting down the undue criticism about relief initiative of Federal and Punjab governments in power bills has urged other provinces to follow suit for ensuring instant relief to the masses during summer season. He informed the media on Monday that it was the foremost priority [&#8230;]
+
+## Romina for mobilizing resources to introduce urban environmental initiatives, AE sources in rural areas
+ - [https://pakobserver.net/romina-for-mobilizing-resources-to-introduce-urban-environmental-initiatives-ae-sources-in-rural-areas](https://pakobserver.net/romina-for-mobilizing-resources-to-introduce-urban-environmental-initiatives-ae-sources-in-rural-areas)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T00:06:01+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/2-10-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PM’s Coordinator on Climate Change and Environmental Coordination, Romina Khursheed Alam on Monday stated that she was mobilizing resources for ongoing projects by engaging bilateral and multilateral donors as well as major banks to introduce Urban Environmental Initiatives and alternate energy sources in rural areas of Pakistan. She made these remarks during a meeting with [&#8230;]
+
+## NPF, Turkish firm to construct 100-bed hospital for police force, martyrs’ families
+ - [https://pakobserver.net/npf-turkish-firm-to-construct-100-bed-hospital-for-police-force-martyrs-families](https://pakobserver.net/npf-turkish-firm-to-construct-100-bed-hospital-for-police-force-martyrs-families)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-20T00:06:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/1-14-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Qureshi Federal Minister for Interior, Mohsin Naqvi on Monday laid down the foundation-stone of a 100-bed international hospital to be constructed by a Turkish firm Saglik Koprusu Medikal Turkiye at an estimated cost of PKR 5 billion. The land for the hospital is donated by the National Police Foundation (NPF) in its Housing Scheme [&#8230;]
+
