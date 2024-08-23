@@ -1,0 +1,163 @@
+# Source:All things Warhammer!, URL:https://www.reddit.com/r/Warhammer/.rss, language:en
+
+## Sly Marbo
+ - [https://www.reddit.com/r/Warhammer/comments/1eyrt28/sly_marbo](https://www.reddit.com/r/Warhammer/comments/1eyrt28/sly_marbo)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T19:10:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyrt28/sly_marbo/"> <img alt="Sly Marbo" src="https://a.thumbs.redditmedia.com/aAyfiixMyGmTE0NOiYIHukWVJZHRGMImQODJLBb_Sh0.jpg" title="Sly Marbo" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HereticsandHeroes"> /u/HereticsandHeroes </a> <br /> <span><a href="https://www.reddit.com/gallery/1eyrt28">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyrt28/sly_marbo/">[comments]</a></span> </td></tr></table>
+
+## Stormcast eternals
+ - [https://www.reddit.com/r/Warhammer/comments/1eyr3c0/stormcast_eternals](https://www.reddit.com/r/Warhammer/comments/1eyr3c0/stormcast_eternals)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T18:41:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyr3c0/stormcast_eternals/"> <img alt="Stormcast eternals" src="https://b.thumbs.redditmedia.com/hq45kzY8Q7X6ptiPaTJq6XFGrofUDNR67KTxbNptHnw.jpg" title="Stormcast eternals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gryffon_skull_minis"> /u/gryffon_skull_minis </a> <br /> <span><a href="https://www.reddit.com/gallery/1eyr3c0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyr3c0/stormcast_eternals/">[comments]</a></span> </td></tr></table>
+
+## My 7-year (left) and 5-year (right) old sons painted their first figures
+ - [https://www.reddit.com/r/Warhammer/comments/1eyo0qe/my_7year_left_and_5year_right_old_sons_painted](https://www.reddit.com/r/Warhammer/comments/1eyo0qe/my_7year_left_and_5year_right_old_sons_painted)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T16:38:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyo0qe/my_7year_left_and_5year_right_old_sons_painted/"> <img alt="My 7-year (left) and 5-year (right) old sons painted their first figures" src="https://b.thumbs.redditmedia.com/stwTmhKzTT6vm7RHsOkyunUw3gTHX0_xhHRwKe3zLGk.jpg" title="My 7-year (left) and 5-year (right) old sons painted their first figures" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mtsfz2"> /u/mtsfz2 </a> <br /> <span><a href="https://www.reddit.com/gallery/1eyo0qe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyo0qe/my_7year_left_and_5year_right_old_sons_painted/">[comments]</a></span> </td></tr></table>
+
+## My take on the Autarch
+ - [https://www.reddit.com/r/Warhammer/comments/1eynv1z/my_take_on_the_autarch](https://www.reddit.com/r/Warhammer/comments/1eynv1z/my_take_on_the_autarch)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T16:32:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eynv1z/my_take_on_the_autarch/"> <img alt="My take on the Autarch" src="https://preview.redd.it/ytgxa0xtr8kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e663570991a2880861031a506aa9cf1b463e2ad1" title="My take on the Autarch" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DaEpicFish"> /u/DaEpicFish </a> <br /> <span><a href="https://i.redd.it/ytgxa0xtr8kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eynv1z/my_take_on_the_autarch/">[comments]</a></span> </td></tr></table>
+
+## Looking for input: I want to remove the magnet and replace it with a bigger one (used super glue). The magnet is 1-2mm thick. Is drilling it the way to go, or is there a more convenient way?
+ - [https://www.reddit.com/r/Warhammer/comments/1eymf97/looking_for_input_i_want_to_remove_the_magnet_and](https://www.reddit.com/r/Warhammer/comments/1eymf97/looking_for_input_i_want_to_remove_the_magnet_and)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T15:36:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eymf97/looking_for_input_i_want_to_remove_the_magnet_and/"> <img alt="Looking for input: I want to remove the magnet and replace it with a bigger one (used super glue). The magnet is 1-2mm thick. Is drilling it the way to go, or is there a more convenient way?" src="https://preview.redd.it/7yb7matwi8kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f71f80ccdd084f1f8a8b91a02bc2c9913eb69f96" title="Looking for input: I want to remove the magnet and replace it with a bigger one (used super glue). The magnet is 1-2mm thick. Is drilling it the way to go, or is there a more convenient way?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equivalent_Run5606"> /u/Equivalent_Run5606 </a> <br /> <span><a href="https://i.redd.it/7yb7matwi8kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eymf97/looking_for_input_i_want_to_remove_the_magnet_and/">[
+
+## Liberators I finished today. ☠️
+ - [https://www.reddit.com/r/Warhammer/comments/1eyj894/liberators_i_finished_today](https://www.reddit.com/r/Warhammer/comments/1eyj894/liberators_i_finished_today)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T13:23:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyj894/liberators_i_finished_today/"> <img alt="Liberators I finished today. ☠️" src="https://preview.redd.it/e9igyuf0v7kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=847bcd5a75ca5c8c798f809880e9a1f6a811803f" title="Liberators I finished today. ☠️" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/crazy_braesy"> /u/crazy_braesy </a> <br /> <span><a href="https://i.redd.it/e9igyuf0v7kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyj894/liberators_i_finished_today/">[comments]</a></span> </td></tr></table>
+
+## Any recommendations on what to add to my necreon
+ - [https://www.reddit.com/r/Warhammer/comments/1eyibgg/any_recommendations_on_what_to_add_to_my_necreon](https://www.reddit.com/r/Warhammer/comments/1eyibgg/any_recommendations_on_what_to_add_to_my_necreon)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T12:41:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyibgg/any_recommendations_on_what_to_add_to_my_necreon/"> <img alt="Any recommendations on what to add to my necreon " src="https://preview.redd.it/67nl91oun7kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a750a1ab1de4cecf452ead32dd76716861bf6407" title="Any recommendations on what to add to my necreon " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NitroDude09"> /u/NitroDude09 </a> <br /> <span><a href="https://i.redd.it/67nl91oun7kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyibgg/any_recommendations_on_what_to_add_to_my_necreon/">[comments]</a></span> </td></tr></table>
+
+## Ogre Kingdoms army commission I've been working on
+ - [https://www.reddit.com/r/Warhammer/comments/1eyh898/ogre_kingdoms_army_commission_ive_been_working_on](https://www.reddit.com/r/Warhammer/comments/1eyh898/ogre_kingdoms_army_commission_ive_been_working_on)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T11:46:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyh898/ogre_kingdoms_army_commission_ive_been_working_on/"> <img alt="Ogre Kingdoms army commission I've been working on " src="https://preview.redd.it/244kvc91e7kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=888987b56c017bc2cc91aa20947ca30f6d2c1600" title="Ogre Kingdoms army commission I've been working on " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Insta - makerminis</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Makersux"> /u/Makersux </a> <br /> <span><a href="https://i.redd.it/244kvc91e7kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyh898/ogre_kingdoms_army_commission_ive_been_working_on/">[comments]</a></span> </td></tr></table>
+
+## My first time painting orks (wip), this guy went missing a few times while painting not sure why.
+ - [https://www.reddit.com/r/Warhammer/comments/1eyg2sa/my_first_time_painting_orks_wip_this_guy_went](https://www.reddit.com/r/Warhammer/comments/1eyg2sa/my_first_time_painting_orks_wip_this_guy_went)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T10:40:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyg2sa/my_first_time_painting_orks_wip_this_guy_went/"> <img alt="My first time painting orks (wip), this guy went missing a few times while painting not sure why." src="https://preview.redd.it/97ebtjb727kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe023da0b17233c160fe54f0474dbd9260062d2c" title="My first time painting orks (wip), this guy went missing a few times while painting not sure why." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>If you guys have any tips please let me know!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/B_man4567"> /u/B_man4567 </a> <br /> <span><a href="https://i.redd.it/97ebtjb727kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyg2sa/my_first_time_painting_orks_wip_this_guy_went/">[comments]</a></span> </td></tr></table>
+
+## Any good apps for army building?
+ - [https://www.reddit.com/r/Warhammer/comments/1eyg190/any_good_apps_for_army_building](https://www.reddit.com/r/Warhammer/comments/1eyg190/any_good_apps_for_army_building)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T10:37:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyg190/any_good_apps_for_army_building/"> <img alt="Any good apps for army building?" src="https://preview.redd.it/4xlhb2nq17kd1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=958b4a3f074b247603cc0ee3f477e8a707c136f5" title="Any good apps for army building?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello there! I’m really used th WH40K app for army building, but due to double paywall I just want to know apps do you recommend? I am also using BattleScribe but it lacks a bit of comfort after WH40K app.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eyfay"> /u/eyfay </a> <br /> <span><a href="https://i.redd.it/4xlhb2nq17kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyg190/any_good_apps_for_army_building/">[comments]</a></span> </td></tr></table>
+
+## Ventrillian Nobles Lascannons
+ - [https://www.reddit.com/r/Warhammer/comments/1eyg0jb/ventrillian_nobles_lascannons](https://www.reddit.com/r/Warhammer/comments/1eyg0jb/ventrillian_nobles_lascannons)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T10:36:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyg0jb/ventrillian_nobles_lascannons/"> <img alt="Ventrillian Nobles Lascannons " src="https://a.thumbs.redditmedia.com/9YissBpn5hPW4d9YLgk9Z-GSU6rsgDNOge6rbmWTbK0.jpg" title="Ventrillian Nobles Lascannons " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Archangel53773"> /u/Archangel53773 </a> <br /> <span><a href="https://www.reddit.com/gallery/1eyg0jb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyg0jb/ventrillian_nobles_lascannons/">[comments]</a></span> </td></tr></table>
+
+## I'm teaching my bird to paint Warhammer.
+ - [https://www.reddit.com/r/Warhammer/comments/1eyfgwd/im_teaching_my_bird_to_paint_warhammer](https://www.reddit.com/r/Warhammer/comments/1eyfgwd/im_teaching_my_bird_to_paint_warhammer)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T10:01:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyfgwd/im_teaching_my_bird_to_paint_warhammer/"> <img alt="I'm teaching my bird to paint Warhammer." src="https://preview.redd.it/nttr3y1dv6kd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=71f8bafe2bc859eafe31585f051a09465a28a200" title="I'm teaching my bird to paint Warhammer." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It's not going great....</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HarveyProdromus"> /u/HarveyProdromus </a> <br /> <span><a href="https://i.redd.it/nttr3y1dv6kd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyfgwd/im_teaching_my_bird_to_paint_warhammer/">[comments]</a></span> </td></tr></table>
+
+## Adeptus custodes
+ - [https://www.reddit.com/r/Warhammer/comments/1eyf98g/adeptus_custodes](https://www.reddit.com/r/Warhammer/comments/1eyf98g/adeptus_custodes)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T09:47:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyf98g/adeptus_custodes/"> <img alt="Adeptus custodes " src="https://b.thumbs.redditmedia.com/V_4H2_ug1fNmSxsBoYtqxawPh5NVbkO5tA7zA_j-ZAw.jpg" title="Adeptus custodes " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SeBBo321"> /u/SeBBo321 </a> <br /> <span><a href="https://www.reddit.com/gallery/1eyf98g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyf98g/adeptus_custodes/">[comments]</a></span> </td></tr></table>
+
+## While some Humans are already thinking about winning and are looking forward to the promised Bugman's Beer and the Dwarves' feast, some desperate Dark Elves are trying to follow the leaders final battle songs. Hopeless...
+ - [https://www.reddit.com/r/Warhammer/comments/1eyen92/while_some_humans_are_already_thinking_about](https://www.reddit.com/r/Warhammer/comments/1eyen92/while_some_humans_are_already_thinking_about)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T09:05:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyen92/while_some_humans_are_already_thinking_about/"> <img alt="While some Humans are already thinking about winning and are looking forward to the promised Bugman's Beer and the Dwarves' feast, some desperate Dark Elves are trying to follow the leaders final battle songs. Hopeless..." src="https://b.thumbs.redditmedia.com/4SjqNczSAD0KDiRtnpSBwcbLgZAbCeeQe5WUAcQdmuk.jpg" title="While some Humans are already thinking about winning and are looking forward to the promised Bugman's Beer and the Dwarves' feast, some desperate Dark Elves are trying to follow the leaders final battle songs. Hopeless..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BebbiFett"> /u/BebbiFett </a> <br /> <span><a href="https://www.reddit.com/gallery/1eyen92">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyen92/while_some_humans_are_already_thinking_about/">[comments]</a
+
+## Standard bearer Lodegrance the Farsighted is ready to lead a squad of knights of the Realm into battle!
+ - [https://www.reddit.com/r/Warhammer/comments/1eye3gc/standard_bearer_lodegrance_the_farsighted_is](https://www.reddit.com/r/Warhammer/comments/1eye3gc/standard_bearer_lodegrance_the_farsighted_is)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T08:27:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eye3gc/standard_bearer_lodegrance_the_farsighted_is/"> <img alt="Standard bearer Lodegrance the Farsighted is ready to lead a squad of knights of the Realm into battle!" src="https://preview.redd.it/jd2xb4rge6kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a59c270971a8af7a727e52876a7c580af1f08fb6" title="Standard bearer Lodegrance the Farsighted is ready to lead a squad of knights of the Realm into battle!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Feinar"> /u/Feinar </a> <br /> <span><a href="https://i.redd.it/jd2xb4rge6kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eye3gc/standard_bearer_lodegrance_the_farsighted_is/">[comments]</a></span> </td></tr></table>
+
+## Sector Imperialis Statues
+ - [https://www.reddit.com/r/Warhammer/comments/1eybxyc/sector_imperialis_statues](https://www.reddit.com/r/Warhammer/comments/1eybxyc/sector_imperialis_statues)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T05:57:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eybxyc/sector_imperialis_statues/"> <img alt="Sector Imperialis Statues" src="https://preview.redd.it/57dliiyon5kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d185e5c1813b279a721aad68eb87e7f4c597e00b" title="Sector Imperialis Statues" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dicey_games"> /u/dicey_games </a> <br /> <span><a href="https://i.redd.it/57dliiyon5kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eybxyc/sector_imperialis_statues/">[comments]</a></span> </td></tr></table>
+
+## Finished a bunch of warcry terrain
+ - [https://www.reddit.com/r/Warhammer/comments/1eyaivw/finished_a_bunch_of_warcry_terrain](https://www.reddit.com/r/Warhammer/comments/1eyaivw/finished_a_bunch_of_warcry_terrain)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T04:29:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eyaivw/finished_a_bunch_of_warcry_terrain/"> <img alt="Finished a bunch of warcry terrain " src="https://preview.redd.it/as6xl1c585kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac80df672d718d5fcfc75f1997ac21f1b0c8ea94" title="Finished a bunch of warcry terrain " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LordBaconAndEggs"> /u/LordBaconAndEggs </a> <br /> <span><a href="https://i.redd.it/as6xl1c585kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eyaivw/finished_a_bunch_of_warcry_terrain/">[comments]</a></span> </td></tr></table>
+
+## 3D Printed Warhammer Inspired Gorechild Chainaxe In Action
+ - [https://www.reddit.com/r/Warhammer/comments/1eya965/3d_printed_warhammer_inspired_gorechild_chainaxe](https://www.reddit.com/r/Warhammer/comments/1eya965/3d_printed_warhammer_inspired_gorechild_chainaxe)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T04:14:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eya965/3d_printed_warhammer_inspired_gorechild_chainaxe/"> <img alt="3D Printed Warhammer Inspired Gorechild Chainaxe In Action" src="https://external-preview.redd.it/eWthNXl4d2Y1NWtkMQnmOrTh0lazCQx-nN1deabwUAVRtL9pOsHcpa1kjRTW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2e796efc2c7169479231facdc1badec34f43e33" title="3D Printed Warhammer Inspired Gorechild Chainaxe In Action" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alantoaddy6"> /u/alantoaddy6 </a> <br /> <span><a href="https://v.redd.it/ow9sdywf55kd1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eya965/3d_printed_warhammer_inspired_gorechild_chainaxe/">[comments]</a></span> </td></tr></table>
+
+## A test mini for a world eaters army
+ - [https://www.reddit.com/r/Warhammer/comments/1eya3vx/a_test_mini_for_a_world_eaters_army](https://www.reddit.com/r/Warhammer/comments/1eya3vx/a_test_mini_for_a_world_eaters_army)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T04:07:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1eya3vx/a_test_mini_for_a_world_eaters_army/"> <img alt="A test mini for a world eaters army " src="https://b.thumbs.redditmedia.com/fQYAB4k2Qrl4A3nxIzVr_Ox22ZbIMG7wxNZNKkv7MGQ.jpg" title="A test mini for a world eaters army " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltyfreyes621"> /u/Saltyfreyes621 </a> <br /> <span><a href="https://www.reddit.com/gallery/1eya3vx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1eya3vx/a_test_mini_for_a_world_eaters_army/">[comments]</a></span> </td></tr></table>
+
+## Wish me luck
+ - [https://www.reddit.com/r/Warhammer/comments/1ey7o4s/wish_me_luck](https://www.reddit.com/r/Warhammer/comments/1ey7o4s/wish_me_luck)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T02:02:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ey7o4s/wish_me_luck/"> <img alt="Wish me luck" src="https://preview.redd.it/kdblizzth4kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9eaa6bd482a0438f7085989188522f5711a0eb55" title="Wish me luck" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Got him for 60</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/corn_cornelius"> /u/corn_cornelius </a> <br /> <span><a href="https://i.redd.it/kdblizzth4kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ey7o4s/wish_me_luck/">[comments]</a></span> </td></tr></table>
+
+## WIP Skaven
+ - [https://www.reddit.com/r/Warhammer/comments/1ey6ypn/wip_skaven](https://www.reddit.com/r/Warhammer/comments/1ey6ypn/wip_skaven)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T01:28:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ey6ypn/wip_skaven/"> <img alt="WIP Skaven" src="https://preview.redd.it/4c6z73wub4kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfbce13ff5750267d0dd1241246c795ccc13bad1" title="WIP Skaven" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spinachdipminiatures"> /u/Spinachdipminiatures </a> <br /> <span><a href="https://i.redd.it/4c6z73wub4kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ey6ypn/wip_skaven/">[comments]</a></span> </td></tr></table>
+
+## WIP Lord Veritant - took the advice of commenters from the last post and tried my hand at dark/shadow flame
+ - [https://www.reddit.com/r/Warhammer/comments/1ey6ygv/wip_lord_veritant_took_the_advice_of_commenters](https://www.reddit.com/r/Warhammer/comments/1ey6ygv/wip_lord_veritant_took_the_advice_of_commenters)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T01:28:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ey6ygv/wip_lord_veritant_took_the_advice_of_commenters/"> <img alt="WIP Lord Veritant - took the advice of commenters from the last post and tried my hand at dark/shadow flame " src="https://preview.redd.it/9h8b39psb4kd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d88fe033a6a3ea6ecace6fd334ba1b2e9af14b2" title="WIP Lord Veritant - took the advice of commenters from the last post and tried my hand at dark/shadow flame " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spinachdipminiatures"> /u/Spinachdipminiatures </a> <br /> <span><a href="https://i.redd.it/9h8b39psb4kd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ey6ygv/wip_lord_veritant_took_the_advice_of_commenters/">[comments]</a></span> </td></tr></table>
+
+## Some love for the first born?
+ - [https://www.reddit.com/r/Warhammer/comments/1ey6edh/some_love_for_the_first_born](https://www.reddit.com/r/Warhammer/comments/1ey6edh/some_love_for_the_first_born)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-22T01:02:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ey6edh/some_love_for_the_first_born/"> <img alt="Some love for the first born?" src="https://external-preview.redd.it/ZDBlbWlzdTM3NGtkMRraZiaf_wNY7KzIig-Zq6Q-cB3OMq89H2B7ukZYI6dP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ae57c2563c272e5678751d3b69203071b277bb4" title="Some love for the first born?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Definitely prefer painting up Primaris scale dudes but this was a fun lot to get done. Dunno what the bases will end up being yet 😅</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jorgiepaintsoninsta"> /u/Jorgiepaintsoninsta </a> <br /> <span><a href="https://v.redd.it/88l17lz374kd1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ey6edh/some_love_for_the_first_born/">[comments]</a></span> </td></tr></table>
+

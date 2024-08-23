@@ -1,0 +1,51 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Tech Moves: Remitly’s new CFO; Zillow adds SVP; Aquagga CEO steps down; Propio hires exec
+ - [https://www.geekwire.com/2024/tech-moves-remitlys-new-cfo-zillow-adds-svp-aquagga-ceo-steps-down-propio-hires-exec](https://www.geekwire.com/2024/tech-moves-remitlys-new-cfo-zillow-adds-svp-aquagga-ceo-steps-down-propio-hires-exec)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-22T20:26:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="768" src="https://cdn.geekwire.com/wp-content/uploads/2024/07/Vikas-Mehta-Headshot.jpg" width="1024" /><br />Vikas Mehta knows how to assess the financial health of a business, having been a finance leader at companies including PayPal, Microsoft, Walmart, Nike, Anaplan, and Komodo Health. And he likes what he sees at Remitly. &#8220;The opportunity that is ahead of the company is massive,&#8221; Mehta said. &#8220;As a finance leader, I saw that, and I definitely wanted to be part of that.&#8221; Mehta started a new gig this week as the CFO at Seattle-based digital remittance provider Remitly. Founded in 2011, Remitly’s mobile technology lets people send and receive money across borders, including immigrants in the U.S. and&#8230; <a href="https://www.geekwire.com/2024/tech-moves-remitlys-new-cfo-zillow-adds-svp-aquagga-ceo-steps-down-propio-hires-exec/">Read More</a>
+
+## Former Living Computers Museum director returning to Seattle to lead National Nordic Museum
+ - [https://www.geekwire.com/2024/former-living-computers-museum-director-returning-to-seattle-to-lead-national-nordic-museum](https://www.geekwire.com/2024/former-living-computers-museum-director-returning-to-seattle-to-lead-national-nordic-museum)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-22T19:58:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="813" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/Lath_3161-Edit.JPG.png" width="1132" /><br />Lāth Carlson, the former executive director of Seattle&#8217;s Living Computers Museum + Labs, is returning to the city to head up another institution, as executive director and CEO of the National Nordic Museum. Carlson, a seasoned museum professional, spent the past five years as executive director of The Museum of the Future in Dubai, where he oversaw the completion of the museum&#8217;s iconic circular building, 60,000 square feet of exhibits, technology systems and more. He announced he was leaving in a LinkedIn post last week. “Lāth is a remarkable global leader in the museum world, and we are excited to&#8230; <a href="https://www.geekwire.com/2024/former-living-computers-museum-director-returning-to-seattle-to-lead-national-nordic-museum/">Read More</a>
+
+## Lamina1 and Weta join forces with Seattle sci-fi author to create a virtual universe
+ - [https://www.geekwire.com/2024/lamina1-weta-stephenson-artefact-virtual-worlds](https://www.geekwire.com/2024/lamina1-weta-stephenson-artefact-virtual-worlds)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-22T16:23:23+00:00
+
+<img alt="Neal Stephenson at tech conference" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/NealStephenson.jpeg" width="1214" /><br />A digital content platform inspired by Seattle science-fiction author Neal Stephenson&#8217;s vision of the metaverse is collaborating with Weta Workshop, the special-effects company best known for its work on &#8220;The Lord of the Rings&#8221; movie trilogy, to create a whole new online territory for virtual worlds. Lamina1 says its newly announced project, known as Artefact, will provide a new blueprint for expanding digital content through &#8220;immersive experiences that incorporate fan action and input.&#8221; &#8220;This is more than just a new virtual world — it&#8217;s a new way to build worlds,&#8221; Stephenson, who co-founded Lamina1 in 2022, said today in a&#8230; <a href="https://www.geekwire.com/2024/lamina1-weta-stephenson-artefact-virtual-worlds/">Read More</a>
+
+## AWS exec explains how AI agents are driving a radical shift in the world of coding
+ - [https://www.geekwire.com/2024/aws-exec-explains-how-ai-agents-are-driving-a-radical-shift-in-the-world-of-coding](https://www.geekwire.com/2024/aws-exec-explains-how-ai-agents-are-driving-a-radical-shift-in-the-world-of-coding)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-22T15:37:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/Doug-Seven-headshot-1-1260x840.jpg" width="1260" /><br />In an era where AI is reshaping industries at breakneck speed, Doug Seven finds himself at the forefront of a technology that&#8217;s changing the way developers approach their work. As the director and general manager of AWS AI Developer Experiences, Seven is at the helm of this transformation, where specialized AI is not just assisting but actively reshaping how code is written and deployed. With years of experience at Microsoft and Amazon, Seven has witnessed the evolution of developer tools, but nothing compares to the potential he sees in AI agents. &#8220;The more you trust the AI, the less you&#8217;re&#8230; <a href="https://www.geekwire.com/2024/aws-exec-explains-how-ai-agents-are-driving-a-radical-shift-in-the-world-of-coding/">Read More</a>
+
+## Expedia vet leads stealthy Madrona Venture Labs spinout building an AI agent for business travelers
+ - [https://www.geekwire.com/2024/expedia-vet-leads-stealthy-madrona-venture-labs-spinout-building-an-ai-agent-for-business-travelers](https://www.geekwire.com/2024/expedia-vet-leads-stealthy-madrona-venture-labs-spinout-building-an-ai-agent-for-business-travelers)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-22T15:00:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="408" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-8.20.07%E2%80%AFAM.png" width="821" /><br />A group of longtime travel industry veterans are teaming up on a new Seattle-based startup called Otto that is developing an AI-powered virtual assistant for business travel booking. The company on Thursday announced a $6 million seed round led by Madrona. Steve Singh, managing director at Madrona who co-founded business expense software giant Concur, is executive chairman of Otto. The 7-person startup is led by CEO Michael Gulmann, who spent nearly a decade at Expedia Group in various leadership roles, and also worked at business travel management giant Egencia. Otto is still developing its product, but Gulmann shared some details&#8230; <a href="https://www.geekwire.com/2024/expedia-vet-leads-stealthy-madrona-venture-labs-spinout-building-an-ai-agent-for-business-travelers/">Read More</a>
+
+## Redfin layoffs impact real estate company’s Concierge service
+ - [https://www.geekwire.com/2024/redfin-layoffs-impact-real-estate-companys-concierge-service](https://www.geekwire.com/2024/redfin-layoffs-impact-real-estate-companys-concierge-service)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-22T14:45:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="627" src="https://cdn.geekwire.com/wp-content/uploads/2019/05/DSC09408.jpg-1260x627.jpg" width="1260" /><br />Redfin laid off employees on Wednesday, GeekWire has learned. The Seattle-based company confirmed the cuts and said that fewer than 100 people were impacted, primarily in Redfin&#8217;s Concierge service, which helps homeowners improve their home&#8217;s appeal before putting it on the market. Support and sales managers within the company&#8217;s real estate brokerage were also impacted by the layoffs. Some affected employees are being offered jobs as agents. &#8220;As we hire more Redfin Next agents and our current agents become more entrepreneurial and self-sufficient, Redfin needs less support and managerial staff,&#8221; a spokesperson said in a statement. &#8220;Additionally, Redfin is decentralizing&#8230; <a href="https://www.geekwire.com/2024/redfin-layoffs-impact-real-estate-companys-concierge-service/">
+
+## Blue Origin’s New Glenn rocket program reportedly faces failures during testing
+ - [https://www.geekwire.com/2024/report-blue-origin-new-glenn-test-failures](https://www.geekwire.com/2024/report-blue-origin-new-glenn-test-failures)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-08-22T05:05:30+00:00
+
+<img alt="New Glenn first-stage simulator being maneuvered in Florida" class="webfeedsFeaturedVisual wp-post-image" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2024/08/240821-newglenn-1260x840.jpg" width="1260" /><br />Jeff Bezos&#8217; Blue Origin space venture has encountered two recent failures in its efforts to get orbital-class New Glenn rockets ready for future launches from Florida, Bloomberg News reported today. For its first-ever launch, set for this fall, New Glenn is scheduled to send two small probes to Mars, to study the Red Planet&#8217;s magnetosphere for NASA&#8217;s Escapade mission. Citing unnamed sources, Bloomberg said the failures damaged rocket hardware for the two launches that are due to come afterward. No injuries were reported in either incident, according to Bloomberg. One incident was said to involve the crumpling of a section&#8230; <a href="https://www.geekwire.com/2024/report-blue-origin-new-glenn-test-failures/">Read More</a>
+
