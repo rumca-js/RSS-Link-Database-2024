@@ -1,0 +1,289 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Harris’ DNC Speech Crushed Ratings for Trump’s Acceptance Address
+ - [https://www.reddit.com/r/politics/comments/1ezkctg/harris_dnc_speech_crushed_ratings_for_trumps](https://www.reddit.com/r/politics/comments/1ezkctg/harris_dnc_speech_crushed_ratings_for_trumps)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T18:40:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezkctg/harris_dnc_speech_crushed_ratings_for_trumps/"> <img alt="Harris’ DNC Speech Crushed Ratings for Trump’s Acceptance Address" src="https://external-preview.redd.it/IeLJ74PNXy-4nI90u5wNmgAWLM9ZV4B_QgK1Rqyx3tU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70385699568f819b4cb1a24ac5ec6934c8fd5804" title="Harris’ DNC Speech Crushed Ratings for Trump’s Acceptance Address" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.thedailybeast.com/kamala-harris-dnc-speech-crushed-ratings-for-donald-trumps-acceptance-address">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezkctg/harris_dnc_speech_crushed_ratings_for_trumps/">[comments]</a></span> </td></tr></table>
+
+## JD Vance declaring himself a ‘never Trump guy’ becomes viral TikTok hit
+ - [https://www.reddit.com/r/politics/comments/1ezjx0z/jd_vance_declaring_himself_a_never_trump_guy](https://www.reddit.com/r/politics/comments/1ezjx0z/jd_vance_declaring_himself_a_never_trump_guy)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T18:22:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezjx0z/jd_vance_declaring_himself_a_never_trump_guy/"> <img alt="JD Vance declaring himself a ‘never Trump guy’ becomes viral TikTok hit" src="https://external-preview.redd.it/P0fSO2j150nuHslTyXTYpdTAuy6a5whVttKqq3VpBFs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e95ff02441a661cc27f13c45eb7eed0dbf7ec981" title="JD Vance declaring himself a ‘never Trump guy’ becomes viral TikTok hit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Particular-Okra1102"> /u/Particular-Okra1102 </a> <br /> <span><a href="https://www.independent.co.uk/arts-entertainment/music/news/jd-vance-never-trump-guy-tiktok-b2600989.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezjx0z/jd_vance_declaring_himself_a_never_trump_guy/">[comments]</a></span> </td></tr></table>
+
+## Ron DeSantis smeared this trans candidate. She just won her primary. Ashley Brundage could be the state's first out trans lawmaker.
+ - [https://www.reddit.com/r/politics/comments/1ezj6rz/ron_desantis_smeared_this_trans_candidate_she](https://www.reddit.com/r/politics/comments/1ezj6rz/ron_desantis_smeared_this_trans_candidate_she)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T17:52:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezj6rz/ron_desantis_smeared_this_trans_candidate_she/"> <img alt="Ron DeSantis smeared this trans candidate. She just won her primary. Ashley Brundage could be the state's first out trans lawmaker." src="https://external-preview.redd.it/7Qza_2EttPV_Sbs5RHOuDdEBl8Xptqq5_5JqUELsmG4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e49b41c856162bd4659891d8b59d7a79127970d9" title="Ron DeSantis smeared this trans candidate. She just won her primary. Ashley Brundage could be the state's first out trans lawmaker." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br /> <span><a href="https://www.lgbtqnation.com/2024/08/ron-desantis-smeared-this-trans-candidate-she-just-won-her-primary/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezj6rz/ron_desantis_smeared_this_trans_candidate_she/">[comments]</a></span> </td></tr></table>
+
+## Ann Coulter Roast Goes Viral as Internet Gets Revenge for Gus Walz
+ - [https://www.reddit.com/r/politics/comments/1ezihg6/ann_coulter_roast_goes_viral_as_internet_gets](https://www.reddit.com/r/politics/comments/1ezihg6/ann_coulter_roast_goes_viral_as_internet_gets)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T17:23:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezihg6/ann_coulter_roast_goes_viral_as_internet_gets/"> <img alt="Ann Coulter Roast Goes Viral as Internet Gets Revenge for Gus Walz" src="https://external-preview.redd.it/VKCDqYb3V2uGtTjznOKvbYyrFiS_Qw_Pqr57R0NOVo0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb445a568f524287c77934f2c4f2a9adff740f33" title="Ann Coulter Roast Goes Viral as Internet Gets Revenge for Gus Walz" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ready_Panda"> /u/Ready_Panda </a> <br /> <span><a href="https://www.thedailybeast.com/ann-coulter-roast-goes-viral-as-internet-gets-revenge-for-gus-walz">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezihg6/ann_coulter_roast_goes_viral_as_internet_gets/">[comments]</a></span> </td></tr></table>
+
+## Trump Suddenly Looks Very Afraid of Being Sued by Taylor Swift - Donald Trump now wants nothing to do with the A.I. images he shared just a few days ago.
+ - [https://www.reddit.com/r/politics/comments/1ezi3ge/trump_suddenly_looks_very_afraid_of_being_sued_by](https://www.reddit.com/r/politics/comments/1ezi3ge/trump_suddenly_looks_very_afraid_of_being_sued_by)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T17:07:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezi3ge/trump_suddenly_looks_very_afraid_of_being_sued_by/"> <img alt="Trump Suddenly Looks Very Afraid of Being Sued by Taylor Swift - Donald Trump now wants nothing to do with the A.I. images he shared just a few days ago." src="https://external-preview.redd.it/eK7rW2RDksRXwyET_Il4z0tnaCM8Og5IihFFvxdLNOM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35b1ecd06a53ecfde0480e14be88391527a74cce" title="Trump Suddenly Looks Very Afraid of Being Sued by Taylor Swift - Donald Trump now wants nothing to do with the A.I. images he shared just a few days ago." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/post/185242/trump-ai-taylor-swift-images-response-sue">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezi3ge/trump_suddenly_looks_very_afraid_of_being_sued_by/">[comments]</a></span
+
+## JD Vance declaring himself a ‘never Trump guy’ becomes viral TikTok hit
+ - [https://www.reddit.com/r/politics/comments/1ezi06h/jd_vance_declaring_himself_a_never_trump_guy](https://www.reddit.com/r/politics/comments/1ezi06h/jd_vance_declaring_himself_a_never_trump_guy)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T17:04:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezi06h/jd_vance_declaring_himself_a_never_trump_guy/"> <img alt="JD Vance declaring himself a ‘never Trump guy’ becomes viral TikTok hit" src="https://external-preview.redd.it/P0fSO2j150nuHslTyXTYpdTAuy6a5whVttKqq3VpBFs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e95ff02441a661cc27f13c45eb7eed0dbf7ec981" title="JD Vance declaring himself a ‘never Trump guy’ becomes viral TikTok hit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/z8675309z"> /u/z8675309z </a> <br /> <span><a href="https://www.independent.co.uk/arts-entertainment/music/news/jd-vance-never-trump-guy-tiktok-b2600989.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezi06h/jd_vance_declaring_himself_a_never_trump_guy/">[comments]</a></span> </td></tr></table>
+
+## Wait, Did Trump Just Admit He Lost the 2020 Election?
+ - [https://www.reddit.com/r/politics/comments/1ezgdhs/wait_did_trump_just_admit_he_lost_the_2020](https://www.reddit.com/r/politics/comments/1ezgdhs/wait_did_trump_just_admit_he_lost_the_2020)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T15:58:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezgdhs/wait_did_trump_just_admit_he_lost_the_2020/"> <img alt="Wait, Did Trump Just Admit He Lost the 2020 Election?" src="https://external-preview.redd.it/lZEFHKxmjHrXwk-zs9GVdnVbZhZDr9H6wqlKnvXZO7c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3afe9eab03572fd141651c86db826f6465a6a8d1" title="Wait, Did Trump Just Admit He Lost the 2020 Election?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HistoricalSmile5894"> /u/HistoricalSmile5894 </a> <br /> <span><a href="https://www.thedailybeast.com/wait-did-donald-trump-just-admit-he-lost-the-2020-election">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezgdhs/wait_did_trump_just_admit_he_lost_the_2020/">[comments]</a></span> </td></tr></table>
+
+## JD Vance's "very awkward" stop at Georgia donut shop goes viral
+ - [https://www.reddit.com/r/politics/comments/1ezfhnh/jd_vances_very_awkward_stop_at_georgia_donut_shop](https://www.reddit.com/r/politics/comments/1ezfhnh/jd_vances_very_awkward_stop_at_georgia_donut_shop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T15:22:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezfhnh/jd_vances_very_awkward_stop_at_georgia_donut_shop/"> <img alt="JD Vance's &quot;very awkward&quot; stop at Georgia donut shop goes viral" src="https://external-preview.redd.it/OjG1ZGwY-nS77xvggtjaiHC3dTB-uFVqZMBVrNCb9ps.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2e5dea68cc29f672bfa5278b45f20b3ece76016" title="JD Vance's &quot;very awkward&quot; stop at Georgia donut shop goes viral" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/samuelso11"> /u/samuelso11 </a> <br /> <span><a href="https://www.newsweek.com/jd-vance-awkward-stop-georgia-donut-shop-1943204">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezfhnh/jd_vances_very_awkward_stop_at_georgia_donut_shop/">[comments]</a></span> </td></tr></table>
+
+## DNC Day 4: The Democrats Are No Longer Afraid Of Themselves
+ - [https://www.reddit.com/r/politics/comments/1ezex45/dnc_day_4_the_democrats_are_no_longer_afraid_of](https://www.reddit.com/r/politics/comments/1ezex45/dnc_day_4_the_democrats_are_no_longer_afraid_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T14:59:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezex45/dnc_day_4_the_democrats_are_no_longer_afraid_of/"> <img alt="DNC Day 4: The Democrats Are No Longer Afraid Of Themselves" src="https://external-preview.redd.it/u8zjMNs66hBFWjwLl2seWynh-Uy3xL6rjtaYBX5QAIo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d2b72938e09678b1a442affbc848693da0324d1" title="DNC Day 4: The Democrats Are No Longer Afraid Of Themselves" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Esquire"> /u/Esquire </a> <br /> <span><a href="https://www.esquire.com/news-politics/politics/a61956817/kamala-harris-dnc-acceptance-speech/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezex45/dnc_day_4_the_democrats_are_no_longer_afraid_of/">[comments]</a></span> </td></tr></table>
+
+## Trump campaign event investigated over claims it violated election law
+ - [https://www.reddit.com/r/politics/comments/1ezerf7/trump_campaign_event_investigated_over_claims_it](https://www.reddit.com/r/politics/comments/1ezerf7/trump_campaign_event_investigated_over_claims_it)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T14:52:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezerf7/trump_campaign_event_investigated_over_claims_it/"> <img alt="Trump campaign event investigated over claims it violated election law" src="https://external-preview.redd.it/axqgFBYBmBKf01QI7djsEMztPb9F4jph3-vOjBFdyr0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0abdf9e38328a5d5497d465a4a536876e68025f" title="Trump campaign event investigated over claims it violated election law" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/trump-campaign-event-investigated-election-law-1943443">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezerf7/trump_campaign_event_investigated_over_claims_it/">[comments]</a></span> </td></tr></table>
+
+## Ocasio-Cortez: Walz is driving Trump and Vance ‘nuts’
+ - [https://www.reddit.com/r/politics/comments/1ezeo6s/ocasiocortez_walz_is_driving_trump_and_vance_nuts](https://www.reddit.com/r/politics/comments/1ezeo6s/ocasiocortez_walz_is_driving_trump_and_vance_nuts)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T14:49:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezeo6s/ocasiocortez_walz_is_driving_trump_and_vance_nuts/"> <img alt="Ocasio-Cortez: Walz is driving Trump and Vance ‘nuts’" src="https://external-preview.redd.it/hkPFU0ZKoPTyrYlCu3ang_Bfo3B77qeJChBjFm2E7iQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d99a8a0c71ae15dcb424670d0750b8ce5f12a0f" title="Ocasio-Cortez: Walz is driving Trump and Vance ‘nuts’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Particular-Okra1102"> /u/Particular-Okra1102 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4843811-alexandria-ocasio-cortez-tim-walz-donald-trump-jd-vance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezeo6s/ocasiocortez_walz_is_driving_trump_and_vance_nuts/">[comments]</a></span> </td></tr></table>
+
+## "He's still talking": Host jokes after Fox News cuts off Trump's rambling phone call
+ - [https://www.reddit.com/r/politics/comments/1ezedrd/hes_still_talking_host_jokes_after_fox_news_cuts](https://www.reddit.com/r/politics/comments/1ezedrd/hes_still_talking_host_jokes_after_fox_news_cuts)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T14:37:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezedrd/hes_still_talking_host_jokes_after_fox_news_cuts/"> <img alt="&quot;He's still talking&quot;: Host jokes after Fox News cuts off Trump's rambling phone call" src="https://external-preview.redd.it/BnAXEkYlPDuHj01P04bYJZGIiP9Y_eGop3nt-CdLd48.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ae9361cdb7cb85bec8b73303399806c2eebb930" title="&quot;He's still talking&quot;: Host jokes after Fox News cuts off Trump's rambling phone call" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://www.salon.com/2024/08/23/hes-still-talking-host-jokes-after-fox-news-cuts-off-rambling-phone-call/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezedrd/hes_still_talking_host_jokes_after_fox_news_cuts/">[comments]</a></span> </td></tr></table>
+
+## Trump suffers unintentionally funny meltdown on DNC’s final night
+ - [https://www.reddit.com/r/politics/comments/1ezdcx7/trump_suffers_unintentionally_funny_meltdown_on](https://www.reddit.com/r/politics/comments/1ezdcx7/trump_suffers_unintentionally_funny_meltdown_on)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T13:54:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezdcx7/trump_suffers_unintentionally_funny_meltdown_on/"> <img alt="Trump suffers unintentionally funny meltdown on DNC’s final night" src="https://external-preview.redd.it/_IHfaBzcm4u3bVPwVo_PPWSlUMlVIJLHXU6vddUQHhg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3fdb11ae7c0e7424bf8fba1f9a6e19358063f78" title="Trump suffers unintentionally funny meltdown on DNC’s final night" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InternetPopular3679"> /u/InternetPopular3679 </a> <br /> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-suffers-unintentionally-funny-meltdown-dncs-final-night-rcna167928">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezdcx7/trump_suffers_unintentionally_funny_meltdown_on/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump Hosting Jan. 6 Awards Gala Sparks Fury: 'Absolutely Horrid'
+ - [https://www.reddit.com/r/politics/comments/1ezcvza/donald_trump_hosting_jan_6_awards_gala_sparks](https://www.reddit.com/r/politics/comments/1ezcvza/donald_trump_hosting_jan_6_awards_gala_sparks)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T13:34:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezcvza/donald_trump_hosting_jan_6_awards_gala_sparks/"> <img alt="Donald Trump Hosting Jan. 6 Awards Gala Sparks Fury: 'Absolutely Horrid'" src="https://external-preview.redd.it/DpQLDpK-OexArf2pJxq-7HS7TLMCeEN1u7z2cJJVuog.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=654bdc83eeed756542c80ed46b12dd337ee30ce1" title="Donald Trump Hosting Jan. 6 Awards Gala Sparks Fury: 'Absolutely Horrid'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Niyazali_Haneef"> /u/Niyazali_Haneef </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-hosting-jan-6-awards-gala-sparks-fury-absolutely-horrid-1943435">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezcvza/donald_trump_hosting_jan_6_awards_gala_sparks/">[comments]</a></span> </td></tr></table>
+
+## Trump Has Multi-Platform Meltdown for the Ages Over Harris’ DNC Speech
+ - [https://www.reddit.com/r/politics/comments/1ezclhy/trump_has_multiplatform_meltdown_for_the_ages](https://www.reddit.com/r/politics/comments/1ezclhy/trump_has_multiplatform_meltdown_for_the_ages)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T13:20:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezclhy/trump_has_multiplatform_meltdown_for_the_ages/"> <img alt="Trump Has Multi-Platform Meltdown for the Ages Over Harris’ DNC Speech" src="https://external-preview.redd.it/_vBznnG0S_kQtMPokFdhAaj4dr_oRERZVAwPEq45aQw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6876e9d27f07b465863e8427215dc85d371d3a2" title="Trump Has Multi-Platform Meltdown for the Ages Over Harris’ DNC Speech" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HookednSoCal"> /u/HookednSoCal </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-melts-down-kamala-harris-dnc-speech-1235086487/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezclhy/trump_has_multiplatform_meltdown_for_the_ages/">[comments]</a></span> </td></tr></table>
+
+## Harris vs. Trump: Latest presidential poll indicates small lead is exploding
+ - [https://www.reddit.com/r/politics/comments/1ezbzbb/harris_vs_trump_latest_presidential_poll](https://www.reddit.com/r/politics/comments/1ezbzbb/harris_vs_trump_latest_presidential_poll)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T12:53:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezbzbb/harris_vs_trump_latest_presidential_poll/"> <img alt="Harris vs. Trump: Latest presidential poll indicates small lead is exploding" src="https://external-preview.redd.it/a0WRbawCGIWwfrNwMieY4srd4PUQPTVZxrVVkhv39TI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0438daf3e56c3d1ec196fff04d6951208492530d" title="Harris vs. Trump: Latest presidential poll indicates small lead is exploding" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MotorizedDoucheCanoe"> /u/MotorizedDoucheCanoe </a> <br /> <span><a href="https://www.nj.com/politics/2024/08/harris-vs-trump-latest-presidential-poll-indicates-small-lead-is-exploding.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezbzbb/harris_vs_trump_latest_presidential_poll/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Ahead of Donald Trump in North Carolina—538 Polling Aggregate
+ - [https://www.reddit.com/r/politics/comments/1ezapsw/kamala_harris_ahead_of_donald_trump_in_north](https://www.reddit.com/r/politics/comments/1ezapsw/kamala_harris_ahead_of_donald_trump_in_north)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T11:50:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezapsw/kamala_harris_ahead_of_donald_trump_in_north/"> <img alt="Kamala Harris Ahead of Donald Trump in North Carolina—538 Polling Aggregate" src="https://external-preview.redd.it/aeqrPn4urqaoTDCxeCschADR1PhH8xyeREhkPSB_UJU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=347be62579106c149ee588bf2d5c19f58dbc7e41" title="Kamala Harris Ahead of Donald Trump in North Carolina—538 Polling Aggregate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CountyBeginning6510"> /u/CountyBeginning6510 </a> <br /> <span><a href="https://www.newsweek.com/kamala-harris-donald-trump-polls-north-carolina-1943402">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezapsw/kamala_harris_ahead_of_donald_trump_in_north/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris has put Trump in a box, and he’s struggling to break out
+ - [https://www.reddit.com/r/politics/comments/1ezaieb/kamala_harris_has_put_trump_in_a_box_and_hes](https://www.reddit.com/r/politics/comments/1ezaieb/kamala_harris_has_put_trump_in_a_box_and_hes)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T11:38:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezaieb/kamala_harris_has_put_trump_in_a_box_and_hes/"> <img alt="Kamala Harris has put Trump in a box, and he’s struggling to break out" src="https://external-preview.redd.it/BUJ6OyBgCx9YktCYjTsc62FNmnh9PHqLOuT0Mcl6Kfk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=34dc2c8e93cc251e674fbef7c07d594edaa03d11" title="Kamala Harris has put Trump in a box, and he’s struggling to break out" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RuminatorNZ"> /u/RuminatorNZ </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/08/23/trump-harris-campaign-analysis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezaieb/kamala_harris_has_put_trump_in_a_box_and_hes/">[comments]</a></span> </td></tr></table>
+
+## DL Hughley: 'Kamala has been Black a lot longer than Trump's been a Republican'
+ - [https://www.reddit.com/r/politics/comments/1ez9z03/dl_hughley_kamala_has_been_black_a_lot_longer](https://www.reddit.com/r/politics/comments/1ez9z03/dl_hughley_kamala_has_been_black_a_lot_longer)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T11:07:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez9z03/dl_hughley_kamala_has_been_black_a_lot_longer/"> <img alt="DL Hughley: 'Kamala has been Black a lot longer than Trump's been a Republican'" src="https://external-preview.redd.it/PMlMrsywMpzMM5Ut-pDJDoKDfO1mg90fNY-kyW0v6pU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4153e008153c5684ad6b103dbb0fb9f6559cc027" title="DL Hughley: 'Kamala has been Black a lot longer than Trump's been a Republican'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br /> <span><a href="https://www.msnbc.com/msnbc/watch/comedian-dl-hughley-digs-at-trump-s-comment-on-kamala-s-heritage-217809989790">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez9z03/dl_hughley_kamala_has_been_black_a_lot_longer/">[comments]</a></span> </td></tr></table>
+
+## Harris’s Lead in the Polls is Likely to Endure | The Democratic nominee’s support still has room to grow
+ - [https://www.reddit.com/r/politics/comments/1ez9ygq/harriss_lead_in_the_polls_is_likely_to_endure_the](https://www.reddit.com/r/politics/comments/1ez9ygq/harriss_lead_in_the_polls_is_likely_to_endure_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T11:06:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez9ygq/harriss_lead_in_the_polls_is_likely_to_endure_the/"> <img alt="Harris’s Lead in the Polls is Likely to Endure | The Democratic nominee’s support still has room to grow" src="https://external-preview.redd.it/mv66Fd5_2ll1lJoqj86c5MQypj_6OqJY7XFVswrz0e8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f7dffb119b8f9ccf48d05af345c3fd76441016b" title="Harris’s Lead in the Polls is Likely to Endure | The Democratic nominee’s support still has room to grow" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://washingtonmonthly.com/2024/08/23/harriss-lead-in-the-polls-is-likely-to-endure/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez9ygq/harriss_lead_in_the_polls_is_likely_to_endure_the/">[comments]</a></span> </td></tr></table>
+
+## Trump has meltdown during Harris’s DNC speech with Truth Social post every 45 seconds
+ - [https://www.reddit.com/r/politics/comments/1ez9rqj/trump_has_meltdown_during_harriss_dnc_speech_with](https://www.reddit.com/r/politics/comments/1ez9rqj/trump_has_meltdown_during_harriss_dnc_speech_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T10:56:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez9rqj/trump_has_meltdown_during_harriss_dnc_speech_with/"> <img alt="Trump has meltdown during Harris’s DNC speech with Truth Social post every 45 seconds" src="https://external-preview.redd.it/x9SkbwZLrpfv9CezCXba-18biu2ecAWdpOJwq3RR3VU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a65110d0cae194ab1dd4e123e6ec7487e72fd0d4" title="Trump has meltdown during Harris’s DNC speech with Truth Social post every 45 seconds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/baquir"> /u/baquir </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-latest-updates-live-rally-truth-social-b2598316.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez9rqj/trump_has_meltdown_during_harriss_dnc_speech_with/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris has eight point lead over Trump in national poll
+ - [https://www.reddit.com/r/politics/comments/1ez9eo2/kamala_harris_has_eight_point_lead_over_trump_in](https://www.reddit.com/r/politics/comments/1ez9eo2/kamala_harris_has_eight_point_lead_over_trump_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T10:33:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez9eo2/kamala_harris_has_eight_point_lead_over_trump_in/"> <img alt="Kamala Harris has eight point lead over Trump in national poll" src="https://external-preview.redd.it/0iysENjZZOQAtSezxKB4Zvp8KqjK5xn0guread93yyA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b8ac6f6d0dadf1db433d53a4167198c00d9eac3" title="Kamala Harris has eight point lead over Trump in national poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br /> <span><a href="https://www.newsweek.com/kamala-harris-polling-robert-f-kennedy-jr-1943377">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez9eo2/kamala_harris_has_eight_point_lead_over_trump_in/">[comments]</a></span> </td></tr></table>
+
+## Fox Cuts Off Ranting Trump Then Mocks: ‘He’s Still Talking!’
+ - [https://www.reddit.com/r/politics/comments/1ez8m4j/fox_cuts_off_ranting_trump_then_mocks_hes_still](https://www.reddit.com/r/politics/comments/1ez8m4j/fox_cuts_off_ranting_trump_then_mocks_hes_still)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T09:43:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez8m4j/fox_cuts_off_ranting_trump_then_mocks_hes_still/"> <img alt="Fox Cuts Off Ranting Trump Then Mocks: ‘He’s Still Talking!’" src="https://external-preview.redd.it/KLGIp9mkSn-S1VHdSWXmMvr9E3xIqswUmTWW9yNczbA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa5cc21853f66bb52054029e1224cced0c78debc" title="Fox Cuts Off Ranting Trump Then Mocks: ‘He’s Still Talking!’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrDonMega"> /u/MrDonMega </a> <br /> <span><a href="https://www.thedailybeast.com/fox-cuts-off-ranting-trump-then-mocks-hes-still-talking">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez8m4j/fox_cuts_off_ranting_trump_then_mocks_hes_still/">[comments]</a></span> </td></tr></table>
+
+## Ann Coulter deletes post mocking Tim Walz’s son after onslaught of criticism
+ - [https://www.reddit.com/r/politics/comments/1ez7643/ann_coulter_deletes_post_mocking_tim_walzs_son](https://www.reddit.com/r/politics/comments/1ez7643/ann_coulter_deletes_post_mocking_tim_walzs_son)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T08:01:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez7643/ann_coulter_deletes_post_mocking_tim_walzs_son/"> <img alt="Ann Coulter deletes post mocking Tim Walz’s son after onslaught of criticism" src="https://external-preview.redd.it/H3-7uVaMmWQwyQ0VaT6kldIznOkEU3dfdDZhyMI7Fe4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ec143786982e981141a9fe1819ea2a136f50123" title="Ann Coulter deletes post mocking Tim Walz’s son after onslaught of criticism" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent-Resort-3076"> /u/Silent-Resort-3076 </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/ann-coulter-tim-walz-dnc-b2600492.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez7643/ann_coulter_deletes_post_mocking_tim_walzs_son/">[comments]</a></span> </td></tr></table>
+
+## Jon Stewart: Even Fox News Had to Admit DNC a Massive Hit
+ - [https://www.reddit.com/r/politics/comments/1ez4p2i/jon_stewart_even_fox_news_had_to_admit_dnc_a](https://www.reddit.com/r/politics/comments/1ez4p2i/jon_stewart_even_fox_news_had_to_admit_dnc_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T05:15:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez4p2i/jon_stewart_even_fox_news_had_to_admit_dnc_a/"> <img alt="Jon Stewart: Even Fox News Had to Admit DNC a Massive Hit" src="https://external-preview.redd.it/6B9iigQOvncuSseOXRUHLzR8W1qBI8YWvuLuZ3RN23o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=813a2ae26fb6ef3d4f5ec2408d8b92cbe80ca5a0" title="Jon Stewart: Even Fox News Had to Admit DNC a Massive Hit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bluerose297"> /u/bluerose297 </a> <br /> <span><a href="https://www.thedailybeast.com/jon-stewart-even-fox-news-had-to-admit-dnc-a-massive-hit?ref=wrap">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez4p2i/jon_stewart_even_fox_news_had_to_admit_dnc_a/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Gave the Best Acceptance Speech I've Ever Seen
+ - [https://www.reddit.com/r/politics/comments/1ez43gb/kamala_harris_gave_the_best_acceptance_speech_ive](https://www.reddit.com/r/politics/comments/1ez43gb/kamala_harris_gave_the_best_acceptance_speech_ive)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T04:39:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez43gb/kamala_harris_gave_the_best_acceptance_speech_ive/"> <img alt="Kamala Harris Gave the Best Acceptance Speech I've Ever Seen" src="https://external-preview.redd.it/6QdSTYpr_PBxW03K7qkIKOIklJB-6k1_C8QziTl2Uhc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46b23402919f511c1ce65ca3b4ff405c7a1e2226" title="Kamala Harris Gave the Best Acceptance Speech I've Ever Seen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sultanpeppah"> /u/sultanpeppah </a> <br /> <span><a href="https://nymag.com/intelligencer/article/kamala-harris-dnc-acceptance-speech.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez43gb/kamala_harris_gave_the_best_acceptance_speech_ive/">[comments]</a></span> </td></tr></table>
+
+## MSNBC Accidentally Airs 'JD Vance F--ks Couches' Message During DNC Coverage
+ - [https://www.reddit.com/r/politics/comments/1ez3ihn/msnbc_accidentally_airs_jd_vance_fks_couches](https://www.reddit.com/r/politics/comments/1ez3ihn/msnbc_accidentally_airs_jd_vance_fks_couches)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T04:05:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez3ihn/msnbc_accidentally_airs_jd_vance_fks_couches/"> <img alt="MSNBC Accidentally Airs 'JD Vance F--ks Couches' Message During DNC Coverage" src="https://external-preview.redd.it/-O_wD4xpGBbWSHFOReHWwKdIfdYBJH8fpEbBbte0WpY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c1ce9e7b395bce1827e7f18e658d6e3acefa0a2" title="MSNBC Accidentally Airs 'JD Vance F--ks Couches' Message During DNC Coverage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InternotOkay"> /u/InternotOkay </a> <br /> <span><a href="https://www.ibtimes.com/msnbc-accidentally-airs-jd-vance-fucks-couches-message-during-dnc-coverage-3740498">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez3ihn/msnbc_accidentally_airs_jd_vance_fks_couches/">[comments]</a></span> </td></tr></table>
+
+## DNC Ratings Blow RNC Out of the Water for Third Night in a Row
+ - [https://www.reddit.com/r/politics/comments/1ez3hov/dnc_ratings_blow_rnc_out_of_the_water_for_third](https://www.reddit.com/r/politics/comments/1ez3hov/dnc_ratings_blow_rnc_out_of_the_water_for_third)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T04:04:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez3hov/dnc_ratings_blow_rnc_out_of_the_water_for_third/"> <img alt="DNC Ratings Blow RNC Out of the Water for Third Night in a Row" src="https://external-preview.redd.it/HxwrSEM9mLWIaZy2WQsOQXTr-cMLjlVLcsBeOX6_OYs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0ca20382107d1746279abad06e2beb7fa885990" title="DNC Ratings Blow RNC Out of the Water for Third Night in a Row" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RuncibleSpork"> /u/RuncibleSpork </a> <br /> <span><a href="https://www.thedailybeast.com/dnc-ratings-blow-rnc-out-of-the-water-for-third-night-in-a-row">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez3hov/dnc_ratings_blow_rnc_out_of_the_water_for_third/">[comments]</a></span> </td></tr></table>
+
+## Michelle Obama praises Gus Walz for ‘showing us all what real love looks like’
+ - [https://www.reddit.com/r/politics/comments/1ez3agp/michelle_obama_praises_gus_walz_for_showing_us](https://www.reddit.com/r/politics/comments/1ez3agp/michelle_obama_praises_gus_walz_for_showing_us)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T03:54:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez3agp/michelle_obama_praises_gus_walz_for_showing_us/"> <img alt="Michelle Obama praises Gus Walz for ‘showing us all what real love looks like’" src="https://external-preview.redd.it/7ThEqBUp_iqWdvzBvId3bA51vpzR8On1z6o2gt_K7fY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53df6a4ebc21ac6729ffe7210276825d40c1c7a3" title="Michelle Obama praises Gus Walz for ‘showing us all what real love looks like’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SurvivorFan79"> /u/SurvivorFan79 </a> <br /> <span><a href="https://thehill.com/elections/4843401-michelle-obama-praises-gus-walz/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez3agp/michelle_obama_praises_gus_walz_for_showing_us/">[comments]</a></span> </td></tr></table>
+
+## Harris: Building the middle class ‘will be a defining goal of my presidency’
+ - [https://www.reddit.com/r/politics/comments/1ez306z/harris_building_the_middle_class_will_be_a](https://www.reddit.com/r/politics/comments/1ez306z/harris_building_the_middle_class_will_be_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T03:38:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez306z/harris_building_the_middle_class_will_be_a/"> <img alt="Harris: Building the middle class ‘will be a defining goal of my presidency’" src="https://external-preview.redd.it/-gs4BHecJ06ETLTQbc_dEuk1AYI-V2-4mVDh-XUzxSE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4da1a3210c7f5e7b9444360038d07c8b07e6e8c9" title="Harris: Building the middle class ‘will be a defining goal of my presidency’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Visual-Explorer-111"> /u/Visual-Explorer-111 </a> <br /> <span><a href="https://www.msnbc.com/msnbc/watch/harris-vows-strengthening-middle-class-will-be-crucial-element-of-her-presidency-217816133969">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez306z/harris_building_the_middle_class_will_be_a/">[comments]</a></span> </td></tr></table>
+
+## Kinzinger bashes Trump: ‘Suffocated the soul of the Republican Party’
+ - [https://www.reddit.com/r/politics/comments/1ez2f26/kinzinger_bashes_trump_suffocated_the_soul_of_the](https://www.reddit.com/r/politics/comments/1ez2f26/kinzinger_bashes_trump_suffocated_the_soul_of_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T03:07:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez2f26/kinzinger_bashes_trump_suffocated_the_soul_of_the/"> <img alt="Kinzinger bashes Trump: ‘Suffocated the soul of the Republican Party’" src="https://external-preview.redd.it/YFyEd_yrRYAFHN8G54z1RV55G98iGZSNSwEvidhE-q0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26d3aa292e80e07093a71fe2bad1757bbc3a7b3e" title="Kinzinger bashes Trump: ‘Suffocated the soul of the Republican Party’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/don_caveuto"> /u/don_caveuto </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4843342-adam-kinzinger-trump-dnc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez2f26/kinzinger_bashes_trump_suffocated_the_soul_of_the/">[comments]</a></span> </td></tr></table>
+
+## Megathread: Vice President Harris Accepts the 2024 Democratic Nomination for President
+ - [https://www.reddit.com/r/politics/comments/1ez1xkp/megathread_vice_president_harris_accepts_the_2024](https://www.reddit.com/r/politics/comments/1ez1xkp/megathread_vice_president_harris_accepts_the_2024)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T02:43:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Tonight, during <a href="https://www.reddit.com/r/politics/comments/1eyke1l/discussion_thread_democratic_national_convention/">the fourth and final night of the Democratic National Convention</a>, VP Harris formally accepted the Democratic Party's nomination for US president. This comes just a month after President Biden, the previous presumptive nominee, dropped out of the race and threw his support behind Harris, <a href="https://apnews.com/article/harris-biden-democratic-convention-2fb8b1bc88b99e919872e63efdd8c275">rallying the rest of the party behind her</a> such that over 99% of committed delegates heading into the convention were pledged to Harris.</p> <hr /> <h1>Articles that May Interest You</h1> <table><thead> <tr> <th>SUBMISSION</th> <th>DOMAIN</th> </tr> </thead><tbody> <tr> <td>apnews.com</td> <td><a href="https://apnews.com/live/updates-democratic-national-convention-harris-walz">DNC live updates: Kamala Harris, greeted by a standing ova
+
+## Republican former Rep. Adam Kinzinger at DNC: GOP is "no longer conservative"
+ - [https://www.reddit.com/r/politics/comments/1ez1i25/republican_former_rep_adam_kinzinger_at_dnc_gop](https://www.reddit.com/r/politics/comments/1ez1i25/republican_former_rep_adam_kinzinger_at_dnc_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T02:21:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez1i25/republican_former_rep_adam_kinzinger_at_dnc_gop/"> <img alt="Republican former Rep. Adam Kinzinger at DNC: GOP is &quot;no longer conservative&quot;" src="https://external-preview.redd.it/TpCACUahU9cKI5FSzjhD4XQ5PTCsOsUs500-Yznb38o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b49010c1e830a0ea35fc3a75dff8cf7c0be9ac01" title="Republican former Rep. Adam Kinzinger at DNC: GOP is &quot;no longer conservative&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lala_b11"> /u/lala_b11 </a> <br /> <span><a href="https://www.axios.com/2024/08/23/adam-kinzinger-dnc-speech-harris-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez1i25/republican_former_rep_adam_kinzinger_at_dnc_gop/">[comments]</a></span> </td></tr></table>
+
+## Republican ex-Rep. Adam Kinzinger: Trump 'suffocated the soul of' the GOP
+ - [https://www.reddit.com/r/politics/comments/1ez1hln/republican_exrep_adam_kinzinger_trump_suffocated](https://www.reddit.com/r/politics/comments/1ez1hln/republican_exrep_adam_kinzinger_trump_suffocated)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T02:21:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez1hln/republican_exrep_adam_kinzinger_trump_suffocated/"> <img alt="Republican ex-Rep. Adam Kinzinger: Trump 'suffocated the soul of' the GOP" src="https://external-preview.redd.it/wV71xdiqMXhQ01qWnYcrNIiq9pB0d7HQ35ZsjTEEY7w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b93f1e031b544e8bb296edd4ddb47a2405186ea9" title="Republican ex-Rep. Adam Kinzinger: Trump 'suffocated the soul of' the GOP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/schuey_08"> /u/schuey_08 </a> <br /> <span><a href="https://www.cnbc.com/amp/2024/08/22/adam-kinzinger-republican-trump-harris-dnc.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez1hln/republican_exrep_adam_kinzinger_trump_suffocated/">[comments]</a></span> </td></tr></table>
+
+## JD Vance, Running Mate of Guy Who’s Literally Claimed America Will Cease to Exist If He Loses, Accuses Democrats of “Dark and Ominous Tone”
+ - [https://www.reddit.com/r/politics/comments/1ez19sh/jd_vance_running_mate_of_guy_whos_literally](https://www.reddit.com/r/politics/comments/1ez19sh/jd_vance_running_mate_of_guy_whos_literally)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T02:10:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez19sh/jd_vance_running_mate_of_guy_whos_literally/"> <img alt="JD Vance, Running Mate of Guy Who’s Literally Claimed America Will Cease to Exist If He Loses, Accuses Democrats of “Dark and Ominous Tone”" src="https://external-preview.redd.it/csW7UY8RRpW6CylhnCqA0AcztvTYvxaKUCiW2XWjEHE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb605ca7ee84b64fe633d17b8102402d69532df1" title="JD Vance, Running Mate of Guy Who’s Literally Claimed America Will Cease to Exist If He Loses, Accuses Democrats of “Dark and Ominous Tone”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Real-Work-1953"> /u/Real-Work-1953 </a> <br /> <span><a href="https://www.vanityfair.com/news/story/jd-vance-accuses-democrats-of-dark-and-ominous-tone">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez19sh/jd_vance_running_mate_of_guy_whos_literally/">[comments]</a></span> </td></tr></
+
+## 'Wouldn't trust them to move my couch': Sen. Elizabeth Warren delivers spirited DNC speech
+ - [https://www.reddit.com/r/politics/comments/1ez0ypf/wouldnt_trust_them_to_move_my_couch_sen_elizabeth](https://www.reddit.com/r/politics/comments/1ez0ypf/wouldnt_trust_them_to_move_my_couch_sen_elizabeth)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T01:55:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez0ypf/wouldnt_trust_them_to_move_my_couch_sen_elizabeth/"> <img alt="'Wouldn't trust them to move my couch': Sen. Elizabeth Warren delivers spirited DNC speech" src="https://external-preview.redd.it/rJAAVu7TpVz5PgKSWnBLrFZY_KB-kp-sf5R6ySrfrqE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b507163a4579a1400c9052aae438572989a9ca43" title="'Wouldn't trust them to move my couch': Sen. Elizabeth Warren delivers spirited DNC speech" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Streona"> /u/Streona </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/08/22/elizabeth-warren-dnc-speech-video/74905787007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez0ypf/wouldnt_trust_them_to_move_my_couch_sen_elizabeth/">[comments]</a></span> </td></tr></table>
+
+## Donut Shop Worker Refuses to Be on Camera with JD Vance During Campaign Stop
+ - [https://www.reddit.com/r/politics/comments/1ez0u40/donut_shop_worker_refuses_to_be_on_camera_with_jd](https://www.reddit.com/r/politics/comments/1ez0u40/donut_shop_worker_refuses_to_be_on_camera_with_jd)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T01:49:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez0u40/donut_shop_worker_refuses_to_be_on_camera_with_jd/"> <img alt="Donut Shop Worker Refuses to Be on Camera with JD Vance During Campaign Stop" src="https://external-preview.redd.it/Vta6I85cy5eg22TcQ6v3yaOAbzf7zlg4oBhebrau8oA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=315f535bdb641dab6ea598f04f463b0de1e97846" title="Donut Shop Worker Refuses to Be on Camera with JD Vance During Campaign Stop" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InternotOkay"> /u/InternotOkay </a> <br /> <span><a href="https://www.ibtimes.com/jd-vance-georgia-donut-shop-visit-3740492">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez0u40/donut_shop_worker_refuses_to_be_on_camera_with_jd/">[comments]</a></span> </td></tr></table>
+
+## Sen. Raphael Warnock: 'Our party, our convention and our ticket looks like America'
+ - [https://www.reddit.com/r/politics/comments/1ez0gjr/sen_raphael_warnock_our_party_our_convention_and](https://www.reddit.com/r/politics/comments/1ez0gjr/sen_raphael_warnock_our_party_our_convention_and)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T01:30:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez0gjr/sen_raphael_warnock_our_party_our_convention_and/"> <img alt="Sen. Raphael Warnock: 'Our party, our convention and our ticket looks like America'" src="https://external-preview.redd.it/THN_XEAGrU8LK0J_Tg4e0XSuPzlwdRMuuAjiQTMFC_Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c89e49971249ee0c8ae7639e7578bdbecd7470a4" title="Sen. Raphael Warnock: 'Our party, our convention and our ticket looks like America'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.msnbc.com/the-beat-with-ari/watch/sen-raphael-warnock-our-party-our-convention-and-our-ticket-looks-like-america-217796677768">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez0gjr/sen_raphael_warnock_our_party_our_convention_and/">[comments]</a></span> </td></tr></table>
+
+## Exonerated Five on Trump: ‘He has never changed and he never will’
+ - [https://www.reddit.com/r/politics/comments/1ez01e8/exonerated_five_on_trump_he_has_never_changed_and](https://www.reddit.com/r/politics/comments/1ez01e8/exonerated_five_on_trump_he_has_never_changed_and)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T01:09:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ez01e8/exonerated_five_on_trump_he_has_never_changed_and/"> <img alt="Exonerated Five on Trump: ‘He has never changed and he never will’" src="https://external-preview.redd.it/a5ntNoFhnQRzUuunmqKcAufIuRZaZXObAY6KXTV1JFY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2b09653f4babb94f7cbbc5becb6d7b06459aaf2" title="Exonerated Five on Trump: ‘He has never changed and he never will’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br /> <span><a href="https://www.nbcnews.com/now/video/members-of-the-exonerated-five-speak-on-trump-s-comments-on-case-217803845625">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ez01e8/exonerated_five_on_trump_he_has_never_changed_and/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump’s Stock Is Sinking
+ - [https://www.reddit.com/r/politics/comments/1eyzd9p/donald_trumps_stock_is_sinking](https://www.reddit.com/r/politics/comments/1eyzd9p/donald_trumps_stock_is_sinking)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T00:38:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1eyzd9p/donald_trumps_stock_is_sinking/"> <img alt="Donald Trump’s Stock Is Sinking" src="https://external-preview.redd.it/TSy256_ocgGT227waVzlHjkRL0GDjJWEUvj8-3XIVac.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad96da22af1c134885afdca86ad4ec875da67853" title="Donald Trump’s Stock Is Sinking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snappydo99"> /u/snappydo99 </a> <br /> <span><a href="https://www.theatlantic.com/newsletters/archive/2024/08/donald-trumps-stock-is-sinking/679587/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1eyzd9p/donald_trumps_stock_is_sinking/">[comments]</a></span> </td></tr></table>
+
+## Beyonce will perform at final night of DNC in support of Kamala Harris, report says
+ - [https://www.reddit.com/r/politics/comments/1eyz0u5/beyonce_will_perform_at_final_night_of_dnc_in](https://www.reddit.com/r/politics/comments/1eyz0u5/beyonce_will_perform_at_final_night_of_dnc_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-23T00:21:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1eyz0u5/beyonce_will_perform_at_final_night_of_dnc_in/"> <img alt="Beyonce will perform at final night of DNC in support of Kamala Harris, report says" src="https://external-preview.redd.it/1jsumNrtJfZnkCnIJhrZsB5tPf_1j4PZn8RY-y_yJd8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b711041541470f25ba6558e8aa933cb2b3440128" title="Beyonce will perform at final night of DNC in support of Kamala Harris, report says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/moderatenerd"> /u/moderatenerd </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/beyonce-dnc-surprise-guest-performance-harris-b2600598.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1eyz0u5/beyonce_will_perform_at_final_night_of_dnc_in/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,148 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Ubisoft is resurrecting Heroes of Might & Magic for the series' 30th anniversary
+ - [https://www.eurogamer.net/ubisoft-is-resurrecting-heroes-of-might-magic-for-the-series-30th-anniversary](https://www.eurogamer.net/ubisoft-is-resurrecting-heroes-of-might-magic-for-the-series-30th-anniversary)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T19:15:34+00:00
+
+<img src="https://assetsio.gnwcdn.com/heroes-of-might-and-magic-olden-era.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Heroes of Might &amp; Magic, Ubisoft's long-running turn-based strategy series, is returning for an eighth mainline instalment in 2025, just in time to celebrate the series' 30th anniversary.
+</p><p>
+Heroes of Might &amp; Magic: Olden Era - which will be the first new core series entry in nearly a decade - serves as a prequel to the entire fantasy saga, exploring its origins across a non-linear campaign as players journey to Jadame, a "mysterious continent in turmoil" that's been mentioned but never explored in previous games.
+</p><p>
+"Traverse a vibrant and living fantasy world full of wonders and dangers," teases Olden Era's announcement, "build magnificent castles, raise
+massive armies and clash in epic and highly tactical battles of heroes and mythical creatures."
+</p> <p><a href="https://www.eurogamer.net/ubiso
+
+## It looks like 2007's surprisingly alright The Sims spin-off MySims is heading to Switch
+ - [https://www.eurogamer.net/it-looks-like-2007s-surprisingly-alright-the-sims-spin-off-mysims-is-heading-to-switch](https://www.eurogamer.net/it-looks-like-2007s-surprisingly-alright-the-sims-spin-off-mysims-is-heading-to-switch)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T16:30:08+00:00
+
+<img src="https://assetsio.gnwcdn.com/mysims-art.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+MySims, the unexpectedly decent <a href="https://www.eurogamer.net/video-game-franchises/the-sims">The Sims</a> spin-off that first hit Nintendo platforms back in 2007, is reportedly heading to Switch "soon".
+</p><p>
+MySims, in case you're unfamiliar (which would be perfectly understandable given that it's now a frankly upsetting 17 years old), initially released on Nintendo Wii and DS. Developed by Dead Space studio EA Redwood Shores, it presented players with a vaguely Animal Crossing-like take on The Sims which successfully managed to be about as far removed from the actual Sims as you could possibly get without entirely changing genres.
+</p><p>
+It tasked players with redeveloping a run-down town, attracting new residents, building them homes, and then furnishing them using items crafted from blueprints, in turn gained from helping resid
+
+## Your Mii is your ticket to get into the Nintendo Museum
+ - [https://www.eurogamer.net/your-mii-is-your-ticket-to-get-into-the-nintendo-museum](https://www.eurogamer.net/your-mii-is-your-ticket-to-get-into-the-nintendo-museum)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T16:27:39+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2024-08-23-at-16.56.09-copy.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Those lucky enough to secure a ticket to visit Nintendo's museum are in for a bonus treat: all eligible tickets will include a portrait of their Mii character.</p><p>As anyone accepting a museum ticket must have a Nintendo account in order to accept and use it, Nintendo is automagically customising tickets with each account holder's Mii.</p><p>"If tickets are assigned, upon entry to the museum, each visitor will receive a play ticket with the Mii character set to their Nintendo Account printed on it," Nintendo <a href="https://museum.nintendo.com/en/guide/visit-flow/index.html">explains</a>, although it does stress that you'll need to set up your ticket in advance on the ticketing website first.</p> <p><a href="https://www.eurogamer.net/your-mii-is-your-ticket-to-get-into-the-nintendo-museum">Read more</a></p>
+
+## Diablo 4's March of the Goblins event is back
+ - [https://www.eurogamer.net/diablo-4s-march-of-the-goblins-event-is-back](https://www.eurogamer.net/diablo-4s-march-of-the-goblins-event-is-back)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T15:53:45+00:00
+
+<img src="https://assetsio.gnwcdn.com/d4_s5_homepage_thumb.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/games/diablo-iv">Diablo 4</a>'s March of the Goblins event is making a return next week.</p><p>Blizzard hosted a <a href="https://www.eurogamer.net/diablo-4-celebrates-its-first-anniversary-by-giving-you-a-goblins-heap-of-free-gifts">March of the Goblins event</a> across both Diablo 4 and <a href="https://www.eurogamer.net/games/diablo-immortal">Diablo Immortal</a> in June as a thank you "for being part of the Diablo community through another year of fighting back the demonic forces of Hell". And it seems the event was so successful Blizzard is bringing it back again.</p><p>From 27th August to 3rd September, you'll be able to seek out "hordes of these treasure hoarders to pilfer their loot bags for increased gold and coveted drops".</p> <p><a href="https://www.eurogamer.net/diablo-4s-march-of-the
+
+## Blasphemous studio unveils Goya-inspired stealth-tactics adventure The Stone of Madness
+ - [https://www.eurogamer.net/blasphemous-studio-unveils-goya-inspired-stealth-tactics-adventure-the-stone-of-madness](https://www.eurogamer.net/blasphemous-studio-unveils-goya-inspired-stealth-tactics-adventure-the-stone-of-madness)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T15:33:14+00:00
+
+<img src="https://assetsio.gnwcdn.com/the-stone-of-madness_AJWFBvK.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+It was looking a bit touch-and-go for real-time stealth-tactics fans after developer Mimimi Games <a href="https://www.eurogamer.net/shadow-gambit-the-cursed-crew-developer-announces-final-ever-release">shut up shop</a> following last year's <a href="https://www.eurogamer.net/shadow-gambit-the-cursed-crew-review-old-school-stealth-gets-a-rip-roaring-pirate-upgrade">superb Shadow Gambit</a>. But thankfully it seems there's more than a little life left in the genre, what with the imminent arrival of the <a href="https://www.eurogamer.net/sumerian-sixs-pulpy-stealth-tactics-almost-manages-to-fill-that-mimimi-shaped-hole">promising Sumerian Six</a> and now this: a new Goya-inspired stealth-tactics adventure from The Game Kitchen, the studio behind the wonderfully moody <a href="https://www.eurogamer.net/games/blasphemous">Blas
+
+## Avowed currently targeting baseline of 30fps on Xbox consoles to make way for "juicier" VFX
+ - [https://www.eurogamer.net/avowed-currently-targeting-baseline-of-30fps-on-xbox-consoles-to-make-way-for-juicier-vfx](https://www.eurogamer.net/avowed-currently-targeting-baseline-of-30fps-on-xbox-consoles-to-make-way-for-juicier-vfx)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T15:31:55+00:00
+
+<img src="https://assetsio.gnwcdn.com/Avowed-header_rJMLGAl.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Obsidian is targeting 30fps on Xbox consoles for its fantasy RPG, Avowed.</p><p>In conversation with the <a href="https://www.youtube.com/watch?v=AxBL4jTHs5w">Iron Lords podcast</a>, Obsidian art director Matt Hansen said the studio is "core targeting 30 frames per second, bare minimum" for the upcoming release, adding since "it's a first-person, single-player game, you don't necessarily need that 60 frames".</p><p>Explaining further, Hansen said this will allow the Avowed team to "get a lot juicier with VFX and lighting and all this other stuff".</p> <p><a href="https://www.eurogamer.net/avowed-currently-targeting-baseline-of-30fps-on-xbox-consoles-to-make-way-for-juicier-vfx">Read more</a></p>
+
+## Black Myth: Wukong continues its dominance with new milestone
+ - [https://www.eurogamer.net/black-myth-wukong-continues-its-dominance-with-new-milestone](https://www.eurogamer.net/black-myth-wukong-continues-its-dominance-with-new-milestone)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T15:18:24+00:00
+
+<img src="https://assetsio.gnwcdn.com/black-myth-wukong-review-header.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/games/black-myth-wukong">Black Myth: Wukong</a> has sold 10,000,000 copies across all platforms since it released on PC and PS5 just three days ago (20th August).</p><p>As we reported yesterday, <a href="https://www.eurogamer.net/black-myth-wukong-continues-to-attract-record-breaking-numbers-of-players">Black Myth: Wukong continues to attract record-breaking numbers of players</a>, establishing itself as the most-viewed game on Chinese livestreaming platforms on its first day of release.</p><p>This additional 10m milestone now cements Black Myth: Wukong as one of the most successful video game launches of all time.</p> <p><a href="https://www.eurogamer.net/black-myth-wukong-continues-its-dominance-with-new-milestone">Read more</a></p>
+
+## World of Warcraft boss: "I think we should have listened more to the player base"
+ - [https://www.eurogamer.net/world-of-warcraft-boss-i-think-we-should-have-listened-more-to-the-player-base](https://www.eurogamer.net/world-of-warcraft-boss-i-think-we-should-have-listened-more-to-the-player-base)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T14:53:28+00:00
+
+<img src="https://assetsio.gnwcdn.com/WoW_The_War_Within_Anduin_FCs0TH2.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/games/world-of-warcraft">World of Warcraft</a> boss Holly Longdale says Blizzard has learned from its controversial Shadowlands launch, acknowledging the expansion "wasn't enough" and "wasn't the right stuff", admitting the team should have "listened more" to its community.</p><p>Talking to <a href="https://www.pcgamer.com/games/world-of-warcraft/warcraft-vp-on-what-blizzard-should-have-done-differently-over-the-game-s-20-years-we-should-have-listened-more/">PC Gamer</a>, Longdale reflected back over World of Warcraft's storied 20 years, partly as a player, and "as a very humble and lucky leader on this team".</p><p>"I think we should have listened more to the player base," Longdale said. "I think quite often in earlier times, game design wasn't even a job, really," she said. "It was 
+
+## Steam update lets patrons know if a game review has been played "primarily" on Steam Deck
+ - [https://www.eurogamer.net/steam-update-lets-patrons-know-if-a-game-review-has-been-played-primarily-on-steam-deck](https://www.eurogamer.net/steam-update-lets-patrons-know-if-a-game-review-has-been-played-primarily-on-steam-deck)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T14:40:36+00:00
+
+<img src="https://assetsio.gnwcdn.com/image-(266).png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>There is a new update on Steam which informs other players if a review left on a game's page was primarily played on Valve's handheld Steam Deck.</p><p>The news was shared via the Steam Deck's social media team on <a href="https://x.com/OnDeck/status/1826673475119186082/photo/1">X</a>, with the straight to the point wording: "We've just shipped a new feature on Steam that shows when a customer review was written by someone who played primarily on Steam Deck."</p><p>Valve asks that patrons look out for the Deck icon, to "see how these players reviewed the game". It shared an example of how this icon looks on a review, with a little Deck outline displayed in the upper right corner of the screen.</p> <p><a href="https://www.eurogamer.net/steam-update-lets-patrons-know-if-a-game-review-has-been-played-primarily-on-steam-deck">Read more</a></p>
+
+## Mario and Pikachu will be taking over the middle aisles of Aldis everywhere this weekend
+ - [https://www.eurogamer.net/mario-and-pikachu-will-be-taking-over-the-middle-aisles-of-aldis-everywhere-this-weekend](https://www.eurogamer.net/mario-and-pikachu-will-be-taking-over-the-middle-aisles-of-aldis-everywhere-this-weekend)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T13:47:04+00:00
+
+<img src="https://assetsio.gnwcdn.com/maxresdefault-(1)_1aojd5N.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Good news, Nintendo fans - Super Mario and Pok&eacute;mon products will be popping up in the middle aisles of Aldis everywhere this weekend.</p><p>Whilst some Teenage Mutant Ninja/Hero Turtles, Paddington Bear, and Hello Kitty stuff crept into Aldi earlier this week, from Saturday 24th August middle aisles will boast a <a href="https://www.aldi.co.uk/c/specialbuys">selection of cut-price game-flavoured treats</a>, including duvet sets, throws, and cushions.</p><p></p> <p><a href="https://www.eurogamer.net/mario-and-pikachu-will-be-taking-over-the-middle-aisles-of-aldis-everywhere-this-weekend">Read more</a></p>
+
+## Upcoming dress up adventure from Legend of Zelda dev has over 12 million pre-registrations
+ - [https://www.eurogamer.net/upcoming-dress-up-adventure-from-legend-of-zelda-dev-has-over-12-million-pre-registrations](https://www.eurogamer.net/upcoming-dress-up-adventure-from-legend-of-zelda-dev-has-over-12-million-pre-registrations)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T13:34:29+00:00
+
+<img src="https://assetsio.gnwcdn.com/Infinity-Nikki_YP2H87k.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>It looks like people are quite keen to get their hands on the next instalment in the Nikki series.</p><p>As shared on social media platform X, over 12 million of us have already pre-registered for Infinity Nikki, the "cosy open-world adventure" follow-up to the highly successful mobile series of dress up games.</p><p>Infinity Nikki is helmed by PaperGames with Kentaro Tominaga - whose name you may recognise from his days at Nintendo - <a href="https://kotaku.com/love-nikki-infinity-nintendo-breath-of-the-wild-pc-ps5-1849836269">leading the project</a>. Tominaga's other credits include  designer on <a href="https://www.eurogamer.net/zelda-breath-of-the-wild-walkthrough-guide-tips-4857">The Legend of Zelda: Breath of the Wild</a> and director of its Expansion Pass, to name but two.</p> <p><a href="https://www.eurogamer.net/upcoming
+
+## Amazon's Tomb Raider "huge, huge task", but things are "going well"
+ - [https://www.eurogamer.net/amazons-tomb-raider-huge-huge-task-but-things-are-going-well](https://www.eurogamer.net/amazons-tomb-raider-huge-huge-task-but-things-are-going-well)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T12:35:05+00:00
+
+<img src="https://assetsio.gnwcdn.com/Lara-Croft-Shadow-of-the-Tomb-Raoder.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Development on the upcoming Tomb Raider game from Crystal Dynamics and Amazon is "going well".</p><p>Amazon announced it would be <a href="https://www.eurogamer.net/amazon-games-working-with-crystal-dynamics-on-next-tomb-raider">working alongside Crystal Dynamics on the next Tomb Raider game</a> back in 2022, when it said it would provide its "full support" to the team as it works on "the biggest, most expansive" series entry to date.</p><p>Since then, details have been pretty sparse for the upcoming release. In fact, all we really know right now is that it is <a href="https://www.eurogamer.net/crystal-dynamics-announces-next-tomb-raider-game-made-in-unreal-engine-5">being made in Unreal Engine 5</a> and will have "mind-bending puzzles to solve" and a "wide variety of enemies to face and overcome".</p> <p><a href="h
+
+## Gearbox is bringing Borderlands 4 to Steam as Pitchford admits hopes for Epic were "misplaced"
+ - [https://www.eurogamer.net/gearbox-is-bringing-borderlands-4-to-steam-as-pitchford-admits-hopes-for-epic-were-misplaced](https://www.eurogamer.net/gearbox-is-bringing-borderlands-4-to-steam-as-pitchford-admits-hopes-for-epic-were-misplaced)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T11:10:24+00:00
+
+<img src="https://assetsio.gnwcdn.com/Borderlands-4-header.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Gearbox founder Randy Pitchford has admitted his long-term hopes for Epic were "misplaced or overly optimistic", having previously predicted Steam could become a "dying store".</p><p>For a bit of context, back in <a href="https://x.com/DuvalMagic/status/1117073428945653765">2019</a>, Pitchford wrote a lengthy post on social media discussing Gearbox's decision to make <a href="https://www.eurogamer.net/borderlands-3-pc-is-an-epic-games-store-exclusive-until-april-2020">Borderlands 3 on PC a timed Epic exclusive</a>. At this time, the exec <a href="https://x.com/DuvalMagic/status/1117077275680264193">said</a> he believed Epic's "investment in technology will outpace Valve's substantially", and went on to suggest Steam could fizzle out and other store fronts would reign supreme.</p><p>Fast forward now to earlier this week, when <a hre
+
+## PSA: Star Wars Outlaws has been livestreamed, and spoilers are popping up everywhere
+ - [https://www.eurogamer.net/psa-star-wars-outlaws-has-been-livestreamed-and-spoilers-are-popping-up-everywhere](https://www.eurogamer.net/psa-star-wars-outlaws-has-been-livestreamed-and-spoilers-are-popping-up-everywhere)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T10:18:35+00:00
+
+<img src="https://assetsio.gnwcdn.com/starwarsoutlaws_keyart.jpeg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Brace yourself, Star Wars fans &ndash; early copies of <a href="https://www.eurogamer.net/star-wars-outlaws-release-date-early-access">Star Wars Outlaws</a> are already out there, and some players have elected to livestream the game.</p><p>This means spoilers will likely follow, so if you'd like to keep the surprises hidden, it may be prudent to update your mute list and/or stay off social media for a few days.</p><p></p> <p><a href="https://www.eurogamer.net/psa-star-wars-outlaws-has-been-livestreamed-and-spoilers-are-popping-up-everywhere">Read more</a></p>
+
+## Tactical Breach Wizards review - whip-smart design with a generous spirit
+ - [https://www.eurogamer.net/tactical-breach-wizards-review](https://www.eurogamer.net/tactical-breach-wizards-review)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T10:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/tactical-breach-wizards-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Suspicious Developments' latest builds a witty, wonderfully generous adventure around a smart, rewarding, and endlessly imaginative turn-based tactics core.</p><p>Tactical Breach Wizards starts with a bang - literally. Each mission, and even the game itself, begins with a flash of magic and the splintering of wood as doors are blown off their hinges with an endlessly satisfying <em>boom</em>. It's a stylish opener that never loses its air-punch thrill, a wonderfully cool moment in a game brimming with them - and just one of the things that makes Suspicious Developments' turn-based tactics game positively crackle with wit, energy, and charm.</p><p>We should probably start with the wizards though. Welcome to a world where magic-wielders are, if not exactly commonplace, far from clandestine. It's a world where Freelance Storm 
+
+## What we've been playing - old brands revitalised, ageing classics, and cursed character creators
+ - [https://www.eurogamer.net/what-weve-been-playing-old-brands-revitalised-ageing-classics-and-cursed-character-creators](https://www.eurogamer.net/what-weve-been-playing-old-brands-revitalised-ageing-classics-and-cursed-character-creators)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T09:47:59+00:00
+
+<img src="https://assetsio.gnwcdn.com/Inzoi-character-creator-Shrek.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Hello! Welcome back to our regular feature where we write a little bit about some of the games we've been playing over the past few days. This week, we enjoy Delta Force coming back in a big way; we try out the new character creator for pretty Sims-like Inzoi; and we wince a bit as Skyrim shows its age.</p><p>What have you been playing?</p><p>Catch up with the older editions of this column in our <a href="https://www.eurogamer.net/topics/what-weve-been-playing">What We've Been Playing archive</a>.</p> <p><a href="https://www.eurogamer.net/what-weve-been-playing-old-brands-revitalised-ageing-classics-and-cursed-character-creators">Read more</a></p>
+
+## Amazon's "still trying to find the hook" for its Lord of the Rings MMO
+ - [https://www.eurogamer.net/amazons-still-trying-to-find-the-hook-for-its-lord-of-the-rings-mmo](https://www.eurogamer.net/amazons-still-trying-to-find-the-hook-for-its-lord-of-the-rings-mmo)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T09:28:15+00:00
+
+<img src="https://assetsio.gnwcdn.com/HD-wallpaper-movie-the-lord-of-the-rings-the-lord-of-the-rings-the-two-towers-viggo-mortensen-aragorn.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Amazon's latest crack at a Lord of the Rings MMO still needs to find its "hook".</p><p>That's coming from Amazon Games boss Christoph Hartmann, who in conversation with <a href="https://www.ign.com/articles/amazon-games-still-seeking-lord-of-the-rings-mmo-christoph-hartmann-interview">IGN</a> said the team doesn't "just want to go and do the same thing over" with its Middle-earth game.</p><p>"While it's tempting sometimes with an existing IP, that's not the point of doing it. You've got to find a fresh twist, and we're still, I think, in that period where we really want to find out what could be the hook, what could be the thing which is different to all the other games out there," Hartmann said. "So it's a little bit early."</p> <p><a href="https://ww
+
+## Spare a thought for poor Concord, a kind and earnest shooter sent out to die
+ - [https://www.eurogamer.net/spare-a-thought-for-poor-concord-a-kind-and-earnest-shooter-sent-out-to-die](https://www.eurogamer.net/spare-a-thought-for-poor-concord-a-kind-and-earnest-shooter-sent-out-to-die)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T09:11:10+00:00
+
+<img src="https://assetsio.gnwcdn.com/feb498bc7a874470e7ff763b7935460b21442b0c.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Has there been a more competitive time to release a video game? Possibly. Without resorting to blunt totting-ups of metascores and sales figures and some kind of dividing-by-gap-between-release-dates, it's not really something you can measure. One particularly rectangular section of my brain was tempted, mind, in the same kind of doomed endeavour as <a href="https://www.eurogamer.net/civilization-7-pairs-seismic-changes-with-a-lovably-familiar-formula">Civilization 7 designer Ed Beach trying to mathematically quantify whether his team was sticking to Sid Meier's rule of thirds</a>. After a physicist who helped launch the Hubble telescope told me he couldn't make that work, I thought better of it.</p><p>Instead, then, we must go by vibes, and the vibe right now is <em>it is a very competitive time to release a vi
+
+## Directive 8020 is a notable upgrade to the Dark Pictures Anthology's formula
+ - [https://www.eurogamer.net/directive-8020-is-a-notable-upgrade-to-the-dark-pictures-anthologys-formula](https://www.eurogamer.net/directive-8020-is-a-notable-upgrade-to-the-dark-pictures-anthologys-formula)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-08-23T09:00:38+00:00
+
+<img src="https://assetsio.gnwcdn.com/directive-8020-1.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>When Supermassive Games' Directive 8020 arrives in 2025, it will have been three years since the studio's horror anthology series The Dark Pictures saw its last full release. This new sci-fi story, the studio's first foray into the future, is the fifth main game in the franchise (or sixth, if you count 2023's PlayStation VR spin-off). But that extra wait seems to have been put to good use, and ensured that there's plenty now about Directive 8020 to make the series almost feel like it's starting afresh.</p><p>This is the beginning of a new 'season' of The Dark Pictures, one in which the anthology's branding seems a little less prominent - with the Directive 8020 title itself now centre-stage. Each game in the franchise has always been standalone, but there's a sense here that this game's real advancements should be made clear - that thi
+

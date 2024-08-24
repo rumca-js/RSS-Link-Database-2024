@@ -1,0 +1,247 @@
+# Source:boardgames, URL:https://www.reddit.com/r/boardgames/.rss, language:en
+
+## How fun is cosmic encounter for 4 people?
+ - [https://www.reddit.com/r/boardgames/comments/1ezmoaj/how_fun_is_cosmic_encounter_for_4_people](https://www.reddit.com/r/boardgames/comments/1ezmoaj/how_fun_is_cosmic_encounter_for_4_people)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T20:19:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I'm going to have a 6 person game night this weekend and finally have a reason to get cosmic encounter, However I know that after this week we go back to our usual foursome.Since I won't have 5 or 6 players for the foreseeable future is cosmic still fun with 4 or should I look into getting another game that can accommodate the higher count as well as lower ones like heat pedal to the metal.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/floatingcookies"> /u/floatingcookies </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezmoaj/how_fun_is_cosmic_encounter_for_4_people/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezmoaj/how_fun_is_cosmic_encounter_for_4_people/">[comments]</a></span>
+
+## Gaming Table in Ontario Canada
+ - [https://www.reddit.com/r/boardgames/comments/1ezk6qi/gaming_table_in_ontario_canada](https://www.reddit.com/r/boardgames/comments/1ezk6qi/gaming_table_in_ontario_canada)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T18:33:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone. Our family is looking into having a board game table commissioned that will double as a dining room table and we were curious if anyone had any recent experience having one made. We would ideally want it made by someone in Ontario but the only information I have seen is on McFadden and they seem to have closed up shop. We are open to purchasing from another Province and I have seen La Quête Du Bois and Wheatland Woodwork but have not seen any recent reviews of either. Thanks so much and happy gaming. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Imogenicide"> /u/Imogenicide </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezk6qi/gaming_table_in_ontario_canada/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezk6qi/gaming_table_in_ontario_canada/">[comments]</a></span>
+
+## Teach me how to play sci-damath
+ - [https://www.reddit.com/r/boardgames/comments/1ezk4w0/teach_me_how_to_play_scidamath](https://www.reddit.com/r/boardgames/comments/1ezk4w0/teach_me_how_to_play_scidamath)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T18:31:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>can you guys plz like teach me how to play sci-damath in tenth grade. im struggling. it has like 'g' and 'c' letters on it. it baffles me like why don't they just put numbers on it. Pls do help me how to play. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rierieie"> /u/rierieie </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezk4w0/teach_me_how_to_play_scidamath/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezk4w0/teach_me_how_to_play_scidamath/">[comments]</a></span>
+
+## New to Board Games
+ - [https://www.reddit.com/r/boardgames/comments/1ezju3o/new_to_board_games](https://www.reddit.com/r/boardgames/comments/1ezju3o/new_to_board_games)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T18:19:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I think I should start with explaining that I come from a country where Monopoly and Chutes and Ladders were the main board games, and finding a proper board game was near impossible. As I grew up, I found playthroughs of games on YouTube and I wished I'd get the opportunity to play some. I moved to Canada a couple years ago and recently bought Mysterium, which I love playing. I've also played Survive: Escape from Atlantis (I would've bought it in a heartbeat if it still existed and i cant find the new edition nearby) and Bandido. Only problem I'm faced with is lack of friends who are interested in board games so I've played it only a few times. I've somehow convinced my friends for a game night soon and now I'm trying to find more board games (one to be precise). I've been very attracted by Betrayal at House on the Hill. Any games with similar mechanics to that or Mysterium would be amazing. Eldritch Horror and Arkham Horror are also ga
+
+## The other day I had my first game of catan, but I felt like I wasn’t producing enough.
+ - [https://www.reddit.com/r/boardgames/comments/1ezjsh1/the_other_day_i_had_my_first_game_of_catan_but_i](https://www.reddit.com/r/boardgames/comments/1ezjsh1/the_other_day_i_had_my_first_game_of_catan_but_i)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T18:17:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Do you have any tips for a beginner? I’m very addicted to board games hehe</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Icestone_company"> /u/Icestone_company </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezjsh1/the_other_day_i_had_my_first_game_of_catan_but_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezjsh1/the_other_day_i_had_my_first_game_of_catan_but_i/">[comments]</a></span>
+
+## Childproofing board games.
+ - [https://www.reddit.com/r/boardgames/comments/1ezidqr/childproofing_board_games](https://www.reddit.com/r/boardgames/comments/1ezidqr/childproofing_board_games)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T17:19:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>We have board games stored on a couple of shelves that our 9 month old has started showing interest in. We live in a small apartment with nowhere else to put the games. Is thsre something I can use to keep the lids on other than rubber bands?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Delicious-Oven-5590"> /u/Delicious-Oven-5590 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezidqr/childproofing_board_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezidqr/childproofing_board_games/">[comments]</a></span>
+
+## What is everyone's opinion of base game of Viticulture
+ - [https://www.reddit.com/r/boardgames/comments/1ezi4nd/what_is_everyones_opinion_of_base_game_of](https://www.reddit.com/r/boardgames/comments/1ezi4nd/what_is_everyones_opinion_of_base_game_of)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T17:09:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>So another Post asked what game is unfair to judge without expansions. And Viticulture without Tuscany stood out a lot. But I really enjoy Viticulture as a standalone game, and honestly don't like Tuscany with its added complexity, the buildings and special works just barely seem worth it, and or don't change my family's playing of the game much.</p> <p>Am I missing something here? Is there specific strategies in the base game that are not viable or over powered? I know some things will be personal preference but the sheer quantity of people that mentioned Viticulture has me second guessing myself.</p> <p>Further elaboration: my wife and I play USUALLY play 2 player Viticulture. And 2 play tuscany really feel wonky compared to the base game especially the new turn order mechanism, which has us swapping between rows 3 &amp; 5 all game.</p> <p>Based on this post here: <a href="https://www.reddit.com/r/boardgames/s/ounYwKPRcR">https://www.reddit.com/r/bo
+
+## What game are these dice from? (Gold/yellow dice with purple pips and stars)
+ - [https://www.reddit.com/r/boardgames/comments/1ezhj22/what_game_are_these_dice_from_goldyellow_dice](https://www.reddit.com/r/boardgames/comments/1ezhj22/what_game_are_these_dice_from_goldyellow_dice)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T16:45:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1ezhj22/what_game_are_these_dice_from_goldyellow_dice/"> <img alt="What game are these dice from? (Gold/yellow dice with purple pips and stars)" src="https://preview.redd.it/q08idw780gkd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e633923e6a52606e00d17d0eb9863d810de34783" title="What game are these dice from? (Gold/yellow dice with purple pips and stars)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Robots_with_Lasers"> /u/Robots_with_Lasers </a> <br /> <span><a href="https://i.redd.it/q08idw780gkd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezhj22/what_game_are_these_dice_from_goldyellow_dice/">[comments]</a></span> </td></tr></table>
+
+## Opinions on Legends of Void (TFM adjacent)
+ - [https://www.reddit.com/r/boardgames/comments/1ezhc2p/opinions_on_legends_of_void_tfm_adjacent](https://www.reddit.com/r/boardgames/comments/1ezhc2p/opinions_on_legends_of_void_tfm_adjacent)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T16:37:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been hooked on TFM for a while now and been looking for similar and stumbled upon LoV. However it seems it was only ever sold at gamefound.</p> <p>Curious what the option of it is after a year and how well did the ordering and shipping play out.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xTonyLeo"> /u/xTonyLeo </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezhc2p/opinions_on_legends_of_void_tfm_adjacent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezhc2p/opinions_on_legends_of_void_tfm_adjacent/">[comments]</a></span>
+
+## Best Board Games that feels good to play on Android Phone for a long flight.
+ - [https://www.reddit.com/r/boardgames/comments/1ezh0xl/best_board_games_that_feels_good_to_play_on](https://www.reddit.com/r/boardgames/comments/1ezh0xl/best_board_games_that_feels_good_to_play_on)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T16:24:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>About to have some long flights and wanted to download/buy some good board games that are well known to be good mobile ports. I have bought some in the past but some didn't feel quite right playing on the phone/already lost dev support.</p> <p>Was looking at Dune Imperium and Root at first but wanted to get some other ideas.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hwork-22"> /u/hwork-22 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezh0xl/best_board_games_that_feels_good_to_play_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezh0xl/best_board_games_that_feels_good_to_play_on/">[comments]</a></span>
+
+## What would you say is the easiest to learn "heavy" game?
+ - [https://www.reddit.com/r/boardgames/comments/1ezgnzx/what_would_you_say_is_the_easiest_to_learn_heavy](https://www.reddit.com/r/boardgames/comments/1ezgnzx/what_would_you_say_is_the_easiest_to_learn_heavy)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T16:09:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'd love to find a heavy game that won't break my brain trying to learn it. I'm not the best at learning games. I usually have to watch multiple videos and read the instructions, but I really want to get some bigger games under my belt. And I usually only have my dad to play games with so it's not always easy to teach them either. Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sluhg"> /u/Sluhg </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezgnzx/what_would_you_say_is_the_easiest_to_learn_heavy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezgnzx/what_would_you_say_is_the_easiest_to_learn_heavy/">[comments]</a></span>
+
+## Which games do think are judged unfairly if played without some of their expansions?
+ - [https://www.reddit.com/r/boardgames/comments/1ezgjnd/which_games_do_think_are_judged_unfairly_if](https://www.reddit.com/r/boardgames/comments/1ezgjnd/which_games_do_think_are_judged_unfairly_if)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T16:05:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am wondering which games I might have passed on because I happened to play the base game without any of the expansions others may consider essential. I am also wondering which games on BGG failed to make it to the top couple of hundreds because base games and expansions are rated separately.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kinan_Rod"> /u/Kinan_Rod </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezgjnd/which_games_do_think_are_judged_unfairly_if/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezgjnd/which_games_do_think_are_judged_unfairly_if/">[comments]</a></span>
+
+## Questions to players of Brass Birmingham
+ - [https://www.reddit.com/r/boardgames/comments/1ezewiq/questions_to_players_of_brass_birmingham](https://www.reddit.com/r/boardgames/comments/1ezewiq/questions_to_players_of_brass_birmingham)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T14:58:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello good folks ! I've recently started playing this game and I'm enjoying it way more than I would have thought. To experienced players, I'm very curious about two things :</p> <p>1) Has anyone ever reached the end of their Manufacturing tiles supply ? I'm not even sure this is physically possible, let alone worth it in terms of VPs.</p> <p>2) What happens at setup when you flip two empty merchant tiles at the same location ? So far I've always rearranged them so no merchant becomes totally unusable, but I wonder if some of you consider such a restriction in the selling options enjoyable. After all, it's no different than what happens at 3 or 2 players, where some tiles don't get used.</p> <p>Cheers ! Have a great day.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stardama69"> /u/Stardama69 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezewiq/questions_to_players_of_brass_birmingham
+
+## Board games ideas
+ - [https://www.reddit.com/r/boardgames/comments/1ezedto/board_games_ideas](https://www.reddit.com/r/boardgames/comments/1ezedto/board_games_ideas)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T14:37:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm looking for new ideas for board games to use in private English classes. </p> <p>The idea is to make them have fun (so they want to do the classes in their after school free time) so they learn to chat naturally without thinking about what they are doing. If it sounds an odd way to teach, don't worry, it works really well!</p> <p>However, I need some new ideas for games.</p> <p>The kids I teach are between 8 and 16 in private classes of between 2 and 4 of us. The games need to be less than an hour. They don't need to involve talking as long as the game allows some chatting while we play.</p> <p>The ones I use the most are</p> <p>2 player: Patchwork Splendor Duel Jaipur 7 Wonders Duel</p> <p>2-4 player: Azul Splendor Ticket to Ride Carcassonne Codenames Forbidden Island Pandemic (it's touch and go if we finish)</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bejam_23"> /u/Bejam_23 </a> <br /> <s
+
+## Munchkin Player Turn Card : Input
+ - [https://www.reddit.com/r/boardgames/comments/1eze88s/munchkin_player_turn_card_input](https://www.reddit.com/r/boardgames/comments/1eze88s/munchkin_player_turn_card_input)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T14:31:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1eze88s/munchkin_player_turn_card_input/"> <img alt="Munchkin Player Turn Card : Input" src="https://b.thumbs.redditmedia.com/AeJ4KRRYxBRfEXCqAUVa19ZgjsAQHZHjqj93Da69fLs.jpg" title="Munchkin Player Turn Card : Input" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I am working on creating little player cards that are the size of the player cards to give to each player so they know what they can do on their turn. Looking for input from other players if you think any text needs more clarification or if I am missing any rules.</p> <p>Design is currently just black and white, going to work more on design once I make sure my text is correct.</p> <p><a href="https://preview.redd.it/gmqwo2gacfkd1.jpg?width=514&amp;format=pjpg&amp;auto=webp&amp;s=c1b5cdfd369712561480bcc325c6423971550dcc">https://preview.redd.it/gmqwo2gacfkd1.jpg?width=514&amp;format=pjpg&amp;auto=webp&amp;s=c1b5cdfd369712561480bcc325c6423971550dcc</a><
+
+## Replacement cards for GWT
+ - [https://www.reddit.com/r/boardgames/comments/1ezd039/replacement_cards_for_gwt](https://www.reddit.com/r/boardgames/comments/1ezd039/replacement_cards_for_gwt)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T13:39:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I'm afraid I already know the answer to this, but I bought a copy of GWT from a vendor at the UK Games Expo. After fewer than 20 plays, some of the cards are coming apart, sort of like if liquid had been spilled on them (it wasn't though). </p> <p>There's no way I can get the retailer to replace the cards since I don't live in the UK and I have no idea how to approach Asmodee's customer service in Europe, or if they'll even help me. </p> <p>Any sugggestions? Or am I just SOL and need to buy sleeves?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zoeyversustheraccoon"> /u/zoeyversustheraccoon </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezd039/replacement_cards_for_gwt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezd039/replacement_cards_for_gwt/">[comments]</a></span>
+
+## Mildly competitive games for dates and other 2-person social occasions
+ - [https://www.reddit.com/r/boardgames/comments/1ezcti5/mildly_competitive_games_for_dates_and_other](https://www.reddit.com/r/boardgames/comments/1ezcti5/mildly_competitive_games_for_dates_and_other)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T13:30:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm interested in short, easy to learn 1v1 games that are challenging, but where you can have a conversation while playing without too much distraction.</p> <p>Some examples I like:<br /> - Lost Cities<br /> - Splendor: The Duel</p> <p>What I notice is that these games have short turns and not a lot of direct interaction. What else fits this genre?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lskalt"> /u/lskalt </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezcti5/mildly_competitive_games_for_dates_and_other/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezcti5/mildly_competitive_games_for_dates_and_other/">[comments]</a></span>
+
+## Best 1 vs many boardgames?
+ - [https://www.reddit.com/r/boardgames/comments/1ezanq8/best_1_vs_many_boardgames](https://www.reddit.com/r/boardgames/comments/1ezanq8/best_1_vs_many_boardgames)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T11:47:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, im really interested in the 1 vs many mechanic thats for instance present in archenemy in mtg. Id like to buy a standalone boardgame with this mechanic, but im not sure what to get.</p> <p>Im not searching for hidden roles/deduction games, since i have enough of those. I want that its clear for everyone at the table who theyre fighting.</p> <p>Im interested in beast and terrorscape, but for beast ive seen mixed reviews.</p> <p>Does anyone have recommendations? Something thats like 2v5 is also cool of course.</p> <p>Bonus points if the game is more complicated for the person playing on their own!!</p> <p>Thank you in advance!</p> <p>Edit: 1 vs many means that one player plays against the rest of the table :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mammoth_Sea_9501"> /u/Mammoth_Sea_9501 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezanq8/best_1_vs_many_boardgames/">[link
+
+## Is there anyone who owns the board game little secret ?
+ - [https://www.reddit.com/r/boardgames/comments/1ezab46/is_there_anyone_who_owns_the_board_game_little](https://www.reddit.com/r/boardgames/comments/1ezab46/is_there_anyone_who_owns_the_board_game_little)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T11:27:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Me and my friends are looking for a new games to play, is little secret worth it ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maleficent_Smoker"> /u/Maleficent_Smoker </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ezab46/is_there_anyone_who_owns_the_board_game_little/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ezab46/is_there_anyone_who_owns_the_board_game_little/">[comments]</a></span>
+
+## Does anyone have "Mythology the Game"? I need help.
+ - [https://www.reddit.com/r/boardgames/comments/1ez8ob4/does_anyone_have_mythology_the_game_i_need_help](https://www.reddit.com/r/boardgames/comments/1ez8ob4/does_anyone_have_mythology_the_game_i_need_help)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T09:46:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1ez8ob4/does_anyone_have_mythology_the_game_i_need_help/"> <img alt="Does anyone have &quot;Mythology the Game&quot;? I need help." src="https://b.thumbs.redditmedia.com/2NEluGO4dZsQdiLQme5oC-nLvRlTCbYCKyMeTK_x10A.jpg" title="Does anyone have &quot;Mythology the Game&quot;? I need help." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I have this board game back at my old house and had just got it back. I checked the contents and 17 out of the 19 god cards are missing. Does anyone have this game that can tell me the contents of the other god cards? I plan to just print replacement cards.</p> <p><a href="https://preview.redd.it/00nw8vu8xdkd1.png?width=419&amp;format=png&amp;auto=webp&amp;s=fc043f4d1f7d5253d9e01a4eb92efe587d0b6a6c">https://preview.redd.it/00nw8vu8xdkd1.png?width=419&amp;format=png&amp;auto=webp&amp;s=fc043f4d1f7d5253d9e01a4eb92efe587d0b6a6c</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a
+
+## Could You help me find games with similar mechanics, please?
+ - [https://www.reddit.com/r/boardgames/comments/1ez7yxz/could_you_help_me_find_games_with_similar](https://www.reddit.com/r/boardgames/comments/1ez7yxz/could_you_help_me_find_games_with_similar)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T08:59:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don't really like Root, but I really love the gameplay of Eyrie Dynasties. Please tell me more games, with the gameplay as close as possible to this, if you know such, thank you in advance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Diamondlye"> /u/Diamondlye </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ez7yxz/could_you_help_me_find_games_with_similar/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ez7yxz/could_you_help_me_find_games_with_similar/">[comments]</a></span>
+
+## Trading and movement board games?
+ - [https://www.reddit.com/r/boardgames/comments/1ez7p41/trading_and_movement_board_games](https://www.reddit.com/r/boardgames/comments/1ez7p41/trading_and_movement_board_games)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T08:40:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am in love with the idea of packing up trade goods and selling far and wide. Any board games come to mind with this mechanic? Any exploration sub theme gets bonus points for me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SigmaPride"> /u/SigmaPride </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ez7p41/trading_and_movement_board_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ez7p41/trading_and_movement_board_games/">[comments]</a></span>
+
+## Question about accessories for Table of Ultimate Gaming (Now out of business) - is there an appropriate sub that i would ask about these items?
+ - [https://www.reddit.com/r/boardgames/comments/1ez5f07/question_about_accessories_for_table_of_ultimate](https://www.reddit.com/r/boardgames/comments/1ez5f07/question_about_accessories_for_table_of_ultimate)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T06:02:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! So I've got a 4x6 TOUG setup, all the cup holders but i'm hoping to see if i could get my hands on one of the walnut-stained dungeon master screens they made and the big pad.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TallG33k"> /u/TallG33k </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ez5f07/question_about_accessories_for_table_of_ultimate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ez5f07/question_about_accessories_for_table_of_ultimate/">[comments]</a></span>
+
+## Games Leaving The Collection - Tabletop Tea Time Ep. 10
+ - [https://www.reddit.com/r/boardgames/comments/1ez4v4c/games_leaving_the_collection_tabletop_tea_time_ep](https://www.reddit.com/r/boardgames/comments/1ez4v4c/games_leaving_the_collection_tabletop_tea_time_ep)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T05:26:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1ez4v4c/games_leaving_the_collection_tabletop_tea_time_ep/"> <img alt="Games Leaving The Collection - Tabletop Tea Time Ep. 10" src="https://external-preview.redd.it/cuT_2X1Y-VIi5SNMU0p1lPyF1ceG1opzPc_HIR2bGoo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b5ef98d0e2925eeb0feb261fe5dcb7703ff8e82e" title="Games Leaving The Collection - Tabletop Tea Time Ep. 10" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>What has recently left your collection and was it a good game you just don't play anymore?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/easto1a"> /u/easto1a </a> <br /> <span><a href="https://youtu.be/FUqgaMndGfA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ez4v4c/games_leaving_the_collection_tabletop_tea_time_ep/">[comments]</a></span> </td></tr></table>
+
+## Daily Game Recommendations Thread (August 23, 2024)
+ - [https://www.reddit.com/r/boardgames/comments/1ez4gky/daily_game_recommendations_thread_august_23_2024](https://www.reddit.com/r/boardgames/comments/1ez4gky/daily_game_recommendations_thread_august_23_2024)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T05:01:08+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Welcome to <a href="/r/boardgames">/r/boardgames</a>'s Daily Game Recommendations</strong></p> <p>This is a place where you can ask any and all questions relating to the board gaming world including but not limited to<a href="https://en.wiktionary.org/wiki/meeple#/media/File:Carcassonne_Miples.jpg">:</a></p> <ul> <li>general or specific game recommendations</li> <li>help identifying a game or game piece</li> <li>advice regarding situation limited to you (e.g, questions about a specific FLGS)</li> <li>rule clarifications</li> <li>and other quick questions that might not warrant their own post</li> </ul> <h2>Asking for Recommendations</h2> <p>You're much more likely to get good and personalized recommendations if you take the time to format a well-written ask. We <strong>highly recommend</strong> using <a href="/r/boardgames/wiki/personalized-game-recommendation-template-no-explainer">this template</a> as a guide. <a href="/r/boardgames/wiki/per
+
+## Orléans the plague + deluxe wooden discs... help?
+ - [https://www.reddit.com/r/boardgames/comments/1ez3z1p/orléans_the_plague_deluxe_wooden_discs_help](https://www.reddit.com/r/boardgames/comments/1ez3z1p/orléans_the_plague_deluxe_wooden_discs_help)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T04:32:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>So... i got the kickstarter deluxe TMG orleans and the plague not thinking about the token problem... and now i have cardboard chits that cannot mix with the wooden discs in the base game.... Does anyone know what size the wooden discs are in the game so i can maybe just buy generic ones and sticker them to match the size and feel? </p> <p>Or is there any coin capsule size that would hold the wooden discs and the plague cardboard discs to make them feel uniform in the bag? </p> <p>Im bummed because i dig the game, but when we played we just used the 5th bag to put trains from Ticket to ride in, and counted green as our people and red trains as plague... drew from that bag, and then drew from our own bag based on the result..</p> <p>it added an hour to game and was annoying. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gravitygroove"> /u/gravitygroove </a> <br /> <span><a href="https://www.reddit.com/r/boardga
+
+## What is the highest score (including crib) in cribbage?
+ - [https://www.reddit.com/r/boardgames/comments/1ez3wto/what_is_the_highest_score_including_crib_in](https://www.reddit.com/r/boardgames/comments/1ez3wto/what_is_the_highest_score_including_crib_in)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T04:28:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I've been playing cribbage for about 1 year, and the highest score I've got is about 30 (this is adding the crib and base hand together.) There might be math involved, idk but if anyone answers that would be helpful. </p> <p>Best of luck with your board games.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bubbly_Actuator226"> /u/Bubbly_Actuator226 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ez3wto/what_is_the_highest_score_including_crib_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ez3wto/what_is_the_highest_score_including_crib_in/">[comments]</a></span>
+
+## Knockoff Splendor?
+ - [https://www.reddit.com/r/boardgames/comments/1ez3jz6/knockoff_splendor](https://www.reddit.com/r/boardgames/comments/1ez3jz6/knockoff_splendor)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T04:08:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1ez3jz6/knockoff_splendor/"> <img alt="Knockoff Splendor?" src="https://b.thumbs.redditmedia.com/1AaR_noTZvI7zpldArGFB6gIDx0hlPfqMsnriX77vcY.jpg" title="Knockoff Splendor?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Did I get a knockoff version of Splendor? Ordered it from Amazon Canada with another item to qualify for free shipping but the first thing I noticed was that the image seems poor quality, the cardboard appears corrugated, and the way the box is folded at the top and bottom.</p> <p>Very clear &quot;Made in China&quot; labels on the back so I'm not sure if this is a knock off or just a print from another region that I'm not used to seeing.</p> <p>Hesitant to open past the shrink wrap as I'm leaning towards reaching out about a refund but figured I'd post here first and sleep on it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BadWolfParadox"> /u/BadWolfPa
+
+## Vertical or horizontal storage?
+ - [https://www.reddit.com/r/boardgames/comments/1ez3azw/vertical_or_horizontal_storage](https://www.reddit.com/r/boardgames/comments/1ez3azw/vertical_or_horizontal_storage)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T03:55:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am just now getting enough games that I'm starting to really think about storage. I tried to put some games in a cube shelving unit just to test it out and see how they fit. I think that type of shelf might be a good option for storage but I realized I don't know if I should stack them on top of each other horizontally or slide them in on their side vertically. I tried to put the games on their side and I noticed that when I did that with one of them, its box top started leaning away. I think that was because of the weight of the board leaning on it since it was standing on its side. I'm worried about whether that would cause some wear and tear in the long run if I had games stored on their side. How does everyone else set them up on a shelf? I'd like to display them nicely but also protect them as much as I can. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkraPlastic3384"> /u/OkraPlastic3384 </a> <br /> <
+
+## How do I transport games without damaging them?
+ - [https://www.reddit.com/r/boardgames/comments/1ez264o/how_do_i_transport_games_without_damaging_them](https://www.reddit.com/r/boardgames/comments/1ez264o/how_do_i_transport_games_without_damaging_them)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T02:55:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been transporting stacks of games to family gatherings, parties, etc. I’ve been trying to carefully pack them in duffle bags or backpacks and I generally take great care of my games (I probably care too much about keeping them pristine haha). But I noticed a lot of the boxes are wearing out on the corners and some card game boxes are getting wrecked. Not surprising, I know. Any tips or better ways to carry them around? Is it worth getting a specialty “game bag”, should I pack them differently, or..?</p> <p>At the end of the day I know it’s just cardboard, but I also know I’m not the only one that likes to keep my games in good shape.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plockertop"> /u/Plockertop </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1ez264o/how_do_i_transport_games_without_damaging_them/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/
+
+## Merchant of Venus version?
+ - [https://www.reddit.com/r/boardgames/comments/1ez0yp2/merchant_of_venus_version](https://www.reddit.com/r/boardgames/comments/1ez0yp2/merchant_of_venus_version)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T01:55:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1ez0yp2/merchant_of_venus_version/"> <img alt="Merchant of Venus version?" src="https://a.thumbs.redditmedia.com/stJJsNm1gy1cV6s6Ff5yvBYI5e8Ac8t964CT6bjbma0.jpg" title="Merchant of Venus version?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I got this from a bulk lot of games at a garage sale a few years back and never got around to playing this, was trying to clear some space and offload some games but I am having trouble finding out what the heck version of the game this is.</p> <p>Anybody happen go have a bit of info? Or able to point me In the right direction to search etc. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Icy_Comparison6100"> /u/Icy_Comparison6100 </a> <br /> <span><a href="https://www.reddit.com/gallery/1ez0yp2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1ez0yp2/merchant_of_venus_version/">[comments]
+
+## Does anyone know this game?
+ - [https://www.reddit.com/r/boardgames/comments/1ez0gbo/does_anyone_know_this_game](https://www.reddit.com/r/boardgames/comments/1ez0gbo/does_anyone_know_this_game)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T01:30:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, about a year ago I had played this one game with a friend of mine. I’ve been wanting to buy it myself but I cannot remember the name of it, and my friend acts like he never heard of it. I was wondering if anyone on here could help me figure out what it was called. It’s like a civilization builder where you play as one of a few native tribes with different abilities. You lay out a couple of Hexagons with different biomes on them. The game worked that you rolled two dice with either a sun, moon, or blank symbol, and you chose one of four ways to grow your village by placing each of the two dice you rolled on a chart that would determine how well your village performed a task, I.e. travailing, hunting, researching, etc. each option of growth has two dice on it and the result of how well your village did a thing depended on what symbols were face up on it. If a “progression” had no matching symbols it was the mediocre outcome, two suns was t
+
+## Question about how scoring works in 'The Game of Wolf'
+ - [https://www.reddit.com/r/boardgames/comments/1eyz4vc/question_about_how_scoring_works_in_the_game_of](https://www.reddit.com/r/boardgames/comments/1eyz4vc/question_about_how_scoring_works_in_the_game_of)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T00:27:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm a bit confused on how the scoring works. If you're on the side who loses the round, you just don't get any points right? It's not like you lose anything?</p> <p>Also, if you choose to have another person on your team and you answer 4 of the 5 answers, you each get 4 points then?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/etlecomtedeblaine"> /u/etlecomtedeblaine </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1eyz4vc/question_about_how_scoring_works_in_the_game_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1eyz4vc/question_about_how_scoring_works_in_the_game_of/">[comments]</a></span>
+
+## Farsi dice
+ - [https://www.reddit.com/r/boardgames/comments/1eyyzbt/farsi_dice](https://www.reddit.com/r/boardgames/comments/1eyyzbt/farsi_dice)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T00:19:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm learning Persian-Farsi and am in the TTRPG scene, as well as board games in general. I am looking for dice (preferraply a polyhedral set) that have the Farsi numerals on them. Just for context, they look like this: ٠١٢٣۴۵۶٧٨٩. The closest I could find were dice that have the Modern Standard Arabic numerals. They have some differences, but I would like to get some dice for my classmates to play games with.</p> <p>Any ideas where to look? Any companies that can provide some more-than-minimal quality math rocks with custom designs, preferably engraved over printed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BadMunky82"> /u/BadMunky82 </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1eyyzbt/farsi_dice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1eyyzbt/farsi_dice/">[comments]</a></span>
+
+## So, what is the best game "One against all" that you've played?
+ - [https://www.reddit.com/r/boardgames/comments/1eyylw2/so_what_is_the_best_game_one_against_all_that](https://www.reddit.com/r/boardgames/comments/1eyylw2/so_what_is_the_best_game_one_against_all_that)
+ - RSS feed: https://www.reddit.com/r/boardgames/.rss
+ - date published: 2024-08-23T00:02:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I'm looking to buy a boardgame with this kinda of mechanic. One player will be a &quot;villain&quot; and the others will try to win against him. I heard about Dracula, that's similar.</p> <p>And you, what is the best game you've played in this style? (also this will help me to decide what game to buy haha)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Drokkoon"> /u/Drokkoon </a> <br /> <span><a href="https://www.reddit.com/r/boardgames/comments/1eyylw2/so_what_is_the_best_game_one_against_all_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1eyylw2/so_what_is_the_best_game_one_against_all_that/">[comments]</a></span>
+
