@@ -1,0 +1,37 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## Driving up to 16 WS2812b LED strips with one Rpi
+ - [https://www.reddit.com/r/raspberry_pi/comments/1f0dsjf/driving_up_to_16_ws2812b_led_strips_with_one_rpi](https://www.reddit.com/r/raspberry_pi/comments/1f0dsjf/driving_up_to_16_ws2812b_led_strips_with_one_rpi)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-24T19:43:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello!</p> <p>A few weeks ago I found jbentham's rpi_smi_led code proof of concept that allows you to drive up to 16 WS2812b LED strips with one single RPi -- flawlessly and easily! The proof of concept wasn't packaged and had a number of code-rot issues, so I dove in and fixed up a lot of them and build a cmake install script and a python module.</p> <p>With the new smi_leds module you can choose to drive 8 or 16 LED strips (at install time) and then using C/C++ or Python you can write a simple program to drive all the strips. Setup and install is fairly simple and I've tested on a pile of RPi models.</p> <p>The code is up on github: <a href="https://github.com/mayhem/smi_leds">https://github.com/mayhem/smi_leds</a> and the PyPi module is here: <a href="https://pypi.org/project/smi-leds/">https://pypi.org/project/smi-leds/</a></p> <p>There is a demo video and hardware wiring guide included! I hope is useful for someone!</p> </div><!-- SC_ON --> &#32;
+
+## Pi 3B+ - BCM2837B0 Autopsy
+ - [https://www.reddit.com/r/raspberry_pi/comments/1f0c1k6/pi_3b_bcm2837b0_autopsy](https://www.reddit.com/r/raspberry_pi/comments/1f0c1k6/pi_3b_bcm2837b0_autopsy)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-24T18:25:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1f0c1k6/pi_3b_bcm2837b0_autopsy/"> <img alt="Pi 3B+ - BCM2837B0 Autopsy" src="https://b.thumbs.redditmedia.com/_yIHwNVIvKv5b0wp0Hvrs_AQ1Do3ZJKbVKdXYfkt9Mk.jpg" title="Pi 3B+ - BCM2837B0 Autopsy" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Well, one of my Pi 3B+'s died yesterday after a wiring mistake, so I decided to take a look at the SoC at the heart of the Pi, and take a measurement of the die, which is really, really small (roughly 48mm² - 6x8mm).</p> <p>Die shot from Electronupdate's Pi Zero2 W teardown, in the BCM2837B0 it should be mirrored, since it's a flipchip die, and the one in the RP3A0 is a wire bond die</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/masterofgabos"> /u/masterofgabos </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0c1k6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1f0c1k6/pi_3b_bcm28
+
+## DIY SDR Deck / Drone Ground Control Station
+ - [https://www.reddit.com/r/raspberry_pi/comments/1f09z6b/diy_sdr_deck_drone_ground_control_station](https://www.reddit.com/r/raspberry_pi/comments/1f09z6b/diy_sdr_deck_drone_ground_control_station)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-24T16:56:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1f09z6b/diy_sdr_deck_drone_ground_control_station/"> <img alt="DIY SDR Deck / Drone Ground Control Station" src="https://external-preview.redd.it/E3l68p5kCp3ztgq98HMriibxruhGq9eAZq4KsTIvoXw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ae1ff567855d92e72b2b858054b8a61b3ea67f21" title="DIY SDR Deck / Drone Ground Control Station" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/5r03j3jm6nkd1.jpg?width=1057&amp;format=pjpg&amp;auto=webp&amp;s=839c305488696506106084c2f7b2ddec22d13f0d">Custom Deck running Open HD with a raspberry pi 4</a></p> <p><a href="https://preview.redd.it/bvy1h3jm6nkd1.jpg?width=1412&amp;format=pjpg&amp;auto=webp&amp;s=decec9a3d29266fda8984b436962bd00903d5636">Different angle :)</a></p> <p>Here a link to a video of a friend: <a href="https://www.youtube.com/watch?v=mZtZDY3W0_A">https://www.youtube.com/watch?v=mZtZDY3W0_A</a></p> <p>Here I post daily: <a hre
+
+## Rpi zero 2 w wifi chip crashes on heat
+ - [https://www.reddit.com/r/raspberry_pi/comments/1f07azf/rpi_zero_2_w_wifi_chip_crashes_on_heat](https://www.reddit.com/r/raspberry_pi/comments/1f07azf/rpi_zero_2_w_wifi_chip_crashes_on_heat)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-24T15:00:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey folks,</p> <p>I am trying to run a tiny and portable nas setup with the zero 2 w and a 2.5inch hard drive connected using a usb to sata connector. </p> <p>Whenever there is a write operation performed on the harddrive, the SOC heats up &gt;60°C and this is causing the wifi chip to crash. </p> <p>I'm primarily running this as a headless setup and this is making me cycle through power each time this happens. </p> <p>I wrote a python script to check correlation with core temp and wifi status and sure enough if the core is heating up, the wifi goes down.</p> <p>Also if there is no harddrive operation, the temp can surpass &gt;60°C and the wifi continues to work. </p> <p>I searched online and found that reducing cpu frequency resolves the issue, which did help increase the uptime but it is still bound to crash wifi after a while. </p> <p>brcmfmac: brcmf_sdio_readframes: rxheader failed</p> <p>Above is one of the kernel log messages logged in after the 
+
+## Robot Drink Mixer I Made! First Time Ever Using A Raspberry Pi! Was a Great Learning Experience
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ezxyy2/robot_drink_mixer_i_made_first_time_ever_using_a](https://www.reddit.com/r/raspberry_pi/comments/1ezxyy2/robot_drink_mixer_i_made_first_time_ever_using_a)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-08-24T05:33:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ezxyy2/robot_drink_mixer_i_made_first_time_ever_using_a/"> <img alt="Robot Drink Mixer I Made! First Time Ever Using A Raspberry Pi! Was a Great Learning Experience" src="https://external-preview.redd.it/fEM2PCJvMOsaqZI_wv7qYrbFb_fF5WZoi5VBwbmX2SE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=345691bc3c711f229198bff7aefe9e0016ecc5bf" title="Robot Drink Mixer I Made! First Time Ever Using A Raspberry Pi! Was a Great Learning Experience" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaptainPenguin36"> /u/CaptainPenguin36 </a> <br /> <span><a href="https://www.youtube.com/watch?v=6IsPhsxmE1g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ezxyy2/robot_drink_mixer_i_made_first_time_ever_using_a/">[comments]</a></span> </td></tr></table>
+

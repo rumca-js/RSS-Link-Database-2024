@@ -1,0 +1,296 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Trump Is Behind Not Because the Press Is Hyping Kamala but Because He’s Unpopular
+ - [https://www.reddit.com/r/politics/comments/1f0fppf/trump_is_behind_not_because_the_press_is_hyping](https://www.reddit.com/r/politics/comments/1f0fppf/trump_is_behind_not_because_the_press_is_hyping)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T21:10:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0fppf/trump_is_behind_not_because_the_press_is_hyping/"> <img alt="Trump Is Behind Not Because the Press Is Hyping Kamala but Because He’s Unpopular" src="https://external-preview.redd.it/OHSmOaSLFE4WqkfT-TKV-Dhby2AM9tw8q3TcqjSoH0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f37737cb6dd96d24937b1c2fc8c5a07c273e0d9" title="Trump Is Behind Not Because the Press Is Hyping Kamala but Because He’s Unpopular" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/baquir"> /u/baquir </a> <br /> <span><a href="https://www.nationalreview.com/corner/trump-is-behind-not-because-the-press-is-hyping-kamala-but-because-hes-unpopular/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0fppf/trump_is_behind_not_because_the_press_is_hyping/">[comments]</a></span> </td></tr></table>
+
+## Will Donald Trump be sentenced to prison in September? What we know
+ - [https://www.reddit.com/r/politics/comments/1f0e5yn/will_donald_trump_be_sentenced_to_prison_in](https://www.reddit.com/r/politics/comments/1f0e5yn/will_donald_trump_be_sentenced_to_prison_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T20:00:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0e5yn/will_donald_trump_be_sentenced_to_prison_in/"> <img alt="Will Donald Trump be sentenced to prison in September? What we know" src="https://external-preview.redd.it/5yTDLeCwm8FOR7BJpqG6abpf4daAi2lOqtKpZq-_VGg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d1b47ce35eaed9ae3834a0ae8d24908c9b31653" title="Will Donald Trump be sentenced to prison in September? What we know" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Available_Reason7795"> /u/Available_Reason7795 </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-stormy-daniels-hush-money-case-sentencing-september-18-1942411">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0e5yn/will_donald_trump_be_sentenced_to_prison_in/">[comments]</a></span> </td></tr></table>
+
+## Trump ‘is not in command of himself’ as Harris momentum continues, says longtime observer
+ - [https://www.reddit.com/r/politics/comments/1f0dms3/trump_is_not_in_command_of_himself_as_harris](https://www.reddit.com/r/politics/comments/1f0dms3/trump_is_not_in_command_of_himself_as_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T19:36:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0dms3/trump_is_not_in_command_of_himself_as_harris/"> <img alt="Trump ‘is not in command of himself’ as Harris momentum continues, says longtime observer" src="https://external-preview.redd.it/Uy7lMQo3KJbIQ8kywaPwCgPnKuKTfBCq44Rx4hq4nXA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ce88c821ca9af8417559106f45d96da9d4216d2" title="Trump ‘is not in command of himself’ as Harris momentum continues, says longtime observer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br /> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-kamala-harris-2024-race-b2601403.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0dms3/trump_is_not_in_command_of_himself_as_harris/">[comments]</a></span> </td></tr></table>
+
+## Americans are choosing Harris or Trump, not Harris or Gaza
+ - [https://www.reddit.com/r/politics/comments/1f0czbo/americans_are_choosing_harris_or_trump_not_harris](https://www.reddit.com/r/politics/comments/1f0czbo/americans_are_choosing_harris_or_trump_not_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T19:07:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0czbo/americans_are_choosing_harris_or_trump_not_harris/"> <img alt="Americans are choosing Harris or Trump, not Harris or Gaza" src="https://external-preview.redd.it/u3DeHHMLk2B2xILoEfxzT7UczTD4W0gWwcP4iYfAN0U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed99acd91124a6522938ac54c5cef838ca82c4d7" title="Americans are choosing Harris or Trump, not Harris or Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThePaulGod"> /u/ThePaulGod </a> <br /> <span><a href="https://www.washingtonpost.com/opinions/2024/08/23/kamala-harris-black-feminists-gaza/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0czbo/americans_are_choosing_harris_or_trump_not_harris/">[comments]</a></span> </td></tr></table>
+
+## Foo Fighters say they did not OK Trump using "My Hero" at Arizona rally, will donate royalties to Harris-Walz campaign
+ - [https://www.reddit.com/r/politics/comments/1f0cv0m/foo_fighters_say_they_did_not_ok_trump_using_my](https://www.reddit.com/r/politics/comments/1f0cv0m/foo_fighters_say_they_did_not_ok_trump_using_my)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T19:01:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0cv0m/foo_fighters_say_they_did_not_ok_trump_using_my/"> <img alt="Foo Fighters say they did not OK Trump using &quot;My Hero&quot; at Arizona rally, will donate royalties to Harris-Walz campaign" src="https://external-preview.redd.it/2f1o4bWvS5DqUO1j6eK1mouVqMlXEFYxkBFz6pi9VTg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3c375bc9f94fea733737630553612c6112fda08" title="Foo Fighters say they did not OK Trump using &quot;My Hero&quot; at Arizona rally, will donate royalties to Harris-Walz campaign" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/louiskent"> /u/louiskent </a> <br /> <span><a href="https://www.cbsnews.com/news/foo-fighters-my-hero-trump-campaign/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0cv0m/foo_fighters_say_they_did_not_ok_trump_using_my/">[comments]</a></span> </td></tr></table>
+
+## White House lawyers who advised Reagan, Bush endorse Harris over Trump in 2024 showdown
+ - [https://www.reddit.com/r/politics/comments/1f0cq71/white_house_lawyers_who_advised_reagan_bush](https://www.reddit.com/r/politics/comments/1f0cq71/white_house_lawyers_who_advised_reagan_bush)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T18:56:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0cq71/white_house_lawyers_who_advised_reagan_bush/"> <img alt="White House lawyers who advised Reagan, Bush endorse Harris over Trump in 2024 showdown" src="https://external-preview.redd.it/Zwi776oRUUH-ad6PLBlJH2K_dd1xOj2LBVGaTnYDjAY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f58c17a4a222e162f5b9fd471113a22d1f8626ca" title="White House lawyers who advised Reagan, Bush endorse Harris over Trump in 2024 showdown" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AbsolutZer0_v2"> /u/AbsolutZer0_v2 </a> <br /> <span><a href="https://www.foxnews.com/politics/white-house-lawyers-who-advised-reagan-bush-endorse-harris-over-trump-2024-showdown">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0cq71/white_house_lawyers_who_advised_reagan_bush/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris' 'fierce, fearless' DNC speech was so good, Trump called Fox News to whine
+ - [https://www.reddit.com/r/politics/comments/1f0c0kk/kamala_harris_fierce_fearless_dnc_speech_was_so](https://www.reddit.com/r/politics/comments/1f0c0kk/kamala_harris_fierce_fearless_dnc_speech_was_so)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T18:24:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0c0kk/kamala_harris_fierce_fearless_dnc_speech_was_so/"> <img alt="Kamala Harris' 'fierce, fearless' DNC speech was so good, Trump called Fox News to whine" src="https://external-preview.redd.it/swNLsmRu9Y_DLTuiNYJYMyxLT69XuvLp0TaT-SQYgrg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d82bfc55407d578bf63fb61f86dd88e47f3bc76" title="Kamala Harris' 'fierce, fearless' DNC speech was so good, Trump called Fox News to whine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Streona"> /u/Streona </a> <br /> <span><a href="https://www.azcentral.com/story/entertainment/media/2024/08/22/kamala-harris-dnc-speech/74902387007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0c0kk/kamala_harris_fierce_fearless_dnc_speech_was_so/">[comments]</a></span> </td></tr></table>
+
+## Kari Lake Trolled With Photo of Her Urged Off Stage at Trump Rally
+ - [https://www.reddit.com/r/politics/comments/1f0bwpd/kari_lake_trolled_with_photo_of_her_urged_off](https://www.reddit.com/r/politics/comments/1f0bwpd/kari_lake_trolled_with_photo_of_her_urged_off)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T18:20:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0bwpd/kari_lake_trolled_with_photo_of_her_urged_off/"> <img alt="Kari Lake Trolled With Photo of Her Urged Off Stage at Trump Rally" src="https://external-preview.redd.it/184hTqBoGMNFjd00R34NUM6cnxPi8wWBgT_mOJ4VOP8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a7f45e9222a2840cbc1b66ecb17cf47f8624fcf" title="Kari Lake Trolled With Photo of Her Urged Off Stage at Trump Rally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fornuis"> /u/fornuis </a> <br /> <span><a href="https://www.newsweek.com/kari-lake-trolled-ruben-gallego-urged-off-stage-donald-trump-rally-1943919">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0bwpd/kari_lake_trolled_with_photo_of_her_urged_off/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Cop-Backed Rant Against Kamala Harris May Have Broken Law
+ - [https://www.reddit.com/r/politics/comments/1f0brgc/trumps_copbacked_rant_against_kamala_harris_may](https://www.reddit.com/r/politics/comments/1f0brgc/trumps_copbacked_rant_against_kamala_harris_may)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T18:13:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0brgc/trumps_copbacked_rant_against_kamala_harris_may/"> <img alt="Trump’s Cop-Backed Rant Against Kamala Harris May Have Broken Law" src="https://external-preview.redd.it/lUcp4S7rZwDndc7PWXZFPxHlC90RTaUochGdS_7LkLY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3b1df10231a02ee8774b78dfc45a5706a3ac456" title="Trump’s Cop-Backed Rant Against Kamala Harris May Have Broken Law" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://newrepublic.com/post/185245/trump-event-howell-michigan-broke-law">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0brgc/trumps_copbacked_rant_against_kamala_harris_may/">[comments]</a></span> </td></tr></table>
+
+## Trump Has Multi-Platform Meltdown for the Ages Over Harris' DNC Speech
+ - [https://www.reddit.com/r/politics/comments/1f0abgw/trump_has_multiplatform_meltdown_for_the_ages](https://www.reddit.com/r/politics/comments/1f0abgw/trump_has_multiplatform_meltdown_for_the_ages)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T17:11:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0abgw/trump_has_multiplatform_meltdown_for_the_ages/"> <img alt="Trump Has Multi-Platform Meltdown for the Ages Over Harris' DNC Speech" src="https://external-preview.redd.it/_vBznnG0S_kQtMPokFdhAaj4dr_oRERZVAwPEq45aQw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6876e9d27f07b465863e8427215dc85d371d3a2" title="Trump Has Multi-Platform Meltdown for the Ages Over Harris' DNC Speech" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BibleBeltAtheist"> /u/BibleBeltAtheist </a> <br /> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-melts-down-kamala-harris-dnc-speech-1235086487/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0abgw/trump_has_multiplatform_meltdown_for_the_ages/">[comments]</a></span> </td></tr></table>
+
+## RFK Jr., environmental warrior, backs the ‘drill, baby, drill’ ticket
+ - [https://www.reddit.com/r/politics/comments/1f09z6g/rfk_jr_environmental_warrior_backs_the_drill_baby](https://www.reddit.com/r/politics/comments/1f09z6g/rfk_jr_environmental_warrior_backs_the_drill_baby)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T16:56:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f09z6g/rfk_jr_environmental_warrior_backs_the_drill_baby/"> <img alt="RFK Jr., environmental warrior, backs the ‘drill, baby, drill’ ticket" src="https://external-preview.redd.it/FBxAeJAFG4aPxN1eDH0cga-oiZYkvVQ8_RNtke5eTZU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=49f265d8b7168667399a88d81d5ffbc36de0cd57" title="RFK Jr., environmental warrior, backs the ‘drill, baby, drill’ ticket" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fit-Requirement6701"> /u/Fit-Requirement6701 </a> <br /> <span><a href="https://www.washingtonpost.com/politics/2024/08/24/kennedy-trump-endorsement-environmental-issues/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f09z6g/rfk_jr_environmental_warrior_backs_the_drill_baby/">[comments]</a></span> </td></tr></table>
+
+## The Female Obama? No. Kamala Harris Is More Than That. Harris’s speech united her party—an incredible task if you consider where we were a month ago.
+ - [https://www.reddit.com/r/politics/comments/1f09brq/the_female_obama_no_kamala_harris_is_more_than](https://www.reddit.com/r/politics/comments/1f09brq/the_female_obama_no_kamala_harris_is_more_than)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T16:27:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f09brq/the_female_obama_no_kamala_harris_is_more_than/"> <img alt="The Female Obama? No. Kamala Harris Is More Than That. Harris’s speech united her party—an incredible task if you consider where we were a month ago." src="https://external-preview.redd.it/Opd1DnO4QiGy3SIIXpkXH5LWg2fIQxSffFhrFChX3MQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90078fc5740bcb5a68af4c9af462176b1559b8eb" title="The Female Obama? No. Kamala Harris Is More Than That. Harris’s speech united her party—an incredible task if you consider where we were a month ago." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br /> <span><a href="https://newrepublic.com/article/185222/female-obama-no-kamala-harris-that">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f09brq/the_female_obama_no_kamala_harris_is_more_than/">[comments]</a></span> </td></tr></tabl
+
+## Donald Trump Stokes Fears Of Another Jan. 6 | The GOP presidential nominee is laying the groundwork to deny the results of another election, raising alarms about a Jan. 6 repeat in 2025.
+ - [https://www.reddit.com/r/politics/comments/1f08lob/donald_trump_stokes_fears_of_another_jan_6_the](https://www.reddit.com/r/politics/comments/1f08lob/donald_trump_stokes_fears_of_another_jan_6_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T15:56:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f08lob/donald_trump_stokes_fears_of_another_jan_6_the/"> <img alt="Donald Trump Stokes Fears Of Another Jan. 6 | The GOP presidential nominee is laying the groundwork to deny the results of another election, raising alarms about a Jan. 6 repeat in 2025." src="https://external-preview.redd.it/fvigkwTTfP8jEPBIgj32iKCmRwlHcrOISF_-6UTLP8E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d0d766e55e99b7e9a92f62d2ce0d90825e7db90" title="Donald Trump Stokes Fears Of Another Jan. 6 | The GOP presidential nominee is laying the groundwork to deny the results of another election, raising alarms about a Jan. 6 repeat in 2025." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://www.huffpost.com/entry/donald-trump-another-jan-6_n_66c8a843e4b0b61af203a798">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/c
+
+## Awkward: RFK Jr. has called the man he just endorsed for president 'probably a sociopath' and 'barely human'
+ - [https://www.reddit.com/r/politics/comments/1f08gl5/awkward_rfk_jr_has_called_the_man_he_just](https://www.reddit.com/r/politics/comments/1f08gl5/awkward_rfk_jr_has_called_the_man_he_just)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T15:50:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f08gl5/awkward_rfk_jr_has_called_the_man_he_just/"> <img alt="Awkward: RFK Jr. has called the man he just endorsed for president 'probably a sociopath' and 'barely human'" src="https://external-preview.redd.it/FnWBxNKZ7b3vS-ghMkSHHhQeM9kHHTfbeHPA8h9I32w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccb61633246eaf2068904f800f79aed3579f2e13" title="Awkward: RFK Jr. has called the man he just endorsed for president 'probably a sociopath' and 'barely human'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.ibtimes.com/awkward-rfk-jr-has-called-man-he-just-endorsed-president-probably-sociopath-barely-human-3740648">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f08gl5/awkward_rfk_jr_has_called_the_man_he_just/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Takes 7-Point Lead Over Donald Trump in New National Poll
+ - [https://www.reddit.com/r/politics/comments/1f07pwo/kamala_harris_takes_7point_lead_over_donald_trump](https://www.reddit.com/r/politics/comments/1f07pwo/kamala_harris_takes_7point_lead_over_donald_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T15:18:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f07pwo/kamala_harris_takes_7point_lead_over_donald_trump/"> <img alt="Kamala Harris Takes 7-Point Lead Over Donald Trump in New National Poll" src="https://external-preview.redd.it/FiraXtc7uOapbnhOz_S3uFLNAGc8DZsfcTm2QfAuD3U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d87d026da07ff7d6a56e3e83f7c96e8f6ba1307d" title="Kamala Harris Takes 7-Point Lead Over Donald Trump in New National Poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CuteRavenix"> /u/CuteRavenix </a> <br /> <span><a href="https://www.newsweek.com/kamala-harris-takes-7-point-lead-over-donald-trump-national-poll-1943901">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f07pwo/kamala_harris_takes_7point_lead_over_donald_trump/">[comments]</a></span> </td></tr></table>
+
+## Saturday Morning Political Cartoon Thread
+ - [https://www.reddit.com/r/politics/comments/1f07maa/saturday_morning_political_cartoon_thread](https://www.reddit.com/r/politics/comments/1f07maa/saturday_morning_political_cartoon_thread)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T15:13:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>It's Saturday, folks. Let's all kick back with a cup of coffee and share some cartoons!</p> <p>Feel free to share political cartoons in this thread. Besides our usual civility policy, there are three rules to follow:</p> <ol> <li><p>Every top-level comment must contain a political cartoon. This means no text-only top-level comments.</p></li> <li><p>It must be an original cartoon. This means no photographs, no edited cartoons, no AI generated images, no templates, no memes and no image macros. OC is allowed, as is animation.</p></li> <li><p>Each top-level comment should only have a maximum of 3 cartoons. </p></li> </ol> <p>That's all. Enjoy your weekend!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/optimalg"> /u/optimalg </a> <br /> <span><a href="https://www.reddit.com/r/politics/comments/1f07maa/saturday_morning_political_cartoon_thread/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politic
+
+## Kamala Harris has cast the most tie-breaking votes of any VP in history.
+ - [https://www.reddit.com/r/politics/comments/1f07kv7/kamala_harris_has_cast_the_most_tiebreaking_votes](https://www.reddit.com/r/politics/comments/1f07kv7/kamala_harris_has_cast_the_most_tiebreaking_votes)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T15:12:14+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ConstableLedDent"> /u/ConstableLedDent </a> <br /> <span><a href="https://ballotpedia.org/Tie-breaking_votes_cast_by_Kamala_Harris_in_the_U.S._Senate">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f07kv7/kamala_harris_has_cast_the_most_tiebreaking_votes/">[comments]</a></span>
+
+## Former Republican FBI director James Comey backs Harris for president
+ - [https://www.reddit.com/r/politics/comments/1f073dk/former_republican_fbi_director_james_comey_backs](https://www.reddit.com/r/politics/comments/1f073dk/former_republican_fbi_director_james_comey_backs)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T14:51:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f073dk/former_republican_fbi_director_james_comey_backs/"> <img alt="Former Republican FBI director James Comey backs Harris for president" src="https://external-preview.redd.it/U1vXaIxwD6dr_8HJUbpNQzXSEmypqUQqetKr7AHRblI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce32a623b6037194b7e8432b5f4d4bf237c37587" title="Former Republican FBI director James Comey backs Harris for president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zealousideal-Sun-706"> /u/Zealousideal-Sun-706 </a> <br /> <span><a href="https://www.usatoday.com/story/news/politics/elections/2024/08/24/james-comey-harris-endorsement/74933198007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f073dk/former_republican_fbi_director_james_comey_backs/">[comments]</a></span> </td></tr></table>
+
+## Trump Is Now the ‘Old’ Candidate. It Might Matter.
+ - [https://www.reddit.com/r/politics/comments/1f06io7/trump_is_now_the_old_candidate_it_might_matter](https://www.reddit.com/r/politics/comments/1f06io7/trump_is_now_the_old_candidate_it_might_matter)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T14:25:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/554555472"> /u/554555472 </a> <br /> <span><a href="https://www.politico.com/news/magazine/2024/08/24/mathur-age-attacks-listicle-00174375">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f06io7/trump_is_now_the_old_candidate_it_might_matter/">[comments]</a></span>
+
+## Democrats try to take patriotism back from GOP
+ - [https://www.reddit.com/r/politics/comments/1f06gt6/democrats_try_to_take_patriotism_back_from_gop](https://www.reddit.com/r/politics/comments/1f06gt6/democrats_try_to_take_patriotism_back_from_gop)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T14:23:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f06gt6/democrats_try_to_take_patriotism_back_from_gop/"> <img alt="Democrats try to take patriotism back from GOP" src="https://external-preview.redd.it/MqpWGFxm2OexFDtw4TsO2Ev3LuD4yMapnSQufQsqE34.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3f89448dc852f356052902301727955f0fbdf0c" title="Democrats try to take patriotism back from GOP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fit-Requirement6701"> /u/Fit-Requirement6701 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4844982-democratic-party-patriotism-harris-speech/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f06gt6/democrats_try_to_take_patriotism_back_from_gop/">[comments]</a></span> </td></tr></table>
+
+## Joe Biden Promised to Be a Bridge. Democrats Finally Made It to the Other Side. | In Chicago, a new Democratic coalition emerged.
+ - [https://www.reddit.com/r/politics/comments/1f0604v/joe_biden_promised_to_be_a_bridge_democrats](https://www.reddit.com/r/politics/comments/1f0604v/joe_biden_promised_to_be_a_bridge_democrats)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T14:02:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0604v/joe_biden_promised_to_be_a_bridge_democrats/"> <img alt="Joe Biden Promised to Be a Bridge. Democrats Finally Made It to the Other Side. | In Chicago, a new Democratic coalition emerged." src="https://external-preview.redd.it/vbnupninmTSuwZiqU4lBFQFGT9n8TqJn4O8jlGR9HVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=119a6fb477fb314680ed2fd246ca92d3df55a702" title="Joe Biden Promised to Be a Bridge. Democrats Finally Made It to the Other Side. | In Chicago, a new Democratic coalition emerged." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br /> <span><a href="https://www.motherjones.com/politics/2024/08/biden-was-a-bridge-walz-harris-dnc-chicago/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0604v/joe_biden_promised_to_be_a_bridge_democrats/">[comments]</a></span> </td></tr></table>
+
+## Trump Is Behind Not Because the Press Is Hyping Kamala but Because He’s Unpopular
+ - [https://www.reddit.com/r/politics/comments/1f05rkr/trump_is_behind_not_because_the_press_is_hyping](https://www.reddit.com/r/politics/comments/1f05rkr/trump_is_behind_not_because_the_press_is_hyping)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T13:51:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f05rkr/trump_is_behind_not_because_the_press_is_hyping/"> <img alt="Trump Is Behind Not Because the Press Is Hyping Kamala but Because He’s Unpopular" src="https://external-preview.redd.it/OHSmOaSLFE4WqkfT-TKV-Dhby2AM9tw8q3TcqjSoH0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f37737cb6dd96d24937b1c2fc8c5a07c273e0d9" title="Trump Is Behind Not Because the Press Is Hyping Kamala but Because He’s Unpopular" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shelbys_foot"> /u/shelbys_foot </a> <br /> <span><a href="https://www.nationalreview.com/corner/trump-is-behind-not-because-the-press-is-hyping-kamala-but-because-hes-unpopular/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f05rkr/trump_is_behind_not_because_the_press_is_hyping/">[comments]</a></span> </td></tr></table>
+
+## Harris leads Trump by wide margin among Hispanic voters in North Carolina: Survey
+ - [https://www.reddit.com/r/politics/comments/1f053ic/harris_leads_trump_by_wide_margin_among_hispanic](https://www.reddit.com/r/politics/comments/1f053ic/harris_leads_trump_by_wide_margin_among_hispanic)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T13:19:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f053ic/harris_leads_trump_by_wide_margin_among_hispanic/"> <img alt="Harris leads Trump by wide margin among Hispanic voters in North Carolina: Survey" src="https://external-preview.redd.it/ZPAl3aa_XqQoKQQyfl5H1G9Ctd-3qhIFaNKf3IodZFA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31b5731e9d1259afe9491f786688899af10ea034" title="Harris leads Trump by wide margin among Hispanic voters in North Carolina: Survey" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cute-Perception2335"> /u/Cute-Perception2335 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4845105-kamala-harris-donald-trump-north-carolina-hispanic-voters">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f053ic/harris_leads_trump_by_wide_margin_among_hispanic/">[comments]</a></span> </td></tr></table>
+
+## Minnesota Lt. Gov. Peggy Flanagan could be nation’s first Indigenous woman to serve as governor
+ - [https://www.reddit.com/r/politics/comments/1f04v4n/minnesota_lt_gov_peggy_flanagan_could_be_nations](https://www.reddit.com/r/politics/comments/1f04v4n/minnesota_lt_gov_peggy_flanagan_could_be_nations)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T13:08:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f04v4n/minnesota_lt_gov_peggy_flanagan_could_be_nations/"> <img alt="Minnesota Lt. Gov. Peggy Flanagan could be nation’s first Indigenous woman to serve as governor" src="https://external-preview.redd.it/-TMDLIbFsuIncQgitHCzSHKoFCTbN4AH2THzPw9pJzU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78f228469538aedd709400c9d4ad6707f3946378" title="Minnesota Lt. Gov. Peggy Flanagan could be nation’s first Indigenous woman to serve as governor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br /> <span><a href="https://www.npr.org/2024/08/23/nx-s1-5078569/peggy-flanagan-minnesota-indigenous-walz-harris-trump-election">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f04v4n/minnesota_lt_gov_peggy_flanagan_could_be_nations/">[comments]</a></span> </td></tr></table>
+
+## Are Republicans losing the culture wars?
+ - [https://www.reddit.com/r/politics/comments/1f04bir/are_republicans_losing_the_culture_wars](https://www.reddit.com/r/politics/comments/1f04bir/are_republicans_losing_the_culture_wars)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T12:40:26+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/OnlyMamaKnows"> /u/OnlyMamaKnows </a> <br /> <span><a href="https://www.politico.com/news/2024/08/24/republicans-culture-war-races-00176166">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f04bir/are_republicans_losing_the_culture_wars/">[comments]</a></span>
+
+## Harris spoke 'not as a Democrat, but as an American,' Republican backing Dem ticket says
+ - [https://www.reddit.com/r/politics/comments/1f047eh/harris_spoke_not_as_a_democrat_but_as_an_american](https://www.reddit.com/r/politics/comments/1f047eh/harris_spoke_not_as_a_democrat_but_as_an_american)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T12:34:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f047eh/harris_spoke_not_as_a_democrat_but_as_an_american/"> <img alt="Harris spoke 'not as a Democrat, but as an American,' Republican backing Dem ticket says" src="https://external-preview.redd.it/6FBYSQR-77J-J5gTvxIiftMHvKWyy-ZovaVxAIucmhE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abc3b35720c9c16d70aed76c8461d0e892594b98" title="Harris spoke 'not as a Democrat, but as an American,' Republican backing Dem ticket says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.msnbc.com/msnbc/amp-video/mmvo217904709878">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f047eh/harris_spoke_not_as_a_democrat_but_as_an_american/">[comments]</a></span> </td></tr></table>
+
+## Foo Fighters Deny Letting Donald Trump Use Their Song at RFK Jr. Rally
+ - [https://www.reddit.com/r/politics/comments/1f0444b/foo_fighters_deny_letting_donald_trump_use_their](https://www.reddit.com/r/politics/comments/1f0444b/foo_fighters_deny_letting_donald_trump_use_their)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T12:29:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f0444b/foo_fighters_deny_letting_donald_trump_use_their/"> <img alt="Foo Fighters Deny Letting Donald Trump Use Their Song at RFK Jr. Rally" src="https://external-preview.redd.it/1rSsSWTuTCHrJ5cJqjOkELR85aYWa7StbOJEleracE4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfaa990c39640bb03448300bb256bbdf1aee6899" title="Foo Fighters Deny Letting Donald Trump Use Their Song at RFK Jr. Rally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrDonMega"> /u/MrDonMega </a> <br /> <span><a href="https://www.newsweek.com/donald-trump-rally-arizona-foo-fighters-song-rfk-jr-1943868">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f0444b/foo_fighters_deny_letting_donald_trump_use_their/">[comments]</a></span> </td></tr></table>
+
+## Ron DeSantis' political star is tarnished after key Florida primary night losses
+ - [https://www.reddit.com/r/politics/comments/1f03zpw/ron_desantis_political_star_is_tarnished_after](https://www.reddit.com/r/politics/comments/1f03zpw/ron_desantis_political_star_is_tarnished_after)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T12:22:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f03zpw/ron_desantis_political_star_is_tarnished_after/"> <img alt="Ron DeSantis' political star is tarnished after key Florida primary night losses" src="https://external-preview.redd.it/HzAU-SLWlTIOrdRXV2Hr57Wo8gW53WHZ2SNWEEgE-xI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7aca23ebbf9ad7ef26b296141ae5bdc03c125960" title="Ron DeSantis' political star is tarnished after key Florida primary night losses" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.nbcnews.com/news/rcna167550">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f03zpw/ron_desantis_political_star_is_tarnished_after/">[comments]</a></span> </td></tr></table>
+
+## Tim Walz gives rural Democrats hope for winning swing states
+ - [https://www.reddit.com/r/politics/comments/1f03rqq/tim_walz_gives_rural_democrats_hope_for_winning](https://www.reddit.com/r/politics/comments/1f03rqq/tim_walz_gives_rural_democrats_hope_for_winning)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T12:10:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f03rqq/tim_walz_gives_rural_democrats_hope_for_winning/"> <img alt="Tim Walz gives rural Democrats hope for winning swing states" src="https://external-preview.redd.it/DmG6IVqiWcubho0k3O_jC6s-m8EHLQCrS-4Fox5dnDw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=797b4f322c3a0ef6f16211fd0e3755b0c48f2499" title="Tim Walz gives rural Democrats hope for winning swing states" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/z8675309z"> /u/z8675309z </a> <br /> <span><a href="https://abcnews.go.com/Politics/tim-walz-rural-democrats-hope-winning-swing-states/story?id=113019013">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f03rqq/tim_walz_gives_rural_democrats_hope_for_winning/">[comments]</a></span> </td></tr></table>
+
+## New Mexico 2024: Harris 52%, Trump 42% - Emerson Polling
+ - [https://www.reddit.com/r/politics/comments/1f03oth/new_mexico_2024_harris_52_trump_42_emerson_polling](https://www.reddit.com/r/politics/comments/1f03oth/new_mexico_2024_harris_52_trump_42_emerson_polling)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T12:05:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f03oth/new_mexico_2024_harris_52_trump_42_emerson_polling/"> <img alt="New Mexico 2024: Harris 52%, Trump 42% - Emerson Polling" src="https://external-preview.redd.it/syRBqJHipAgcCl92ejxsTtNu-KxmzBWhcM962XyjLcg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8db4739ced1492208404beba4bea0f69b833238f" title="New Mexico 2024: Harris 52%, Trump 42% - Emerson Polling" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/brashendeavors"> /u/brashendeavors </a> <br /> <span><a href="https://emersoncollegepolling.com/new-mexico-2024-harris-52-trump-42/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f03oth/new_mexico_2024_harris_52_trump_42_emerson_polling/">[comments]</a></span> </td></tr></table>
+
+## Is Trump OK? Unhinged reaction to rise of Harris worries supporters
+ - [https://www.reddit.com/r/politics/comments/1f03mmj/is_trump_ok_unhinged_reaction_to_rise_of_harris](https://www.reddit.com/r/politics/comments/1f03mmj/is_trump_ok_unhinged_reaction_to_rise_of_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T12:02:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f03mmj/is_trump_ok_unhinged_reaction_to_rise_of_harris/"> <img alt="Is Trump OK? Unhinged reaction to rise of Harris worries supporters" src="https://external-preview.redd.it/jMJz9VFqIMkY0rGVuA3HoeQMWdOe4UuRXdnADPlpAZA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e8dc8c3f28b011b264fc538ea1daa9ac2bd5102" title="Is Trump OK? Unhinged reaction to rise of Harris worries supporters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/i-dm"> /u/i-dm </a> <br /> <span><a href="https://www.theguardian.com/us-news/article/2024/aug/24/donald-trump-mental-fitness-campaign">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f03mmj/is_trump_ok_unhinged_reaction_to_rise_of_harris/">[comments]</a></span> </td></tr></table>
+
+## These Young Women Didn’t Want to Vote for Biden. They’re All In on Harris — In new polls, a large majority of young women plan to vote for the vice president. We talked with eight of them.
+ - [https://www.reddit.com/r/politics/comments/1f01vvv/these_young_women_didnt_want_to_vote_for_biden](https://www.reddit.com/r/politics/comments/1f01vvv/these_young_women_didnt_want_to_vote_for_biden)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T10:09:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f01vvv/these_young_women_didnt_want_to_vote_for_biden/"> <img alt="These Young Women Didn’t Want to Vote for Biden. They’re All In on Harris — In new polls, a large majority of young women plan to vote for the vice president. We talked with eight of them." src="https://external-preview.redd.it/XC5E1xxDmHAhayt0hCim6Tn9znxExnXBSYLGiSayc7o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0d6032e07f502fc44679f8c44f1517c440c0c37" title="These Young Women Didn’t Want to Vote for Biden. They’re All In on Harris — In new polls, a large majority of young women plan to vote for the vice president. We talked with eight of them." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br /> <span><a href="https://www.nytimes.com/2024/08/24/upshot/harris-polling-young-women.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f01v
+
+## Harris, Walz lean into erasing medical debt
+ - [https://www.reddit.com/r/politics/comments/1f01u76/harris_walz_lean_into_erasing_medical_debt](https://www.reddit.com/r/politics/comments/1f01u76/harris_walz_lean_into_erasing_medical_debt)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T10:06:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1f01u76/harris_walz_lean_into_erasing_medical_debt/"> <img alt="Harris, Walz lean into erasing medical debt" src="https://external-preview.redd.it/ML4oEpZ7HzVrTMBj5VqPiHZMEHMe-2M89WVMoEKC2j0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=138f871e26b8a62868743ea8ba4c4de02c7aabe9" title="Harris, Walz lean into erasing medical debt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Visual-Explorer-111"> /u/Visual-Explorer-111 </a> <br /> <span><a href="https://thehill.com/policy/healthcare/4842471-harris-walz-lean-into-erasing-medical-debt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1f01u76/harris_walz_lean_into_erasing_medical_debt/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris says she will aim to pass middle class tax cut as president
+ - [https://www.reddit.com/r/politics/comments/1ezxdpr/kamala_harris_says_she_will_aim_to_pass_middle](https://www.reddit.com/r/politics/comments/1ezxdpr/kamala_harris_says_she_will_aim_to_pass_middle)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T04:57:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Visual-Explorer-111"> /u/Visual-Explorer-111 </a> <br /> <span><a href="https://www.reuters.com/world/us/kamala-harris-says-president-she-will-aim-pass-middle-class-tax-cut-2024-08-23/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezxdpr/kamala_harris_says_she_will_aim_to_pass_middle/">[comments]</a></span>
+
+## Trump's election nightmare comes true as Harris eviscerates MAGA in historic DNC speech
+ - [https://www.reddit.com/r/politics/comments/1ezum0s/trumps_election_nightmare_comes_true_as_harris](https://www.reddit.com/r/politics/comments/1ezum0s/trumps_election_nightmare_comes_true_as_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T02:20:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezum0s/trumps_election_nightmare_comes_true_as_harris/"> <img alt="Trump's election nightmare comes true as Harris eviscerates MAGA in historic DNC speech" src="https://external-preview.redd.it/woXRF1xrFKI5iCcXeLCQNTSnC32wJto-PTDVjcOWQYQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0731f994c02320ebd21a894bc7f9a0d1f50929ba" title="Trump's election nightmare comes true as Harris eviscerates MAGA in historic DNC speech" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br /> <span><a href="https://www.msnbc.com/the-beat-with-ari/watch/trump-s-election-nightmare-comes-true-as-harris-eviscerates-maga-in-historic-dnc-speech-217887301775">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezum0s/trumps_election_nightmare_comes_true_as_harris/">[comments]</a></span> </td></tr></table>
+
+## Crime has declined since Donald Trump was president. He insists on lying about that.
+ - [https://www.reddit.com/r/politics/comments/1ezujlb/crime_has_declined_since_donald_trump_was](https://www.reddit.com/r/politics/comments/1ezujlb/crime_has_declined_since_donald_trump_was)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T02:17:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezujlb/crime_has_declined_since_donald_trump_was/"> <img alt="Crime has declined since Donald Trump was president. He insists on lying about that." src="https://external-preview.redd.it/CX8PEITBe8jf0i3Fv8Y6JQFLDSsxEzTN_LVp3hn2hyc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f888d6e712165a349b30472105e14746ec9e6ed" title="Crime has declined since Donald Trump was president. He insists on lying about that." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Libertarian4lifebro"> /u/Libertarian4lifebro </a> <br /> <span><a href="https://www.usatoday.com/story/opinion/columnist/2024/08/22/trump-election-lies-crime-fbi-stats/74891407007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezujlb/crime_has_declined_since_donald_trump_was/">[comments]</a></span> </td></tr></table>
+
+## Demand soars for viral Harris-Walz camo hat, made in USA unlike made-in-China MAGA hats
+ - [https://www.reddit.com/r/politics/comments/1ezue00/demand_soars_for_viral_harriswalz_camo_hat_made](https://www.reddit.com/r/politics/comments/1ezue00/demand_soars_for_viral_harriswalz_camo_hat_made)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T02:09:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezue00/demand_soars_for_viral_harriswalz_camo_hat_made/"> <img alt="Demand soars for viral Harris-Walz camo hat, made in USA unlike made-in-China MAGA hats" src="https://external-preview.redd.it/w4QdlMGeBKAnaUGguf8Uj9RWKaDbPbhFsEWZskD0mZo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca8cb743e904369ae30a1e7c858930d2bccfa627" title="Demand soars for viral Harris-Walz camo hat, made in USA unlike made-in-China MAGA hats" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ready_Panda"> /u/Ready_Panda </a> <br /> <span><a href="https://www.scmp.com/lifestyle/fashion-beauty/article/3275744/demand-soars-viral-harris-walz-camo-hat-made-usa-unlike-made-china-maga-hats?utm_source=rss_feed">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezue00/demand_soars_for_viral_harriswalz_camo_hat_made/">[comments]</a></span> </td></tr></table>
+
+## RFK Jr. Sold Me Coke at Harvard, Claims Best-Selling Author
+ - [https://www.reddit.com/r/politics/comments/1ezu9bx/rfk_jr_sold_me_coke_at_harvard_claims_bestselling](https://www.reddit.com/r/politics/comments/1ezu9bx/rfk_jr_sold_me_coke_at_harvard_claims_bestselling)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T02:02:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezu9bx/rfk_jr_sold_me_coke_at_harvard_claims_bestselling/"> <img alt="RFK Jr. Sold Me Coke at Harvard, Claims Best-Selling Author" src="https://external-preview.redd.it/t_LVqN5U82pihnRFyg_a5qc3ia9tYZBP56WkqUYsQZU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c42008aa09ac72dc59570b74b4f7f9794e9b5039" title="RFK Jr. Sold Me Coke at Harvard, Claims Best-Selling Author" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WafflePartyOrgy"> /u/WafflePartyOrgy </a> <br /> <span><a href="https://www.thedailybeast.com/rfk-jr-sold-me-coke-at-harvard-claims-best-selling-author">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezu9bx/rfk_jr_sold_me_coke_at_harvard_claims_bestselling/">[comments]</a></span> </td></tr></table>
+
+## Haberman says RFK Jr backing Trump makes sense: ‘Two very transactional people’
+ - [https://www.reddit.com/r/politics/comments/1ezt1gp/haberman_says_rfk_jr_backing_trump_makes_sense](https://www.reddit.com/r/politics/comments/1ezt1gp/haberman_says_rfk_jr_backing_trump_makes_sense)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T01:00:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezt1gp/haberman_says_rfk_jr_backing_trump_makes_sense/"> <img alt="Haberman says RFK Jr backing Trump makes sense: ‘Two very transactional people’" src="https://external-preview.redd.it/o3q9G-mjBgWuXpy-zXnwAziqPKDJKU8c0PbcelpgwJg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cde24792c0957e0f3a235009a497dcee9daadbef" title="Haberman says RFK Jr backing Trump makes sense: ‘Two very transactional people’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/podsnap40"> /u/podsnap40 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4845378-haberman-rfk-jr-trump-makes-sense/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezt1gp/haberman_says_rfk_jr_backing_trump_makes_sense/">[comments]</a></span> </td></tr></table>
+
+## RFK Jr., Trump Form Coalition of Vengeful Whiners
+ - [https://www.reddit.com/r/politics/comments/1ezsoky/rfk_jr_trump_form_coalition_of_vengeful_whiners](https://www.reddit.com/r/politics/comments/1ezsoky/rfk_jr_trump_form_coalition_of_vengeful_whiners)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T00:42:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezsoky/rfk_jr_trump_form_coalition_of_vengeful_whiners/"> <img alt="RFK Jr., Trump Form Coalition of Vengeful Whiners" src="https://external-preview.redd.it/XWWI1h2TtT7zP4iXo2WCElZPgCGZp3_REKJvIkNw0D8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9ce3bc18a677574f636f3a1ecba4fd96008e6e8" title="RFK Jr., Trump Form Coalition of Vengeful Whiners" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br /> <span><a href="https://nymag.com/intelligencer/article/kennedy-trump-form-coalition-of-vengeful-whiners.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezsoky/rfk_jr_trump_form_coalition_of_vengeful_whiners/">[comments]</a></span> </td></tr></table>
+
+## Harris leads Trump by wide margin among Hispanic voters in North Carolina: Survey
+ - [https://www.reddit.com/r/politics/comments/1ezshk6/harris_leads_trump_by_wide_margin_among_hispanic](https://www.reddit.com/r/politics/comments/1ezshk6/harris_leads_trump_by_wide_margin_among_hispanic)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T00:33:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezshk6/harris_leads_trump_by_wide_margin_among_hispanic/"> <img alt="Harris leads Trump by wide margin among Hispanic voters in North Carolina: Survey" src="https://external-preview.redd.it/ZPAl3aa_XqQoKQQyfl5H1G9Ctd-3qhIFaNKf3IodZFA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31b5731e9d1259afe9491f786688899af10ea034" title="Harris leads Trump by wide margin among Hispanic voters in North Carolina: Survey" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CountyBeginning6510"> /u/CountyBeginning6510 </a> <br /> <span><a href="https://thehill.com/homenews/campaign/4845105-kamala-harris-donald-trump-north-carolina-hispanic-voters/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezshk6/harris_leads_trump_by_wide_margin_among_hispanic/">[comments]</a></span> </td></tr></table>
+
+## This 12-Year-Old Black Boy Went Viral For Spanking Trump Followers in Debates
+ - [https://www.reddit.com/r/politics/comments/1ezrt6z/this_12yearold_black_boy_went_viral_for_spanking](https://www.reddit.com/r/politics/comments/1ezrt6z/this_12yearold_black_boy_went_viral_for_spanking)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-08-24T00:01:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ezrt6z/this_12yearold_black_boy_went_viral_for_spanking/"> <img alt="This 12-Year-Old Black Boy Went Viral For Spanking Trump Followers in Debates" src="https://external-preview.redd.it/mDufa6NrPjJ4k4MzzqOnPGmjkNAvdWm2nWc1bFWEQvY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26a96e6456c74f1dfe12f4407416e82b084a6616" title="This 12-Year-Old Black Boy Went Viral For Spanking Trump Followers in Debates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TubeframeMR2"> /u/TubeframeMR2 </a> <br /> <span><a href="https://www.theroot.com/this-12-year-old-black-boy-went-viral-for-spanking-trum-1851630548">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ezrt6z/this_12yearold_black_boy_went_viral_for_spanking/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,275 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed, language:en-US
+
+## New Fraud Alert in Pakistan: Check how a fake parcel delivery SMS could empty your Bank Account
+ - [https://pakobserver.net/new-fraud-alert-in-pakistan-check-how-a-fake-parcel-delivery-sms-could-empty-your-bank-account](https://pakobserver.net/new-fraud-alert-in-pakistan-check-how-a-fake-parcel-delivery-sms-could-empty-your-bank-account)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T17:24:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/23s2d-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Fake Delivery Scam in Pakistan: Pakistanis continue to face ongoing fraud issues due to its large population, poor economy, and gaps in regulatory and enforcement systems while no awareness and latest tech glitches further add to woes. The latest scam surfaced that involves fake courier SMS to empty your bank account in no time. A [&#8230;]
+
+## 3kW, 5kW, 10kW Solar Systems Price in Pakistan August 2024
+ - [https://pakobserver.net/3kw-5kw-10kw-solar-systems-price-in-pakistan-august-2024](https://pakobserver.net/3kw-5kw-10kw-solar-systems-price-in-pakistan-august-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T17:06:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/2DSD2SD-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistanis are quickly moving toward solar energy to deal with inflated power bills after massive taxation, and now solar rates in Pakistan also moving down. With major government-private sector investment, the country aims to generate one-third of its electricity from renewable sources. Despite some challenges, the country&#8217;s solar sector saw massive growth, in both rural [&#8230;]
+
+## PAKvBAN: Pakistan trail by 94 runs as Bangladesh take command with record-setting knock
+ - [https://pakobserver.net/pakvban-pakistan-trail-by-94-runs-as-bangladesh-take-command-with-record-setting-knock](https://pakobserver.net/pakvban-pakistan-trail-by-94-runs-as-bangladesh-take-command-with-record-setting-knock)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T16:09:48+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/456593659_537367625619724_1315877240450166147_n-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI &#8211; Team Bangladesh is in command in first Test against Pakistan at Pindi Cricket Stadium. On the fourth day of the first Test in Rawalpindi, Mushfiqur Rahim played a standout innings of 191, offering Bangladesh a chance for a historic victory over hosts. Rahim&#8217;s innings were crucial in propelling Bangladesh to a first-innings total [&#8230;]
+
+## Lahore Weather Update: Heavy Rains to lash Punjab capital from August 26
+ - [https://pakobserver.net/lahore-weather-update-heavy-rains-to-lash-punjab-capital-from-august-26](https://pakobserver.net/lahore-weather-update-heavy-rains-to-lash-punjab-capital-from-august-26)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T15:08:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/6689a2f47a69d-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; If you are living in the provincial capital Lahore, get ready for another bout of monsoon rain starting from August 26 as several regions are expected to experience downpours. Lahore Weather Mercury in a city of over 11 million will come down a few notches, along with high humidity, and the wind will [&#8230;]
+
+## BISE Rawalpindi cancels August 26 exams due to Chehlum Holiday
+ - [https://pakobserver.net/bise-rawalpindi-cancels-august-26-exams-due-to-chehlum-holiday](https://pakobserver.net/bise-rawalpindi-cancels-august-26-exams-due-to-chehlum-holiday)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T14:43:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/pic_1720508238-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Board of Intermediate and Secondary Education Rawalpindi has announced the postponement of exams scheduled for August 26 due to Chehlum of Hazrat Imam Hussain (AS). In an announcement, board said exams of Chemistry, Islamic History, and Dars-e-Nizami, General Science, Clothing, and Textile groups are cancelled. It said the postponed exams will now be [&#8230;]
+
+## iPhone 16, Airpods 4 coming sooner as ‘Apple’s early release scheduled for Sept 10’
+ - [https://pakobserver.net/iphone-16-airpods-4-coming-sooner-as-apples-early-release-scheduled-for-sept-10](https://pakobserver.net/iphone-16-airpods-4-coming-sooner-as-apples-early-release-scheduled-for-sept-10)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T13:06:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/d3sd2sd-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Tech enthusiasts and Apple fans are excited about iPhone 16 release, with high anticipation driven by speculation on new features, design. The tech giant is poised to reveal its latest lineup of devices early on September 10,  technology journalist for Bloomberg claimed, as he predicted upcoming event will showcase the iPhone 16 series, new Apple [&#8230;]
+
+## Is Natasha Danish Iqbal really free after deadly Karsaz Road Accident?
+ - [https://pakobserver.net/is-natasha-danish-iqbal-really-free-after-deadly-karsaz-road-accident](https://pakobserver.net/is-natasha-danish-iqbal-really-free-after-deadly-karsaz-road-accident)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T12:51:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/3d2sd2sf-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Karachi Karsaz Accident is still all over social media as the prime accused Natasha Danish Iqbal remains in top trends on X and other sites, as she was sent on judicial remand by local court. Natasha Danish, the woman behind wheel of speeding SUV involved in a fatal accident, is still in custody but there [&#8230;]
+
+## BISE Lahore shares update on August 26 exam Schedule amid holiday
+ - [https://pakobserver.net/bise-lahore-shares-update-on-august-26-exam-schedule-amid-holiday](https://pakobserver.net/bise-lahore-shares-update-on-august-26-exam-schedule-amid-holiday)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T12:06:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/matric-computer-studies-paper-leaked-hours-before-exam-in-karachi-1652875850-3602-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Board of Intermediate and Secondary Education Lahore shared update for August 26 examination as parts of country including provincial capital Lahore will observe a public holiday on Monday. The provincial government announced local holiday in Lahore to commemorate 981st Annual Urs of Data Ganj Bakhsh. In light of local holiday, BISE Lahore said [&#8230;]
+
+## Indian PM Narendra Modi’s jet flies over Pakistan on return from Poland
+ - [https://pakobserver.net/indian-pm-narendra-modis-jet-flies-over-pakistan-on-return-from-poland](https://pakobserver.net/indian-pm-narendra-modis-jet-flies-over-pakistan-on-return-from-poland)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T11:56:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/2ds2ds-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; Indian Prime Minister Narendra Modi&#8217;s jet remained in Pakistani airspace for over 40 minutes as he returned from Europe. Modi, who continues to fire salvos at Pakistan in his speeches, was in Poland and Ukraine for three days, to improve ties with President Zelensky amid the war. Modi Plane in Pakistan Pakistani media [&#8230;]
+
+## Punjab CM visits policemen injured in Kacha area bandits’ attack
+ - [https://pakobserver.net/punjab-cm-visits-policemen-injured-in-kacha-area-bandits-attack](https://pakobserver.net/punjab-cm-visits-policemen-injured-in-kacha-area-bandits-attack)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T09:44:26+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/CM-in-RYK-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAHIM YAR KHAN &#8211;  Punjab Chief Minister Maryam Nawaz Sharif on Saturday visited the Sheikh Zayed Hospital in Rahim Yar Khan to inquire after the police officials who got injured in recent launcher attack by the bandits in the Kacha area. During her visit, CM Maryam Nawaz encouraged the injured police officers and prayed for [&#8230;]
+
+## ATMs in Pakistan likely to face disruption; check details
+ - [https://pakobserver.net/atms-in-pakistan-likely-to-face-disruption-check-details](https://pakobserver.net/atms-in-pakistan-likely-to-face-disruption-check-details)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T09:10:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/at-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The services of ATMs [Automated Teller Machine] are likely to face disruption in Pakistan due to dispute over renewal of Long-Distance International license, said a warning by the Pakistan Telecommunication Authority (PTA). The authority in a document revealed non-renewal of the license could affect 50 percent of mobile traffic and 10% of internet [&#8230;]
+
+## UN Report evidence of Israeli genocide against Palestinians
+ - [https://pakobserver.net/un-report-evidence-of-israeli-genocide-against-palestinians](https://pakobserver.net/un-report-evidence-of-israeli-genocide-against-palestinians)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T08:43:25+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/PM-Shehbaz-May-25-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211;  Prime Minister Shehbaz Sharif on Saturday demanded immediate action from international community on the recent report of the UN Office for the Coordination of Humanitarian Affairs (OCHA) regarding the forced eviction of Palestinians from their land and child malnutrition. The Prime Minister said the latest UN report is fresh evidence of the Israeli [&#8230;]
+
+## Shaheen Afridi, wife Ansha welcome their first child
+ - [https://pakobserver.net/shaheen-afridi-wife-ansha-welcome-their-first-child](https://pakobserver.net/shaheen-afridi-wife-ansha-welcome-their-first-child)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T08:42:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/ansh-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; Pakistan pacer Shaheen Shah Afridi and his wife Ansha Afridi have welcomed their first child, it emerged on Saturday. Reports said the couple has named their son Aliyar while official announcement is yet to be made. More to follow&#8230;
+
+## Gaza hospitals struggle as fuel shortages halt services amid ongoing conflict
+ - [https://pakobserver.net/gaza-hospitals-struggle-as-fuel-shortages-halt-services-amid-ongoing-conflict](https://pakobserver.net/gaza-hospitals-struggle-as-fuel-shortages-halt-services-amid-ongoing-conflict)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T08:19:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Gaza-under-darkness-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In the dimly lit halls of Kamal Adwan Hospital in the northern Gaza Strip, mobile phone flashlights have become as vital as stethoscopes for doctors navigating without operational generators due to widespread fuel shortages. The severe scarcity of fuel has compounded the difficulties faced by the already beleaguered healthcare system after more than 10 months [&#8230;]
+
+## Shikhar Dhawan announces retirement from international, domestic cricket
+ - [https://pakobserver.net/shikhar-dhawan-announces-retirement-from-international-domestic-cricket](https://pakobserver.net/shikhar-dhawan-announces-retirement-from-international-domestic-cricket)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T08:06:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Shikar-Dhawan-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MUMBAI &#8211;  Indian cricketer Shikhar Dhawan announced his retirement from international and domestic cricket on Saturday, concluding a distinguished 14-year career. In a video message posted on his social media platforms, the 38-year-old cricketer expressed his fulfillment: “I had one dream, which was to play for India, and I achieved that.” Dhawan reflected on his [&#8230;]
+
+## Rawalpindi announces holiday for schools, colleges on August 26
+ - [https://pakobserver.net/rawalpindi-announces-holiday-for-schools-colleges-on-august-26](https://pakobserver.net/rawalpindi-announces-holiday-for-schools-colleges-on-august-26)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T07:50:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/holiday-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />RAWALPINDI – The Rawalpindi deputy commissioner has announced a public holiday for all public and private educational institutions on August 26, Monday, on account of Chehlum of Hazrat Imam Hussain (R.A). The deputy commissioner has issued a notification stating that universities, colleges and schools located within Rawalpindi&#8217;s Tehsil area will remain closed on Monday, August [&#8230;]
+
+## Kolkata doctor rape-murder case: First CCTV footage surfaced
+ - [https://pakobserver.net/kolkata-doctor-rape-murder-case-first-cctv-footage-surfaced](https://pakobserver.net/kolkata-doctor-rape-murder-case-first-cctv-footage-surfaced)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T07:42:57+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/rape-case-CCTV-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MUMBAI –  The police on Saturday released the the Close Circuit Television (CCTV) footage showing Sanjay Roy, the primary suspect in Kolkta rape-cum-murder case, entering the hospital. The footage that was captured on August 9 showed Roy entering the medical facility at 4: 03 am. He was wrapped in jeans and a T-shirt, and was [&#8230;]
+
+## When will schools and colleges reopen in Lahore, Karachi? Latest Update
+ - [https://pakobserver.net/when-will-schools-and-colleges-reopen-in-lahore-karachi-latest-update](https://pakobserver.net/when-will-schools-and-colleges-reopen-in-lahore-karachi-latest-update)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T07:41:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/05/isb-sch-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Students in Lahore and parts of Sindh are enjoying long weekend, starting from today August 24, as there is holiday for schools and colleges on Aug 26. All schools and colleges used to remain closed on Saturday and Sunday due to two weekly offs in both provinces. However, weekend this time extends to [&#8230;]
+
+## Mashwani’s missing brothers: IHC expresses concerns over state institutions ‘apathy’
+ - [https://pakobserver.net/mashwanis-missing-brothers-ihc-expresses-concerns-over-state-institutions-apathy](https://pakobserver.net/mashwanis-missing-brothers-ihc-expresses-concerns-over-state-institutions-apathy)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T07:18:58+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/IHC-Feb-19-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD — The Islamabad High Court (IHC) on Saturday expressed serious concerns over apathy of the state institutions in the case involved disappearance of two brothers of Pakistan Tehreek-e-Insaf (PTI) Activist Azhar Mashwani. Justice Miangul Hassan Aurangzeb issued a written order and held that there has been no progress or information regarding whereabouts of Azhar [&#8230;]
+
+## Petrol prices in Pakistan from September 1 after expected fortnightly cut
+ - [https://pakobserver.net/petrol-prices-in-pakistan-from-september-1-after-expected-fortnightly-cut](https://pakobserver.net/petrol-prices-in-pakistan-from-september-1-after-expected-fortnightly-cut)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T07:00:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/04/petrol-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD – The petrol and diesel prices are likely to witness a decrease for their consecutive fortnight, starting from September 1, amid drop in international prices. The federal government will revise the petroleum prices on August 31 with new prices coming into effect from first of September till 15th. Reports said the petrol prices declined [&#8230;]
+
+## Two dead, 12 injured in Pishin blast
+ - [https://pakobserver.net/two-dead-12-injured-in-pishin-blast](https://pakobserver.net/two-dead-12-injured-in-pishin-blast)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T06:43:29+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/crime-scene-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />PISHIN &#8211; At least two children were killed and 12 others injured in a blast that took place nearby police line in Pishin area of Balochistan on Saturday. The police said that five policemen are also among the injured. The blast was of great intensity that it left a motorcycle and car parked nearby completely [&#8230;]
+
+## Pakistan passport renewal fee in UAE Dirham from August 2024
+ - [https://pakobserver.net/pakistan-passport-renewal-fee-in-uae-dirham-from-august-2024](https://pakobserver.net/pakistan-passport-renewal-fee-in-uae-dirham-from-august-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T06:16:34+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/passport-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DUBAI – Pakistani nationals residing in the United Arab Emirates (UAE) can visit the Pakistan Consulate General in Dubai and other cities to get their passport renewed. It is necessary for them to keep their travel document updated as with expired passport they will not be allowed to travel. The passport services are available during [&#8230;]
+
+## Justin Bieber, wife Hailey blessed with first child
+ - [https://pakobserver.net/justin-bieber-wife-hailey-blessed-with-first-child](https://pakobserver.net/justin-bieber-wife-hailey-blessed-with-first-child)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T06:07:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/bi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Canadian Singer Justin Bieber and his wife Hailey Bieber were blessed with their first child and it’s a baby boy. The Baby singer made the announcement in an social media post in Instagram where he shared a photos of the newborn’s foot. He also revealed his name in the caption stating: &#8220;WELCOME HOME JACK BLUES [&#8230;]
+
+## Minimum bank statement for Greece Schengen visa from Pakistan August 2024 Update
+ - [https://pakobserver.net/minimum-bank-statement-for-greece-schengen-visa-from-pakistan-august-2024-update](https://pakobserver.net/minimum-bank-statement-for-greece-schengen-visa-from-pakistan-august-2024-update)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T05:53:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/schengen-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Greece has something to offer for every traveler as a fantastic destination with a rich history, stunning landscapes and vibrant culture. The European country enjoys a Mediterranean climate with hot, dry summers and mild winters. The best time to visit is during April to June or September to October for pleasant weather and [&#8230;]
+
+## Bodies of 28 Pakistanis died in Iran bus accident repatriated on special PAF flight
+ - [https://pakobserver.net/bodies-of-28-pakistanis-died-in-iran-bus-accident-repatriated-on-special-paf-flight](https://pakobserver.net/bodies-of-28-pakistanis-died-in-iran-bus-accident-repatriated-on-special-paf-flight)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T05:34:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/ir-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – Bodies of 28 Pakistani nationals, who died in a bus accident in Iran, have been repatriated by a special flight. A C-130 aircraft of Pakistan Air Force which landed at the Shahbaz Air Base in Jacobabad last night also brought the injured persons. The operation was conducted on the instructions of Prime Minister [&#8230;]
+
+## Gold rates in Saudi Arabia today – 24 August 2024
+ - [https://pakobserver.net/gold-rates-in-saudi-arabia-today-24-august-2024](https://pakobserver.net/gold-rates-in-saudi-arabia-today-24-august-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T05:26:40+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/gold-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – The price of per tola price 24-karat gold in Saudi Arabia on Saturday (August 24) surged to 3,525 Saudi Riyal (SAR), according to forex.pk. Furthermore, the 10 grams of 24-k gold is being sold for SAR 3,026 in the kingdom while the per ounce gold price stands at SAR 9,411. Note: The gold [&#8230;]
+
+## UK Pound to PKR rate today – 24 August 2024
+ - [https://pakobserver.net/uk-pound-to-pkr-rate-today-24-august-2024-2](https://pakobserver.net/uk-pound-to-pkr-rate-today-24-august-2024-2)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T05:24:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/pound-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI &#8211; UK Pound GBP&#8217;s buying rate in Pakistan is Rs363.41 while the selling rate is Rs. 367.71 in the open market Thursday. The UK Pound gained 41 paisas against the Pak rupee as compared to previous closing of Rs363 in the open market. GBP to PKR Rate – 24 August 2024 Date  Latest Exchange [&#8230;]
+
+## Dirham to PKR rate today – 24 August 2024
+ - [https://pakobserver.net/dirham-to-pkr-rate-today-24-august-2024](https://pakobserver.net/dirham-to-pkr-rate-today-24-august-2024)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T05:22:20+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/dirham-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />UAE Dirham buying rate in open market of Pakistan stands at Rs75.78 on Saturday while the selling rate is Rs76.23. UAE Dirham remained stable against Pakistani rupee as compared to the previous trading day’s closing, according to forex.pk. AED to PKR Rate – 24 August 2024 Date  Latest Exchange Rate CHANGE  August 24, 2024 Rs75.78 [&#8230;]
+
+## Saudi Riyal to PKR rate today – 24 August 2024
+ - [https://pakobserver.net/saudi-riyal-to-pkr-rate-today-24-august-2024-2](https://pakobserver.net/saudi-riyal-to-pkr-rate-today-24-august-2024-2)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T05:21:17+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/riyal-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The buying rate for Saudi Arabia Riyal in Pakistan stands at Rs73.73 while the selling rate stands at Rs74.43 on Saturday in open market, according to forex.pk. Data available on the currency website showed Riyal remained unchanged against Pakistani rupee in the open market. SAR to PKR Rate – 24 August 2024 Date  [&#8230;]
+
+## Bangladesh flood deluge worsens, affecting millions, death toll rises to 13
+ - [https://pakobserver.net/bangladesh-flood-deluge-worsens-affecting-millions-death-toll-rises-to-13](https://pakobserver.net/bangladesh-flood-deluge-worsens-affecting-millions-death-toll-rises-to-13)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:42:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/2316162811bad6d-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Flash floods wrought havoc in Bangladesh on Friday as the country recovers from weeks of political upheaval, with the death toll rising to 13 and millions more caught in the deluge. The South Asian nation of 170 million people, crisscrossed by hundreds of rivers, has seen frequent floods in recent decades. Monsoon rains cause [&#8230;]
+
+## MPs for no compromise on quality of car manufacturing
+ - [https://pakobserver.net/mps-for-no-compromise-on-quality-of-car-manufacturing](https://pakobserver.net/mps-for-no-compromise-on-quality-of-car-manufacturing)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:42:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Ijaz Kakakhel Islamabad Legislators in upper house of the parliament on Friday directed that there would be no compromise on quality of car manufacturing and urged that no car manufacturer should be allowed to produce cars that do not follow WP-29 regulations, questioning who would be responsible for the lives lost in such vehicles. They [&#8230;]
+
+## Israel could collapse within a year if war continues: Israeli Gen Birk
+ - [https://pakobserver.net/israel-could-collapse-within-a-year-if-war-continues-israeli-gen-birk](https://pakobserver.net/israel-could-collapse-within-a-year-if-war-continues-israeli-gen-birk)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:41:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/Untitled-design-101724417466-0-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Retired Israeli Major General Yitzhak Brik warned on Thursday that Israel could face “collapse within a year” if its current war against Palestinian group Hamas and Lebanese movement Hezbollah continues. “The country really is galloping towards the edge of an abyss,” Brik said in an opinion piece published by Israeli daily Haaretz. “If the war [&#8230;]
+
+## PM orders constitution of SMEDA, other institutions’ boards
+ - [https://pakobserver.net/pm-orders-constitution-of-smeda-other-institutions-boards](https://pakobserver.net/pm-orders-constitution-of-smeda-other-institutions-boards)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:41:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/INP-23-09-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Prime Minister Shehbaz Sharif on Friday chaired a meeting on matters related to the Small and Medium Enterprises Development Authority, emphasizing the crucial role of SMEs in Pakistan’s economy. He said the small and medium enterprises act as the back bone of the country’s economy. Expressing dismay over the non-functioning of the SMEDA Board, the [&#8230;]
+
+## Justice Iqbal recuses himself from internet suspension case
+ - [https://pakobserver.net/justice-iqbal-recuses-himself-from-internet-suspension-case](https://pakobserver.net/justice-iqbal-recuses-himself-from-internet-suspension-case)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:40:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Lahore High Court’s Justice Chaudhry Muhammad Iqbal has recused himself from hearing a case against internet suspension and firewall installation. An application filed by Judicial Activism Panel against internet suspension and firewall installation was due to be heard today. LHC’s justice Chaudhry Iqbal excused to hear the case and directed to move the case [&#8230;]
+
+## Unnecessary noise being made over IMF deal: Aurangzeb
+ - [https://pakobserver.net/unnecessary-noise-being-made-over-imf-deal-aurangzeb](https://pakobserver.net/unnecessary-noise-being-made-over-imf-deal-aurangzeb)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:40:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/07/aurangzeb-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Federal Minister for Finance and Revenue Senator Muhammad Aurangzeb on Friday dismissed concerns about the International Monetary Fund declining the staff-level agreement, exuding confidence that “the lender will approve it next month”. “Just like in the past, there is unnecessary noise about the staff-level agreement not being approved, but we are hopeful that the IMF [&#8230;]
+
+## Pakistan confirms second mpox case
+ - [https://pakobserver.net/pakistan-confirms-second-mpox-case](https://pakobserver.net/pakistan-confirms-second-mpox-case)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:39:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/mpox-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The Ministry of National Health Services, Regulations, and Coordination Friday confirmed the second case of mpox in Pakistan, stating that the virus was detected in an individual who returned to Peshawar from the Gulf country. The patient, who was tested positive for mpox, was diagnosed at the Peshawar Airport by a health desk set [&#8230;]
+
+## PSX gains 8 points
+ - [https://pakobserver.net/psx-gains-8-points](https://pakobserver.net/psx-gains-8-points)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:39:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/psx-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The 100-Index of the Pakistan Stock Exchange (PSX) continued with bullish trend on Friday and gained 08.01 points, showing a slight positive change of 0.01 percent, closing at 78,801.43 points against 78,793.41points on the last working day. A total of 682,409,886 shares were traded during the day as compared to 804,261,249 shares the previous [&#8230;]
+
+## ISSI hosts book launch for CPEC beyond 2030
+ - [https://pakobserver.net/issi-hosts-book-launch-for-cpec-beyond-2030](https://pakobserver.net/issi-hosts-book-launch-for-cpec-beyond-2030)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:07:14+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/08/1-27-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The China Pakistan Study Centre (CPSC) at the Institute of Strategic Studies Islamabad (ISSI) organised the launch of the book, ‘China-Pakistan Economic Corridor Beyond 2030: A Green Alliance for Sustainable Development’ edited by Dr. Rabia Akhtar and published by Friedrich Ebert Stiftung (FES). The event was graced by Senator Mushahid Hussain Sayed as Chief Guest [&#8230;]
+
+## UK High Commission announces steps to simplify visa process for Pakistanis
+ - [https://pakobserver.net/uk-high-commission-announces-steps-to-simplify-visa-process-for-pakistanis](https://pakobserver.net/uk-high-commission-announces-steps-to-simplify-visa-process-for-pakistanis)
+ - RSS feed: https://pakobserver.net/feed
+ - date published: 2024-08-24T01:06:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2024/01/ibd-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Zubair Qureshi UK High Commissioner to Pakistan Jane Marriott has announced steps to simplify the visa process for Pakistanis travelling to Britain, as part of the UK’s move towards a digital immigration system. According to a statement, the UK has extended its e-Visa services to new biometric users, allowing applicants to access their immigration status [&#8230;]
+
