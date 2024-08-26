@@ -1,0 +1,240 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Romania escalates air defence capacity with $592m missile deal
+ - [https://www.reddit.com/r/worldnews/comments/1f14kop/romania_escalates_air_defence_capacity_with_592m](https://www.reddit.com/r/worldnews/comments/1f14kop/romania_escalates_air_defence_capacity_with_592m)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T19:25:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f14kop/romania_escalates_air_defence_capacity_with_592m/"> <img alt="Romania escalates air defence capacity with $592m missile deal" src="https://external-preview.redd.it/wUNMMcJipRNCPdBJanOY8bse0KUGHrWJgDCt8NcoPMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ecbea50e916379b3df908afd0ea12930579b023" title="Romania escalates air defence capacity with $592m missile deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mexer"> /u/Mexer </a> <br /> <span><a href="https://www.airforce-technology.com/news/romania-escalates-air-defence-capacity-with-592m-missile-deal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f14kop/romania_escalates_air_defence_capacity_with_592m/">[comments]</a></span> </td></tr></table>
+
+## Red Sea crisis drives surge in Russian railway freight
+ - [https://www.reddit.com/r/worldnews/comments/1f14add/red_sea_crisis_drives_surge_in_russian_railway](https://www.reddit.com/r/worldnews/comments/1f14add/red_sea_crisis_drives_surge_in_russian_railway)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T19:13:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f14add/red_sea_crisis_drives_surge_in_russian_railway/"> <img alt="Red Sea crisis drives surge in Russian railway freight" src="https://external-preview.redd.it/mipaxYfQNA1Sfx45x6XKl1d4e150SE3mWut5--i_VU8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6434290b6092ba058ccd1d39dd7ff4e32244d1a7" title="Red Sea crisis drives surge in Russian railway freight" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/business/2024/08/25/red-sea-crisis-drives-surge-russian-railway-freight/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f14add/red_sea_crisis_drives_surge_in_russian_railway/">[comments]</a></span> </td></tr></table>
+
+## 'Nasrallah the chicken hunter': Arab world mocks Hezbollah over foiled attack
+ - [https://www.reddit.com/r/worldnews/comments/1f13g2t/nasrallah_the_chicken_hunter_arab_world_mocks](https://www.reddit.com/r/worldnews/comments/1f13g2t/nasrallah_the_chicken_hunter_arab_world_mocks)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T18:37:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f13g2t/nasrallah_the_chicken_hunter_arab_world_mocks/"> <img alt="'Nasrallah the chicken hunter': Arab world mocks Hezbollah over foiled attack" src="https://external-preview.redd.it/jZ8ztMPlP_3CJEvcIG_z0Z6Jeq_2u6MPiRiwwBB4tPA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e97af247a07e87e70078c414247192fd8c330c7" title="'Nasrallah the chicken hunter': Arab world mocks Hezbollah over foiled attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Name_User_"> /u/No-Name_User_ </a> <br /> <span><a href="https://m.jpost.com/middle-east/article-816220">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f13g2t/nasrallah_the_chicken_hunter_arab_world_mocks/">[comments]</a></span> </td></tr></table>
+
+## Russians Will Soon Learn to Pronounce ‘Palyanytsya’ – Ukraine’s New Jet-Propelled Drone
+ - [https://www.reddit.com/r/worldnews/comments/1f13ds3/russians_will_soon_learn_to_pronounce_palyanytsya](https://www.reddit.com/r/worldnews/comments/1f13ds3/russians_will_soon_learn_to_pronounce_palyanytsya)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T18:34:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f13ds3/russians_will_soon_learn_to_pronounce_palyanytsya/"> <img alt="Russians Will Soon Learn to Pronounce ‘Palyanytsya’ – Ukraine’s New Jet-Propelled Drone" src="https://external-preview.redd.it/ItNHdFE00JZwB5GCB4ZS9x7UldxMpNEK7oivgFW69_c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf70bd9234db8241bd5a4ab5a7efa9126927f611" title="Russians Will Soon Learn to Pronounce ‘Palyanytsya’ – Ukraine’s New Jet-Propelled Drone" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br /> <span><a href="https://www.kyivpost.com/post/37934">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f13ds3/russians_will_soon_learn_to_pronounce_palyanytsya/">[comments]</a></span> </td></tr></table>
+
+## Belarus is bringing troops and mercenaries of the Wagner PMC to the border with Ukraine. The Foreign Ministry urged not to make “tragic mistakes” and to withdraw
+ - [https://www.reddit.com/r/worldnews/comments/1f12wob/belarus_is_bringing_troops_and_mercenaries_of_the](https://www.reddit.com/r/worldnews/comments/1f12wob/belarus_is_bringing_troops_and_mercenaries_of_the)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T18:14:39+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Appropriate_Elk_6113"> /u/Appropriate_Elk_6113 </a> <br /> <span><a href="https://unn.ua/en/amp/belarus-is-bringing-troops-and-mercenaries-of-the-wagner-pmc-to-the-border-with-ukraine-the-foreign-ministry-urged-not-to-make-tragic-mistakes-and-to-withdraw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f12wob/belarus_is_bringing_troops_and_mercenaries_of_the/">[comments]</a></span>
+
+## Ukraine war briefing: Zelenskiy vows more ‘retribution’ on Russia as he hails Kursk operation
+ - [https://www.reddit.com/r/worldnews/comments/1f12taj/ukraine_war_briefing_zelenskiy_vows_more](https://www.reddit.com/r/worldnews/comments/1f12taj/ukraine_war_briefing_zelenskiy_vows_more)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T18:10:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f12taj/ukraine_war_briefing_zelenskiy_vows_more/"> <img alt="Ukraine war briefing: Zelenskiy vows more ‘retribution’ on Russia as he hails Kursk operation" src="https://external-preview.redd.it/lRWIeXdREYJoQjlTCe9kv0GMk0ZgRHuUKSnvVjNOZUk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6762090ec4fbdaa51ed1139457d332b7bb4909f8" title="Ukraine war briefing: Zelenskiy vows more ‘retribution’ on Russia as he hails Kursk operation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MotherMilks99"> /u/MotherMilks99 </a> <br /> <span><a href="https://www.theguardian.com/world/article/2024/aug/25/ukraine-war-briefing-zelenskiy-vows-more-retribution-on-russia-as-he-hails-kursk-operation">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f12taj/ukraine_war_briefing_zelenskiy_vows_more/">[comments]</a></span> </td></tr></table>
+
+## Hamas says it rejects new Israeli conditions in Gaza ceasefire talks
+ - [https://www.reddit.com/r/worldnews/comments/1f12de8/hamas_says_it_rejects_new_israeli_conditions_in](https://www.reddit.com/r/worldnews/comments/1f12de8/hamas_says_it_rejects_new_israeli_conditions_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T17:52:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Conamin"> /u/Conamin </a> <br /> <span><a href="https://www.reuters.com/world/middle-east/hamas-says-it-rejects-new-israeli-conditions-gaza-ceasefire-talks-2024-08-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f12de8/hamas_says_it_rejects_new_israeli_conditions_in/">[comments]</a></span>
+
+## Diaries of Mao's secretary at the center of a legal battle over the history of modern China
+ - [https://www.reddit.com/r/worldnews/comments/1f10k8n/diaries_of_maos_secretary_at_the_center_of_a](https://www.reddit.com/r/worldnews/comments/1f10k8n/diaries_of_maos_secretary_at_the_center_of_a)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T16:36:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f10k8n/diaries_of_maos_secretary_at_the_center_of_a/"> <img alt="Diaries of Mao's secretary at the center of a legal battle over the history of modern China" src="https://external-preview.redd.it/p0PruZ8XtZst8A3FJQSU_kR7plpxVS5WxSpnQi2tNuY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e764da55a241757f1055226705c31c11dc2863c" title="Diaries of Mao's secretary at the center of a legal battle over the history of modern China" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lala_b11"> /u/lala_b11 </a> <br /> <span><a href="https://www.nbcnews.com/news/world/us-china-legal-battle-mao-secretary-diaries-rcna167726">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f10k8n/diaries_of_maos_secretary_at_the_center_of_a/">[comments]</a></span> </td></tr></table>
+
+## Zelensky: Diplomacy 'not at the expense of 30% of our territory'
+ - [https://www.reddit.com/r/worldnews/comments/1f1063d/zelensky_diplomacy_not_at_the_expense_of_30_of](https://www.reddit.com/r/worldnews/comments/1f1063d/zelensky_diplomacy_not_at_the_expense_of_30_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T16:19:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f1063d/zelensky_diplomacy_not_at_the_expense_of_30_of/"> <img alt="Zelensky: Diplomacy 'not at the expense of 30% of our territory'" src="https://external-preview.redd.it/fCyKNGQ1iKgc8hjymey2GUhBm1AmkGTaEuqzYxae6Z8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2bd8bab8504f3040aa659dd7d7f32d5d6fd1fb7" title="Zelensky: Diplomacy 'not at the expense of 30% of our territory'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheRealMykola"> /u/TheRealMykola </a> <br /> <span><a href="https://kyivindependent.com/zelensky-diplomacy-not-at-the-expense-of-30-of-our-territory/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f1063d/zelensky_diplomacy_not_at_the_expense_of_30_of/">[comments]</a></span> </td></tr></table>
+
+## Sudan war: Famine rages as peace talks fall short yet again
+ - [https://www.reddit.com/r/worldnews/comments/1f0z8pj/sudan_war_famine_rages_as_peace_talks_fall_short](https://www.reddit.com/r/worldnews/comments/1f0z8pj/sudan_war_famine_rages_as_peace_talks_fall_short)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T15:40:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0z8pj/sudan_war_famine_rages_as_peace_talks_fall_short/"> <img alt="Sudan war: Famine rages as peace talks fall short yet again" src="https://external-preview.redd.it/WKzVghNLJ8r0SbYt0RRoI4wEasrYxZi_hpyIHdJy2zE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57d3d8fdee33787f99053f6176523f580413697a" title="Sudan war: Famine rages as peace talks fall short yet again" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OregonTripleBeam"> /u/OregonTripleBeam </a> <br /> <span><a href="https://www.bbc.com/news/articles/c623levznxjo#amp_tf=From%20%251%24s&amp;aoh=17246003690864&amp;referrer=https%3A%2F%2Fwww.google.com&amp;ampshare=https%3A%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fc623levznxjo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0z8pj/sudan_war_famine_rages_as_peace_talks_fall_short/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy to India: If you stop importing Russian oil, Putin will face challenges
+ - [https://www.reddit.com/r/worldnews/comments/1f0z0bo/zelenskyy_to_india_if_you_stop_importing_russian](https://www.reddit.com/r/worldnews/comments/1f0z0bo/zelenskyy_to_india_if_you_stop_importing_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T15:30:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0z0bo/zelenskyy_to_india_if_you_stop_importing_russian/"> <img alt="Zelenskyy to India: If you stop importing Russian oil, Putin will face challenges" src="https://external-preview.redd.it/Ww3qqpC9COaguRXZFygUvtJyJQTbrI7H0mI4C5NsyxY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8b6eb9eebefc8f252911fa939a8360857979021" title="Zelenskyy to India: If you stop importing Russian oil, Putin will face challenges" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br /> <span><a href="https://www.pravda.com.ua/eng/news/2024/08/25/7471805/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0z0bo/zelenskyy_to_india_if_you_stop_importing_russian/">[comments]</a></span> </td></tr></table>
+
+## Man arrested over suspected terror attack explosion at French synagogue
+ - [https://www.reddit.com/r/worldnews/comments/1f0yyie/man_arrested_over_suspected_terror_attack](https://www.reddit.com/r/worldnews/comments/1f0yyie/man_arrested_over_suspected_terror_attack)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T15:27:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0yyie/man_arrested_over_suspected_terror_attack/"> <img alt="Man arrested over suspected terror attack explosion at French synagogue" src="https://external-preview.redd.it/7tZCkk5M6wQvUZaRJ37o7zkrDxsvRkMmcqLq7FqhvzU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9dcd3ad54dc020e55c66b29dc3ef2de4a4d840d" title="Man arrested over suspected terror attack explosion at French synagogue" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahad_Haam"> /u/Ahad_Haam </a> <br /> <span><a href="https://www.timesofisrael.com/man-arrested-over-suspected-terror-attack-explosion-at-french-synagogue/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0yyie/man_arrested_over_suspected_terror_attack/">[comments]</a></span> </td></tr></table>
+
+## Poland's first F-35 fighter jet nears completion
+ - [https://www.reddit.com/r/worldnews/comments/1f0yl14/polands_first_f35_fighter_jet_nears_completion](https://www.reddit.com/r/worldnews/comments/1f0yl14/polands_first_f35_fighter_jet_nears_completion)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T15:11:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0yl14/polands_first_f35_fighter_jet_nears_completion/"> <img alt="Poland's first F-35 fighter jet nears completion" src="https://external-preview.redd.it/qqbSAly8Ac0TEZQcYTg6CJ6Ow6H-0i9gdpP6qIsY5pg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b37f85ea77382795a3f2f1096fe2177c02e2fb8" title="Poland's first F-35 fighter jet nears completion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BubsyFanboy"> /u/BubsyFanboy </a> <br /> <span><a href="https://www.polskieradio.pl/395/7784/Artykul/3417526,polands-first-f35-fighter-jet-nears-completion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0yl14/polands_first_f35_fighter_jet_nears_completion/">[comments]</a></span> </td></tr></table>
+
+## Hezbollah's attempts cybersecurity intimidation campaign on Telegram before foiled attack
+ - [https://www.reddit.com/r/worldnews/comments/1f0xw24/hezbollahs_attempts_cybersecurity_intimidation](https://www.reddit.com/r/worldnews/comments/1f0xw24/hezbollahs_attempts_cybersecurity_intimidation)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T14:41:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0xw24/hezbollahs_attempts_cybersecurity_intimidation/"> <img alt="Hezbollah's attempts cybersecurity intimidation campaign on Telegram before foiled attack" src="https://external-preview.redd.it/GGg0DMf3t8PiXPIO-UtocyE3RKKMK64IMpLpP1eIWgo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=aebf4d2f61a3ab7ef85b04d5e86e8b412d643397" title="Hezbollah's attempts cybersecurity intimidation campaign on Telegram before foiled attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br /> <span><a href="https://www.ynetnews.com/article/by9jit00sc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0xw24/hezbollahs_attempts_cybersecurity_intimidation/">[comments]</a></span> </td></tr></table>
+
+## Ukraine says it used its new long-range 'Palianytsia' rocket drone for the first time as it targets air bases deep inside Russia
+ - [https://www.reddit.com/r/worldnews/comments/1f0xlmb/ukraine_says_it_used_its_new_longrange](https://www.reddit.com/r/worldnews/comments/1f0xlmb/ukraine_says_it_used_its_new_longrange)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T14:28:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0xlmb/ukraine_says_it_used_its_new_longrange/"> <img alt="Ukraine says it used its new long-range 'Palianytsia' rocket drone for the first time as it targets air bases deep inside Russia" src="https://external-preview.redd.it/n7ChlsxXWKETpSCGuSO9WI7IbgT_lBIZQLUNgVr-TIY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86b48926f246c9581f7cefe2ec7cc4c17e02b39b" title="Ukraine says it used its new long-range 'Palianytsia' rocket drone for the first time as it targets air bases deep inside Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AngelicAlytta"> /u/AngelicAlytta </a> <br /> <span><a href="https://www.businessinsider.com/ukraine-long-range-palianytsia-rocket-drone-hybrid-russia-war-2024-8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0xlmb/ukraine_says_it_used_its_new_longrange/">[comments]</a></span> </td></tr></table>
+
+## 'We have an explosion every two minutes,' head of Kherson regional administration
+ - [https://www.reddit.com/r/worldnews/comments/1f0wr7a/we_have_an_explosion_every_two_minutes_head_of](https://www.reddit.com/r/worldnews/comments/1f0wr7a/we_have_an_explosion_every_two_minutes_head_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T13:49:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0wr7a/we_have_an_explosion_every_two_minutes_head_of/"> <img alt="'We have an explosion every two minutes,' head of Kherson regional administration" src="https://external-preview.redd.it/W40HDvhN5oM0BdOPwx2NTdmGbB_JknK_miEtA0j8Ky4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65808bc646d39d5a0cf9d105ffc9eef0bc105d16" title="'We have an explosion every two minutes,' head of Kherson regional administration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HorsesMeow"> /u/HorsesMeow </a> <br /> <span><a href="https://newsukraine.rbc.ua/interview/we-have-an-explosion-every-two-minutes-head-1724063893.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0wr7a/we_have_an_explosion_every_two_minutes_head_of/">[comments]</a></span> </td></tr></table>
+
+## In rare break with China, North Korea objects to telecoms plan by border
+ - [https://www.reddit.com/r/worldnews/comments/1f0v789/in_rare_break_with_china_north_korea_objects_to](https://www.reddit.com/r/worldnews/comments/1f0v789/in_rare_break_with_china_north_korea_objects_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T12:28:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0v789/in_rare_break_with_china_north_korea_objects_to/"> <img alt="In rare break with China, North Korea objects to telecoms plan by border" src="https://external-preview.redd.it/d74oepBc5boHDrh75y6maZ6BQDhofqTh75uW8HpL1Y0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05fc70ffb46d3ca06dea6c25b490b09a66c01843" title="In rare break with China, North Korea objects to telecoms plan by border" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br /> <span><a href="https://english.kyodonews.net/news/2024/08/05b60d379329-in-rare-break-with-china-n-korea-objects-to-telecoms-plan-by-border.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0v789/in_rare_break_with_china_north_korea_objects_to/">[comments]</a></span> </td></tr></table>
+
+## Reuters journalist missing after Russian strike on hotel in Kramatorsk
+ - [https://www.reddit.com/r/worldnews/comments/1f0to4b/reuters_journalist_missing_after_russian_strike](https://www.reddit.com/r/worldnews/comments/1f0to4b/reuters_journalist_missing_after_russian_strike)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T10:54:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0to4b/reuters_journalist_missing_after_russian_strike/"> <img alt="Reuters journalist missing after Russian strike on hotel in Kramatorsk" src="https://external-preview.redd.it/3dgDgJJrzTv2BKdfmZrAOdVZrWCkxSwTD2fWe-i0bL8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3497b1a74048404afe2c22ff4f832293dadd908" title="Reuters journalist missing after Russian strike on hotel in Kramatorsk" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br /> <span><a href="https://www.telegraph.co.uk/world-news/2024/08/25/reuters-journalist-missing-after-russian-strike-kramatorsk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0to4b/reuters_journalist_missing_after_russian_strike/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy jokes he may not answer Duda’s mercy call amid potential Russian retreat
+ - [https://www.reddit.com/r/worldnews/comments/1f0tko3/zelenskyy_jokes_he_may_not_answer_dudas_mercy](https://www.reddit.com/r/worldnews/comments/1f0tko3/zelenskyy_jokes_he_may_not_answer_dudas_mercy)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T10:47:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0tko3/zelenskyy_jokes_he_may_not_answer_dudas_mercy/"> <img alt="Zelenskyy jokes he may not answer Duda’s mercy call amid potential Russian retreat" src="https://external-preview.redd.it/X5Tk_s1MHJIZ8anWVmCOEBI_GNFXMEHhRCupQM1GQAU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae58dd41fd259c4b827d02ddfc68bfc0913331b9" title="Zelenskyy jokes he may not answer Duda’s mercy call amid potential Russian retreat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KrzyHooy"> /u/KrzyHooy </a> <br /> <span><a href="https://tvpworld.com/81813520/zelenskyy-jokes-he-may-not-answer-dudas-mercy-call-amid-potential-russian-retreat">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0tko3/zelenskyy_jokes_he_may_not_answer_dudas_mercy/">[comments]</a></span> </td></tr></table>
+
+## New Dutch leader bans phones in Cabinet meetings to dial back espionage threat
+ - [https://www.reddit.com/r/worldnews/comments/1f0tetz/new_dutch_leader_bans_phones_in_cabinet_meetings](https://www.reddit.com/r/worldnews/comments/1f0tetz/new_dutch_leader_bans_phones_in_cabinet_meetings)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T10:36:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0tetz/new_dutch_leader_bans_phones_in_cabinet_meetings/"> <img alt="New Dutch leader bans phones in Cabinet meetings to dial back espionage threat" src="https://external-preview.redd.it/SUs8EeHukWWkS9JJS3RiW2ajQnspYg64UWBDfOq8bDE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d10cc2efde1b8424f410c05ff5b6e2efeb558302" title="New Dutch leader bans phones in Cabinet meetings to dial back espionage threat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doodly-123"> /u/doodly-123 </a> <br /> <span><a href="https://apnews.com/article/netherlands-phones-ban-politics-cabinet-espionage-schoof-3846bc8bbd2dd1313c3245a5fb5af244">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0tetz/new_dutch_leader_bans_phones_in_cabinet_meetings/">[comments]</a></span> </td></tr></table>
+
+## Israel acted on intelligence to preempt Hezbollah attack, security source says
+ - [https://www.reddit.com/r/worldnews/comments/1f0szx3/israel_acted_on_intelligence_to_preempt_hezbollah](https://www.reddit.com/r/worldnews/comments/1f0szx3/israel_acted_on_intelligence_to_preempt_hezbollah)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T10:07:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0szx3/israel_acted_on_intelligence_to_preempt_hezbollah/"> <img alt="Israel acted on intelligence to preempt Hezbollah attack, security source says" src="https://external-preview.redd.it/strfJju51ZKeFTmvwKHfOqOFHmTIFga_oQOvBPG2f_c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=005a5a8c230955c15714dbe1ce32c91530bc6ce9" title="Israel acted on intelligence to preempt Hezbollah attack, security source says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zealousideal-Ask4232"> /u/Zealousideal-Ask4232 </a> <br /> <span><a href="https://www.voanews.com/a/israel-acted-on-intelligence-to-stop-hezbollah-firing-thousands-of-rockets-and-drones-security-source-says/7756139.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0szx3/israel_acted_on_intelligence_to_preempt_hezbollah/">[comments]</a></span> </td></tr></table>
+
+## Malaysian PM Anwar calls for West to stop skewing media narratives on Gaza conflict, says no need to lecture Islamic world on democracy, human rights
+ - [https://www.reddit.com/r/worldnews/comments/1f0slor/malaysian_pm_anwar_calls_for_west_to_stop_skewing](https://www.reddit.com/r/worldnews/comments/1f0slor/malaysian_pm_anwar_calls_for_west_to_stop_skewing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T09:38:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0slor/malaysian_pm_anwar_calls_for_west_to_stop_skewing/"> <img alt="Malaysian PM Anwar calls for West to stop skewing media narratives on Gaza conflict, says no need to lecture Islamic world on democracy, human rights" src="https://external-preview.redd.it/C709e29OzqubVCZJG0ufHYQfSFfkhlD4chy0QseTXIY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=22c9eca571de8a3c3e7b62db6323a993f0e37f36" title="Malaysian PM Anwar calls for West to stop skewing media narratives on Gaza conflict, says no need to lecture Islamic world on democracy, human rights" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Forsaken-Duck-8142"> /u/Forsaken-Duck-8142 </a> <br /> <span><a href="https://www.malaymail.com/news/malaysia/2024/08/25/anwar-calls-for-west-to-stop-skewing-media-narratives-on-gaza-conflict-says-no-need-to-lecture-islamic-world-on-democracy-human-rights/148170">[link]</a></span> &#32; <span><a
+
+## Zelenskiy touts new 'drone missile', calls Putin 'sick old man' | Reuters
+ - [https://www.reddit.com/r/worldnews/comments/1f0s0tf/zelenskiy_touts_new_drone_missile_calls_putin](https://www.reddit.com/r/worldnews/comments/1f0s0tf/zelenskiy_touts_new_drone_missile_calls_putin)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T08:54:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BobbyLucero"> /u/BobbyLucero </a> <br /> <span><a href="https://www.reuters.com/world/europe/zelenskiy-signs-law-ukraine-ratifying-rome-statute-2024-08-24/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0s0tf/zelenskiy_touts_new_drone_missile_calls_putin/">[comments]</a></span>
+
+## Zelenskyy seeks tie-up with India for producing drones, electronic warfare systems
+ - [https://www.reddit.com/r/worldnews/comments/1f0ryzs/zelenskyy_seeks_tieup_with_india_for_producing](https://www.reddit.com/r/worldnews/comments/1f0ryzs/zelenskyy_seeks_tieup_with_india_for_producing)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T08:51:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0ryzs/zelenskyy_seeks_tieup_with_india_for_producing/"> <img alt="Zelenskyy seeks tie-up with India for producing drones, electronic warfare systems" src="https://external-preview.redd.it/m61tSQHkfnajTdGrZUMFZmp4p0bICDuZKnjkKSZW3wA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89c05ae9e2822e4069eabeba00e0ed371c144117" title="Zelenskyy seeks tie-up with India for producing drones, electronic warfare systems" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lerkstar"> /u/lerkstar </a> <br /> <span><a href="https://www.thehindu.com/news/international/zelenskyy-seeks-tie-up-with-india-for-producing-drones-electronic-warfare-systems/article68563355.ece">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0ryzs/zelenskyy_seeks_tieup_with_india_for_producing/">[comments]</a></span> </td></tr></table>
+
+## 23,000 Ukrainian soldiers trained, Polish tanks active in Kursk area, says Andrzej Duda
+ - [https://www.reddit.com/r/worldnews/comments/1f0rrro/23000_ukrainian_soldiers_trained_polish_tanks](https://www.reddit.com/r/worldnews/comments/1f0rrro/23000_ukrainian_soldiers_trained_polish_tanks)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T08:36:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/The_New_Voice"> /u/The_New_Voice </a> <br /> <span><a href="https://english.nv.ua/nation/poland-trained-23-000-ukrainian-soldiers-tanks-now-in-kursk-battle-duda-says-50445618.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0rrro/23000_ukrainian_soldiers_trained_polish_tanks/">[comments]</a></span>
+
+## Over 100 Ukrainian soldiers return home following POW exchange with Russia
+ - [https://www.reddit.com/r/worldnews/comments/1f0rotb/over_100_ukrainian_soldiers_return_home_following](https://www.reddit.com/r/worldnews/comments/1f0rotb/over_100_ukrainian_soldiers_return_home_following)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T08:29:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0rotb/over_100_ukrainian_soldiers_return_home_following/"> <img alt="Over 100 Ukrainian soldiers return home following POW exchange with Russia" src="https://external-preview.redd.it/GdZlP_gH-kgB_KJ2FWplHG2-ymoMbw4Ws5VgnQQ4JTo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e44a84e7e47434f6b5e0a8840477e99e734d399d" title="Over 100 Ukrainian soldiers return home following POW exchange with Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KrzyHooy"> /u/KrzyHooy </a> <br /> <span><a href="https://tvpworld.com/81812675/over-100-ukrainian-soldiers-return-home-following-pow-exchange-with-russia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0rotb/over_100_ukrainian_soldiers_return_home_following/">[comments]</a></span> </td></tr></table>
+
+## Ukraine threatens attacks on Moscow and St. Petersburg to push Russia to negotiate
+ - [https://www.reddit.com/r/worldnews/comments/1f0ps28/ukraine_threatens_attacks_on_moscow_and_st](https://www.reddit.com/r/worldnews/comments/1f0ps28/ukraine_threatens_attacks_on_moscow_and_st)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T06:11:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0ps28/ukraine_threatens_attacks_on_moscow_and_st/"> <img alt="Ukraine threatens attacks on Moscow and St. Petersburg to push Russia to negotiate" src="https://external-preview.redd.it/NVQbF0dIS8rzxjQnJ7XRHsTcVT0JBdFAvb6bcAVjdIg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d220ec5a8e7c2304beca96663a15b30bc01d3305" title="Ukraine threatens attacks on Moscow and St. Petersburg to push Russia to negotiate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntlDogOfMystery"> /u/IntlDogOfMystery </a> <br /> <span><a href="https://newsukraine.rbc.ua/news/ukraine-threatens-attacks-on-moscow-and-st-1724545431.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0ps28/ukraine_threatens_attacks_on_moscow_and_st/">[comments]</a></span> </td></tr></table>
+
+## EU: Maduro has not shown evidence to declare victory in Venezuela elections
+ - [https://www.reddit.com/r/worldnews/comments/1f0p5qn/eu_maduro_has_not_shown_evidence_to_declare](https://www.reddit.com/r/worldnews/comments/1f0p5qn/eu_maduro_has_not_shown_evidence_to_declare)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T05:29:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0p5qn/eu_maduro_has_not_shown_evidence_to_declare/"> <img alt="EU: Maduro has not shown evidence to declare victory in Venezuela elections" src="https://external-preview.redd.it/s3LUZKlRtTTeUkY7Vvt2qxL8l7dIkKHKTTwAEkjxjdU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33c82e7a51d7ad0ae89c60bc29c7d14e41efd6fa" title="EU: Maduro has not shown evidence to declare victory in Venezuela elections" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br /> <span><a href="https://www.voanews.com/a/eu-maduro-has-not-shown-evidence-to-declare-victory-in-venezuela-elections/7756118.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0p5qn/eu_maduro_has_not_shown_evidence_to_declare/">[comments]</a></span> </td></tr></table>
+
+## Clinical trial set to begin in Japan for medicine to help grow teeth
+ - [https://www.reddit.com/r/worldnews/comments/1f0ocah/clinical_trial_set_to_begin_in_japan_for_medicine](https://www.reddit.com/r/worldnews/comments/1f0ocah/clinical_trial_set_to_begin_in_japan_for_medicine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T04:37:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0ocah/clinical_trial_set_to_begin_in_japan_for_medicine/"> <img alt="Clinical trial set to begin in Japan for medicine to help grow teeth" src="https://external-preview.redd.it/9ZwIZsPEQDIEfG_wRkil_9JcdNpl4nTfYWP2zIQyP8Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08e7ca45a4fb2309f0daced30756d3f6e642dc21" title="Clinical trial set to begin in Japan for medicine to help grow teeth" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Urmomsjuicyvagina"> /u/Urmomsjuicyvagina </a> <br /> <span><a href="https://www.japantimes.co.jp/news/2024/08/23/japan/science-health/teeth-regrowth-trial/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0ocah/clinical_trial_set_to_begin_in_japan_for_medicine/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 913, Part 1 (Thread #1060)
+ - [https://www.reddit.com/r/worldnews/comments/1f0nryy/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1f0nryy/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T04:02:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0nryy/rworldnews_live_thread_russian_invasion_of/"> <img alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 913, Part 1 (Thread #1060)" src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 913, Part 1 (Thread #1060)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br /> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0nryy/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Hezbollah: 'We launched an attack in revenge for the killing of Fuad Shukr'
+ - [https://www.reddit.com/r/worldnews/comments/1f0nafk/hezbollah_we_launched_an_attack_in_revenge_for](https://www.reddit.com/r/worldnews/comments/1f0nafk/hezbollah_we_launched_an_attack_in_revenge_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T03:34:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DanDan1993"> /u/DanDan1993 </a> <br /> <span><a href="https://m.jpost.com/breaking-news/article-816166">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0nafk/hezbollah_we_launched_an_attack_in_revenge_for/">[comments]</a></span>
+
+## Hamas said to decide to target Israelis abroad in bid to avenge Haniyeh killing
+ - [https://www.reddit.com/r/worldnews/comments/1f0m8xa/hamas_said_to_decide_to_target_israelis_abroad_in](https://www.reddit.com/r/worldnews/comments/1f0m8xa/hamas_said_to_decide_to_target_israelis_abroad_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T02:35:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Consistent-Bat-20"> /u/Consistent-Bat-20 </a> <br /> <span><a href="https://www.timesofisrael.com/hamas-said-to-decide-to-target-israelis-abroad-in-bid-to-avenge-haniyeh-killing/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0m8xa/hamas_said_to_decide_to_target_israelis_abroad_in/">[comments]</a></span>
+
+## IDF says it launched preemptive strike in Lebanon ahead of Hezbollah attack
+ - [https://www.reddit.com/r/worldnews/comments/1f0lvky/idf_says_it_launched_preemptive_strike_in_lebanon](https://www.reddit.com/r/worldnews/comments/1f0lvky/idf_says_it_launched_preemptive_strike_in_lebanon)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T02:15:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f0lvky/idf_says_it_launched_preemptive_strike_in_lebanon/"> <img alt="IDF says it launched preemptive strike in Lebanon ahead of Hezbollah attack" src="https://external-preview.redd.it/AncY7IABdV_YP5ohhCqh0MxEYCpCK8KjZNGTkzT94gg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa898a484ec99ada50fb536dd6284946f170e670" title="IDF says it launched preemptive strike in Lebanon ahead of Hezbollah attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xCaptainNutz"> /u/xCaptainNutz </a> <br /> <span><a href="https://www.axios.com/2024/08/25/israel-hezbollah-lebanon-attack">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0lvky/idf_says_it_launched_preemptive_strike_in_lebanon/">[comments]</a></span> </td></tr></table>
+
+## NATO debates protecting Ukrainian skies from Russian missiles, says Andrzej Duda
+ - [https://www.reddit.com/r/worldnews/comments/1f0lay1/nato_debates_protecting_ukrainian_skies_from](https://www.reddit.com/r/worldnews/comments/1f0lay1/nato_debates_protecting_ukrainian_skies_from)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-08-25T01:44:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheRealMykola"> /u/TheRealMykola </a> <br /> <span><a href="https://english.nv.ua/nation/nato-discusses-protecting-ukraine-from-russian-missiles-50445630.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f0lay1/nato_debates_protecting_ukrainian_skies_from/">[comments]</a></span>
+

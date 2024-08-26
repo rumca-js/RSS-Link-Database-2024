@@ -1,0 +1,226 @@
+# Source:All things Warhammer!, URL:https://www.reddit.com/r/Warhammer/.rss, language:en
+
+## My lord of hubris in all it's glutony
+ - [https://www.reddit.com/r/Warhammer/comments/1f18t9b/my_lord_of_hubris_in_all_its_glutony](https://www.reddit.com/r/Warhammer/comments/1f18t9b/my_lord_of_hubris_in_all_its_glutony)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T22:31:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f18t9b/my_lord_of_hubris_in_all_its_glutony/"> <img alt="My lord of hubris in all it's glutony" src="https://preview.redd.it/o0su74mqzvkd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3d1a7c9fdbf5f23389f4a0bf3e093920f61c99c" title="My lord of hubris in all it's glutony" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My WIP in this big fat boy that is glutos</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kabroc"> /u/kabroc </a> <br /> <span><a href="https://i.redd.it/o0su74mqzvkd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f18t9b/my_lord_of_hubris_in_all_its_glutony/">[comments]</a></span> </td></tr></table>
+
+## Flamer guardswoman
+ - [https://www.reddit.com/r/Warhammer/comments/1f16zk8/flamer_guardswoman](https://www.reddit.com/r/Warhammer/comments/1f16zk8/flamer_guardswoman)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T21:09:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f16zk8/flamer_guardswoman/"> <img alt="Flamer guardswoman " src="https://b.thumbs.redditmedia.com/tWYylaZ0SyZTWqD9LpmdgrJhvsXxTt79c6Tf6tSoSrY.jpg" title="Flamer guardswoman " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Painted a flame trooper as a cadian white shield still a WIP C&amp;C welcome and appreciated </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OccasionNervous3237"> /u/OccasionNervous3237 </a> <br /> <span><a href="https://www.reddit.com/gallery/1f16zk8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f16zk8/flamer_guardswoman/">[comments]</a></span> </td></tr></table>
+
+## Having some fun with the squigs, WIP
+ - [https://www.reddit.com/r/Warhammer/comments/1f16s9q/having_some_fun_with_the_squigs_wip](https://www.reddit.com/r/Warhammer/comments/1f16s9q/having_some_fun_with_the_squigs_wip)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T21:00:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f16s9q/having_some_fun_with_the_squigs_wip/"> <img alt="Having some fun with the squigs, WIP" src="https://preview.redd.it/5jh4cgznjvkd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c7c56fc8b6faaee6aa6e298efdffdb520058e11" title="Having some fun with the squigs, WIP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mac8391"> /u/Mac8391 </a> <br /> <span><a href="https://i.redd.it/5jh4cgznjvkd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f16s9q/having_some_fun_with_the_squigs_wip/">[comments]</a></span> </td></tr></table>
+
+## The Tabletop Alliance Has Relaunched!
+ - [https://www.reddit.com/r/Warhammer/comments/1f15q4o/the_tabletop_alliance_has_relaunched](https://www.reddit.com/r/Warhammer/comments/1f15q4o/the_tabletop_alliance_has_relaunched)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T20:15:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f15q4o/the_tabletop_alliance_has_relaunched/"> <img alt="The Tabletop Alliance Has Relaunched!" src="https://external-preview.redd.it/2HAiLMEgM4pwg_73oZML2pmuY6XEMPZKJRB9DOAmAVY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7b02f3351efd5b734d4158e07b3c48d22814856" title="The Tabletop Alliance Has Relaunched!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="Https://www.youtube.com/@ttalliance">Https://www.youtube.com/@ttalliance</a> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hayman021"> /u/Hayman021 </a> <br /> <span><a href="https://www.youtube.com/@ttalliance">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f15q4o/the_tabletop_alliance_has_relaunched/">[comments]</a></span> </td></tr></table>
+
+## My first mini in 18 years
+ - [https://www.reddit.com/r/Warhammer/comments/1f15mdi/my_first_mini_in_18_years](https://www.reddit.com/r/Warhammer/comments/1f15mdi/my_first_mini_in_18_years)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T20:11:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f15mdi/my_first_mini_in_18_years/"> <img alt="My first mini in 18 years" src="https://a.thumbs.redditmedia.com/1_Fqf9tHIlJU-XM5uY8Ifb0Xex1a31Uryr3HV7XhrS4.jpg" title="My first mini in 18 years" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Picked up the hobby again after 18 years for some headspace.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mytoria2"> /u/Mytoria2 </a> <br /> <span><a href="https://www.reddit.com/gallery/1f15mdi">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f15mdi/my_first_mini_in_18_years/">[comments]</a></span> </td></tr></table>
+
+## A fantasy tavern i am making out of xps foam for tabletop games. It has 3 playable floors (see last pics)
+ - [https://www.reddit.com/r/Warhammer/comments/1f153z6/a_fantasy_tavern_i_am_making_out_of_xps_foam_for](https://www.reddit.com/r/Warhammer/comments/1f153z6/a_fantasy_tavern_i_am_making_out_of_xps_foam_for)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T19:49:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f153z6/a_fantasy_tavern_i_am_making_out_of_xps_foam_for/"> <img alt="A fantasy tavern i am making out of xps foam for tabletop games. It has 3 playable floors (see last pics)" src="https://b.thumbs.redditmedia.com/mFS6m5qG4Ja7JGYgVTH7vYWKQY_XLtT6Kxpmjfr4vQE.jpg" title="A fantasy tavern i am making out of xps foam for tabletop games. It has 3 playable floors (see last pics)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wouter-Man"> /u/Wouter-Man </a> <br /> <span><a href="https://www.reddit.com/gallery/1f153z6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f153z6/a_fantasy_tavern_i_am_making_out_of_xps_foam_for/">[comments]</a></span> </td></tr></table>
+
+## Sister made her fist model
+ - [https://www.reddit.com/r/Warhammer/comments/1f14oxc/sister_made_her_fist_model](https://www.reddit.com/r/Warhammer/comments/1f14oxc/sister_made_her_fist_model)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T19:31:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f14oxc/sister_made_her_fist_model/"> <img alt="Sister made her fist model " src="https://b.thumbs.redditmedia.com/IvM0wGizk58ue3jAHJuq8F9cQkMG6Io0NMbgiXMAgWw.jpg" title="Sister made her fist model " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>She never did something like that, she had lots of fun. Her husband and I are trying to get her to play with us😊</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhiT8"> /u/WhiT8 </a> <br /> <span><a href="https://www.reddit.com/gallery/1f14oxc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f14oxc/sister_made_her_fist_model/">[comments]</a></span> </td></tr></table>
+
+## Almost there
+ - [https://www.reddit.com/r/Warhammer/comments/1f140kq/almost_there](https://www.reddit.com/r/Warhammer/comments/1f140kq/almost_there)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T19:01:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f140kq/almost_there/"> <img alt="Almost there " src="https://external-preview.redd.it/bXN4dXN0ZGV5dWtkMVnpJw87ojxf8qNvHWwsx90Fv6-03F-cTIM4JDul4Iww.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=510e37a6a03e9d9179871befe1d43422e010087d" title="Almost there " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Only been painting for a 4 months going well so far , been working on this guy for 1 month </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flashy-Ad8559"> /u/Flashy-Ad8559 </a> <br /> <span><a href="https://v.redd.it/0ph2b11fyukd1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f140kq/almost_there/">[comments]</a></span> </td></tr></table>
+
+## The dynamic duo has arrived!
+ - [https://www.reddit.com/r/Warhammer/comments/1f13vtu/the_dynamic_duo_has_arrived](https://www.reddit.com/r/Warhammer/comments/1f13vtu/the_dynamic_duo_has_arrived)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T18:56:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f13vtu/the_dynamic_duo_has_arrived/"> <img alt="The dynamic duo has arrived!" src="https://preview.redd.it/k75d8lpgxukd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f00614e445c6291611201b5d60da5a085aa48c3" title="The dynamic duo has arrived!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Garin999"> /u/Garin999 </a> <br /> <span><a href="https://i.redd.it/k75d8lpgxukd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f13vtu/the_dynamic_duo_has_arrived/">[comments]</a></span> </td></tr></table>
+
+## Stormcast eternals
+ - [https://www.reddit.com/r/Warhammer/comments/1f13q7y/stormcast_eternals](https://www.reddit.com/r/Warhammer/comments/1f13q7y/stormcast_eternals)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T18:49:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f13q7y/stormcast_eternals/"> <img alt="Stormcast eternals" src="https://b.thumbs.redditmedia.com/BHv7h7rkW6-OI2wywCl9B_e6QdqvQMmh9ZAlMn5f6Hk.jpg" title="Stormcast eternals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gryffon_skull_minis"> /u/gryffon_skull_minis </a> <br /> <span><a href="https://www.reddit.com/gallery/1f13q7y">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f13q7y/stormcast_eternals/">[comments]</a></span> </td></tr></table>
+
+## What do i ‘need’ to start?
+ - [https://www.reddit.com/r/Warhammer/comments/1f13hk0/what_do_i_need_to_start](https://www.reddit.com/r/Warhammer/comments/1f13hk0/what_do_i_need_to_start)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T18:39:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am new and dont know what i need to start this game, i want an army but dont know which is the best for new players, i dont know ANYTHING what do i need to start this game</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Biggel_Ties"> /u/Biggel_Ties </a> <br /> <span><a href="https://www.reddit.com/r/Warhammer/comments/1f13hk0/what_do_i_need_to_start/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f13hk0/what_do_i_need_to_start/">[comments]</a></span>
+
+## My take on Chaplain Dumah from the art cover of “Wrath of the Lost”
+ - [https://www.reddit.com/r/Warhammer/comments/1f12lc4/my_take_on_chaplain_dumah_from_the_art_cover_of](https://www.reddit.com/r/Warhammer/comments/1f12lc4/my_take_on_chaplain_dumah_from_the_art_cover_of)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T18:01:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f12lc4/my_take_on_chaplain_dumah_from_the_art_cover_of/"> <img alt="My take on Chaplain Dumah from the art cover of “Wrath of the Lost”" src="https://b.thumbs.redditmedia.com/hnVviG11Jhyw0IFChyZE5Ll98-CtJBqOWWlSewZ2mjo.jpg" title="My take on Chaplain Dumah from the art cover of “Wrath of the Lost”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AtticusSteele"> /u/AtticusSteele </a> <br /> <span><a href="https://www.reddit.com/gallery/1f12lc4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f12lc4/my_take_on_chaplain_dumah_from_the_art_cover_of/">[comments]</a></span> </td></tr></table>
+
+## Ixion - Red Corsair Grenadier
+ - [https://www.reddit.com/r/Warhammer/comments/1f11d6a/ixion_red_corsair_grenadier](https://www.reddit.com/r/Warhammer/comments/1f11d6a/ixion_red_corsair_grenadier)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T17:10:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f11d6a/ixion_red_corsair_grenadier/"> <img alt="Ixion - Red Corsair Grenadier" src="https://preview.redd.it/bv0n0htheukd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a46f9e86a5116386fad820cae863c93c8e4bd40" title="Ixion - Red Corsair Grenadier" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/s0ulafein"> /u/s0ulafein </a> <br /> <span><a href="https://i.redd.it/bv0n0htheukd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f11d6a/ixion_red_corsair_grenadier/">[comments]</a></span> </td></tr></table>
+
+## Who wins?
+ - [https://www.reddit.com/r/Warhammer/comments/1f10usn/who_wins](https://www.reddit.com/r/Warhammer/comments/1f10usn/who_wins)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T16:48:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f10usn/who_wins/"> <img alt="Who wins?" src="https://preview.redd.it/45wd173oaukd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b04caed2fda84dc03b66e83972403fa2ce0e3a47" title="Who wins?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mealyworms"> /u/mealyworms </a> <br /> <span><a href="https://i.redd.it/45wd173oaukd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f10usn/who_wins/">[comments]</a></span> </td></tr></table>
+
+## Well I'll Be Damned
+ - [https://www.reddit.com/r/Warhammer/comments/1f0yh7t/well_ill_be_damned](https://www.reddit.com/r/Warhammer/comments/1f0yh7t/well_ill_be_damned)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T15:07:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Argonauted"> /u/Argonauted </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0yefr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0yh7t/well_ill_be_damned/">[comments]</a></span>
+
+## Snakebite Defkilla Wartrike
+ - [https://www.reddit.com/r/Warhammer/comments/1f0xb2n/snakebite_defkilla_wartrike](https://www.reddit.com/r/Warhammer/comments/1f0xb2n/snakebite_defkilla_wartrike)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T14:15:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0xb2n/snakebite_defkilla_wartrike/"> <img alt="Snakebite Defkilla Wartrike" src="https://b.thumbs.redditmedia.com/LWaC22bL--qKiTWvWZGN4XVvoXYyNcWcbNx2HXL4cAU.jpg" title="Snakebite Defkilla Wartrike" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ogikubojoe"> /u/ogikubojoe </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0xb2n">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0xb2n/snakebite_defkilla_wartrike/">[comments]</a></span> </td></tr></table>
+
+## Iron within
+ - [https://www.reddit.com/r/Warhammer/comments/1f0wtpi/iron_within](https://www.reddit.com/r/Warhammer/comments/1f0wtpi/iron_within)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T13:52:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0wtpi/iron_within/"> <img alt="Iron within" src="https://b.thumbs.redditmedia.com/4isRJDHCUuhm_rIely0Ood25JiN8Glprsw7-g6kUZ5Q.jpg" title="Iron within" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Adept_Dinner_6480"> /u/Adept_Dinner_6480 </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0wtpi">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0wtpi/iron_within/">[comments]</a></span> </td></tr></table>
+
+## Let's have a look inside the old bargain box
+ - [https://www.reddit.com/r/Warhammer/comments/1f0wtml/lets_have_a_look_inside_the_old_bargain_box](https://www.reddit.com/r/Warhammer/comments/1f0wtml/lets_have_a_look_inside_the_old_bargain_box)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T13:52:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0wtml/lets_have_a_look_inside_the_old_bargain_box/"> <img alt="Let's have a look inside the old bargain box" src="https://b.thumbs.redditmedia.com/1V59-qO8o8dNuoi3bpmMS2E65S-KAk56J2VJVfzPcmg.jpg" title="Let's have a look inside the old bargain box" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RetroGamingKnight"> /u/RetroGamingKnight </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0wtml">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0wtml/lets_have_a_look_inside_the_old_bargain_box/">[comments]</a></span> </td></tr></table>
+
+## Ushorans face wip
+ - [https://www.reddit.com/r/Warhammer/comments/1f0v0ki/ushorans_face_wip](https://www.reddit.com/r/Warhammer/comments/1f0v0ki/ushorans_face_wip)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T12:18:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0v0ki/ushorans_face_wip/"> <img alt="Ushorans face wip" src="https://preview.redd.it/n43rrcefyskd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7dd005d1685e14c479f30ac118bb0bc4ad71189a" title="Ushorans face wip" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Started with the face 😀</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IGfe4r_me"> /u/IGfe4r_me </a> <br /> <span><a href="https://i.redd.it/n43rrcefyskd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0v0ki/ushorans_face_wip/">[comments]</a></span> </td></tr></table>
+
+## The Black coach
+ - [https://www.reddit.com/r/Warhammer/comments/1f0uecu/the_black_coach](https://www.reddit.com/r/Warhammer/comments/1f0uecu/the_black_coach)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T11:41:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0uecu/the_black_coach/"> <img alt="The Black coach" src="https://b.thumbs.redditmedia.com/feDuau4xiED_OWL1lzJzAn1CGH7A17BXARY6IrQ5fdg.jpg" title="The Black coach" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gh0st-1492"> /u/Gh0st-1492 </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0uecu">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0uecu/the_black_coach/">[comments]</a></span> </td></tr></table>
+
+## Ushoran, Mortarch of Delusion OC
+ - [https://www.reddit.com/r/Warhammer/comments/1f0tm50/ushoran_mortarch_of_delusion_oc](https://www.reddit.com/r/Warhammer/comments/1f0tm50/ushoran_mortarch_of_delusion_oc)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T10:50:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0tm50/ushoran_mortarch_of_delusion_oc/"> <img alt="Ushoran, Mortarch of Delusion OC" src="https://b.thumbs.redditmedia.com/Bg52h7fMcMcsRhcvdicmdAIitXiQWQeTYaNkHLU1gZQ.jpg" title="Ushoran, Mortarch of Delusion OC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Divide310"> /u/Divide310 </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0tm50">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0tm50/ushoran_mortarch_of_delusion_oc/">[comments]</a></span> </td></tr></table>
+
+## Another Blood Angels assault terminator has joined the chat ✨
+ - [https://www.reddit.com/r/Warhammer/comments/1f0tfk1/another_blood_angels_assault_terminator_has](https://www.reddit.com/r/Warhammer/comments/1f0tfk1/another_blood_angels_assault_terminator_has)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T10:37:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0tfk1/another_blood_angels_assault_terminator_has/"> <img alt="Another Blood Angels assault terminator has joined the chat ✨" src="https://preview.redd.it/610jstfggskd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ee3ec1bf6e18b289f2ee5ffcd1f2330430fc024" title="Another Blood Angels assault terminator has joined the chat ✨" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Caldan4"> /u/Caldan4 </a> <br /> <span><a href="https://i.redd.it/610jstfggskd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0tfk1/another_blood_angels_assault_terminator_has/">[comments]</a></span> </td></tr></table>
+
+## I am big fan of Aquatic based living organisms
+ - [https://www.reddit.com/r/Warhammer/comments/1f0t4py/i_am_big_fan_of_aquatic_based_living_organisms](https://www.reddit.com/r/Warhammer/comments/1f0t4py/i_am_big_fan_of_aquatic_based_living_organisms)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T10:16:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>And sadly, I know that we will not get miniatures of them.<br /> As I do not see Game's Workshop making underwater-based missions for tabtletop miniatures.</p> <p>But I would really love, Aquatic based Tyranids.<br /> To see how greatly they differs from their walking and flying counterparts.</p> <p>And their counterpart to Swarmlord.<br /> (IF this existed, which lorewise aquatic based Tyranids should. I would be Tyranid player instantly. Collecting only sea based Tyranids)</p> <p>Do you think, we will ever get some?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LordOfIronFan"> /u/LordOfIronFan </a> <br /> <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0t4py/i_am_big_fan_of_aquatic_based_living_organisms/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0t4py/i_am_big_fan_of_aquatic_based_living_organisms/">[comments]</a></span>
+
+## Which do you think is the worst old miniature in the current warhammer range?
+ - [https://www.reddit.com/r/Warhammer/comments/1f0rj2n/which_do_you_think_is_the_worst_old_miniature_in](https://www.reddit.com/r/Warhammer/comments/1f0rj2n/which_do_you_think_is_the_worst_old_miniature_in)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T08:17:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0rj2n/which_do_you_think_is_the_worst_old_miniature_in/"> <img alt="Which do you think is the worst old miniature in the current warhammer range?" src="https://preview.redd.it/c5ul6knirrkd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fc0bd3f3332b44d3d0df9643459ac8aee894014" title="Which do you think is the worst old miniature in the current warhammer range?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Altruistic-Teach5899"> /u/Altruistic-Teach5899 </a> <br /> <span><a href="https://i.redd.it/c5ul6knirrkd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0rj2n/which_do_you_think_is_the_worst_old_miniature_in/">[comments]</a></span> </td></tr></table>
+
+## So I finally finished my take on Canis Rex. He turned out quite nice.
+ - [https://www.reddit.com/r/Warhammer/comments/1f0qbct/so_i_finally_finished_my_take_on_canis_rex_he](https://www.reddit.com/r/Warhammer/comments/1f0qbct/so_i_finally_finished_my_take_on_canis_rex_he)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T06:49:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0qbct/so_i_finally_finished_my_take_on_canis_rex_he/"> <img alt="So I finally finished my take on Canis Rex. He turned out quite nice. " src="https://b.thumbs.redditmedia.com/Gsk3MqE6a44ENTc3qLXrhuB5mR97aWbPFk2mVd-4epo.jpg" title="So I finally finished my take on Canis Rex. He turned out quite nice. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arcturus_7"> /u/Arcturus_7 </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0qbct">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0qbct/so_i_finally_finished_my_take_on_canis_rex_he/">[comments]</a></span> </td></tr></table>
+
+## The Black Templars I have finished painting so far.
+ - [https://www.reddit.com/r/Warhammer/comments/1f0ptth/the_black_templars_i_have_finished_painting_so_far](https://www.reddit.com/r/Warhammer/comments/1f0ptth/the_black_templars_i_have_finished_painting_so_far)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T06:15:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0ptth/the_black_templars_i_have_finished_painting_so_far/"> <img alt="The Black Templars I have finished painting so far." src="https://preview.redd.it/7k7gep7o5rkd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=223ce142a4f8cd318e3dbbb0bf5993a991a1e3ee" title="The Black Templars I have finished painting so far." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChillMinis"> /u/ChillMinis </a> <br /> <span><a href="https://i.redd.it/7k7gep7o5rkd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0ptth/the_black_templars_i_have_finished_painting_so_far/">[comments]</a></span> </td></tr></table>
+
+## First models
+ - [https://www.reddit.com/r/Warhammer/comments/1f0oxku/first_models](https://www.reddit.com/r/Warhammer/comments/1f0oxku/first_models)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T05:14:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0oxku/first_models/"> <img alt="First models" src="https://preview.redd.it/2lr253yuuqkd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f7a024f27c43db22fb99ac38cd692f5ffff858e" title="First models" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClassicLeft"> /u/ClassicLeft </a> <br /> <span><a href="https://i.redd.it/2lr253yuuqkd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0oxku/first_models/">[comments]</a></span> </td></tr></table>
+
+## Lord Veritant complete
+ - [https://www.reddit.com/r/Warhammer/comments/1f0oh90/lord_veritant_complete](https://www.reddit.com/r/Warhammer/comments/1f0oh90/lord_veritant_complete)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T04:45:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0oh90/lord_veritant_complete/"> <img alt="Lord Veritant complete " src="https://b.thumbs.redditmedia.com/ibimiB7cvo0ttKAfFem-v21f7SKqGiRJOOhDWizCKnM.jpg" title="Lord Veritant complete " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spinachdipminiatures"> /u/Spinachdipminiatures </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0oh90">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0oh90/lord_veritant_complete/">[comments]</a></span> </td></tr></table>
+
+## First Model
+ - [https://www.reddit.com/r/Warhammer/comments/1f0m337/first_model](https://www.reddit.com/r/Warhammer/comments/1f0m337/first_model)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T02:26:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0m337/first_model/"> <img alt="First Model" src="https://b.thumbs.redditmedia.com/2cvOypm4l1jO7q-r42IEVo2nXXPK1w1ZlmpnIlJaGZQ.jpg" title="First Model" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi guys, I have painted my first mini today and was looking for any tips on improving it 🙏</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hekikgaming"> /u/hekikgaming </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0m337">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0m337/first_model/">[comments]</a></span> </td></tr></table>
+
+## Stormcast wingy bois
+ - [https://www.reddit.com/r/Warhammer/comments/1f0jsj1/stormcast_wingy_bois](https://www.reddit.com/r/Warhammer/comments/1f0jsj1/stormcast_wingy_bois)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T00:24:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0jsj1/stormcast_wingy_bois/"> <img alt="Stormcast wingy bois" src="https://b.thumbs.redditmedia.com/LNUA3V2gYMB_8F1xjGswETnU1Cz4Kqm2sCBh-Uq9F0s.jpg" title="Stormcast wingy bois" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gryffon_skull_minis"> /u/gryffon_skull_minis </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0jsj1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0jsj1/stormcast_wingy_bois/">[comments]</a></span> </td></tr></table>
+
+## Warhammer Stores Ottawa
+ - [https://www.reddit.com/r/Warhammer/comments/1f0jo63/warhammer_stores_ottawa](https://www.reddit.com/r/Warhammer/comments/1f0jo63/warhammer_stores_ottawa)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T00:18:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, headed to Ottawa and Im wondering what your favourite warhammer/miniature stores are in the city. I'm aware of the Games Workshop one, however I'm looking for one open on Sundays.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/coopsminiatures"> /u/coopsminiatures </a> <br /> <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0jo63/warhammer_stores_ottawa/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0jo63/warhammer_stores_ottawa/">[comments]</a></span>
+
+## Breacher Team 7 of the Black Ship *Van Gogh* (aka I bubble-helmeted some Imperial Navy Breachers)
+ - [https://www.reddit.com/r/Warhammer/comments/1f0jbqx/breacher_team_7_of_the_black_ship_van_gogh_aka_i](https://www.reddit.com/r/Warhammer/comments/1f0jbqx/breacher_team_7_of_the_black_ship_van_gogh_aka_i)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-08-25T00:00:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1f0jbqx/breacher_team_7_of_the_black_ship_van_gogh_aka_i/"> <img alt="Breacher Team 7 of the Black Ship *Van Gogh* (aka I bubble-helmeted some Imperial Navy Breachers)" src="https://b.thumbs.redditmedia.com/GXKlxWJyr56_ncvhfCTUccm9YPVC8L2vbP6trS36F2k.jpg" title="Breacher Team 7 of the Black Ship *Van Gogh* (aka I bubble-helmeted some Imperial Navy Breachers)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RoboticPrimarch"> /u/RoboticPrimarch </a> <br /> <span><a href="https://www.reddit.com/gallery/1f0jbqx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1f0jbqx/breacher_team_7_of_the_black_ship_van_gogh_aka_i/">[comments]</a></span> </td></tr></table>
+

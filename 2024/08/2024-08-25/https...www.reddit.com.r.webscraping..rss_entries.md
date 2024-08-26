@@ -1,0 +1,79 @@
+# Source:webscraping, URL:https://www.reddit.com/r/webscraping/.rss, language:en
+
+## Web scrape in Google Sheet
+ - [https://www.reddit.com/r/webscraping/comments/1f194in/web_scrape_in_google_sheet](https://www.reddit.com/r/webscraping/comments/1f194in/web_scrape_in_google_sheet)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T22:45:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>wanted to share something that I thought is pretty neat. You can web scrape directly in google sheet by calling a custom function and chatgpt. This make it so much easier to build your own custom web scraper without writing any code. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tongc00"> /u/tongc00 </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f194in/web_scrape_in_google_sheet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f194in/web_scrape_in_google_sheet/">[comments]</a></span>
+
+## Webscraping dynamic Webpage
+ - [https://www.reddit.com/r/webscraping/comments/1f0y98g/webscraping_dynamic_webpage](https://www.reddit.com/r/webscraping/comments/1f0y98g/webscraping_dynamic_webpage)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T14:57:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was trying to webscrape some information on the London Stock Exchange website, when I did this, no content I was looking for loaded but instead it looked like js and css mainly. </p> <p>After some googling I suspect it’s because LSE webpage is a dynamic website so requests doesn’t work. </p> <p>Can anyone give me a solution? </p> <p>Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rankme_"> /u/rankme_ </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0y98g/webscraping_dynamic_webpage/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f0y98g/webscraping_dynamic_webpage/">[comments]</a></span>
+
+## I built a Datadome Generic Scraper and you are welcome to test it with me
+ - [https://www.reddit.com/r/webscraping/comments/1f0w9nm/i_built_a_datadome_generic_scraper_and_you_are](https://www.reddit.com/r/webscraping/comments/1f0w9nm/i_built_a_datadome_generic_scraper_and_you_are)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T13:25:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/webscraping/comments/1f0w9nm/i_built_a_datadome_generic_scraper_and_you_are/"> <img alt="I built a Datadome Generic Scraper and you are welcome to test it with me" src="https://b.thumbs.redditmedia.com/E69Ff42LFWRDKDSee9kAXpCHbYLsSQ2SgbVviSmPagY.jpg" title="I built a Datadome Generic Scraper and you are welcome to test it with me" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey there, last year I was trying to scrape Datadome protected website <a href="http://leboncoin.fr">leboncoin.fr</a> and I find it particularly harder than any other systems to bypass. However, I've eventually built a generic scraper solution for datadome and it works pretty stably with residential proxy. I am testing the solution on other datadome websites, if you are interested, feel free to reach out with a url you want to scrape. (Only for datadome protected urls, thank you :)</p> <p><a href="https://preview.redd.it/86qjhsn3atkd1.png?width=2138&amp;for
+
+## Scraping map data
+ - [https://www.reddit.com/r/webscraping/comments/1f0vj82/scraping_map_data](https://www.reddit.com/r/webscraping/comments/1f0vj82/scraping_map_data)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T12:47:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I maintain a company map database (PostgreSQL) that contains 2000 power companies. It's GIS map data used to locate power companies by geolocation that then outputs the outage map URL link for the user to quickly check for power outages.</p> <p>I've been experimenting with 'curl' to try to extract only map data to remove any other distractions. Some sites are easier to extract just the map data, and others are just a pain. <a href="https://www.comed.com/outages/experiencing-an-outage/outage-map">ComED</a> outage map for example. I've tried to use curl to extract just the map url, and just cannot.</p> <p>Are there any good scripts on github that could help me with this? Or a better method for scraping map data?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sr_guy"> /u/sr_guy </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0vj82/scraping_map_data/">[link]</a></span> &#32; 
+
+## I’ve created a digital business directory with thousands of businesses listed on it. However, I need logos or pictures for them, any idea if I can scrape for this?
+ - [https://www.reddit.com/r/webscraping/comments/1f0puyb/ive_created_a_digital_business_directory_with](https://www.reddit.com/r/webscraping/comments/1f0puyb/ive_created_a_digital_business_directory_with)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T06:17:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve searched a lot and I’ve tried a few scripts but with no success… </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TopazFlame"> /u/TopazFlame </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0puyb/ive_created_a_digital_business_directory_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f0puyb/ive_created_a_digital_business_directory_with/">[comments]</a></span>
+
+## Scrape the whole events from linkedin
+ - [https://www.reddit.com/r/webscraping/comments/1f0phjj/scrape_the_whole_events_from_linkedin](https://www.reddit.com/r/webscraping/comments/1f0phjj/scrape_the_whole_events_from_linkedin)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T05:51:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>My client wants me to scrape all of the events data (Name, Duration, Hotname, m3u8 URL) from Linkedin.</p> <p>It should happen based on profiles, for example this link : </p> <p><a href="https://www.linkedin.com/in/damonpistulka/recent-activity/events/">https://www.linkedin.com/in/damonpistulka/recent-activity/events/</a></p> <p>So there might be lots and lots of profiles and lots of events exists there.</p> <p>How can i do this, i’m using puppeteer and familier with it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LocalConversation850"> /u/LocalConversation850 </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0phjj/scrape_the_whole_events_from_linkedin/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f0phjj/scrape_the_whole_events_from_linkedin/">[comments]</a></span>
+
+## How are you folks getting Google Product Ids?
+ - [https://www.reddit.com/r/webscraping/comments/1f0pd4x/how_are_you_folks_getting_google_product_ids](https://www.reddit.com/r/webscraping/comments/1f0pd4x/how_are_you_folks_getting_google_product_ids)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T05:43:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a site which has thousands of products on it, and I have a working live pricing data pipeline running using SerpAPI. However, in order for it to work, I need google product Ids. </p> <p>In the past, I could get google product id's if a product had multiple retailers selling it, as I could navigate to the compare page and I'd grab it out of the url. Although this was still a manual process and it only worked for items w/ multiple retailers, so it still wasnt great.</p> <p>A few months ago, google changed their product pages and now I dont think there is any way to get a google product id. </p> <p>Without google product id's, I cannot add any more items to the live pricing database. I dont know if how I was getting them in the past was even the best way, so would love to know how to do this in general. </p> <p>If I can even query SerpAPI with some other id so I can get products that dont have multiple retailers, thatd be a gamechanger.</p> </div>
+
+## Using free proxies
+ - [https://www.reddit.com/r/webscraping/comments/1f0pbpw/using_free_proxies](https://www.reddit.com/r/webscraping/comments/1f0pbpw/using_free_proxies)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T05:40:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to webscrape companies’ job postings for a project, such as Microsoft, JP Morgan, etc. To avoid getting blocked or IP banned, I was looking into using some free proxies. I heard they could be dangerous though, as some are malicious and can steal usernames and passwords. Is this a relevant concern if all I’m doing is web scraping for links on https websites without entering data?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MiserableOpinion5761"> /u/MiserableOpinion5761 </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0pbpw/using_free_proxies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f0pbpw/using_free_proxies/">[comments]</a></span>
+
+## Are there any scrapers for Subscribestar?
+ - [https://www.reddit.com/r/webscraping/comments/1f0ovul/are_there_any_scrapers_for_subscribestar](https://www.reddit.com/r/webscraping/comments/1f0ovul/are_there_any_scrapers_for_subscribestar)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T05:11:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Topic. I don't believe so?</p> <p>Also - how easy is it to code your own scraper? I have some knowledge of JS and related frameworks. </p> <p>(I Googled both)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Paradoxbuilder"> /u/Paradoxbuilder </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0ovul/are_there_any_scrapers_for_subscribestar/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f0ovul/are_there_any_scrapers_for_subscribestar/">[comments]</a></span>
+
+## Google News Scraping
+ - [https://www.reddit.com/r/webscraping/comments/1f0mv89/google_news_scraping](https://www.reddit.com/r/webscraping/comments/1f0mv89/google_news_scraping)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T03:09:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I'm conducting research that involves collecting data from Google News. My goal is to determine how many times a country is mentioned in the titles of specific news websites. The query might look like this: 'intitle:[Country name] site:[Website.com]'. After running the query, I need to count the number of results. Doing this manually would take a long time, so I'm looking for an automated solution.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AnyWheel8316"> /u/AnyWheel8316 </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0mv89/google_news_scraping/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f0mv89/google_news_scraping/">[comments]</a></span>
+
+## Can I scrape this website ?
+ - [https://www.reddit.com/r/webscraping/comments/1f0lz5n/can_i_scrape_this_website](https://www.reddit.com/r/webscraping/comments/1f0lz5n/can_i_scrape_this_website)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-08-25T02:20:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi I'm trying to scrape emails off this website: <a href="https://dz.kompass.com/businessplace/">https://dz.kompass.com/businessplace/</a></p> <p>Is it possible ? Is there something preventing me from getting access ? If so how to bypass it ? </p> <p>I'm a bit new to webscraping so I'd love to have some insights </p> <p>Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vegetable-Gur-2825"> /u/Vegetable-Gur-2825 </a> <br /> <span><a href="https://www.reddit.com/r/webscraping/comments/1f0lz5n/can_i_scrape_this_website/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1f0lz5n/can_i_scrape_this_website/">[comments]</a></span>
+

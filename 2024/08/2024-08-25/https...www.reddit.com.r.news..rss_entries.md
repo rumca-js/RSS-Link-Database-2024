@@ -1,0 +1,107 @@
+# Source:Reddit - News, URL:https://www.reddit.com/r/news/.rss, language:en-US
+
+## Telegram says arrested CEO Pavel Durov has 'nothing to hide'
+ - [https://www.reddit.com/r/news/comments/1f17byr/telegram_says_arrested_ceo_pavel_durov_has](https://www.reddit.com/r/news/comments/1f17byr/telegram_says_arrested_ceo_pavel_durov_has)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T21:24:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/oranjemania"> /u/oranjemania </a> <br /> <span><a href="https://www.bbc.com/news/articles/cp8ne8r1yy0o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f17byr/telegram_says_arrested_ceo_pavel_durov_has/">[comments]</a></span>
+
+## Mother charged with impaired driving in wrong-way crash that killed her 9-year-old son: Police
+ - [https://www.reddit.com/r/news/comments/1f16vn9/mother_charged_with_impaired_driving_in_wrongway](https://www.reddit.com/r/news/comments/1f16vn9/mother_charged_with_impaired_driving_in_wrongway)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T21:04:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent-Resort-3076"> /u/Silent-Resort-3076 </a> <br /> <span><a href="https://abcnews.go.com/US/long-island-wrong-way-crash-mother-charged/story?id=113104766">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f16vn9/mother_charged_with_impaired_driving_in_wrongway/">[comments]</a></span>
+
+## More than 100 people rescued after Grand Canyon flash flooding, search for missing hiker continues
+ - [https://www.reddit.com/r/news/comments/1f149ab/more_than_100_people_rescued_after_grand_canyon](https://www.reddit.com/r/news/comments/1f149ab/more_than_100_people_rescued_after_grand_canyon)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T19:12:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/coconutmilke"> /u/coconutmilke </a> <br /> <span><a href="https://www.cnn.com/2024/08/24/us/chenoa-nickerson-hiker-missing-grand-canyon/index.htmlp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f149ab/more_than_100_people_rescued_after_grand_canyon/">[comments]</a></span>
+
+## Potential cyberattack outage continues at Port of Seattle, causing chaos at SeaTac Airport
+ - [https://www.reddit.com/r/news/comments/1f1453v/potential_cyberattack_outage_continues_at_port_of](https://www.reddit.com/r/news/comments/1f1453v/potential_cyberattack_outage_continues_at_port_of)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T19:07:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/InformalWish"> /u/InformalWish </a> <br /> <span><a href="https://www.kiro7.com/news/local/potential-cyberattack-outage-continues-port-seattle-causing-chaos-sea/5TINHK6ZRNG7FPENJCNBVCST3Q/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f1453v/potential_cyberattack_outage_continues_at_port_of/">[comments]</a></span>
+
+## Luxury hunting firm linked to decades of poaching in Tanzania, whistleblowers say
+ - [https://www.reddit.com/r/news/comments/1f13ldr/luxury_hunting_firm_linked_to_decades_of_poaching](https://www.reddit.com/r/news/comments/1f13ldr/luxury_hunting_firm_linked_to_decades_of_poaching)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T18:43:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Slow-Pie147"> /u/Slow-Pie147 </a> <br /> <span><a href="https://news.mongabay.com/2024/08/luxury-hunting-firm-linked-to-decades-of-poaching-in-tanzania-whistleblowers-say/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f13ldr/luxury_hunting_firm_linked_to_decades_of_poaching/">[comments]</a></span>
+
+## A child was reported missing. A TV news helicopter crew spotted him on the roof playing hooky
+ - [https://www.reddit.com/r/news/comments/1f11xis/a_child_was_reported_missing_a_tv_news_helicopter](https://www.reddit.com/r/news/comments/1f11xis/a_child_was_reported_missing_a_tv_news_helicopter)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T17:33:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/teegerman"> /u/teegerman </a> <br /> <span><a href="https://apnews.com/article/missing-child-news-helicopter-hooky-619ccf6e5875df93589a5f82a5c1e7bc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f11xis/a_child_was_reported_missing_a_tv_news_helicopter/">[comments]</a></span>
+
+## Benjamin Netanyahu says attack on Lebanon ‘not the end of the story’ after exchange of strikes between Israel and Hezbollah – live
+ - [https://www.reddit.com/r/news/comments/1f10omt/benjamin_netanyahu_says_attack_on_lebanon_not_the](https://www.reddit.com/r/news/comments/1f10omt/benjamin_netanyahu_says_attack_on_lebanon_not_the)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T16:41:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/SpookyMinimalist"> /u/SpookyMinimalist </a> <br /> <span><a href="https://www.theguardian.com/world/live/2024/aug/25/middle-east-crisis-live-israel-carries-out-airstrikes-on-hezbollah-targets-in-lebanon?CMP=Share_AndroidApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f10omt/benjamin_netanyahu_says_attack_on_lebanon_not_the/">[comments]</a></span>
+
+## 3 people are charged in a Kentucky woman’s fatal stabbing, but her family says local police are at fault, too
+ - [https://www.reddit.com/r/news/comments/1f10nx7/3_people_are_charged_in_a_kentucky_womans_fatal](https://www.reddit.com/r/news/comments/1f10nx7/3_people_are_charged_in_a_kentucky_womans_fatal)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T16:40:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/lala_b11"> /u/lala_b11 </a> <br /> <span><a href="https://www.nbcnews.com/news/us-news/amber-spradlin-michael-mckinney-stabbing-kentucky-rcna166983">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f10nx7/3_people_are_charged_in_a_kentucky_womans_fatal/">[comments]</a></span>
+
+## 102-year-old Manette Baillie becomes Britain's oldest skydiver
+ - [https://www.reddit.com/r/news/comments/1f1013w/102yearold_manette_baillie_becomes_britains](https://www.reddit.com/r/news/comments/1f1013w/102yearold_manette_baillie_becomes_britains)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T16:13:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MadWorldEarth"> /u/MadWorldEarth </a> <br /> <span><a href="https://www.bbc.co.uk/news/videos/cvg3k02wlemo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f1013w/102yearold_manette_baillie_becomes_britains/">[comments]</a></span>
+
+## At least 5 Secret Service officials involved in planning Trump's Butler rally put on administrative duty
+ - [https://www.reddit.com/r/news/comments/1f100q8/at_least_5_secret_service_officials_involved_in](https://www.reddit.com/r/news/comments/1f100q8/at_least_5_secret_service_officials_involved_in)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T16:13:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AudibleNod"> /u/AudibleNod </a> <br /> <span><a href="https://abcnews.go.com/US/5-secret-service-officials-involved-planning-trumps-butler/story?id=113099843">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f100q8/at_least_5_secret_service_officials_involved_in/">[comments]</a></span>
+
+## Telegram app founder Pavel Durov reportedly arrested at French airport
+ - [https://www.reddit.com/r/news/comments/1f0pgwb/telegram_app_founder_pavel_durov_reportedly](https://www.reddit.com/r/news/comments/1f0pgwb/telegram_app_founder_pavel_durov_reportedly)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T05:50:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Superbuddhapunk"> /u/Superbuddhapunk </a> <br /> <span><a href="https://www.theguardian.com/media/article/2024/aug/24/telegram-app-founder-pavel-durov-arrested-at-french-airport">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f0pgwb/telegram_app_founder_pavel_durov_reportedly/">[comments]</a></span>
+
+## Israel says it is staging airstrikes targeting Hezbollah in Lebanon
+ - [https://www.reddit.com/r/news/comments/1f0mnon/israel_says_it_is_staging_airstrikes_targeting](https://www.reddit.com/r/news/comments/1f0mnon/israel_says_it_is_staging_airstrikes_targeting)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T02:58:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Big-Heron4763"> /u/Big-Heron4763 </a> <br /> <span><a href="https://www.nbcnews.com/news/world/israel-says-staging-airstrikes-targeting-hezbollah-lebanon-rcna168106">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f0mnon/israel_says_it_is_staging_airstrikes_targeting/">[comments]</a></span>
+
+## 4-year-old stabbed multiple times in New Jersey home now in stable condition, police say
+ - [https://www.reddit.com/r/news/comments/1f0kggn/4yearold_stabbed_multiple_times_in_new_jersey](https://www.reddit.com/r/news/comments/1f0kggn/4yearold_stabbed_multiple_times_in_new_jersey)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T00:59:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br /> <span><a href="https://abcnews.go.com/US/4-year-stabbed-multiple-times-new-jersey-home/story?id=113125825">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f0kggn/4yearold_stabbed_multiple_times_in_new_jersey/">[comments]</a></span>
+
+## Back-to-work order issued for 2 major Canada railroads. Union will comply, but lawsuit planned
+ - [https://www.reddit.com/r/news/comments/1f0jshv/backtowork_order_issued_for_2_major_canada](https://www.reddit.com/r/news/comments/1f0jshv/backtowork_order_issued_for_2_major_canada)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T00:24:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FullSqueeze"> /u/FullSqueeze </a> <br /> <span><a href="https://apnews.com/article/canada-railroads-labor-board-decision-67b1be6e6a4d5e9535633e54767c5d82">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f0jshv/backtowork_order_issued_for_2_major_canada/">[comments]</a></span>
+
+## Anthony Fauci recovering after hospitalization for West Nile virus
+ - [https://www.reddit.com/r/news/comments/1f0jlag/anthony_fauci_recovering_after_hospitalization](https://www.reddit.com/r/news/comments/1f0jlag/anthony_fauci_recovering_after_hospitalization)
+ - RSS feed: https://www.reddit.com/r/news/.rss
+ - date published: 2024-08-25T00:14:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AudibleNod"> /u/AudibleNod </a> <br /> <span><a href="https://abcnews.go.com/US/anthony-fauci-recovering-after-hospitalization-west-nile-virus/story?id=113121283">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1f0jlag/anthony_fauci_recovering_after_hospitalization/">[comments]</a></span>
+
