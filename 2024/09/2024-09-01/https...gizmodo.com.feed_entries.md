@@ -1,0 +1,86 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Amazon Slashes Prices on Trending LEGO Sets: Up to 40% Off Your Favorite Builds
+ - [https://gizmodo.com/amazon-slashes-prices-on-trending-lego-sets-enjoy-up-to-40-off-favorite-builds-2000493313](https://gizmodo.com/amazon-slashes-prices-on-trending-lego-sets-enjoy-up-to-40-off-favorite-builds-2000493313)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T21:05:33+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/star-wars-lego.jpg" class="attachment-full size-full wp-post-image" alt="Star Wars Lego" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/08/star-wars-lego.jpg 1500w, https://gizmodo.com/app/uploads/2024/08/star-wars-lego-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/08/star-wars-lego-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/star-wars-lego-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/08/star-wars-lego-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/08/star-wars-lego-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/08/star-wars-lego-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/08/star-wars-lego-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>Amazon is offering incredible Labor Day discounts on popular LEGO sets, with savings of up to 40% on popular collections like LEGO Star Wars.
+
+## The Clock Is Ticking – Grab This Crazy Good NordVPN Deal Today!
+ - [https://gizmodo.com/the-clock-is-ticking-grab-this-crazy-good-nordvpn-deal-today-2000492404](https://gizmodo.com/the-clock-is-ticking-grab-this-crazy-good-nordvpn-deal-today-2000492404)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T21:00:11+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article.jpeg" class="attachment-full size-full wp-post-image" alt="Nordvpn Good Deal Article" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article.jpeg 1500w, https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article-300x200.jpeg 300w, https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article-1024x683.jpeg 1024w, https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article-768x512.jpeg 768w, https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article-336x224.jpeg 336w, https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article-1400x932.jpeg 1400w, https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article-680x453.jpeg 680w, https://gizmodo.com/app/uploads/2024/08/NordVPN-Good-Deal-Article-896x597.jpeg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>Were you waiting for the right moment to sig
+
+## Labor Day: Grab Your Official Microsoft Office License for Just $27, 88% Off
+ - [https://gizmodo.com/labor-day-grab-your-official-microsoft-office-license-for-just-27-88-off-2000493801](https://gizmodo.com/labor-day-grab-your-official-microsoft-office-license-for-just-27-88-off-2000493801)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T20:58:26+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus.jpg" class="attachment-full size-full wp-post-image" alt="Microsoft Office 2019 Pro Plus" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/microsoft-office-2019-pro-plus-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><
+
+## Labor Day: Apple Discounts Like Never Before, Outshining Black Friday Sales (MacBooks, iPads…)
+ - [https://gizmodo.com/labor-day-apple-discounts-like-never-before-outshining-black-friday-sales-macbooks-ipads-2000493790](https://gizmodo.com/labor-day-apple-discounts-like-never-before-outshining-black-friday-sales-macbooks-ipads-2000493790)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T20:35:54+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/apple-ecosystem.jpg" class="attachment-full size-full wp-post-image" alt="Apple Ecosystem" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/09/apple-ecosystem.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/apple-ecosystem-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/apple-ecosystem-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/apple-ecosystem-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/apple-ecosystem-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/apple-ecosystem-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/apple-ecosystem-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/apple-ecosystem-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>This Labor Day, shoppers can take advantage of incredible discounts on a wide range of Apple products, including AirTags, AirPods, iPads, and MacBooks, with prices slas
+
+## Apple Hates Discounts, But Amazon is Crushing Prices on MacBook Air M3 for Labor Day
+ - [https://gizmodo.com/apple-hates-discounts-but-amazon-is-crushing-prices-on-macbook-air-m3-for-labor-day-2000493781](https://gizmodo.com/apple-hates-discounts-but-amazon-is-crushing-prices-on-macbook-air-m3-for-labor-day-2000493781)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T20:18:33+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/macbookairm3-512.jpg" class="attachment-full size-full wp-post-image" alt="MacBook Air M3" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/09/macbookairm3-512.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/macbookairm3-512-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/macbookairm3-512-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/macbookairm3-512-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/macbookairm3-512-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/macbookairm3-512-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/macbookairm3-512-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/macbookairm3-512-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>Amazon's Labor Day sale offers incredible discounts on the latest 2024 MacBook Air models.
+
+## Get Ready for More Public Domain Slashers in 2025
+ - [https://gizmodo.com/peter-pan-screamboat-slasher-public-domain-2000493721](https://gizmodo.com/peter-pan-screamboat-slasher-public-domain-2000493721)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T20:00:44+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/neverland-screamboat.jpg" class="attachment-full size-full wp-post-image" alt="Neverland Screamboat" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/08/neverland-screamboat.jpg 1500w, https://gizmodo.com/app/uploads/2024/08/neverland-screamboat-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/08/neverland-screamboat-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/neverland-screamboat-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/08/neverland-screamboat-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/08/neverland-screamboat-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/08/neverland-screamboat-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/08/neverland-screamboat-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>Peter Pan and Steamboat Willie are ready to twist your childhoods by killing pretty much everyone in si
+
+## Labor Day: Target’s Best Deals Beat Black Friday—Here’s Our Top 5 Wild Offers
+ - [https://gizmodo.com/labor-day-targets-best-deals-beat-black-friday-heres-our-top-5-wild-offers-2000493776](https://gizmodo.com/labor-day-targets-best-deals-beat-black-friday-heres-our-top-5-wild-offers-2000493776)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T19:54:47+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/target-deals.jpg" class="attachment-full size-full wp-post-image" alt="Target Deals" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/09/target-deals.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/target-deals-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/target-deals-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/target-deals-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/target-deals-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/target-deals-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/target-deals-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/target-deals-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>As Labor Day approaches, Target has kicked off its highly anticipated sale event with unbeatable discounts across a wide range of product categories.
+
+## CD Projekt Says Cyberpunk 2077 Will Return to Animation
+ - [https://gizmodo.com/cyberpunk-2077-animation-continuation-2000493716](https://gizmodo.com/cyberpunk-2077-animation-continuation-2000493716)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T18:50:03+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners.jpg" class="attachment-full size-full wp-post-image" alt="Cyberpunk Edgerunners" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners.jpg 1500w, https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/08/cyberpunk-edgerunners-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>The story of Edgerunners may be over, but there are still more animated stories to tell
+
+## One Piece Sets Sail For the UK and The BBC
+ - [https://gizmodo.com/one-piece-uk-bbc-episodes-2000493753](https://gizmodo.com/one-piece-uk-bbc-episodes-2000493753)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T16:25:05+00:00
+
+<p><img width="1500" height="1001" src="https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259.jpg" class="attachment-full size-full wp-post-image" alt="One Piece" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259-768x513.jpg 768w, https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259-680x454.jpg 680w, https://gizmodo.com/app/uploads/2024/09/one-piece-e1725204583259-896x598.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>UK viewers finally get a chance to see what all the fuss is about and legally watch most of the hit pirate anime.
+
+## Maggie Gyllenhaal’s The Bride Is a “Wildly Romantic” Musical
+ - [https://gizmodo.com/the-bride-frankenstein-musical-2000493698](https://gizmodo.com/the-bride-frankenstein-musical-2000493698)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T14:30:54+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein.jpg" class="attachment-full size-full wp-post-image" alt="Buckley Bride Frankenstein" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein.jpg 1500w, https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/08/buckley-bride-frankenstein-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>A lyrical love story starring Franken
+
+## Critics Slam Amazon’s ‘Water Positive’ Pledge as Data Centers Strain Local Resources
+ - [https://gizmodo.com/critics-slam-amazons-water-positive-pledge-as-data-centers-strain-local-resources-2000493389](https://gizmodo.com/critics-slam-amazons-water-positive-pledge-as-data-centers-strain-local-resources-2000493389)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T13:00:15+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/amazon-aws-water.jpg" class="attachment-full size-full wp-post-image" alt="Amazon&#039;s Seattle office." decoding="async" srcset="https://gizmodo.com/app/uploads/2024/08/amazon-aws-water.jpg 1500w, https://gizmodo.com/app/uploads/2024/08/amazon-aws-water-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/08/amazon-aws-water-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/amazon-aws-water-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/08/amazon-aws-water-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/08/amazon-aws-water-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/08/amazon-aws-water-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/08/amazon-aws-water-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>The company’s pledge to conserve water at its data centers doesn’t account for the thirsty power plants that keep them running.
+
+## How to Use Google to Track Everything You Want to Watch
+ - [https://gizmodo.com/how-to-use-google-to-track-everything-you-want-to-watch-2000489764](https://gizmodo.com/how-to-use-google-to-track-everything-you-want-to-watch-2000489764)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-01T12:05:31+00:00
+
+<p><img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2024/08/00-hero-4.jpg" class="attachment-full size-full wp-post-image" alt="Google TV watchlist" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/08/00-hero-4.jpg 1920w, https://gizmodo.com/app/uploads/2024/08/00-hero-4-300x169.jpg 300w, https://gizmodo.com/app/uploads/2024/08/00-hero-4-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/00-hero-4-768x432.jpg 768w, https://gizmodo.com/app/uploads/2024/08/00-hero-4-512x288.jpg 512w, https://gizmodo.com/app/uploads/2024/08/00-hero-4-680x383.jpg 680w, https://gizmodo.com/app/uploads/2024/08/00-hero-4-896x504.jpg 896w, https://gizmodo.com/app/uploads/2024/08/00-hero-4-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"></p>Make the ultimate watchlist using Google.
+

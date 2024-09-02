@@ -1,0 +1,219 @@
+# Source:programming, URL:https://www.reddit.com/r/programming/.rss, language:
+
+## Textpad with Visual Studios Command
+ - [https://www.reddit.com/r/programming/comments/1f6sevg/textpad_with_visual_studios_command](https://www.reddit.com/r/programming/comments/1f6sevg/textpad_with_visual_studios_command)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T23:32:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>How to use textpad to write and run assembly language codes? I have visual studios 2022 installed and my professor told us to copy a visual studios path to textpad but he used 2019 visual studios while I have 2022 and the path does not match. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Still-Orange-2334"> /u/Still-Orange-2334 </a> <br/> <span><a href="http://textpad.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6sevg/textpad_with_visual_studios_command/">[comments]</a></span>
+
+## Engineering With Java: Digest #31
+ - [https://www.reddit.com/r/programming/comments/1f6s6p3/engineering_with_java_digest_31](https://www.reddit.com/r/programming/comments/1f6s6p3/engineering_with_java_digest_31)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T23:21:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Educational-Ad2036"> /u/Educational-Ad2036 </a> <br/> <span><a href="https://javabulletin.substack.com/p/engineering-with-java-digest-31">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6s6p3/engineering_with_java_digest_31/">[comments]</a></span>
+
+## How to Excel in Coding with Just 8GB of RAM
+ - [https://www.reddit.com/r/programming/comments/1f6r6kd/how_to_excel_in_coding_with_just_8gb_of_ram](https://www.reddit.com/r/programming/comments/1f6r6kd/how_to_excel_in_coding_with_just_8gb_of_ram)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T22:34:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/craciun_07"> /u/craciun_07 </a> <br/> <span><a href="https://www.danielfullstack.com/article/how-to-excel-in-coding-with-just-8gb-of-ram">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6r6kd/how_to_excel_in_coding_with_just_8gb_of_ram/">[comments]</a></span>
+
+## We need visual programming. No, not like that.
+ - [https://www.reddit.com/r/programming/comments/1f6p2dl/we_need_visual_programming_no_not_like_that](https://www.reddit.com/r/programming/comments/1f6p2dl/we_need_visual_programming_no_not_like_that)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T21:01:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/fagnerbrack"> /u/fagnerbrack </a> <br/> <span><a href="https://blog.sbensu.com/posts/demand-for-visual-programming/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6p2dl/we_need_visual_programming_no_not_like_that/">[comments]</a></span>
+
+## Github-dlr: Download individual files and folders from Github recursively.
+ - [https://www.reddit.com/r/programming/comments/1f6ow68/githubdlr_download_individual_files_and_folders](https://www.reddit.com/r/programming/comments/1f6ow68/githubdlr_download_individual_files_and_folders)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T20:53:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/rocktim20"> /u/rocktim20 </a> <br/> <span><a href="https://github.com/rocktimsaikia/github-dlr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6ow68/githubdlr_download_individual_files_and_folders/">[comments]</a></span>
+
+## I am a kid who is interested in coding ALOT and i want to make it my career. I need help starting out as a game developer. I chose JavaScript as a language and i think Unreal engine as a platform, I am starting out in scrath to see how it works,we werent thought too much in school,any tips on start?
+ - [https://www.reddit.com/r/programming/comments/1f6o8jc/i_am_a_kid_who_is_interested_in_coding_alot_and_i](https://www.reddit.com/r/programming/comments/1f6o8jc/i_am_a_kid_who_is_interested_in_coding_alot_and_i)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T20:25:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Fancy-Praline-431"> /u/Fancy-Praline-431 </a> <br/> <span><a href="https://nodejs.org/en">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6o8jc/i_am_a_kid_who_is_interested_in_coding_alot_and_i/">[comments]</a></span>
+
+## Ring 1.21 is released!
+ - [https://www.reddit.com/r/programming/comments/1f6nx63/ring_121_is_released](https://www.reddit.com/r/programming/comments/1f6nx63/ring_121_is_released)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T20:13:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mrpro1a1"> /u/mrpro1a1 </a> <br/> <span><a href="https://ring-lang.github.io/doc1.21/whatisnew21.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6nx63/ring_121_is_released/">[comments]</a></span>
+
+## Create your own URL shortener using Node JS and Express
+ - [https://www.reddit.com/r/programming/comments/1f6mdd4/create_your_own_url_shortener_using_node_js_and](https://www.reddit.com/r/programming/comments/1f6mdd4/create_your_own_url_shortener_using_node_js_and)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T19:10:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Heavy_Fly_4976"> /u/Heavy_Fly_4976 </a> <br/> <span><a href="https://www.youtube.com/watch?v=naxGYAHoN-o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6mdd4/create_your_own_url_shortener_using_node_js_and/">[comments]</a></span>
+
+## JavaScript library for editing videos with code completely client-side (open source).
+ - [https://www.reddit.com/r/programming/comments/1f6mc4l/javascript_library_for_editing_videos_with_code](https://www.reddit.com/r/programming/comments/1f6mc4l/javascript_library_for_editing_videos_with_code)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T19:08:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Maximum_Instance_401"> /u/Maximum_Instance_401 </a> <br/> <span><a href="https://github.com/diffusionstudio/core">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6mc4l/javascript_library_for_editing_videos_with_code/">[comments]</a></span>
+
+## "Willingness to look stupid"
+ - [https://www.reddit.com/r/programming/comments/1f6lzmv/willingness_to_look_stupid](https://www.reddit.com/r/programming/comments/1f6lzmv/willingness_to_look_stupid)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T18:54:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/StellarNavigator"> /u/StellarNavigator </a> <br/> <span><a href="https://danluu.com/look-stupid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6lzmv/willingness_to_look_stupid/">[comments]</a></span>
+
+## Brainstorming based focusing on problem solving to learn coding
+ - [https://www.reddit.com/r/programming/comments/1f6kow9/brainstorming_based_focusing_on_problem_solving](https://www.reddit.com/r/programming/comments/1f6kow9/brainstorming_based_focusing_on_problem_solving)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T17:59:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/T_h-R0W-AWAY-"> /u/T_h-R0W-AWAY- </a> <br/> <span><a href="https://youtu.be/mvK0UzFNw1Q?si=K0JA5QCXDTEbFH22">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6kow9/brainstorming_based_focusing_on_problem_solving/">[comments]</a></span>
+
+## How To Deploy Selenium Script in AWS Lambda using AWS SAM CLI
+ - [https://www.reddit.com/r/programming/comments/1f6kkwe/how_to_deploy_selenium_script_in_aws_lambda_using](https://www.reddit.com/r/programming/comments/1f6kkwe/how_to_deploy_selenium_script_in_aws_lambda_using)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T17:55:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Basic-Comfortable-27"> /u/Basic-Comfortable-27 </a> <br/> <span><a href="https://www.youtube.com/watch?v=j_qOVqQDBWw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6kkwe/how_to_deploy_selenium_script_in_aws_lambda_using/">[comments]</a></span>
+
+## Everything about Google Translate crashing React (and other web apps)
+ - [https://www.reddit.com/r/programming/comments/1f6k7xu/everything_about_google_translate_crashing_react](https://www.reddit.com/r/programming/comments/1f6k7xu/everything_about_google_translate_crashing_react)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T17:39:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/parski841"> /u/parski841 </a> <br/> <span><a href="https://martijnhols.nl/gists/everything-about-google-translate-crashing-react">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6k7xu/everything_about_google_translate_crashing_react/">[comments]</a></span>
+
+## Duplicitous - a short story about SEO
+ - [https://www.reddit.com/r/programming/comments/1f6j5bs/duplicitous_a_short_story_about_seo](https://www.reddit.com/r/programming/comments/1f6j5bs/duplicitous_a_short_story_about_seo)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T16:53:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/jaronilan"> /u/jaronilan </a> <br/> <span><a href="https://github.com/jaronilan/stories/blob/main/Duplicitous.pdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6j5bs/duplicitous_a_short_story_about_seo/">[comments]</a></span>
+
+## The First Year Working On Bold
+ - [https://www.reddit.com/r/programming/comments/1f6j239/the_first_year_working_on_bold](https://www.reddit.com/r/programming/comments/1f6j239/the_first_year_working_on_bold)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T16:49:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/levodelellis"> /u/levodelellis </a> <br/> <span><a href="https://bold-edit.com/blog/first-year-working-on-bold.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6j239/the_first_year_working_on_bold/">[comments]</a></span>
+
+## My Tech Promotion Algorithm - From an ex-Amazon Principal Engineer
+ - [https://www.reddit.com/r/programming/comments/1f6h7hq/my_tech_promotion_algorithm_from_an_examazon](https://www.reddit.com/r/programming/comments/1f6h7hq/my_tech_promotion_algorithm_from_an_examazon)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T15:30:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/xxjcutlerxx"> /u/xxjcutlerxx </a> <br/> <span><a href="https://read.highgrowthengineer.com/p/my-tech-promotion-algorithm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6h7hq/my_tech_promotion_algorithm_from_an_examazon/">[comments]</a></span>
+
+## Always negotiate your deadlines! (How to gain trust and prevent working overtime)
+ - [https://www.reddit.com/r/programming/comments/1f6gl6b/always_negotiate_your_deadlines_how_to_gain_trust](https://www.reddit.com/r/programming/comments/1f6gl6b/always_negotiate_your_deadlines_how_to_gain_trust)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T15:04:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/erFrankie99"> /u/erFrankie99 </a> <br/> <span><a href="https://strategizeyourcareer.com/p/always-negotiate-your-deadlines-how">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6gl6b/always_negotiate_your_deadlines_how_to_gain_trust/">[comments]</a></span>
+
+## How I Learned to Get By with C++ Packaging: A 5-Minute CMake Survival Guide
+ - [https://www.reddit.com/r/programming/comments/1f6ghtw/how_i_learned_to_get_by_with_c_packaging_a](https://www.reddit.com/r/programming/comments/1f6ghtw/how_i_learned_to_get_by_with_c_packaging_a)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T15:00:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/shrsv"> /u/shrsv </a> <br/> <span><a href="https://journal.hexmos.com/cmake-survial-guide/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6ghtw/how_i_learned_to_get_by_with_c_packaging_a/">[comments]</a></span>
+
+## Java mastery
+ - [https://www.reddit.com/r/programming/comments/1f6gcpd/java_mastery](https://www.reddit.com/r/programming/comments/1f6gcpd/java_mastery)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T14:54:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently switched to Java backend development last year and my past experiences involved PHP, .NET and started to be part of architect team.</p> <p>Background, i moved company and got accepted as Java senior engineer but I having a hard time catch up too many resources of Java with the goal of achieving mastery.</p> <p>I can easily construct ideas in mind and how to approach a problem but having trouble to implement solution. In short, my thinking now is more on very high level like an architect.</p> <p>Should i stick as developer or continue my architect path? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AssociationLanky2418"> /u/AssociationLanky2418 </a> <br/> <span><a href="http://No-url.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6gcpd/java_mastery/">[comments]</a></span>
+
+## I built a Javascript library for editing videos with code completely client-side. Yesterday, after 16 months of development, I open sourced the entire codebase [FREE]
+ - [https://www.reddit.com/r/programming/comments/1f6gbst/i_built_a_javascript_library_for_editing_videos](https://www.reddit.com/r/programming/comments/1f6gbst/i_built_a_javascript_library_for_editing_videos)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T14:53:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Maximum_Instance_401"> /u/Maximum_Instance_401 </a> <br/> <span><a href="https://github.com/diffusionstudio/core">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6gbst/i_built_a_javascript_library_for_editing_videos/">[comments]</a></span>
+
+## Data Science Intern salary range at Walmart is now $117,000 - $234,000? Crazy
+ - [https://www.reddit.com/r/programming/comments/1f6ep2z/data_science_intern_salary_range_at_walmart_is](https://www.reddit.com/r/programming/comments/1f6ep2z/data_science_intern_salary_range_at_walmart_is)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T13:40:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Immediate_Capital442"> /u/Immediate_Capital442 </a> <br/> <span><a href="https://www.linkedin.com/posts/jobs-in-data-com_students-jobs-hiring-activity-7234818578691092480-u0u6/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6ep2z/data_science_intern_salary_range_at_walmart_is/">[comments]</a></span>
+
+## A's Commit Messages Guide: Location, Action, Rationale
+ - [https://www.reddit.com/r/programming/comments/1f6egbt/as_commit_messages_guide_location_action_rationale](https://www.reddit.com/r/programming/comments/1f6egbt/as_commit_messages_guide_location_action_rationale)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T13:28:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/aartaka"> /u/aartaka </a> <br/> <span><a href="https://aartaka.me/commitmsg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6egbt/as_commit_messages_guide_location_action_rationale/">[comments]</a></span>
+
+## AI Powered Delphi Migration & Analysis Solution
+ - [https://www.reddit.com/r/programming/comments/1f6ddj3/ai_powered_delphi_migration_analysis_solution](https://www.reddit.com/r/programming/comments/1f6ddj3/ai_powered_delphi_migration_analysis_solution)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T12:35:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DelphiParser"> /u/DelphiParser </a> <br/> <span><a href="https://delphiparser.com/ai-powered-delphi-migration-analysis-solution/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6ddj3/ai_powered_delphi_migration_analysis_solution/">[comments]</a></span>
+
+## Extending the Windows Shell Progress Dialog
+ - [https://www.reddit.com/r/programming/comments/1f6cfd6/extending_the_windows_shell_progress_dialog](https://www.reddit.com/r/programming/comments/1f6cfd6/extending_the_windows_shell_progress_dialog)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T11:40:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AndrewMD5"> /u/AndrewMD5 </a> <br/> <span><a href="https://dolus.app/blog/progress-dialog/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6cfd6/extending_the_windows_shell_progress_dialog/">[comments]</a></span>
+
+## Java Tutorial For Beginners (The Best Way to Learn)
+ - [https://www.reddit.com/r/programming/comments/1f6c65e/java_tutorial_for_beginners_the_best_way_to_learn](https://www.reddit.com/r/programming/comments/1f6c65e/java_tutorial_for_beginners_the_best_way_to_learn)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T11:24:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/bravehub"> /u/bravehub </a> <br/> <span><a href="https://youtu.be/hJi2hk7NTv8?si=laV5pmsSYJtjQypg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6c65e/java_tutorial_for_beginners_the_best_way_to_learn/">[comments]</a></span>
+
+## Command Injection 101: How to spot Command Injection vulnerabilities during Secure Code Review
+ - [https://www.reddit.com/r/programming/comments/1f6c09m/command_injection_101_how_to_spot_command](https://www.reddit.com/r/programming/comments/1f6c09m/command_injection_101_how_to_spot_command)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T11:14:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Electronic_Village_8"> /u/Electronic_Village_8 </a> <br/> <span><a href="https://www.youtube.com/watch?v=excNwAO14PY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6c09m/command_injection_101_how_to_spot_command/">[comments]</a></span>
+
+## The web's clipboard, and how it stores data of different types
+ - [https://www.reddit.com/r/programming/comments/1f6bu7d/the_webs_clipboard_and_how_it_stores_data_of](https://www.reddit.com/r/programming/comments/1f6bu7d/the_webs_clipboard_and_how_it_stores_data_of)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T11:03:40+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/XLEX97"> /u/XLEX97 </a> <br/> <span><a href="https://alexharri.com/blog/clipboard">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6bu7d/the_webs_clipboard_and_how_it_stores_data_of/">[comments]</a></span>
+
+## Ada Lovelace I The Mother of Programming I Part 2
+ - [https://www.reddit.com/r/programming/comments/1f6blrs/ada_lovelace_i_the_mother_of_programming_i_part_2](https://www.reddit.com/r/programming/comments/1f6blrs/ada_lovelace_i_the_mother_of_programming_i_part_2)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T10:48:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/GreatWomenHeritage"> /u/GreatWomenHeritage </a> <br/> <span><a href="https://youtu.be/M8djn_8aN8E?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6blrs/ada_lovelace_i_the_mother_of_programming_i_part_2/">[comments]</a></span>
+
+## Ada Lovelace I The Mother of Programming
+ - [https://www.reddit.com/r/programming/comments/1f6bl99/ada_lovelace_i_the_mother_of_programming](https://www.reddit.com/r/programming/comments/1f6bl99/ada_lovelace_i_the_mother_of_programming)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T10:47:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/GreatWomenHeritage"> /u/GreatWomenHeritage </a> <br/> <span><a href="https://youtu.be/W-gfE0o7R9c?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f6bl99/ada_lovelace_i_the_mother_of_programming/">[comments]</a></span>
+
+## Dockerfile-less and Daemon-less Build
+ - [https://www.reddit.com/r/programming/comments/1f696t8/dockerfileless_and_daemonless_build](https://www.reddit.com/r/programming/comments/1f696t8/dockerfileless_and_daemonless_build)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T07:54:26+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/congolomera"> /u/congolomera </a> <br/> <span><a href="https://mallakimahdi.medium.com/dockerfile-less-and-daemon-less-build-faa0513e320f?source=friends_link&amp;sk=0bf7ff311e1a34ff0a843be8c3f8b745">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f696t8/dockerfileless_and_daemonless_build/">[comments]</a></span>
+
+## Building an interactive 3D Tag with React Three Fiber and Next.js
+ - [https://www.reddit.com/r/programming/comments/1f67tjz/building_an_interactive_3d_tag_with_react_three](https://www.reddit.com/r/programming/comments/1f67tjz/building_an_interactive_3d_tag_with_react_three)
+ - RSS feed: https://www.reddit.com/r/programming/.rss
+ - date published: 2024-09-01T06:18:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BadExtension1309"> /u/BadExtension1309 </a> <br/> <span><a href="https://www.youtube.com/watch?v=2ilzAllp95Q">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1f67tjz/building_an_interactive_3d_tag_with_react_three/">[comments]</a></span>
+

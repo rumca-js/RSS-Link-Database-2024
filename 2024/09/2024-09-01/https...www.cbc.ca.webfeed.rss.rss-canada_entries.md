@@ -1,0 +1,37 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Feeling swarmed? Wasp experts explain what's with all the buzz this year
+ - [https://www.cbc.ca/news/canada/calgary/calgary-wasps-summer-nests-1.7309780?cmp=rss](https://www.cbc.ca/news/canada/calgary/calgary-wasps-summer-nests-1.7309780?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-09-01T08:00:00+00:00
+
+<img src='https://i.cbc.ca/1.2716560.1725055343!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wasp.jpg' alt='A wasp with yellow and black stripes is seen in a close up as it crawls along a nest.' width='620' height='349' title='The death of a Quebec mayor who was stung multiple times after stepping on a wasps&apos; nest while gardening is a tragic but cautionary tale for those who run afoul of bees, hornets or other stinging insects — especially if they have a severe allergy to their venom, experts say. '/><p>Pest control technician JS Ouelette says this hot, dry summer has been good for business, with 25 to 40 calls per day to remove wasp nests — roughly four times the typical call volume.</p>
+
+## You've heard of a drive-thru, but what about a boat-thru?
+ - [https://www.cbc.ca/news/canada/new-brunswick/ice-cream-dock-floating-water-1.7309272?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/ice-cream-dock-floating-water-1.7309272?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-09-01T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7309296.1725025544!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ice-cream-dock.jpg' alt='A shack on a dock in the water' width='620' height='349' title='Michael Alton stands behind the counter at Ice Cream Dock, where boaters can grab a treat without docking up. '/><p>Situated in the Kingston area of the St. John River system, it’s a peculiar sight to behold — a small floating shack with a green roof and red flags. And that shack has a name. It’s called Ice Cream Dock and boaters are able to utilize the “boat-thru” to grab a treat without docking.</p>
+
+## 33,000 mussels were carefully moved by hand from the site of a new bridge to Montreal
+ - [https://www.cbc.ca/news/canada/montreal/relocate-mussels-bridge-site-1.7306443?cmp=rss](https://www.cbc.ca/news/canada/montreal/relocate-mussels-bridge-site-1.7306443?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-09-01T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7306453.1724795250!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mussels.jpg' alt='mussels in a net' width='620' height='349' title='The mussels were collected by hand and then transported underwater using nets to a new site in the Lake of Two Mountains.'/><p>Teams of biologists have relocated more than 33,000 freshwater mussels from the construction site of the new Île-aux-Tourtes Bridge, which will connect Montreal's West Island to Vaudreuil-Dorion.</p>
+
+## As temperatures rise, so will the cost of an AC unit
+ - [https://www.cbc.ca/radio/costofliving/air-conditioning-cost-1.7307561?cmp=rss](https://www.cbc.ca/radio/costofliving/air-conditioning-cost-1.7307561?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-09-01T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.6914537.1689974529!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/biden-climate-coolants.jpg' alt='A man with a dark beard, wearing a red and black ball cap, fixes an outdoor air-conditioning unit.' width='620' height='349' title='FILE - Ed Newby, owner of All Star A/C and Heating, works on an air conditioning unit on June 26, 2023, in Houston. The Environmental Protection Agency is enforcing stricter limits on hydrofluorocarbons, highly potent greenhouse gases used in refrigerators and air conditioners. A rule announced Tuesday, July 11, would impose a 40% reduction in HFCs below historic levels by 2028, part of a global phaseout of HFCs designed to slow global warming. (Raquel Natalicchio/Houston Chronicle via AP, File)'/><p>The cost of air conditioning units is expected to go up by anywhere between 10 to 20 per cent next year because of regulation changes in keeping with the Montreal Protocol.</p>
+
+## From Yorkville to Kyiv: How a war brought a Canadian cook overseas to help Ukrainian troops
+ - [https://www.cbc.ca/news/world/canadian-volunteer-feeding-soldiers-ukraine-1.7310014?cmp=rss](https://www.cbc.ca/news/world/canadian-volunteer-feeding-soldiers-ukraine-1.7310014?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2024-09-01T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7310162.1725067839!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joshua-cabral-at-a-train-station-in-ukraine-s-zaporizhzhia-oblast.jpg' alt='Canadian Joshua Cabral is seen at a train station in the Ukrainian city of Zaporizhzhia in June 2024.' width='620' height='349' title='Canadian Joshua Cabral is seen at a train station in the Ukrainian city of Zaporizhzhia in June 2024.'/><p>The outbreak of Russia's all-out invasion of Ukraine put a Canadian cook on a path to support the nation defending itself, in the form of helping to provide nourishing meals for the Ukrainian soldiers serving on the front lines of the war.</p>
+

@@ -1,0 +1,289 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## German air traffic control suffered cyberattack, likely by pro-Russian group of hackers
+ - [https://www.reddit.com/r/worldnews/comments/1f6rkx1/german_air_traffic_control_suffered_cyberattack](https://www.reddit.com/r/worldnews/comments/1f6rkx1/german_air_traffic_control_suffered_cyberattack)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T22:53:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6rkx1/german_air_traffic_control_suffered_cyberattack/"> <img src="https://external-preview.redd.it/ZV1wwneBfUvnf8aZEwieF5x2GjdQqKdN2vqNqHwCn6U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52668e2cefaf022bdd39222268610a833df46dfd" alt="German air traffic control suffered cyberattack, likely by pro-Russian group of hackers" title="German air traffic control suffered cyberattack, likely by pro-Russian group of hackers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yash13"> /u/yash13 </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2024/09/1/7472966/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6rkx1/german_air_traffic_control_suffered_cyberattack/">[comments]</a></span> </td></tr></table>
+
+## Autopsy finds 6 hostages were shot multiple times at close range in last 48-72 hours
+ - [https://www.reddit.com/r/worldnews/comments/1f6qn88/autopsy_finds_6_hostages_were_shot_multiple_times](https://www.reddit.com/r/worldnews/comments/1f6qn88/autopsy_finds_6_hostages_were_shot_multiple_times)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T22:10:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6qn88/autopsy_finds_6_hostages_were_shot_multiple_times/"> <img src="https://external-preview.redd.it/-bPP4-vJc_Rl_xSh-ffQGvBjotHAQOKWzQqpQj89hVw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f93f7e8b5c5993ebab79053890114d89fb03dc3d" alt="Autopsy finds 6 hostages were shot multiple times at close range in last 48-72 hours" title="Autopsy finds 6 hostages were shot multiple times at close range in last 48-72 hours" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FYoCouchEddie"> /u/FYoCouchEddie </a> <br/> <span><a href="https://www.timesofisrael.com/autopsy-finds-6-hostages-shot-multiple-times-at-close-range-in-last-48-72-hours/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6qn88/autopsy_finds_6_hostages_were_shot_multiple_times/">[comments]</a></span> </td></tr></table>
+
+## Protests Break Out Across Israel Demanding a Deal for the Release of Hostages
+ - [https://www.reddit.com/r/worldnews/comments/1f6qjks/protests_break_out_across_israel_demanding_a_deal](https://www.reddit.com/r/worldnews/comments/1f6qjks/protests_break_out_across_israel_demanding_a_deal)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T22:06:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6qjks/protests_break_out_across_israel_demanding_a_deal/"> <img src="https://external-preview.redd.it/wR4HrnxwaWvjEjOArojDiusvDHaXEDmrzSd-lvoPv2M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=148d934c0a322ef26a11de9e7e671dfbee6b8ee1" alt="Protests Break Out Across Israel Demanding a Deal for the Release of Hostages" title="Protests Break Out Across Israel Demanding a Deal for the Release of Hostages" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CountyBeginning6510"> /u/CountyBeginning6510 </a> <br/> <span><a href="https://www.nytimes.com/2024/09/01/world/middleeast/israel-protests-hostages.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6qjks/protests_break_out_across_israel_demanding_a_deal/">[comments]</a></span> </td></tr></table>
+
+## Moldova Prepared For Russian Interference Ahead Of Presidential Vote
+ - [https://www.reddit.com/r/worldnews/comments/1f6qe2m/moldova_prepared_for_russian_interference_ahead](https://www.reddit.com/r/worldnews/comments/1f6qe2m/moldova_prepared_for_russian_interference_ahead)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T21:59:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6qe2m/moldova_prepared_for_russian_interference_ahead/"> <img src="https://external-preview.redd.it/igA6uKRfiJK4P2Z8mqcsedfN02Oi6CeixEdOdO6UN6c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c30de52bf03b44bb61a242f226ac196fee045e2" alt="Moldova Prepared For Russian Interference Ahead Of Presidential Vote" title="Moldova Prepared For Russian Interference Ahead Of Presidential Vote" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snappydo99"> /u/snappydo99 </a> <br/> <span><a href="https://www.rferl.org/a/moldova-popsoi-interview-russian-electoral-interference/33101456.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6qe2m/moldova_prepared_for_russian_interference_ahead/">[comments]</a></span> </td></tr></table>
+
+## The far-right AfD is celebrating record election results in Germany's eastern states of Thuringia and Saxony. But it is unlikely to lead or even join a government, as all other parties are keeping their distance
+ - [https://www.reddit.com/r/worldnews/comments/1f6pjxz/the_farright_afd_is_celebrating_record_election](https://www.reddit.com/r/worldnews/comments/1f6pjxz/the_farright_afd_is_celebrating_record_election)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T21:22:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6pjxz/the_farright_afd_is_celebrating_record_election/"> <img src="https://external-preview.redd.it/BfvkmlSfkomqrxmCjtohmScKW9wQb3Hi1RK1MHLSeWc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abab79a0f76307a6168d62a3b882e187bafe7cea" alt="The far-right AfD is celebrating record election results in Germany's eastern states of Thuringia and Saxony. But it is unlikely to lead or even join a government, as all other parties are keeping their distance" title="The far-right AfD is celebrating record election results in Germany's eastern states of Thuringia and Saxony. But it is unlikely to lead or even join a government, as all other parties are keeping their distance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br/> <span><a href="https://www.dw.com/en/far-right-afd-we-have-a-clear-mandate-to-govern/a-70105904">[link]</a></span> &#32; <span><a 
+
+## At Least 94 Prisoners Executed in Iranian Prisons in August 2024
+ - [https://www.reddit.com/r/worldnews/comments/1f6ovfk/at_least_94_prisoners_executed_in_iranian_prisons](https://www.reddit.com/r/worldnews/comments/1f6ovfk/at_least_94_prisoners_executed_in_iranian_prisons)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T20:53:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6ovfk/at_least_94_prisoners_executed_in_iranian_prisons/"> <img src="https://external-preview.redd.it/Gdv1HM4Uv2fa26JktAFJ3Mvv6cCElIqtx7mbE39sqzY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=073b9fb69fe09eb24c4a800d68343319dcb44607" alt="At Least 94 Prisoners Executed in Iranian Prisons in August 2024" title="At Least 94 Prisoners Executed in Iranian Prisons in August 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/air_sun_10"> /u/air_sun_10 </a> <br/> <span><a href="https://hengaw.net/en/reports-and-statistics-1/2024/09/article-1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6ovfk/at_least_94_prisoners_executed_in_iranian_prisons/">[comments]</a></span> </td></tr></table>
+
+## The Starliner spacecraft has started to emit strange noises
+ - [https://www.reddit.com/r/worldnews/comments/1f6orc3/the_starliner_spacecraft_has_started_to_emit](https://www.reddit.com/r/worldnews/comments/1f6orc3/the_starliner_spacecraft_has_started_to_emit)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T20:48:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6orc3/the_starliner_spacecraft_has_started_to_emit/"> <img src="https://external-preview.redd.it/4nBs3iSG8PmU7cE42DbPZR4wqETMzi9nXhRu_FUpyt8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e018b23759fd0a52cb270df61978a868ee1c33f" alt="The Starliner spacecraft has started to emit strange noises" title="The Starliner spacecraft has started to emit strange noises" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Robert-Nogacki"> /u/Robert-Nogacki </a> <br/> <span><a href="https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6orc3/the_starliner_spacecraft_has_started_to_emit/">[comments]</a></span> </td></tr></table>
+
+## Tel Aviv becomes center of nationwide protests demanding immediate hostage deal
+ - [https://www.reddit.com/r/worldnews/comments/1f6mgbo/tel_aviv_becomes_center_of_nationwide_protests](https://www.reddit.com/r/worldnews/comments/1f6mgbo/tel_aviv_becomes_center_of_nationwide_protests)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T19:13:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6mgbo/tel_aviv_becomes_center_of_nationwide_protests/"> <img src="https://external-preview.redd.it/qSvilLhubDU_iB-DCiQvQ2fHCRYwkHTPRUhYeqVeMlU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c63200e897d4f9dcb2074b9fda417ca78862c3e" alt="Tel Aviv becomes center of nationwide protests demanding immediate hostage deal" title="Tel Aviv becomes center of nationwide protests demanding immediate hostage deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/robalob30"> /u/robalob30 </a> <br/> <span><a href="https://www.jpost.com/israel-news/article-817299">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6mgbo/tel_aviv_becomes_center_of_nationwide_protests/">[comments]</a></span> </td></tr></table>
+
+## Russia Disrupts Global Hawk UAV Mission Over Baltic Sea: For the first time, Russian jamming of GPS over Eastern Europe now seems to have interfered with a high-altitude surveillance mission of an RQ-4B Global Hawk UAV in Estonian airspace.
+ - [https://www.reddit.com/r/worldnews/comments/1f6jrt7/russia_disrupts_global_hawk_uav_mission_over](https://www.reddit.com/r/worldnews/comments/1f6jrt7/russia_disrupts_global_hawk_uav_mission_over)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T17:19:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6jrt7/russia_disrupts_global_hawk_uav_mission_over/"> <img src="https://external-preview.redd.it/nt3xbu02yv0G1N0u5jrApN88RdxyuofohtcXdAcNl40.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=64a266c827c17e05efa30c783d737fe951085382" alt="Russia Disrupts Global Hawk UAV Mission Over Baltic Sea: For the first time, Russian jamming of GPS over Eastern Europe now seems to have interfered with a high-altitude surveillance mission of an RQ-4B Global Hawk UAV in Estonian airspace." title="Russia Disrupts Global Hawk UAV Mission Over Baltic Sea: For the first time, Russian jamming of GPS over Eastern Europe now seems to have interfered with a high-altitude surveillance mission of an RQ-4B Global Hawk UAV in Estonian airspace." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Well-Sourced"> /u/Well-Sourced </a> <br/> <span><a href="https://www.kyivpost.com/post/38290">[link]</a></span> &#32; <
+
+## Weight Loss Drug Reduces Diabetes Risk by 94 Percent in Clinical Trial
+ - [https://www.reddit.com/r/worldnews/comments/1f6jnfi/weight_loss_drug_reduces_diabetes_risk_by_94](https://www.reddit.com/r/worldnews/comments/1f6jnfi/weight_loss_drug_reduces_diabetes_risk_by_94)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T17:14:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6jnfi/weight_loss_drug_reduces_diabetes_risk_by_94/"> <img src="https://external-preview.redd.it/WPz6REjHw40k6rWYTiN9ezBky4eXgTBTAl2-X_-zmtw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=02131fa5153308068c1d8bf54b4332d6f29ed67b" alt="Weight Loss Drug Reduces Diabetes Risk by 94 Percent in Clinical Trial" title="Weight Loss Drug Reduces Diabetes Risk by 94 Percent in Clinical Trial" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Darshan_brahmbhatt"> /u/Darshan_brahmbhatt </a> <br/> <span><a href="https://www.sciencealert.com/weight-loss-drug-reduces-diabetes-risk-by-94-percent-in-clinical-trial">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6jnfi/weight_loss_drug_reduces_diabetes_risk_by_94/">[comments]</a></span> </td></tr></table>
+
+## Ukraine launches mass drone attack on Russia, loses more ground in east
+ - [https://www.reddit.com/r/worldnews/comments/1f6jnf4/ukraine_launches_mass_drone_attack_on_russia](https://www.reddit.com/r/worldnews/comments/1f6jnf4/ukraine_launches_mass_drone_attack_on_russia)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T17:14:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Hob-999"> /u/Hob-999 </a> <br/> <span><a href="https://www.reuters.com/world/europe/ukraine-launches-mass-drone-attack-russia-loses-more-ground-east-2024-09-01/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6jnf4/ukraine_launches_mass_drone_attack_on_russia/">[comments]</a></span>
+
+## Exit poll suggests Germany's far-right AfD is on track to coming first in the state election of Thuringia, but unlikely to be able to form a government
+ - [https://www.reddit.com/r/worldnews/comments/1f6ibii/exit_poll_suggests_germanys_farright_afd_is_on](https://www.reddit.com/r/worldnews/comments/1f6ibii/exit_poll_suggests_germanys_farright_afd_is_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T16:17:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/green_flash"> /u/green_flash </a> <br/> <span><a href="https://www.reuters.com/world/europe/germanys-far-right-afd-set-come-first-thuringia-election-exit-poll-2024-09-01/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6ibii/exit_poll_suggests_germanys_farright_afd_is_on/">[comments]</a></span>
+
+## Polio vaccines arrive in Gaza after first case in 25 years
+ - [https://www.reddit.com/r/worldnews/comments/1f6i3pe/polio_vaccines_arrive_in_gaza_after_first_case_in](https://www.reddit.com/r/worldnews/comments/1f6i3pe/polio_vaccines_arrive_in_gaza_after_first_case_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T16:08:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6i3pe/polio_vaccines_arrive_in_gaza_after_first_case_in/"> <img src="https://external-preview.redd.it/bWmT9kiZLoAxVnyKZTjsDF9JXjnBxZ3fGbbQGd9uTdU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be51389efd2f813d2edc1a4fc4849ccf971c8dd6" alt="Polio vaccines arrive in Gaza after first case in 25 years " title="Polio vaccines arrive in Gaza after first case in 25 years " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doodly-123"> /u/doodly-123 </a> <br/> <span><a href="https://www.dw.com/en/polio-vaccines-arrive-in-gaza-after-first-case-in-25-years/a-70101178">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6i3pe/polio_vaccines_arrive_in_gaza_after_first_case_in/">[comments]</a></span> </td></tr></table>
+
+## US condemns China for 'dangerously' ramming coastguard boats in disputed South China Sea
+ - [https://www.reddit.com/r/worldnews/comments/1f6hllz/us_condemns_china_for_dangerously_ramming](https://www.reddit.com/r/worldnews/comments/1f6hllz/us_condemns_china_for_dangerously_ramming)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T15:47:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6hllz/us_condemns_china_for_dangerously_ramming/"> <img src="https://external-preview.redd.it/EvX2eaTpAFo01h-zUPRXwTY96s82BNR4ETsA_w4uFOg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c87612a2d7f50b445d9651850ee6ef574ad07bb0" alt="US condemns China for 'dangerously' ramming coastguard boats in disputed South China Sea" title="US condemns China for 'dangerously' ramming coastguard boats in disputed South China Sea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2024/09/01/us-condemns-china-ramming-philippine-coastguard-boats/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6hllz/us_condemns_china_for_dangerously_ramming/">[comments]</a></span> </td></tr></table>
+
+## This year The top graduates of all of Turkey's Cadet Schools: Land, Air and Naval were female lieutenants
+ - [https://www.reddit.com/r/worldnews/comments/1f6hii8/this_year_the_top_graduates_of_all_of_turkeys](https://www.reddit.com/r/worldnews/comments/1f6hii8/this_year_the_top_graduates_of_all_of_turkeys)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T15:44:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6hii8/this_year_the_top_graduates_of_all_of_turkeys/"> <img src="https://external-preview.redd.it/x3fCu62K45ydObqGT_29p6i_1gfead9O_6vkKHeQ5ME.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56ea2535a018e345eb837781e475e8823944f22f" alt="This year The top graduates of all of Turkey's Cadet Schools: Land, Air and Naval were female lieutenants " title="This year The top graduates of all of Turkey's Cadet Schools: Land, Air and Naval were female lieutenants " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prize_Entrance_7395"> /u/Prize_Entrance_7395 </a> <br/> <span><a href="https://www.turkiyetoday.com/turkiye/turkish-female-officers-47340/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6hii8/this_year_the_top_graduates_of_all_of_turkeys/">[comments]</a></span> </td></tr></table>
+
+## Russian Mercenaries Pulled Out of Burkina Faso to Defend Kursk
+ - [https://www.reddit.com/r/worldnews/comments/1f6hf5t/russian_mercenaries_pulled_out_of_burkina_faso_to](https://www.reddit.com/r/worldnews/comments/1f6hf5t/russian_mercenaries_pulled_out_of_burkina_faso_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T15:40:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6hf5t/russian_mercenaries_pulled_out_of_burkina_faso_to/"> <img src="https://external-preview.redd.it/AmL2hAQqkK4XM7qqqOzVZmWzStGDR9EJZHg0lulTfJQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61276970417e1b0d3827636294c6514644fb57b6" alt="Russian Mercenaries Pulled Out of Burkina Faso to Defend Kursk " title="Russian Mercenaries Pulled Out of Burkina Faso to Defend Kursk " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br/> <span><a href="https://www.themoscowtimes.com/2024/08/31/russian-mercenaries-pulled-out-of-burkina-faso-to-defend-kursk-commander-a86214">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6hf5t/russian_mercenaries_pulled_out_of_burkina_faso_to/">[comments]</a></span> </td></tr></table>
+
+## British Intelligence: Putin appoints his relatives to the highest positions
+ - [https://www.reddit.com/r/worldnews/comments/1f6gl9n/british_intelligence_putin_appoints_his_relatives](https://www.reddit.com/r/worldnews/comments/1f6gl9n/british_intelligence_putin_appoints_his_relatives)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T15:04:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6gl9n/british_intelligence_putin_appoints_his_relatives/"> <img src="https://external-preview.redd.it/2rX4u6Z6h5Sg0G_dg582O2ju6yfNkur2OpU-WZxxru4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c8d06f2655217665c7d57ec2347e937a924147d" alt="British Intelligence: Putin appoints his relatives to the highest positions" title="British Intelligence: Putin appoints his relatives to the highest positions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CompetitiveNovel8990"> /u/CompetitiveNovel8990 </a> <br/> <span><a href="https://odessa-journal.com/british-intelligence-putin-appoints-his-relatives-to-the-highest-positions">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6gl9n/british_intelligence_putin_appoints_his_relatives/">[comments]</a></span> </td></tr></table>
+
+## Russia says it will change nuclear doctrine because of Western role in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1f6ghl6/russia_says_it_will_change_nuclear_doctrine](https://www.reddit.com/r/worldnews/comments/1f6ghl6/russia_says_it_will_change_nuclear_doctrine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T15:00:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6ghl6/russia_says_it_will_change_nuclear_doctrine/"> <img src="https://external-preview.redd.it/LjSjncyHCs40LORTUPbPDDIPabwmw4_1RortXDxXH6k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd7f0da78c84f4405023b8f85de4e15e913eae45" alt="Russia says it will change nuclear doctrine because of Western role in Ukraine" title="Russia says it will change nuclear doctrine because of Western role in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Desert-Noir"> /u/Desert-Noir </a> <br/> <span><a href="https://www.abc.net.au/news/2024-09-01/russia-says-it-will-change-nuclear-doctrine-because-of-west-/104297494">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6ghl6/russia_says_it_will_change_nuclear_doctrine/">[comments]</a></span> </td></tr></table>
+
+## Israel Labor Union Declares Strike to Press For Hostage Deal
+ - [https://www.reddit.com/r/worldnews/comments/1f6fhpp/israel_labor_union_declares_strike_to_press_for](https://www.reddit.com/r/worldnews/comments/1f6fhpp/israel_labor_union_declares_strike_to_press_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T14:17:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6fhpp/israel_labor_union_declares_strike_to_press_for/"> <img src="https://external-preview.redd.it/Ec-DPTzdwhK65cdF_YbQEA3K8vVIIWgVTfp7Kps2RMw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed32e9c10b2ef05793fd595a3ca864763067ff92" alt="Israel Labor Union Declares Strike to Press For Hostage Deal" title="Israel Labor Union Declares Strike to Press For Hostage Deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IMSLI"> /u/IMSLI </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2024-09-01/israel-labor-union-declares-strike-to-press-for-hostage-deal">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6fhpp/israel_labor_union_declares_strike_to_press_for/">[comments]</a></span> </td></tr></table>
+
+## General strike to be held Monday over death of 6 hostages
+ - [https://www.reddit.com/r/worldnews/comments/1f6f256/general_strike_to_be_held_monday_over_death_of_6](https://www.reddit.com/r/worldnews/comments/1f6f256/general_strike_to_be_held_monday_over_death_of_6)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T13:57:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6f256/general_strike_to_be_held_monday_over_death_of_6/"> <img src="https://external-preview.redd.it/KaJeHYJ9kInl7Pa9bd2mEeJUt5OstLeZjSCyMNZUo0A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c10c5737ed57c47fd47fe44fe10cbdfae8b0282c" alt="General strike to be held Monday over death of 6 hostages" title="General strike to be held Monday over death of 6 hostages" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/parski841"> /u/parski841 </a> <br/> <span><a href="https://www.ynetnews.com/article/hya00wef30">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6f256/general_strike_to_be_held_monday_over_death_of_6/">[comments]</a></span> </td></tr></table>
+
+## The Washington Post: Ukraine launches massive drone attack on Russian energy infrastructure
+ - [https://www.reddit.com/r/worldnews/comments/1f6eg5o/the_washington_post_ukraine_launches_massive](https://www.reddit.com/r/worldnews/comments/1f6eg5o/the_washington_post_ukraine_launches_massive)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T13:28:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6eg5o/the_washington_post_ukraine_launches_massive/"> <img src="https://external-preview.redd.it/F1oB-vLPgXCt38ol-dMCsumixgyaWQYDi28RDIrgx1k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce00ddc74a59c5cfc29a7073f00ea02a2593ef64" alt="The Washington Post: Ukraine launches massive drone attack on Russian energy infrastructure" title="The Washington Post: Ukraine launches massive drone attack on Russian energy infrastructure" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://www.washingtonpost.com/world/2024/09/01/ukraine-drone-attack-russia-energy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6eg5o/the_washington_post_ukraine_launches_massive/">[comments]</a></span> </td></tr></table>
+
+## Lithuanian FM lambasts Europeans for slow delivery of Ukraine aid
+ - [https://www.reddit.com/r/worldnews/comments/1f6e44o/lithuanian_fm_lambasts_europeans_for_slow](https://www.reddit.com/r/worldnews/comments/1f6e44o/lithuanian_fm_lambasts_europeans_for_slow)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T13:12:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6e44o/lithuanian_fm_lambasts_europeans_for_slow/"> <img src="https://external-preview.redd.it/Gc0wkB43Y05-yHQ314FFI1A_AXm0hDBnXuxmgYwdzus.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f47e690625bfa132b1ce0b374932e6fe14b4d353" alt="Lithuanian FM lambasts Europeans for slow delivery of Ukraine aid" title="Lithuanian FM lambasts Europeans for slow delivery of Ukraine aid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BubsyFanboy"> /u/BubsyFanboy </a> <br/> <span><a href="https://www.lrt.lt/en/news-in-english/19/2349038/lithuanian-fm-lambasts-europeans-for-slow-delivery-of-ukraine-aid">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6e44o/lithuanian_fm_lambasts_europeans_for_slow/">[comments]</a></span> </td></tr></table>
+
+## Germany far-right party could win first state in eastern regional elections
+ - [https://www.reddit.com/r/worldnews/comments/1f6cyd5/germany_farright_party_could_win_first_state_in](https://www.reddit.com/r/worldnews/comments/1f6cyd5/germany_farright_party_could_win_first_state_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T12:12:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/jas26"> /u/jas26 </a> <br/> <span><a href="https://www.reuters.com/world/europe/far-right-could-win-first-state-two-east-german-elections-2024-09-01/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6cyd5/germany_farright_party_could_win_first_state_in/">[comments]</a></span>
+
+## Researchers unlock cheap way to vaporize plastic and use it to make more plastic
+ - [https://www.reddit.com/r/worldnews/comments/1f6bzkn/researchers_unlock_cheap_way_to_vaporize_plastic](https://www.reddit.com/r/worldnews/comments/1f6bzkn/researchers_unlock_cheap_way_to_vaporize_plastic)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T11:13:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6bzkn/researchers_unlock_cheap_way_to_vaporize_plastic/"> <img src="https://external-preview.redd.it/s0j18-x-ktS1By9g0r0_uK3Wt8DLdm3ySv4PTKWvgdM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1534a7382a82c6c4e0a90aaed06a2b28a02afd36" alt="Researchers unlock cheap way to vaporize plastic and use it to make more plastic" title="Researchers unlock cheap way to vaporize plastic and use it to make more plastic" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Darshan_brahmbhatt"> /u/Darshan_brahmbhatt </a> <br/> <span><a href="https://www.techspot.com/news/104521-researchers-unlock-cheap-way-vaporize-plastic-use-make.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6bzkn/researchers_unlock_cheap_way_to_vaporize_plastic/">[comments]</a></span> </td></tr></table>
+
+## New Footage Allegedly Shows Belarusian Military Equipment Moving Toward Ukrainian Border
+ - [https://www.reddit.com/r/worldnews/comments/1f6bupx/new_footage_allegedly_shows_belarusian_military](https://www.reddit.com/r/worldnews/comments/1f6bupx/new_footage_allegedly_shows_belarusian_military)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T11:04:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6bupx/new_footage_allegedly_shows_belarusian_military/"> <img src="https://external-preview.redd.it/cssHX0atyRfVrhb1nQEw1ap319rD8epUaZtOHzoZN3g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bb11e3937bf221f21ec6fd773ba1ce047aa79d9" alt="New Footage Allegedly Shows Belarusian Military Equipment Moving Toward Ukrainian Border" title="New Footage Allegedly Shows Belarusian Military Equipment Moving Toward Ukrainian Border" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xc2215x"> /u/xc2215x </a> <br/> <span><a href="https://www.kyivpost.com/post/38280">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6bupx/new_footage_allegedly_shows_belarusian_military/">[comments]</a></span> </td></tr></table>
+
+## Largest Ukrainian Drone Assault Sparks Fires at Moscow and Tver Power Plants
+ - [https://www.reddit.com/r/worldnews/comments/1f6bo14/largest_ukrainian_drone_assault_sparks_fires_at](https://www.reddit.com/r/worldnews/comments/1f6bo14/largest_ukrainian_drone_assault_sparks_fires_at)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T10:52:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6bo14/largest_ukrainian_drone_assault_sparks_fires_at/"> <img src="https://external-preview.redd.it/i1kwtwjQiF80YD7_y7AnV9-Mp_76YsPWW8pFz0Zp3ks.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60d977d25e4f59ec950b4411a2c8bd1ec065f78a" alt="Largest Ukrainian Drone Assault Sparks Fires at Moscow and Tver Power Plants" title="Largest Ukrainian Drone Assault Sparks Fires at Moscow and Tver Power Plants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br/> <span><a href="https://www.kyivpost.com/post/38278">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6bo14/largest_ukrainian_drone_assault_sparks_fires_at/">[comments]</a></span> </td></tr></table>
+
+## Fires at Russian energy plants after Ukraine drone attacks
+ - [https://www.reddit.com/r/worldnews/comments/1f6bjc0/fires_at_russian_energy_plants_after_ukraine](https://www.reddit.com/r/worldnews/comments/1f6bjc0/fires_at_russian_energy_plants_after_ukraine)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T10:43:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6bjc0/fires_at_russian_energy_plants_after_ukraine/"> <img src="https://external-preview.redd.it/khn3XQjFXCIitjCoq99TgJgtjyyb34JS4gZZvnjw19g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a057b8fe0c38a19fd8799d0cd80d65b74df8dbe" alt="Fires at Russian energy plants after Ukraine drone attacks" title="Fires at Russian energy plants after Ukraine drone attacks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObjectiveAd6551"> /u/ObjectiveAd6551 </a> <br/> <span><a href="https://www.bbc.com/news/articles/cyvp1089q9jo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6bjc0/fires_at_russian_energy_plants_after_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Japan protests Chinese naval intrusion into territorial waters, days after airspace incursion
+ - [https://www.reddit.com/r/worldnews/comments/1f6bgib/japan_protests_chinese_naval_intrusion_into](https://www.reddit.com/r/worldnews/comments/1f6bgib/japan_protests_chinese_naval_intrusion_into)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T10:38:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6bgib/japan_protests_chinese_naval_intrusion_into/"> <img src="https://external-preview.redd.it/apt3Si3DcGoBEf-iV_8rlQgJYnQhHpF9vUq0ORQRFKY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=daa990936ef13f53c6a1f447324ede98b972f480" alt="Japan protests Chinese naval intrusion into territorial waters, days after airspace incursion" title="Japan protests Chinese naval intrusion into territorial waters, days after airspace incursion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.scmp.com/news/asia/east-asia/article/3276736/japan-protests-chinese-naval-intrusion-territorial-waters-days-after-airspace-incursion?module=top_story&amp;pgtype=homepage">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6bgib/japan_protests_chinese_naval_intrusion_into/">[comments]</a></span> </td></tr></table>
+
+## A single dot under Khamenei's tweet gets Iranian blogger long jail term
+ - [https://www.reddit.com/r/worldnews/comments/1f6aq3f/a_single_dot_under_khameneis_tweet_gets_iranian](https://www.reddit.com/r/worldnews/comments/1f6aq3f/a_single_dot_under_khameneis_tweet_gets_iranian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T09:47:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6aq3f/a_single_dot_under_khameneis_tweet_gets_iranian/"> <img src="https://external-preview.redd.it/HKUnusfpDAW4HiJszDaeCiumnc3TxqLJwIc5sPcTNEE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d622120b68090378b8c42322e85410be5d6ed88f" alt="A single dot under Khamenei's tweet gets Iranian blogger long jail term" title="A single dot under Khamenei's tweet gets Iranian blogger long jail term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahad_Haam"> /u/Ahad_Haam </a> <br/> <span><a href="https://www.iranintl.com/en/202408311891">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6aq3f/a_single_dot_under_khameneis_tweet_gets_iranian/">[comments]</a></span> </td></tr></table>
+
+## Bodies of 6 hostages, murdered by Hamas just days ago, found in Rafah – IDF
+ - [https://www.reddit.com/r/worldnews/comments/1f69f3e/bodies_of_6_hostages_murdered_by_hamas_just_days](https://www.reddit.com/r/worldnews/comments/1f69f3e/bodies_of_6_hostages_murdered_by_hamas_just_days)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T08:10:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f69f3e/bodies_of_6_hostages_murdered_by_hamas_just_days/"> <img src="https://external-preview.redd.it/7w2pAMQd4lNqoJ_yaz-m4kd2A9dvHxGPPueQDo2I2rs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=460c8d8b03e3916fde305aa7dc0fd1d1cb058c13" alt="Bodies of 6 hostages, murdered by Hamas just days ago, found in Rafah – IDF" title="Bodies of 6 hostages, murdered by Hamas just days ago, found in Rafah – IDF" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stgrdr"> /u/stgrdr </a> <br/> <span><a href="https://www.timesofisrael.com/bodies-of-6-hostages-murdered-by-hamas-just-days-earlier-found-in-rafah-idf/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f69f3e/bodies_of_6_hostages_murdered_by_hamas_just_days/">[comments]</a></span> </td></tr></table>
+
+## 'Hamas must be eliminated': Biden, Harris lament murder of Israeli-American hostage
+ - [https://www.reddit.com/r/worldnews/comments/1f696px/hamas_must_be_eliminated_biden_harris_lament](https://www.reddit.com/r/worldnews/comments/1f696px/hamas_must_be_eliminated_biden_harris_lament)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T07:54:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f696px/hamas_must_be_eliminated_biden_harris_lament/"> <img src="https://external-preview.redd.it/Wst8wzCMXFqlWx2irlm0tKah3pM35ZBEmC3ThGJwoww.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff8de5c15426effb9565511a6f1fb4da665949c0" alt="'Hamas must be eliminated': Biden, Harris lament murder of Israeli-American hostage" title="'Hamas must be eliminated': Biden, Harris lament murder of Israeli-American hostage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br/> <span><a href="https://www.ynetnews.com/article/r15dnobnr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f696px/hamas_must_be_eliminated_biden_harris_lament/">[comments]</a></span> </td></tr></table>
+
+## Russian forces "wiping out" Kursk Oblast's Sudzha with bombs, Ukrainian general says
+ - [https://www.reddit.com/r/worldnews/comments/1f683gj/russian_forces_wiping_out_kursk_oblasts_sudzha](https://www.reddit.com/r/worldnews/comments/1f683gj/russian_forces_wiping_out_kursk_oblasts_sudzha)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T06:37:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f683gj/russian_forces_wiping_out_kursk_oblasts_sudzha/"> <img src="https://external-preview.redd.it/nlf1FUzDh-gsJPDZL8hWVED4vGrhcY3QyKcafT1nWbs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5e1d41c075f1226dc931d58f17a52c91a16b100" alt="Russian forces &quot;wiping out&quot; Kursk Oblast's Sudzha with bombs, Ukrainian general says" title="Russian forces &quot;wiping out&quot; Kursk Oblast's Sudzha with bombs, Ukrainian general says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntlDogOfMystery"> /u/IntlDogOfMystery </a> <br/> <span><a href="https://kyivindependent.com/russian-forces-wiping-off-kursk-oblasts-sudzha-ukrainian-commander-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f683gj/russian_forces_wiping_out_kursk_oblasts_sudzha/">[comments]</a></span> </td></tr></table>
+
+## Ukraine drones target refinery, power plants in Moscow, Tver regions, Russia says
+ - [https://www.reddit.com/r/worldnews/comments/1f6820n/ukraine_drones_target_refinery_power_plants_in](https://www.reddit.com/r/worldnews/comments/1f6820n/ukraine_drones_target_refinery_power_plants_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T06:34:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/IntlDogOfMystery"> /u/IntlDogOfMystery </a> <br/> <span><a href="https://www.reuters.com/world/europe/ukraine-launches-drones-moscow-other-regions-russian-officials-say-2024-08-31/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6820n/ukraine_drones_target_refinery_power_plants_in/">[comments]</a></span>
+
+## Hvaldimir, a Celebrated ‘Spy’ Whale, Is Found Dead in Norway
+ - [https://www.reddit.com/r/worldnews/comments/1f6672z/hvaldimir_a_celebrated_spy_whale_is_found_dead_in](https://www.reddit.com/r/worldnews/comments/1f6672z/hvaldimir_a_celebrated_spy_whale_is_found_dead_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T04:32:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f6672z/hvaldimir_a_celebrated_spy_whale_is_found_dead_in/"> <img src="https://external-preview.redd.it/q8owYlvf7bo2sHEohukImadSH_H1kz_swuwbZFATjMs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95fef60dfce9709e9c92b21183a82c31b3799f72" alt="Hvaldimir, a Celebrated ‘Spy’ Whale, Is Found Dead in Norway" title="Hvaldimir, a Celebrated ‘Spy’ Whale, Is Found Dead in Norway" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eastcoastpal"> /u/Eastcoastpal </a> <br/> <span><a href="https://www.nytimes.com/2024/08/31/world/europe/hvaldimir-spy-whale-dead.html?unlocked_article_code=1.HU4.-0_8.vdQzZx8F8f6O&amp;smid=re-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f6672z/hvaldimir_a_celebrated_spy_whale_is_found_dead_in/">[comments]</a></span> </td></tr></table>
+
+## Haryana cow vigilantes kill migrant scrap dealer on suspicions that he ate beef
+ - [https://www.reddit.com/r/worldnews/comments/1f663te/haryana_cow_vigilantes_kill_migrant_scrap_dealer](https://www.reddit.com/r/worldnews/comments/1f663te/haryana_cow_vigilantes_kill_migrant_scrap_dealer)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T04:27:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f663te/haryana_cow_vigilantes_kill_migrant_scrap_dealer/"> <img src="https://external-preview.redd.it/qQDnTsswsy19EVrP3SQ-YiKBj_7iqj5zNH6barZ1BL4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0237bc011b51bac24abc94bd097d04084364c74a" alt="Haryana cow vigilantes kill migrant scrap dealer on suspicions that he ate beef " title="Haryana cow vigilantes kill migrant scrap dealer on suspicions that he ate beef " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RealAntiChrist02"> /u/RealAntiChrist02 </a> <br/> <span><a href="https://www.thehindu.com/news/national/haryana/haryana-cow-vigilantes-kill-migrant-scrap-dealer-on-suspicions-that-he-ate-beef/article68586248.ece">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f663te/haryana_cow_vigilantes_kill_migrant_scrap_dealer/">[comments]</a></span> </td></tr></table>
+
+## Hagari: 6 hostages were murdered by Hamas before IDF could rescue them
+ - [https://www.reddit.com/r/worldnews/comments/1f661p9/hagari_6_hostages_were_murdered_by_hamas_before](https://www.reddit.com/r/worldnews/comments/1f661p9/hagari_6_hostages_were_murdered_by_hamas_before)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T04:23:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f661p9/hagari_6_hostages_were_murdered_by_hamas_before/"> <img src="https://external-preview.redd.it/uzZ4Di1-lr7ssKQbx83yXjpE9XsTpTNJVi5AtCaCPfY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d7cca1c314aed1aff7fd6d0c88b283d94550541" alt="Hagari: 6 hostages were murdered by Hamas before IDF could rescue them" title="Hagari: 6 hostages were murdered by Hamas before IDF could rescue them" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/itslalala"> /u/itslalala </a> <br/> <span><a href="https://m.jpost.com/israel-hamas-war/article-817182#google_vignette">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f661p9/hagari_6_hostages_were_murdered_by_hamas_before/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 920, Part 1 (Thread #1067)
+ - [https://www.reddit.com/r/worldnews/comments/1f65ovc/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1f65ovc/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T04:02:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f65ovc/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 920, Part 1 (Thread #1067)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 920, Part 1 (Thread #1067)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f65ovc/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Hostage families vow to bring country to a halt after unidentified bodies found in Gaza
+ - [https://www.reddit.com/r/worldnews/comments/1f65gcn/hostage_families_vow_to_bring_country_to_a_halt](https://www.reddit.com/r/worldnews/comments/1f65gcn/hostage_families_vow_to_bring_country_to_a_halt)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T03:49:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f65gcn/hostage_families_vow_to_bring_country_to_a_halt/"> <img src="https://external-preview.redd.it/_HhDlztzIysB9iMd_rb5c0hK8WXmg3kSECrTuM4srPA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3854c5d4cdd0b6aa5c84bda7bef540c85ef2f6af" alt="Hostage families vow to bring country to a halt after unidentified bodies found in Gaza" title="Hostage families vow to bring country to a halt after unidentified bodies found in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.timesofisrael.com/hostage-families-vow-country-will-tremble-amid-news-of-unidentified-bodies-found-in-gaza/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f65gcn/hostage_families_vow_to_bring_country_to_a_halt/">[comments]</a></span> </td></tr></table>
+
+## Israel recovers bodies of six hostages held by Hamas, including American citizen
+ - [https://www.reddit.com/r/worldnews/comments/1f64tw7/israel_recovers_bodies_of_six_hostages_held_by](https://www.reddit.com/r/worldnews/comments/1f64tw7/israel_recovers_bodies_of_six_hostages_held_by)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T03:14:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f64tw7/israel_recovers_bodies_of_six_hostages_held_by/"> <img src="https://external-preview.redd.it/rSIrqquXLTmLdBj0cF26chsbZcbCUAhLgWsRpQNaAVU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8e5c43b649bee2a8ae10a16a63dd81ed844031d" alt="Israel recovers bodies of six hostages held by Hamas, including American citizen" title="Israel recovers bodies of six hostages held by Hamas, including American citizen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qksv"> /u/qksv </a> <br/> <span><a href="https://www.axios.com/2024/09/01/israel-hostages-gaza-hamas-recovered">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f64tw7/israel_recovers_bodies_of_six_hostages_held_by/">[comments]</a></span> </td></tr></table>
+
+## Ukraine Pushing Slowly West In Russia Towards Key Kursk City
+ - [https://www.reddit.com/r/worldnews/comments/1f62zta/ukraine_pushing_slowly_west_in_russia_towards_key](https://www.reddit.com/r/worldnews/comments/1f62zta/ukraine_pushing_slowly_west_in_russia_towards_key)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T01:33:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f62zta/ukraine_pushing_slowly_west_in_russia_towards_key/"> <img src="https://external-preview.redd.it/nVgOnFp9ee9moSByghQdz1lgE3lXBKxo6dDMEZtuRBI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d59bd6ce6e6fe6b050774925a9ebc089a457da3e" alt="Ukraine Pushing Slowly West In Russia Towards Key Kursk City" title="Ukraine Pushing Slowly West In Russia Towards Key Kursk City" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fit-Requirement6701"> /u/Fit-Requirement6701 </a> <br/> <span><a href="https://www.twz.com/news-features/ukraine-pushing-slowly-west-in-russia-towards-key-kursk-city">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f62zta/ukraine_pushing_slowly_west_in_russia_towards_key/">[comments]</a></span> </td></tr></table>
+
+## Serbia makes a $3 billion deal to buy 12 French warplanes, in a shift away from Russia
+ - [https://www.reddit.com/r/worldnews/comments/1f61lvl/serbia_makes_a_3_billion_deal_to_buy_12_french](https://www.reddit.com/r/worldnews/comments/1f61lvl/serbia_makes_a_3_billion_deal_to_buy_12_french)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-01T00:20:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f61lvl/serbia_makes_a_3_billion_deal_to_buy_12_french/"> <img src="https://external-preview.redd.it/4AiR8WM44IdtjdoTr6WmefTIZwcZERlsBv_Hw1tsmbg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5dfea47fa51ee3cc0f9b8332885a7f3084e6fea8" alt="Serbia makes a $3 billion deal to buy 12 French warplanes, in a shift away from Russia" title="Serbia makes a $3 billion deal to buy 12 French warplanes, in a shift away from Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OrganicPlasma"> /u/OrganicPlasma </a> <br/> <span><a href="https://apnews.com/article/france-macron-serbia-fighter-jets-rafale-f7b73c2ddf89b309f242795c2e91c1ca">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f61lvl/serbia_makes_a_3_billion_deal_to_buy_12_french/">[comments]</a></span> </td></tr></table>
+
