@@ -1,0 +1,77 @@
+# Source:Spikey Bits, URL:https://spikeybits.com/feed, language:en-US
+
+## Discount Alert: Get Up To a MASSIVE 40% Off Tabletop Terrain Last Day!
+ - [https://spikeybits.com/terrain/40-off-tabletop-terrain-flash-sale](https://spikeybits.com/terrain/40-off-tabletop-terrain-flash-sale)
+ - RSS feed: https://spikeybits.com/feed
+ - date published: 2024-09-02T16:30:56+00:00
+
+<p><p><a href="https://spikeybits.com/wp-content/uploads/2024/09/NOVA-Open-Sale-6.png"><img fetchpriority="high" decoding="async" class="aligncenter wp-image-467013" src="https://spikeybits.com/wp-content/uploads/2024/09/NOVA-Open-Sale-6.png" alt="NOVA Open Sale 6" width="910" height="557" /></a>Upgrade your Warhammer 40k, Fantasy, and Legion battlefields with the Tabletop Terrain&#8217;s NOVA Open Flash Sale, and get up to 40% off!</p>
+<p><span id="more-467006"></span> </p>
+<div id="humix-vid-ezAutoMatch" data-ez-opt="div_embed" props="amo=4&s=w" style="width:640px;height:360px"><script data-ez-opt="div_embed" data-ezscrex='false' data-cfasync='false' async src="https://www.humix.com/video.js"></script></div>
+</p>
+<div id="humix-vid-ezAutoMatch" data-ez-opt="div_embed" props="amo=4&#038;s=w"</p>
+<p><a href="https://spikeybits.com/terrain/40-off-tabletop-terrain-flash-sale/">Read More</a></p>
+<p>Continue reading <a href="https://spikeybits.com/terrain/40-off-tabletop-terrain-flash-sal
+
+## RUMORS: New 40k Eldar Plastic Kits & Release Dates
+ - [https://spikeybits.com/rumors/rumors-40k-new-plastic-eldar-miniatures-release-dates](https://spikeybits.com/rumors/rumors-40k-new-plastic-eldar-miniatures-release-dates)
+ - RSS feed: https://spikeybits.com/feed
+ - date published: 2024-09-02T15:00:19+00:00
+
+<p><p><a href="https://spikeybits.com/wp-content/uploads/2024/08/aeldari-rumors-release-wal-hor-warhammer-40k.png"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-466959" src="https://spikeybits.com/wp-content/uploads/2024/08/aeldari-rumors-release-wal-hor-warhammer-40k.png" alt="aeldari rumors release wal hor warhammer 40k" width="1280" height="720" /></a></p>
+<p>Huge news and rumors are here for new Warhammer 40k Aeldari miniatures and release dates for more Eldar Aspect Warriors plastic kits!</p>
+<p><span id="more-459278"></span> </p>
+<div id="humix-vid-ezAutoMatch" data-ez-opt="div_embed" props="amo=4&s=w" style="width:640px;height:360px"><script data-ez-opt="div_embed" data-ezscrex='false' data-cfasync='false' async src="https://www.humix.com/video.js"></script></div>
+</p>
+<p><a href="https://spikeybits.com/rumors/rumors-40k-new-plastic-eldar-miniatures-release-dates/">Read More</a></p>
+<p>Continue reading <a href="https://spikeybits.com/rumors/ru
+
+## P3 Paints Kickstarter Offers Game-Changing Dropper Bottles
+ - [https://spikeybits.com/painting-miniatures/p3-paints-kickstarter-comes-in-dropper-bottles](https://spikeybits.com/painting-miniatures/p3-paints-kickstarter-comes-in-dropper-bottles)
+ - RSS feed: https://spikeybits.com/feed
+ - date published: 2024-09-02T14:30:05+00:00
+
+<p><p><a href="https://spikeybits.com/wp-content/uploads/2024/08/p3-paint-dropper-bottles.png"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-467005" src="https://spikeybits.com/wp-content/uploads/2024/08/p3-paint-dropper-bottles.png" alt="p3 paint dropper bottles" width="1280" height="720" /></a></p>
+<p>The new P3 Paints Kickstarter offers a choice between nostalgic classic lids and precise dropper bottles; no need to fight over which style is best!</p>
+<p><span id="more-466943"></span> </p>
+<div id="humix-vid-ezAutoMatch" data-ez-opt="div_embed" props="amo=4&s=w" style="width:640px;height:360px"><script data-ez-opt="div_embed" data-ezscrex='false' data-cfasync='false' async src="https://www.humix.com/video.js"></script></div>
+</p>
+<p><a href="https://spikeybits.com/painting-miniatures/p3-paints-kickstarter-comes-in-dropper-bottles/">Read More</a></p>
+<p>Continue reading <a href="https://spikeybits.com/painting-miniatures/p3-paints-kickstarter-comes-in-dro
+
+## Actual Warhammer Roadmaps, New 40k and GW’s Massive Letdown LATEST
+ - [https://spikeybits.com/warhammer-40k/actual-warhammer-roadmaps-new-40k-and-gws-massive-letdown-latest](https://spikeybits.com/warhammer-40k/actual-warhammer-roadmaps-new-40k-and-gws-massive-letdown-latest)
+ - RSS feed: https://spikeybits.com/feed
+ - date published: 2024-09-02T10:00:33+00:00
+
+<p><p data-wp-editing="1"><a href="https://spikeybits.com/wp-content/uploads/2024/04/Rumors-chaos-space-marine-wal-hor.png"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-459718" src="https://spikeybits.com/wp-content/uploads/2024/04/Rumors-chaos-space-marine-wal-hor.png" alt="Rumors chaos space marine wal hor" width="1280" height="720" /></a></p>
+<p data-wp-editing="1">Here are all the new tabletop gaming releases, previews, rumors, and more from the weekend, plus the latest from Games Workshop.<br />
+<span</p>
+<p><a href="https://spikeybits.com/warhammer-40k/actual-warhammer-roadmaps-new-40k-and-gws-massive-letdown-latest/">Read More</a></p>
+<p>Continue reading <a href="https://spikeybits.com/warhammer-40k/actual-warhammer-roadmaps-new-40k-and-gws-massive-letdown-latest/">Actual Warhammer Roadmaps, New 40k and GW&#8217;s Massive Letdown LATEST</a> from <a href="https://spikeybits.com">Spikey Bits</a>.</p>
+
+
+## All The GW Exclusive Warhammer Miniatures You Can Still Find
+ - [https://spikeybits.com/rumors/all-the-gw-exclusive-warhammer-miniatures-you-can-still-find](https://spikeybits.com/rumors/all-the-gw-exclusive-warhammer-miniatures-you-can-still-find)
+ - RSS feed: https://spikeybits.com/feed
+ - date published: 2024-09-02T09:00:11+00:00
+
+<p><p><a href="https://spikeybits.com/?p=418860&amp;preview=true"><img loading="lazy" decoding="async" class="aligncenter wp-image-318384" src="https://spikeybits.com/wp-content/uploads/2020/04/5f201b27-warhammer-exclusives-wal-hor-store-hq.jpg" alt="warhammer exclusives wal new releases pre order" width="753" height="353" /></a>Games Workshop has been dropping exclusive Warhammer miniatures for a while now; here&#8217;s the list of the ones you may still be able to</p>
+<p><a href="https://spikeybits.com/rumors/all-the-gw-exclusive-warhammer-miniatures-you-can-still-find/">Read More</a></p>
+<p>Continue reading <a href="https://spikeybits.com/rumors/all-the-gw-exclusive-warhammer-miniatures-you-can-still-find/">All The GW Exclusive Warhammer Miniatures You Can Still Find</a> from <a href="https://spikeybits.com">Spikey Bits</a>.</p>
+
+
+## GW Reveals New Warhammer White Dwarf & Black Library Pre-Orders
+ - [https://spikeybits.com/warhammer-40k/new-black-library-white-dwarf-pre-orders-sept-7-2024](https://spikeybits.com/warhammer-40k/new-black-library-white-dwarf-pre-orders-sept-7-2024)
+ - RSS feed: https://spikeybits.com/feed
+ - date published: 2024-09-02T06:30:01+00:00
+
+<p><p><a href="https://spikeybits.com/wp-content/uploads/2024/08/emperor-black-library-new-release-wal-hor.png"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-466088" src="https://spikeybits.com/wp-content/uploads/2024/08/emperor-black-library-new-release-wal-hor.png" alt="emperor black library new release wal hor" width="1280" height="720" /></a></p>
+<p>Games Workshop revealed the new White Dwarf Warhammer 40k Black Library books that will be hitting pre-order this week!</p>
+<p><span id="more-466987"></span> </p>
+<div id="humix-vid-ezAutoMatch" data-ez-opt="div_embed" props="amo=4&s=w" style="width:640px;height:360px"><script data-ez-opt="div_embed" data-ezscrex='false' data-cfasync='false' async src="https://www.humix.com/video.js"></script></div>
+</p>
+<div id="humix-vid-ezAutoMatch" data-ez-opt="div_embed"</p>
+<p><a href="https://spikeybits.com/warhammer-40k/new-black-library-white-dwarf-pre-orders-sept-7-2024/">Read More</a></p>
+<p>Continue readin
+

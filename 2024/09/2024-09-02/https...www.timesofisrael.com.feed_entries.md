@@ -1,0 +1,263 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Hamas hints six slain hostages extracted by IDF were murdered because troops were near
+ - [https://www.timesofisrael.com/hamas-hints-six-slain-hostages-extracted-by-idf-were-murdered-because-troops-were-near](https://www.timesofisrael.com/hamas-hints-six-slain-hostages-extracted-by-idf-were-murdered-because-troops-were-near)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T21:38:20+00:00
+
+<p>Spokesman for terror group's military wing says special instructions were given to guards following successful rescue of four other hostages in June; blames Israel for their deaths</p>
+<p>The post <a href="https://www.timesofisrael.com/hamas-hints-six-slain-hostages-extracted-by-idf-were-murdered-because-troops-were-near/">Hamas hints six slain hostages extracted by IDF were murdered because troops were near</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2017/03/F170131ARK02-1024x640.jpg" title="Hamas hints six slain hostages extracted by IDF were murdered because troops were near" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Staff Sgt. Ofek Arbib, 21: Off-duty soldier saved his friends at rave
+ - [https://www.timesofisrael.com/staff-sgt-ofek-arbib-21-off-duty-soldier-saved-his-friends-at-rave](https://www.timesofisrael.com/staff-sgt-ofek-arbib-21-off-duty-soldier-saved-his-friends-at-rave)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T20:28:21+00:00
+
+<p>Slain while fleeing the Supernova music festival on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/staff-sgt-ofek-arbib-21-off-duty-soldier-saved-his-friends-at-rave/">Staff Sgt. Ofek Arbib, 21: Off-duty soldier saved his friends at rave</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/היום-לפניי-3-שנים-באנו-ללוות-אותך-לצניחה-שלך.צנחן-שלנו-מתגעגעים-כל-כך-להרגיש-אותך-הזמן-עובר-מהר-מידי-e1724004670314-1024x640.jpg" title="Staff Sgt. Ofek Arbib, 21: Off-duty soldier saved his friends at rave" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Michel Nisenbaum, 59: Brazilian immigrant and ‘heroic grandfather’
+ - [https://www.timesofisrael.com/michel-nisenbaum-59-brazilian-immigrant-and-heroic-grandfather](https://www.timesofisrael.com/michel-nisenbaum-59-brazilian-immigrant-and-heroic-grandfather)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T20:23:48+00:00
+
+<p>Murdered by Hamas terrorists on October 7, his body was kidnapped to Gaza and retrieved by troops May 24, 2024</p>
+<p>The post <a href="https://www.timesofisrael.com/michel-nisenbaum-59-brazilian-immigrant-and-heroic-grandfather/">Michel Nisenbaum, 59: Brazilian immigrant and &#8216;heroic grandfather&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2023/10/Michel-Nisenbaum-1024x640.jpg" title="Michel Nisenbaum, 59: Brazilian immigrant and &#8216;heroic grandfather&#8217;" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## UN experts express alarm as they say Iran executed more than 400 people this year
+ - [https://www.timesofisrael.com/un-experts-express-alarm-as-they-say-iran-executed-more-than-400-people-this-year](https://www.timesofisrael.com/un-experts-express-alarm-as-they-say-iran-executed-more-than-400-people-this-year)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T20:05:24+00:00
+
+<p>Iran not complying with international execution requirements as 41 people put to death over drug offenses in August alone, say independent experts</p>
+<p>The post <a href="https://www.timesofisrael.com/un-experts-express-alarm-as-they-say-iran-executed-more-than-400-people-this-year/">UN experts express alarm as they say Iran executed more than 400 people this year</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240210__34J236G__v1__HighRes__Pr-1024x640.jpg" title="UN experts express alarm as they say Iran executed more than 400 people this year" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## ‘We all failed you’: Heartbreak at funeral for Hersh Goldberg-Polin in Jerusalem
+ - [https://www.timesofisrael.com/we-all-failed-you-heartbreak-at-funeral-for-hersh-goldberg-polin-in-jerusalem](https://www.timesofisrael.com/we-all-failed-you-heartbreak-at-funeral-for-hersh-goldberg-polin-in-jerusalem)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T19:20:21+00:00
+
+<p>Thousands attend burial of dual US-Israeli citizen who became a symbol in the battle for the hostages, and was executed by his Hamas captors along with five others</p>
+<p>The post <a href="https://www.timesofisrael.com/we-all-failed-you-heartbreak-at-funeral-for-hersh-goldberg-polin-in-jerusalem/">&#8216;We all failed you&#8217;: Heartbreak at funeral for Hersh Goldberg-Polin in Jerusalem</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240902YS225-1024x640.jpg" title="&#8216;We all failed you&#8217;: Heartbreak at funeral for Hersh Goldberg-Polin in Jerusalem" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## UK suspends 30 of 350 arms export licenses to Israel, insists it’s not an embargo
+ - [https://www.timesofisrael.com/uk-suspends-30-of-350-arms-export-licenses-to-israel-insists-its-not-an-embargo](https://www.timesofisrael.com/uk-suspends-30-of-350-arms-export-licenses-to-israel-insists-its-not-an-embargo)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T18:54:03+00:00
+
+<p>FM Lammy cites risk military equipment might be used to commit violations of international law in Gaza; Israel says move sends 'wrong' message to Hamas, insists military is lawful</p>
+<p>The post <a href="https://www.timesofisrael.com/uk-suspends-30-of-350-arms-export-licenses-to-israel-insists-its-not-an-embargo/">UK suspends 30 of 350 arms export licenses to Israel, insists it&#8217;s not an embargo</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240902__36FB7Y7__v1__HighRes__IsraelAtWarInGazaAfterHamasLaunchesSurpriseAtta-1024x640.jpg" title="UK suspends 30 of 350 arms export licenses to Israel, insists it&#8217;s not an embargo" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## In longest West Bank raid in 20 years, IDF aims to set stage for future, smaller ops
+ - [https://www.timesofisrael.com/in-longest-west-bank-raid-in-20-years-idf-aims-to-set-stage-for-future-smaller-ops](https://www.timesofisrael.com/in-longest-west-bank-raid-in-20-years-idf-aims-to-set-stage-for-future-smaller-ops)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T17:11:44+00:00
+
+<p>Military shifts focus to Jenin, where troops rip up roads to find bombs, work to establish 'operational control'; army says 14 gunmen killed, over 25 suspects detained</p>
+<p>The post <a href="https://www.timesofisrael.com/in-longest-west-bank-raid-in-20-years-idf-aims-to-set-stage-for-future-smaller-ops/">In longest West Bank raid in 20 years, IDF aims to set stage for future, smaller ops</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/DSC03293-1024x640.jpg" title="In longest West Bank raid in 20 years, IDF aims to set stage for future, smaller ops" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Biden says ceasefire-hostage deal ‘very close,’ charges Netanyahu not doing enough
+ - [https://www.timesofisrael.com/biden-says-ceasefire-hostage-deal-very-close-charges-netanyahu-not-doing-enough](https://www.timesofisrael.com/biden-says-ceasefire-hostage-deal-very-close-charges-netanyahu-not-doing-enough)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T16:48:13+00:00
+
+<p>Israeli officials decry pressure on Jewish state and not on Hamas chief Sinwar; senior official in terror group claims US president's comments are recognition Israel stymying talks</p>
+<p>The post <a href="https://www.timesofisrael.com/biden-says-ceasefire-hostage-deal-very-close-charges-netanyahu-not-doing-enough/">Biden says ceasefire-hostage deal &#8216;very close,&#8217; charges Netanyahu not doing enough</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240902__36FC9UK__v1__HighRes__UsPoliticsBiden-1-1024x640.jpg" title="Biden says ceasefire-hostage deal &#8216;very close,&#8217; charges Netanyahu not doing enough" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Pakistanis tried for incitement to kill Dutch far-right leader Geert Wilders
+ - [https://www.timesofisrael.com/pakistanis-tried-for-incitement-to-kill-dutch-far-right-leader-geert-wilders](https://www.timesofisrael.com/pakistanis-tried-for-incitement-to-kill-dutch-far-right-leader-geert-wilders)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T16:01:38+00:00
+
+<p>High-security court tries in absentia religious leader Muhammed Ashraf Jalali and Saad Hussain Rizvi, head of hardline TLP party</p>
+<p>The post <a href="https://www.timesofisrael.com/pakistanis-tried-for-incitement-to-kill-dutch-far-right-leader-geert-wilders/">Pakistanis tried for incitement to kill Dutch far-right leader Geert Wilders</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24246300574573-1024x640.jpg" title="Pakistanis tried for incitement to kill Dutch far-right leader Geert Wilders" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Poland holds state burial for over 700 World War II victims of Nazi Germany
+ - [https://www.timesofisrael.com/poland-holds-state-burial-for-over-700-world-war-ii-victims-of-nazi-germany](https://www.timesofisrael.com/poland-holds-state-burial-for-over-700-world-war-ii-victims-of-nazi-germany)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T14:51:48+00:00
+
+<p>Teachers, priests, police officers, forestry and postal workers, and landowners were among hundreds massacred in Chojnice in early 1945</p>
+<p>The post <a href="https://www.timesofisrael.com/poland-holds-state-burial-for-over-700-world-war-ii-victims-of-nazi-germany/">Poland holds state burial for over 700 World War II victims of Nazi Germany</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240902__36F46EW__v1__HighRes__PolandGermanyHistoryWwii-1024x640.jpg" title="Poland holds state burial for over 700 World War II victims of Nazi Germany" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Hamas claims responsibility for dual car bombing in West Bank last week
+ - [https://www.timesofisrael.com/hamas-claims-responsibility-for-dual-car-bombing-in-west-bank-last-week](https://www.timesofisrael.com/hamas-claims-responsibility-for-dual-car-bombing-in-west-bank-last-week)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T14:51:07+00:00
+
+<p>Attack in Gush Etzion on Friday came amid major counter-terror operation in territory, following attempted suicide bombing in Tel Aviv that Hamas also claimed</p>
+<p>The post <a href="https://www.timesofisrael.com/hamas-claims-responsibility-for-dual-car-bombing-in-west-bank-last-week/">Hamas claims responsibility for dual car bombing in West Bank last week</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240831YS05-1024x640.jpg" title="Hamas claims responsibility for dual car bombing in West Bank last week" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Netanyahu claims general strike is a show of ‘support’ for Sinwar and Hamas
+ - [https://www.timesofisrael.com/netanyahu-claims-general-strike-is-a-show-of-support-for-sinwar-and-hamas](https://www.timesofisrael.com/netanyahu-claims-general-strike-is-a-show-of-support-for-sinwar-and-hamas)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T14:13:26+00:00
+
+<p>In cabinet meeting, premier insists issue of Israeli presence on Gaza-Egypt border 'existential,' while vowing to 'exact a price' from terror group for murder of six hostages in Gaza</p>
+<p>The post <a href="https://www.timesofisrael.com/netanyahu-claims-general-strike-is-a-show-of-support-for-sinwar-and-hamas/">Netanyahu claims general strike is a show of &#8216;support&#8217; for Sinwar and Hamas</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/3453445-1024x640.jpg" title="Netanyahu claims general strike is a show of &#8216;support&#8217; for Sinwar and Hamas" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## 2 said killed in Israeli airstrike on vehicle in south Lebanon
+ - [https://www.timesofisrael.com/2-said-killed-in-israeli-airstrike-on-vehicle-in-south-lebanon](https://www.timesofisrael.com/2-said-killed-in-israeli-airstrike-on-vehicle-in-south-lebanon)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T13:24:00+00:00
+
+<p>Source says 1 of those killed worked for cleaning company under UNIFIL contract; IDF also strikes Hezbollah buildings in south Lebanon towns; terror group fires 5 rockets at Israel</p>
+<p>The post <a href="https://www.timesofisrael.com/2-said-killed-in-israeli-airstrike-on-vehicle-in-south-lebanon/">2 said killed in Israeli airstrike on vehicle in south Lebanon</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240902__36FD32N__v1__HighRes__LebanonIsraelPalestnianConflictStrike-1024x640.jpg" title="2 said killed in Israeli airstrike on vehicle in south Lebanon" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Court shuts down Histadrut strike, accepting government claim it was political
+ - [https://www.timesofisrael.com/court-shuts-down-histadrut-strike-accepting-government-claim-it-was-political](https://www.timesofisrael.com/court-shuts-down-histadrut-strike-accepting-government-claim-it-was-political)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T13:18:06+00:00
+
+<p>Union boss says he'll respect ruling, but doesn't regret move; MKs urge class action suit; some activists protest against strike demanding truce-hostage deal, saying it aids Hamas</p>
+<p>The post <a href="https://www.timesofisrael.com/court-shuts-down-histadrut-strike-accepting-government-claim-it-was-political/">Court shuts down Histadrut strike, accepting government claim it was political</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240902HM06-1024x640.jpg" title="Court shuts down Histadrut strike, accepting government claim it was political" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Daily Briefing Sept. 2: Day 332 – Two events that led to this eruptive Israeli moment
+ - [https://www.timesofisrael.com/daily-briefing-sept-2-day-332-two-events-that-led-to-this-eruptive-israeli-moment](https://www.timesofisrael.com/daily-briefing-sept-2-day-332-two-events-that-led-to-this-eruptive-israeli-moment)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T11:22:21+00:00
+
+<p>As masses of Israelis take to the streets and strike in protest of the lack of a hostage release deal, senior analyst Haviv Rettig Gur reflects on what brought us here</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-sept-2-day-332-two-events-that-led-to-this-eruptive-israeli-moment/">Daily Briefing Sept. 2: Day 332 &#8211; Two events that led to this eruptive Israeli moment</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/image-copy-1-1024x640.jpg" title="Daily Briefing Sept. 2: Day 332 &#8211; Two events that led to this eruptive Israeli moment" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Far-right party wins German state election, piling new pressure on Scholz
+ - [https://www.timesofisrael.com/far-right-party-wins-german-state-election-piling-new-pressure-on-scholz](https://www.timesofisrael.com/far-right-party-wins-german-state-election-piling-new-pressure-on-scholz)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T10:35:14+00:00
+
+<p>Alternative for Germany party snags victory in central Germany's Thuringia, deepening woes facing fractious ruling coalition ahead of another state vote later this month</p>
+<p>The post <a href="https://www.timesofisrael.com/far-right-party-wins-german-state-election-piling-new-pressure-on-scholz/">Far-right party wins German state election, piling new pressure on Scholz</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/1-1-e1725267991891-1024x640.jpg" title="Far-right party wins German state election, piling new pressure on Scholz" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## New Yorkers hold vigil to mourn 6 slain hostages recovered from Gaza
+ - [https://www.timesofisrael.com/new-yorkers-hold-vigil-to-mourn-6-slain-hostages-recovered-from-gaza](https://www.timesofisrael.com/new-yorkers-hold-vigil-to-mourn-6-slain-hostages-recovered-from-gaza)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T10:31:59+00:00
+
+<p>Orna Neutra, whose son Omer is still being held by Hamas, calls on attendees to keep pushing American and Israeli leaders to achieve captives’ freedom</p>
+<p>The post <a href="https://www.timesofisrael.com/new-yorkers-hold-vigil-to-mourn-6-slain-hostages-recovered-from-gaza/">New Yorkers hold vigil to mourn 6 slain hostages recovered from Gaza</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/1-e1725263005329-1024x640.jpg" title="New Yorkers hold vigil to mourn 6 slain hostages recovered from Gaza" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Summer influx of Olim arrive in Israel’s busiest Aliyah season yet - Sponsored Content
+ - [https://www.timesofisrael.com/spotlight/summer-influx-of-olim-arrive-in-israels-busiest-aliyah-season-yet](https://www.timesofisrael.com/spotlight/summer-influx-of-olim-arrive-in-israels-busiest-aliyah-season-yet)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T10:28:44+00:00
+
+<p>More than 2,000 Olim arrived in Israel from North America between June and September 2024 citing Zionist ideals and solidarity with Israel as their reasons despite the ongoing war.</p>
+<p>The post <a href="https://www.timesofisrael.com/spotlight/summer-influx-of-olim-arrive-in-israels-busiest-aliyah-season-yet/">Summer influx of Olim arrive in Israel’s busiest Aliyah season yet</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Photo-2-Credit-Nefesh-BNefesh-1024x640.jpg" title="Summer influx of Olim arrive in Israel’s busiest Aliyah season yet" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Car bomb outside West Bank settlement neutralized by cops
+ - [https://www.timesofisrael.com/car-bomb-outside-west-bank-settlement-neutralized-by-cops](https://www.timesofisrael.com/car-bomb-outside-west-bank-settlement-neutralized-by-cops)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T10:20:17+00:00
+
+<p>Police say tinted windows on suspicious vehicle near Ateret made explosives hard to see, days after two car bombs exploded in southern West Bank</p>
+<p>The post <a href="https://www.timesofisrael.com/car-bomb-outside-west-bank-settlement-neutralized-by-cops/">Car bomb outside West Bank settlement neutralized by cops</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/WhatsApp-Image-2024-09-02-at-10.21.54-e1725261928478-1024x640.jpeg" title="Car bomb outside West Bank settlement neutralized by cops" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Fearing war, some Lebanese hatch a surprising escape plan: Syria
+ - [https://www.timesofisrael.com/fearing-war-some-lebanese-hatch-a-surprising-escape-plan-syria](https://www.timesofisrael.com/fearing-war-some-lebanese-hatch-a-surprising-escape-plan-syria)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T09:54:13+00:00
+
+<p>Beirut families, shaken by Israeli airstrikes amid conflict with Hezbollah, eye cheap rent across border, where fighting has largely died down after more than 13 years of civil war</p>
+<p>The post <a href="https://www.timesofisrael.com/fearing-war-some-lebanese-hatch-a-surprising-escape-plan-syria/">Fearing war, some Lebanese hatch a surprising escape plan: Syria</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240331__34N439Y__v1__HighRes__SyriaArchaeologyReligionIslamRamadan-1024x640.jpg" title="Fearing war, some Lebanese hatch a surprising escape plan: Syria" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Striking unions join protest as thousands take to streets for hostage deal
+ - [https://www.timesofisrael.com/striking-unions-join-protest-as-thousands-take-to-streets-for-hostage-deal](https://www.timesofisrael.com/striking-unions-join-protest-as-thousands-take-to-streets-for-hostage-deal)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T09:04:41+00:00
+
+<p>Major intersections blocked ahead of main protests later Monday; Histadrut lawyer says strike will end by evening as government turns to court to shut down labor action</p>
+<p>The post <a href="https://www.timesofisrael.com/striking-unions-join-protest-as-thousands-take-to-streets-for-hostage-deal/">Striking unions join protest as thousands take to streets for hostage deal</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240902HM09-1024x640.jpg" title="Striking unions join protest as thousands take to streets for hostage deal" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Biden, Harris to huddle with US negotiators for Gaza deal push after hostage killings
+ - [https://www.timesofisrael.com/biden-harris-to-huddle-with-us-negotiators-for-gaza-deal-push-after-hostage-killings](https://www.timesofisrael.com/biden-harris-to-huddle-with-us-negotiators-for-gaza-deal-push-after-hostage-killings)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T08:47:18+00:00
+
+<p>White House working on 'take it or leave it' proposal that could spell end of US mediation efforts, Washington Post reports; Israel's UN envoy demands Security Council convene</p>
+<p>The post <a href="https://www.timesofisrael.com/biden-harris-to-huddle-with-us-negotiators-for-gaza-deal-push-after-hostage-killings/">Biden, Harris to huddle with US negotiators for Gaza deal push after hostage killings</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240901ALA19-1024x640.jpg" title="Biden, Harris to huddle with US negotiators for Gaza deal push after hostage killings" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Inside Hamas: Its leaders and the organization’s evolution - Sponsored Content
+ - [https://www.timesofisrael.com/spotlight/inside-hamas-its-leaders-and-the-organizations-evolution](https://www.timesofisrael.com/spotlight/inside-hamas-its-leaders-and-the-organizations-evolution)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T08:13:28+00:00
+
+<p>How has the Palestinian Sunni Islamist movement evolved over the last few decades, and how can we understand the organization and its leadership today?</p>
+<p>The post <a href="https://www.timesofisrael.com/spotlight/inside-hamas-its-leaders-and-the-organizations-evolution/">Inside Hamas: Its leaders and the organization’s evolution</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/04/AFP__20230414__33D864P__v1__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg" title="Inside Hamas: Its leaders and the organization’s evolution" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## In Jerusalem, hundreds gather to grieve slain ‘child of light’ Goldberg-Polin
+ - [https://www.timesofisrael.com/in-jerusalem-hundreds-gather-to-grieve-slain-child-of-light-goldberg-polin](https://www.timesofisrael.com/in-jerusalem-hundreds-gather-to-grieve-slain-child-of-light-goldberg-polin)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T08:03:02+00:00
+
+<p>Family, friends and fellow immigrants express sadness over death, hail mother for tireless advocacy; Israelis to line streets in salute for funeral</p>
+<p>The post <a href="https://www.timesofisrael.com/in-jerusalem-hundreds-gather-to-grieve-slain-child-of-light-goldberg-polin/">In Jerusalem, hundreds gather to grieve slain &#8216;child of light&#8217; Goldberg-Polin</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/WhatsApp-Image-2024-09-01-at-5.06.22-PM-1024x640.jpeg" title="In Jerusalem, hundreds gather to grieve slain &#8216;child of light&#8217; Goldberg-Polin" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## As tanker keeps burning in Red Sea, projectiles hit another ship off Yemen coast
+ - [https://www.timesofisrael.com/as-tanker-keeps-burning-in-red-sea-projectiles-hit-another-ship-off-yemen-coast](https://www.timesofisrael.com/as-tanker-keeps-burning-in-red-sea-projectiles-hit-another-ship-off-yemen-coast)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T07:38:35+00:00
+
+<p>UK military group says no injuries aboard merchant vessel, which is heading to next port of call, as efforts ongoing to salvage million barrels of crude on still-blazing Sounion</p>
+<p>The post <a href="https://www.timesofisrael.com/as-tanker-keeps-burning-in-red-sea-projectiles-hit-another-ship-off-yemen-coast/">As tanker keeps burning in Red Sea, projectiles hit another ship off Yemen coast</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240829__36EV97Y__v2__HighRes__YemenGreeceShippingConflict-e1725260000787-1024x640.jpg" title="As tanker keeps burning in Red Sea, projectiles hit another ship off Yemen coast" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## At 28, Ireland’s new chief rabbi is leading an aging population in a time of turmoil
+ - [https://www.timesofisrael.com/at-28-irelands-new-chief-rabbi-is-leading-an-aging-population-in-a-time-of-turmoil](https://www.timesofisrael.com/at-28-irelands-new-chief-rabbi-is-leading-an-aging-population-in-a-time-of-turmoil)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T03:49:43+00:00
+
+<p>As the first to hold the position since 2008, Rabbi Yoni Wieder faces challenges on multiple fronts, integrating new and old community members amid unprecedented anti-Israel bias</p>
+<p>The post <a href="https://www.timesofisrael.com/at-28-irelands-new-chief-rabbi-is-leading-an-aging-population-in-a-time-of-turmoil/">At 28, Ireland’s new chief rabbi is leading an aging population in a time of turmoil</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/Inauguration-Ceremony-of-Rabbi-Yoni-Wieder014-1024x640.jpg" title="At 28, Ireland’s new chief rabbi is leading an aging population in a time of turmoil" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Gallant said to call Philadelphi demand a ‘disgrace,’ drawing fury from PM, ministers
+ - [https://www.timesofisrael.com/gallant-said-to-call-philadelphi-demand-a-disgrace-drawing-fury-from-pm-ministers](https://www.timesofisrael.com/gallant-said-to-call-philadelphi-demand-a-disgrace-drawing-fury-from-pm-ministers)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T02:14:23+00:00
+
+<p>At security cabinet, defense minister reportedly urges softening stance to save hostages, but ministers say that would incentivize Hamas to murder hostages</p>
+<p>The post <a href="https://www.timesofisrael.com/gallant-said-to-call-philadelphi-demand-a-disgrace-drawing-fury-from-pm-ministers/">Gallant said to call Philadelphi demand a &#8216;disgrace,&#8217; drawing fury from PM, ministers</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/F231216NRF60-1024x640.jpg" title="Gallant said to call Philadelphi demand a &#8216;disgrace,&#8217; drawing fury from PM, ministers" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Three wounded by Hezbollah anti-tank missile; 30 rockets fired at north on Sunday
+ - [https://www.timesofisrael.com/three-wounded-by-hezbollah-anti-tank-missile-30-rockets-fired-at-north-on-sunday](https://www.timesofisrael.com/three-wounded-by-hezbollah-anti-tank-missile-30-rockets-fired-at-north-on-sunday)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T00:59:14+00:00
+
+<p>IDF strikes targets in Lebanon; Defense Minister Gallant vows prices 'won't be in vain' during visit to Majdal Shams, where 12 children were killed by Hezbollah rocket in July</p>
+<p>The post <a href="https://www.timesofisrael.com/three-wounded-by-hezbollah-anti-tank-missile-30-rockets-fired-at-north-on-sunday/">Three wounded by Hezbollah anti-tank missile; 30 rockets fired at north on Sunday</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240901AMA99-1024x640.jpg" title="Three wounded by Hezbollah anti-tank missile; 30 rockets fired at north on Sunday" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## US says Hamas leaders must be held accountable for ‘vicious’ execution of hostages
+ - [https://www.timesofisrael.com/liveblog-september-2-2024](https://www.timesofisrael.com/liveblog-september-2-2024)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-02T00:07:08+00:00
+
+<p>Biden aide tells families of American captives that the next few days are critical in push to free remaining hostages * Report: US working on final ‘take it or leave it’ deal offer</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-september-2-2024/">US says Hamas leaders must be held accountable for ‘vicious’ execution of hostages</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24245673953460-1024x640.jpg" title="US says Hamas leaders must be held accountable for ‘vicious’ execution of hostages" border="0" width="160" height="100" class="type:primaryImage"></figure>
+

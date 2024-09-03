@@ -1,0 +1,58 @@
+# Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
+
+## Searching for this one intro/demo/music disk/something else that I once had
+ - [https://www.reddit.com/r/amiga/comments/1f7ez64/searching_for_this_one_introdemomusic](https://www.reddit.com/r/amiga/comments/1f7ez64/searching_for_this_one_introdemomusic)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T19:04:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is a long shot and a really kind of a stupid one.</p> <p>So for a long time this has been eating at me. When I first got my Amiga 500, very late 80s (i think), the thirst thing that I run was some kind of demo/intro/cracktro/music disk. All I remember was that it featured a single image (or at least it was the first image that appeared when it started). The image was of a safety edge razor blade, diagonal on the screen, with blood dripping along the top edge (or was it bottom edge?). I know that it is not a lot information, and I&#39;ve been googling for it for quite some time... Does it ring a bell for anyone?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ftmk"> /u/ftmk </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1f7ez64/searching_for_this_one_introdemomusic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1f7ez64/searching_for_this_one_introdemomusic/
+
+## My icons are corrupted
+ - [https://www.reddit.com/r/amiga/comments/1f7e8vx/my_icons_are_corrupted](https://www.reddit.com/r/amiga/comments/1f7e8vx/my_icons_are_corrupted)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T18:35:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1f7e8vx/my_icons_are_corrupted/"> <img src="https://preview.redd.it/w83txht2xfmd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25204cb40a692486f2e8ad1dbd79c1b740726e49" alt="My icons are corrupted" title="My icons are corrupted" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello all,</p> <p>In my Amiga setup (I use the same setup both on real A1200 and WinUAE, the icons are somehow corrupted. It was not like this last week. I dont remember changing anything, I have no clue. Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/leventp"> /u/leventp </a> <br/> <span><a href="https://i.redd.it/w83txht2xfmd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1f7e8vx/my_icons_are_corrupted/">[comments]</a></span> </td></tr></table>
+
+## Burned Trace update ITS ALIVE
+ - [https://www.reddit.com/r/amiga/comments/1f7awwl/burned_trace_update_its_alive](https://www.reddit.com/r/amiga/comments/1f7awwl/burned_trace_update_its_alive)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T16:23:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1f7awwl/burned_trace_update_its_alive/"> <img src="https://external-preview.redd.it/Y3Znc2Q4a2U5Zm1kMSfQ4NBOYBQgWA3D6_blC3ZPz0ihcEm_VaJHrOlVtEjA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b59b113a5510a992b5301d361e151ef346fe5b98" alt="Burned Trace update ITS ALIVE" title="Burned Trace update ITS ALIVE" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Low_Stop_9373"> /u/Low_Stop_9373 </a> <br/> <span><a href="https://v.redd.it/7p2hpdke9fmd1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1f7awwl/burned_trace_update_its_alive/">[comments]</a></span> </td></tr></table>
+
+## Best Autofire on an Amiga joystick?
+ - [https://www.reddit.com/r/amiga/comments/1f77lra/best_autofire_on_an_amiga_joystick](https://www.reddit.com/r/amiga/comments/1f77lra/best_autofire_on_an_amiga_joystick)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T14:06:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Was there any noticable benefit between autofire modes on Amiga joysticks? Did one or some give faster shoot rates than the competition?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrakeonMallard"> /u/DrakeonMallard </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1f77lra/best_autofire_on_an_amiga_joystick/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1f77lra/best_autofire_on_an_amiga_joystick/">[comments]</a></span>
+
+## DB23 to DB9 Pinned Weird
+ - [https://www.reddit.com/r/amiga/comments/1f73xfs/db23_to_db9_pinned_weird](https://www.reddit.com/r/amiga/comments/1f73xfs/db23_to_db9_pinned_weird)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T10:59:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1f73xfs/db23_to_db9_pinned_weird/"> <img src="https://b.thumbs.redditmedia.com/sRLgw30N-tYiokilZS5vdnBV-eWRmvl2XkTjstZhdHg.jpg" alt="DB23 to DB9 Pinned Weird" title="DB23 to DB9 Pinned Weird" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A couple of days ago I created a <a href="https://www.reddit.com/r/amiga/comments/1f37wac/piggybacking_a500_ram_chips/">post</a> in which I mentioned an issue with my A500&#39;s RAM that needs to be replaced (I got the 10 short + 1 long flashes which indicate RAM faulty), however when I connected my Amiga to the 1084S-P1 monitor, I didn&#39;t get a green screen which I anticipated, I got weird flashing green, black and green bars (you can see that in the video in the post I linked), so I&#39;m thinking that either something is also wrong with my DB23 to DB9 video cable or worse, monitor. I tested connecting my Amiga to my Sony TV with a DB23 to SCART cable and got the green screen
+
+## Music ripping?
+ - [https://www.reddit.com/r/amiga/comments/1f72y45/music_ripping](https://www.reddit.com/r/amiga/comments/1f72y45/music_ripping)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T09:56:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am not certain if this is the right subreddit, I&#39;m trying to rip the music from F/A-18 Interceptor on WinUAE, but whenever i open the .mod files on VLC i get a long one that&#39;s full silent, and the others don&#39;t even play, what the hell am I doing wrong?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoExpression8047"> /u/NoExpression8047 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1f72y45/music_ripping/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1f72y45/music_ripping/">[comments]</a></span>
+
+## The Amiga Generation
+ - [https://www.reddit.com/r/amiga/comments/1f70sxy/the_amiga_generation](https://www.reddit.com/r/amiga/comments/1f70sxy/the_amiga_generation)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T07:24:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>My theory is that the 80’s Amiga teenagers like myself are getting back into it in their early 50s because a) it’s all far enough back now for real big nostalgia, combined with b) peak disposable income age c) prices aren’t really that much different to back in the day. I mean a A500 probably cost I dunno 399 or 499 back in the 80s. More or less the same kind of numbers going round now. Maybe even better. Give or take demand and specs and whatnot. 499 was definitely hard to come up with when I was 17. Anyway this was a random thought. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maxkraus08"> /u/maxkraus08 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1f70sxy/the_amiga_generation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1f70sxy/the_amiga_generation/">[comments]</a></span>
+
+## Ep. 103 Unboxing & playing TV Sports Basketball Amiga game [Ελληνικά]
+ - [https://www.reddit.com/r/amiga/comments/1f701nf/ep_103_unboxing_playing_tv_sports_basketball](https://www.reddit.com/r/amiga/comments/1f701nf/ep_103_unboxing_playing_tv_sports_basketball)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-02T06:32:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1f701nf/ep_103_unboxing_playing_tv_sports_basketball/"> <img src="https://external-preview.redd.it/Adjjx0Xk3KUXlLOkPNNJb02jpAhn4u6VGAmyreNcqbw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ea34d25dc5b173faa86f60739b9efd1c0faaecba" alt="Ep. 103 Unboxing &amp; playing TV Sports Basketball Amiga game [Ελληνικά]" title="Ep. 103 Unboxing &amp; playing TV Sports Basketball Amiga game [Ελληνικά]" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>TV Sports: Basketball is a 1989 computer basketball game for the home computers. It was developed by Cinemaware and published by Mirrorsoft for the Amiga, MS-DOS, Commodore 64 and TurboGrafx-16. It is part of the TV Sports series that included TV Sports: Baseball as well as other games based on hockey and American football.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GreekRetroMan"> /u/GreekRetroMan </a> <br/> <span><a href="https://youtu
+
