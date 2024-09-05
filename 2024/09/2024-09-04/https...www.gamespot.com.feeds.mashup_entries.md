@@ -1,0 +1,296 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Cult Of The Lamb: The First Verse Graphic Novel Is Up For Preorder At Amazon
+ - [https://www.gamespot.com/articles/cult-of-the-lamb-the-first-verse-graphic-novel-is-up-for-preorder-at-amazon/1100-6526253/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cult-of-the-lamb-the-first-verse-graphic-novel-is-up-for-preorder-at-amazon/1100-6526253/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T22:37:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="2637" data-template="2" data-size="buylink__large" data-title="6526253 - Cult of the Lamb: The First Verse" data-collection="" title="6526253 - Cult of the Lamb: The First Verse" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4362107-cultofthelamb.png alt="">                                 <a href="https://www.amazon.com/Cult-Lamb-Vol-First-Verse/dp/1637155220?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__ti
+
+## Space Marine 2 Preorder Guide - Discounts, Steelbook Case, Official Merch, And More
+ - [https://www.gamespot.com/articles/warhammer-40000-space-marine-2-preorder-guide/1100-6520972/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/warhammer-40000-space-marine-2-preorder-guide/1100-6520972/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T20:34:00+00:00
+
+<p>After a 13-year wait, Space Marine's sequel is nearly here. Warhammer 40,000: Space Marine 2 will be <a href="https://www.gamespot.com/articles/heres-when-youll-be-able-to-play-warhammer-40000-space-marines-2/1100-6526244/">available tomorrow, September 5</a>, for those who purchase the Gold or Ultra Editions for PS5, Xbox Series X|S, or PC. The <a href="https://www.amazon.com/dp/B0CVSDJNKS?tag=gamespot-preorders-20&amp;tag=gamespot-buybutton-20">standard edition</a> launches Monday, September 9. Multiple preorder bonuses are up for grabs, and the <a href="https://www.amazon.com/dp/B0CVSC88SN?tag=gamespot-preorders-20">physical Gold Edition comes with a steelbook case</a> and bonus in-game content--but this edition is only available in limited quantities. Console versions of Space Marine 2 cost $10 more than their PC counterparts. That gap is actually even wider right now, as <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://www.dpbolvw.net/click-100770772-137
+
+## Life Is Strange: Double Exposure Is Inspired By Remedy's "Particular Brand Of Weird"
+ - [https://www.gamespot.com/articles/life-is-strange-double-exposure-is-inspired-by-remedys-particular-brand-of-weird/1100-6526281/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/life-is-strange-double-exposure-is-inspired-by-remedys-particular-brand-of-weird/1100-6526281/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T20:00:00+00:00
+
+<p><a href="https://www.gamespot.com/games/life-is-strange-double-exposure/">Life Is Strange: Double Exposure</a> is launching in just a few short weeks, putting players back into the shoes of the first game's protagonist, Max Caulfield, on a new adventure that moves her from one US coast to the other. We recently played a 45-minute demo of one of the game's early chapters that shows off her newfound abilities to move between parallel realities with one major difference: In one world, her friend Safi is alive; in the other, she's been murdered, and the killer in the first reality may still be at-large, leading Max on an adventure to save her friend before it's too late.</p><p>We also spoke to the game's creative director, Jonathan Stauder, and narrative director Felice Kuan, about what went into building out this new story for Max, how she ended up in Vermont, and more on the lore surrounding the broader Life is Strange universe. You can read our Q&amp;A with the team below, before th
+
+## Throne And Liberty: Cross-Play And Cross-Progression Explained
+ - [https://www.gamespot.com/articles/throne-and-liberty-cross-play-and-cross-save-explained/1100-6526282/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/throne-and-liberty-cross-play-and-cross-save-explained/1100-6526282/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T19:57:00+00:00
+
+<p><a href="https://www.gamespot.com/games/throne-and-liberty/">Throne and Liberty</a> does a great job of feeling like a return to the glory days of MMOs, but that doesn't mean it eschews every modern feature or convenience. This free-to-play adventure has a lot of efficient mechanics to help players feel like they have choices in its massive world. However, you may be wondering if that extends to cross-progression and cross-play functionality. Well, we have good news and bad news--so let's dive in and find out.</p><h2>Does Throne and Liberty have cross-progression (AKA cross-save)?</h2><p>So, the bad news first: <strong>Throne and Liberty does not support cross-progression</strong> at this time. As such, if you purchase the game on more than one platform, you'll have to start entirely new accounts and characters on each.</p><p>Sadly, as of this writing, developer NCSoft has not announced any plans to add this functionality in the future, but we'll be sure to keep this updated if tha
+
+## 10 Upcoming Horror Games That Have Us Feeling Creeped Out
+ - [https://www.gamespot.com/gallery/10-upcoming-horror-games-that-have-us-feeling-creeped-out/2900-5749](https://www.gamespot.com/gallery/10-upcoming-horror-games-that-have-us-feeling-creeped-out/2900-5749)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T19:15:00+00:00
+
+    <p><img src="https://www.gamespot.com/a/uploads/scale_large/1632/16320660/4361986-ss_d62ca2062c9ca464e8bf4a452115722a8e78474f.1920x1080.jpg" /><br /><h3><p>PAX West 2024 has come to an end, but spooky season is just around the corner--or it's already kicked off for the diehards. I love horror games more than any other genre, and Seattle's annual gaming expo hosted several interesting upcoming horror games I jumped into over the holiday weekend. </p><p>While some of these won't be out in time for Halloween this year, I wanted to flag them all as games to look out for in the future. From open-world zombie games to metafiction visual novels and PS1-style scares, here are 10 horror games I played at PAX and what you should know about them.</p></h3></p><br/>     <p><h2>Slay The Princess - The Pristine Cut</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1632/16320660/4361987-unnamed.jpg" /><br /><h3><p>Slay The Princess has been on my list of personal shames for a while, as
+
+## Best Settings For CoD: Black Ops 6 Beta- Controller Layouts, Sensitivity, And More
+ - [https://www.gamespot.com/articles/call-of-duty-black-ops-6-best-settings/1100-6526279/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/call-of-duty-black-ops-6-best-settings/1100-6526279/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T19:06:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/games/call-of-duty-black-ops-6/">Call of Duty: Black Ops 6</a> arrives on October 25, but you can still get hands-on with the game <a href="https://www.gamespot.com/articles/call-of-duty-black-ops-6-beta-dates-how-to-get-in/1100-6524124/">during the open beta</a>. Week two of the beta starts on September 6, and you'll want to adjust some of the game settings to make the most of Black Ops 6's new omnimovement system. This guide covers the controllers, graphics, and audio settings in the Black Ops 6 menus.</p><p dir="ltr">Optimal settings are always going to be subjective, but here we detail our preferred options for console players on PS4/PS5 and Xbox One/Xbox Series X|S:</p><div data-embed-type="toc"><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul id="toc_list" class="collapse in"><li><a href="https://www.gamespot.com">Best controller settings</a><ul><li><a href="https://www.gamespot.com">I
+
+## George RR Martin Critiques House Of The Dragon Season 2
+ - [https://www.gamespot.com/articles/george-rr-martin-critiques-house-of-the-dragon-season-2/1100-6526278/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/george-rr-martin-critiques-house-of-the-dragon-season-2/1100-6526278/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T18:39:00+00:00
+
+<p dir="ltr">In a recent blog post, George R.R. Martin voiced serious concerns about the latest season of HBO's <a href="https://www.gamespot.com/gallery/game-of-thrones-house-of-the-dragon-season-2-finale-10-lingering-questions-before-season-3/2900-5660/">House of the Dragon</a>. The author, who created the Fire &amp; Blood series from which the show is adapted, sharply criticized the decision to exclude the character Maelor, a crucial figure in the book.</p><p dir="ltr"><a href="https://georgerrmartin.com/notablog/2024/09/04/beware-the-butterflies">Martin's post</a>, which appears to have since been removed, expressed his dissatisfaction with changes introduced in the opening episodes of the second season. He specifically condemned the adaptation of the Blood and Cheese sequence, where two assassins kill Jaehaerys in front of his mother, Helaena.</p><p>In the book, Helaena has two sons, in addition to her daughter. Missing from the series is son Maelor, which takes away from what Ma
+
+## State Of Decay 2 New Content Updates Are Ending As Dev Prioritizes State of Decay 3
+ - [https://www.gamespot.com/articles/state-of-decay-2-new-content-updates-are-ending-as-dev-prioritizes-state-of-decay-3/1100-6526276/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/state-of-decay-2-new-content-updates-are-ending-as-dev-prioritizes-state-of-decay-3/1100-6526276/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T18:34:00+00:00
+
+<p>After six years of ongoing support, State of Decay developer Undead Labs has announced that State of Decay 2 is coming to an end when it comes to new content updates. The studio is now shifting its focus to State of Decay 3, which the company says is aiming to be the "greatest zombie survival sim" in the series so far.</p><p>State of Decay 2 has had nearly 40 updates and expansions that added more modes, maps, story content, characters, weapons, and cosmetics over the years. Undead Labs <a href="https://www.stateofdecay.com/an-end-to-content-updates-for-state-of-decay-2/">said</a> it has "poured our hearts into making the experience the best it can be." But the time has come to move on and look ahead.</p><p>"Our ambition is to make the greatest zombie survival sim in the franchise, and to do so, we'll be shifting our focus and resources to making the upcoming third installment, State of Decay 3," Undead Labs said.</p><a href="https://www.gamespot.com/articles/state-of-decay-2-new-c
+
+## WoW Is Bringing Back Its Most Iconic Armor Sets For Massive 20th-Anniversary Update
+ - [https://www.gamespot.com/articles/wow-is-bringing-back-its-most-iconic-armor-sets-for-massive-20th-anniversary-update/1100-6526277/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wow-is-bringing-back-its-most-iconic-armor-sets-for-massive-20th-anniversary-update/1100-6526277/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T18:28:00+00:00
+
+<p><a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft</a> is celebrating its 20th anniversary with a massive in-game event: one that will allow players to get new, modernized versions of the game's iconic Tier 2 armor sets.</p><p dir="ltr">Whereas WoW anniversary events in the past have run for a few weeks in November, the 20th anniversary event is the star of the game's 11.0.5 update and will run for over two months. That's good news, because the event is chock-full of new activities and rewards that look to celebrate 30 years of Warcraft as a franchise and 20 years of Blizzard's MMORPG.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=MNeQdGV5_2U" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/MNeQdGV5_2U" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p dir="ltr">The biggest prize players will want
+
+## Disney Dreamlight Valley: End Of Summer Event Guide
+ - [https://www.gamespot.com/articles/disney-dreamlight-valley-end-of-summer-event-guide/1100-6526275/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-dreamlight-valley-end-of-summer-event-guide/1100-6526275/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:45:00+00:00
+
+<p>As summer approaches its end and welcomes fallen leaves and colder weather, <a href="https://www.gamespot.com/games/disney-dreamlight-valley/">Disney Dreamlight Valley</a> has decided to celebrate with a brand-new event. The End of Summer event brings some exciting new crafting and cooking recipes that really nail the feeling of transitioning out of summer, promising to provide your valley with some fresh autumn vibes. Here's what you need to know about the End of Summer event.</p><div data-embed-type="toc"><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul id="toc_list" class="collapse in"><li><a href="https://www.gamespot.com">End of Summer event start and end dates</a></li><li><a href="https://www.gamespot.com">How the End of Summer event works</a></li></ul></div><h2 id="End_of_Summer_event_start_and_end_dates">End of Summer event start and end dates</h2><p>The End of Summer event is live from September 4 - September 26. When the eve
+
+## Dimension 20's Misfits And Magic Returns For A Second Chaotic-Looking Season Later This Month
+ - [https://www.gamespot.com/articles/dimension-20-misfits-and-magic-season-2-later-this-month/1100-6526272/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dimension-20-misfits-and-magic-season-2-later-this-month/1100-6526272/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:30:00+00:00
+
+<p>Dimension 20 is back for another season with our magical misfits as Misfits and Magic Season 2 has been announced for the next adventure in the dome. And it's a full season this time around--unlike the four-episode Season 1, Season 2 will have 11.</p><p dir="ltr">Misfits and Magic Season 2 sees Aabria Iyengar return to the dome as the Game Master, and Brennan Lee Mulligan, Erika Ishii, Danielle Radford, and Lou Wilson reprise their roles as Evan Kelmp, K, Sam Black, and Whitney Jammer.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=n32-duIG81A" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/n32-duIG81A" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p dir="ltr">Picking up three years after the events of Season 1--which saw four normal high-school kids learning the ropes of attending a magic school and bashing the absurd an
+
+## Joker: Folie A Deux Reviews Are In -- Here's What The Critics Think
+ - [https://www.gamespot.com/articles/joker-folie-a-deux-reviews-are-in-heres-what-the-critics-think/1100-6526273/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/joker-folie-a-deux-reviews-are-in-heres-what-the-critics-think/1100-6526273/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:30:00+00:00
+
+<p>Some five years after 2019's Joker became a breakout success with over $1 billion at the box office and an Oscar win for star Joaquin Phoenix, the long-awaited sequel is nearing its October 4 release. The movie premiered this week at the Venice Film Festival, and reviews are now appearing online.</p><p>The first Joker movie was controversial and elicited a number of strong reactions from critics and fans alike, and it appears the sequel is keeping with that tradition.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=_OKAwz2MsJs" data-width="100%" data-height="100%" data-video-start="8">          <iframe src="https://www.youtube-nocookie.com/embed/_OKAwz2MsJs?start=8" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>Joker: Folie a Deux brings back Phoenix as Arthur Fleck/Joker, who is now on trial for murder stemming back to events from the first film. Lady Gaga joins the cast
+
+## Frostpunk 2 Releases This Month - Here's How To Save 30% On Your Preorder
+ - [https://www.gamespot.com/articles/frostpunk-2-releases-this-month-heres-how-to-save-30-on-your-preorder/1100-6526218/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/frostpunk-2-releases-this-month-heres-how-to-save-30-on-your-preorder/1100-6526218/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:27:00+00:00
+
+<p>Winter is coming in Frostpunk 2, and if the last game was any indication, it's going to be brutal and result in a whole lot of deaths--possibly everyone in your settlement, if your city management isn't up to snuff. The sequel to the intense survival city builder, which imagines the last of humanity surviving a post-apocalyptic ice age world, is set to release on September 20. You can preorder the PC version (Steam keys) of <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://www.dpbolvw.net/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/game/frostpunk-2&amp;p=http://www.gamespot.com/feeds/news&amp;event_type=click">Frostpunk 2</a> right now at Fanatical and save 20% on the standard edition or <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://www.tkqlhce.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/game/frostpunk-2-deluxe-edition&amp;p=http://www.gamespot.com/feeds/news&amp;
+
+## The Legend Of Zelda Timeline Has Seemingly Become More Baffling
+ - [https://www.gamespot.com/articles/the-legend-of-zelda-timeline-has-seemingly-become-more-baffling/1100-6526274/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-legend-of-zelda-timeline-has-seemingly-become-more-baffling/1100-6526274/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:19:00+00:00
+
+<p dir="ltr">Nintendo has apparently provided a fresh new timeline for The Legend of Zelda series, one that famously <a href="https://www.gamespot.com/articles/the-complete-legend-of-zelda-timeline-explained/1100-6513317/">splits off into three different branches after Ocarina of Time</a>. We now have an idea of where the most recent entries--Breath of the Wild and Tears of the Kingdom--fit into the franchise's chronology. Spoilers: They don't, instead being placed into their own little timeline.</p><p dir="ltr"><a href="https://www.vooks.net/new-zelda-timeline-places-breath-of-the-wild-tears-of-the-kingdom-seperate-from-older-games/">Vooks</a> spotted the new Legend of Zelda timeline <a href="https://www.nintendo.com/au/nintendo-live-2024-sydney/">at Nintendo Live</a> over this past weekend in Sydney, Australia. The image--seen below--was shared <a href="https://x.com/Wario64/status/1829703963794624594">on X</a> by Wario64, showing Breath of the Wild and Tears of the Kingdom separate
+
+## The Complete Run Of Captain Planet Is Finally Getting A Physical Release
+ - [https://www.gamespot.com/articles/the-complete-run-of-captain-planet-is-finally-getting-a-physical-release/1100-6526195/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-complete-run-of-captain-planet-is-finally-getting-a-physical-release/1100-6526195/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:09:00+00:00
+
+<p>If you're one of the many folks who have been experiencing superhero fatigue in recent years, it may actually be that it's not the superheroes themselves that you're tired of. Instead, it might simply be that you're over all these empty spectacles that don't have anything to say. Entertainment is good, but entertainment with substance is better. Fortunately for you, the complete run of the early 1990s cartoon Captain Planet, including all six seasons, is being released on DVD for the first time on October 15. Preorders are live now at <a href="https://www.amazon.com/Captain-Planet-Complete-Franchise-DVD/dp/B0DBN2MSZX?tag=gamespot-preorders-20">Amazon</a>.</p><div title="Captain Planet complete series DVD" data-embed-type="buylink" data-ref-id="2628" data-template="4" data-size="buylink__listicle" data-title="Captain Planet complete series DVD" data-collection="" class="norewrite">  <div class="buylink-container">                                                                     <
+
+## Acer Reveals The Nitro Blaze 7 Handheld Gaming PC
+ - [https://www.gamespot.com/articles/acer-reveals-the-nitro-blaze-7-handheld-gaming-pc/1100-6526270/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/acer-reveals-the-nitro-blaze-7-handheld-gaming-pc/1100-6526270/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:01:00+00:00
+
+<p>A new challenger has entered the handheld gaming PC scene, as Acer is throwing its proverbial hat into the ring with the Nitro 7. Announced this week at IFA 2024, the <a href="https://www.acer.com/us-en/handheld-gaming/nitro-handheld-gaming/nitro-blaze-7">Acer Nitro Blaze 7</a> has some great hardware that makes it an attractive alternative to the other handhelds on the market.</p><figure data-align="center" data-size="large" data-img-src="https://www.gamespot.com/a/uploads/original/1601/16018044/4361864-acer-nitro-7.jpg" data-ref-id="1300-4361864" data-ratio="0.5625" data-width="1280" data-embed-type="image" style="width: 1280px"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4361864-acer-nitro-7.jpg"><img alt="Acer Nitro 7" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4361864-acer-nitro-7.jpg" srcset="https://www.gamespot.com/a/uploads/original/1601/16018044/4361864-acer-nitro-7.jpg 1280w, https://www.gamespot.com/a/uploads/scale_medium/1601/
+
+## Diablo 4's Next Game-Changing Update Might Finally Add The Secret Cow Level
+ - [https://www.gamespot.com/articles/diablo-4-next-game-changing-update-might-finally-add-the-secret-cow-level/1100-6526271/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/diablo-4-next-game-changing-update-might-finally-add-the-secret-cow-level/1100-6526271/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T17:01:00+00:00
+
+<p>The test servers for <a href="https://www.gamespot.com/games/diablo-iv/">Diablo 4's</a> massive 2.0 update have revealed some tantalizing new items that just might be the key to finally unlocking the secret cow level in Blizzard's ARPG.</p><p dir="ltr">Players have been on the hunt for the secret level since Diablo 4's launch. Despite <a href="https://www.gamespot.com/articles/there-is-no-cow-level-might-be-true-in-diablo-4-at-least-at-launch/1100-6513009/">Blizzard insisting it doesn't exist (as is tradition)</a>, players have continued to search every nook and cranny of Sanctuary for the secrets needed to unlock it.</p><p dir="ltr">Diablo 4's Vessel of Hatred expansion might finally give players the keys to the cow kingdom. As spotted by the dataminers over at <a href="https://www.wowhead.com/diablo-4/news/new-cow-level-hints-in-diablo-4-patch-2-0-ptr-346356">Wowhead</a>, several curious items have been found in the test build for the game's 2.0 update, which will be released alo
+
+## Get Six Elder Scrolls Games For Only $16 For A Limited Time
+ - [https://www.gamespot.com/articles/get-six-elder-scrolls-games-for-only-16-for-a-limited-time/1100-6526247/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/get-six-elder-scrolls-games-for-only-16-for-a-limited-time/1100-6526247/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:52:00+00:00
+
+<p>Everybody knows The Elder Scrolls V: Skyrim, but Bethesda's Elder Scrolls series stretches way back into the '90s, with a host of fantasy open world games that let you adventure around Tamriel. Fanatical's <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://www.jdoqocy.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/bundle/the-elder-scrolls-bundle&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">The Elder Scrolls Bundle</a> gives you a chance to explore almost all of it, offering six PC games in the storied franchise and their DLC to offer hundreds of hours of RPG gaming. All six games are delivered instantly as Steam keys.</p><div title="" data-embed-type="buylink" data-ref-id="undefined" data-template="undefined" data-size="buylink__small" data-title="" data-collection="%7B%22text%22:%22See%20at%20Fanatical%22,%22monetizedUrl%22:%22https://www.jdoqocy.com/click-100770772-13797872?sid=subid_value&amp;url=https://
+
+## Zelda: Echoes of Wisdom Plays Like A Mini Tears Of The Kingdom
+ - [https://www.gamespot.com/articles/zelda-echoes-of-wisdom-plays-like-a-mini-tears-of-the-kingdom/1100-6526268/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/zelda-echoes-of-wisdom-plays-like-a-mini-tears-of-the-kingdom/1100-6526268/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:40:00+00:00
+
+<p>At a glance, you'd be forgiven for thinking that The Legend of Zelda: Echoes of Wisdom follows firmly in the footsteps of the 2019 remake of Link's Awakening. Stick Zelda in as a playable character, give her a magic wand, sell an absolute shed-load of copies. Job done.</p><p dir="ltr">But having now played an 80-minute section from early in the game, this comparison seems only surface-deep. Although it shares the extremely cute, diorama-esque aesthetic of its top-down predecessor, Echoes captures much more of the systemic and improvisational joys of Breath of the Wild and Tears of the Kingdom than you might expect.</p><p dir="ltr">Echoes sees Hyrule beset by mysterious Rifts--purple, vaguely Calamity-looking voids that stretch across the world--that have hoovered up anyone and anything unfortunate enough to be caught in their path. For once, this means the Hero of Hyrule is nowhere to be seen, leaving Princess Zelda to take up the rei(g)ns instead for the first time in the franchis
+
+## Silent Hill 2 Remake Will Let You Turn Off UI, Apply Old-School '90s Filter
+ - [https://www.gamespot.com/articles/silent-hill-2-remake-will-let-you-turn-off-ui-apply-old-school-90s-filter/1100-6526267/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/silent-hill-2-remake-will-let-you-turn-off-ui-apply-old-school-90s-filter/1100-6526267/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:26:00+00:00
+
+<p>Bloober Team's Silent Hill 2 remake comes out in October, and the developer has shown off some interesting extras on social media. A recent post revealed an optional no-UI mode, as well as a so-called "'90s filter" that adds large amounts of film grain, color correction, and other on-screen elements.</p><div data-embed-type="tweet" data-src="https://x.com/BlooberTeam/status/1831331608302907651" data-has-image="true"><blockquote align="center" class="twitter-tweet" data-conversation="none" data-mce-disable-toolbar="true"><p dir="ltr">Looking for the most immersive way to play SILENT HILL 2?<br />You'll have an option to turn off all UI elements!<br />We've also created a "90s filter" with grain effect, color correction and screen adjustments to complete the old-school experience.<a href="https://twitter.com/hashtag/SILENTHILL?src=hash&amp;ref_src=twsrc^tfw">#SILENTHILL</a> <a href="https://twitter.com/hashtag/KONAMI?src=hash&amp;ref_src=twsrc^tfw">#KONAMI</a> <a href="https://twitte
+
+## Ryan Murphy's Grotesquerie Trailer Reveals Travis Kelce's First Acting Role
+ - [https://www.gamespot.com/articles/ryan-murphys-grotesquerie-trailer-reveals-travis-kelces-first-acting-role/1100-6526266/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ryan-murphys-grotesquerie-trailer-reveals-travis-kelces-first-acting-role/1100-6526266/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:08:00+00:00
+
+<p>Travis Kelce, the NFL star and Taylor Swift's boyfriend, is making the leap to acting. One of his first big roles is a part in Ryan Murphy's Grotesquerie, and the first footage of the Kansas City Chiefs tight end in action has now been revealed.</p><p>Kelce appears in the FX murder-mystery show, but his role remains a secret. In any event, FX is leaning on the football star to promote the show, as the video begins with Kelce introducing the clip before he appears a few times in the trailer itself. In one scene, Kelce's character says something pretty dramatic: "There is no future after this."</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=daV1NI7hxY0" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/daV1NI7hxY0" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>"Evil is all around us," reads a line from the show's description
+
+## A Destiny Mobile Game Is In The Works At NetEase - Report
+ - [https://www.gamespot.com/articles/a-destiny-mobile-game-is-in-the-works-at-netease-report/1100-6526269/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-destiny-mobile-game-is-in-the-works-at-netease-report/1100-6526269/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:05:00+00:00
+
+<p>A Destiny mobile game is reportedly in development over at NetEase under the name Destiny Rising, and it could be announced soon.</p><p>This rumor originally came from Twitter user <a href="https://x.com/Kurakasis/status/1830693815876714763">Kurakasis</a>, who said that Destiny Rising hasn't been canceled despite developer Bungie's <a href="https://www.gamespot.com/articles/bungie-announces-mass-layoffs-less-than-two-months-after-destiny-2-the-final-shapes-launch/1100-6525438/">recent layoffs</a>. Giant Bomb's Jeff Grubb has corroborated this rumor over on <a href="https://www.threads.net/@jeffygrubbgrubb/post/C_d55_hvrN1?xmt=AQGzciFTVQuJZMKdsPkuKr3gbhzEPty-5vSECAmuhE7No18">Threads</a>, saying that the game will reportedly have Hero characters instead of having players create their own characters. However, it seemingly will still retain the same kind of feeling of playing Destiny on console or PC, but just on mobile.</p><p>Last month, <a href="https://www.bloomberg.com/news/newslet
+
+## Warhammer 40,000: Space Marine 2 Review-In-Progress - Rip And Tear For The Emperor
+ - [https://www.gamespot.com/reviews/warhammer-40000-space-marine-2-review/1900-6418276/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/warhammer-40000-space-marine-2-review/1900-6418276/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:00:00+00:00
+
+<p dir="ltr">As I thrust my Chainsword into the chest of a Tyranid Warrior and split the vile Xenos in half, I can't help but be reminded of 2016's Doom. From a gameplay perspective, Warhammer 40,000: Space Marine 2 is nothing like id Software's demon-infested reboot--at best, any similarities between the two are merely superficial. But Space Marine 2 manages to capture a kindred vibe that prodded the part of my brain reserved for all things Doom: one that relishes in gory, balls-to-the-wall action and an unapologetic, almost old-school approach to game design that puts unadulterated fun above all else. It's a game that clearly understands how absurd, horrific, and over-the-top the whole franchise is. There are flaws, but Space Marine 2 improves upon its 13-year-old predecessor in every conceivable way, making you embody an Ultramarine as you stomp your way through a fully realized recreation of Warhammer 40,000's grimdark universe.</p><div data-embed-type="video" data-src="https://ww
+
+## Warhammer 40k: Space Marine 2 - First 25 Minutes Gameplay
+ - [https://www.gamespot.com/videos/warhammer-40k-space-marine-2-first-25-minutes-gameplay/2300-6465051](https://www.gamespot.com/videos/warhammer-40k-space-marine-2-first-25-minutes-gameplay/2300-6465051)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1823/18237490/4361191-gameplay_sm2first25min_thumbsite1.jpg" width="480" height="480" /> Check out the first 25 minutes of Warhammer 40k Space Marine 2's campaign. Story spoilers ahead!
+
+## Warhammer 40k: Space Marine 2 GameSpot Review-In-Progress
+ - [https://www.gamespot.com/videos/warhammer-40k-space-marine-2-gamespot-review-in-progress/2300-6465059](https://www.gamespot.com/videos/warhammer-40k-space-marine-2-gamespot-review-in-progress/2300-6465059)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T16:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4361786-review_wahammer40kspacemarine2_site.jpg" width="480" height="480" /> Space Marine 2 is a fantastic sequel that builds on its predecessor in every way, bombarding you with an overwhelming enemy and chaotic action that makes you feel like a small part of a much larger war.
+
+## Acer's New Gaming Laptop Concept Has Some Switch-Like Ideas In Its Design
+ - [https://www.gamespot.com/articles/acers-new-gaming-laptop-concept-has-some-switch-like-ideas-in-its-design/1100-6526264/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/acers-new-gaming-laptop-concept-has-some-switch-like-ideas-in-its-design/1100-6526264/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T15:56:00+00:00
+
+<p>Acer unveiled several new laptops this week during a press event at IFA Berlin, but the most interesting hardware it unveiled is a conceptual one. The company posted a short trailer for what it calls Acer Project DualPlay: a gaming laptop that comes with its own detachable controller.</p><p>Similar to how the Joy-Cons detach from a Switch console, the controller can be easily popped out of the laptop--as demonstrated in the video below--and separated from the cradle for when you want to do so co-op gaming. The controller forms part of the underside of the trackpad when inserted back into place, and the laptop also features pop-up speakers on the side.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=vI2fyCh6KNo" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/vI2fyCh6KNo" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>The o
+
+## PS5 Slim NBA 2K25 Bundle Deal Is Available Now At Walmart And Target
+ - [https://www.gamespot.com/articles/ps5-slim-digital-nba-2k25-bundle/1100-6525967/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ps5-slim-digital-nba-2k25-bundle/1100-6525967/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T15:44:00+00:00
+
+<p>To celebrate today's <a href="https://www.gamespot.com/articles/nba-2k25-preorder-guide-release-date-bonuses-editions/1100-6524830/">early launch of NBA 2K25</a>, PlayStation has released a new PS5 Slim Digital bundle for $499. The bundle saves you $20 compared to the cost of buying the console and game separately. It's not available to order at all major retailers yet, but <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/PlayStation-5-Digital-Slim-Console/9602603812&amp;subId1=subid_value&amp;p=http://www.gamespot.com/feeds/mashup/rss&amp;event_type=click">Walmart</a> and <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/playstation-5-digital-console-slim-nba-2k25-bundle/-/A-93150909&amp;p=http://www.gamespot.com/feeds/mashup/rss&amp;eve
+
+## Major Madden NFL 25 Update Makes Sure Davante Adams Has The Right Air Jordan Cleats
+ - [https://www.gamespot.com/articles/major-madden-nfl-25-update-makes-sure-davante-adams-has-the-right-air-jordan-cleats/1100-6526263/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/major-madden-nfl-25-update-makes-sure-davante-adams-has-the-right-air-jordan-cleats/1100-6526263/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T15:41:00+00:00
+
+<p dir="ltr">Madden NFL 25 received a title update that brings with it a laundry list of changes, including the correct cleats for Oakland Raiders wide receiver Davante Adams and a likeness tweak for Cincinnati Bengals quarterback Joe Burrow. He now sports his recent transformation into a Slim Shady clone. There are also playbook additions for the Philadelphia Eagles, the introduction of São Paulo Stadium for the upcoming international game, and a fix to stop wide receivers from going offsides.</p><p dir="ltr">EA Sports detailed the September 3 title update for Madden NFL 25 on <a href="https://www.ea.com/en/games/madden-nfl/madden-nfl-25/news/title-update-september-2024">the company's website</a>. The Switch Stick got new delay options, ranging from none to even deactivating the setting. There are also tweaks to kickoff returns for the returners, who apparently were failing to catch the ball in the Landing Zone sometimes. The NFL overhauled kickoff returns during the offseason, and E
+
+## A Minecraft Movie Trailer Breakdown: Easter Eggs, Game References, Story Details, Piglins, And More
+ - [https://www.gamespot.com/gallery/a-minecraft-movie-trailer-breakdown-easter-eggs-game-references-story-details-piglins-and-more/2900-5751](https://www.gamespot.com/gallery/a-minecraft-movie-trailer-breakdown-easter-eggs-game-references-story-details-piglins-and-more/2900-5751)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T15:38:00+00:00
+
+    <p><img src="https://www.gamespot.com/a/uploads/scale_large/1562/15626911/4361799-dek.png" /><br /><h3><p dir="ltr">The Minecraft movie won't be out until next year. However, <a href="https://www.gamespot.com/articles/minecraft-movies-first-trailer-has-arrived-and-its-incredible/1100-6526254/">the first teaser trailer dropped</a>. The film has been in the works for a long time: <a href="https://www.gamespot.com/articles/minecraft-movie-could-be-directed-by-night-at-the-/1100-6423017/">10 years, to be exact</a>. And for a game that originally didn't have a story, it looks like A Minecraft Movie is going to be exceptionally fun.</p><p dir="ltr">The movie stars Jason Momoa, Jack Black, Sebastian Eugene Hansen, Emma Myers, and Danielle Brooks--there are more stars, but they were not featured in this trailer. The movie is written by Chris Bowman, Rob McElhenney, and Hubbel Palmer, and it is directed by Jared Hess.</p><p dir="ltr">There is an official description of the movie as well, a
+
+## Ubisoft Stock Sinks To 10-Year Low As Star Wars Outlaws Underperforms
+ - [https://www.gamespot.com/articles/ubisoft-stock-sinks-to-10-year-low-as-star-wars-outlaws-underperforms/1100-6526262/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ubisoft-stock-sinks-to-10-year-low-as-star-wars-outlaws-underperforms/1100-6526262/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T15:06:00+00:00
+
+<p>Star Wars Outlaws is the first open-world Star Wars game ever, but it seems that this galactic low-life adventure isn't quite living up to sales expectations. Ubisoft's share price has fallen 12.6% since Outlaws released on August 27, and it now sits at the lowest level since 2015.</p><p dir="ltr">Ubisoft's sales target for Star Wars Outlaws is unclear--the company didn't announce a public number--but the market results indicate that it's not a hit. Per <a href="https://www.reuters.com/technology/game-developer-ubisoft-slides-amid-muted-reception-star-wars-outlaws-2024-09-03/">Reuters</a>, JP Morgan analyst Daniel Kerven said that the game has "struggled to meet sales expectations despite positive critical reviews." The analyst lowered his sales expectations for the game from 7.5 million to 5.5 million through March 2025, noting that Outlaws' budget was at least 30% higher than last year's Assassin's Creed Mirage.</p><p dir="ltr">Outlaws isn't the only game weighing on Ubisoft's st
+
+## Microsoft, Apple Sparring Again Over Cloud-Gaming Apps
+ - [https://www.gamespot.com/articles/microsoft-apple-sparring-again-over-cloud-gaming-apps/1100-6526265/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/microsoft-apple-sparring-again-over-cloud-gaming-apps/1100-6526265/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T15:01:00+00:00
+
+<p>Despite recent changes to the app store to accommodate cloud gaming, Microsoft and Nvidia still don't have native cloud-gaming apps on iOS. Anyone wishing to play Game Pass via the cloud on their iPhone must use a web app. New submissions to the UK's Competition and Markets Authority (CMA) reveal Microsoft's reasons for not yet publishing an app.</p><p>In a submission from late July (via <a href="https://www.theverge.com/2024/9/3/24234777/microsoft-apple-cloud-gaming-app-store-changes-xbox-cma">The Verge</a>), Microsoft claims that Apple's recent changes to its app guidelines are insufficient for Microsoft to release a native iOS app. Microsoft objects to Apple's 3.11 guideline, which forbids developers from linking to outside websites for subscriptions, thereby circumventing Apple's 30% cut on app transactions. It claims that, "The 30% commission fee makes it impossible for Microsoft to effectively monetize its cloud gaming service offering," because other Apple regulations make i
+
+## Borderlands Players Have Cracked The Code For The "Most Valuable" Shift Key Ever Made
+ - [https://www.gamespot.com/articles/borderlands-players-have-cracked-the-code-for-the-most-valuable-shift-key-ever-made/1100-6526259/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/borderlands-players-have-cracked-the-code-for-the-most-valuable-shift-key-ever-made/1100-6526259/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T14:32:00+00:00
+
+<p>Borderlands players are no strangers to cracking codes and uncovering secrets in the game franchise, but the latest round of community sleuthing has proven to be especially lucrative. Thanks to a seemingly ordinary card given out at the recent PAX West convention, Borderlands players have received what is arguably the best Shift code in existence, and all it took was a solid grasp of binary language.</p><p>The card in question (via <a href="https://www.gamesradar.com/games/borderlands/the-borderlands-series-most-valuable-shift-code-ever-is-now-available-for-everyone-all-thanks-to-genius-fans-cracking-a-secret-code-that-im-baffled-was-solved-so-fast/">GamesRadar</a>) featured a D20 die in the center, and the tabletop icon was flanked by an inconspicuous pattern. Gearbox boss Randy Pitchford posted an image of the card on X/Twitter, hinting that it contained a secret clue in its design, and eventually, <a href="https://x.com/40_BaySt/status/1830194736092807509">user @40_BaySt shared 
+
+## Concord Players Are Repeatedly Killing Their Characters To Get A Platinum Trophy
+ - [https://www.gamespot.com/articles/concord-players-are-repeatedly-killing-their-characters-to-get-a-platinum-trophy/1100-6526260/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/concord-players-are-repeatedly-killing-their-characters-to-get-a-platinum-trophy/1100-6526260/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T14:30:00+00:00
+
+<p><a href="https://www.gamespot.com/articles/concord-has-no-battle-pass-you-own-concord-concord-doesnt-own-you/1100-6525272/">Concord</a> is going to be a game for the history books, just not the kind of history that Sony would have preferred. After debuting to dismal sales just under two weeks ago, Sony made the call to <a href="https://www.gamespot.com/articles/sonys-new-game-concord-going-offline-after-just-over-a-week/1100-6526235/">pull the plug on Concord</a> and delist the title. But in the limited time that the game has left, players are trying to get a rare Platinum trophy by repeatedly killing their own characters in Concord's Rivalry matches.</p><p>Via <a href="https://www.ign.com/articles/concord-players-are-jumping-off-cliffs-in-game-as-they-desperately-grind-for-the-platinum-trophy-before-shutdown">IGN</a>, Rivalry was intended to give two teams of five players a best-of-seven contest to determine the winner. But since both teams get experience points for participating,
+
+## Warhammer 40,000: Space Marine - The Story So Far
+ - [https://www.gamespot.com/gallery/warhammer-40000-space-marine-the-story-so-far/2900-5750](https://www.gamespot.com/gallery/warhammer-40000-space-marine-the-story-so-far/2900-5750)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T14:26:00+00:00
+
+    <p><img src="https://www.gamespot.com/a/uploads/scale_large/1597/15971423/4361779-screenshot2024-09-04at10.09.31%E2%80%AFam.jpg" /><br /><h3><p>It has been over a decade since the release of Warhammer 40,000: Space Marine, and that means it's potentially been nearly as long since you experienced the story. Whether you've forgotten some of the plot points or have never played the game at all, we're here to help get you caught up to speed with all of the original game's major story beats <a href="https://www.gamespot.com/articles/heres-when-youll-be-able-to-play-warhammer-40000-space-marines-2/1100-6526244/">before you play Warhammer 40,000: Space Marine 2</a>.</p></h3></p><br/>     <p><img src="https://www.gamespot.com/a/uploads/scale_large/1597/15971423/4361784-screenshot2024-09-04at10.16.22%E2%80%AFam.jpg" /><br /><h3><p> </p><p>In the opening moments of Warhammer 40,000: Space Marine, the Forge World Graia finds itself under attack by a massive group of Orks known as a "WAAAGH,"
+
+## Joaquin Phoenix Discusses His Weight Loss For Joker 2 And Says He May Not Do It Again
+ - [https://www.gamespot.com/articles/joaquin-phoenix-discusses-his-weight-loss-for-joker-2-and-says-he-may-not-do-it-again/1100-6526255/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/joaquin-phoenix-discusses-his-weight-loss-for-joker-2-and-says-he-may-not-do-it-again/1100-6526255/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T13:06:00+00:00
+
+<p>Just as he did for his Oscar-winning performance as Arthur Fleck in 2019's Joker, Joaquin Phoenix once again lost weight for his role as the main character in Joker: Folie a Deux. Speaking at the Venice Film Festival this week, Phoenix declined to give specifics on how he lost the weight for the Joker sequel, but mentioned how it was more difficult this time around and he's unlikely to do it again in the future.</p><p>"I'm not going to talk through specifics of the diet, but this time it felt a bit more complicated just because there was so much dance rehearsal that we were doing, which I didn't have last time," Phoenix said, as <a href="https://variety.com/2024/film/festivals/joaquin-phoenix-joker-2-weight-loss-more-difficult-shouldnt-do-again-1236128921/">reported by Variety</a>. "So it felt a bit more difficult … but it is safe. But yeah, I'm now 49, I probably shouldn't do this again."</p><p>Phoenix <a href="https://www.gamespot.com/articles/joaquin-phoenix-talks-about-his-dram
+
+## Ten Minutes Of The Legend of Zelda: Echoes of Wisdom Gameplay
+ - [https://www.gamespot.com/videos/ten-minutes-of-the-legend-of-zelda-echoes-of-wisdom-gameplay/2300-6465053](https://www.gamespot.com/videos/ten-minutes-of-the-legend-of-zelda-echoes-of-wisdom-gameplay/2300-6465053)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T13:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4361205-gameplay_loz_echoes_of_wisdom_v1.jpg" width="480" height="480" /> In this gameplay, Princess Zelda escapes from a dungeon and uses her Tri Rod to make Echoes and battle everything from Moblins and Strandtula's to a Talus and Dark Link. Echoes of Wisdom involves a lot of puzzle-solving by copying both monsters and everyday objects and then using them creatively in a physics-based environment.
+
+## Zelda: Echoes of Wisdom Plays Like A Mini Tears Of The Kingdom
+ - [https://www.gamespot.com/videos/zelda-echoes-of-wisdom-plays-like-a-mini-tears-of-the-kingdom/2300-6465052](https://www.gamespot.com/videos/zelda-echoes-of-wisdom-plays-like-a-mini-tears-of-the-kingdom/2300-6465052)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T13:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4361204-preview_loz_echoes_of_wisdom_v1.jpg" width="480" height="480" /> Princess Zelda takes a starring role for the first time in the franchise that bears her name, with a suite of ingenious and creative powers to play with.
+
+## Minecraft Movie's First Trailer Has Arrived, And It's Incredible
+ - [https://www.gamespot.com/articles/minecraft-movies-first-trailer-has-arrived-and-its-incredible/1100-6526254/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/minecraft-movies-first-trailer-has-arrived-and-its-incredible/1100-6526254/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T12:08:00+00:00
+
+<p>Warner Bros. has debuted the first trailer for the long-in-development Minecraft movie, and it looks pretty great. The film, which is based on Mojang's popular sandbox game, has a big cast of huge names, including Jason Momoa, Jack Black, Kate McKinnon, Danielle Brooks, Jennifer Coolidge, Emma Myers, and Jemaine Clement.</p><p>Since the film was <a href="https://www.gamespot.com/articles/minecraft-movie-could-be-directed-by-night-at-the-/1100-6423017/">announced more than 10 years ago</a>, people have been wondering how director Jared Hess (Napoleon Dynamite, Nacho Libre) and the writers might make a movie out of a game that has no real story. And now we know--take a look at the trailer for yourself below.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=PE2YZhcC4NY" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/PE2YZhcC4NY" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mo
+
+## Dragon Ball Daima Collectible Action Figures Up For Preorder At Amazon
+ - [https://www.gamespot.com/articles/dragon-ball-daima-collectible-action-figures-up-for-preorder-at-amazon/1100-6526252/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dragon-ball-daima-collectible-action-figures-up-for-preorder-at-amazon/1100-6526252/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T10:11:00+00:00
+
+<p>A new Dragon Ball anime series doesn't just mean a fresh chance to see Goku and his pals embark on a new adventure, It <em>also </em>means that you can expect some new collectibles to go up for sale, and right on cue, there are several Dragon Ball Daima action figures ready to add to your shelf. The new anime series will start airing in Japan on Friday, October 11, and it's the final animated season that late Dragon Ball creator Akira Toriyama had a direct hand in shaping, as he helped craft the overall story and worked on several character designs.</p><p>While plot details are slim, it looks like the show is a back-to-basics return for Dragon Ball. Thanks to mysterious shenanigans, the main cast have been transformed back into kids, and Goku will make up for his smaller frame by once again wielding his iconic Power Pole. The SH Figurarts figures below capture the pint-sized powerhouses perfectly, and for the first wave, <a href="https://www.amazon.com/TAMASHII-NATIONS-DAIMA-Spirit
+
+## ModRetro Chromatic Preorders - GameStop Has Exclusive Variant Of The Modernized Game Boy
+ - [https://www.gamespot.com/articles/modretro-chromatic-preorders-gamestop-has-exclusive-variant-of-the-modernized-game-boy/1100-6526229/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/modretro-chromatic-preorders-gamestop-has-exclusive-variant-of-the-modernized-game-boy/1100-6526229/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T04:53:00+00:00
+
+<p>The ModRetro Chromatic is now available to <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=24348&amp;u1=subid_value&amp;murl=https://www.gamestop.com/consoles-hardware/retro-consoles/products/modretro-chromatic-gamestop-exclusive/414295.html&amp;p=http://www.gamespot.com/feeds/news&amp;event_type=click">preorder at GameStop</a> ahead of its release this holiday. The <a href="https://www.gamespot.com/articles/analogue-pocket-competitor-tries-to-be-a-tribute-to-game-boy/1100-6523895/">Chromatic is a modernized Game Boy</a> aiming to offer an authentic experience with modern technical advancements. It plays original Game Boy and GBC cartridges as well as Chromatic-branded new releases. Funded by Oculus VR founder Palmer Luckey, the Chromatic has been available to preorder in six different color schemes from ModRetro since its June <a href="https://www.gamespot.com/articles/analogue-pocket-competitor-tries-to
+
+## Guillermo Del Toro's The Shape Of Water Joins The Criterion Collection Soon
+ - [https://www.gamespot.com/articles/guillermo-del-toros-the-shape-of-water-joins-the-criterion-collection-soon/1100-6526210/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/guillermo-del-toros-the-shape-of-water-joins-the-criterion-collection-soon/1100-6526210/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T00:17:00+00:00
+
+<div title="6526210 - The Shape of Water Criterion Collection Blu-Ray" data-embed-type="buylink" data-ref-id="2630" data-template="2" data-size="buylink__large" data-title="6526210 - The Shape of Water Criterion Collection Blu-Ray" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4359720-shape-of-water-5.jpg alt="">                                 <a href="https://www.amazon.com/dp/B0DDCYQNS4?tag=gamespot-preorders-20 "></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__t
+
+## Concord: Internet Reacts To Sony Shutting Down The Game
+ - [https://www.gamespot.com/articles/concord-internet-reacts-to-sony-shutting-down-the-game/1100-6526250/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/concord-internet-reacts-to-sony-shutting-down-the-game/1100-6526250/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-04T00:14:00+00:00
+
+<p>Prior to its launch last month, Sony had high hopes that <a href="https://www.gamespot.com/articles/concord-has-no-battle-pass-you-own-concord-concord-doesnt-own-you/1100-6525272/">Concord</a> would be the latest hero shooter to become a breakout title. However, the reception has been so disappointing that <a href="https://www.gamespot.com/articles/sonys-new-game-concord-going-offline-after-just-over-a-week/1100-6526235/">Sony has decided to pull Concord</a> only two weeks after its release, with refunds going out to players who bought it. Now, gaming professionals, journalists, and fans have shared their response to the news online.</p><p>Gears of War creator Cliff Bleszinski expressed his empathy for Concord's quick demise. His first-person shooter, LawBreakers, met a similar fate in 2018.</p><div data-embed-type="tweet" data-src="https://twitter.com/therealcliffyb/status/1831038545588613377" data-has-image="false"><blockquote align="center" class="twitter-tweet" data-conversatio
+

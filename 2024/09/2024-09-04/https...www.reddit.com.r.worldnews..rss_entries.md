@@ -1,0 +1,289 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Two RT Employees Indicted for Covertly Funding and Directing U.S. Company that Published Thousands of Videos in Furtherance of Russian Interests
+ - [https://www.reddit.com/r/worldnews/comments/1f95vcr/two_rt_employees_indicted_for_covertly_funding](https://www.reddit.com/r/worldnews/comments/1f95vcr/two_rt_employees_indicted_for_covertly_funding)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T21:58:49+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/cenuij"> /u/cenuij </a> <br/> <span><a href="https://www.justice.gov/opa/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published-thousands">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f95vcr/two_rt_employees_indicted_for_covertly_funding/">[comments]</a></span>
+
+## Two RUSSIA TODAY Employees Indicted For Covertly Funding And Directing U.S. Company That Published Thousands Of Videos In Furtherance Of Russian Interests | United States Department of Justice
+ - [https://www.reddit.com/r/worldnews/comments/1f94iqg/two_russia_today_employees_indicted_for_covertly](https://www.reddit.com/r/worldnews/comments/1f94iqg/two_russia_today_employees_indicted_for_covertly)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T21:00:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Robert-Nogacki"> /u/Robert-Nogacki </a> <br/> <span><a href="https://www.justice.gov/usao-sdny/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f94iqg/two_russia_today_employees_indicted_for_covertly/">[comments]</a></span>
+
+## Netanyahu derailed a potential Gaza hostage deal in July, Israeli newspaper reports
+ - [https://www.reddit.com/r/worldnews/comments/1f90yi8/netanyahu_derailed_a_potential_gaza_hostage_deal](https://www.reddit.com/r/worldnews/comments/1f90yi8/netanyahu_derailed_a_potential_gaza_hostage_deal)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T18:37:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f90yi8/netanyahu_derailed_a_potential_gaza_hostage_deal/"> <img src="https://external-preview.redd.it/QTVyHhuZnTZjq2UHwn4CinXrTYmpye0pF98KIcjJIaA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=54deaa353dcee7f38cd6d291d9ed395b5e6ca626" alt="Netanyahu derailed a potential Gaza hostage deal in July, Israeli newspaper reports" title="Netanyahu derailed a potential Gaza hostage deal in July, Israeli newspaper reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/str8_cash__homie"> /u/str8_cash__homie </a> <br/> <span><a href="https://www.cnn.com/2024/09/04/middleeast/netanyahu-derailed-hostage-deal-in-july-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f90yi8/netanyahu_derailed_a_potential_gaza_hostage_deal/">[comments]</a></span> </td></tr></table>
+
+## IDF finds shaft to tunnel where bodies of hostages were found in a children's yard
+ - [https://www.reddit.com/r/worldnews/comments/1f8zg1q/idf_finds_shaft_to_tunnel_where_bodies_of](https://www.reddit.com/r/worldnews/comments/1f8zg1q/idf_finds_shaft_to_tunnel_where_bodies_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T17:37:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8zg1q/idf_finds_shaft_to_tunnel_where_bodies_of/"> <img src="https://external-preview.redd.it/AiBq95OhKo2cW2DRjaIwtvm7bTlV6LFAVe-ony65LGc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00b92bda13f1f658610bd17ac7d711271a0bf9eb" alt="IDF finds shaft to tunnel where bodies of hostages were found in a children's yard" title="IDF finds shaft to tunnel where bodies of hostages were found in a children's yard" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thatshirtman"> /u/thatshirtman </a> <br/> <span><a href="https://www.jpost.com/breaking-news/article-818745">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8zg1q/idf_finds_shaft_to_tunnel_where_bodies_of/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris campaign told how to win by UK Labour strategist
+ - [https://www.reddit.com/r/worldnews/comments/1f8z85c/kamala_harris_campaign_told_how_to_win_by_uk](https://www.reddit.com/r/worldnews/comments/1f8z85c/kamala_harris_campaign_told_how_to_win_by_uk)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T17:28:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8z85c/kamala_harris_campaign_told_how_to_win_by_uk/"> <img src="https://external-preview.redd.it/S5Oy5wOOxOr8SZW_UwyFhXMHojqci97Wv80FA0vC8z8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3402a6f75797c49cc463dc53c8b02311ca54e4b3" alt="Kamala Harris campaign told how to win by UK Labour strategist" title="Kamala Harris campaign told how to win by UK Labour strategist" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/legendsking"> /u/legendsking </a> <br/> <span><a href="https://www.politico.eu/article/kamala-harris-presidential-campaign-told-how-to-win-by-uk-labour-strategist/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8z85c/kamala_harris_campaign_told_how_to_win_by_uk/">[comments]</a></span> </td></tr></table>
+
+## Deutsche Bank chief tells Germans: Work longer and harder
+ - [https://www.reddit.com/r/worldnews/comments/1f8yl16/deutsche_bank_chief_tells_germans_work_longer_and](https://www.reddit.com/r/worldnews/comments/1f8yl16/deutsche_bank_chief_tells_germans_work_longer_and)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T17:03:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8yl16/deutsche_bank_chief_tells_germans_work_longer_and/"> <img src="https://external-preview.redd.it/G24gS60thF48_PZ9I0KkywJONfaedBE9lrBMECUaAUQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c00a0d62ee5bf381dea608b0159a276aa077f5b" alt="Deutsche Bank chief tells Germans: Work longer and harder" title="Deutsche Bank chief tells Germans: Work longer and harder" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dept404"> /u/Dept404 </a> <br/> <span><a href="https://www.politico.eu/article/deutsche-bank-ceo-christian-sewing-germany-working-hours-economy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8yl16/deutsche_bank_chief_tells_germans_work_longer_and/">[comments]</a></span> </td></tr></table>
+
+## Swiss government wants to ban Hamas from Switzerland for five years
+ - [https://www.reddit.com/r/worldnews/comments/1f8yggh/swiss_government_wants_to_ban_hamas_from](https://www.reddit.com/r/worldnews/comments/1f8yggh/swiss_government_wants_to_ban_hamas_from)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T16:58:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8yggh/swiss_government_wants_to_ban_hamas_from/"> <img src="https://external-preview.redd.it/RmwBrZ_DeIipFpygJ22X6rFmxYl2aYatzqFTS-mi9dI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8989ff106f19abb337e1142b2a01163b23d14d1" alt="Swiss government wants to ban Hamas from Switzerland for five years" title="Swiss government wants to ban Hamas from Switzerland for five years" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BezugssystemCH1903"> /u/BezugssystemCH1903 </a> <br/> <span><a href="https://www.swissinfo.ch/eng/swiss-politics/the-federal-council-wants-to-ban-hamas-from-switzerland-for-5-years/87491275?utm_source=multiple&amp;utm_medium=website&amp;utm_campaign=news_en&amp;utm_content=o&amp;utm_term=wpblock_highlighted-compact-news-carousel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8yggh/swiss_government_wants_to_ban_hamas_from/">[co
+
+## Biden administration to accuse Russia of sustained effort to influence 2024 election
+ - [https://www.reddit.com/r/worldnews/comments/1f8wqr0/biden_administration_to_accuse_russia_of](https://www.reddit.com/r/worldnews/comments/1f8wqr0/biden_administration_to_accuse_russia_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T15:50:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8wqr0/biden_administration_to_accuse_russia_of/"> <img src="https://external-preview.redd.it/PaCWS_3l2CUO-PxfHGqrLITYhFFTbihtQ799zp7pEoQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9a5652ad1b48e72390dd8c25461020c51047a76" alt="Biden administration to accuse Russia of sustained effort to influence 2024 election" title="Biden administration to accuse Russia of sustained effort to influence 2024 election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CrispyMiner"> /u/CrispyMiner </a> <br/> <span><a href="https://www.cnn.com/2024/09/04/politics/biden-administration-accuse-russia-election-influence-efforts/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8wqr0/biden_administration_to_accuse_russia_of/">[comments]</a></span> </td></tr></table>
+
+## U.S. targets Russia over 2024 election influence operation
+ - [https://www.reddit.com/r/worldnews/comments/1f8wqhs/us_targets_russia_over_2024_election_influence](https://www.reddit.com/r/worldnews/comments/1f8wqhs/us_targets_russia_over_2024_election_influence)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T15:49:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8wqhs/us_targets_russia_over_2024_election_influence/"> <img src="https://external-preview.redd.it/xVVAW595jnoZyKmUDIFccvxMPBAf1ODWZzP-iWFuHTw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bbd66a1478a37bcf94101d683727f1a080fd3b7" alt="U.S. targets Russia over 2024 election influence operation" title="U.S. targets Russia over 2024 election influence operation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br/> <span><a href="https://www.cnbc.com/2024/09/04/us-doj-russia-rt-media-2024-election.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8wqhs/us_targets_russia_over_2024_election_influence/">[comments]</a></span> </td></tr></table>
+
+## Biden administration to hit Russia with sanctions for trying to manipulate U.S. opinion ahead of the election
+ - [https://www.reddit.com/r/worldnews/comments/1f8vtcw/biden_administration_to_hit_russia_with_sanctions](https://www.reddit.com/r/worldnews/comments/1f8vtcw/biden_administration_to_hit_russia_with_sanctions)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T15:12:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8vtcw/biden_administration_to_hit_russia_with_sanctions/"> <img src="https://external-preview.redd.it/kp1UsOwcqDQh6cjWy6ry8-d5N8ph9dI1Htf0hVhA_MQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6080d143f064d6a818a3e14f1cf0ee8eb40ae39c" alt="Biden administration to hit Russia with sanctions for trying to manipulate U.S. opinion ahead of the election" title="Biden administration to hit Russia with sanctions for trying to manipulate U.S. opinion ahead of the election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.nbcnews.com/politics/2024-election/biden-administration-hit-russia-sanctions-trying-manipulate-us-opinion-rcna169541">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8vtcw/biden_administration_to_hit_russia_with_sanctions/">[comments]</a></span> </td></tr></table>
+
+## China warns students 'beautiful women, handsome guys' could lure them into spying
+ - [https://www.reddit.com/r/worldnews/comments/1f8vljw/china_warns_students_beautiful_women_handsome](https://www.reddit.com/r/worldnews/comments/1f8vljw/china_warns_students_beautiful_women_handsome)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T15:03:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8vljw/china_warns_students_beautiful_women_handsome/"> <img src="https://external-preview.redd.it/yfn_ctwZr9yORtYacyk6-zEiOfINUtBYgk6OcZ8Wp6M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb13c07ca0b926614ff53f17c4cb8e19b6e24af5" alt="China warns students 'beautiful women, handsome guys' could lure them into spying" title="China warns students 'beautiful women, handsome guys' could lure them into spying" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gyro_Armadillo"> /u/Gyro_Armadillo </a> <br/> <span><a href="https://www.yahoo.com/news/china-warns-students-beautiful-women-100047363.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAEWmZTntlhhpO72fgVSe4jpa8jcAMmx55A8GtfYZNuifsD4jkK5UGmSuMAtO77nFyEXArDt9fDdG5Hye2-JfEF2PXYwC6EST1lPUScrAqeHVbO8A2VIrLXq-8uJ04KSV-ESJbr7rdkXQnIYX6SDDQgsjz0Chz0oHGJmr_o-mT_Qi">[link]</a></span> &#32; <span><a 
+
+## Russia built a secret trade channel with India, leaked documents show
+ - [https://www.reddit.com/r/worldnews/comments/1f8v2td/russia_built_a_secret_trade_channel_with_india](https://www.reddit.com/r/worldnews/comments/1f8v2td/russia_built_a_secret_trade_channel_with_india)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T14:42:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8v2td/russia_built_a_secret_trade_channel_with_india/"> <img src="https://external-preview.redd.it/NMqqnbxc5f5bTN8Ut4PhWsqsKWbYeBWx6TAuadkoFqI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01da0673fcfc15eca2ac77d90467d3d905aba5bf" alt="Russia built a secret trade channel with India, leaked documents show" title="Russia built a secret trade channel with India, leaked documents show" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/demigodcyborg"> /u/demigodcyborg </a> <br/> <span><a href="https://www.businessinsider.com/russia-india-payment-issues-us-west-sanctions-rupees-ukraine-war-2024-9?international=true&amp;r=US&amp;IR=T">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8v2td/russia_built_a_secret_trade_channel_with_india/">[comments]</a></span> </td></tr></table>
+
+## The World Once Tried to Stop a Genocide in Sudan. Now It Looks Away
+ - [https://www.reddit.com/r/worldnews/comments/1f8v1a1/the_world_once_tried_to_stop_a_genocide_in_sudan](https://www.reddit.com/r/worldnews/comments/1f8v1a1/the_world_once_tried_to_stop_a_genocide_in_sudan)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T14:40:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8v1a1/the_world_once_tried_to_stop_a_genocide_in_sudan/"> <img src="https://external-preview.redd.it/qUtn9q96IE-749knkK40JGSkIXAD64xshOYzOW6XICc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7de00c1ad0ad1d84c05016b2e0d04c674cd98d38" alt="The World Once Tried to Stop a Genocide in Sudan. Now It Looks Away" title="The World Once Tried to Stop a Genocide in Sudan. Now It Looks Away" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OregonTripleBeam"> /u/OregonTripleBeam </a> <br/> <span><a href="https://time.com/7017127/sudan-darfur-crisis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8v1a1/the_world_once_tried_to_stop_a_genocide_in_sudan/">[comments]</a></span> </td></tr></table>
+
+## A small asteroid is about to hit Earth east of the Philippines
+ - [https://www.reddit.com/r/worldnews/comments/1f8uqcc/a_small_asteroid_is_about_to_hit_earth_east_of](https://www.reddit.com/r/worldnews/comments/1f8uqcc/a_small_asteroid_is_about_to_hit_earth_east_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T14:27:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8uqcc/a_small_asteroid_is_about_to_hit_earth_east_of/"> <img src="https://external-preview.redd.it/dTxBaJEi9bYxB4pvimAd4A9-phsFwGHzDEblGpMICEg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f660b5cb6b84f80cf756be88f6211f12b6cb9ab" alt="A small asteroid is about to hit Earth east of the Philippines " title="A small asteroid is about to hit Earth east of the Philippines " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dead_planets_society"> /u/dead_planets_society </a> <br/> <span><a href="https://www.newscientist.com/article/2446397-an-asteroid-is-about-to-hit-earth-but-dont-worry-it-is-only-small/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8uqcc/a_small_asteroid_is_about_to_hit_earth_east_of/">[comments]</a></span> </td></tr></table>
+
+## Beluga whale alleged to be Russian ‘spy’ was shot, animal rights groups say
+ - [https://www.reddit.com/r/worldnews/comments/1f8uic4/beluga_whale_alleged_to_be_russian_spy_was_shot](https://www.reddit.com/r/worldnews/comments/1f8uic4/beluga_whale_alleged_to_be_russian_spy_was_shot)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T14:18:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8uic4/beluga_whale_alleged_to_be_russian_spy_was_shot/"> <img src="https://external-preview.redd.it/GcpBQuwnw7E_sOHF6kPP5g1q1JhC2QUn2DbPpZArkao.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=705a22752f0d1377ebe9ad58ae6c2de483b086c6" alt="Beluga whale alleged to be Russian ‘spy’ was shot, animal rights groups say" title="Beluga whale alleged to be Russian ‘spy’ was shot, animal rights groups say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Afraid_Ad8438"> /u/Afraid_Ad8438 </a> <br/> <span><a href="https://www.theguardian.com/world/article/2024/sep/04/beluga-whale-alleged-to-be-russian-spy-was-shot-animal-rights-groups-say?CMP=Share_iOSApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8uic4/beluga_whale_alleged_to_be_russian_spy_was_shot/">[comments]</a></span> </td></tr></table>
+
+## EU criticizes Mongolia for failing to arrest Putin during visit
+ - [https://www.reddit.com/r/worldnews/comments/1f8u7u2/eu_criticizes_mongolia_for_failing_to_arrest](https://www.reddit.com/r/worldnews/comments/1f8u7u2/eu_criticizes_mongolia_for_failing_to_arrest)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T14:06:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8u7u2/eu_criticizes_mongolia_for_failing_to_arrest/"> <img src="https://external-preview.redd.it/9mgHUXdECWxjux3T29qR-LRgdK8mDA1ve-B9K8h5Qgs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c7c92b879d82cff0c3c3096b3c536028f971583" alt="EU criticizes Mongolia for failing to arrest Putin during visit" title="EU criticizes Mongolia for failing to arrest Putin during visit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BubsyFanboy"> /u/BubsyFanboy </a> <br/> <span><a href="https://www.polskieradio.pl/395/9766/Artykul/3421240,eu-criticizes-mongolia-for-failing-to-arrest-putin-during-visit">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8u7u2/eu_criticizes_mongolia_for_failing_to_arrest/">[comments]</a></span> </td></tr></table>
+
+## After Putin dodges arrest in Mongolia, the Kremlin says no one can hold Russia back
+ - [https://www.reddit.com/r/worldnews/comments/1f8tvh6/after_putin_dodges_arrest_in_mongolia_the_kremlin](https://www.reddit.com/r/worldnews/comments/1f8tvh6/after_putin_dodges_arrest_in_mongolia_the_kremlin)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T13:52:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8tvh6/after_putin_dodges_arrest_in_mongolia_the_kremlin/"> <img src="https://external-preview.redd.it/WlR4nBCB3AF2C0kxIkxIt0eY-dIZRPQQ7ZLjZykePW4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f07853dd05e8de4dc76326fb029f3bb7e04d91ff" alt="After Putin dodges arrest in Mongolia, the Kremlin says no one can hold Russia back" title="After Putin dodges arrest in Mongolia, the Kremlin says no one can hold Russia back" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Big-Heron4763"> /u/Big-Heron4763 </a> <br/> <span><a href="https://www.cnbc.com/2024/09/04/putin-dodges-arrest-warrant-in-mongolia-the-kremlin-touts-its-triumph.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8tvh6/after_putin_dodges_arrest_in_mongolia_the_kremlin/">[comments]</a></span> </td></tr></table>
+
+## Mongolia explained why it didn't arrest Putin when he visited
+ - [https://www.reddit.com/r/worldnews/comments/1f8t0cz/mongolia_explained_why_it_didnt_arrest_putin_when](https://www.reddit.com/r/worldnews/comments/1f8t0cz/mongolia_explained_why_it_didnt_arrest_putin_when)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T13:13:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8t0cz/mongolia_explained_why_it_didnt_arrest_putin_when/"> <img src="https://external-preview.redd.it/4kcFKUJuf-ZcvTEz1mW0U-1EyuYzn_nEQ9yMHzhVrjw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f03f849a45261e63a303dfccfc8fd24084b90bb" alt="Mongolia explained why it didn't arrest Putin when he visited" title="Mongolia explained why it didn't arrest Putin when he visited" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://www.businessinsider.com/mongolia-explained-oil-why-didnt-arrest-putin-2024-9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8t0cz/mongolia_explained_why_it_didnt_arrest_putin_when/">[comments]</a></span> </td></tr></table>
+
+## Swiss government approves draft law to ban Hamas
+ - [https://www.reddit.com/r/worldnews/comments/1f8sut3/swiss_government_approves_draft_law_to_ban_hamas](https://www.reddit.com/r/worldnews/comments/1f8sut3/swiss_government_approves_draft_law_to_ban_hamas)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T13:06:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Discussion6913"> /u/No_Discussion6913 </a> <br/> <span><a href="https://m.jpost.com/breaking-news/article-818713https://m.jpost.com/breaking-news/article-818713">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8sut3/swiss_government_approves_draft_law_to_ban_hamas/">[comments]</a></span>
+
+## US ‘warned Britain privately’ against suspending arms sales
+ - [https://www.reddit.com/r/worldnews/comments/1f8s52b/us_warned_britain_privately_against_suspending](https://www.reddit.com/r/worldnews/comments/1f8s52b/us_warned_britain_privately_against_suspending)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T12:33:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8s52b/us_warned_britain_privately_against_suspending/"> <img src="https://external-preview.redd.it/AzWUbTooh4_pyOQlsJWPyj2R-BPHUqwewcJ0ETL6A5E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed364988c4a1a8823a5786720ad9884ad7ff65dd" alt="US ‘warned Britain privately’ against suspending arms sales" title="US ‘warned Britain privately’ against suspending arms sales" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br/> <span><a href="https://www.thejc.com/news/usa/us-warned-britain-privately-against-suspending-arms-sales-wroir3cu">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8s52b/us_warned_britain_privately_against_suspending/">[comments]</a></span> </td></tr></table>
+
+## Kyiv Suspends Chief of Unmanned Systems Amid Allegations of Treason and Russian Ties
+ - [https://www.reddit.com/r/worldnews/comments/1f8rpv6/kyiv_suspends_chief_of_unmanned_systems_amid](https://www.reddit.com/r/worldnews/comments/1f8rpv6/kyiv_suspends_chief_of_unmanned_systems_amid)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T12:13:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8rpv6/kyiv_suspends_chief_of_unmanned_systems_amid/"> <img src="https://external-preview.redd.it/bxKirBtp8yfGsbM2P7qZPdQ9XXfS0FUATw7Q_wrVMWI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57aee02815c15bed9c6577543b5376ee1473bc48" alt="Kyiv Suspends Chief of Unmanned Systems Amid Allegations of Treason and Russian Ties" title="Kyiv Suspends Chief of Unmanned Systems Amid Allegations of Treason and Russian Ties" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Consistent-Bat-20"> /u/Consistent-Bat-20 </a> <br/> <span><a href="https://www.kyivpost.com/post/38445">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8rpv6/kyiv_suspends_chief_of_unmanned_systems_amid/">[comments]</a></span> </td></tr></table>
+
+## Journalists confirm Putin has two secret sons with Alina Kabaeva
+ - [https://www.reddit.com/r/worldnews/comments/1f8rjfz/journalists_confirm_putin_has_two_secret_sons](https://www.reddit.com/r/worldnews/comments/1f8rjfz/journalists_confirm_putin_has_two_secret_sons)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T12:04:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://english.nv.ua/nation/journalists-reveal-putin-s-secret-sons-with-alina-kabaeva-born-in-2015-and-2019-50448250.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8rjfz/journalists_confirm_putin_has_two_secret_sons/">[comments]</a></span>
+
+## Australia 'very concerned' over Iran's summoning of ambassador over pro-LGBTIQ+ post
+ - [https://www.reddit.com/r/worldnews/comments/1f8quuo/australia_very_concerned_over_irans_summoning_of](https://www.reddit.com/r/worldnews/comments/1f8quuo/australia_very_concerned_over_irans_summoning_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T11:28:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8quuo/australia_very_concerned_over_irans_summoning_of/"> <img src="https://external-preview.redd.it/MYf01EB4eEaZU4pm3FBlha3zxmuLjel8gIGvMNYeV3s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a90102a21c561b7e7bfce91627821151b1c9a7d9" alt="Australia 'very concerned' over Iran's summoning of ambassador over pro-LGBTIQ+ post" title="Australia 'very concerned' over Iran's summoning of ambassador over pro-LGBTIQ+ post" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/javelin3000"> /u/javelin3000 </a> <br/> <span><a href="https://www.sbs.com.au/news/article/australia-very-concerned-over-irans-summoning-of-ambassador-over-pro-lgbtiq-post/ghhicfsxo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8quuo/australia_very_concerned_over_irans_summoning_of/">[comments]</a></span> </td></tr></table>
+
+## Several kilos of explosives stolen from Swiss Federal Railways
+ - [https://www.reddit.com/r/worldnews/comments/1f8qc2u/several_kilos_of_explosives_stolen_from_swiss](https://www.reddit.com/r/worldnews/comments/1f8qc2u/several_kilos_of_explosives_stolen_from_swiss)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T10:59:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8qc2u/several_kilos_of_explosives_stolen_from_swiss/"> <img src="https://external-preview.redd.it/Y0QcpAIRkEoNa2PMvW1g2CsJipXzs-hH6PKut6BhryM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ea6f8db34ecb1976b4182caeabc9e0a4d7a118a" alt="Several kilos of explosives stolen from Swiss Federal Railways" title="Several kilos of explosives stolen from Swiss Federal Railways" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BezugssystemCH1903"> /u/BezugssystemCH1903 </a> <br/> <span><a href="https://www.swissinfo.ch/eng/various/several-kilos-of-explosives-stolen-from-swiss-federal-railways/87488758?utm_source=multiple&amp;utm_medium=website&amp;utm_campaign=news_en&amp;utm_content=o&amp;utm_term=wpblock_highlighted-compact-news-carousel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8qc2u/several_kilos_of_explosives_stolen_from_swiss/">[comments]</a><
+
+## Grenfell Tower fire: UK inquiry blames avoidable deaths on incompetence and greed
+ - [https://www.reddit.com/r/worldnews/comments/1f8q8io/grenfell_tower_fire_uk_inquiry_blames_avoidable](https://www.reddit.com/r/worldnews/comments/1f8q8io/grenfell_tower_fire_uk_inquiry_blames_avoidable)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T10:53:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Hob-999"> /u/Hob-999 </a> <br/> <span><a href="https://www.reuters.com/world/uk/grenfell-tower-report-detail-what-led-deadly-2017-london-blaze-2024-09-03/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8q8io/grenfell_tower_fire_uk_inquiry_blames_avoidable/">[comments]</a></span>
+
+## Turkey applies to be first Nato member to join Russia’s G7 rival
+ - [https://www.reddit.com/r/worldnews/comments/1f8q7pq/turkey_applies_to_be_first_nato_member_to_join](https://www.reddit.com/r/worldnews/comments/1f8q7pq/turkey_applies_to_be_first_nato_member_to_join)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T10:51:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8q7pq/turkey_applies_to_be_first_nato_member_to_join/"> <img src="https://external-preview.redd.it/RWB08F3RpEItGd6TPwrzAQ3nZCDamhW_LopRpK7IRg4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db64a55a35d623da42b431fb58cc1bbee75146a3" alt="Turkey applies to be first Nato member to join Russia’s G7 rival" title="Turkey applies to be first Nato member to join Russia’s G7 rival" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2024/09/04/turkey-nato-russia-g7-brics-rival-china-us/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8q7pq/turkey_applies_to_be_first_nato_member_to_join/">[comments]</a></span> </td></tr></table>
+
+## Putin arrives in Vladivostok after using Mongolia visit to demonstrate impunity
+ - [https://www.reddit.com/r/worldnews/comments/1f8pmyt/putin_arrives_in_vladivostok_after_using_mongolia](https://www.reddit.com/r/worldnews/comments/1f8pmyt/putin_arrives_in_vladivostok_after_using_mongolia)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T10:15:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8pmyt/putin_arrives_in_vladivostok_after_using_mongolia/"> <img src="https://external-preview.redd.it/tPL8oiKCfOBPl7KtvzOAbuJ-R6GDWXza5wv64gJVTIQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=236f4a832b450022bd413e551d382fee03ad6982" alt="Putin arrives in Vladivostok after using Mongolia visit to demonstrate impunity" title="Putin arrives in Vladivostok after using Mongolia visit to demonstrate impunity" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2024/09/04/putin-arrives-in-vladivostok-after-using-mongolia-visit-to-demonstrate-impunity-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8pmyt/putin_arrives_in_vladivostok_after_using_mongolia/">[comments]</a></span> </td></tr></table>
+
+## Kim Jong Un Executes Officials After Deadly Floods, Media Says
+ - [https://www.reddit.com/r/worldnews/comments/1f8ovko/kim_jong_un_executes_officials_after_deadly](https://www.reddit.com/r/worldnews/comments/1f8ovko/kim_jong_un_executes_officials_after_deadly)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T09:23:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8ovko/kim_jong_un_executes_officials_after_deadly/"> <img src="https://external-preview.redd.it/m4zLddhJ6CXjBainxGp5Zf2wDUtdL2WkR3SLQ4Ag1uE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76b5851c583d0aeca0bd1cc4d70afe9f06857ce6" alt="Kim Jong Un Executes Officials After Deadly Floods, Media Says" title="Kim Jong Un Executes Officials After Deadly Floods, Media Says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2024-09-04/kim-jong-un-executes-officials-after-deadly-floods-media-says">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8ovko/kim_jong_un_executes_officials_after_deadly/">[comments]</a></span> </td></tr></table>
+
+## The Secret Lives of Vladimir Putin’s Sons
+ - [https://www.reddit.com/r/worldnews/comments/1f8o097/the_secret_lives_of_vladimir_putins_sons](https://www.reddit.com/r/worldnews/comments/1f8o097/the_secret_lives_of_vladimir_putins_sons)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T08:21:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8o097/the_secret_lives_of_vladimir_putins_sons/"> <img src="https://external-preview.redd.it/f-HLrieLiB9ZFx9m3oSiVO_bTx55oJjYgOCPA3YC-Go.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1111be2aa239dff30ae9e5022425fb2042e1b140" alt="The Secret Lives of Vladimir Putin’s Sons" title="The Secret Lives of Vladimir Putin’s Sons" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/confetas"> /u/confetas </a> <br/> <span><a href="https://dossier.center/succession-en/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8o097/the_secret_lives_of_vladimir_putins_sons/">[comments]</a></span> </td></tr></table>
+
+## Romanian Senate approves transfer of Patriot system to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1f8ngco/romanian_senate_approves_transfer_of_patriot](https://www.reddit.com/r/worldnews/comments/1f8ngco/romanian_senate_approves_transfer_of_patriot)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T07:40:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8ngco/romanian_senate_approves_transfer_of_patriot/"> <img src="https://external-preview.redd.it/pSxYBGhznFo2VZn7uATIXZAt9xTVYLxNTQbHr7xCzeA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=accae0802ac7fb21672063983d461f442ee36c82" alt="Romanian Senate approves transfer of Patriot system to Ukraine" title="Romanian Senate approves transfer of Patriot system to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/murphystruggles"> /u/murphystruggles </a> <br/> <span><a href="https://gwaramedia.com/en/romanian-senate-approves-transfer-of-patriot-system-to-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8ngco/romanian_senate_approves_transfer_of_patriot/">[comments]</a></span> </td></tr></table>
+
+## North Korea executes around 30 govt officials after deadly floods and landslides: Report
+ - [https://www.reddit.com/r/worldnews/comments/1f8myqx/north_korea_executes_around_30_govt_officials](https://www.reddit.com/r/worldnews/comments/1f8myqx/north_korea_executes_around_30_govt_officials)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T07:04:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8myqx/north_korea_executes_around_30_govt_officials/"> <img src="https://external-preview.redd.it/eTVqrh--LLk013Sod1jNBczHZubLKsQWilAMG6fny4E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dde6d9f1a8cfeeea2ea4b80ca2267fc8d54dd69d" alt="North Korea executes around 30 govt officials after deadly floods and landslides: Report" title="North Korea executes around 30 govt officials after deadly floods and landslides: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pritom984"> /u/pritom984 </a> <br/> <span><a href="https://www.hindustantimes.com/world-news/north-korea-executed-around-30-government-officials-after-deadly-floods-kim-jong-un-101725417374071.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8myqx/north_korea_executes_around_30_govt_officials/">[comments]</a></span> </td></tr></table>
+
+## Iraqi women fear rise in child marriages as lawmakers consider giving conservative clerics more say
+ - [https://www.reddit.com/r/worldnews/comments/1f8mylm/iraqi_women_fear_rise_in_child_marriages_as](https://www.reddit.com/r/worldnews/comments/1f8mylm/iraqi_women_fear_rise_in_child_marriages_as)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T07:03:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8mylm/iraqi_women_fear_rise_in_child_marriages_as/"> <img src="https://external-preview.redd.it/nxbw6oR3vkk_MNspLNrG5dlqDDGSG__ryWDFwTqsy7Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b03c6b71bc37d2f16e072afe7ba60b709ac23b27" alt="Iraqi women fear rise in child marriages as lawmakers consider giving conservative clerics more say" title="Iraqi women fear rise in child marriages as lawmakers consider giving conservative clerics more say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pritom984"> /u/pritom984 </a> <br/> <span><a href="https://apnews.com/article/iraq-child-marriage-shiite-clerics-parliament-amendment-ed4b3d3bc5d8cf25f46e23fb6ed09d91">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8mylm/iraqi_women_fear_rise_in_child_marriages_as/">[comments]</a></span> </td></tr></table>
+
+## Seven dead in Lviv in fresh wave of strikes on Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1f8mmi2/seven_dead_in_lviv_in_fresh_wave_of_strikes_on](https://www.reddit.com/r/worldnews/comments/1f8mmi2/seven_dead_in_lviv_in_fresh_wave_of_strikes_on)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T06:39:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8mmi2/seven_dead_in_lviv_in_fresh_wave_of_strikes_on/"> <img src="https://external-preview.redd.it/vRw57u0L4vZUxvrXP3JmTLo7-wzm_pS0GS555xOiObA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=883a9b59808d0fe601b0535f548c38bae54d4ec9" alt="Seven dead in Lviv in fresh wave of strikes on Ukraine" title="Seven dead in Lviv in fresh wave of strikes on Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WizTalon"> /u/WizTalon </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/cpqj35jv3e7o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8mmi2/seven_dead_in_lviv_in_fresh_wave_of_strikes_on/">[comments]</a></span> </td></tr></table>
+
+## Sanctioned Russian oligarchs take stake in largest UK oil firm
+ - [https://www.reddit.com/r/worldnews/comments/1f8mhk2/sanctioned_russian_oligarchs_take_stake_in](https://www.reddit.com/r/worldnews/comments/1f8mhk2/sanctioned_russian_oligarchs_take_stake_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T06:29:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8mhk2/sanctioned_russian_oligarchs_take_stake_in/"> <img src="https://external-preview.redd.it/n4vpDsgX0nNtlfOcPPfGA8MkmMBalpqICcYD_8HgzH0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a4d15b209fd0a8e8d7f29e0657f5eba8a85d991" alt="Sanctioned Russian oligarchs take stake in largest UK oil firm" title="Sanctioned Russian oligarchs take stake in largest UK oil firm" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KirkGlobalWitness"> /u/KirkGlobalWitness </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/c4gdywpe1qpo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8mhk2/sanctioned_russian_oligarchs_take_stake_in/">[comments]</a></span> </td></tr></table>
+
+## Casualties reported in Lviv as Russia launches another mass attack on Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1f8lt31/casualties_reported_in_lviv_as_russia_launches](https://www.reddit.com/r/worldnews/comments/1f8lt31/casualties_reported_in_lviv_as_russia_launches)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T05:44:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8lt31/casualties_reported_in_lviv_as_russia_launches/"> <img src="https://external-preview.redd.it/0WpPrhrNWo2JfUCAtOs90-904MeSMETYSZ-nDldquAA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa8b388d1dd2fcffcde791b0e1226964776ba309" alt="Casualties reported in Lviv as Russia launches another mass attack on Ukraine" title="Casualties reported in Lviv as Russia launches another mass attack on Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Street-Definition323"> /u/Street-Definition323 </a> <br/> <span><a href="https://kyivindependent.com/russias-attack-on-lviv/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8lt31/casualties_reported_in_lviv_as_russia_launches/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 923, Part 1 (Thread #1070)
+ - [https://www.reddit.com/r/worldnews/comments/1f8k3xc/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1f8k3xc/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T04:02:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8k3xc/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 923, Part 1 (Thread #1070)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 923, Part 1 (Thread #1070)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8k3xc/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Deadliest Russian airstrike this year leaves at least 50 dead in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1f8il12/deadliest_russian_airstrike_this_year_leaves_at](https://www.reddit.com/r/worldnews/comments/1f8il12/deadliest_russian_airstrike_this_year_leaves_at)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T02:43:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8il12/deadliest_russian_airstrike_this_year_leaves_at/"> <img src="https://external-preview.redd.it/wSeIYCX8s9rQQj-i_LGIkDIzQKB_t_bmk9glw09UiIw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14ffd925d7d9e03d2e432d62ad4d9bb8117c0af7" alt="Deadliest Russian airstrike this year leaves at least 50 dead in Ukraine" title="Deadliest Russian airstrike this year leaves at least 50 dead in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://www.businessinsider.com/ukraine-russia-ballistic-missiles-deadliest-attack-poltava-school-2024-9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8il12/deadliest_russian_airstrike_this_year_leaves_at/">[comments]</a></span> </td></tr></table>
+
+## Beloved 'Russian spy whale' Hvaldimir is found dead under mysterious circumstances
+ - [https://www.reddit.com/r/worldnews/comments/1f8ible/beloved_russian_spy_whale_hvaldimir_is_found_dead](https://www.reddit.com/r/worldnews/comments/1f8ible/beloved_russian_spy_whale_hvaldimir_is_found_dead)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T02:30:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8ible/beloved_russian_spy_whale_hvaldimir_is_found_dead/"> <img src="https://external-preview.redd.it/G0ziWht0Dc2fBKVVIN3ASaCsaSvPmPwmFwKmVCT04fU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=045f92343e5bbeee38835db5d848fa29bde1c5bd" alt="Beloved 'Russian spy whale' Hvaldimir is found dead under mysterious circumstances" title="Beloved 'Russian spy whale' Hvaldimir is found dead under mysterious circumstances" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FrankySobotka"> /u/FrankySobotka </a> <br/> <span><a href="https://www.npr.org/2024/09/03/nx-s1-5098968/hvaldimir-russian-spy-beluga-whale-dead">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8ible/beloved_russian_spy_whale_hvaldimir_is_found_dead/">[comments]</a></span> </td></tr></table>
+
+## Massive terror tunnel destroyed in northern Gaza Strip - i24NEWS
+ - [https://www.reddit.com/r/worldnews/comments/1f8h91z/massive_terror_tunnel_destroyed_in_northern_gaza](https://www.reddit.com/r/worldnews/comments/1f8h91z/massive_terror_tunnel_destroyed_in_northern_gaza)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T01:38:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8h91z/massive_terror_tunnel_destroyed_in_northern_gaza/"> <img src="https://external-preview.redd.it/UjYKeSbdDYWOdAWcinxBFiHtJ0l0SCv_LNvl6ZY29Os.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87c3f9fdca85ab3c5d83e07edb23680ebd593039" alt="Massive terror tunnel destroyed in northern Gaza Strip - i24NEWS" title="Massive terror tunnel destroyed in northern Gaza Strip - i24NEWS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br/> <span><a href="https://www.i24news.tv/en/news/israel-at-war/artc-massive-terror-tunnel-destroyed-in-northern-gaza-strip">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8h91z/massive_terror_tunnel_destroyed_in_northern_gaza/">[comments]</a></span> </td></tr></table>
+
+## Former aide to New York governors charged with acting as an agent of the Chinese government
+ - [https://www.reddit.com/r/worldnews/comments/1f8fz8s/former_aide_to_new_york_governors_charged_with](https://www.reddit.com/r/worldnews/comments/1f8fz8s/former_aide_to_new_york_governors_charged_with)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T00:38:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8fz8s/former_aide_to_new_york_governors_charged_with/"> <img src="https://external-preview.redd.it/uwq2iZuYvX6gpv5O7d5SPpODRkTyrBycKh6N1bY2Jmk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46abf43937edb04de3448c06fa3355f80e8751f5" alt="Former aide to New York governors charged with acting as an agent of the Chinese government" title="Former aide to New York governors charged with acting as an agent of the Chinese government" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jealous_Tennis522"> /u/Jealous_Tennis522 </a> <br/> <span><a href="https://www.cnn.com/2024/09/03/us/linda-sun-former-hochul-staff-arrest/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8fz8s/former_aide_to_new_york_governors_charged_with/">[comments]</a></span> </td></tr></table>
+
+## Russian missiles blast Ukrainian military academy and hospital, killing more than 50, officials say
+ - [https://www.reddit.com/r/worldnews/comments/1f8f91a/russian_missiles_blast_ukrainian_military_academy](https://www.reddit.com/r/worldnews/comments/1f8f91a/russian_missiles_blast_ukrainian_military_academy)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-04T00:05:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1f8f91a/russian_missiles_blast_ukrainian_military_academy/"> <img src="https://external-preview.redd.it/SdXxkiKJKZBtKvA16hteDk8Pz-awyWMlyThskWgsy-s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42718d84ddaee36df0ec34182429e2b62e31855b" alt="Russian missiles blast Ukrainian military academy and hospital, killing more than 50, officials say" title="Russian missiles blast Ukrainian military academy and hospital, killing more than 50, officials say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/G24all2read"> /u/G24all2read </a> <br/> <span><a href="https://apnews.com/article/russia-ukraine-war-missile-strike-poltava-region-a53f1a4500ef52e4bf8217ee0e8bca84">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1f8f91a/russian_missiles_blast_ukrainian_military_academy/">[comments]</a></span> </td></tr></table>
+

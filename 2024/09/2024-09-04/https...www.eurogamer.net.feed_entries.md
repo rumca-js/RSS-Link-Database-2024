@@ -1,0 +1,154 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Helldivers 2's long-awaited third enemy faction briefly appears on in-game map
+ - [https://www.eurogamer.net/helldivers-2s-long-awaited-third-enemy-faction-briefly-appears-on-in-game-map](https://www.eurogamer.net/helldivers-2s-long-awaited-third-enemy-faction-briefly-appears-on-in-game-map)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T22:04:28+00:00
+
+<img src="https://assetsio.gnwcdn.com/Helldivers-2-art.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Helldiver 2's long-awaited third enemy faction, the Illuminate - previously seen in <a data-keyword="true" href="https://www.eurogamer.net/games/helldivers">Helldivers</a> 1, but still conspicuously absent from its sequel - has briefly appeared in-game. Which hasn't stopped developer <a data-keyword="true" href="https://www.eurogamer.net/companies/arrowhead-game-studios">Arrowhead Game Studios</a> from declaring the incident to be "fake news".
+</p><p>
+Players began <a href="https://www.reddit.com/r/Helldivers/comments/1f8ql19/illuminate_on_map/">reporting</a> strange sightings across <a data-keyword="true" href="https://www.eurogamer.net/helldivers-2-review">Helldivers 2</a>'s Galactic War map (thanks <a href="https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-get-all-wound-up-as-galactic-map-briefly-reveals-the-presence-of-the-illum
+
+## Ex-Fable devs who announced and shelved a game on same day return with sci-fi auto battler Konfronto
+ - [https://www.eurogamer.net/ex-fable-devs-who-announced-and-shelved-a-game-on-same-day-return-with-sci-fi-auto-battler-konfronto](https://www.eurogamer.net/ex-fable-devs-who-announced-and-shelved-a-game-on-same-day-return-with-sci-fi-auto-battler-konfronto)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T20:52:09+00:00
+
+<img src="https://assetsio.gnwcdn.com/konfronto-crop.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Flaming Fowl Studios - the developer that announced then shelved a game on the same day back in April amid financial difficulties - has unveiled its latest project, a comedic sci-fi auto battler called Konfronto that's due to release on PC later this year.
+</p><p>
+Flaming Fowl, which was founded in 2016 by former members of original Fable developer Lionhead Studios, first made a name for itself with the release of card battle <a data-keyword="true" href="https://www.eurogamer.net/games/fable-fortune">Fable Fortune</a>, but it's perhaps known for its acclaimed digital adaptation of popular board game Gloomhaven.
+</p><p>
+The studio's third release, a co-op RPG with turn-based combat called Ironmarked, was <a href="https://www.eurogamer.net/ex-lionhead-devs-announce-new-game-shelve-new-game-and-confirm-layoffs-all-at-the-same-time">revealed back in April</a>,
+
+## Here's how Dragon Age: The Veilguard's Rook and companion progression work
+ - [https://www.eurogamer.net/dragon-age-the-veilguards-rook-and-companion-progression-systems-detailed](https://www.eurogamer.net/dragon-age-the-veilguards-rook-and-companion-progression-systems-detailed)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T18:31:39+00:00
+
+<img src="https://assetsio.gnwcdn.com/dragon-age-veilguard-crop.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+With <a data-keyword="true" href="https://www.eurogamer.net/whisper-it-but-dragon-age-the-veilguard-has-me-thinking-the-unthinkable-it-looks-like-bioware-is-back">Dragon Age: The Veilguard</a>'s October release looming, BioWare is starting to discuss the finer details of its latest fantasy RPG. And its newest deep-dive provides a look at how progression will work for protagonist Rook and the companions they'll meet along the way.
+</p><p>
+Rook's progression systems won't, it has to be said, be much of a surprise to anyone that's had even the faintest brush with a video game in the last decade. Players do stuff, earn XP, gain a new Skill Point each level, then spend them to unlock new abilities on a skill tree.
+</p><p>
+BioWare's <a href="https://www.ea.com/games/dragon-age/dragon-age-the-veilguard/news/combat-and-progression">latest blog post</a> 
+
+## Warhammer 40,000: Space Marine 2 review - a thunderous triple-A spectacle that's truly electric in co-op
+ - [https://www.eurogamer.net/warhammer-40000-space-marine-2-review](https://www.eurogamer.net/warhammer-40000-space-marine-2-review)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T16:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/space-marine-2-headline-miasto.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>I've always been wary of people who say about a game "It's better when you play it in co-op" because virtually every activity is improved by the presence of friends. Cleaning the sink is more fun when you've got one to three pals monkeying around in the kitchen with you, tossing you extra sponge-scourers and reviving you when you faint because of the <em>thing </em>you just pulled out of the plughole.</p><p>Space Marine 2, however, really is better in coop, and not just because your mate Dan keeps making jokes about 'Krak grenades' being the product of eating too many beans. Not only is its campaign elevated with the presence of player companions, Space Marine 2's real heart lies in what comes after the story has finished &ndash; its chaotic, class-based, <a data-keyword="true" href="https://www.eurogamer.net/games/left-4-dead">Left 4 Dead</
+
+## Acer reveal gamepad-spawning laptop, PC handheld, 600Hz monitor at IFA 2024
+ - [https://www.eurogamer.net/digitalfoundrey-2024-acer-reveal-gamepad-spawning-laptop-gaming-handheld-and-600hz-monitor-at-ifa-2024](https://www.eurogamer.net/digitalfoundrey-2024-acer-reveal-gamepad-spawning-laptop-gaming-handheld-and-600hz-monitor-at-ifa-2024)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T15:47:29+00:00
+
+<img src="https://assetsio.gnwcdn.com/project_mIomUgU.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Acer announced a raft of new devices at its NextAtAcer event in Berlin today, including a bunch of AI laptops powered by <a href="https://www.eurogamer.net/digitalfoundry-2024-intel-lunar-lake-core-ultra-200v-laptop-chips-are-faster-more-efficient-and-powerful-enough-for-rt-gaming">Intel Lunar Lake</a>, AMD Strix Point and Qualcomm Snapdragon X processors, but I want to focus on the gaming stuff. There's a protoype gaming laptop with built-in gamepad, the <strong>Predator Project DualPlay</strong>, an AMD-powered gaming handheld, the <strong>Nitro Blaze 7</strong>, and a 600Hz gaming monitor, the <strong>Nitro XV240 F6</strong>. </p><p>Let's start with the one that's the most fun. The Predator Project DualPlay looks like a fairly standard chonky gaming laptop, but you can press two buttons below the screen to pop out the trackpad, revealing a full-size con
+
+## GAME acknowledges website issues as customers await missing pre-orders
+ - [https://www.eurogamer.net/game-acknowledges-website-issues-as-customers-await-missing-pre-orders](https://www.eurogamer.net/game-acknowledges-website-issues-as-customers-await-missing-pre-orders)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T14:01:23+00:00
+
+<img src="https://assetsio.gnwcdn.com/Game-Store.webp?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+UK high street chain GAME has acknowledged customers awaiting pre-orders are currently facing "issues" accessing their accounts online, as they wait for delayed deliveries to arrive. 
+</p><p>
+GAME customers with items they had pre-ordered and already paid for told Eurogamer they had received no advance notice of any issue, and have been unable to check the status of their orders online. The issues follow Eurogamer's reporting that <a href="https://www.eurogamer.net/game-to-end-in-store-pre-orders">GAME was ending in-store pre-orders</a>.
+</p><p>
+"The GAME website is currently undergoing upgrades, and as a result, we are aware that some customers are experiencing issues accessing their GAME accounts and order details," a spokesperson for parent company Frasers Group said. 
+</p> <p><a href="https://www.eurogamer.net/game-acknowledges-website-issues-as-customers
+
+## Starfield's Series S performance modes are worthwhile - but not as impactful as Series X equivalents
+ - [https://www.eurogamer.net/digitalfoundry-2024-starfields-series-s-performance-modes-are-worthwhile-but-not-as-impactful-as-series-x-equivalents](https://www.eurogamer.net/digitalfoundry-2024-starfields-series-s-performance-modes-are-worthwhile-but-not-as-impactful-as-series-x-equivalents)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T14:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/STARFIELD-SITE_Uqp8BnV.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p><a data-keyword="true" href="https://www.eurogamer.net/starfield-main-story-walkthrough-9352">Starfield</a>'s 30fps frame-rate target on consoles proved controversial at the game's launch, despite the game's impressive world complexity. That all changed in May of this year when the game was updated with support for 40fps, 60fps, and unlocked modes on Series X, though the performance level was understandably a little bit variable. Series S was left out in the cold, with players on Microsoft's pint-sized console still left with a 30fps visual option as their only choice. That changed with last week's major game update, finally giving the S the same visual options as the Series X, adding visuals and performance modes along with selectable frame-rate caps. So how close do these updated modes come to their Series X counterparts? Is this patch a win for S
+
+## Minecraft movie trailer gives first look at block stars Jason Momoa and Jack Black in action
+ - [https://www.eurogamer.net/minecraft-movie-trailer-gives-first-look-at-block-stars-jason-momoa-and-jack-black-in-action](https://www.eurogamer.net/minecraft-movie-trailer-gives-first-look-at-block-stars-jason-momoa-and-jack-black-in-action)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T13:41:59+00:00
+
+<img src="https://assetsio.gnwcdn.com/Jason-M-in-Minecraft-movie.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>If you, like me, have been wondering just how Warner Bros. Pictures and Legendary Pictures were going to approach a live-action Minecraft movie, I have good news for you. We now have our first good look at the upcoming adaptation, known simply as A Minecraft Movie, thanks to a new trailer.</p><p>The trailer, which you can see below, introduces us to Jason Momoa's Garrett "The Garbage Man" Garrison and <a href="https://www.eurogamer.net/jack-black-minecraft-movie-images-leak-days-after-tenacious-d-controversy">Jack Black's Steve</a>. There are also some cuboid sheep and Piglins marching around the place, because Minecraft.</p><p>In addition to Momoa and Black, the upcoming film also stars Wednesday's Emma Myers, Oscar nominee Danielle Brooks, Sebastian Eugene Hansen and Stifler's mum. I mean, Jennifer Coolidge, who has also starred in the likes o
+
+## No Man's Sky gets reel in new Aquarius fishing update
+ - [https://www.eurogamer.net/no-mans-sky-gets-reel-in-new-aquarius-fishing-update](https://www.eurogamer.net/no-mans-sky-gets-reel-in-new-aquarius-fishing-update)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T13:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/no-mans-sky-aquarius-crop.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+By now, I should really should know better than to expect the obvious where <a data-keyword="true" href="https://www.eurogamer.net/games/no-mans-sky">No Man's Sky</a> is concerned. And here we are again with a brand-new update, titled Aquarius, which this time adds - of all things - fishing to developer Hello Games' wonderful exploratory space sim.
+</p><p>
+Aquarius follows on <a href="https://www.eurogamer.net/no-mans-skys-borrows-some-of-light-no-fires-fancy-tech-for-a-planetary-overhaul-in-latest-update">July's behemoth Worlds Part 1 update</a>, which introduced a significant planetary refresh for No Man's Sky's vast universe. That overhaul included much-improved water effects - replacing the tinted cellophane look of yesteryear with proper dynamic waves - and players now have another excuse to relax and admire the aquatic beauty around them.
+
+
+## The Legend of Zelda: Echoes of Wisdom reinvents age-old gameplay, as the series finally changes its star
+ - [https://www.eurogamer.net/the-legend-of-zelda-echoes-of-wisdom-reinvents-age-old-gameplay-as-the-series-finally-changes-its-star](https://www.eurogamer.net/the-legend-of-zelda-echoes-of-wisdom-reinvents-age-old-gameplay-as-the-series-finally-changes-its-star)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T13:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/EoW_Still_World_Artwork.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>More than 35 years after the first Legend of Zelda, one of video gaming's most recognisable names will finally front an adventure of her own. Fans have clamoured to play as Zelda for years, of course, and yet Nintendo has previously resisted, keeping Link as the silent avatar of players' adventures.</p><p>That all changes in the upcoming <a data-keyword="true" href="https://www.eurogamer.net/games/the-legend-of-zelda-echoes-of-wisdom">The Legend of Zelda: Echoes of Wisdom</a> - the reveal of which this year was one of Nintendo's biggest surprises for some time. Why has it taken so long for Zelda to be the star? The answer, I think, lies in something I find even more remarkable than simply controlling the series' princess, and something which guarantees this isn't just another Zelda with an alternate silent hero - the game-changing Echo ability.</p>
+
+## Cyberpunk 2077 fans pledge $2m to make official board game happen
+ - [https://www.eurogamer.net/cyberpunk-2077-fans-pledge-2m-to-make-official-board-game-happen](https://www.eurogamer.net/cyberpunk-2077-fans-pledge-2m-to-make-official-board-game-happen)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T11:18:33+00:00
+
+<img src="https://assetsio.gnwcdn.com/Untitled-1_XsDCPBl.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+<a data-keyword="true" href="https://www.eurogamer.net/games/cyberpunk-2077">Cyberpunk 2077</a> fans have pledged more than $2m to ensure a new, official board game version of CD Projekt Red's role-playing game is made.
+</p><p>
+The crowdfunding campaign for Cyberpunk 2077 - The Board Game on <a href="https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game">GameFound</a> obliterated its initial $100k goal in just 10 minutes and four seconds. As of writing, almost &pound;2.1m has been pledged, and counting. 16 days of the campaign remain.
+</p><p>
+This tabletop version of Cyberpunk 2077 sees you taking on missions and follow branching, replayable stories as V, Panam, Jackie or Judy across Night City. It's been created by Game On Board, the company that previously made a couple of official The Witcher board games, with support from CD P
+
+## Humble Choice September bundle is here, with Marvel's Guardians of the Galaxy and more
+ - [https://www.eurogamer.net/humble-choice-september-bundle-is-here-with-marvels-guardians-of-the-galaxy-and-more](https://www.eurogamer.net/humble-choice-september-bundle-is-here-with-marvels-guardians-of-the-galaxy-and-more)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T11:16:45+00:00
+
+<img src="https://assetsio.gnwcdn.com/starlord-in-Guardians-of-the-Galaxy.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>The Humble team has detailed its September Choice bundle.</p><p>Humble Choice is a subscription service which offers a monthly set of PC games for its members to own forever.</p><p>This month, you can get you hands on the following titles as part of you Humble membership:</p> <p><a href="https://www.eurogamer.net/humble-choice-september-bundle-is-here-with-marvels-guardians-of-the-galaxy-and-more">Read more</a></p>
+
+## Nintendo reveals Mario & Luigi: Brothership setting of Concordia
+ - [https://www.eurogamer.net/nintendo-reveals-mario-luigi-brothership-setting-of-concordia](https://www.eurogamer.net/nintendo-reveals-mario-luigi-brothership-setting-of-concordia)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T10:31:26+00:00
+
+<img src="https://assetsio.gnwcdn.com/Mario-%26-Luigi_-Brothership-%E2%80%94-Greetings-from-Concordia!-%E2%80%94-Nintendo-Switch-0-26-screenshot.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Nintendo has revealed fresh details of its forthcoming RPG <a data-keyword="true" href="https://www.eurogamer.net/games/mario-and-luigi-brothership">Mario &amp; Luigi: Brothership</a>, including its setting: Concordia.</p><p>The game was <a href="https://www.eurogamer.net/mario-luigi-brothership-bringing-the-action-rpg-series-to-switch-this-year">announced at Nintendo's Direct in June</a>, marking the series' debut on Switch and latest game since <a data-keyword="true" href="https://www.eurogamer.net/games/mario-luigi-paper-jam-bros">Mario &amp; Luigi: Paper Jam</a> on the 3DS in 2015. It could potentially be the final Mario game on the console before the release of <a data-keyword="true" href="https://www.eurogamer.net/nintendo-switch-2-everything-we-know">Switch 2<
+
+## PlayStation's decision to kill Concord prompts industry sympathy
+ - [https://www.eurogamer.net/playstations-decision-to-kill-concord-prompts-industry-sympathy](https://www.eurogamer.net/playstations-decision-to-kill-concord-prompts-industry-sympathy)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T10:07:05+00:00
+
+<img src="https://assetsio.gnwcdn.com/Concord---Launch-Trailer-I-PS5-%26-PC-Games-0-41-screenshot.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>After PlayStation and Firewalk made the decision to pull Concord from sale two weeks after the hero-shooter made its debut, industry members have started to share their sympathies with the team involved.</p><p>Gears of War's Cliff "CliffyB" Bleszinski shared a short post on social media, reading: "Concord, I feel your pain."</p><p>Bleszinski previously set up Boss Key Productions, a <a href="https://www.eurogamer.net/cliff-bleszinski-announces-closure-of-lawbreakers-developer-boss-key">now defunct studio</a>, which released its own hero shooter, <a data-keyword="true" href="https://www.eurogamer.net/games/lawbreakers">LawBreakers</a>. Despite a big pre-release push by publisher Nexon, <a href="https://www.eurogamer.net/lawbreakers-developer-confirms-that-its-now-focussing-on-other-projects">LawBreakers flopped</a
+
+## Concord players are racing to reach max level before shutdown
+ - [https://www.eurogamer.net/concord-players-are-racing-to-reach-max-level-before-shutdown](https://www.eurogamer.net/concord-players-are-racing-to-reach-max-level-before-shutdown)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T09:43:49+00:00
+
+<img src="https://assetsio.gnwcdn.com/Concord-freerunner.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+PlayStation's shock decision to <a href="https://www.eurogamer.net/concord-pulled-from-sale-as-sony-admits-our-initial-launch-didnt-land">shut down its live-service flop Concord</a> just a fortnight after launch has spurred players who did buy the game to try and reach its max level via an unusual method - before it all disappears.
+</p><p>
+Players are now leaping off cliffs to end matches and earn XP at rapid pace, with a healthy chunk of XP awarded whether a team wins or loses. If Concord was set to last longer, it feels like something developer Firewalk would fix. Now, not so much.
+</p><p>
+Why are Concord owners so concerned with reaching the game's max level of 100? Well, you need to do so to unlock the "Experienced Freegunner" Trophy, and by extension the game's Platinum. Regardless of whether Concord ever returns after Sony pulls the plug and issu
+
+## Black Myth: Wukong Xbox delay not due to "platform limitations", Microsoft reiterates
+ - [https://www.eurogamer.net/black-myth-wukong-xbox-delay-not-due-to-platform-limitations-microsoft-reiterates](https://www.eurogamer.net/black-myth-wukong-xbox-delay-not-due-to-platform-limitations-microsoft-reiterates)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T09:37:10+00:00
+
+<img src="https://assetsio.gnwcdn.com/wukong-flames.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Microsoft has again confirmed the <a href="https://www.eurogamer.net/black-myth-wukong-wont-be-on-xbox-at-launch">delay to the Xbox release of Black Myth: Wukong</a> is not due to "platform limitations".</p><p>Game Science's action-RPG was released last month on PC and PS5, but the Xbox version was delayed for an unknown reason. Speculation grew the developer was struggling to run the game on the Series S console, while other <a href="https://www.eurogamer.net/confusion-over-black-myth-wukongs-missing-xbox-release-follows-claims-of-playstation-exclusivity">rumours suggested the game was in fact a PlayStation console exclusive</a>.</p><p>A representative from Microsoft has now confirmed to <a href="https://www.forbes.com/sites/paultassi/2024/09/03/microsoft-confirms-black-myth-wukong-delay-not-due-to-platform-limitations-comments-on-exclusivity/">Forbes</a> t
+
+## Former Eurogamer editors come together for a special 25th anniversary podcast chat
+ - [https://www.eurogamer.net/former-eurogamer-editors-come-together-for-a-special-25th-anniversary-podcast-chat](https://www.eurogamer.net/former-eurogamer-editors-come-together-for-a-special-25th-anniversary-podcast-chat)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2024-09-04T09:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/eg25-gold.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>How long have you been a Eurogamer reader for? Let me put that another way: how many different Eurogamer editors do you remember? The site has been around for a long time now - 25 years this week - so there have been a few different sets of hands at the tiller. I ask because, well, I've gathered those editors together again for a very special anniversary podcast, which you can watch and listen to right now.</p><p>With me on the podcast are Eurogamer's originating editor John Bye, better known to some as Gestalt, who edited the site from its foundation in 1999 through to 2002. Then we have Kristan Reed, who took over in 2002 and ran the site through to 2008, before passing the baton to Tom Bramwell who led through to 2014. Then Oli Welsh steered Eurogamer from 2014 to 2021, before Wesley Yin-Poole took over. Unfortunately Martin Robinson and Tom Phillips - our mo
+
