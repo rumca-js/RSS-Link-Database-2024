@@ -1,0 +1,189 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Podcasters Ditch Short Episodes in Favor of Four-Hour Conversations
+ - [https://news.slashdot.org/story/24/09/06/2024224/podcasters-ditch-short-episodes-in-favor-of-four-hour-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/09/06/2024224/podcasters-ditch-short-episodes-in-favor-of-four-hour-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T23:57:47.399039+00:00
+
+In a newsletter for Bloomberg, Ashley Carman discusses the rising trend of long podcasts and their surprising popularity among listeners. "By today's standards of interminable podcast discussions, a nearly three-hour recording isn't even particularly notable," she writes, highlighting recent episodes from Joe Rogan (2 hours; 16 minutes with Adam Sandler), Lex Fridman (8 hours; 37 minutes with Elon Musk), and the Acquired podcast (3 hours; 38 minutes with Lockheed Martin). "Increasingly, podcasters are pushing the outer limits of episode length while stress testing the endurance of their audiences. Popular podcast gabfests can now run on for half a workday or longer." From the report: One might assume such marathon episodes must be the result of a hands-off approach to editing. But this is not the case, said Ben Gilbert, co-host of the Acquired podcast. Every month, he and his co-host David Rosenthal release a three- to four-hour podcast, detailing the story of a specific company. The 
+
+## ChromeOS 128 Adds Snap Layouts For Apps, OCR Text Extraction, and Improved Settings
+ - [https://tech.slashdot.org/story/24/09/06/2041200/chromeos-128-adds-snap-layouts-for-apps-ocr-text-extraction-and-improved-settings?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/06/2041200/chromeos-128-adds-snap-layouts-for-apps-ocr-text-extraction-and-improved-settings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T23:57:47.283876+00:00
+
+Google's new ChromeOS 128 update introduces a feature similar to Windows 11's Snap layouts. Called Snap Groups, the feature enables users to organize on-screen apps in various fullscreen layouts. "When you pair two windows for split-screen display, ChromeOS now forms a Snap group," explains the ChromeOS team. "As a Snap group, you can bring the windows back into focus together, resize them simultaneously, and move them both as a group."
+ 
+Other notable features of ChromeOS 128 include Optical Character Recognition (OCR), ChromeVox support for the Magnifier tool, isolated web apps (IWA), and improved settings for the camera and microphone on Chromebook devices.
+ 
+You can view the release notes on the support document here.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=ChromeOS+128+Adds+Snap+Layouts+For+Apps%2C+OCR+Text+Extraction%2C+and+Improved+Settings%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F09%2F06%2F20
+
+## Two Major Anime Leakers To Be Exposed Following First-Time US Court Order
+ - [https://entertainment.slashdot.org/story/24/09/06/200205/two-major-anime-leakers-to-be-exposed-following-first-time-us-court-order?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/24/09/06/200205/two-major-anime-leakers-to-be-exposed-following-first-time-us-court-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T22:53:46.955446+00:00
+
+For the first time, a U.S. court has ordered the exposure of identities behind anime leaker accounts on X following complaints from producers of Jujutsu Kaisen and Demon Slayer. The order was revealed by Japanese anti-piracy organization CODA (Content Overseas Distribution Association). CBR reports: The order to disclose their identities was issued on Aug. 20 and served on Aug. 30, meaning that these Jujutsu Kaisen and Demon Slayer leakers will be forced to out themselves, lest they face further legal troubles. Several CODA member companies, which include Kodansha (Attack on Titan), Toei Animation (One Piece) and more collected evidence on these accounts; CODA's report states that it has also received other inquiries about other anime and is preparing for further action. "We will continue to work with the rights holders of the victims to take strict action based on the information of the account owners that comes to light, and will demand severe punishment for these leak accounts," it
+
+## Playing D&amp;D Helps Autistic Players In Social Interactions, Study Finds
+ - [https://games.slashdot.org/story/24/09/06/206213/playing-dd-helps-autistic-players-in-social-interactions-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/24/09/06/206213/playing-dd-helps-autistic-players-in-social-interactions-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T22:53:46.866927+00:00
+
+An anonymous reader quotes a report from Ars Technica: Since its introduction in the 1970s, Dungeons &amp; Dragons has become one of the most influential tabletop role-playing games (TRPGs) in popular culture, featuring heavily in Stranger Things, for example, and spawning a blockbuster movie released last year. Over the last decade or so, researchers have turned their focus more heavily to the ways in which D&amp;D and other TRPGs can help people with autism form healthy social connections, in part because the gaming environment offers clear rules around social interactions. According to the authors of a new paper published in the journal Autism, D&amp;D helped boost players' confidence with autism, giving them a strong sense of kinship or belonging, among other benefits.
+ 
+"There are many myths and misconceptions about autism, with some of the biggest suggesting that those with it aren't socially motivated, or don't have any imagination," said co-author Gray Atherton, a psychologist
+
+## Telegram Disables 'Misused' Features As CEO Faces Criminal Charges
+ - [https://tech.slashdot.org/story/24/09/06/1946225/telegram-disables-misused-features-as-ceo-faces-criminal-charges?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/06/1946225/telegram-disables-misused-features-as-ceo-faces-criminal-charges?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T21:29:12.105696+00:00
+
+Following the arrest of its CEO Pavel Durov last month, the encrypted messaging service said it has disabled some "outdated" and "misused" features used by anonymous users. The Verge reports: The first changes to the app following his arrest in France last month affect its built-in blog posts and a "People Nearby" location-based feature. [...] Durov's first post-arrest statement Thursday said, "Telegram's abrupt increase in user count to 950M caused growing pains that made it easier for criminals to abuse our platform. That's why I made it my personal goal to ensure we significantly improve things in this regard." He also said that during the four-day interview after his arrest, "I was told I may be personally responsible for other people's illegal use of Telegram, because the French authorities didn't receive responses from Telegram."
+ 
+Telegram has since reworked some of its language surrounding private chats and moderation and followed up with these new updates. It's also adding St
+
+## Heatwave Across US West Breaks Records For Highest Temperatures
+ - [https://news.slashdot.org/story/24/09/06/1912243/heatwave-across-us-west-breaks-records-for-highest-temperatures?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/09/06/1912243/heatwave-across-us-west-breaks-records-for-highest-temperatures?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T20:24:09.980665+00:00
+
+An intense heatwave across the US west has brought unusually warm temperatures to the region -- some of the highest of the season -- and broken heat records. From a report: Millions of Americans from Phoenix to Los Angeles to Seattle are under heat alerts. Even before this latest bout of extreme weather, which began on Wednesday and is expected to last through the weekend, summer 2024 was already considered the hottest summer on record. 
+
+In California, the desert city of Indio saw its hottest 5 September at 121F (49.4C), breaking a previous record of 120 from 2020, while Palm Springs tied its heat record for the day at 121F. The city recorded its all-time high of 124F in July. The Los Angeles region has not yet broken any records -- although Burbank tied for its all-time high of 114F -- the area is bracing for a days-long stretch of triple-digit temperatures. This week Phoenix marked 100 straight days at 100F or more and its hottest 5 September at 116F. In the Pacific north-west, sch
+
+## Meta Will Let Third-Party Apps Place Calls To WhatsApp, Messenger Users
+ - [https://tech.slashdot.org/story/24/09/06/1937237/meta-will-let-third-party-apps-place-calls-to-whatsapp-messenger-users?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/06/1937237/meta-will-let-third-party-apps-place-calls-to-whatsapp-messenger-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T20:24:09.888151+00:00
+
+An anonymous reader quotes a report from TechCrunch: Meta on Friday published an update on how it plans to comply with the Digital Markets Act (DMA), the European law that aims to promote competition in digital marketplaces, where the law concerns the company's messaging apps, Messenger and WhatsApp. As Meta notes in a blog post, the DMA requires that it provide an option in WhatsApp and Messenger to connect with interoperable third-party messaging services and apps. Meta says it's building notifications into WhatsApp and Messenger to inform users about these third-party integrations and alert them when a newly compatible third-party messaging app comes online. The company also says it's introducing an onboarding flow in WhatsApp and Messenger where users can learn more about third-party chats and switch them on. From the flow, users will be able to set up a designated folder for third-party messages or, alternatively, opt for a combined inbox.
+ 
+In 2025, Meta will roll out group func
+
+## College Grades Have Become a Charade. It's Time To Abolish Them.
+ - [https://news.slashdot.org/story/24/09/06/1813229/college-grades-have-become-a-charade-its-time-to-abolish-them?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/09/06/1813229/college-grades-have-become-a-charade-its-time-to-abolish-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T19:18:55.549409+00:00
+
+When most students get As, grading loses all meaning as a way to encourage exceptional work and recognize excellence. From a report: Grade inflation at American universities is out of control. The statistics speak for themselves. In 1950, the average GPA at Harvard was estimated at 2.6 out of 4. By 2003, it had risen to 3.4. Today, it stands at 3.8. The more elite the college, the more lenient the standards. At Yale, for example, 80% of grades awarded in 2023 were As or A minuses. But the problem is also prevalent at less selective colleges. Across all four-year colleges in the U.S., the most commonly awarded grade is now an A. Some professors and departments, especially in STEM disciplines, have managed to uphold more stringent criteria. A few advanced courses attract such a self-selecting cohort of students that virtually all of them deserve recognition for genuinely excellent work. But for the most part, the grading scheme at many institutions has effectively become useless. An A h
+
+## Kaspersky To Transfer US Customers To UltraAV After Ban
+ - [https://it.slashdot.org/story/24/09/06/1855245/kaspersky-to-transfer-us-customers-to-ultraav-after-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/09/06/1855245/kaspersky-to-transfer-us-customers-to-ultraav-after-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T19:18:55.443705+00:00
+
+Kaspersky has reached an agreement to transfer its U.S. customers to UltraAV, a Boston-based antivirus provider. The move comes in the wake of a White House ban on Kaspersky products. Under the deal, U.S. users will maintain their existing subscriptions and receive "reliable anti-virus protection" through UltraAV, which will offer additional features such as VPN and identity theft protection. Kaspersky will contact customers in the coming days with instructions for activating their new accounts.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Kaspersky+To+Transfer+US+Customers+To+UltraAV+After+Ban%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F09%2F06%2F1855245%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F09%2F06%2F1855245%2Fkaspersky-to-transfe
+
+## Smartphone Firm Born From Essential's Ashes is Shutting Down
+ - [https://mobile.slashdot.org/story/24/09/06/1711234/smartphone-firm-born-from-essentials-ashes-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://mobile.slashdot.org/story/24/09/06/1711234/smartphone-firm-born-from-essentials-ashes-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T18:14:57.055344+00:00
+
+An anonymous reader shares a report: It's been a rough week for OSOM Products. The company has been embroiled in legal controversy stemming from a lawsuit filed by a former executive. Now, Android Authority has learned that the company is effectively shutting down later this week. OSOM Products was formed in 2020 following the disbanding of Essential, a smartphone startup led by Andy Rubin, the founder of Android. 
+
+Essential collapsed following the poor sales of its first smartphone, the Essential Phone, as well as a loss of confidence in Rubin due to allegations of sexual misconduct at his previous stint at Google. Although Essential as a company was on its way out after Rubin's departure, many of its most talented hardware designers and software engineers remained at the company, looking for another opportunity to build something new. In 2020, the former head of R&amp;D at Essential, Jason Keats, along with several other former executives and employees came together to form OSOM, w
+
+## PwC 'Tipping the Balance' of Hybrid Working and Will Start Tracking Its Workers' Locations
+ - [https://tech.slashdot.org/story/24/09/06/161213/pwc-tipping-the-balance-of-hybrid-working-and-will-start-tracking-its-workers-locations?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/06/161213/pwc-tipping-the-balance-of-hybrid-working-and-will-start-tracking-its-workers-locations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T17:09:10.582333+00:00
+
+PwC has demanded staff spend less time working from home -- and it's going to start tracking their location to ensure they comply. From a report: The accountancy firm informed its 26,000 U.K. employees in a memo that from January they'll be expected to be at their desks -- or with clients -- at least three days a week, or for 60% of their time. Previously staff were expected to spend two to three days working in-person. What's more, to ensure staffers are not secretly working from home (or at a beach) when they shouldn't be, the company will monitor how often they're working from the office, in the same way it monitors how many chargeable hours they work. Every month, workers will be sent information about their "individual working location data" which will even be shared with their in-house career coaches, according to the Financial Times.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=PwC+'Tipping+the+Balance'+of+
+
+## The Underground World of Black-Market AI Chatbots is Thriving
+ - [https://slashdot.org/story/24/09/06/1648218/the-underground-world-of-black-market-ai-chatbots-is-thriving?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/09/06/1648218/the-underground-world-of-black-market-ai-chatbots-is-thriving?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T17:09:10.413326+00:00
+
+An anonymous reader shares a report: ChatGPT's 200 million weekly active users have helped propel OpenAI, the company behind the chatbot, to a $100 billion valuation. But outside the mainstream there's still plenty of money to be made -- especially if you're catering to the underworld. Illicit large language models (LLMs) can make up to $28,000 in two months from sales on underground markets, according to a study published last month in arXiv, a preprint server owned by Cornell University. That's just the tip of the iceberg, according to the study, which looked at more than 200 examples of malicious LLMs (or malas) listed on underground marketplaces between April and October 2023. 
+
+The LLMs fall into two categories: those that are outright uncensored LLMs, often based on open-source standards, and those that jailbreak commercial LLMs out of their guardrails using prompts. "We believe now is a good stage to start to study these because we don't want to wait until the big harm has alre
+
+## America's EV Charging Infrastructure Has Doubled In Less Than Four Years
+ - [https://hardware.slashdot.org/story/24/09/06/1450235/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/09/06/1450235/americas-ev-charging-infrastructure-has-doubled-in-less-than-four-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T16:04:06.522968+00:00
+
+The electric revolution has given way to a gradual transformation, but the groundwork is already being laid for the future. From a report: The Department of Energy recently highlighted this by noting the number of publicly available EV chargers has doubled since President Biden was inaugurated on January 20, 2021. According to the government, there are now more than 192,000 publicly available charging ports in the United States and around 1,000 are being added every week. The Department of Energy credited the Bipartisan Infrastructure Law as aiding the buildout, which is helping to bring charging infrastructure to rural, suburban, and urban communities. 
+
+The law provided funding for a $2.5 billion Charging and Fueling Infrastructure Discretionary Grant Program. A big chunk of that money is now heading out as the Biden administration recently announced $521 million in grants to support projects in 29 states as well as the District of Columbia and a few tribal areas. This will result i
+
+## OpenAI Japan Exec Teases 'GPT-Next'
+ - [https://slashdot.org/story/24/09/06/1330218/openai-japan-exec-teases-gpt-next?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/09/06/1330218/openai-japan-exec-teases-gpt-next?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T14:58:48.319871+00:00
+
+OpenAI plans to launch a new AI model, GPT-Next, by year-end, promising a 100-fold increase in power over GPT-4 without significantly higher computing demands, according to a leaked presentation by an OpenAI Japan executive. The model, codenamed "Strawberry," incorporates "System 2 thinking," allowing for deliberate reasoning rather than mere token prediction, according to previous reports. GPT-Next will also generate high-quality synthetic training data, addressing a key challenge in AI development. Tadao Nagasaki of OpenAI Japan unveiled plans for the model, citing architectural improvements and learning efficiency as key factors in its enhanced performance.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=OpenAI+Japan+Exec+Teases+'GPT-Next'%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F09%2F06%2F1330218%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a 
+
+## Gen Z-ers Are Computer Whizzes. Just Don't Ask Them to Type.
+ - [https://it.slashdot.org/story/24/09/06/1446215/gen-z-ers-are-computer-whizzes-just-dont-ask-them-to-type?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/09/06/1446215/gen-z-ers-are-computer-whizzes-just-dont-ask-them-to-type?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T14:58:48.237137+00:00
+
+Typing skills among Generation Z have declined sharply, despite their digital nativity, according to recent data. The U.S. Department of Education reports that only 2.5% of high school graduates in 2019 took a keyboarding course, down from 44% in 2000. 
+
+Many educators assume Gen Z already possesses typing skills due to their familiarity with technology. However, access to devices doesn't automatically translate into proficiency, WSJ reports. Some schools are addressing this gap by introducing typing competitions and formal instruction when students receive Chromebooks. 
+
+The shift towards mobile devices is contributing to the decline in traditional typing skills. Canvas, an online learning platform, reports that 39% of student assignments between March and May were uploaded from mobile devices, contrasting sharply with teachers who completed over 90% of their work on computers.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/ho
+
+## Threads is Trading Trust For Growth
+ - [https://tech.slashdot.org/story/24/09/06/1250236/threads-is-trading-trust-for-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/06/1250236/threads-is-trading-trust-for-growth?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T13:53:36.478443+00:00
+
+Ben Werdmuller, an entrepreneur who leads tech for ProPublica, writes on the trust crisis brewing in Meta's Threads app. He posted a quick comment about the Internet Archive's legal troubles, only to find it blew up in unexpected ways. Turns out, Threads' algorithm tossed his post to folks way outside his usual crowd, and they weren't happy about the lack of context. He writes: The comments that really surprised me were the ones that accused me of engagement farming. I've never received these before, and it made me wonder about the underlying assumptions. Why would this be engagement farming? Why would someone do this? Why would they assume that about me? Turns out, Meta's been secretly paying select "creators" up to $5,000 per viral post, turning the platform into a digital gold rush. Now, every post is suspect.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Threads+is+Trading+Trust+For+Growth%3A+https%3A%2F%2Ftech
+
+## Largest Dam Removal In US History Is Complete
+ - [https://news.slashdot.org/story/24/09/06/0632241/largest-dam-removal-in-us-history-is-complete?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/09/06/0632241/largest-dam-removal-in-us-history-is-complete?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T11:04:42.843153+00:00
+
+The largest dam removal project in U.S. history has been completed with the demolition of four dams on the Klamath River, marking a significant victory for tribal nations on the Oregon-California border who have long fought to restore the river to its natural state. However, as CNN's Rachel Ramirez and the BBC's Lucy Sherriff both highlight, the restoration of salmon populations and surrounding ecosystems is "only just beginning." From the report: The removal of the four hydroelectric dams -- Iron Gate Dam, Copco Dams 1 and 2, and JC Boyle Dam -- allows the region's iconic salmon population to swim freely along the Klamath River and its tributaries, which the species have not been able to do for over a century since the dams were built. Mark Bransom, chief executive officer of the Klamath River Renewal Corporation, the nonprofit group created to oversee the project, said it was a "celebratory moment," as his staff members, conservationists, government officials and tribal members gath
+
+## Part of Brain Network Much Bigger In People With Depression, Scientists Find
+ - [https://science.slashdot.org/story/24/09/05/2248237/part-of-brain-network-much-bigger-in-people-with-depression-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/09/05/2248237/part-of-brain-network-much-bigger-in-people-with-depression-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T07:49:34.302101+00:00
+
+Researchers have discovered that people with depression have an expanded brain network, specifically the frontostriatal salience network, which is 73% larger compared to healthy individuals. "It's taking up more real estate on the brain surface than we see is typical in healthy controls," said Dr Charles Lynch, a co-author of the research, from Weill Cornell Medicine in New York. He added that expansion meant the size of other -- often neighboring -- brain networks were smaller. The Guardian reports: Writing in the journal Nature, Lynch and colleagues report how they used precision functional mapping, a new approach to brain imaging that analyses a host of fMRI (functional MRI) scans from each individual. The team applied this method to 141 people with depression and 37 people without it, enabling them to measure accurately the size of each participant's brain networks. They then took the average size for each group. They found that a part of the brain called the frontostriatal salien
+
+## Qualcomm Has Explored Buying Pieces of Intel Chip Design Business
+ - [https://slashdot.org/story/24/09/06/0457255/qualcomm-has-explored-buying-pieces-of-intel-chip-design-business?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/09/06/0457255/qualcomm-has-explored-buying-pieces-of-intel-chip-design-business?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T05:39:02.252211+00:00
+
+Qualcomm has explored the possibility of acquiring portions of Intel's design business to boost the company's product portfolio, Reuters reported Thursday, citing sources familiar with the matter. From the report: The mobile chipmaker has examined acquiring different pieces of Intel, which is struggling to generate cash and looking to shed business units and sell off other assets, the people said. Intel's client PC design business is of significant interest to Qualcomm executives, one of the sources said, but they are looking at all of the company's design units. Other pieces of Intel such as the server segment would make less sense for Qualcomm to acquire, another source with knowledge of Qualcomm's operations said.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Qualcomm+Has+Explored+Buying+Pieces+of+Intel+Chip+Design+Business%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F09%2F06%2F0457255%2F%3Futm_source%3Dtwitter%
+
+## Engineers Gave a Mushroom a Robot Body and Let It Run Wild
+ - [https://hardware.slashdot.org/story/24/09/05/2242255/engineers-gave-a-mushroom-a-robot-body-and-let-it-run-wild?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/09/05/2242255/engineers-gave-a-mushroom-a-robot-body-and-let-it-run-wild?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T04:34:24.503028+00:00
+
+An anonymous reader quotes a report from ScienceAlert: Nobody knows what sleeping mushrooms dream of when their vast mycelial networks flicker and pulse with electrochemical responses akin to those of our own brain cells. But given a chance, what might this web of impulses do if granted a moment of freedom? An interdisciplinary team of researchers from Cornell University in the US and the University of Florence in Italy took steps to find out, putting a culture of the edible mushroom species Pleurotus eryngii (also known as the king oyster mushroom) in control of a pair of vehicles, which can twitch and roll across a flat surface. Through a series of experiments, the researchers showed it was possible to use the mushroom's electrophysiological activity as a means of translating environmental cues into directives, which could, in turn, be used to drive a mechanical device's movements. "By growing mycelium into the electronics of a robot, we were able to allow the biohybrid machine to s
+
+## Telegram Allows Private Chat Reports After Founder's Arrest 
+ - [https://yro.slashdot.org/story/24/09/06/0239213/telegram-allows-private-chat-reports-after-founders-arrest?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/09/06/0239213/telegram-allows-private-chat-reports-after-founders-arrest?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T03:29:10.348498+00:00
+
+An anonymous reader shares a report: Telegram has quietly updated its policy to allow users to report private chats to its moderators following the arrest of founder Pavel Durov in France over "crimes committed by third parties" on the platform. [...] The Dubai-headquartered company has additionally edited its FAQ page, removing two sentences that previously emphasized its privacy stance on private chats. The earlier version had stated: "All Telegram chats and group chats are private amongst their participants. We do not process any requests related to them."<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Telegram+Allows+Private+Chat+Reports+After+Founder's+Arrest+%3A+https%3A%2F%2Fyro.slashdot.org%2Fstory%2F24%2F09%2F06%2F0239213%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2F
+
+## US, UK, EU Sign 'Legally Binding' AI Treaty
+ - [https://yro.slashdot.org/story/24/09/05/2232248/us-uk-eu-sign-legally-binding-ai-treaty?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/09/05/2232248/us-uk-eu-sign-legally-binding-ai-treaty?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: https://rss.slashdot.org/Slashdot/slashdotMain
+ - date published: 2024-09-06T01:14:20.162415+00:00
+
+The United States, United Kingdom and European Union have signed the first "legally binding" international AI treaty on Thursday, the Council of Europe human rights organization said. Called the AI Convention, the treaty promotes responsible innovation and addresses the risks AI may pose. Reuters reports: The AI Convention mainly focuses on the protection of human rights of people affected by AI systems and is separate from the EU AI Act, which entered into force last month. The EU's AI Act entails comprehensive regulations on the development, deployment, and use of AI systems within the EU internal market. The Council of Europe, founded in 1949, is an international organization distinct from the EU with a mandate to safeguard human rights; 46 countries are members, including all the 27 EU member states. An ad hoc committee in 2019 started examining the feasibility of an AI framework convention and a Committee on Artificial Intelligence was formed in 2022 which drafted and negotiated 
+

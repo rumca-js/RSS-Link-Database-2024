@@ -1,0 +1,191 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Canada Post proposes 25-cent price hike on stamps
+ - [https://www.cbc.ca/news/politics/canada-post-stamp-price-increase-1.7316229?cmp=rss](https://www.cbc.ca/news/politics/canada-post-stamp-price-increase-1.7316229?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T17:30:58+00:00
+
+<img src='https://i.cbc.ca/1.7316302.1725659620!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/canada-post-stamps.jpeg' alt='A pack of stamps is in the foreground against the backdrop of a Canada Post mail box.' width='620' height='349' title='Canada Post is prosing a 25-cent increase to the price of stamps, beginning in 2025.'/><p>Canada Post is proposing an increase to regulated postage rates next year, bringing the price of most stamps up by 25 cents to $1.24.</p>
+
+## Assembly of Manitoba Chiefs Grand Chief Cathy Merrick dies after collapsing outside Winnipeg court
+ - [https://www.cbc.ca/news/canada/manitoba/amc-grand-chief-cathy-merrick-collapses-1.7315807?cmp=rss](https://www.cbc.ca/news/canada/manitoba/amc-grand-chief-cathy-merrick-collapses-1.7315807?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T16:47:19+00:00
+
+<img src='https://i.cbc.ca/1.7315839.1725646712!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cathy-merrick.jpg' alt='A woman in a First Nations headdress speaks in front of microphones' width='620' height='349' title='Cathy Merrick, grand chief of the Assembly of Manitoba Chiefs, is seen in a file photo from August when she spoke outside the law courts building in Winnipeg on the sentencing of serial killer Jeremy Skibicki.'/><p>Cathy Merrick, the first female grand chief of the Assembly of Manitoba Chiefs, has died after collapsing outside the law courts building in Winnipeg on Friday. </p>
+
+## Manitoba judge approves settlement of over $500M for former kids in care
+ - [https://www.cbc.ca/news/canada/manitoba/kids-care-settlement-judge-1.7316056?cmp=rss](https://www.cbc.ca/news/canada/manitoba/kids-care-settlement-judge-1.7316056?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T16:41:31+00:00
+
+<img src='https://i.cbc.ca/1.5557486.1683921720!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/law-courts-building-in-winnipeg.jpg' alt='The outside of a court building on a snowy day.' width='620' height='349' title='By May 26, assuming the subject trials are able to proceed as planned, the Court of Queen&apos;s Bench in Manitoba will operate at close to 100 per cent capacity, except for jury trials, Chief Justice Glenn Joyal says.'/><p>Manitoba Court of King's Bench Justice Alain Huberdeau has approved a settlement worth $530 million for three class-action lawsuits over child benefit payments that were clawed back by the Manitoba government.</p>
+
+## 1st human case of rabies in Ontario since 1967 confirmed in Brantford-Brant resident
+ - [https://www.cbc.ca/news/canada/hamilton/first-case-human-rabies-in-ontario-1967-brantford-brant-1.7315972?cmp=rss](https://www.cbc.ca/news/canada/hamilton/first-case-human-rabies-in-ontario-1967-brantford-brant-1.7315972?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T15:54:41+00:00
+
+<img src='https://i.cbc.ca/1.7316051.1725651993!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/brant-county-health-unit.JPG' alt='Brant County Health Unit building.' width='620' height='349' title='A resident of Brantford-Brant is currently hospitalized with rabies — the first case in Brantford-Brant ever, and the first in Ontario since 1967.'/><p>A resident of Brantford-Brant is currently hospitalized with rabies. The health unit says it's the first case in Brantford-Brant ever and the first in Ontario since 1967.</p>
+
+## Linkin Park reunites with new singer, new music
+ - [https://www.cbc.ca/news/entertainment/linkin-park-reunites-1.7315924?cmp=rss](https://www.cbc.ca/news/entertainment/linkin-park-reunites-1.7315924?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T15:36:13+00:00
+
+<img src='https://i.cbc.ca/1.7315962.1725649594!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/linkin-park-performance-and-announcement.jpg' alt='A man and a woman on stage look into a camera.' width='620' height='349' title='Mike Shinoda, left, and Emily Armstrong of Linkin Park perform on Thursday in Los Angeles. It was announced on Thursday that Dead Sara&apos;s Emily Armstrong would join as the band&apos;s new co-singer and songwriter/producer Colin Brittain would join on drums.  '/><p>Linkin Park is back with a new lineup and is debuting their first new music since the 2017 death of lead singer Chester Bennington. On Thursday, the band kicked off a livestream showcasing new singer Emily Armstrong and drummer Colin Brittain.</p>
+
+## Toronto man charged with threatening Justin Trudeau, Chrystia Freeland on TikTok
+ - [https://www.cbc.ca/news/canada/toronto/toronto-man-charged-threats-trudeau-freeland-tiktok-1.7315560?cmp=rss](https://www.cbc.ca/news/canada/toronto/toronto-man-charged-threats-trudeau-freeland-tiktok-1.7315560?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T15:30:50+00:00
+
+<img src='https://i.cbc.ca/1.7315611.1725640230!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/andrew-marshall-tiktok.jpg' alt='Man looking into camera in a video.' width='620' height='349' title=''/><p>A Toronto man has been charged with threatening Prime Minister Justin Trudeau and Deputy Prime Minister Chrystia Freeland in connection to a TikTok video that was published earlier this week.</p>
+
+## Trump's hush money sentencing delayed until after U.S. presidential election
+ - [https://www.cbc.ca/news/world/donald-trump-hush-money-sentencing-delayed-after-election-1.7315729?cmp=rss](https://www.cbc.ca/news/world/donald-trump-hush-money-sentencing-delayed-after-election-1.7315729?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T13:23:23+00:00
+
+<img src='https://i.cbc.ca/1.7220060.1717104417!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-new-york.JPG' alt='A man in a dark blue suit with a light blue tie stands expressionless outside a courthouse.' width='620' height='349' title='Former U.S. President Donald Trump returns to the courtroom during his hush money trial at Manhattan Criminal Court on May 30, 2024 in New York City. '/><p>A New York judge on Friday delayed former U.S. president Donald Trump's sentencing on charges stemming from hush money paid to a porn star until Nov. 26, nearly a month after the presidential election.</p>
+
+## Toronto man arrested in Quebec in terror investigation: sources
+ - [https://www.cbc.ca/news/canada/toronto/toronto-quebec-terror-investigation-1.7315604?cmp=rss](https://www.cbc.ca/news/canada/toronto/toronto-quebec-terror-investigation-1.7315604?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T12:46:14+00:00
+
+<img src='https://i.cbc.ca/1.7315621.1725640457!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/terror-investigation-ormstown-toronto-man.jpeg' alt='A group of police officers in tactical gear stand in a circle at the side of a road.' width='620' height='349' title=''/><p>The RCMP arrested a Toronto-area man in connection with a terror investigation Wednesday in a Quebec town near the U.S. border.</p>
+
+## Girl, 14, charged with attempted murder after allegedly setting classmate on fire at Sask. high school
+ - [https://www.cbc.ca/news/canada/saskatchewan/evan-hardy-attempted-murder-charge-1.7315580?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/evan-hardy-attempted-murder-charge-1.7315580?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T12:45:59+00:00
+
+<img src='https://i.cbc.ca/1.7041082.1701104626!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/court.jpg' alt='court and flag' width='620' height='349' title='Mendoza pleaded guilty Nov. 20, 2023 at Saskatoon provincial court.'/><p>The 14-year-old girl accused of seriously injuring a 15-year-old classmate by lighting her on fire at a Saskatoon high school has been charged with attempted murder, aggravated assault and arson.</p>
+
+## Turkish-American woman shot dead by Israeli forces in West Bank protest
+ - [https://www.cbc.ca/news/world/west-bank-protest-killing-1.7315371?cmp=rss](https://www.cbc.ca/news/world/west-bank-protest-killing-1.7315371?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T11:32:41+00:00
+
+<img src='https://i.cbc.ca/1.7315432.1725633917!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2165578044.jpg' alt='A few people are shown in the foreground, blurred, as farther away two military members in gear with weapons pointed are shown from a rooftop perch.' width='620' height='349' title='Israeli soldiers face Palestinian protesters in the town of Beita, in West Bank on August 9, 2024. Palestinians protest weekly against the building of Israeli settlements.  '/><p>A woman who was a citizen of both the U.S. and Turkey died of her wounds on Friday after being shot in the head by Israeli troops during a protest against settlement expansion in the occupied West Bank.</p>
+
+## Family of raped and murdered Indian doctor claims police delayed investigation
+ - [https://www.cbc.ca/news/kolkata-doctor-raped-killed-family-police-1.7315310?cmp=rss](https://www.cbc.ca/news/kolkata-doctor-raped-killed-family-police-1.7315310?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T11:18:27+00:00
+
+<img src='https://i.cbc.ca/1.7315312.1725629732!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kolkata-protest.jpg' alt='People protest on a street' width='620' height='349' title='People hold placards as they demonstrate on Sept. 4, 2024, to condemn the rape and murder of a doctor at the RG Kar Medical College and Hospital in Kolkata, India. The discovery of the 31-year-old doctor&apos;s bloodied body at a state-run hospital in Kolkata on Aug. 9, stoked nationwide anger at the chronic issue of violence against women.'/><p>The victim’s parents, who can’t be named under an Indian law that protects the identity of sexual assault victims, said their grief is mixed with anger at how police have handled the high-profile case.</p>
+
+## 2nd mpox vaccine dose still needed by Canadians at risk: public health
+ - [https://www.cbc.ca/news/health/mpox-vaccine-canadian-cities-1.7315278?cmp=rss](https://www.cbc.ca/news/health/mpox-vaccine-canadian-cities-1.7315278?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T09:45:10+00:00
+
+<img src='https://i.cbc.ca/1.7315285.1725628733!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-mpox-vaccines.JPG' alt='Doses of Bavarian Nordic&apos;s Imvanex vaccine, used to protect against mpox virus, are pictured at a vaccination centre in Paris, France, in 2002.' width='620' height='349' title='Doses of Bavarian Nordic&apos;s Imvanex vaccine, used to protect against mpox virus, are pictured at the Edison municipal vaccination centre in Paris, France July 27, 2022.'/><p>Public health agencies are encouraging people who received a first dose of mpox vaccine over the last two years to make sure they get a second dose.</p>
+
+## Canada's unemployment rate rose in August amid tough summer job market
+ - [https://www.cbc.ca/news/business/canada-jobs-sept-2024-1.7315234?cmp=rss](https://www.cbc.ca/news/business/canada-jobs-sept-2024-1.7315234?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T08:59:17+00:00
+
+<img src='https://i.cbc.ca/1.7315244.1725626718!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/walmart-robotics-20240412.jpg' alt='Man walks through warehouse' width='620' height='349' title='Workers walk through a Walmart distribution centre in Calgary, Thursday, March 28, 2024.'/><p>Canada's unemployment rate increased to 6.6 per cent in August as students continued to face a difficult summer hiring season.</p>
+
+## After decrying Tories for using Russian stock video clips, NDP does the same
+ - [https://www.cbc.ca/news/politics/stock-video-russia-ndp-1.7315219?cmp=rss](https://www.cbc.ca/news/politics/stock-video-russia-ndp-1.7315219?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T07:54:00+00:00
+
+<img src='https://i.cbc.ca/1.7315222.1725622806!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ndp-liberals-20240905.JPG' alt='Jagmeet Singh stands at a podium looking down, he is wearing a grey jacket and a yellow turban' width='620' height='349' title='NDP Leader Jagmeet Singh gives remarks during a press conference in Toronto on Thursday, September 5, 2024. '/><p>The New Democrats used a stock image from Russia in a recent video, weeks after the party criticized the Conservatives for doing the same.</p>
+
+## Judge awards B.C. man $60K over police dog bite
+ - [https://www.cbc.ca/news/canada/british-columbia/judge-awards-man-60k-over-police-dog-bite-1.7314519?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/judge-awards-man-60k-over-police-dog-bite-1.7314519?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T07:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7149361.1725567850!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-stock-generic-badge-shoulder-patch-file.jpg' alt='Closeup of a police logo that says GRC RCMP in gold lettering topped with a crown and a pin on a navy blue epaulette.' width='620' height='349' title='The RCMP logo is seen on the shoulder of a superintendent during a news conference, Saturday, June 24, 2023, in St. John’s, Newfoundland. The B.C. Coroners&apos; Service has called an inquest into a 2019 police shooting that left two people dead, including the hostage officers were trying to save. '/><p>In a decision last week, a B.C. Supreme Court judge said an RCMP officer and dog handler’s “intentions were good” but that he made an error when he released a dog onto a man too quickly.</p>
+
+## Canada sending rocket motors, spare parts to Ukraine in latest aid package
+ - [https://www.cbc.ca/news/politics/ukraine-russia-canada-aid-package-f16-1.7314594?cmp=rss](https://www.cbc.ca/news/politics/ukraine-russia-canada-aid-package-f16-1.7314594?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T06:30:00+00:00
+
+<img src='https://i.cbc.ca/1.3642698.1713637965!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/light-armoured-vehicles-lavs-afghanistan.jpg' alt='FILE--A Canadian Armed Forces Coyote armoured surveillance vehicle drives at Kandahar Airbase in Kandahar, Afghanistan Tuesday February 5, 2002.  Twenty-six-year-old Trooper Richard Renaud of Alma Quebec, a member of the 12e Regiment blinde du Canada, was killed in a blast Tuesday, Jan.15, 2008 involving a Coyote light armoured vehicle. THE CANADIAN PRESS/Kevin Frayer' width='620' height='349' title='FILE--A Canadian Armed Forces Coyote armoured surveillance vehicle drives at Kandahar Airbase in Kandahar, Afghanistan Tuesday February 5, 2002.  Twenty-six-year-old Trooper Richard Renaud of Alma Quebec, a member of the 12e Regiment blinde du Canada, was killed in a blast Tuesday, Jan.15, 2008 involving a Coyote light armoured vehicle. THE CANADIAN PRESS/Kevin Frayer'/><p>Canada is donating tens of thousands of rocket motors, a handful o
+
+## China makes request to WTO in its dispute over Canadian EV and steel tariffs
+ - [https://www.cbc.ca/news/world/china-canada-wto-tariffs-1.7315202?cmp=rss](https://www.cbc.ca/news/world/china-canada-wto-tariffs-1.7315202?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T06:22:53+00:00
+
+<img src='https://i.cbc.ca/1.7315207.1725617329!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/europe-china-autos.JPG' alt='Vehicles are shown on an assembly line inside a manufacturing facility.' width='620' height='349' title='Teslas are shown at its Shanghai factory in a 2020 file photo. Canada followed the U.S. by recently announcing tariffs on Chinese-made electric vehicles.'/><p>China has submitted a request to Canada for consultation at the World Trade Organization on additional tariffs it has imposed on Chinese electric vehicles as well as steel and aluminum products, the Commerce Ministry in Beijing said on Friday.</p>
+
+## 16 years after her wedding, this Guelph woman opens package with gown to find it's not hers
+ - [https://www.cbc.ca/news/canada/kitchener-waterloo/wrong-wedding-gown-shock-guelph-1.7314417?cmp=rss](https://www.cbc.ca/news/canada/kitchener-waterloo/wrong-wedding-gown-shock-guelph-1.7314417?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7314505.1725572938!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ashley-charette.jpg' alt='A woman holding up a wedding dress ' width='620' height='349' title='Ashley Charette says she was shocked to find the wedding dress in her dry cleaning box was not the one she originally wore to her back in 2008. '/><p>While some brides rush to see their wedding dress shortly after the nuptials, others opt to wait for a milestone anniversary to open the box and reflect on the big day. Ashley Charette, however, made a shocking discovery when she opened the packaged gown.</p>
+
+## Manitoba corrections officer acquitted in 2021 death of Headingley inmate William Ahmo
+ - [https://www.cbc.ca/news/canada/manitoba/robert-morden-william-ahmo-trial-decision-1.7314644?cmp=rss](https://www.cbc.ca/news/canada/manitoba/robert-morden-william-ahmo-trial-decision-1.7314644?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.5914823.1695644410!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/william-walter-ahmo.jpg' alt='After an altercation in Headingley Correctional Institute in Feb. 2021, William Walter Ahmo was found unconscious, and died a week later. ' width='620' height='349' title='William Walter Ahmo died in February 2021 after an altercation with corrections officers at Manitoba&apos;s Headingley Correctional Centre.'/><p>A Manitoba corrections officer charged in the 2021 death of an inmate at the Headingley Correctional Centre has been acquitted of all charges.</p>
+
+## After years of rough seas for TIFF, filmmakers hope for smooth sailing at the people's festival
+ - [https://www.cbc.ca/news/entertainment/tiff-evolution-2024-1.7310362?cmp=rss](https://www.cbc.ca/news/entertainment/tiff-evolution-2024-1.7310362?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T05:00:20+00:00
+
+<img src='https://i.cbc.ca/1.7313662.1725631591!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/tiff-2024-pre-festival.JPG' alt='Two women walk past posters for the Toronto International Film Festival.' width='620' height='349' title='Branding for TIFF, the Toronto International Film Festival, is pictured before the start of the annual event on Sept. 4, 2024.'/><p></p>
+
+## Senior couple living at Halifax homeless encampment desperately seeking housing
+ - [https://www.cbc.ca/player/play/9.6501722?cmp=rss](https://www.cbc.ca/player/play/9.6501722?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T05:00:00+00:00
+
+<img src='https://i.cbc.ca/ais/49c8e04b-ec26-4bcf-ab3f-886f2701cc03,1725576702040/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29' alt='A woman with short white hair shows inside her tent' width='620' height='349' title=''/><p>A volunteer street navigator is trying to help the oldest members of the University Avenue encampment. Their goal is to find accommodations where they feel safe and can stay together. Hannah Veinot has the story. </p>
+
+## Trudeau's Liberals face another big test in Montreal byelection
+ - [https://www.cbc.ca/news/politics/trudeau-liberal-contest-lasalle-%C3%A9mard-verdun-1.7314779?cmp=rss](https://www.cbc.ca/news/politics/trudeau-liberal-contest-lasalle-%C3%A9mard-verdun-1.7314779?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T04:00:01+00:00
+
+<img src='https://i.cbc.ca/1.7314892.1725572133!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/mtl-trudeau-20240811.JPG' alt='Prime Minister Justin Trudeau speaks at the riding office of  Laura Palestini, Liberal candidate for LaSalle–Emard–Verdun in Montreal on Sunday August 11, 2024.' width='620' height='349' title='Prime Minister Justin Trudeau speaks at the riding office of  Laura Palestini, Liberal candidate for LaSalle–Emard–Verdun in Montreal on Sunday August 11, 2024.'/><p>The federal Liberal brand will be put to the test again in a byelection in the Montreal riding of LaSalle—Émard—Verdun on Sept. 16 — a contest Liberal Party brass hope won't deliver a repeat of the party's failure in a Toronto riding earlier this summer.</p>
+
+## Meet the right-wing Canadian influencers caught up in an alleged Russian propaganda scheme
+ - [https://www.cbc.ca/news/investigates/russian-influence-election-tenet-media-chen-southern-1.7314976?cmp=rss](https://www.cbc.ca/news/investigates/russian-influence-election-tenet-media-chen-southern-1.7314976?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7315074.1725581127!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tenet-media-banner.jpg' alt='A banner image for Tenet Media shows three content creators on each side over a purple background.' width='620' height='349' title='Details in the Department of Justice indictment unsealed Wednesday match Tenet Media, which is accused of taking Russian money to influence the U.S. presidential election. Tenet licensed several popular right-wing commentators, including Dave Rubin and Tim Pool.'/><p>The social media accounts of two Canada’s most vocal far-right pundits have fallen unusually silent after U.S. officials accused them of being collaborators of a covert Russian propaganda campaign.</p>
+
+## National Novel Writing Month defended the use of AI. Now authors are stepping down from its board
+ - [https://www.cbc.ca/news/entertainment/nanowrimo-ai-controversty-1.7314090?cmp=rss](https://www.cbc.ca/news/entertainment/nanowrimo-ai-controversty-1.7314090?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.2832997.1725549902!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/national-novel-writing-month-support-group.jpg' alt='People sit around a table typing on laptops.' width='620' height='349' title='People participate in a past NaNoWriMo writing event in Regina, Sask. The organization has come under fire for comments it made this week about artificial intelligence (AI).'/><p>Writers are storming off the board of a popular literary non-profit that challenges participants to write a 50,000 word novel in a month after it issued a statement supporting some use of artificial intelligence. NaNoWriMo wrote on Monday that it doesn't explicitly condemn or endorse AI, and suggested opposition to the technology ignores “classist and ableist issues.”</p>
+
+## Ottawa police secretly wiretapped 5 Black officers, lawsuit alleges
+ - [https://www.cbc.ca/news/canada/ottawa/police-wiretaps-1.7219364?cmp=rss](https://www.cbc.ca/news/canada/ottawa/police-wiretaps-1.7219364?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7315021.1725580185!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ott-image-header-surveilled-somali-police-officers.jpg' alt='A graphic showing three images of black men with a court document torn up on the left, reading &apos;Ontario Superior Court of Justice&apos; and &apos;Racism and Discrimination Within the OPS.&apos;' width='620' height='349' title=''/><p>Ottawa police secretly wiretapped five of its Somali officers and their family members for months, never laid charges, and refuses to tell them why, alleges a $2.5-million lawsuit filed by the officers.</p>
+
+## Vladimir Kara-Murza thought he'd die in a Siberian prison. A secretive prisoner swap granted him freedom
+ - [https://www.cbc.ca/news/world/vladimir-kara-murza-russian-prison-swap-1.7314003?cmp=rss](https://www.cbc.ca/news/world/vladimir-kara-murza-russian-prison-swap-1.7314003?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7314004.1725541546!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vladimir-kara-murza.jpg' alt='Vladimir Kara-Murza, who was released as part of a prisoner exchange between the west and Russia, spoke to a few hundred from Berlin&apos;s Russian community  on Sept.3 about life in a maximum security prison, and his hopes for Russia&apos;s future. ' width='620' height='349' title='Vladimir Kara-Murza, who was released as part of a prisoner exchange between the west and Russia, spoke to a few hundred from Berlin&apos;s Russian community  on Sept.3 about life in a maximum security prison, and his hopes for Russia&apos;s future. '/><p>In his first Canadian interview since being released in a historic prisoner swap, Vladimir Kara-Murza talks about being imprisoned by Russia for criticizing the invasion of Ukraine.</p>
+
+## Why doesn't Canada have more electric school buses?
+ - [https://www.cbc.ca/news/politics/green-school-bus-funding-delays-1.7314006?cmp=rss](https://www.cbc.ca/news/politics/green-school-bus-funding-delays-1.7314006?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-06T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7314902.1725572554!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lion-electric.jpg' alt='Lion Electric in Saint-Jérôme, Que. is the only Canadian school bus manufacturer that focuses exclusively on electric models.' width='620' height='349' title='Lion Electric in Saint-Jérôme, Que. is the only Canadian school bus manufacturer that focuses exclusively on electric models.'/><p>Kids like them because they're quieter and less stinky — plus, they don't have to worry about their ride to school contributing to climate change. Data even links riding e-buses to higher test scores. So why is only two per cent of Canada's school bus fleet electric?</p>
+

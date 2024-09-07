@@ -1,0 +1,338 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Ukrainian Reinforcements Are Counterattacking Outside Pokrovsk
+ - [https://www.reddit.com/r/worldnews/comments/1faqiua/ukrainian_reinforcements_are_counterattacking](https://www.reddit.com/r/worldnews/comments/1faqiua/ukrainian_reinforcements_are_counterattacking)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T21:27:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faqiua/ukrainian_reinforcements_are_counterattacking/"> <img src="https://external-preview.redd.it/MMUdNFja-PUa21hp2Zx5a4AfcTiWYSfrr67IQqAik6Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86b5d17c32eb43ee15d27b9c5bcb05f1e630d81a" alt="Ukrainian Reinforcements Are Counterattacking Outside Pokrovsk" title="Ukrainian Reinforcements Are Counterattacking Outside Pokrovsk" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br/> <span><a href="https://www.forbes.com/sites/davidaxe/2024/09/06/ukrainian-reinforcements-are-counterattacking-outside-pokrovsk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faqiua/ukrainian_reinforcements_are_counterattacking/">[comments]</a></span> </td></tr></table>
+
+## ‘All friendships are over’: Lithuania fortifies border with Russia’s Kaliningrad
+ - [https://www.reddit.com/r/worldnews/comments/1faq9nr/all_friendships_are_over_lithuania_fortifies](https://www.reddit.com/r/worldnews/comments/1faq9nr/all_friendships_are_over_lithuania_fortifies)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T21:16:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faq9nr/all_friendships_are_over_lithuania_fortifies/"> <img src="https://external-preview.redd.it/6aR4n7N4AO8kEl2o5cVn77uBpPtzBGMiOw7I5AfXv2s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e019e4adfca751beae8f9278d351e5934080a59" alt="‘All friendships are over’: Lithuania fortifies border with Russia’s Kaliningrad" title="‘All friendships are over’: Lithuania fortifies border with Russia’s Kaliningrad" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ubcstaffer123"> /u/ubcstaffer123 </a> <br/> <span><a href="https://www.lrt.lt/en/news-in-english/19/2354296/all-friendships-are-over-lithuania-fortifies-border-with-russia-s-kaliningrad">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faq9nr/all_friendships_are_over_lithuania_fortifies/">[comments]</a></span> </td></tr></table>
+
+## Iran provided Russia with ballistic missiles – WSJ
+ - [https://www.reddit.com/r/worldnews/comments/1faptyj/iran_provided_russia_with_ballistic_missiles_wsj](https://www.reddit.com/r/worldnews/comments/1faptyj/iran_provided_russia_with_ballistic_missiles_wsj)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T20:57:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faptyj/iran_provided_russia_with_ballistic_missiles_wsj/"> <img src="https://external-preview.redd.it/h8kIZJrjM8thBuO2xQyrbMU1ZGsf_UB3iJKhtFbRM_k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86bae2d3874d1cea644e170cd07d5987dac4ce07" alt="Iran provided Russia with ballistic missiles – WSJ" title="Iran provided Russia with ballistic missiles – WSJ" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2024/09/6/7473837/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faptyj/iran_provided_russia_with_ballistic_missiles_wsj/">[comments]</a></span> </td></tr></table>
+
+## Russia vows to restrict US media in response to RT case
+ - [https://www.reddit.com/r/worldnews/comments/1faphgk/russia_vows_to_restrict_us_media_in_response_to](https://www.reddit.com/r/worldnews/comments/1faphgk/russia_vows_to_restrict_us_media_in_response_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T20:42:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faphgk/russia_vows_to_restrict_us_media_in_response_to/"> <img src="https://external-preview.redd.it/IWNTY0QC0YGht_ep4I6JtVC1hZnNmuHV2JDD8IBthKc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8dd4f1fa9b075ebe4b989f4a9061c5f9fc85da5" alt="Russia vows to restrict US media in response to RT case" title="Russia vows to restrict US media in response to RT case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br/> <span><a href="https://www.dw.com/en/russia-vows-to-restrict-us-media-in-response-to-rt-row/a-70155693">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faphgk/russia_vows_to_restrict_us_media_in_response_to/">[comments]</a></span> </td></tr></table>
+
+## Judge in Brazil orders slaughterhouses to pay for Amazon reforestation
+ - [https://www.reddit.com/r/worldnews/comments/1fap7l3/judge_in_brazil_orders_slaughterhouses_to_pay_for](https://www.reddit.com/r/worldnews/comments/1fap7l3/judge_in_brazil_orders_slaughterhouses_to_pay_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T20:31:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fap7l3/judge_in_brazil_orders_slaughterhouses_to_pay_for/"> <img src="https://external-preview.redd.it/DxEnmcL6vfLASWV8HE80I9Blkb46DmXk7OCGs6-BueU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b0978a6a34028d1cc7de12fe3d94731b587c085" alt="Judge in Brazil orders slaughterhouses to pay for Amazon reforestation" title="Judge in Brazil orders slaughterhouses to pay for Amazon reforestation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br/> <span><a href="https://apnews.com/article/brazil-amazon-deforestation-cattle-environment-387912a13bf13b03da0b7724604c9325">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fap7l3/judge_in_brazil_orders_slaughterhouses_to_pay_for/">[comments]</a></span> </td></tr></table>
+
+## The jet stream may be starting to shift in response to climate change
+ - [https://www.reddit.com/r/worldnews/comments/1faoxfn/the_jet_stream_may_be_starting_to_shift_in](https://www.reddit.com/r/worldnews/comments/1faoxfn/the_jet_stream_may_be_starting_to_shift_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T20:19:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faoxfn/the_jet_stream_may_be_starting_to_shift_in/"> <img src="https://external-preview.redd.it/X3-MPqmfT7EtvgBvLFJLkPuC8k85-M7qTViSH1kEYoc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58ec50a58fd97ac21521006d2a5c2ba91dcd147b" alt="The jet stream may be starting to shift in response to climate change" title="The jet stream may be starting to shift in response to climate change" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dead_planets_society"> /u/dead_planets_society </a> <br/> <span><a href="https://www.newscientist.com/article/2446877-the-jet-stream-may-be-starting-to-shift-in-response-to-climate-change/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faoxfn/the_jet_stream_may_be_starting_to_shift_in/">[comments]</a></span> </td></tr></table>
+
+## Russia bans piracy websites from streaming Brokeback Mountain over ‘gay propaganda’
+ - [https://www.reddit.com/r/worldnews/comments/1faofrc/russia_bans_piracy_websites_from_streaming](https://www.reddit.com/r/worldnews/comments/1faofrc/russia_bans_piracy_websites_from_streaming)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T19:59:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faofrc/russia_bans_piracy_websites_from_streaming/"> <img src="https://external-preview.redd.it/0WM7SjdfwK577E7iVMa4AUP19Xl-3OisCixb1HIl5-k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd9056317c182aaa47ea22627bc3255aec9528bb" alt="Russia bans piracy websites from streaming Brokeback Mountain over ‘gay propaganda’" title="Russia bans piracy websites from streaming Brokeback Mountain over ‘gay propaganda’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2024/09/06/russia-bans-piracy-websites-from-streaming-brokeback-mountain-over-gay-propaganda-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faofrc/russia_bans_piracy_websites_from_streaming/">[comments]</a></span> </td></tr></table>
+
+## American F-35 stealth fighters landed on a highway in Europe for the first time in training with one of NATO's newest allies
+ - [https://www.reddit.com/r/worldnews/comments/1faocy6/american_f35_stealth_fighters_landed_on_a_highway](https://www.reddit.com/r/worldnews/comments/1faocy6/american_f35_stealth_fighters_landed_on_a_highway)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T19:55:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faocy6/american_f35_stealth_fighters_landed_on_a_highway/"> <img src="https://external-preview.redd.it/PXGg93huCYIoqqAhRg4rT3zLGVA-6dGmEDVu4t9z3kE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc3a5f567562cb4b5517002372f5dbb3cd2c14f3" alt="American F-35 stealth fighters landed on a highway in Europe for the first time in training with one of NATO's newest allies" title="American F-35 stealth fighters landed on a highway in Europe for the first time in training with one of NATO's newest allies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dept404"> /u/Dept404 </a> <br/> <span><a href="https://www.yahoo.com/news/american-f-35-stealth-fighters-140856990.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faocy6/american_f35_stealth_fighters_landed_on_a_highway/">[comments]</a></span> </td></tr></table>
+
+## Fury as Filipino officials pose with 'China spy mayor'
+ - [https://www.reddit.com/r/worldnews/comments/1falnhs/fury_as_filipino_officials_pose_with_china_spy](https://www.reddit.com/r/worldnews/comments/1falnhs/fury_as_filipino_officials_pose_with_china_spy)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T18:01:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1falnhs/fury_as_filipino_officials_pose_with_china_spy/"> <img src="https://external-preview.redd.it/zUkKutHUj3PSKCJI6CxH0ZTIWZai8QZA5U-CS-lHE3o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0478de4e1955eb2763b907e95d5590fe5a6445ad" alt="Fury as Filipino officials pose with 'China spy mayor'" title="Fury as Filipino officials pose with 'China spy mayor'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LenasHotTakes"> /u/LenasHotTakes </a> <br/> <span><a href="https://www.bbc.com/news/articles/cdxl8j8lyjzo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1falnhs/fury_as_filipino_officials_pose_with_china_spy/">[comments]</a></span> </td></tr></table>
+
+## US activist shot dead as Israeli military opened fire in West Bank protest
+ - [https://www.reddit.com/r/worldnews/comments/1falarq/us_activist_shot_dead_as_israeli_military_opened](https://www.reddit.com/r/worldnews/comments/1falarq/us_activist_shot_dead_as_israeli_military_opened)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T17:46:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1falarq/us_activist_shot_dead_as_israeli_military_opened/"> <img src="https://external-preview.redd.it/IsXi33E0Ulq07WA5bpGMk-AK9ANCjRqBnw8L0NCsBUM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=008d8a09aa0fa5a24cd169e4c4bd869e01eb237d" alt="US activist shot dead as Israeli military opened fire in West Bank protest" title="US activist shot dead as Israeli military opened fire in West Bank protest" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/adasiukevich"> /u/adasiukevich </a> <br/> <span><a href="https://www.bbc.com/news/articles/cdx6771gyqzo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1falarq/us_activist_shot_dead_as_israeli_military_opened/">[comments]</a></span> </td></tr></table>
+
+## Ukraine to receive 77 Leopard 1 tanks and 12 PzH2000 howitzers, German Defense Minister Pistorius says
+ - [https://www.reddit.com/r/worldnews/comments/1fal4u3/ukraine_to_receive_77_leopard_1_tanks_and_12](https://www.reddit.com/r/worldnews/comments/1fal4u3/ukraine_to_receive_77_leopard_1_tanks_and_12)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T17:39:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fal4u3/ukraine_to_receive_77_leopard_1_tanks_and_12/"> <img src="https://external-preview.redd.it/w2ySM_yc7d2nOqYJUAnDYq2eBeyUGH2nZWl0hPlNFpY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ba6fd9ae64a6f60e763018e1f65b700f631aefd" alt="Ukraine to receive 77 Leopard 1 tanks and 12 PzH2000 howitzers, German Defense Minister Pistorius says" title="Ukraine to receive 77 Leopard 1 tanks and 12 PzH2000 howitzers, German Defense Minister Pistorius says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MeiMagic"> /u/MeiMagic </a> <br/> <span><a href="https://euromaidanpress.com/2024/09/06/ukraine-to-receive-77-leopard-1-tanks-and-12-pzh2000-howitzers-german-defense-minister-pistorius-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fal4u3/ukraine_to_receive_77_leopard_1_tanks_and_12/">[comments]</a></span> </td></tr></table>
+
+## Trudeau remains silent on potentially treasonous Canadian parliamentarians
+ - [https://www.reddit.com/r/worldnews/comments/1fakciz/trudeau_remains_silent_on_potentially_treasonous](https://www.reddit.com/r/worldnews/comments/1fakciz/trudeau_remains_silent_on_potentially_treasonous)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T17:06:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fakciz/trudeau_remains_silent_on_potentially_treasonous/"> <img src="https://external-preview.redd.it/UZPqn8RS6H0OZngbrAadxVTAwfPWBG8qYAMWshn2iGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50e2a199d3697f889cb3d11af85a841ab96aa117" alt="Trudeau remains silent on potentially treasonous Canadian parliamentarians" title="Trudeau remains silent on potentially treasonous Canadian parliamentarians" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaliperLee62"> /u/CaliperLee62 </a> <br/> <span><a href="https://hamiltonindependent.ca/trudeau-remains-silent-on-potentially-treasonous-parliamentarians/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fakciz/trudeau_remains_silent_on_potentially_treasonous/">[comments]</a></span> </td></tr></table>
+
+## Korean women take their fight against deepfake exploitation to the streets
+ - [https://www.reddit.com/r/worldnews/comments/1fak7ga/korean_women_take_their_fight_against_deepfake](https://www.reddit.com/r/worldnews/comments/1fak7ga/korean_women_take_their_fight_against_deepfake)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T17:00:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fak7ga/korean_women_take_their_fight_against_deepfake/"> <img src="https://external-preview.redd.it/2L4UrW3xc8vKACWCYpWE8iDcYeSjvMCjruFN5qFw-kE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37abeb31198b27b60aaa772818d975286b78b4a7" alt="Korean women take their fight against deepfake exploitation to the streets" title="Korean women take their fight against deepfake exploitation to the streets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/michaelbachari"> /u/michaelbachari </a> <br/> <span><a href="https://english.hani.co.kr/arti/english_edition/e_national/1157373.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fak7ga/korean_women_take_their_fight_against_deepfake/">[comments]</a></span> </td></tr></table>
+
+## Afghan women sing in defiance of Taliban laws silencing their voices
+ - [https://www.reddit.com/r/worldnews/comments/1fajkyd/afghan_women_sing_in_defiance_of_taliban_laws](https://www.reddit.com/r/worldnews/comments/1fajkyd/afghan_women_sing_in_defiance_of_taliban_laws)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T16:34:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fajkyd/afghan_women_sing_in_defiance_of_taliban_laws/"> <img src="https://external-preview.redd.it/zR16Ao1JL7N3ww_9DL98u5qciapJUMWGSGhWJJkE_Sk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ff5d10e863e2c0ab43492690b42bd45ce44069e" alt="Afghan women sing in defiance of Taliban laws silencing their voices" title="Afghan women sing in defiance of Taliban laws silencing their voices" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scubadoobidoo"> /u/scubadoobidoo </a> <br/> <span><a href="https://www.theguardian.com/world/article/2024/sep/01/afghan-women-sing-in-defiance-of-taliban-laws-silencing-their-voices">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fajkyd/afghan_women_sing_in_defiance_of_taliban_laws/">[comments]</a></span> </td></tr></table>
+
+## Hungarian star priest who blessed the prime minister's office has resigned, after it was revealed that he has been attending gay parties.
+ - [https://www.reddit.com/r/worldnews/comments/1faiu34/hungarian_star_priest_who_blessed_the_prime](https://www.reddit.com/r/worldnews/comments/1faiu34/hungarian_star_priest_who_blessed_the_prime)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T16:03:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faiu34/hungarian_star_priest_who_blessed_the_prime/"> <img src="https://external-preview.redd.it/OPz-xqyK4-PaqTmiRIceBwwSlzb5DlZB9C6j2WK6rIE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66d0d6901729a95c2bdf50ed9570106d8137786c" alt="Hungarian star priest who blessed the prime minister's office has resigned, after it was revealed that he has been attending gay parties." title="Hungarian star priest who blessed the prime minister's office has resigned, after it was revealed that he has been attending gay parties." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ody42"> /u/ody42 </a> <br/> <span><a href="https://telex.hu/english/2024/09/06/star-priest-who-blessed-both-the-prime-ministers-office-and-megafon-may-have-been-attending-gay-parties-catholic-church-launches-investigation">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faiu34/hungarian_st
+
+## The White House on Friday requested Israel investigate the death of an American woman in the occupied West Bank.
+ - [https://www.reddit.com/r/worldnews/comments/1faitr5/the_white_house_on_friday_requested_israel](https://www.reddit.com/r/worldnews/comments/1faitr5/the_white_house_on_friday_requested_israel)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T16:02:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faitr5/the_white_house_on_friday_requested_israel/"> <img src="https://external-preview.redd.it/aFWRWH9D_oDP2WW7jZgqjye5ci2vm_ZR1kJY2GW3-q0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db830af580dbc8952f96a1b8ac08d1c8c222b56e" alt="The White House on Friday requested Israel investigate the death of an American woman in the occupied West Bank." title="The White House on Friday requested Israel investigate the death of an American woman in the occupied West Bank." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/news/world/american-woman-killed-west-bank-israel-investigation-rcna169914">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faitr5/the_white_house_on_friday_requested_israel/">[comments]</a></span> </td></tr></table>
+
+## Daughter of French man who invited men to rape mother speaks of ‘descent into hell’
+ - [https://www.reddit.com/r/worldnews/comments/1fair77/daughter_of_french_man_who_invited_men_to_rape](https://www.reddit.com/r/worldnews/comments/1fair77/daughter_of_french_man_who_invited_men_to_rape)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T16:00:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fair77/daughter_of_french_man_who_invited_men_to_rape/"> <img src="https://external-preview.redd.it/383yb5kUMjJE-txNmAhqZSPCVTkGaB4g4KkVTGQ2I9g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f610095a558e84cf461360a5b638012635da2b9" alt="Daughter of French man who invited men to rape mother speaks of ‘descent into hell’" title="Daughter of French man who invited men to rape mother speaks of ‘descent into hell’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://www.theguardian.com/world/article/2024/sep/06/daughter-of-french-man-who-invited-men-to-rape-mother-speaks-of-descent-into-hell-dominique-pelicot-gisele-pelicot">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fair77/daughter_of_french_man_who_invited_men_to_rape/">[comments]</a></span> </td></tr></table>
+
+## ‘I couldn’t say no’: anger grows over topless medical exams in Japan schools
+ - [https://www.reddit.com/r/worldnews/comments/1fahukv/i_couldnt_say_no_anger_grows_over_topless_medical](https://www.reddit.com/r/worldnews/comments/1fahukv/i_couldnt_say_no_anger_grows_over_topless_medical)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T15:22:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fahukv/i_couldnt_say_no_anger_grows_over_topless_medical/"> <img src="https://external-preview.redd.it/KlS0ZUGgdrWR2THrlz9wkIlg2Y6DQXBvB2j9o4j-rHs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=281b613585a1e9d96b48866861a8f44e47e42e9b" alt="‘I couldn’t say no’: anger grows over topless medical exams in Japan schools" title="‘I couldn’t say no’: anger grows over topless medical exams in Japan schools" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/satisfiedfools"> /u/satisfiedfools </a> <br/> <span><a href="https://www.theguardian.com/world/article/2024/sep/06/japanese-schools-topless-health-checks-checkups-japan-school-student-medical-exams">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fahukv/i_couldnt_say_no_anger_grows_over_topless_medical/">[comments]</a></span> </td></tr></table>
+
+## Australia's online regulator got death threats for case against X
+ - [https://www.reddit.com/r/worldnews/comments/1fahrys/australias_online_regulator_got_death_threats_for](https://www.reddit.com/r/worldnews/comments/1fahrys/australias_online_regulator_got_death_threats_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T15:19:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fahrys/australias_online_regulator_got_death_threats_for/"> <img src="https://external-preview.redd.it/MMXCpZDBGFFlll5DxSELhmqo6rOZV8t9yY5q9ZAL2aY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bbc4bcc053861335e606abd802e5ae6ec7b59b3" alt="Australia's online regulator got death threats for case against X" title="Australia's online regulator got death threats for case against X" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Impulsive_boy"> /u/Impulsive_boy </a> <br/> <span><a href="https://www.bbc.com/news/articles/cx2ymd32g2eo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fahrys/australias_online_regulator_got_death_threats_for/">[comments]</a></span> </td></tr></table>
+
+## Right-wing US influencers say they were victims of alleged Russian plot
+ - [https://www.reddit.com/r/worldnews/comments/1fagg5s/rightwing_us_influencers_say_they_were_victims_of](https://www.reddit.com/r/worldnews/comments/1fagg5s/rightwing_us_influencers_say_they_were_victims_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T14:23:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fagg5s/rightwing_us_influencers_say_they_were_victims_of/"> <img src="https://external-preview.redd.it/QQQ0bfqtJKQlaFJ9fhK9BVvdPdRB63S4cALvevDkCXA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd78dc201f35d0f2953bec83a429e154827d26e2" alt="Right-wing US influencers say they were victims of alleged Russian plot" title="Right-wing US influencers say they were victims of alleged Russian plot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jojo-thewalrus"> /u/jojo-thewalrus </a> <br/> <span><a href="https://www.bbc.com/news/articles/crrlv7jdnq8o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fagg5s/rightwing_us_influencers_say_they_were_victims_of/">[comments]</a></span> </td></tr></table>
+
+## Ukraine needs long-range weapons, permission to hit targets deep inside Russia, Zelenskyy says at Ramstein
+ - [https://www.reddit.com/r/worldnews/comments/1fag3cm/ukraine_needs_longrange_weapons_permission_to_hit](https://www.reddit.com/r/worldnews/comments/1fag3cm/ukraine_needs_longrange_weapons_permission_to_hit)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T14:08:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fag3cm/ukraine_needs_longrange_weapons_permission_to_hit/"> <img src="https://external-preview.redd.it/5iHHimNPlQxEwp36KDktT1tAq7L2JANsS1ppir18TPU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a833bf67c76644ad0feebdd4001b64c886f292ed" alt="Ukraine needs long-range weapons, permission to hit targets deep inside Russia, Zelenskyy says at Ramstein" title="Ukraine needs long-range weapons, permission to hit targets deep inside Russia, Zelenskyy says at Ramstein" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MeiMagic"> /u/MeiMagic </a> <br/> <span><a href="https://euromaidanpress.com/2024/09/06/ukraine-needs-long-range-weapons-permission-to-hit-targets-deep-inside-russia-zelenskyy-says-at-ramstein/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fag3cm/ukraine_needs_longrange_weapons_permission_to_hit/">[comments]</a></span> </td></tr></table>
+
+## Zelensky claims 6,000 Russian soldiers killed, wounded in Kursk Oblast
+ - [https://www.reddit.com/r/worldnews/comments/1fafv0g/zelensky_claims_6000_russian_soldiers_killed](https://www.reddit.com/r/worldnews/comments/1fafv0g/zelensky_claims_6000_russian_soldiers_killed)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T13:58:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fafv0g/zelensky_claims_6000_russian_soldiers_killed/"> <img src="https://external-preview.redd.it/rfhV8WtpB4GrykESYc7z3odWhr6xpr8w4ZWF6ykxjDg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76c71f61db8dd2c8d38995be2ae410e9d61686bc" alt="Zelensky claims 6,000 Russian soldiers killed, wounded in Kursk Oblast" title="Zelensky claims 6,000 Russian soldiers killed, wounded in Kursk Oblast" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://kyivindependent.com/zelensky-ramstein-kursk-threat-sumy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fafv0g/zelensky_claims_6000_russian_soldiers_killed/">[comments]</a></span> </td></tr></table>
+
+## American activist shot dead in occupied West Bank
+ - [https://www.reddit.com/r/worldnews/comments/1fafc9b/american_activist_shot_dead_in_occupied_west_bank](https://www.reddit.com/r/worldnews/comments/1fafc9b/american_activist_shot_dead_in_occupied_west_bank)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T13:35:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fafc9b/american_activist_shot_dead_in_occupied_west_bank/"> <img src="https://external-preview.redd.it/IsXi33E0Ulq07WA5bpGMk-AK9ANCjRqBnw8L0NCsBUM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=008d8a09aa0fa5a24cd169e4c4bd869e01eb237d" alt="American activist shot dead in occupied West Bank" title="American activist shot dead in occupied West Bank" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/time_waster_3000"> /u/time_waster_3000 </a> <br/> <span><a href="https://www.bbc.com/news/articles/cdx6771gyqzo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fafc9b/american_activist_shot_dead_in_occupied_west_bank/">[comments]</a></span> </td></tr></table>
+
+## American activist shot dead during protest in West Bank, Palestinian officials say
+ - [https://www.reddit.com/r/worldnews/comments/1faenob/american_activist_shot_dead_during_protest_in](https://www.reddit.com/r/worldnews/comments/1faenob/american_activist_shot_dead_during_protest_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T13:03:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faenob/american_activist_shot_dead_during_protest_in/"> <img src="https://external-preview.redd.it/e4Yk9ti2PV0arTbF013yQ2_FMR4Vm9egwyo_fy_EQcs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e605850a89439d5dd67224dd5e6955aa472662ed" alt="American activist shot dead during protest in West Bank, Palestinian officials say" title="American activist shot dead during protest in West Bank, Palestinian officials say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thiefofalways1313"> /u/thiefofalways1313 </a> <br/> <span><a href="https://www.cnn.com/2024/09/06/middleeast/american-activist-killed-west-bank-intl?cid=ios_app">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faenob/american_activist_shot_dead_during_protest_in/">[comments]</a></span> </td></tr></table>
+
+## Iran warns Russia against siding with Azerbaijan in border dispute | Iran | The Guardian
+ - [https://www.reddit.com/r/worldnews/comments/1faei7k/iran_warns_russia_against_siding_with_azerbaijan](https://www.reddit.com/r/worldnews/comments/1faei7k/iran_warns_russia_against_siding_with_azerbaijan)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T12:56:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faei7k/iran_warns_russia_against_siding_with_azerbaijan/"> <img src="https://external-preview.redd.it/XT2qixuiYISwzGtwMJ5GHi_-3eUmwQbb1F4Ea6iRJlg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8d3d5e81627a0b67fe7e532c878b982e0c63523" alt="Iran warns Russia against siding with Azerbaijan in border dispute | Iran | The Guardian" title="Iran warns Russia against siding with Azerbaijan in border dispute | Iran | The Guardian" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Human-Entrepreneur77"> /u/Human-Entrepreneur77 </a> <br/> <span><a href="https://www.theguardian.com/world/article/2024/sep/06/iran-warns-russia-against-siding-with-azerbaijan-in-border-dispute">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faei7k/iran_warns_russia_against_siding_with_azerbaijan/">[comments]</a></span> </td></tr></table>
+
+## Sao Paulo beefs up security for Brazil's 1st ever NFL game as players raise crime concerns
+ - [https://www.reddit.com/r/worldnews/comments/1fad56p/sao_paulo_beefs_up_security_for_brazils_1st_ever](https://www.reddit.com/r/worldnews/comments/1fad56p/sao_paulo_beefs_up_security_for_brazils_1st_ever)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T11:46:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fad56p/sao_paulo_beefs_up_security_for_brazils_1st_ever/"> <img src="https://external-preview.redd.it/ErBJpZA3wOkDDi2La8Efjm0CQxXAwIZ1oIFhhyaAEK8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=088e6126ef84efe8f5389441b990666c76eb15ca" alt="Sao Paulo beefs up security for Brazil's 1st ever NFL game as players raise crime concerns" title="Sao Paulo beefs up security for Brazil's 1st ever NFL game as players raise crime concerns" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThiagoSousaSilveira"> /u/ThiagoSousaSilveira </a> <br/> <span><a href="https://www.yahoo.com/news/sao-paulo-beefs-security-brazils-011026812.html?guccounter=1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fad56p/sao_paulo_beefs_up_security_for_brazils_1st_ever/">[comments]</a></span> </td></tr></table>
+
+## Notorious Russian military intelligence unit carrying out cyber attacks on Western countries, agencies warn
+ - [https://www.reddit.com/r/worldnews/comments/1fad0a2/notorious_russian_military_intelligence_unit](https://www.reddit.com/r/worldnews/comments/1fad0a2/notorious_russian_military_intelligence_unit)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T11:39:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fad0a2/notorious_russian_military_intelligence_unit/"> <img src="https://external-preview.redd.it/Vsc5i9claTlgmoU5ZU_hVwObgeACPX8UYMqmrnJUT6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e763453242df0adb649191893970723ead655bcf" alt="Notorious Russian military intelligence unit carrying out cyber attacks on Western countries, agencies warn" title="Notorious Russian military intelligence unit carrying out cyber attacks on Western countries, agencies warn" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/notorious-russian-military-intelligence-unit-carrying-out-cyber-attacks-on-western-countries-agencies-warn/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fad0a2/notorious_russian_military_intelligence_unit/">[comments]</a></span> </td></tr></table>
+
+## EXCL: US could negotiate directly with Hamas to free American Gaza hostages
+ - [https://www.reddit.com/r/worldnews/comments/1facx0q/excl_us_could_negotiate_directly_with_hamas_to](https://www.reddit.com/r/worldnews/comments/1facx0q/excl_us_could_negotiate_directly_with_hamas_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T11:34:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1facx0q/excl_us_could_negotiate_directly_with_hamas_to/"> <img src="https://external-preview.redd.it/oUi4gqd_e2QtCumMbqHsFlWSEFvcyTvFvJZgLZhkCiY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=864e4a56d28d96127bc323e42f600fcf2fc235f0" alt="EXCL: US could negotiate directly with Hamas to free American Gaza hostages" title="EXCL: US could negotiate directly with Hamas to free American Gaza hostages" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2024/09/06/us-considers-negotiating-hamas-american-gaza-hostages/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1facx0q/excl_us_could_negotiate_directly_with_hamas_to/">[comments]</a></span> </td></tr></table>
+
+## Russian troops apparently kill surrendering Ukrainian soldiers near Pokrovsk, CNN reports
+ - [https://www.reddit.com/r/worldnews/comments/1facjkf/russian_troops_apparently_kill_surrendering](https://www.reddit.com/r/worldnews/comments/1facjkf/russian_troops_apparently_kill_surrendering)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T11:12:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1facjkf/russian_troops_apparently_kill_surrendering/"> <img src="https://external-preview.redd.it/3pxrJXUBUTHReI1J59YBht4sNBw-FgaD4YmQ9PBomC0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b513d0ddffe8dc6766395f698c32db1d4c2ce8a5" alt="Russian troops apparently kill surrendering Ukrainian soldiers near Pokrovsk, CNN reports" title="Russian troops apparently kill surrendering Ukrainian soldiers near Pokrovsk, CNN reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_Sleep_4"> /u/Apprehensive_Sleep_4 </a> <br/> <span><a href="https://kyivindependent.com/russian-troops-kill-surrendering-ukrainian-soldiers-near-pokrovsk-cnn-reports/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1facjkf/russian_troops_apparently_kill_surrendering/">[comments]</a></span> </td></tr></table>
+
+## Canada to supply Ukraine with over 80,000 unarmed small rockets, some warheads
+ - [https://www.reddit.com/r/worldnews/comments/1facb9q/canada_to_supply_ukraine_with_over_80000_unarmed](https://www.reddit.com/r/worldnews/comments/1facb9q/canada_to_supply_ukraine_with_over_80000_unarmed)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T10:59:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/twotwo_twentytwo"> /u/twotwo_twentytwo </a> <br/> <span><a href="https://www.reuters.com/world/canada-supply-ukraine-with-over-80000-unarmed-small-rockets-some-warheads-2024-09-06/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1facb9q/canada_to_supply_ukraine_with_over_80000_unarmed/">[comments]</a></span>
+
+## Kenya school fire leaves at least 17 pupils dead and more injured, police say
+ - [https://www.reddit.com/r/worldnews/comments/1fac7dg/kenya_school_fire_leaves_at_least_17_pupils_dead](https://www.reddit.com/r/worldnews/comments/1fac7dg/kenya_school_fire_leaves_at_least_17_pupils_dead)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T10:52:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fac7dg/kenya_school_fire_leaves_at_least_17_pupils_dead/"> <img src="https://external-preview.redd.it/e8CruVqads_UU4QhLf8XGcFgtjO7fxYuan9W35PxETg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e2e630d3fb2504ee0deea1abd06570bc1a21667" alt="Kenya school fire leaves at least 17 pupils dead and more injured, police say" title="Kenya school fire leaves at least 17 pupils dead and more injured, police say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scubadoobidoo"> /u/scubadoobidoo </a> <br/> <span><a href="https://www.bbc.com/news/articles/cje2jnlldgvo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fac7dg/kenya_school_fire_leaves_at_least_17_pupils_dead/">[comments]</a></span> </td></tr></table>
+
+## NATO chief urges China to stop supporting Russia's war in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1fabdxo/nato_chief_urges_china_to_stop_supporting_russias](https://www.reddit.com/r/worldnews/comments/1fabdxo/nato_chief_urges_china_to_stop_supporting_russias)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T09:58:43+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/IntlDogOfMystery"> /u/IntlDogOfMystery </a> <br/> <span><a href="https://www.reuters.com/world/europe/nato-chief-urges-china-stop-supporting-russias-war-ukraine-2024-09-06/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fabdxo/nato_chief_urges_china_to_stop_supporting_russias/">[comments]</a></span>
+
+## Kremlin argues for ‘total freedom of information’ but defends wartime censorship
+ - [https://www.reddit.com/r/worldnews/comments/1fab3z5/kremlin_argues_for_total_freedom_of_information](https://www.reddit.com/r/worldnews/comments/1fab3z5/kremlin_argues_for_total_freedom_of_information)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T09:38:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fab3z5/kremlin_argues_for_total_freedom_of_information/"> <img src="https://external-preview.redd.it/ZP-PM9tyLaO8xgw0AlN04b7syF986SsKoBUDFhLICdk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60a31ccbf60d08096c04fba5a94d1f24b922c899" alt="Kremlin argues for ‘total freedom of information’ but defends wartime censorship" title="Kremlin argues for ‘total freedom of information’ but defends wartime censorship" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2024/09/06/kremlin-argues-for-total-freedom-of-information-but-defends-wartime-censorship-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fab3z5/kremlin_argues_for_total_freedom_of_information/">[comments]</a></span> </td></tr></table>
+
+## The planet endures its hottest summer on record — for the second straight year
+ - [https://www.reddit.com/r/worldnews/comments/1fab30j/the_planet_endures_its_hottest_summer_on_record](https://www.reddit.com/r/worldnews/comments/1fab30j/the_planet_endures_its_hottest_summer_on_record)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T09:36:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fab30j/the_planet_endures_its_hottest_summer_on_record/"> <img src="https://external-preview.redd.it/eZ_6gpm3Nkc36K0UrMBro0KbPJvm1dZ0NtAByr3xhXQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07c24a0f66b24bcb6162beaeabdf8e89d6353e34" alt="The planet endures its hottest summer on record — for the second straight year" title="The planet endures its hottest summer on record — for the second straight year" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SaltProfessor3582"> /u/SaltProfessor3582 </a> <br/> <span><a href="https://edition.cnn.com/2024/09/05/climate/hottest-summer-record-copernicus/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fab30j/the_planet_endures_its_hottest_summer_on_record/">[comments]</a></span> </td></tr></table>
+
+## Woman describes horror of learning husband drugged her so others could rape her
+ - [https://www.reddit.com/r/worldnews/comments/1faa3v7/woman_describes_horror_of_learning_husband](https://www.reddit.com/r/worldnews/comments/1faa3v7/woman_describes_horror_of_learning_husband)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T08:24:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1faa3v7/woman_describes_horror_of_learning_husband/"> <img src="https://external-preview.redd.it/AWs2a8zhVVXf6mikAcPn0Lz1jXCo9oGCIe25wTaczB0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=597762e3280a9423ec3a3e220b7a3c9c90d2625e" alt="Woman describes horror of learning husband drugged her so others could rape her" title="Woman describes horror of learning husband drugged her so others could rape her" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Impulsive_boy"> /u/Impulsive_boy </a> <br/> <span><a href="https://www.bbc.com/news/articles/cd9dwxexp77o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1faa3v7/woman_describes_horror_of_learning_husband/">[comments]</a></span> </td></tr></table>
+
+## Journalists confirm Putin has two secret sons with Alina Kabaeva
+ - [https://www.reddit.com/r/worldnews/comments/1fa9wya/journalists_confirm_putin_has_two_secret_sons](https://www.reddit.com/r/worldnews/comments/1fa9wya/journalists_confirm_putin_has_two_secret_sons)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T08:09:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/The_New_Voice"> /u/The_New_Voice </a> <br/> <span><a href="https://english.nv.ua/nation/journalists-reveal-putin-s-secret-sons-with-alina-kabaeva-born-in-2015-and-2019-50448250.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa9wya/journalists_confirm_putin_has_two_secret_sons/">[comments]</a></span>
+
+## Biden administration wants to save over US$6 billion in Ukraine aid as deadline expires
+ - [https://www.reddit.com/r/worldnews/comments/1fa9bd6/biden_administration_wants_to_save_over_us6](https://www.reddit.com/r/worldnews/comments/1fa9bd6/biden_administration_wants_to_save_over_us6)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T07:23:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa9bd6/biden_administration_wants_to_save_over_us6/"> <img src="https://external-preview.redd.it/eL6JPpWnInEP1xeF-GakPuInns-RqPs5yyb7Xc53wpQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01ee40d82c79804707559dec271c84a52f4d0d6c" alt="Biden administration wants to save over US$6 billion in Ukraine aid as deadline expires" title="Biden administration wants to save over US$6 billion in Ukraine aid as deadline expires" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2024/09/6/7473718/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa9bd6/biden_administration_wants_to_save_over_us6/">[comments]</a></span> </td></tr></table>
+
+## 7-Eleven’s parent company rejects takeover proposal, says offer ‘grossly undervalues’ company
+ - [https://www.reddit.com/r/worldnews/comments/1fa6trl/7elevens_parent_company_rejects_takeover_proposal](https://www.reddit.com/r/worldnews/comments/1fa6trl/7elevens_parent_company_rejects_takeover_proposal)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T04:38:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa6trl/7elevens_parent_company_rejects_takeover_proposal/"> <img src="https://external-preview.redd.it/XtFt4738-jJkwhPlNita40sbs5_WZmc-a7VvMupC-Gs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bac6a517d3447da2397c7311ccb8cbd9108fa98" alt="7-Eleven’s parent company rejects takeover proposal, says offer ‘grossly undervalues’ company" title="7-Eleven’s parent company rejects takeover proposal, says offer ‘grossly undervalues’ company" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/news/world/7-elevens-parent-company-rejects-takeover-proposal-says-offer-grossly-rcna169874">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa6trl/7elevens_parent_company_rejects_takeover_proposal/">[comments]</a></span> </td></tr></table>
+
+## Scientists have confirmed that summer 2024 broke global heat records for the second consecutive year, making 2024 likely to be the hottest year in recorded history. Data from Copernicus, Europe’s climate change service, shows June to August as the hottest period since records began in 1940
+ - [https://www.reddit.com/r/worldnews/comments/1fa6tgc/scientists_have_confirmed_that_summer_2024_broke](https://www.reddit.com/r/worldnews/comments/1fa6tgc/scientists_have_confirmed_that_summer_2024_broke)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T04:38:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa6tgc/scientists_have_confirmed_that_summer_2024_broke/"> <img src="https://external-preview.redd.it/mM6MwPWnpYbmww-6V1sBcbJ2_PZBpX8AaeCYH_gXHHc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f89b58bef748d6f951925d62942a80fca3fa81f6" alt="Scientists have confirmed that summer 2024 broke global heat records for the second consecutive year, making 2024 likely to be the hottest year in recorded history. Data from Copernicus, Europe’s climate change service, shows June to August as the hottest period since records began in 1940" title="Scientists have confirmed that summer 2024 broke global heat records for the second consecutive year, making 2024 likely to be the hottest year in recorded history. Data from Copernicus, Europe’s climate change service, shows June to August as the hottest period since records began in 1940" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup">
+
+## ‘You have shown determination’: Malaysian PM praises Putin, pledges closer ties
+ - [https://www.reddit.com/r/worldnews/comments/1fa6m5f/you_have_shown_determination_malaysian_pm_praises](https://www.reddit.com/r/worldnews/comments/1fa6m5f/you_have_shown_determination_malaysian_pm_praises)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T04:26:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa6m5f/you_have_shown_determination_malaysian_pm_praises/"> <img src="https://external-preview.redd.it/I01eLkxKuNcKkstK5n5K0QffZDXmUmabgpzCcORyCOI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c89895c6c705f9a9bc15715fb7dcd54168b389d7" alt="‘You have shown determination’: Malaysian PM praises Putin, pledges closer ties" title="‘You have shown determination’: Malaysian PM praises Putin, pledges closer ties" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LaoAhPek"> /u/LaoAhPek </a> <br/> <span><a href="https://www.smh.com.au/world/asia/you-have-shown-determination-malaysian-pm-praises-putin-pledges-closer-ties-20240905-p5k867.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa6m5f/you_have_shown_determination_malaysian_pm_praises/">[comments]</a></span> </td></tr></table>
+
+## Telegram will start moderating private chats after CEO’s arrest
+ - [https://www.reddit.com/r/worldnews/comments/1fa6fbq/telegram_will_start_moderating_private_chats](https://www.reddit.com/r/worldnews/comments/1fa6fbq/telegram_will_start_moderating_private_chats)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T04:15:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa6fbq/telegram_will_start_moderating_private_chats/"> <img src="https://external-preview.redd.it/o7awVHNqF4YXqqjgiaQ5mrMa9vGhLXjfBDBHoTLiaVM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef9ff51da97fd3230ed1d331fa81fcc0af089e1d" alt="Telegram will start moderating private chats after CEO’s arrest" title="Telegram will start moderating private chats after CEO’s arrest" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://www.theverge.com/2024/9/5/24237254/telegram-pavel-durov-arrest-private-chats-moderation-policy-change">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa6fbq/telegram_will_start_moderating_private_chats/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 925, Part 1 (Thread #1072)
+ - [https://www.reddit.com/r/worldnews/comments/1fa66sw/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1fa66sw/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T04:02:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa66sw/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 925, Part 1 (Thread #1072)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 925, Part 1 (Thread #1072)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa66sw/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Japan demands Denmark extradite Sea Shepherd founder Paul Watson over whale hunting clash
+ - [https://www.reddit.com/r/worldnews/comments/1fa5ufj/japan_demands_denmark_extradite_sea_shepherd](https://www.reddit.com/r/worldnews/comments/1fa5ufj/japan_demands_denmark_extradite_sea_shepherd)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T03:44:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa5ufj/japan_demands_denmark_extradite_sea_shepherd/"> <img src="https://external-preview.redd.it/gqyXrxYkO-jgbDAEFI2oAq9PBNuwKkZO08gNNG3yZU4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59d1d7bcf5295bf8f568df42270c95787d541a9f" alt="Japan demands Denmark extradite Sea Shepherd founder Paul Watson over whale hunting clash" title="Japan demands Denmark extradite Sea Shepherd founder Paul Watson over whale hunting clash" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.scmp.com/week-asia/politics/article/3277397/japan-demands-denmark-extradite-sea-shepherd-founder-paul-watson-over-whale-hunting-clash?module=top_story&amp;pgtype=homepage">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa5ufj/japan_demands_denmark_extradite_sea_shepherd/">[comments]</a></span> </td></tr></table>
+
+## 'Ready for peace talks, India could mediate': Russia's Putin on Ukraine war
+ - [https://www.reddit.com/r/worldnews/comments/1fa3z2z/ready_for_peace_talks_india_could_mediate_russias](https://www.reddit.com/r/worldnews/comments/1fa3z2z/ready_for_peace_talks_india_could_mediate_russias)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T02:06:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa3z2z/ready_for_peace_talks_india_could_mediate_russias/"> <img src="https://external-preview.redd.it/3Nue9wPIEy5jZe5Ix3Nyc-8ezOXDuKx6i8CeDHCRkxM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7a4e12f13b57a01f538ae536d056d26f5cff6195" alt="'Ready for peace talks, India could mediate': Russia's Putin on Ukraine war" title="'Ready for peace talks, India could mediate': Russia's Putin on Ukraine war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Darshan_brahmbhatt"> /u/Darshan_brahmbhatt </a> <br/> <span><a href="https://www.business-standard.com/external-affairs-defence-security/news/ready-for-peace-talks-india-could-mediate-russia-s-putin-on-ukraine-war-124090500642_1.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa3z2z/ready_for_peace_talks_india_could_mediate_russias/">[comments]</a></span> </td></tr></table>
+
+## Telegram CEO says he’ll moderate better after getting arrested in France
+ - [https://www.reddit.com/r/worldnews/comments/1fa3xw6/telegram_ceo_says_hell_moderate_better_after](https://www.reddit.com/r/worldnews/comments/1fa3xw6/telegram_ceo_says_hell_moderate_better_after)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T02:04:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa3xw6/telegram_ceo_says_hell_moderate_better_after/"> <img src="https://external-preview.redd.it/ntvbf0Ph5aU8qau15T-SkSnZ47r9OSlvocwXhDEU8dA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea58cc608c3eaf208f3bb713244cac5f0a242a0a" alt="Telegram CEO says he’ll moderate better after getting arrested in France" title="Telegram CEO says he’ll moderate better after getting arrested in France" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa3xw6/telegram_ceo_says_hell_moderate_better_after/">[comments]</a></span> </td></tr></table>
+
+## Britain to send 650 air defence missiles to Ukraine in latest support
+ - [https://www.reddit.com/r/worldnews/comments/1fa1sjq/britain_to_send_650_air_defence_missiles_to](https://www.reddit.com/r/worldnews/comments/1fa1sjq/britain_to_send_650_air_defence_missiles_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T00:16:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Tnargkiller"> /u/Tnargkiller </a> <br/> <span><a href="https://www.reuters.com/world/europe/britain-send-650-air-defence-missiles-ukraine-latest-support-2024-09-05/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa1sjq/britain_to_send_650_air_defence_missiles_to/">[comments]</a></span>
+
+## Father of boy held in Georgia school shooting is arrested
+ - [https://www.reddit.com/r/worldnews/comments/1fa1oom/father_of_boy_held_in_georgia_school_shooting_is](https://www.reddit.com/r/worldnews/comments/1fa1oom/father_of_boy_held_in_georgia_school_shooting_is)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T00:11:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa1oom/father_of_boy_held_in_georgia_school_shooting_is/"> <img src="https://external-preview.redd.it/gjvaEIIIUd6We7w4Sp50bBQ43uZ1Vn8UTKZeZWyZiYI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b185cc404a5706ab351a1a4f2a28870f271b9b7a" alt="Father of boy held in Georgia school shooting is arrested" title="Father of boy held in Georgia school shooting is arrested" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flubadubadubadub"> /u/Flubadubadubadub </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/c9wj0vyl8xko">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa1oom/father_of_boy_held_in_georgia_school_shooting_is/">[comments]</a></span> </td></tr></table>
+
+## Bayesian: Italy luxury yacht victims died of ‘dry drowning,’ first autopsies show | CNN
+ - [https://www.reddit.com/r/worldnews/comments/1fa1klb/bayesian_italy_luxury_yacht_victims_died_of_dry](https://www.reddit.com/r/worldnews/comments/1fa1klb/bayesian_italy_luxury_yacht_victims_died_of_dry)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-06T00:05:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fa1klb/bayesian_italy_luxury_yacht_victims_died_of_dry/"> <img src="https://external-preview.redd.it/mnhjxyN78u-xZ53SYDTyOy9Ija9DMEO4Bfe3dWlXRBk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfb557a70847813669cbdf29e7078c6ab7eca246" alt="Bayesian: Italy luxury yacht victims died of ‘dry drowning,’ first autopsies show | CNN" title="Bayesian: Italy luxury yacht victims died of ‘dry drowning,’ first autopsies show | CNN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GENESIOBR"> /u/GENESIOBR </a> <br/> <span><a href="https://www.cnn.com/2024/09/05/europe/italy-luxury-yacht-victims-autopsies-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fa1klb/bayesian_italy_luxury_yacht_victims_died_of_dry/">[comments]</a></span> </td></tr></table>
+
