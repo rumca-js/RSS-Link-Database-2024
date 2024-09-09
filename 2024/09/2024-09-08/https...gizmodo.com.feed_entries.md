@@ -1,0 +1,58 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Beetlejuice Beetlejuice Scares Up a Strong Opening Weekend
+ - [https://gizmodo.com/beetlejuice-2-opening-weekend-box-office-2000496110](https://gizmodo.com/beetlejuice-2-opening-weekend-box-office-2000496110)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T20:30:04+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice.jpg" class="attachment-full size-full wp-post-image" alt="Beetlejuice Beetlejuice" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/beetlejuice-beetlejuice-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>The long-awaited sequel started strong, and even managed to become 
+
+## Agatha All Along’s Joe Locke on His Secretive Teen Role
+ - [https://gizmodo.com/agatha-all-along-joe-locke-teen-secret-2000496109](https://gizmodo.com/agatha-all-along-joe-locke-teen-secret-2000496109)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T19:45:51+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer.jpg" class="attachment-full size-full wp-post-image" alt="Joe Locke In New Agatha Trailer" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer.jpg 1500w, https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/08/Joe_Locke_in_New_Agatha_Trailer-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw,
+
+## Open Channel: Tell Us What You Thought of Beetlejuice Beetlejuice
+ - [https://gizmodo.com/open-channel-beetlejuice-beetlejuice-2000496076](https://gizmodo.com/open-channel-beetlejuice-beetlejuice-2000496076)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T18:25:55+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding.jpg" class="attachment-full size-full wp-post-image" alt="Beetlejuice 2 Wedding" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding.jpg 1500w, https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/08/Beetlejuice-2-wedding-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>Nearly 40 years later, Tim Burton brings back the Juice for a (mostly) old audience. Di
+
+## Star Trek: Lower Decks is Back One Last Time With a Swashbuckling New Clip
+ - [https://gizmodo.com/star-trek-lower-decks-season-5-clip-2000496066](https://gizmodo.com/star-trek-lower-decks-season-5-clip-2000496066)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T16:01:04+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster.jpg" class="attachment-full size-full wp-post-image" alt="Lower Decks 5 Poster" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/lower-decks-5-poster-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>The Lower Deckers return for one final adventure in October, and it looks like they haven't misse
+
+## Marshall’s Major V Headphones Review: Unbelievable Battery Life and Ready to Auracast
+ - [https://gizmodo.com/marshalls-latest-headphones-major-v-last-you-weeks-2000495139](https://gizmodo.com/marshalls-latest-headphones-major-v-last-you-weeks-2000495139)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T16:01:01+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/marshall-major-v.jpg" class="attachment-full size-full wp-post-image" alt="Marshall Major V" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/09/marshall-major-v.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/marshall-major-v-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/marshall-major-v-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/marshall-major-v-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/marshall-major-v-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/marshall-major-v-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/marshall-major-v-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/marshall-major-v-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>The Major V feature quite a few frills, but their overall sound is disappointing.
+
+## Marvel Beams Up Star Trek’s Todd Stashwick for Its Vision Series
+ - [https://gizmodo.com/marvel-vision-todd-stashwick-casting-2000496070](https://gizmodo.com/marvel-vision-todd-stashwick-casting-2000496070)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T14:30:04+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024.jpg" class="attachment-full size-full wp-post-image" alt="Todd Stashwick 2024" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/todd-stashwick-2024-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>Stashwick boards the Vision show as an enemy of Paul Bettany's titular android as he goes on a journey of s
+
+## I Desperately Want TCL’s 50 NXTPaper Phone to Come to the U.S.
+ - [https://gizmodo.com/i-desperately-want-tcls-50-nxtpaper-phone-to-come-to-the-u-s-2000496007](https://gizmodo.com/i-desperately-want-tcls-50-nxtpaper-phone-to-come-to-the-u-s-2000496007)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T14:05:52+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11.jpg" class="attachment-full size-full wp-post-image" alt="Tcl 50 Nxtpaper 11" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/TCL-50-NXTPaper-11-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>The TCL’s 50 NXTPaper and its switchable E-Paper mode may not be perfect, but it could finally shake up the increasingly stale budget phon
+
+## How the Brain Separates Sneezing From Coughing, According to Mice
+ - [https://gizmodo.com/how-the-brain-separates-sneezing-from-coughing-according-to-mice-2000495813](https://gizmodo.com/how-the-brain-separates-sneezing-from-coughing-according-to-mice-2000495813)
+ - RSS feed: https://gizmodo.com/feed
+ - date published: 2024-09-08T10:00:22+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons.jpg" class="attachment-full size-full wp-post-image" alt="Drawing of a mouse sneezing" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/mice-coughing-sneezing-neurons-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>
+

@@ -1,0 +1,299 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Union head: Teachers’ strike ‘suspended’; student, parent bodies denounce late notice
+ - [https://www.timesofisrael.com/high-school-teachers-strike-suspended-union-head-says-student-body-pans-mockery](https://www.timesofisrael.com/high-school-teachers-strike-suspended-union-head-says-student-body-pans-mockery)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T23:10:43+00:00
+
+<p>Ran Erez: High school teachers returning 'out of responsibility to the state,' but won't yet submit grades or permit off-campus activities; other unions: Don't go to school Monday</p>
+<p>The post <a href="https://www.timesofisrael.com/high-school-teachers-strike-suspended-union-head-says-student-body-pans-mockery/">Union head: Teachers’ strike ‘suspended’; student, parent bodies denounce late notice</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/F240626YS56-1024x640.jpg" title="Union head: Teachers’ strike ‘suspended’; student, parent bodies denounce late notice" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Negotiators said to believe chance of hostage deal ‘close to zero’; US also pessimistic
+ - [https://www.timesofisrael.com/negotiators-said-believe-chance-of-hostage-deal-close-to-zero-us-also-pessimistic](https://www.timesofisrael.com/negotiators-said-believe-chance-of-hostage-deal-close-to-zero-us-also-pessimistic)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T21:33:14+00:00
+
+<p>Families reportedly told deal unlikely to happen as Netanyahu, Sinwar both hardened stances; US to delay presenting new proposal, does not want to reward Hamas after executions</p>
+<p>The post <a href="https://www.timesofisrael.com/negotiators-said-believe-chance-of-hostage-deal-close-to-zero-us-also-pessimistic/">Negotiators said to believe chance of hostage deal &#8216;close to zero&#8217;; US also pessimistic</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240907AVS54-e1725825596781-1024x640.jpg" title="Negotiators said to believe chance of hostage deal &#8216;close to zero&#8217;; US also pessimistic" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Katz threatens to ‘break and dissolve’ PA if it pushes UN resolution against Israel
+ - [https://www.timesofisrael.com/katz-threatens-to-break-and-dissolve-pa-if-it-pushes-un-resolution-against-israel](https://www.timesofisrael.com/katz-threatens-to-break-and-dissolve-pa-if-it-pushes-un-resolution-against-israel)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T20:47:05+00:00
+
+<p>Palestinians have submitted measure to General Assembly calling for Israeli pull out of West Bank, sanctions on senior officials; Foreign Ministry coordinating response with allies</p>
+<p>The post <a href="https://www.timesofisrael.com/katz-threatens-to-break-and-dissolve-pa-if-it-pushes-un-resolution-against-israel/">Katz threatens to &#8216;break and dissolve&#8217; PA if it pushes UN resolution against Israel</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/F240816YS04-1024x640.jpg" title="Katz threatens to &#8216;break and dissolve&#8217; PA if it pushes UN resolution against Israel" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Knesset set to vote on billions for the north but some coalition MKs are opposed
+ - [https://www.timesofisrael.com/knesset-set-to-vote-on-billions-for-the-north-but-some-coalition-mks-are-opposed](https://www.timesofisrael.com/knesset-set-to-vote-on-billions-for-the-north-but-some-coalition-mks-are-opposed)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T19:44:41+00:00
+
+<p>Proposal would increase budget by almost $924 million. United Torah Judaism, Noam and Otzma Yehudit parties threaten to tank bill unless their budgetary demands are met</p>
+<p>The post <a href="https://www.timesofisrael.com/knesset-set-to-vote-on-billions-for-the-north-but-some-coalition-mks-are-opposed/">Knesset set to vote on billions for the north but some coalition MKs are opposed</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/03/20240313145359_NOAM9368-1024x640.jpg" title="Knesset set to vote on billions for the north but some coalition MKs are opposed" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## String of legal challenges still preventing prosecution of October 7 Hamas suspects
+ - [https://www.timesofisrael.com/string-of-legal-challenges-still-preventing-prosecution-of-october-7-hamas-suspects](https://www.timesofisrael.com/string-of-legal-challenges-still-preventing-prosecution-of-october-7-hamas-suspects)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T19:34:33+00:00
+
+<p>Thousands of terrorism suspects await trial due to difficulties with evidence, lack of representation, overloaded justice system, and fears for hostages' lives</p>
+<p>The post <a href="https://www.timesofisrael.com/string-of-legal-challenges-still-preventing-prosecution-of-october-7-hamas-suspects/">String of legal challenges still preventing prosecution of October 7 Hamas suspects</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/05/F240214CG47-e1716455422421-1024x640.jpg" title="String of legal challenges still preventing prosecution of October 7 Hamas suspects" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Government signs permits for new Beersheba hospital after 10-year delay
+ - [https://www.timesofisrael.com/government-signs-permits-for-new-beersheba-hospital-after-10-year-delay](https://www.timesofisrael.com/government-signs-permits-for-new-beersheba-hospital-after-10-year-delay)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T18:45:47+00:00
+
+<p>Medical center slated to open in 2028; Health Minister Buso says it will 'reduce the gap in medical treatment between the center and the periphery'</p>
+<p>The post <a href="https://www.timesofisrael.com/government-signs-permits-for-new-beersheba-hospital-after-10-year-delay/">Government signs permits for new Beersheba hospital after 10-year delay</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2014/07/F140719DG01-e1405779253349-1024x640.jpg" title="Government signs permits for new Beersheba hospital after 10-year delay" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Ministers urge revival of judicial overhaul after High Court rules against Levin
+ - [https://www.timesofisrael.com/ministers-urge-judicial-overhaul-revival-after-high-court-rules-against-levin](https://www.timesofisrael.com/ministers-urge-judicial-overhaul-revival-after-high-court-rules-against-levin)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T18:30:13+00:00
+
+<p>Smotrich claims court waging war against democracy; Ben Gvir says decision constitutes conflict of interest; opposition decries threat to rule of law, warns of 'Jewish wars'</p>
+<p>The post <a href="https://www.timesofisrael.com/ministers-urge-judicial-overhaul-revival-after-high-court-rules-against-levin/">Ministers urge revival of judicial overhaul after High Court rules against Levin</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2023/08/F230705CG016-1024x640.jpg" title="Ministers urge revival of judicial overhaul after High Court rules against Levin" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Zion Levy, 72: Beloved grandfather adopted 2nd career as bus driver
+ - [https://www.timesofisrael.com/zion-levy-72-beloved-grandfather-adopted-2nd-career-as-bus-driver](https://www.timesofisrael.com/zion-levy-72-beloved-grandfather-adopted-2nd-career-as-bus-driver)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T18:24:36+00:00
+
+<p>Murdered by Hamas terrorists at the Mivtahim Junction in southern Israel on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/zion-levy-72-beloved-grandfather-adopted-2nd-career-as-bus-driver/">Zion Levy, 72: Beloved grandfather adopted 2nd career as bus driver</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/448214944_10161251844635279_7364438108117939216_n-e1724661125286-1024x640.jpg" title="Zion Levy, 72: Beloved grandfather adopted 2nd career as bus driver" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Stav Barazani, 22: Slain partygoer ‘was a really happy girl’
+ - [https://www.timesofisrael.com/stav-barazani-22-slain-partygoer-was-a-really-happy-girl](https://www.timesofisrael.com/stav-barazani-22-slain-partygoer-was-a-really-happy-girl)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T18:20:07+00:00
+
+<p>Murdered by Hamas terrorists at the Supernova music festival on Oct. 7</p>
+<p>The post <a href="https://www.timesofisrael.com/stav-barazani-22-slain-partygoer-was-a-really-happy-girl/">Stav Barazani, 22: Slain partygoer &#8216;was a really happy girl&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/stav-e1724692553950-1024x640.jpg" title="Stav Barazani, 22: Slain partygoer &#8216;was a really happy girl&#8217;" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Israel faces a looming financial crisis if it fails to act, former chief economist warns
+ - [https://www.timesofisrael.com/israel-faces-a-looming-financial-crisis-if-it-fails-to-act-former-chief-economist-warns](https://www.timesofisrael.com/israel-faces-a-looming-financial-crisis-if-it-fails-to-act-former-chief-economist-warns)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T18:01:56+00:00
+
+<p>Former FM chief economist warns of a high probability that Israel will be facing a financial crisis in the next three to five years if it fails to pass a responsible 2025 budget</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-faces-a-looming-financial-crisis-if-it-fails-to-act-former-chief-economist-warns/">Israel faces a looming financial crisis if it fails to act, former chief economist warns</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2023/10/F231008NRF014-1024x640.jpg" title="Israel faces a looming financial crisis if it fails to act, former chief economist warns" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Pursue Your International BA Degree at Israel’s Premier University - Sponsored Content
+ - [https://toi.li/00vtyY](https://toi.li/00vtyY)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T17:34:18+00:00
+
+<p>Earn a prestigious double major BA in 3 years at Hebrew University. Experience academic excellence and vibrant student life in Jerusalem, one of the world's most dynamic cities. </p>
+<p>The post <a href="https://www.timesofisrael.com/spotlight/pursue-your-international-ba-degree-at-israels-premier-university/">Pursue Your International BA Degree at Israel’s Premier University</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Screenshot-2024-09-08-203323-1024x640.png" title="Pursue Your International BA Degree at Israel’s Premier University" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## In swipe at protests, Netanyahu says ‘most Israelis’ not swayed by Hamas propaganda
+ - [https://www.timesofisrael.com/in-swipe-at-protests-netanyahu-says-most-israelis-not-swayed-by-hamas-propaganda](https://www.timesofisrael.com/in-swipe-at-protests-netanyahu-says-most-israelis-not-swayed-by-hamas-propaganda)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T17:05:53+00:00
+
+<p>Smotrich says PM's conditions for deal 'not good,' even if Israel stays on Philadelphi; Hamas said to demand life-term murderers in return for civilians, not just for soldiers</p>
+<p>The post <a href="https://www.timesofisrael.com/in-swipe-at-protests-netanyahu-says-most-israelis-not-swayed-by-hamas-propaganda/">In swipe at protests, Netanyahu says ‘most Israelis’ not swayed by Hamas propaganda</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/IMG_1357-1024x640.jpg" title="In swipe at protests, Netanyahu says ‘most Israelis’ not swayed by Hamas propaganda" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## IDF probing Gaza files leak that sought to shift public view of hostage talks
+ - [https://www.timesofisrael.com/idf-probing-gaza-files-leak-that-sought-to-shift-public-view-of-hostage-talks](https://www.timesofisrael.com/idf-probing-gaza-files-leak-that-sought-to-shift-public-view-of-hostage-talks)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T17:05:19+00:00
+
+<p>IDF refutes German daily's claim document was found on Sinwar's computer, says info on Hamas pressure tactics known for months; file cited by Jewish Chronicle unknown to IDF</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-probing-gaza-files-leak-that-sought-to-shift-public-view-of-hostage-talks/">IDF probing Gaza files leak that sought to shift public view of hostage talks</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240908MA012-e1725810016564-1024x640.jpg" title="IDF probing Gaza files leak that sought to shift public view of hostage talks" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## High Court orders Levin to appoint new Supreme Court president, says refusal ‘unlawful’
+ - [https://www.timesofisrael.com/high-court-orders-levin-to-appoint-new-supreme-court-president-says-refusal-unlawful](https://www.timesofisrael.com/high-court-orders-levin-to-appoint-new-supreme-court-president-says-refusal-unlawful)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T16:32:18+00:00
+
+<p>Liberal justice Isaac Amit now likely to become new court president; justice minister vows to boycott incoming president, cabinet ministers threaten to bring back judicial overhaul</p>
+<p>The post <a href="https://www.timesofisrael.com/high-court-orders-levin-to-appoint-new-supreme-court-president-says-refusal-unlawful/">High Court orders Levin to appoint new Supreme Court president, says refusal &#8216;unlawful&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/F240623CG331-e1724757936663-1024x640.jpg" title="High Court orders Levin to appoint new Supreme Court president, says refusal &#8216;unlawful&#8217;" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Cabinet approves extending civil service commissioner’s term amid storm over replacement
+ - [https://www.timesofisrael.com/cabinet-approves-extending-civil-service-commissioners-amid-storm-over-replacement](https://www.timesofisrael.com/cabinet-approves-extending-civil-service-commissioners-amid-storm-over-replacement)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T15:07:05+00:00
+
+<p>Move comes after Attorney General Baharav-Miara opposed government attempts to have Netanyahu appoint new commissioner directly, bypassing selection committee</p>
+<p>The post <a href="https://www.timesofisrael.com/cabinet-approves-extending-civil-service-commissioners-amid-storm-over-replacement/">Cabinet approves extending civil service commissioner&#8217;s term amid storm over replacement</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/IMG_1357-1024x640.jpg" title="Cabinet approves extending civil service commissioner&#8217;s term amid storm over replacement" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## TV report details IDF’s silence on security fears, failure to react to Nova massacre
+ - [https://www.timesofisrael.com/tv-report-details-idfs-silence-on-security-fears-failure-to-react-to-nova-massacre](https://www.timesofisrael.com/tv-report-details-idfs-silence-on-security-fears-failure-to-react-to-nova-massacre)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T14:56:17+00:00
+
+<p>Army officials say they didn't prioritize deploying forces to rave because police said area had been cleared out; soldiers only arrived in large numbers by middle of afternoon</p>
+<p>The post <a href="https://www.timesofisrael.com/tv-report-details-idfs-silence-on-security-fears-failure-to-react-to-nova-massacre/">TV report details IDF&#8217;s silence on security fears, failure to react to Nova massacre</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2023/10/33XQ6JJ-highres-1024x640.jpg" title="TV report details IDF&#8217;s silence on security fears, failure to react to Nova massacre" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## With a world weary of war, donations dry up for Ukrainian refugees at JCC Krakow
+ - [https://www.timesofisrael.com/with-a-world-weary-of-war-donations-dry-up-for-ukrainian-refugees-at-jcc-krakow](https://www.timesofisrael.com/with-a-world-weary-of-war-donations-dry-up-for-ukrainian-refugees-at-jcc-krakow)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T14:35:14+00:00
+
+<p>City adjacent to Auschwitz's Jewish Community Center raised $12m for Ukrainian refugees since 2022. But as money runs out, the new residents may lose yet another port in their storm</p>
+<p>The post <a href="https://www.timesofisrael.com/with-a-world-weary-of-war-donations-dry-up-for-ukrainian-refugees-at-jcc-krakow/">With a world weary of war, donations dry up for Ukrainian refugees at JCC Krakow</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/lead-1024x640.jpg" title="With a world weary of war, donations dry up for Ukrainian refugees at JCC Krakow" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Israel celebrates its best Paralympic showing in 20 years with 10-medal haul
+ - [https://www.timesofisrael.com/israel-celebrates-its-best-paralympic-showing-in-20-years-with-10-medal-haul](https://www.timesofisrael.com/israel-celebrates-its-best-paralympic-showing-in-20-years-with-10-medal-haul)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T14:23:17+00:00
+
+<p>Closing ceremony delegation to be led by flag bearers Ami Dadaon, who won four medals, and Gal Hamrani, captain of the women's goalball team, which took a historic silver</p>
+<p>The post <a href="https://www.timesofisrael.com/israel-celebrates-its-best-paralympic-showing-in-20-years-with-10-medal-haul/">Israel celebrates its best Paralympic showing in 20 years with 10-medal haul</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Untitled-design110-1024x640.jpg" title="Israel celebrates its best Paralympic showing in 20 years with 10-medal haul" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Chef jackets become art at pop-up exhibit benefiting the displaced
+ - [https://www.timesofisrael.com/chef-jackets-become-art-at-pop-up-exhibit-benefiting-the-displaced](https://www.timesofisrael.com/chef-jackets-become-art-at-pop-up-exhibit-benefiting-the-displaced)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T14:22:51+00:00
+
+<p>Illustrators and chefs are paired in 'Three Spoons of Oil and Two Brushes,' weeklong event at ANU - Museum of the Jewish People in Tel Aviv</p>
+<p>The post <a href="https://www.timesofisrael.com/chef-jackets-become-art-at-pop-up-exhibit-benefiting-the-displaced/">Chef jackets become art at pop-up exhibit benefiting the displaced</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/אהרוני-אייר-אנגלמאיר-צלם-איתי-סליקט-1024x640.jpg" title="Chef jackets become art at pop-up exhibit benefiting the displaced" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Iran’s president to travel to Iraq in first trip abroad
+ - [https://www.timesofisrael.com/irans-president-to-travel-to-iraq-in-first-trip-abroad](https://www.timesofisrael.com/irans-president-to-travel-to-iraq-in-first-trip-abroad)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T13:17:09+00:00
+
+<p>Pezeshkian to sign memorandum of understanding on 'cooperation and security' that was meant to be signed by his predecessor, Raisi</p>
+<p>The post <a href="https://www.timesofisrael.com/irans-president-to-travel-to-iraq-in-first-trip-abroad/">Iran&#8217;s president to travel to Iraq in first trip abroad</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240831__36F967L__v1__HighRes__IranPoliticsPezeshkian-1024x640.jpg" title="Iran&#8217;s president to travel to Iraq in first trip abroad" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Two Arab Israelis shot dead in separate suspected homicides
+ - [https://www.timesofisrael.com/two-arab-israelis-shot-dead-in-separate-suspected-homicides](https://www.timesofisrael.com/two-arab-israelis-shot-dead-in-separate-suspected-homicides)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T13:16:34+00:00
+
+<p>One man killed Sunday while driving in southern town of Rahat; another succumbs to wounds after being shot on Friday in Rosh Pina </p>
+<p>The post <a href="https://www.timesofisrael.com/two-arab-israelis-shot-dead-in-separate-suspected-homicides/">Two Arab Israelis shot dead in separate suspected homicides</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2022/07/13c0aac8-9361-4f86-b4aa-0f5bad38119e-1024x640.jpg" title="Two Arab Israelis shot dead in separate suspected homicides" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## IDF investigating civilians giving hashish cookies to soldiers
+ - [https://www.timesofisrael.com/idf-investigating-civilians-giving-hashish-cookies-to-soldiers](https://www.timesofisrael.com/idf-investigating-civilians-giving-hashish-cookies-to-soldiers)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T13:16:14+00:00
+
+<p>Three soldiers who ate the donated cookies over the weekend fell ill, sought medical assistance </p>
+<p>The post <a href="https://www.timesofisrael.com/idf-investigating-civilians-giving-hashish-cookies-to-soldiers/">IDF investigating civilians giving hashish cookies to soldiers</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2023/11/volun-1024x640.jpg" title="IDF investigating civilians giving hashish cookies to soldiers" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Daily Briefing Sept. 8: Day 338 – IDF ‘very focused’ on new war goal as 3 killed at Allenby
+ - [https://www.timesofisrael.com/daily-briefing-sept-8-day-338-idf-very-focused-on-new-war-goal-as-3-killed-at-allenby](https://www.timesofisrael.com/daily-briefing-sept-8-day-338-idf-very-focused-on-new-war-goal-as-3-killed-at-allenby)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T11:41:38+00:00
+
+<p>Military reporter Emanuel Fabian on this morning’s lethal shooting at border with Jordan, the death of an American activist in the West Bank and updates on war in Gaza and north</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-sept-8-day-338-idf-very-focused-on-new-war-goal-as-3-killed-at-allenby/">Daily Briefing Sept. 8: Day 338 &#8211; IDF &#8216;very focused&#8217; on new war goal as 3 killed at Allenby</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240908YS012-1024x640.jpg" title="Daily Briefing Sept. 8: Day 338 &#8211; IDF &#8216;very focused&#8217; on new war goal as 3 killed at Allenby" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Honest customers operate unstaffed all-night store in Tel Aviv
+ - [https://www.timesofisrael.com/honest-customers-operate-unstaffed-all-night-store-in-tel-aviv](https://www.timesofisrael.com/honest-customers-operate-unstaffed-all-night-store-in-tel-aviv)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T11:07:02+00:00
+
+<p>After solo staff member is forced to leave premises unexpectedly, clients take charge of cash register and pay for items</p>
+<p>The post <a href="https://www.timesofisrael.com/honest-customers-operate-unstaffed-all-night-store-in-tel-aviv/">Honest customers operate unstaffed all-night store in Tel Aviv</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Even-Gvirol-e1725789380865-1024x640.jpg" title="Honest customers operate unstaffed all-night store in Tel Aviv" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## BBC breached own guidelines 1,500 times in early Gaza war coverage, report finds
+ - [https://www.timesofisrael.com/bbc-breached-own-guidelines-1500-times-in-early-gaza-war-coverage-report-finds](https://www.timesofisrael.com/bbc-breached-own-guidelines-1500-times-in-early-gaza-war-coverage-report-finds)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T11:02:54+00:00
+
+<p>Using AI to analyze 9 million words of coverage from first four months of war, researchers find Israel was associated with war crimes, genocide far more often than Hamas was</p>
+<p>The post <a href="https://www.timesofisrael.com/bbc-breached-own-guidelines-1500-times-in-early-gaza-war-coverage-report-finds/">BBC breached own guidelines 1,500 times in early Gaza war coverage, report finds</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240204__34HK36X__v1__HighRes__BritainIsraelPalestiniansConflictDemo-1024x640.jpg" title="BBC breached own guidelines 1,500 times in early Gaza war coverage, report finds" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## 3 Israelis killed in terror shooting at crossing between West Bank and Jordan
+ - [https://www.timesofisrael.com/3-israelis-killed-in-terror-shooting-at-crossing-between-west-bank-and-jordan](https://www.timesofisrael.com/3-israelis-killed-in-terror-shooting-at-crossing-between-west-bank-and-jordan)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T10:23:23+00:00
+
+<p>Terrorist drives truck from Jordan, opens fire at Allenby Bridge workers and then is shot dead; IDF checking if vehicle rigged with explosives </p>
+<p>The post <a href="https://www.timesofisrael.com/3-israelis-killed-in-terror-shooting-at-crossing-between-west-bank-and-jordan/">3 Israelis killed in terror shooting at crossing between West Bank and Jordan</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24252327276154-1024x640.jpg" title="3 Israelis killed in terror shooting at crossing between West Bank and Jordan" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Yemen’s Houthi rebels claim to shoot down US MQ-9 drone
+ - [https://www.timesofisrael.com/yemens-houthi-rebels-claim-to-shoot-down-us-mq-9-drone](https://www.timesofisrael.com/yemens-houthi-rebels-claim-to-shoot-down-us-mq-9-drone)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T09:07:16+00:00
+
+<p>Iran-backed terror group provides no evidence, but has brought down $30 million UAVs in the past; Houthis say US responded with airstrikes; Americans offer no comment</p>
+<p>The post <a href="https://www.timesofisrael.com/yemens-houthi-rebels-claim-to-shoot-down-us-mq-9-drone/">Yemen&#8217;s Houthi rebels claim to shoot down US MQ-9 drone</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2016/05/MQ-9_Reaper_in_flight_2007-1024x640.jpg" title="Yemen&#8217;s Houthi rebels claim to shoot down US MQ-9 drone" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## IDF says over 50 rockets fired at north overnight; some damage, no injuries
+ - [https://www.timesofisrael.com/idf-says-over-50-rockets-fired-at-north-overnight-some-damage-no-injuries](https://www.timesofisrael.com/idf-says-over-50-rockets-fired-at-north-overnight-some-damage-no-injuries)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T08:13:20+00:00
+
+<p>Missiles slam into Kiryat Shmona, hitting building and sidewalk; Hezbollah claims responsibility, says barrage revenge for Israeli strike the previous day that killed three</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-says-over-50-rockets-fired-at-north-overnight-some-damage-no-injuries/">IDF says over 50 rockets fired at north overnight; some damage, no injuries</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Kiryat-Shoma-barrage-e1725779655426-1024x640.jpg" title="IDF says over 50 rockets fired at north overnight; some damage, no injuries" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Fans of Lubavitcher Rebbe respond to Candace Owens’ criticism of him
+ - [https://www.timesofisrael.com/fans-of-lubavitcher-rebbe-respond-to-candace-owens-criticism-of-him](https://www.timesofisrael.com/fans-of-lubavitcher-rebbe-respond-to-candace-owens-criticism-of-him)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T07:04:56+00:00
+
+<p>Far-right commentator had claimed the former Chabad leader was a hatemonger who believed Jews were superior to non-Jews</p>
+<p>The post <a href="https://www.timesofisrael.com/fans-of-lubavitcher-rebbe-respond-to-candace-owens-criticism-of-him/">Fans of Lubavitcher Rebbe respond to Candace Owens&#8217; criticism of him</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/745456.jpg" title="Fans of Lubavitcher Rebbe respond to Candace Owens&#8217; criticism of him" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## AG tells Netanyahu state inquiry into war needed to prevent int’l arrests – report
+ - [https://www.timesofisrael.com/ag-tells-netanyahu-state-inquiry-into-war-needed-to-prevent-intl-arrests-report](https://www.timesofisrael.com/ag-tells-netanyahu-state-inquiry-into-war-needed-to-prevent-intl-arrests-report)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T06:09:21+00:00
+
+<p>Baharav-Miara said to stress only state commission into October 7 attack and Gaza war will satisfy international community that country is probing alleged crimes</p>
+<p>The post <a href="https://www.timesofisrael.com/ag-tells-netanyahu-state-inquiry-into-war-needed-to-prevent-intl-arrests-report/">AG tells Netanyahu state inquiry into war needed to prevent int&#8217;l arrests &#8211; report</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240714CG017-1024x640.jpg" title="AG tells Netanyahu state inquiry into war needed to prevent int&#8217;l arrests &#8211; report" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Paris charges couple in Iranian plot targeting Jews in France, Germany
+ - [https://www.timesofisrael.com/paris-charges-couple-in-iranian-plot-targeting-jews-in-france-germany](https://www.timesofisrael.com/paris-charges-couple-in-iranian-plot-targeting-jews-in-france-germany)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T02:38:34+00:00
+
+<p>Authorities claim Iranian spies recruited locals to attack ex-employee of Israeli security firm and others in Paris, Munich and Berlin, set fire to Israeli-owned businesses</p>
+<p>The post <a href="https://www.timesofisrael.com/paris-charges-couple-in-iranian-plot-targeting-jews-in-france-germany/">Paris charges couple in Iranian plot targeting Jews in France, Germany</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24110475002842-1024x640.jpg" title="Paris charges couple in Iranian plot targeting Jews in France, Germany" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Heavy damage reported as Hezbollah rockets pound Kiryat Shmona overnight
+ - [https://www.timesofisrael.com/liveblog-september-8-2024](https://www.timesofisrael.com/liveblog-september-8-2024)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T00:55:56+00:00
+
+<p>Dozens of projectiles fired at city in successive volleys claimed by Hezbollah as revenge for Israeli strike that allegedly killed three emergency workers</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-september-8-2024/">Heavy damage reported as Hezbollah rockets pound Kiryat Shmona overnight</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240907__36FR73H__v3__HighRes__TopshotLebanonIsraelPalestinianConflict-1024x640.jpg" title="Heavy damage reported as Hezbollah rockets pound Kiryat Shmona overnight" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Organizers claim largest-ever rally in Tel Aviv as calls for hostage deal intensify
+ - [https://www.timesofisrael.com/organizers-claim-largest-ever-rally-in-tel-aviv-as-calls-for-hostage-deal-intensify](https://www.timesofisrael.com/organizers-claim-largest-ever-rally-in-tel-aviv-as-calls-for-hostage-deal-intensify)
+ - RSS feed: https://www.timesofisrael.com/feed
+ - date published: 2024-09-08T00:39:05+00:00
+
+<p>Groups behind demonstrations estimate 500,000 at main protest, 250,000 at other rallies around country; police scuffle with activists blocking roads, arrest five </p>
+<p>The post <a href="https://www.timesofisrael.com/organizers-claim-largest-ever-rally-in-tel-aviv-as-calls-for-hostage-deal-intensify/">Organizers claim largest-ever rally in Tel Aviv as calls for hostage deal intensify</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240907AVS23-1024x640.jpg" title="Organizers claim largest-ever rally in Tel Aviv as calls for hostage deal intensify" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
