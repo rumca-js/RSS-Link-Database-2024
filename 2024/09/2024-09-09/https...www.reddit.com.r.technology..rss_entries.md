@@ -1,0 +1,226 @@
+# Source:/r/Technology, URL:https://www.reddit.com/r/technology/.rss, language:en
+
+## Amazon Bans Its Drivers From Moving Their Own Lips Too Much At Work
+ - [https://www.reddit.com/r/technology/comments/1fd3a0v/amazon_bans_its_drivers_from_moving_their_own](https://www.reddit.com/r/technology/comments/1fd3a0v/amazon_bans_its_drivers_from_moving_their_own)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T23:05:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fd3a0v/amazon_bans_its_drivers_from_moving_their_own/"> <img src="https://external-preview.redd.it/TEXIE9U0QkcdI-mLZrWXZj5kVMGO3K0LxOK8WzP_obQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00048a497ea206385ecba49b9d13efd33f5f15f6" alt="Amazon Bans Its Drivers From Moving Their Own Lips Too Much At Work" title="Amazon Bans Its Drivers From Moving Their Own Lips Too Much At Work" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Altruistic-Aside3687"> /u/Altruistic-Aside3687 </a> <br/> <span><a href="https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312//">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fd3a0v/amazon_bans_its_drivers_from_moving_their_own/">[comments]</a></span> </td></tr></table>
+
+## An antibody discovered at UT Austin could protect against all COVID variants | TPR
+ - [https://www.reddit.com/r/technology/comments/1fd2vso/an_antibody_discovered_at_ut_austin_could_protect](https://www.reddit.com/r/technology/comments/1fd2vso/an_antibody_discovered_at_ut_austin_could_protect)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T22:47:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fd2vso/an_antibody_discovered_at_ut_austin_could_protect/"> <img src="https://external-preview.redd.it/Cbt0gyi7Oylv6SJxNQviY0M29ddJ_3Vs0sXlM2zBwec.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d30cd8a17194fe40dbdb3809c1da0bf38b343666" alt="An antibody discovered at UT Austin could protect against all COVID variants | TPR" title="An antibody discovered at UT Austin could protect against all COVID variants | TPR" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FollowTheLeads"> /u/FollowTheLeads </a> <br/> <span><a href="https://www.tpr.org/bioscience-medicine/2024-09-05/an-antibody-discovered-at-ut-austin-could-protect-against-all-covid-variants">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fd2vso/an_antibody_discovered_at_ut_austin_could_protect/">[comments]</a></span> </td></tr></table>
+
+## Ex-employees of Titanic submersible’s owner to testify before Coast Guard panel
+ - [https://www.reddit.com/r/technology/comments/1fd16mb/exemployees_of_titanic_submersibles_owner_to](https://www.reddit.com/r/technology/comments/1fd16mb/exemployees_of_titanic_submersibles_owner_to)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T21:33:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fd16mb/exemployees_of_titanic_submersibles_owner_to/"> <img src="https://external-preview.redd.it/ID-hWnBk4aJhYTgwRdhU8z4UUoAF75uceT9XB6vcqqQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32f339b807f4ff742c5c663375653035a384cc8f" alt="Ex-employees of Titanic submersible’s owner to testify before Coast Guard panel" title="Ex-employees of Titanic submersible’s owner to testify before Coast Guard panel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Majano57"> /u/Majano57 </a> <br/> <span><a href="https://apnews.com/article/titan-submersible-implosion-hearing-781869f0509625a16b7fe363913f7f2a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fd16mb/exemployees_of_titanic_submersibles_owner_to/">[comments]</a></span> </td></tr></table>
+
+## A Quarter of America's Bridges May Collapse Within 26 Years. We Saw the Whole Thing Coming.
+ - [https://www.reddit.com/r/technology/comments/1fd0d3o/a_quarter_of_americas_bridges_may_collapse_within](https://www.reddit.com/r/technology/comments/1fd0d3o/a_quarter_of_americas_bridges_may_collapse_within)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T21:00:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fd0d3o/a_quarter_of_americas_bridges_may_collapse_within/"> <img src="https://external-preview.redd.it/Qwp4kyEealKj3V-Wiy5B4GZDx9O3Je60q8Fc1J8UARk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cf4bb3a0a26e9b484b27a0e0dd2d1c8e3b144de" alt="A Quarter of America's Bridges May Collapse Within 26 Years. We Saw the Whole Thing Coming." title="A Quarter of America's Bridges May Collapse Within 26 Years. We Saw the Whole Thing Coming." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/caveatlector73"> /u/caveatlector73 </a> <br/> <span><a href="https://www.popularmechanics.com/science/a62073448/climate-change-bridges/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fd0d3o/a_quarter_of_americas_bridges_may_collapse_within/">[comments]</a></span> </td></tr></table>
+
+## Google aimed to control web ad tech, US prosecutor says as trial begins
+ - [https://www.reddit.com/r/technology/comments/1fcywd6/google_aimed_to_control_web_ad_tech_us_prosecutor](https://www.reddit.com/r/technology/comments/1fcywd6/google_aimed_to_control_web_ad_tech_us_prosecutor)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T20:01:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/G24all2read"> /u/G24all2read </a> <br/> <span><a href="https://www.reuters.com/technology/googles-antitrust-trial-over-online-advertising-set-begin-2024-09-09/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcywd6/google_aimed_to_control_web_ad_tech_us_prosecutor/">[comments]</a></span>
+
+## New EU report: “Europe is stuck in a static industrial structure… [N]o EU company with a market capitalisation over EUR 100 billion that has been set up from scratch in the last fifty years, while all six US companies with a valuation above EUR 1 trillion have been created in this period.”
+ - [https://www.reddit.com/r/technology/comments/1fcxs64/new_eu_report_europe_is_stuck_in_a_static](https://www.reddit.com/r/technology/comments/1fcxs64/new_eu_report_europe_is_stuck_in_a_static)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T19:17:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/trytoholdon"> /u/trytoholdon </a> <br/> <span><a href="https://commission.europa.eu/document/download/97e481fd-2dc3-412d-be4c-f152a8232961_en">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcxs64/new_eu_report_europe_is_stuck_in_a_static/">[comments]</a></span>
+
+## FTC Pushed To Crack Down On Companies That Ruin Hardware Via Software Updates Or Annoying Paywalls
+ - [https://www.reddit.com/r/technology/comments/1fcxfmv/ftc_pushed_to_crack_down_on_companies_that_ruin](https://www.reddit.com/r/technology/comments/1fcxfmv/ftc_pushed_to_crack_down_on_companies_that_ruin)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T19:03:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcxfmv/ftc_pushed_to_crack_down_on_companies_that_ruin/"> <img src="https://external-preview.redd.it/wKm0XDzoASM6BrarQXoG18WnZ5CIUPM3ZBe5zppuyFw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60f612dc25b6693520e6d4a342645939506f3afd" alt="FTC Pushed To Crack Down On Companies That Ruin Hardware Via Software Updates Or Annoying Paywalls" title="FTC Pushed To Crack Down On Companies That Ruin Hardware Via Software Updates Or Annoying Paywalls" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LG_Rocket"> /u/LG_Rocket </a> <br/> <span><a href="https://www.techdirt.com/2024/09/09/ftc-pushed-to-crack-down-on-companies-that-ruin-hardware-via-software-updates-or-annoying-paywalls/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcxfmv/ftc_pushed_to_crack_down_on_companies_that_ruin/">[comments]</a></span> </td></tr></table>
+
+## China-US team creates nano-plant drug for deadliest brain cancer | South China Morning Post
+ - [https://www.reddit.com/r/technology/comments/1fcxb38/chinaus_team_creates_nanoplant_drug_for_deadliest](https://www.reddit.com/r/technology/comments/1fcxb38/chinaus_team_creates_nanoplant_drug_for_deadliest)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T18:58:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcxb38/chinaus_team_creates_nanoplant_drug_for_deadliest/"> <img src="https://external-preview.redd.it/P73giPacCBsnSsoxGMl_BVJVCQKTJf83zvrSpS72e_k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b66a479ce231ea6e02ffe7e9c1858d490d8ebee" alt="China-US team creates nano-plant drug for deadliest brain cancer | South China Morning Post" title="China-US team creates nano-plant drug for deadliest brain cancer | South China Morning Post" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FollowTheLeads"> /u/FollowTheLeads </a> <br/> <span><a href="https://www.scmp.com/news/china/science/article/3277266/china-us-team-creates-nano-plant-drug-deadliest-brain-cancer">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcxb38/chinaus_team_creates_nanoplant_drug_for_deadliest/">[comments]</a></span> </td></tr></table>
+
+## Fake news, social media, and "The Death of Truth"
+ - [https://www.reddit.com/r/technology/comments/1fcvouc/fake_news_social_media_and_the_death_of_truth](https://www.reddit.com/r/technology/comments/1fcvouc/fake_news_social_media_and_the_death_of_truth)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T17:52:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcvouc/fake_news_social_media_and_the_death_of_truth/"> <img src="https://external-preview.redd.it/BroMJ9PTAA5PYyO3clr-ukzLcCh_zg6qQndNbXb1aiw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d01384011a46e9526c2855e194341a88c8937c9e" alt="Fake news, social media, and &quot;The Death of Truth&quot;" title="Fake news, social media, and &quot;The Death of Truth&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.cbsnews.com/news/fake-news-social-media-and-the-death-of-truth/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcvouc/fake_news_social_media_and_the_death_of_truth/">[comments]</a></span> </td></tr></table>
+
+## IGCF 2024: Deepfakes will cost the world over $10 trillion by 2025
+ - [https://www.reddit.com/r/technology/comments/1fcvk8f/igcf_2024_deepfakes_will_cost_the_world_over_10](https://www.reddit.com/r/technology/comments/1fcvk8f/igcf_2024_deepfakes_will_cost_the_world_over_10)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T17:46:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcvk8f/igcf_2024_deepfakes_will_cost_the_world_over_10/"> <img src="https://external-preview.redd.it/QyB2JFogdhgBL_MeIijXcCZk_2vcIpBfy-wkoAj_hWw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=52aec6c35db5da76c96d29f76be69758c5ddff5c" alt="IGCF 2024: Deepfakes will cost the world over $10 trillion by 2025" title="IGCF 2024: Deepfakes will cost the world over $10 trillion by 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://gulfnews.com/uae/education/igcf-2024-deepfakes-will-cost-the-world-over-10-trillion-by-2025-1.104021578">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcvk8f/igcf_2024_deepfakes_will_cost_the_world_over_10/">[comments]</a></span> </td></tr></table>
+
+## Enormous hidden ocean discovered under Mars could contain life
+ - [https://www.reddit.com/r/technology/comments/1fcuqdf/enormous_hidden_ocean_discovered_under_mars_could](https://www.reddit.com/r/technology/comments/1fcuqdf/enormous_hidden_ocean_discovered_under_mars_could)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T17:12:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcuqdf/enormous_hidden_ocean_discovered_under_mars_could/"> <img src="https://external-preview.redd.it/9Oi3XlHCYVDF8KKlsODonH1FXhsh-uxgEgiKr3Cv1FA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2dedbadc0517ac0e289a5b28a551e2f9e56c69a" alt="Enormous hidden ocean discovered under Mars could contain life" title="Enormous hidden ocean discovered under Mars could contain life" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fchung"> /u/fchung </a> <br/> <span><a href="https://www.livescience.com/space/mars/enormous-hidden-ocean-discovered-under-mars-could-contain-life">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcuqdf/enormous_hidden_ocean_discovered_under_mars_could/">[comments]</a></span> </td></tr></table>
+
+## Payment gateway data breach affects 1.7 million credit card owners
+ - [https://www.reddit.com/r/technology/comments/1fcuk4j/payment_gateway_data_breach_affects_17_million](https://www.reddit.com/r/technology/comments/1fcuk4j/payment_gateway_data_breach_affects_17_million)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T17:05:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcuk4j/payment_gateway_data_breach_affects_17_million/"> <img src="https://external-preview.redd.it/7tiEmob5vo7PQK5GU74flwxAfD8m7A2G1tl0Zz4VdU0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f492cbbca48837781974765dfd0b1f0e454be42" alt="Payment gateway data breach affects 1.7 million credit card owners" title="Payment gateway data breach affects 1.7 million credit card owners" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://www.bleepingcomputer.com/news/security/payment-gateway-data-breach-affects-17-million-credit-card-owners/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcuk4j/payment_gateway_data_breach_affects_17_million/">[comments]</a></span> </td></tr></table>
+
+## What do Uber drivers make of Waymo? 'We are cooked'
+ - [https://www.reddit.com/r/technology/comments/1fctv76/what_do_uber_drivers_make_of_waymo_we_are_cooked](https://www.reddit.com/r/technology/comments/1fctv76/what_do_uber_drivers_make_of_waymo_we_are_cooked)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T16:36:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fctv76/what_do_uber_drivers_make_of_waymo_we_are_cooked/"> <img src="https://external-preview.redd.it/jv-cdJXl3UjJqee0aM35rLjBJprzI92eH9-Ds-NBdzQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11869187dabb46bfddad9b595b749caab3768b7f" alt="What do Uber drivers make of Waymo? 'We are cooked'" title="What do Uber drivers make of Waymo? 'We are cooked'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/barweis"> /u/barweis </a> <br/> <span><a href="https://www.theregister.com/2024/09/07/uber_driver_waymo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fctv76/what_do_uber_drivers_make_of_waymo_we_are_cooked/">[comments]</a></span> </td></tr></table>
+
+## To avoid strike, Boeing promises 25% pay hike—and to build next jet in Seattle
+ - [https://www.reddit.com/r/technology/comments/1fctsr5/to_avoid_strike_boeing_promises_25_pay_hikeand_to](https://www.reddit.com/r/technology/comments/1fctsr5/to_avoid_strike_boeing_promises_25_pay_hikeand_to)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T16:33:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fctsr5/to_avoid_strike_boeing_promises_25_pay_hikeand_to/"> <img src="https://external-preview.redd.it/z4Psh4Pe5SRYwJaDZa3q-YcII1-ScZIgsNQlrfz9D7k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79277740816034b117ef4f40cb1aee018003bc6d" alt="To avoid strike, Boeing promises 25% pay hike—and to build next jet in Seattle" title="To avoid strike, Boeing promises 25% pay hike—and to build next jet in Seattle" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/barweis"> /u/barweis </a> <br/> <span><a href="https://arstechnica.com/tech-policy/2024/09/to-avoid-strike-boeing-promises-25-pay-hike-and-to-build-next-jet-in-seattle/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fctsr5/to_avoid_strike_boeing_promises_25_pay_hikeand_to/">[comments]</a></span> </td></tr></table>
+
+## Google’s Next Antitrust Trial Could Make Online Ads Less Annoying | Google will be in court on Monday to face allegations of an ad tech monopoly. Experts say that a DOJ win could create a better browsing future
+ - [https://www.reddit.com/r/technology/comments/1fcrqzf/googles_next_antitrust_trial_could_make_online](https://www.reddit.com/r/technology/comments/1fcrqzf/googles_next_antitrust_trial_could_make_online)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T15:09:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcrqzf/googles_next_antitrust_trial_could_make_online/"> <img src="https://external-preview.redd.it/lrCsoIGmIE0BFg0xUE0-aOevNYd-gGb8qy8vh8I52-o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9290f5e2a58a1bda59a5e7b74607cce45c4afef0" alt="Google’s Next Antitrust Trial Could Make Online Ads Less Annoying | Google will be in court on Monday to face allegations of an ad tech monopoly. Experts say that a DOJ win could create a better browsing future" title="Google’s Next Antitrust Trial Could Make Online Ads Less Annoying | Google will be in court on Monday to face allegations of an ad tech monopoly. Experts say that a DOJ win could create a better browsing future" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hrmbee"> /u/Hrmbee </a> <br/> <span><a href="https://www.wired.com/story/google-ad-tech-antitrust-trial-doubleclick/">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## Boeing Starliner returns to earth successfully unscrewed
+ - [https://www.reddit.com/r/technology/comments/1fcr237/boeing_starliner_returns_to_earth_successfully](https://www.reddit.com/r/technology/comments/1fcr237/boeing_starliner_returns_to_earth_successfully)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T14:40:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcr237/boeing_starliner_returns_to_earth_successfully/"> <img src="https://external-preview.redd.it/SSaNiNN7iVktpxLxvSSuz_2qI3v6aeQKarQJCE4FHa0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f5fa74ebb6c8532925b939127c27ef2cd8e1a50" alt="Boeing Starliner returns to earth successfully unscrewed" title="Boeing Starliner returns to earth successfully unscrewed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OoohjeezRick"> /u/OoohjeezRick </a> <br/> <span><a href="https://spacenews.com/starliner-returns-to-earth-uncrewed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcr237/boeing_starliner_returns_to_earth_successfully/">[comments]</a></span> </td></tr></table>
+
+## Wind Becomes Britain's Largest Electricity Source
+ - [https://www.reddit.com/r/technology/comments/1fcoisa/wind_becomes_britains_largest_electricity_source](https://www.reddit.com/r/technology/comments/1fcoisa/wind_becomes_britains_largest_electricity_source)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T12:44:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://reports.electricinsights.co.uk/q2-2024/wind-becomes-britains-largest-electricity-source/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcoisa/wind_becomes_britains_largest_electricity_source/">[comments]</a></span>
+
+## Huawei's tri-fold phone gets 2.7 million pre-orders ahead of Apple's iPhone 16 launch
+ - [https://www.reddit.com/r/technology/comments/1fco9r9/huaweis_trifold_phone_gets_27_million_preorders](https://www.reddit.com/r/technology/comments/1fco9r9/huaweis_trifold_phone_gets_27_million_preorders)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T12:31:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fco9r9/huaweis_trifold_phone_gets_27_million_preorders/"> <img src="https://external-preview.redd.it/2-t0ZqtyfCtSPxVWOA1lUfvuC03zcZBIQgyiJy56L6U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8946137c0c06bef4ecea591826504cbcd40cc32" alt="Huawei's tri-fold phone gets 2.7 million pre-orders ahead of Apple's iPhone 16 launch" title="Huawei's tri-fold phone gets 2.7 million pre-orders ahead of Apple's iPhone 16 launch" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Virtual_Information3"> /u/Virtual_Information3 </a> <br/> <span><a href="https://www.cnbc.com/amp/2024/09/09/huaweis-tri-fold-phone-gets-2point7-million-pre-orders-before-iphone-16-launch.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fco9r9/huaweis_trifold_phone_gets_27_million_preorders/">[comments]</a></span> </td></tr></table>
+
+## China-US team creates plant-based nanoparticles to fight deadliest brain cancer | These nanoparticles are designed to penetrate the blood-brain barrier and target tumor cells directly.
+ - [https://www.reddit.com/r/technology/comments/1fcnldt/chinaus_team_creates_plantbased_nanoparticles_to](https://www.reddit.com/r/technology/comments/1fcnldt/chinaus_team_creates_plantbased_nanoparticles_to)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T11:56:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://onlinelibrary.wiley.com/doi/10.1002/smsc.202470027">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcnldt/chinaus_team_creates_plantbased_nanoparticles_to/">[comments]</a></span>
+
+## China-US team develops nano-plant drug to combat glioblastoma
+ - [https://www.reddit.com/r/technology/comments/1fcncpg/chinaus_team_develops_nanoplant_drug_to_combat](https://www.reddit.com/r/technology/comments/1fcncpg/chinaus_team_develops_nanoplant_drug_to_combat)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T11:42:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcncpg/chinaus_team_develops_nanoplant_drug_to_combat/"> <img src="https://external-preview.redd.it/-MHf_Q1TUTlArhOYRkKSPCgpLXF9WTcjfflMl7btBT0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f18d750b24c624db08884530d6e23121d80eb9c8" alt="China-US team develops nano-plant drug to combat glioblastoma" title="China-US team develops nano-plant drug to combat glioblastoma" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://interestingengineering.com/science/china-us-develop-drug-to-combat-glioblastoma">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcncpg/chinaus_team_develops_nanoplant_drug_to_combat/">[comments]</a></span> </td></tr></table>
+
+## Biden-Harris Admin to Invest $7.3B in Rural Clean Energy Projects Across 23 States
+ - [https://www.reddit.com/r/technology/comments/1fcmsaf/bidenharris_admin_to_invest_73b_in_rural_clean](https://www.reddit.com/r/technology/comments/1fcmsaf/bidenharris_admin_to_invest_73b_in_rural_clean)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T11:09:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcmsaf/bidenharris_admin_to_invest_73b_in_rural_clean/"> <img src="https://external-preview.redd.it/gBm_cCYAu5e8VaO1fNRH764KJ1d94IIKRaDOvQ3RDPk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a2d479051a46c8a317d183c90fb8dacb5978ae6" alt="Biden-Harris Admin to Invest $7.3B in Rural Clean Energy Projects Across 23 States" title="Biden-Harris Admin to Invest $7.3B in Rural Clean Energy Projects Across 23 States" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.ecowatch.com/biden-rural-clean-energy-projects.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcmsaf/bidenharris_admin_to_invest_73b_in_rural_clean/">[comments]</a></span> </td></tr></table>
+
+## Russian Military Cyber Actors Target U.S. and Global Critical Infrastructure
+ - [https://www.reddit.com/r/technology/comments/1fcmr0y/russian_military_cyber_actors_target_us_and](https://www.reddit.com/r/technology/comments/1fcmr0y/russian_military_cyber_actors_target_us_and)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T11:06:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Doener23"> /u/Doener23 </a> <br/> <span><a href="https://www.verfassungsschutz.de/SharedDocs/publikationen/EN/cyber/2024-09-05-cybersecurity-advisory-3.pdf?__blob=publicationFile&amp;v=1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcmr0y/russian_military_cyber_actors_target_us_and/">[comments]</a></span>
+
+## Indian Army Propaganda Spread by 1.4K AI-Powered Social Media Accounts
+ - [https://www.reddit.com/r/technology/comments/1fcmnrl/indian_army_propaganda_spread_by_14k_aipowered](https://www.reddit.com/r/technology/comments/1fcmnrl/indian_army_propaganda_spread_by_14k_aipowered)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T11:01:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcmnrl/indian_army_propaganda_spread_by_14k_aipowered/"> <img src="https://external-preview.redd.it/oX5DKRs6IVT7on8vkBkNBYLmbkjAoy47-4WP48rHOY4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c357f37917dbcfab88297ae181c7a24c5d946a2" alt="Indian Army Propaganda Spread by 1.4K AI-Powered Social Media Accounts" title="Indian Army Propaganda Spread by 1.4K AI-Powered Social Media Accounts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.darkreading.com/threat-intelligence/indian-army-propaganda-ai-powered-social-media-accounts">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcmnrl/indian_army_propaganda_spread_by_14k_aipowered/">[comments]</a></span> </td></tr></table>
+
+## How Telegram Became Criminals’ Favorite Marketplace. There are thousands of channels and groups on Telegram that offer stolen identities that can be used to open bank and investment accounts | Wall Street Journal
+ - [https://www.reddit.com/r/technology/comments/1fckbvh/how_telegram_became_criminals_favorite](https://www.reddit.com/r/technology/comments/1fckbvh/how_telegram_became_criminals_favorite)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T08:12:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Robert-Nogacki"> /u/Robert-Nogacki </a> <br/> <span><a href="https://www.wsj.com/business/telecom/how-telegram-became-criminals-favorite-marketplace-8c824dfb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fckbvh/how_telegram_became_criminals_favorite/">[comments]</a></span>
+
+## Proton and other VPN providers demand Apple return VPNS to Russian App Store
+ - [https://www.reddit.com/r/technology/comments/1fcjva0/proton_and_other_vpn_providers_demand_apple](https://www.reddit.com/r/technology/comments/1fcjva0/proton_and_other_vpn_providers_demand_apple)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T07:36:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcjva0/proton_and_other_vpn_providers_demand_apple/"> <img src="https://external-preview.redd.it/Q5YbWUzPnNBl-R_TXxuQZEViychsNK4F3hr06mnEC64.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=411da306a2c8039b4543954d6ad818b5bb193b7d" alt="Proton and other VPN providers demand Apple return VPNS to Russian App Store" title="Proton and other VPN providers demand Apple return VPNS to Russian App Store" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/n1ght_w1ng08"> /u/n1ght_w1ng08 </a> <br/> <span><a href="https://www.tomsguide.com/computing/vpns/proton-and-other-vpn-providers-demand-apple-return-vpns-to-russian-app-store">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcjva0/proton_and_other_vpn_providers_demand_apple/">[comments]</a></span> </td></tr></table>
+
+## AMD just tipped the Z2 Extreme chip for next year’s Steam Deck competitors
+ - [https://www.reddit.com/r/technology/comments/1fcjv0z/amd_just_tipped_the_z2_extreme_chip_for_next](https://www.reddit.com/r/technology/comments/1fcjv0z/amd_just_tipped_the_z2_extreme_chip_for_next)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T07:36:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcjv0z/amd_just_tipped_the_z2_extreme_chip_for_next/"> <img src="https://external-preview.redd.it/uwLItaDDC9jlDrPQgZ9XtU6vkFXw7Ij73woto6-2lwg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0829689c89d54fea1bf845aea987cc094d287aee" alt="AMD just tipped the Z2 Extreme chip for next year’s Steam Deck competitors" title="AMD just tipped the Z2 Extreme chip for next year’s Steam Deck competitors" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iBalls"> /u/iBalls </a> <br/> <span><a href="https://www.theverge.com/2024/9/6/24237735/amd-z2-extreme-gaming-handheld-pc-chip">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcjv0z/amd_just_tipped_the_z2_extreme_chip_for_next/">[comments]</a></span> </td></tr></table>
+
+## AMD deprioritizing flagship gaming GPUs: Jack Hyunh talks new strategy against Nvidia in gaming market
+ - [https://www.reddit.com/r/technology/comments/1fcixpa/amd_deprioritizing_flagship_gaming_gpus_jack](https://www.reddit.com/r/technology/comments/1fcixpa/amd_deprioritizing_flagship_gaming_gpus_jack)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T06:25:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcixpa/amd_deprioritizing_flagship_gaming_gpus_jack/"> <img src="https://external-preview.redd.it/KMdjcmvxCqs1iKVu8I1EWhxQ2S4BpzWGsCaodaR4-dY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af98f14fbd81c4e99a74ef4462ffc1b4f827eb82" alt="AMD deprioritizing flagship gaming GPUs: Jack Hyunh talks new strategy against Nvidia in gaming market" title="AMD deprioritizing flagship gaming GPUs: Jack Hyunh talks new strategy against Nvidia in gaming market" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Patient_Stable_5954"> /u/Patient_Stable_5954 </a> <br/> <span><a href="https://www.tomshardware.com/pc-components/gpus/amd-deprioritizing-flagship-gaming-gpus-jack-hyunh-talks-new-strategy-for-gaming-market">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcixpa/amd_deprioritizing_flagship_gaming_gpus_jack/">[comments]</a></span> </td></tr></table>
+
+## Deluge of abuse sent on X to prominent UK politicians in election period
+ - [https://www.reddit.com/r/technology/comments/1fcidq9/deluge_of_abuse_sent_on_x_to_prominent_uk](https://www.reddit.com/r/technology/comments/1fcidq9/deluge_of_abuse_sent_on_x_to_prominent_uk)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T05:46:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcidq9/deluge_of_abuse_sent_on_x_to_prominent_uk/"> <img src="https://external-preview.redd.it/HDRUyWlqk4e2OAGc8RBc9T-Aa3m6z5xKQbZ4KUiswRI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bfe8dd3de56c84340212d18be188ff32dcf178f" alt="Deluge of abuse sent on X to prominent UK politicians in election period " title="Deluge of abuse sent on X to prominent UK politicians in election period " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.theguardian.com/society/article/2024/sep/09/abuse-x-uk-politicians-election-period">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcidq9/deluge_of_abuse_sent_on_x_to_prominent_uk/">[comments]</a></span> </td></tr></table>
+
+## China blames US ‘coercion’ for new Dutch export controls on ASML chip-making equipment
+ - [https://www.reddit.com/r/technology/comments/1fci4w4/china_blames_us_coercion_for_new_dutch_export](https://www.reddit.com/r/technology/comments/1fci4w4/china_blames_us_coercion_for_new_dutch_export)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T05:30:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fci4w4/china_blames_us_coercion_for_new_dutch_export/"> <img src="https://external-preview.redd.it/FmXBkr7Q7NHtWMkfvrUtbYlRy4k3JA60WHGY1fi0XY8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04adfaa4fb44e18f27651586c423fa4dd9f3f9d7" alt="China blames US ‘coercion’ for new Dutch export controls on ASML chip-making equipment" title="China blames US ‘coercion’ for new Dutch export controls on ASML chip-making equipment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.scmp.com/tech/tech-war/article/3277709/china-blames-us-coercion-new-dutch-export-controls-asml-chip-making-equipment?module=top_story&amp;pgtype=homepage">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fci4w4/china_blames_us_coercion_for_new_dutch_export/">[comments]</a></span> </td></tr></table>
+
+## Texts, social media a 'minefield' for couples divorcing: lawyer
+ - [https://www.reddit.com/r/technology/comments/1fcghl6/texts_social_media_a_minefield_for_couples](https://www.reddit.com/r/technology/comments/1fcghl6/texts_social_media_a_minefield_for_couples)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T03:49:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcghl6/texts_social_media_a_minefield_for_couples/"> <img src="https://external-preview.redd.it/JFGURq2dXPaOxJnnpOQ9rKYkiVNSu5kyYuZkCtCBVxo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5cfe0fd14ecd2fab5374ca561becb238b5225347" alt="Texts, social media a 'minefield' for couples divorcing: lawyer" title="Texts, social media a 'minefield' for couples divorcing: lawyer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ubcstaffer123"> /u/ubcstaffer123 </a> <br/> <span><a href="https://www.cbc.ca/news/canada/toronto/texts-social-media-divorce-1.7316992">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcghl6/texts_social_media_a_minefield_for_couples/">[comments]</a></span> </td></tr></table>
+
+## Australian government department amends IT contract 250 times and counting, taking the total value of the contract from $96 million to $541.9 million
+ - [https://www.reddit.com/r/technology/comments/1fcej9o/australian_government_department_amends_it](https://www.reddit.com/r/technology/comments/1fcej9o/australian_government_department_amends_it)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T02:05:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcej9o/australian_government_department_amends_it/"> <img src="https://external-preview.redd.it/WlbMB4TC4RZ5BqkD4k3O-6fZuPQ5Q7kOf4w5qaF9Z_M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ce33c4d375025c8fd9db3653bde4b0356d0d752" alt="Australian government department amends IT contract 250 times and counting, taking the total value of the contract from $96 million to $541.9 million" title="Australian government department amends IT contract 250 times and counting, taking the total value of the contract from $96 million to $541.9 million" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marketrent"> /u/marketrent </a> <br/> <span><a href="https://www.canberratimes.com.au/story/8755711/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcej9o/australian_government_department_amends_it/">[comments]</a></span> </td></tr></table>
+
+## Car giants are pulling a U-turn on their EV plans – here's how Ford, Hyundai, Volvo and more are changing course
+ - [https://www.reddit.com/r/technology/comments/1fcca26/car_giants_are_pulling_a_uturn_on_their_ev_plans](https://www.reddit.com/r/technology/comments/1fcca26/car_giants_are_pulling_a_uturn_on_their_ev_plans)
+ - RSS feed: https://www.reddit.com/r/technology/.rss
+ - date published: 2024-09-09T00:09:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1fcca26/car_giants_are_pulling_a_uturn_on_their_ev_plans/"> <img src="https://external-preview.redd.it/BatH85S2pc7txn5TIVRUBQi-7EUtcuhjEa9MW99FCOc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1db99c4a0f8307c9e94bee1fe46d65147db26a03" alt="Car giants are pulling a U-turn on their EV plans – here's how Ford, Hyundai, Volvo and more are changing course" title="Car giants are pulling a U-turn on their EV plans – here's how Ford, Hyundai, Volvo and more are changing course" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StrawberryFlossTarts"> /u/StrawberryFlossTarts </a> <br/> <span><a href="https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/car-giants-are-pulling-a-u-turn-on-their-ev-plans-heres-how-ford-hyundai-volvo-and-more-are-changing-course">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1fcca26/car_giants_are_pulling_a_uturn_o
+
