@@ -1,0 +1,303 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Discussion Thread: First Presidential Debate of the 2024 General Election Between Vice President Kamala Harris and Former President Donald Trump
+ - [https://www.reddit.com/r/politics/comments/1fdtubw/discussion_thread_first_presidential_debate_of](https://www.reddit.com/r/politics/comments/1fdtubw/discussion_thread_first_presidential_debate_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T21:45:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Tonight&#39;s debate is being hosted on ABC in the National Constitution Center in Philadelphia, and will be moderated by anchors David Muir and Linsey Davis. It is scheduled to begin at 9 p.m. Eastern and last for 90 minutes. The candidates&#39; microphones will, under rules negotiated between the Biden and Trump campaigns, be muted in the absence of &quot;significant crosstalk&quot;. The <a href="https://abc.com/news/5e38600c-4732-4cd2-a99c-3dedfa81beb0/category/1138628">full rules for tonight&#39;s debate can be found here on ABC&#39;s site</a>. Per <a href="https://www.npr.org/2024/09/10/nx-s1-5106660/election-poll-harris-trump-debate">a recent NPR/PBS NewsHour/Marist poll</a>, &quot;Seven-in-10 Americans say they are going to watch the first presidential debate between Vice President Harris and former President Donald Trump on Tuesday, and 3-in-10 say it will help decide their vote&quot;.</p> <p>Tonight&#39;s debate is the only remaining presiden
+
+## Questions about Trump’s age, fitness become literal front-page news | After months of intense scrutiny of Joe Biden’s age and fitness, now it’s Donald Trump facing the same kinds of questions. It’s about time.
+ - [https://www.reddit.com/r/politics/comments/1fdre2o/questions_about_trumps_age_fitness_become_literal](https://www.reddit.com/r/politics/comments/1fdre2o/questions_about_trumps_age_fitness_become_literal)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T20:02:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdre2o/questions_about_trumps_age_fitness_become_literal/"> <img src="https://external-preview.redd.it/ACsBZsPi0bISPVQ4QGgXK9FLPiVjdY-kiTXdklQ1VDk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c93f989016b8aa7af402a95c2a096abe0e65f005" alt="Questions about Trump’s age, fitness become literal front-page news | After months of intense scrutiny of Joe Biden’s age and fitness, now it’s Donald Trump facing the same kinds of questions. It’s about time." title="Questions about Trump’s age, fitness become literal front-page news | After months of intense scrutiny of Joe Biden’s age and fitness, now it’s Donald Trump facing the same kinds of questions. It’s about time." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/questions-trumps-age-fitness-become-literal-front-page-news-rcna
+
+## Harris leads Trump by 3 points in North Carolina survey
+ - [https://www.reddit.com/r/politics/comments/1fdqkp4/harris_leads_trump_by_3_points_in_north_carolina](https://www.reddit.com/r/politics/comments/1fdqkp4/harris_leads_trump_by_3_points_in_north_carolina)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T19:29:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdqkp4/harris_leads_trump_by_3_points_in_north_carolina/"> <img src="https://external-preview.redd.it/gR_ma2WyPMoU4GCd4dIpVtbmIDYpKj6dDFrX9b1wIR8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a25ed8a7cdb313b94f6e0343ec1ce6056bf4087" alt="Harris leads Trump by 3 points in North Carolina survey" title="Harris leads Trump by 3 points in North Carolina survey" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br/> <span><a href="https://thehill.com/homenews/campaign/4871215-kamala-harris-leading-donald-trump-north-carolina-survey/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdqkp4/harris_leads_trump_by_3_points_in_north_carolina/">[comments]</a></span> </td></tr></table>
+
+## Ginni Thomas news boosts calls for Clarence Thomas recusal ahead of Supreme Court term
+ - [https://www.reddit.com/r/politics/comments/1fdqgul/ginni_thomas_news_boosts_calls_for_clarence](https://www.reddit.com/r/politics/comments/1fdqgul/ginni_thomas_news_boosts_calls_for_clarence)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T19:24:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdqgul/ginni_thomas_news_boosts_calls_for_clarence/"> <img src="https://external-preview.redd.it/lwx9hk3TLI4traJ4GM4AsVkL54QTMtgs6_OT6BMojuo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d2e42163177594e556d9e66af1c310f2c67b4f1" alt="Ginni Thomas news boosts calls for Clarence Thomas recusal ahead of Supreme Court term" title="Ginni Thomas news boosts calls for Clarence Thomas recusal ahead of Supreme Court term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cute-Perception2335"> /u/Cute-Perception2335 </a> <br/> <span><a href="https://www.msnbc.com/deadline-white-house/deadline-legal-blog/ginni-thomas-clarence-recusal-supreme-court-rcna170385">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdqgul/ginni_thomas_news_boosts_calls_for_clarence/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Sticks It to Trump With Her Official Debate Guests
+ - [https://www.reddit.com/r/politics/comments/1fdqay5/kamala_harris_sticks_it_to_trump_with_her](https://www.reddit.com/r/politics/comments/1fdqay5/kamala_harris_sticks_it_to_trump_with_her)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T19:18:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdqay5/kamala_harris_sticks_it_to_trump_with_her/"> <img src="https://external-preview.redd.it/wZdS5jdpdM4NT-qD_psWm0C6JBnHMxS9jB4SJMuKcfg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1dd2c164af4c54a394dc03b0aafd83301a54c72" alt="Kamala Harris Sticks It to Trump With Her Official Debate Guests" title="Kamala Harris Sticks It to Trump With Her Official Debate Guests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/P_a_s_g_i_t_24"> /u/P_a_s_g_i_t_24 </a> <br/> <span><a href="https://newrepublic.com/post/185784/kamala-harris-trump-officials-debate-guests">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdqay5/kamala_harris_sticks_it_to_trump_with_her/">[comments]</a></span> </td></tr></table>
+
+## Senate Democrats say Colin Allred has 'very real' shot at unseating Ted Cruz
+ - [https://www.reddit.com/r/politics/comments/1fdq032/senate_democrats_say_colin_allred_has_very_real](https://www.reddit.com/r/politics/comments/1fdq032/senate_democrats_say_colin_allred_has_very_real)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T19:05:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdq032/senate_democrats_say_colin_allred_has_very_real/"> <img src="https://external-preview.redd.it/T8Jrgw2dH_ZMvJvoWs7aVzWmzNf12wx3Uqc3sM2O5uw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c287fd852aaa30dfa83a536843de1e76239b4c5" alt="Senate Democrats say Colin Allred has 'very real' shot at unseating Ted Cruz" title="Senate Democrats say Colin Allred has 'very real' shot at unseating Ted Cruz" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ExpressNews"> /u/ExpressNews </a> <br/> <span><a href="https://www.expressnews.com/politics/article/ted-cruz-colin-allred-senate-19754848.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdq032/senate_democrats_say_colin_allred_has_very_real/">[comments]</a></span> </td></tr></table>
+
+## Republicans Are a Party of Blatant Racists
+ - [https://www.reddit.com/r/politics/comments/1fdniu8/republicans_are_a_party_of_blatant_racists](https://www.reddit.com/r/politics/comments/1fdniu8/republicans_are_a_party_of_blatant_racists)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T17:25:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdniu8/republicans_are_a_party_of_blatant_racists/"> <img src="https://external-preview.redd.it/4p0gN--IEOIh6gg8Rb_7xUpikl3ZAIY6AKWWA2wI4Do.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d184dbc72e5fc3988bc78b6f2c2945fd53698981" alt="Republicans Are a Party of Blatant Racists" title="Republicans Are a Party of Blatant Racists" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/z8675309z"> /u/z8675309z </a> <br/> <span><a href="https://www.motherjones.com/politics/2024/09/jd-vance-haitian-immigrants-cat-lie-racism/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdniu8/republicans_are_a_party_of_blatant_racists/">[comments]</a></span> </td></tr></table>
+
+## JD Vance calls for more anti-Haitian migrant memes after admitting pet-eating panic may be false
+ - [https://www.reddit.com/r/politics/comments/1fdn8e5/jd_vance_calls_for_more_antihaitian_migrant_memes](https://www.reddit.com/r/politics/comments/1fdn8e5/jd_vance_calls_for_more_antihaitian_migrant_memes)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T17:14:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdn8e5/jd_vance_calls_for_more_antihaitian_migrant_memes/"> <img src="https://external-preview.redd.it/PVrXmAwAYofkPlz-OMdudlXM4cKH8VbTR4KhHa2wST0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=865a5b1e9e2f234ed1f836b28c37e8b99f175407" alt="JD Vance calls for more anti-Haitian migrant memes after admitting pet-eating panic may be false" title="JD Vance calls for more anti-Haitian migrant memes after admitting pet-eating panic may be false" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dailydot"> /u/dailydot </a> <br/> <span><a href="https://www.dailydot.com/debug/jd-vance-haitian-cat-memes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdn8e5/jd_vance_calls_for_more_antihaitian_migrant_memes/">[comments]</a></span> </td></tr></table>
+
+## Harris Hilariously Shreds Trump’s Insecurities in Pre-Debate Ad - Kamala Harris continues to hit Donald Trump where it hurts.
+ - [https://www.reddit.com/r/politics/comments/1fdn0gd/harris_hilariously_shreds_trumps_insecurities_in](https://www.reddit.com/r/politics/comments/1fdn0gd/harris_hilariously_shreds_trumps_insecurities_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T17:05:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdn0gd/harris_hilariously_shreds_trumps_insecurities_in/"> <img src="https://external-preview.redd.it/cgmCsPEbkPVMQa3IBvHXM1j66U38GwGFMdeQV4nOMbw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d26fcd36a37efef82ce98179028487f9b88b071" alt="Harris Hilariously Shreds Trump’s Insecurities in Pre-Debate Ad - Kamala Harris continues to hit Donald Trump where it hurts." title="Harris Hilariously Shreds Trump’s Insecurities in Pre-Debate Ad - Kamala Harris continues to hit Donald Trump where it hurts." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://newrepublic.com/post/185781/kamala-harris-donald-trump-crowds-debate-ad">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdn0gd/harris_hilariously_shreds_trumps_insecurities_in/">[comments]</a></span> </td></tr></table>
+
+## Trump leads Harris by just 2 points in Florida: Poll
+ - [https://www.reddit.com/r/politics/comments/1fdmjek/trump_leads_harris_by_just_2_points_in_florida](https://www.reddit.com/r/politics/comments/1fdmjek/trump_leads_harris_by_just_2_points_in_florida)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T16:45:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdmjek/trump_leads_harris_by_just_2_points_in_florida/"> <img src="https://external-preview.redd.it/mapBNl3RVtrgaOG7I2ObtKczaPajqYaPFhEwPXR6mXw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81cb38b73c747a5922af6a1a32842fa4ed978bf8" alt="Trump leads Harris by just 2 points in Florida: Poll" title="Trump leads Harris by just 2 points in Florida: Poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/elliottbaytrail"> /u/elliottbaytrail </a> <br/> <span><a href="https://thehill.com/homenews/campaign/4870702-florida-trump-harris-poll/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdmjek/trump_leads_harris_by_just_2_points_in_florida/">[comments]</a></span> </td></tr></table>
+
+## Tara Setmayer on leaving the GOP and supporting Kamala Harris: ‘The Republican Party I knew is dead’
+ - [https://www.reddit.com/r/politics/comments/1fdmht1/tara_setmayer_on_leaving_the_gop_and_supporting](https://www.reddit.com/r/politics/comments/1fdmht1/tara_setmayer_on_leaving_the_gop_and_supporting)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T16:43:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdmht1/tara_setmayer_on_leaving_the_gop_and_supporting/"> <img src="https://external-preview.redd.it/e8W7drtSiTBcruXgI2Q6M5ZY4tcvMwValfDqPAVbwWI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4df52cfd1b764f83340d8e70d958b228e021e2e1" alt="Tara Setmayer on leaving the GOP and supporting Kamala Harris: ‘The Republican Party I knew is dead’" title="Tara Setmayer on leaving the GOP and supporting Kamala Harris: ‘The Republican Party I knew is dead’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LosFelizCB"> /u/LosFelizCB </a> <br/> <span><a href="https://thegrio.com/2024/09/09/tara-setmayer-on-leaving-the-gop-and-supporting-kamala-harris-the-republican-party-i-knew-is-dead/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdmht1/tara_setmayer_on_leaving_the_gop_and_supporting/">[comments]</a></span> </td></tr></table>
+
+## Dick Cheney's Support For Kamala Harris Could Actually Matter
+ - [https://www.reddit.com/r/politics/comments/1fdlloo/dick_cheneys_support_for_kamala_harris_could](https://www.reddit.com/r/politics/comments/1fdlloo/dick_cheneys_support_for_kamala_harris_could)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T16:07:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdlloo/dick_cheneys_support_for_kamala_harris_could/"> <img src="https://external-preview.redd.it/UJAAu-GNQTRVUemRPr9hxtXUMbyQyC799FV4T_t4uEA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9cd77ce88ab1a95005268dcc5c026191c884ceba" alt="Dick Cheney's Support For Kamala Harris Could Actually Matter" title="Dick Cheney's Support For Kamala Harris Could Actually Matter" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LosFelizCB"> /u/LosFelizCB </a> <br/> <span><a href="https://www.huffpost.com/entry/dick-cheney-groundbreaking-endorsement-kamala-harris-could-matter_n_66df50a3e4b01b464f3e5e17">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdlloo/dick_cheneys_support_for_kamala_harris_could/">[comments]</a></span> </td></tr></table>
+
+## I Can't Believe I'm Writing This: No, JD Vance, Immigrants Are Not Eating Pets
+ - [https://www.reddit.com/r/politics/comments/1fdlezg/i_cant_believe_im_writing_this_no_jd_vance](https://www.reddit.com/r/politics/comments/1fdlezg/i_cant_believe_im_writing_this_no_jd_vance)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T15:59:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdlezg/i_cant_believe_im_writing_this_no_jd_vance/"> <img src="https://external-preview.redd.it/UjHvRVpact_K5cZIGRYECVnEUPMisjzvZmh1_KlKIuk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e75ff0cc4e651a4b6fe8779055a937fab43017c4" alt="I Can't Believe I'm Writing This: No, JD Vance, Immigrants Are Not Eating Pets" title="I Can't Believe I'm Writing This: No, JD Vance, Immigrants Are Not Eating Pets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Esquire"> /u/Esquire </a> <br/> <span><a href="https://www.esquire.com/news-politics/politics/a62121631/jd-vance-haiti/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdlezg/i_cant_believe_im_writing_this_no_jd_vance/">[comments]</a></span> </td></tr></table>
+
+## Project 2025 Leader Confesses Deep Trump Ties in Damning Interview
+ - [https://www.reddit.com/r/politics/comments/1fdkzb8/project_2025_leader_confesses_deep_trump_ties_in](https://www.reddit.com/r/politics/comments/1fdkzb8/project_2025_leader_confesses_deep_trump_ties_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T15:41:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdkzb8/project_2025_leader_confesses_deep_trump_ties_in/"> <img src="https://external-preview.redd.it/83mZSTEkOxNfzkh4qaYs6fmm6snbaFeqN3TPpgjTgh8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59b6f8dab8bc48ec2c5281bfc11714d275fc1678" alt="Project 2025 Leader Confesses Deep Trump Ties in Damning Interview" title="Project 2025 Leader Confesses Deep Trump Ties in Damning Interview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/elliottbaytrail"> /u/elliottbaytrail </a> <br/> <span><a href="https://newrepublic.com/post/185765/project-2025-leader-paul-dans-trump-ties-interview">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdkzb8/project_2025_leader_confesses_deep_trump_ties_in/">[comments]</a></span> </td></tr></table>
+
+## Questions about Trump’s age, fitness become literal front-page news | After months of intense scrutiny of Joe Biden's age and fitness, now it's Donald Trump facing the same kinds of questions. It's about time.
+ - [https://www.reddit.com/r/politics/comments/1fdkjav/questions_about_trumps_age_fitness_become_literal](https://www.reddit.com/r/politics/comments/1fdkjav/questions_about_trumps_age_fitness_become_literal)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T15:23:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdkjav/questions_about_trumps_age_fitness_become_literal/"> <img src="https://external-preview.redd.it/ACsBZsPi0bISPVQ4QGgXK9FLPiVjdY-kiTXdklQ1VDk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c93f989016b8aa7af402a95c2a096abe0e65f005" alt="Questions about Trump’s age, fitness become literal front-page news | After months of intense scrutiny of Joe Biden's age and fitness, now it's Donald Trump facing the same kinds of questions. It's about time." title="Questions about Trump’s age, fitness become literal front-page news | After months of intense scrutiny of Joe Biden's age and fitness, now it's Donald Trump facing the same kinds of questions. It's about time." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br/> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/questions-trumps-age-fitness-become-literal-front-page-news-
+
+## Unpaid debts follow Donald Trump on campaign trail
+ - [https://www.reddit.com/r/politics/comments/1fdjqxo/unpaid_debts_follow_donald_trump_on_campaign_trail](https://www.reddit.com/r/politics/comments/1fdjqxo/unpaid_debts_follow_donald_trump_on_campaign_trail)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T14:50:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdjqxo/unpaid_debts_follow_donald_trump_on_campaign_trail/"> <img src="https://external-preview.redd.it/xSWpHE216-s_uoUTLf1xnix8G9sSBaBL3r7Uq3B0v48.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7e46ac063f2be0aa24b716b87baa80fdc9b54bd" alt="Unpaid debts follow Donald Trump on campaign trail" title="Unpaid debts follow Donald Trump on campaign trail" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/unpaid-debts-are-catching-donald-trump-campaign-trail-1950283">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdjqxo/unpaid_debts_follow_donald_trump_on_campaign_trail/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: 2024 Delaware, New Hampshire, and Rhode Island Primaries
+ - [https://www.reddit.com/r/politics/comments/1fdjpet/discussion_thread_2024_delaware_new_hampshire_and](https://www.reddit.com/r/politics/comments/1fdjpet/discussion_thread_2024_delaware_new_hampshire_and)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T14:48:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Today, voters conclude primary voting in the three states mentioned in this post&#39;s title. These primary elections mark the end of the 2024 primary season.</p> <p>Polls are open in Delaware until 8 p.m., in New Hampshire until 7 or 8 (depending on polling place), and Rhode Island until 8 p.m.</p> <h1>Multi-State Coverage</h1> <ul> <li>USA Today: <a href="https://www.usatoday.com/story/news/politics/elections/2024/09/10/delaware-new-hampshire-rhode-island-primaries/75145898007/">Three states will close out the primary season with elections on Tuesday</a></li> </ul> <h1>Delaware</h1> <p><strong>News and Analysis</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/delaware-primary-governor-senate-house-carney-carper-f3b13d284a3cc8911592619f4f4ea25b">AP Decision Notes: What to expect in Delaware’s state primaries</a></p></li> <li><p>AP: <a href="https://apnews.com/article/2024-elections-delaware-primary-politics-21f05b9b8c25a93c83cc80d213d
+
+## /r/Politics' 2024 US Elections Live Thread, Part 19
+ - [https://www.reddit.com/r/politics/comments/1fdjna2/rpolitics_2024_us_elections_live_thread_part_19](https://www.reddit.com/r/politics/comments/1fdjna2/rpolitics_2024_us_elections_live_thread_part_19)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T14:46:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdjna2/rpolitics_2024_us_elections_live_thread_part_19/"> <img src="https://b.thumbs.redditmedia.com/6VVMgGipe7XrGi7CSABeYGc5q-SEcQseXpVVbyKZs6U.jpg" alt="/r/Politics' 2024 US Elections Live Thread, Part 19" title="/r/Politics' 2024 US Elections Live Thread, Part 19" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PoliticsModeratorBot"> /u/PoliticsModeratorBot </a> <br/> <span><a href="https://www.reddit.com/live/1db9knzhqzdfp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdjna2/rpolitics_2024_us_elections_live_thread_part_19/">[comments]</a></span> </td></tr></table>
+
+## Trump could suffer the same fate as Biden in tonight’s debate — how will his party react?
+ - [https://www.reddit.com/r/politics/comments/1fdj6p2/trump_could_suffer_the_same_fate_as_biden_in](https://www.reddit.com/r/politics/comments/1fdj6p2/trump_could_suffer_the_same_fate_as_biden_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T14:26:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdj6p2/trump_could_suffer_the_same_fate_as_biden_in/"> <img src="https://external-preview.redd.it/mSNhZLrESRSv3tzj6UO6PlBi-ZLMqaAuUsbmwd2aNrw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b639daf6ddcfac25d284c1b33e147a97e3b468bd" alt="Trump could suffer the same fate as Biden in tonight’s debate — how will his party react? " title="Trump could suffer the same fate as Biden in tonight’s debate — how will his party react? " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/z8675309z"> /u/z8675309z </a> <br/> <span><a href="https://thehill.com/opinion/campaign/4870467-trump-harris-debate-deterioration/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdj6p2/trump_could_suffer_the_same_fate_as_biden_in/">[comments]</a></span> </td></tr></table>
+
+## Trump Makes Chilling Promise in Pre-Debate Phone Call
+ - [https://www.reddit.com/r/politics/comments/1fdj5xx/trump_makes_chilling_promise_in_predebate_phone](https://www.reddit.com/r/politics/comments/1fdj5xx/trump_makes_chilling_promise_in_predebate_phone)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T14:25:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdj5xx/trump_makes_chilling_promise_in_predebate_phone/"> <img src="https://external-preview.redd.it/AdPgDqrcuufpdJfZO_gs89q12VHErCBzfZ2zI_2P3es.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4a35ec82cfc8e85705af9e174e9e109c6a5b963" alt="Trump Makes Chilling Promise in Pre-Debate Phone Call" title="Trump Makes Chilling Promise in Pre-Debate Phone Call" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br/> <span><a href="https://newrepublic.com/post/185770/donald-trump-debate-kamala-harris-christian-nationalism">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdj5xx/trump_makes_chilling_promise_in_predebate_phone/">[comments]</a></span> </td></tr></table>
+
+## Harris is bringing two former Trump administration officials as her debate guests
+ - [https://www.reddit.com/r/politics/comments/1fdizgi/harris_is_bringing_two_former_trump](https://www.reddit.com/r/politics/comments/1fdizgi/harris_is_bringing_two_former_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T14:18:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Kashmir75"> /u/Kashmir75 </a> <br/> <span><a href="https://www.politico.com/news/2024/09/10/harris-republicans-debate-guests-scaramucci-troye-00178162">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdizgi/harris_is_bringing_two_former_trump/">[comments]</a></span>
+
+## Nevada Supreme Court rules Green Party will not be on the state's general election ballot
+ - [https://www.reddit.com/r/politics/comments/1fdiwdx/nevada_supreme_court_rules_green_party_will_not](https://www.reddit.com/r/politics/comments/1fdiwdx/nevada_supreme_court_rules_green_party_will_not)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T14:14:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdiwdx/nevada_supreme_court_rules_green_party_will_not/"> <img src="https://external-preview.redd.it/VTVqIQYsRX5TvNDiK19ehEwN0HGBP_VS5x-bhrCw9GQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39f2f39746afd2d6f77dc04f476104dbc2c763d6" alt="Nevada Supreme Court rules Green Party will not be on the state's general election ballot" title="Nevada Supreme Court rules Green Party will not be on the state's general election ballot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dub_U"> /u/Dub_U </a> <br/> <span><a href="https://www.rgj.com/story/news/politics/elections/2024/09/06/nevada-supreme-court-rules-green-party-ineligible-for-general-election/75109795007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdiwdx/nevada_supreme_court_rules_green_party_will_not/">[comments]</a></span> </td></tr></table>
+
+## AOC launches effort to impeach Clarence Thomas and Samuel Alito
+ - [https://www.reddit.com/r/politics/comments/1fdhaju/aoc_launches_effort_to_impeach_clarence_thomas](https://www.reddit.com/r/politics/comments/1fdhaju/aoc_launches_effort_to_impeach_clarence_thomas)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T13:00:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdhaju/aoc_launches_effort_to_impeach_clarence_thomas/"> <img src="https://external-preview.redd.it/0rZNcVUxpByZ9DN2nwzgndQTXScEy_ap6dY6KU1ofsU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35924ee141f6d1957f667d2080e6bff3606e8ca5" alt="AOC launches effort to impeach Clarence Thomas and Samuel Alito" title="AOC launches effort to impeach Clarence Thomas and Samuel Alito" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SubjectInevitable650"> /u/SubjectInevitable650 </a> <br/> <span><a href="https://www.theguardian.com/us-news/article/2024/jul/10/aoc-articles-of-impeachment">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdhaju/aoc_launches_effort_to_impeach_clarence_thomas/">[comments]</a></span> </td></tr></table>
+
+## Mark Robinson’s candidacy has gone from bad to worse — and it could hurt Trump
+ - [https://www.reddit.com/r/politics/comments/1fdh1y9/mark_robinsons_candidacy_has_gone_from_bad_to](https://www.reddit.com/r/politics/comments/1fdh1y9/mark_robinsons_candidacy_has_gone_from_bad_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T12:49:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdh1y9/mark_robinsons_candidacy_has_gone_from_bad_to/"> <img src="https://external-preview.redd.it/0BE83GOvt8fkIlD8bWjm0aEckuVgtMuKx3Ti-DXiBIc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b31518e926b49070217456a040b9a420537b2cb" alt="Mark Robinson’s candidacy has gone from bad to worse — and it could hurt Trump" title="Mark Robinson’s candidacy has gone from bad to worse — and it could hurt Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cute-Perception2335"> /u/Cute-Perception2335 </a> <br/> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/mark-robinson-north-carolina-scandal-trump-rcna169743">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdh1y9/mark_robinsons_candidacy_has_gone_from_bad_to/">[comments]</a></span> </td></tr></table>
+
+## What If Trump Wins? The chaos and lawlessness of the first term could pale in comparison to what comes next
+ - [https://www.reddit.com/r/politics/comments/1fdgoe5/what_if_trump_wins_the_chaos_and_lawlessness_of](https://www.reddit.com/r/politics/comments/1fdgoe5/what_if_trump_wins_the_chaos_and_lawlessness_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T12:30:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdgoe5/what_if_trump_wins_the_chaos_and_lawlessness_of/"> <img src="https://external-preview.redd.it/Zr0N0ahUzFOOfZHsiU3Sc8AgVxihjveSbawA0__kOQQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a6643b2e4b33f7c69357790f6062fdc4e922fa9" alt="What If Trump Wins? The chaos and lawlessness of the first term could pale in comparison to what comes next" title="What If Trump Wins? The chaos and lawlessness of the first term could pale in comparison to what comes next" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/1877KlownsForKids"> /u/1877KlownsForKids </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-features/if-trump-wins-2024-election-1235096091">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdgoe5/what_if_trump_wins_the_chaos_and_lawlessness_of/">[comments]</a></span> </td></tr></table>
+
+## Republicans spread baseless slurs about ‘cat-eating migrants’ in Ohio city
+ - [https://www.reddit.com/r/politics/comments/1fdgdvy/republicans_spread_baseless_slurs_about_cateating](https://www.reddit.com/r/politics/comments/1fdgdvy/republicans_spread_baseless_slurs_about_cateating)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T12:15:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdgdvy/republicans_spread_baseless_slurs_about_cateating/"> <img src="https://external-preview.redd.it/QBUhHqYok1ERaiiFrdew3M6ivKcmuN42DG2_HbB4rq4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b3deff7284bd87c02ab649dc0fef0813c3d16b8" alt="Republicans spread baseless slurs about ‘cat-eating migrants’ in Ohio city" title="Republicans spread baseless slurs about ‘cat-eating migrants’ in Ohio city" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CrackHeadRodeo"> /u/CrackHeadRodeo </a> <br/> <span><a href="https://www.theguardian.com/us-news/article/2024/sep/09/republicans-haitian-migrants-pets-wildlife-ohio">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdgdvy/republicans_spread_baseless_slurs_about_cateating/">[comments]</a></span> </td></tr></table>
+
+## Debunked: Trump's tariffs raise prices for Americans, not foreign countries
+ - [https://www.reddit.com/r/politics/comments/1fdg9vw/debunked_trumps_tariffs_raise_prices_for](https://www.reddit.com/r/politics/comments/1fdg9vw/debunked_trumps_tariffs_raise_prices_for)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T12:09:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdg9vw/debunked_trumps_tariffs_raise_prices_for/"> <img src="https://external-preview.redd.it/xdHj-PqH3OuMh4B0w5eAvZe8eJ5Ub3TMG5ix_rfIRxo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a023ab190c36bd6d7c05348d4608c9347a496728" alt="Debunked: Trump's tariffs raise prices for Americans, not foreign countries" title="Debunked: Trump's tariffs raise prices for Americans, not foreign countries" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br/> <span><a href="https://www.msnbc.com/morning-joe/watch/debunked-trump-s-tariffs-raise-prices-for-americans-not-foreign-countries-218915397675">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdg9vw/debunked_trumps_tariffs_raise_prices_for/">[comments]</a></span> </td></tr></table>
+
+## Nancy Pelosi Calls Trump's Jokes About Brutal Attack On Her Husband 'Sick'
+ - [https://www.reddit.com/r/politics/comments/1fdg5ap/nancy_pelosi_calls_trumps_jokes_about_brutal](https://www.reddit.com/r/politics/comments/1fdg5ap/nancy_pelosi_calls_trumps_jokes_about_brutal)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T12:02:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdg5ap/nancy_pelosi_calls_trumps_jokes_about_brutal/"> <img src="https://external-preview.redd.it/tKMLISEAPsimcR5SCdMbQ12Pk566UrJpuRGKJNjqSUE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2b92477bb6fd345528a51b145799c9ed7fc0ff4" alt="Nancy Pelosi Calls Trump's Jokes About Brutal Attack On Her Husband 'Sick'" title="Nancy Pelosi Calls Trump's Jokes About Brutal Attack On Her Husband 'Sick'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cute-Perception2335"> /u/Cute-Perception2335 </a> <br/> <span><a href="https://www.huffpost.com/entry/nancy-pelosi-trump-jokes-about-husbands-attack-sick_n_66df5c9ce4b01b464f3e656f?utm_source=cordial&amp;utm_medium=email&amp;utm_campaign=hp-us-reg-morning-email_2024-09-10&amp;utm_term=us-morning-email&amp;email_hash=f67ebcd8d904e50224d431e36993526cb06a6015">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdg5ap/na
+
+## Debate double standard: Media 'sane-washing' Trump means Harris must be 'twice as good'
+ - [https://www.reddit.com/r/politics/comments/1fdfiol/debate_double_standard_media_sanewashing_trump](https://www.reddit.com/r/politics/comments/1fdfiol/debate_double_standard_media_sanewashing_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T11:27:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdfiol/debate_double_standard_media_sanewashing_trump/"> <img src="https://external-preview.redd.it/dpCk-j6QIJ4viwR5e9uBWhLm8hnUeJEKAvQTTiDdgrw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2fa24af85c9966c0b7e83c5c8877a60f1b260cfe" alt="Debate double standard: Media 'sane-washing' Trump means Harris must be 'twice as good'" title="Debate double standard: Media 'sane-washing' Trump means Harris must be 'twice as good'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br/> <span><a href="https://www.msnbc.com/the-last-word/watch/debate-double-standard-media-sane-washing-trump-means-harris-must-be-twice-as-good-218950213512">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdfiol/debate_double_standard_media_sanewashing_trump/">[comments]</a></span> </td></tr></table>
+
+## CBS News poll for 2024 Senate races shows Democrats lead in Michigan, Pennsylvania and Wisconsin
+ - [https://www.reddit.com/r/politics/comments/1fdffwm/cbs_news_poll_for_2024_senate_races_shows](https://www.reddit.com/r/politics/comments/1fdffwm/cbs_news_poll_for_2024_senate_races_shows)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T11:23:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdffwm/cbs_news_poll_for_2024_senate_races_shows/"> <img src="https://external-preview.redd.it/MgUGSzMeR1d7ZiU-7ushXQ5fVEpbG5bOqC6VseR1it4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7688473128483ca2f0f3e16caa4d8912141ab3cc" alt="CBS News poll for 2024 Senate races shows Democrats lead in Michigan, Pennsylvania and Wisconsin" title="CBS News poll for 2024 Senate races shows Democrats lead in Michigan, Pennsylvania and Wisconsin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FreeChickenDinner"> /u/FreeChickenDinner </a> <br/> <span><a href="https://www.cbsnews.com/news/michigan-pennsylvania-wisconsin-senate-poll/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdffwm/cbs_news_poll_for_2024_senate_races_shows/">[comments]</a></span> </td></tr></table>
+
+## ‘Racism’: Critics rip (and mock) J.D. Vance for bizarre story about cats being eaten by immigrants
+ - [https://www.reddit.com/r/politics/comments/1fdf794/racism_critics_rip_and_mock_jd_vance_for_bizarre](https://www.reddit.com/r/politics/comments/1fdf794/racism_critics_rip_and_mock_jd_vance_for_bizarre)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T11:07:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdf794/racism_critics_rip_and_mock_jd_vance_for_bizarre/"> <img src="https://external-preview.redd.it/lAtdpJxvT0ao1uqPz961hGD4lFb0o_5PFcOtvlwi4Wo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0894054916f0f3d85f248da85d0412b609632f9b" alt="‘Racism’: Critics rip (and mock) J.D. Vance for bizarre story about cats being eaten by immigrants" title="‘Racism’: Critics rip (and mock) J.D. Vance for bizarre story about cats being eaten by immigrants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MotorizedDoucheCanoe"> /u/MotorizedDoucheCanoe </a> <br/> <span><a href="https://www.nj.com/politics/2024/09/why-did-trump-vp-pick-jd-vance-tell-a-bizarre-story-about-cats-being-eaten-by-immigrants.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdf794/racism_critics_rip_and_mock_jd_vance_for_bizarre/">[comments]</a></span> </td></tr></table>
+
+## Trump will not prepare for debating Kamala Harris. He believes he’s perfect
+ - [https://www.reddit.com/r/politics/comments/1fdf0ih/trump_will_not_prepare_for_debating_kamala_harris](https://www.reddit.com/r/politics/comments/1fdf0ih/trump_will_not_prepare_for_debating_kamala_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T10:56:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdf0ih/trump_will_not_prepare_for_debating_kamala_harris/"> <img src="https://external-preview.redd.it/m4vuULLni3Brq__E6UdKs96W2gPolt_wWtoBaHcMoyE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2086af5730dedb9b6702b6838fae61fd10703112" alt="Trump will not prepare for debating Kamala Harris. He believes he’s perfect" title="Trump will not prepare for debating Kamala Harris. He believes he’s perfect" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alexapaul11"> /u/alexapaul11 </a> <br/> <span><a href="https://www.theguardian.com/commentisfree/article/2024/sep/10/harris-trump-election-debate">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdf0ih/trump_will_not_prepare_for_debating_kamala_harris/">[comments]</a></span> </td></tr></table>
+
+## Democrat says Trump 'out- negotiated' by Taliban on Afghanistan
+ - [https://www.reddit.com/r/politics/comments/1fde1s9/democrat_says_trump_out_negotiated_by_taliban_on](https://www.reddit.com/r/politics/comments/1fde1s9/democrat_says_trump_out_negotiated_by_taliban_on)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T09:51:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fde1s9/democrat_says_trump_out_negotiated_by_taliban_on/"> <img src="https://external-preview.redd.it/Zm34MRfc-tCp3D8WmE3KIzbs2k6CFkP5XzM7tnCTNmE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac9317b4ccf539227663cfa70f601499d291ce66" alt="Democrat says Trump 'out- negotiated' by Taliban on Afghanistan" title="Democrat says Trump 'out- negotiated' by Taliban on Afghanistan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cute-Perception2335"> /u/Cute-Perception2335 </a> <br/> <span><a href="https://thehill.com/homenews/campaign/4870857-jake-auchincloss-donald-trump-taliban-afghanistan">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fde1s9/democrat_says_trump_out_negotiated_by_taliban_on/">[comments]</a></span> </td></tr></table>
+
+## Shocker: MAGA panics as Harris surges & brings prosecutorial record to debate stage
+ - [https://www.reddit.com/r/politics/comments/1fdd8qw/shocker_maga_panics_as_harris_surges_brings](https://www.reddit.com/r/politics/comments/1fdd8qw/shocker_maga_panics_as_harris_surges_brings)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T08:51:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdd8qw/shocker_maga_panics_as_harris_surges_brings/"> <img src="https://external-preview.redd.it/wsXNe7RuLpz-MEHzC2qdiC5gyBngVbc6hpOw0qPPzGg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad995a7e94a0c8152d36a37eff03db43b015d5c4" alt="Shocker: MAGA panics as Harris surges &amp; brings prosecutorial record to debate stage" title="Shocker: MAGA panics as Harris surges &amp; brings prosecutorial record to debate stage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Available_Reason7795"> /u/Available_Reason7795 </a> <br/> <span><a href="https://www.msnbc.com/msnbc/amp-video/mmvo218939973925">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdd8qw/shocker_maga_panics_as_harris_surges_brings/">[comments]</a></span> </td></tr></table>
+
+## Let’s Be Clear: Putin Is Again Trying to Put Trump in the White House More evidence emerges of Russia’s covert assault on American democracy.
+ - [https://www.reddit.com/r/politics/comments/1fdcxjj/lets_be_clear_putin_is_again_trying_to_put_trump](https://www.reddit.com/r/politics/comments/1fdcxjj/lets_be_clear_putin_is_again_trying_to_put_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T08:27:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdcxjj/lets_be_clear_putin_is_again_trying_to_put_trump/"> <img src="https://external-preview.redd.it/wscYRE86tdLCarjbMLLWLQQfheJGm4aq12AGGz4LZys.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dacc80a29e9d06f46e5d1d472608ed08864ab67" alt="Let’s Be Clear: Putin Is Again Trying to Put Trump in the White House More evidence emerges of Russia’s covert assault on American democracy." title="Let’s Be Clear: Putin Is Again Trying to Put Trump in the White House More evidence emerges of Russia’s covert assault on American democracy." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/prohb"> /u/prohb </a> <br/> <span><a href="https://www.motherjones.com/politics/2024/09/trump-russia-putin-tenet-media-i-told-you-so/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdcxjj/lets_be_clear_putin_is_again_trying_to_put_trump/">[comments]</a></span> </td></tr></tabl
+
+## White House: Biden has not called family of American citizen killed in West Bank by Israeli troops
+ - [https://www.reddit.com/r/politics/comments/1fdb6dr/white_house_biden_has_not_called_family_of](https://www.reddit.com/r/politics/comments/1fdb6dr/white_house_biden_has_not_called_family_of)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T06:15:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdb6dr/white_house_biden_has_not_called_family_of/"> <img src="https://external-preview.redd.it/Dz7-yyQaxi5jeE9Qa2mCVBlskNRXRgkzqjH5Rk_YRMo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=550c371d9b50df7f0f8d621ee3d616c83dd99cae" alt="White House: Biden has not called family of American citizen killed in West Bank by Israeli troops" title="White House: Biden has not called family of American citizen killed in West Bank by Israeli troops" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Main-Potential6511"> /u/Main-Potential6511 </a> <br/> <span><a href="https://www.usatoday.com/story/news/politics/2024/09/09/biden-call-family-american-citizen-killed-west-bank/75150055007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdb6dr/white_house_biden_has_not_called_family_of/">[comments]</a></span> </td></tr></table>
+
+## Lawrence: The media is trying (and failing) to cure themselves of 'sane-washing' Trump
+ - [https://www.reddit.com/r/politics/comments/1fdaczr/lawrence_the_media_is_trying_and_failing_to_cure](https://www.reddit.com/r/politics/comments/1fdaczr/lawrence_the_media_is_trying_and_failing_to_cure)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T05:17:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fdaczr/lawrence_the_media_is_trying_and_failing_to_cure/"> <img src="https://external-preview.redd.it/V9_GxyVJO3SX9EmokyKIYeAgTIkjDqXZcRVhzYcsWps.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbf140ae4692d81debc250c4f6534f1357c59050" alt="Lawrence: The media is trying (and failing) to cure themselves of 'sane-washing' Trump" title="Lawrence: The media is trying (and failing) to cure themselves of 'sane-washing' Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RAMJAC"> /u/RAMJAC </a> <br/> <span><a href="https://www.msnbc.com/the-last-word/watch/lawrence-the-media-is-trying-and-failing-to-cure-themselves-of-sane-washing-trump-218950213932">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fdaczr/lawrence_the_media_is_trying_and_failing_to_cure/">[comments]</a></span> </td></tr></table>
+
+## Republicans threaten a government shutdown unless Congress makes it harder to vote
+ - [https://www.reddit.com/r/politics/comments/1fd9nqc/republicans_threaten_a_government_shutdown_unless](https://www.reddit.com/r/politics/comments/1fd9nqc/republicans_threaten_a_government_shutdown_unless)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T04:33:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fd9nqc/republicans_threaten_a_government_shutdown_unless/"> <img src="https://external-preview.redd.it/5DEESldJcSXx6MoDZYAt4mEA4FTxtXRzv2E0znSBaGY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0a5368996ead64dfedbfc7a66f9f26c7d5c6118" alt="Republicans threaten a government shutdown unless Congress makes it harder to vote" title="Republicans threaten a government shutdown unless Congress makes it harder to vote" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JKKIDD231"> /u/JKKIDD231 </a> <br/> <span><a href="https://www.vox.com/politics/370713/republican-government-shutdown-save-act-voter-disenfranchisement">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fd9nqc/republicans_threaten_a_government_shutdown_unless/">[comments]</a></span> </td></tr></table>
+
+## Trump Melts Down Over State of His Campaign With Wild Biden Fantasy
+ - [https://www.reddit.com/r/politics/comments/1fd9avj/trump_melts_down_over_state_of_his_campaign_with](https://www.reddit.com/r/politics/comments/1fd9avj/trump_melts_down_over_state_of_his_campaign_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T04:12:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fd9avj/trump_melts_down_over_state_of_his_campaign_with/"> <img src="https://external-preview.redd.it/H_XPkm3jDLyYAY2NS_C3rDedGagoyNZf-3f-RobR4HA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af86b69cbd075ce35d41053bad09fc0b8b66f0b2" alt="Trump Melts Down Over State of His Campaign With Wild Biden Fantasy" title="Trump Melts Down Over State of His Campaign With Wild Biden Fantasy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/P_a_s_g_i_t_24"> /u/P_a_s_g_i_t_24 </a> <br/> <span><a href="https://newrepublic.com/post/185750/donald-trump-joe-biden-campaign">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fd9avj/trump_melts_down_over_state_of_his_campaign_with/">[comments]</a></span> </td></tr></table>
+
+## MAGA influencers are scrambling after the DOJ's Russia indictment
+ - [https://www.reddit.com/r/politics/comments/1fd85f6/maga_influencers_are_scrambling_after_the_dojs](https://www.reddit.com/r/politics/comments/1fd85f6/maga_influencers_are_scrambling_after_the_dojs)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T03:06:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fd85f6/maga_influencers_are_scrambling_after_the_dojs/"> <img src="https://external-preview.redd.it/Uc0zThHKKzDR4mSctuoC7Cpank0F6JrfaGnHzC3XI7Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78b4dd5b7b87c6dd88d328150d77942c48965aa4" alt="MAGA influencers are scrambling after the DOJ's Russia indictment" title="MAGA influencers are scrambling after the DOJ's Russia indictment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IrreverentSunny"> /u/IrreverentSunny </a> <br/> <span><a href="https://www.msnbc.com/the-reidout/reidout-blog/tenet-media-russia-indictment-social-media-influencers-rcna170283">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fd85f6/maga_influencers_are_scrambling_after_the_dojs/">[comments]</a></span> </td></tr></table>
+
+## No, Migrants Are Not Eating People’s Cats in Ohio
+ - [https://www.reddit.com/r/politics/comments/1fd7hc6/no_migrants_are_not_eating_peoples_cats_in_ohio](https://www.reddit.com/r/politics/comments/1fd7hc6/no_migrants_are_not_eating_peoples_cats_in_ohio)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T02:32:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fd7hc6/no_migrants_are_not_eating_peoples_cats_in_ohio/"> <img src="https://external-preview.redd.it/xFlVHBwfGAqHapAaC-wCV1OrHYDh7uqcTZ2z13rFBkU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=759fa9934fbdff77a25afcad65487711228662d7" alt="No, Migrants Are Not Eating People’s Cats in Ohio" title="No, Migrants Are Not Eating People’s Cats in Ohio" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oleg101"> /u/Oleg101 </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/haitian-migrants-not-eating-cats-ohio-1235098109/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fd7hc6/no_migrants_are_not_eating_peoples_cats_in_ohio/">[comments]</a></span> </td></tr></table>
+
+## Yes, Trump admin. worked to free 5,000 Taliban prisoners
+ - [https://www.reddit.com/r/politics/comments/1fd5id3/yes_trump_admin_worked_to_free_5000_taliban](https://www.reddit.com/r/politics/comments/1fd5id3/yes_trump_admin_worked_to_free_5000_taliban)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T00:52:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fd5id3/yes_trump_admin_worked_to_free_5000_taliban/"> <img src="https://external-preview.redd.it/Wy71ouOfz9f7DGdxucg96JCfBarHeY2kZiem8Efn540.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=28e4e854bf0cb1db8a7bde8279417e2d7e750d75" alt="Yes, Trump admin. worked to free 5,000 Taliban prisoners" title="Yes, Trump admin. worked to free 5,000 Taliban prisoners" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theluckyfrog"> /u/theluckyfrog </a> <br/> <span><a href="https://www.politifact.com/factchecks/2021/aug/31/mitt-romney/mitt-romney-accurately-says-trump-administration-w/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fd5id3/yes_trump_admin_worked_to_free_5000_taliban/">[comments]</a></span> </td></tr></table>
+
+## Nearly two years later, Trump makes light of the attack on Pelosi’s husband
+ - [https://www.reddit.com/r/politics/comments/1fd55c4/nearly_two_years_later_trump_makes_light_of_the](https://www.reddit.com/r/politics/comments/1fd55c4/nearly_two_years_later_trump_makes_light_of_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-10T00:34:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fd55c4/nearly_two_years_later_trump_makes_light_of_the/"> <img src="https://external-preview.redd.it/aee0BHFDYfryZvm6-LeHmOQGwtTH38RhAJHLCjWKfj8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3c8185dc598875e4aa7011651ae32cbda56e085" alt="Nearly two years later, Trump makes light of the attack on Pelosi’s husband" title="Nearly two years later, Trump makes light of the attack on Pelosi’s husband" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anstromm"> /u/anstromm </a> <br/> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/nearly-two-years-later-trump-makes-light-attack-pelosis-husband-rcna170242">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fd55c4/nearly_two_years_later_trump_makes_light_of_the/">[comments]</a></span> </td></tr></table>
+

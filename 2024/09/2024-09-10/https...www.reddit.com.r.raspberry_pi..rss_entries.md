@@ -1,0 +1,51 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## Need help finding hardware issue causing long boot times
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fdvq83/need_help_finding_hardware_issue_causing_long](https://www.reddit.com/r/raspberry_pi/comments/1fdvq83/need_help_finding_hardware_issue_causing_long)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-10T23:11:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>So this is a bit of a shot in dark but maybe someone has an idea. I am using a Pi compute module 4 with debian lite as an os and several (in theory) same costume PCBs. When i´m plugging the same cm4 into another PCB it works perfectly fine with about 3s kernal boot time. In the module i got now it takes about 30s more to boot. What kind of hardware issue can cause this? I´m happy for every hint i can get and try about this issue.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Krimalis"> /u/Krimalis </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fdvq83/need_help_finding_hardware_issue_causing_long/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fdvq83/need_help_finding_hardware_issue_causing_long/">[comments]</a></span>
+
+## Problem setting up MusikCube on raspberry pi
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fdpnq4/problem_setting_up_musikcube_on_raspberry_pi](https://www.reddit.com/r/raspberry_pi/comments/1fdpnq4/problem_setting_up_musikcube_on_raspberry_pi)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-10T18:51:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone setup Muiskcube on a raspberry pi? </p> <p>I&#39;m following the guide here: <a href="https://github.com/clangen/musikcube/wiki/raspberry-pi">https://github.com/clangen/musikcube/wiki/raspberry-pi</a></p> <p>But after I install it, and try to run musikcube I get /usr/bin/musikcube: 6: exec: ./musikcube: not found</p> <p>There are a lot of open issues on the github and I&#39;m not sure if people are responding as I&#39;ve asked a different question and got no response there. </p> <p>Any help would be appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ddraig"> /u/Ddraig </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fdpnq4/problem_setting_up_musikcube_on_raspberry_pi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fdpnq4/problem_setting_up_musikcube_on_raspberry_pi/">[comments]</a></span>
+
+## Just a simple wireless question
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fdmws0/just_a_simple_wireless_question](https://www.reddit.com/r/raspberry_pi/comments/1fdmws0/just_a_simple_wireless_question)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-10T17:01:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a buddies Raspberry and installed LibreElec and kodi by his request. I am by no means a raspberry pro, but dabble. It is working fine other than adding surfshark but that is another issue. My question is once I give this back to him and he wants to use it, he will need to connect to HIS wireless network. Considering this boots up to Kodi and I cannot find wireless setting within Kodi, how can I help him, make this work?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/n0rr15_r"> /u/n0rr15_r </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fdmws0/just_a_simple_wireless_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fdmws0/just_a_simple_wireless_question/">[comments]</a></span>
+
+## From Wired to Wireless: How I Turned My Old USB Printer into a Wireless Printer Using Raspberry Pi Zero W
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fde2a1/from_wired_to_wireless_how_i_turned_my_old_usb](https://www.reddit.com/r/raspberry_pi/comments/1fde2a1/from_wired_to_wireless_how_i_turned_my_old_usb)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-10T09:52:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve had an Epson L3110 printer for around five years. It’s been collecting dust for the most part, but it still works perfectly – scans well, and I even replaced the ink recently. However, I’ve been using it more often lately, and it’s connected to my old Windows 10 desktop, which is inconvenient. My new work laptop has very few USB ports and no space nearby for a printer, making it tricky to access the printer when I need it. I found myself wishing I could print from anywhere in my house without the hassle, so I started looking into wireless printer options.</p> <p>Instead of buying a new wireless printer, I stumbled upon an idea that changed the game for me: setting up a wireless print server using a Raspberry Pi Zero W. I’m a total beginner when it comes to tech projects—I’ve never done any “maker” stuff or worked with embedded systems. But after watching some YouTube tutorials, I decided to give it a try.</p> <p>The project turned out to be way s
+
+## Stepper motor killed my EEPROM and USB ports? Help autopsy this project, please.
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fdaxw7/stepper_motor_killed_my_eeprom_and_usb_ports_help](https://www.reddit.com/r/raspberry_pi/comments/1fdaxw7/stepper_motor_killed_my_eeprom_and_usb_ports_help)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-10T05:58:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1fdaxw7/stepper_motor_killed_my_eeprom_and_usb_ports_help/"> <img src="https://b.thumbs.redditmedia.com/KlXce9UToaoGqNWKaMd0Ypnn-SLTkxVHikf2fV5kljs.jpg" alt="Stepper motor killed my EEPROM and USB ports? Help autopsy this project, please." title="Stepper motor killed my EEPROM and USB ports? Help autopsy this project, please." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;ve built a project that uses Processing on my RPi4 to read a rotary encoder and then turn a stepper motor until the motor&#39;s own encoder value matches the original input. In individual code snippets, I have been able to read both encoders and control the motor. I wired it all up on the breadboard and was able to use the input encoder to turn the motor just fine. Finally, I added a longer cable between the motor/encoder and the RPi/input encoder using an ethernet cable and ethernet plugs. At this point, I was able to again control 
+
+## Speed up libcamera py script
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fd9u9e/speed_up_libcamera_py_script](https://www.reddit.com/r/raspberry_pi/comments/1fd9u9e/speed_up_libcamera_py_script)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-10T04:44:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>I have a setup which takes photos every 30 sections using a Rpi zero 2 and rpi camera 2. The images are saved as image_##_{Script run time}.</p> <p>I used PiCamera to write this script and it works well. It can also annotate the image so I can have the local time written in the corner for later post-processing.</p> <p>I now need to update to a Pi4 but the new raspberry pi OS doesn&#39;t support PiCamera and I have to use libcamera. I can not use the --timelapse option because I need the time in seconds the script has been running in the filename.</p> <p>Libcamera is very resource-hungry, and it can&#39;t take photos every 30 seconds; instead, it&#39;s about every 31-32 seconds. Additionally, it can not annotate unless I use OpenCV, which really slows down the pi. Below is my python script. Is there something I am doing wrong? Surely RPi wasn&#39;t upgraded to slow everything down.</p> <pre><code>import subprocess import time photo_numbe
+
+## Pico will not show up on Windows 10, not even as a storage device, despite LED coming on when plugged in
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fd8ytz/pico_will_not_show_up_on_windows_10_not_even_as_a](https://www.reddit.com/r/raspberry_pi/comments/1fd8ytz/pico_will_not_show_up_on_windows_10_not_even_as_a)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-10T03:52:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I just got my Pico yesterday to work with and it was for a small project on making an RGH3 Xbox 360. Originally when it plugged in it had no issues with being shown and working as well, then I had to do some modifications and resoldering and after a while of tampering with it, it just all around stopped appearing on my computer (Windows 10 64bit). I have no idea why, as it seems the board didn&#39;t short circuit nor were any of the points or wires touching and interfering with each other at all.. The LED comes on just fine and the cable I am using also supports data. I tried to hold down the BOOTSEL button and then plugging it in but to no avail. I went into Device Manager and there is nothing showing up as a different device, a device with an error, or anything of the sort. There is just no change made when I plug in the device. I have taken off all the wires on the Pico to try alone and the same thing is occurring. I tried to see if there were d
+
