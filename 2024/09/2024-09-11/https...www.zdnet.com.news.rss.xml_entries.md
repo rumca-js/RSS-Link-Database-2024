@@ -1,0 +1,331 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## Apple Watch Series 10 vs. Apple Watch Series 9: Should you upgrade to the latest model?
+ - [https://www.zdnet.com/article/apple-watch-series-10-vs-apple-watch-series-9-should-you-upgrade-to-the-latest-model/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-series-10-vs-apple-watch-series-9-should-you-upgrade-to-the-latest-model/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T20:48:00+00:00
+
+The Apple Watch Series 10 has fresh features and a fresher design, but is it worth your money? Here's how it compares to last year's model.
+
+## The best Samsung phones of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-samsung-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-samsung-phone/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T20:34:00+00:00
+
+I've tested every major Samsung phone release over the past year, and these models are most worthy of your money.
+
+## The Samsung phone I recommend to most people is not a flagship (and it's on sale)
+ - [https://www.zdnet.com/article/the-samsung-phone-i-recommend-to-most-people-is-not-a-flagship-and-its-on-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-samsung-phone-i-recommend-to-most-people-is-not-a-flagship-and-its-on-sale/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T19:54:00+00:00
+
+The Samsung Galaxy A35 5G isn't perfect, but with a two-day battery life and a gorgeous display, it's hard to ignore how good it is for the price.
+
+## iPhone 16 Pro vs. iPhone 13 Pro: Should you upgrade to Apple's latest model?
+ - [https://www.zdnet.com/article/iphone-16-pro-vs-iphone-13-pro-should-you-upgrade-to-apples-latest-model/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-16-pro-vs-iphone-13-pro-should-you-upgrade-to-apples-latest-model/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T19:28:00+00:00
+
+If you have an iPhone 13 Pro and are wondering how it compares to the new iPhone 16 Pro, let's break down the differences.
+
+## The best Apple Watches of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-apple-watch/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-apple-watch/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T19:16:36+00:00
+
+We tested the best Apple Watches for tracking your health and accessing messages and apps. Here's how to choose the right one.
+
+## Windows 11 21H2 and 22H2 reach end of support: Update now, or else
+ - [https://www.zdnet.com/article/windows-11-21h2-and-22h2-reach-end-of-support-update-now-or-else/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-11-21h2-and-22h2-reach-end-of-support-update-now-or-else/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T19:16:00+00:00
+
+The last two versions of Windows 11 are no longer supported by Microsoft, so you'll need the latest edition to stay fully protected. Here's how to find out which version you're running.
+
+## The best MagSafe wallets of 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-magsafe-wallets/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-magsafe-wallets/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T19:15:01+00:00
+
+We went hands-on with the best MagSafe wallets from brands like Casetify, Journey, ESR, and more for storing your cards and adding better function.
+
+## The AirPods Pro 3 may be your new fitness coach with a built-in heart rate sensor
+ - [https://www.zdnet.com/article/the-airpods-pro-3-may-be-your-new-fitness-coach-wtih-a-built-in-heart-rate-sensor/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-airpods-pro-3-may-be-your-new-fitness-coach-wtih-a-built-in-heart-rate-sensor/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T18:46:29+00:00
+
+A leak reveals that future Apple earbuds may help you keep better track of your health; however, the pair won't be out for a while.
+
+## Want Apple's new AI features without buying a new iPhone? Try this app
+ - [https://www.zdnet.com/article/want-apples-new-ai-features-without-buying-a-new-iphone-try-this-app/#ftag=RSSbaffb68](https://www.zdnet.com/article/want-apples-new-ai-features-without-buying-a-new-iphone-try-this-app/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T18:16:00+00:00
+
+Before you splurge on new Apple hardware to use the latest AI features, check out how you can accomplish some of the same AI-assisted tasks on the phone you have.
+
+## How to use Gemini's Gems to create your own custom AI assistants
+ - [https://www.zdnet.com/article/how-to-use-geminis-gems-to-create-your-own-custom-ai-assistants/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-geminis-gems-to-create-your-own-custom-ai-assistants/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T18:11:09+00:00
+
+With Gems, you can design your own AI chatbots to assist you with specific tasks and actions.
+
+## Buy 3 months of Xbox Game Pass Ultimate for $36 right now
+ - [https://www.zdnet.com/home-and-office/home-entertainment/buy-3-months-of-xbox-game-pass-ultimate-for-36-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/buy-3-months-of-xbox-game-pass-ultimate-for-36-right-now/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T18:00:16+00:00
+
+Try or gift Xbox Game Pass for three months for 28% off and play over 100 games including Starfield, Forza Motorsport, and Football Manager 2024 on your Xbox, PC, or mobile device.
+
+## The most immersive soundbar I've tested is not made by Vizio or JBL
+ - [https://www.zdnet.com/home-and-office/home-entertainment/the-most-immersive-soundbar-ive-tested-is-not-made-by-vizio-or-jbl/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/the-most-immersive-soundbar-ive-tested-is-not-made-by-vizio-or-jbl/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T17:22:47+00:00
+
+The LG S95TR soundbar delivers fantastic audio quality and unique features that you'll actually want to use.
+
+## One of the best Android smartwatches I've tested isn't from Samsung or Google
+ - [https://www.zdnet.com/article/one-of-the-best-android-smartwatches-ive-tested-isnt-from-samsung-or-google/#ftag=RSSbaffb68](https://www.zdnet.com/article/one-of-the-best-android-smartwatches-ive-tested-isnt-from-samsung-or-google/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T17:12:12+00:00
+
+The new OnePlus Watch 2R is a streamlined version of its flagship model, with a sharp-looking design and marathon battery life -- at a competitive price.
+
+## Apple just gave me a compelling reason to buy the smaller iPhone 16 Pro over the Max this year
+ - [https://www.zdnet.com/article/apple-just-gave-me-a-compelling-reason-to-buy-the-smaller-iphone-16-pro-over-the-max-this-year/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-just-gave-me-a-compelling-reason-to-buy-the-smaller-iphone-16-pro-over-the-max-this-year/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T17:09:00+00:00
+
+Apple tends to reserve the best camera for the iPhone Pro Max, but it's switching things up this year.
+
+## Buy a Microsoft Office for Windows license for just $40
+ - [https://www.zdnet.com/article/buy-a-microsoft-office-for-windows-license-for-just-40/#ftag=RSSbaffb68](https://www.zdnet.com/article/buy-a-microsoft-office-for-windows-license-for-just-40/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T17:00:16+00:00
+
+Pay just once and get a lifetime license to the Microsoft Office 2021 app suite (including Word, Excel, and PowerPoint) on your PC for 79% off right now (there's a deal for a Mac version, too).
+
+## Sony unveils PlayStation 5 Pro: Best features, pricing, release date, and everything else to know
+ - [https://www.zdnet.com/home-and-office/home-entertainment/sony-unveils-playstation-5-pro-best-features-pricing-release-date-and-everything-else-to-know/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/sony-unveils-playstation-5-pro-best-features-pricing-release-date-and-everything-else-to-know/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:53:00+00:00
+
+Sony's new console sports a more powerful graphics card and a Super Resolution feature to improve visual fidelity greatly. Here's what else we know for now.
+
+## 5 ways to start using Gems in your workflows, according to Google
+ - [https://www.zdnet.com/article/5-ways-to-start-using-gems-in-your-workflows-according-to-google/#ftag=RSSbaffb68](https://www.zdnet.com/article/5-ways-to-start-using-gems-in-your-workflows-according-to-google/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:50:30+00:00
+
+Save yourself time by personalizing Gemini's custom AI assistant feature. Here's how.
+
+## Forget the iPhone 16: Huawei's new tri-fold smartphone stunned me with its 10-inch display
+ - [https://www.zdnet.com/article/forget-the-iphone-16-huaweis-new-tri-fold-smartphone-stunned-me-with-its-10-inch-display/#ftag=RSSbaffb68](https://www.zdnet.com/article/forget-the-iphone-16-huaweis-new-tri-fold-smartphone-stunned-me-with-its-10-inch-display/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:49:00+00:00
+
+The Mate XT features a unique double-hinge design that allows users to shrink the OLED touchscreen to 6.4 inches.
+
+## I tested Satechi's new adapters and passport case, and can't wait to travel with them
+ - [https://www.zdnet.com/home-and-office/i-tested-satechis-new-adapters-and-passport-case-and-cant-wait-to-travel-with-them/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/i-tested-satechis-new-adapters-and-passport-case-and-cant-wait-to-travel-with-them/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:45:00+00:00
+
+Satechi's new line of multi-port adapters bring more power delivery and faster data transfer speeds for the same price.
+
+## The thinnest external SSD I've ever tested is also really fast, but there's a catch
+ - [https://www.zdnet.com/article/the-thinnest-external-ssd-ive-ever-tested-is-also-really-fast-but-theres-a-catch/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-thinnest-external-ssd-ive-ever-tested-is-also-really-fast-but-theres-a-catch/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:35:09+00:00
+
+This SSD can also connect to my iPhone 15 Pro Max, which is useful for recording high-quality ProRes video.
+
+## Harvard study finds AI-generated research papers on Google Scholar - why it matters
+ - [https://www.zdnet.com/article/harvard-study-finds-ai-generated-research-papers-on-google-scholar-why-it-matters/#ftag=RSSbaffb68](https://www.zdnet.com/article/harvard-study-finds-ai-generated-research-papers-on-google-scholar-why-it-matters/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:28:00+00:00
+
+Be careful what you cite if you use the popular Google Scholar search engine.
+
+## Study finds AI-generated research papers on Google Scholar - why it matters
+ - [https://www.zdnet.com/article/study-finds-ai-generated-research-papers-on-google-scholar-why-it-matters/#ftag=RSSbaffb68](https://www.zdnet.com/article/study-finds-ai-generated-research-papers-on-google-scholar-why-it-matters/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:28:00+00:00
+
+Be careful what you cite if you use the popular Google Scholar search engine.
+
+## iPhone 16 Pro offers dramatically faster wireless charging - but there's a catch
+ - [https://www.zdnet.com/article/iphone-16-pro-offers-dramatically-faster-wireless-charging-but-theres-a-catch/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-16-pro-offers-dramatically-faster-wireless-charging-but-theres-a-catch/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:09:16+00:00
+
+The new iPhone supports Qi, Qi2, and an upgraded MagSafe standard. Here's what you need to know to reap all the benefits.
+
+## I tested Samsung's new Copilot+ PC, and it's one of the best Windows laptop deals right now
+ - [https://www.zdnet.com/article/i-tested-samsungs-new-copilot-pc-and-its-one-of-the-best-windows-laptop-deals-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-tested-samsungs-new-copilot-pc-and-its-one-of-the-best-windows-laptop-deals-right-now/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:03:41+00:00
+
+The Galaxy Book 4 Edge is a flagship laptop with a gorgeous display, impressive performance, and deep integration with Samsung's ecosystem of devices. Plus, you can save up to $500 during the Discover Samsung Fall Sale.
+
+## Google's NotebookLM can discuss your notes with you now. How to access it (and why you should)
+ - [https://www.zdnet.com/article/googles-notebooklm-can-discuss-your-notes-with-you-now-how-to-access-it-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-notebooklm-can-discuss-your-notes-with-you-now-how-to-access-it-and-why-you-should/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:00:18+00:00
+
+Need someone to go over your class material with you? Talk to AI.
+
+## One of the best Samsung tablets I've tested is not a flagship (and it's on sale)
+ - [https://www.zdnet.com/article/one-of-the-best-samsung-tablets-ive-tested-is-not-a-flagship-and-its-on-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/one-of-the-best-samsung-tablets-ive-tested-is-not-a-flagship-and-its-on-sale/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T16:00:11+00:00
+
+The Galaxy Tab S9 FE and S9 FE+ are excellent large-screen tablets for both work and play. Plus, you can get up to $350 off during the Discover Samsung event.
+
+## Solus is a no-frills desktop distribution that makes using Linux a no-brainer
+ - [https://www.zdnet.com/article/solus-is-a-no-frills-desktop-distribution-that-makes-using-linux-a-no-brainer/#ftag=RSSbaffb68](https://www.zdnet.com/article/solus-is-a-no-frills-desktop-distribution-that-makes-using-linux-a-no-brainer/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T15:34:07+00:00
+
+If you're looking for a Linux desktop distribution that puts function over form and gets the job done with ease, Solus should be at the top of your list.
+
+## Sign up for a Costco membership and get a free $20 gift card. Here's how
+ - [https://www.zdnet.com/home-and-office/sign-up-for-a-costco-membership-and-get-a-free-20-gift-card-heres-how/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/sign-up-for-a-costco-membership-and-get-a-free-20-gift-card-heres-how/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T15:30:19+00:00
+
+Costco is getting tougher on membership sharing. Don't miss this deal to buy your own and get a free $20 gift card, effectively cutting the price to $45 for the year. (I bought one and highly recommend it.)
+
+## What is DuckDuckGo? If you're into online privacy, try this popular Google alternative
+ - [https://www.zdnet.com/article/what-is-duckduckgo-if-youre-into-online-privacy-try-this-popular-google-alternative/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-duckduckgo-if-youre-into-online-privacy-try-this-popular-google-alternative/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T15:08:00+00:00
+
+Tired of being tracked online? Try ditching Google for the oddly named DuckDuckGo. Here's why you probably won't switch back.
+
+## Get a Windows 11 Pro license for $20 right now
+ - [https://www.zdnet.com/article/get-a-windows-11-pro-license-for-20-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-a-windows-11-pro-license-for-20-right-now/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T14:59:12+00:00
+
+Upgrade to Windows 11 Pro for more productivity features to help you get things done, and save 89% with this deal.
+
+## The best iPhone 16 and iPhone 16 Pro cases of 2024: Expert recommended
+ - [https://www.zdnet.com/article/best-iphone-16-case/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-iphone-16-case/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T14:57:49+00:00
+
+Apple's new iPhone 16 is now available to preorder. Here are the best iPhone 16 cases to protect your device, whether you are buying the iPhone 16, 16 Plus, 16 Pro, or 16 Pro Max.
+
+## Get an Apple Watch Series 10 for as low as $99 when you preorder at Best Buy - here's how
+ - [https://www.zdnet.com/article/get-an-apple-watch-series-10-for-as-low-as-99-when-you-preorder-at-best-buy-heres-how/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-an-apple-watch-series-10-for-as-low-as-99-when-you-preorder-at-best-buy-heres-how/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T14:47:31+00:00
+
+Trade in a smart watch from any brand and get up to $300 off the new Apple Watch Series 10 at Best Buy with this preorder deal.
+
+## iPhone 16 vs. iPhone 15: Consider these reasons before you upgrade to Apple's latest model
+ - [https://www.zdnet.com/article/iphone-16-vs-iphone-15/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-16-vs-iphone-15/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T14:17:49+00:00
+
+The new iPhone 16 improves on the iPhone 15 by introducing AI features and a series of hardware changes, but should you take the leap just after one year?
+
+## 10 Linux apps I can't do without - and why
+ - [https://www.zdnet.com/article/10-linux-apps-i-cant-do-without-and-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/10-linux-apps-i-cant-do-without-and-why/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T14:14:38+00:00
+
+If you've ever wondered which apps a long-time Linux user depends on, you might be surprised at what's included.
+
+## Pre-ordering an Apple Watch Series 10? Consider these 3 features before you upgrade
+ - [https://www.zdnet.com/article/pre-ordering-an-apple-watch-series-10-consider-these-3-features-before-you-upgrade/#ftag=RSSbaffb68](https://www.zdnet.com/article/pre-ordering-an-apple-watch-series-10-consider-these-3-features-before-you-upgrade/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T14:04:00+00:00
+
+Apple announced a new Apple Watch lineup during this week's 'It's Glowtime' event; here are the best features.
+
+## Why the iPhone 16 Pro is Apple's biggest Pro upgrade in years, and I can't wait to buy one
+ - [https://www.zdnet.com/article/why-the-iphone-16-pro-is-apples-biggest-pro-upgrade-in-years-and-i-cant-wait-to-buy-one/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-the-iphone-16-pro-is-apples-biggest-pro-upgrade-in-years-and-i-cant-wait-to-buy-one/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T13:56:00+00:00
+
+With the iPhone 16 Pro and Pro Max, Apple seems to have fixed most of the pressing issues with last year's model while adding a handful of useful features.
+
+## One of the best budget earbuds I've tested can make everything sound good
+ - [https://www.zdnet.com/article/one-of-the-best-budget-earbuds-ive-tested-can-make-everything-sound-good/#ftag=RSSbaffb68](https://www.zdnet.com/article/one-of-the-best-budget-earbuds-ive-tested-can-make-everything-sound-good/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T13:31:46+00:00
+
+Inexpensive earbuds no longer have to compromise on sound. The Soundpeats Capsule3 Pro+ proves that with sound that'll have you banging your head.
+
+## Update your Windows 11 PC to version 23H2, or else
+ - [https://www.zdnet.com/article/update-your-windows-11-pc-to-version-23h2-or-else/#ftag=RSSbaffb68](https://www.zdnet.com/article/update-your-windows-11-pc-to-version-23h2-or-else/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T13:27:10+00:00
+
+The last two prior versions of Windows 11 are no longer supported by Microsoft, so you'll need the latest edition to stay fully protected. Here's how to find out which version you're running.
+
+## Here's one big reason I'm sticking with my Apple Watch Series 7 and forgoing the Series 10
+ - [https://www.zdnet.com/article/heres-one-big-reason-im-sticking-with-my-apple-watch-series-7-and-forgoing-the-series-10/#ftag=RSSbaffb68](https://www.zdnet.com/article/heres-one-big-reason-im-sticking-with-my-apple-watch-series-7-and-forgoing-the-series-10/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T13:14:45+00:00
+
+While the Apple Watch Series 10 has many eye-catching features, older models still have one clear advantage, at least in the US.
+
+## The data suggests gen AI boosts software productivity - for these developers
+ - [https://www.zdnet.com/article/the-data-confirms-genai-boosts-software-productivity-at-least-for-beginning-developers/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-data-confirms-genai-boosts-software-productivity-at-least-for-beginning-developers/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T12:51:25+00:00
+
+A new study highlights the successes and discrepancies in gen AI adoption at the individual level.
+
+## One of the best cheap Android phones I've tested has a unique look and is less than $200
+ - [https://www.zdnet.com/article/one-of-the-best-cheap-android-phones-ive-tested-has-a-unique-look-and-is-less-than-200/#ftag=RSSbaffb68](https://www.zdnet.com/article/one-of-the-best-cheap-android-phones-ive-tested-has-a-unique-look-and-is-less-than-200/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T12:00:20+00:00
+
+The X6 Phantom keeps costs low with a stock Android loadout, surprising durability, and an interesting thermometer feature.
+
+## This 13-inch laptop I recommend for work travel is not a MacBook or a Dell (and it's on sale)
+ - [https://www.zdnet.com/article/this-13-inch-laptop-i-recommend-for-work-travel-is-not-a-macbook-or-a-dell-and-its-on-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-13-inch-laptop-i-recommend-for-work-travel-is-not-a-macbook-or-a-dell-and-its-on-sale/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T11:00:25+00:00
+
+Lenovo's ThinkBook 13x Gen 4 has the lightweight and durable form factor the series is known for, and comes with the new Magic Bay. Even better, it's currently 30% off.
+
+## This change to Android notifications might not be popular with everyone
+ - [https://www.zdnet.com/article/this-change-to-android-notifications-might-not-be-popular-with-everyone/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-change-to-android-notifications-might-not-be-popular-with-everyone/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T10:17:21+00:00
+
+Google might change how you access notifications and Quick Settings in a way that could be divisive.
+
+## Huawei's new Mate XT smartphone has a huge 10-inch foldable display
+ - [https://www.zdnet.com/article/huaweis-new-mate-xt-smartphone-has-a-huge-10-inch-foldable-display/#ftag=RSSbaffb68](https://www.zdnet.com/article/huaweis-new-mate-xt-smartphone-has-a-huge-10-inch-foldable-display/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T09:43:03+00:00
+
+The Mate XT features a unique double-hinge design that allows users to shrink the OLED touchscreen to 6.4 inches.
+
+## Huawei's new Mate XT smartphone stuns with a huge 10-inch foldable display
+ - [https://www.zdnet.com/article/huaweis-new-mate-xt-smartphone-stuns-with-a-huge-10-inch-foldable-display/#ftag=RSSbaffb68](https://www.zdnet.com/article/huaweis-new-mate-xt-smartphone-stuns-with-a-huge-10-inch-foldable-display/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T09:43:00+00:00
+
+The Mate XT features a unique double-hinge design that allows users to shrink the OLED touchscreen to 6.4 inches.
+
+## Sony's PS5 Pro strives to be a graphical powerhouse, but its price tag will make you hit pause
+ - [https://www.zdnet.com/home-and-office/home-entertainment/sonys-ps5-pro-strives-to-be-a-graphical-powerhouse-but-its-price-tag-will-make-you-hit-pause/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/sonys-ps5-pro-strives-to-be-a-graphical-powerhouse-but-its-price-tag-will-make-you-hit-pause/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T08:35:48+00:00
+
+Sony's new console sports a more powerful graphics card and a Super Resolution feature to greatly improve visual fidelity.
+
+## iPhone 16 Pro hands-on: My 3 favorite things about this ridiculously overpowered supercomputer
+ - [https://www.zdnet.com/article/iphone-16-pro-hands-on/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-16-pro-hands-on/#ftag=RSSbaffb68)
+ - RSS feed: https://www.zdnet.com/news/rss.xml
+ - date published: 2024-09-11T06:58:31+00:00
+
+Apple may be known for its slick design and marketing, but it's the company's engineering prowess that powers the iPhone 16 Pro to new heights.
+

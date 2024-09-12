@@ -1,0 +1,779 @@
+# Source:Daily Mail - Home, URL:https://www.dailymail.co.uk/home/index.rss, language:en-gb
+
+## Study reveals one popular weight-loss jab is more effective in women - seeing some shed a quarter of their body weight
+ - [https://www.dailymail.co.uk/health/article-13839395/popular-weight-loss-jab-effective-women.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13839395/popular-weight-loss-jab-effective-women.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T22:31:19+00:00
+
+Women lost up to a quarter of their body weight using Mounjaro for up to 20 months, analysis by US researchers found. This compared to up to just 18 per cent for men.
+
+## Strictly Come Dancing scoops major prize at National Television Awards despite its year of scandal
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13840385/Strictly-Come-Dancing-scoops-major-prize-National-Television-Awards-despite-year-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13840385/Strictly-Come-Dancing-scoops-major-prize-National-Television-Awards-despite-year-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T22:15:35+00:00
+
+Despite a year plagued with scandals and controversy, Strictly Come Dancing scooped the prize for Talent Show at the National Television Awards on Wednesday night.  
+
+## Incredible moment rock legend Bon Jovi convinces woman not to leap from bridge while filming music video in Nashville
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13840171/bon-jovi-saves-woman-jumping-bridge-filming-music-video-nashville.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13840171/bon-jovi-saves-woman-jumping-bridge-filming-music-video-nashville.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T22:08:31+00:00
+
+The Livin' on a Prayer singer stopped to coax the unidentified woman back over a railing on the John Seigenthaler Pedestrian Bridge in Nashville.
+
+## BBC bosses locked in Strictly crisis talks over fears of legal action following publication of investigation into Giovanni Pernice and Amanda Abbington's Strictly experience
+ - [https://www.dailymail.co.uk/news/article-13839989/BBC-Strictly-crisis-talks-legal-action-investigation-Giovanni-Pernice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13839989/BBC-Strictly-crisis-talks-legal-action-investigation-Giovanni-Pernice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T22:07:56+00:00
+
+EXCL: BBC bosses are full of 'panic and worry' regarding the publication of a report into Amanda Abbington and her former Strictly dance partner Giovanni Pernice , the Mail can reveal.
+
+## Revealed: How to solve Harvard University brainteaser that 90% of people fail
+ - [https://www.dailymail.co.uk/sciencetech/article-13840163/How-solve-Harvard-University-brainteaser-90-people-fail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13840163/How-solve-Harvard-University-brainteaser-90-people-fail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T22:01:28+00:00
+
+The internet is often our first port of call when we're stumped by a question - but the worldwide web is fighting back with a seemingly impossible brainteaser of its own.
+
+## More than half of UK government nutrition advisors are paid by food companies, analysis finds
+ - [https://www.dailymail.co.uk/health/article-13838681/nutrition-experts-government-advisors-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13838681/nutrition-experts-government-advisors-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T22:00:49+00:00
+
+The Government's nutrition advisory panel consists of 11 experts who have ties to junk food brands including Unilever - the world's largest ice cream producer.
+
+## Jeremy Clarkson's fans slam NTAs after Clarkson's Farm loses award to Stacey Solomon as they claim show was 'robbed'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13840185/NTAs-jeremy-clarkson-lost-stacey-solomon-fans-furious.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13840185/NTAs-jeremy-clarkson-lost-stacey-solomon-fans-furious.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T22:00:08+00:00
+
+The epic Amazon Prime farming show went head-to-head with Stacey Solomon's BBC series Show Your Life Out, but the X-Factor star ultimately bagged the gong.
+
+## Kate Garraway gives an emotional speech with her children by her side as she accepts the best Documentary gong for Derek's Story at the NTAs
+ - [https://www.dailymail.co.uk/tvshowbiz/national_television_awards/article-13840073/Kate-Garraway-gives-emotional-speech-children-accepts-best-Documentary-gong-Dereks-Story-NTAs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/national_television_awards/article-13840073/Kate-Garraway-gives-emotional-speech-children-accepts-best-Documentary-gong-Dereks-Story-NTAs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T21:58:05+00:00
+
+Kate Garraway, 57, gave an emotional speech with her children by her side on Wednesday as she accepted the best Authored Documentary gong for Derek's Story at the NTAs 2024.
+
+## Davina McCall breaks down in tears as she pays tribute to boyfriend Michael Douglas while accepting the Special Recognition gong at the National Television Awards
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13840111/Davina-McCall-breaks-tears-pays-tribute-boyfriend-Michael-Douglas-accepting-Special-Recognition-gong-National-Television-Awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13840111/Davina-McCall-breaks-tears-pays-tribute-boyfriend-Michael-Douglas-accepting-Special-Recognition-gong-National-Television-Awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T21:50:05+00:00
+
+The TV presenter, 56, was honoured with the Special Rcognition award for her contributions to the television industry throughout the course of her career.
+
+## Frankie Bridge showcases her toned midriff in white bralet as she, Helen Flanagan, Davina McCall and AJ Odudu lead the glamour at the National Television Awards 2024
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839877/Frankie-Bridge-Helen-Flanagan-Davina-McCall-AJ-Odudu-National-Television-Awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839877/Frankie-Bridge-Helen-Flanagan-Davina-McCall-AJ-Odudu-National-Television-Awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T21:01:38+00:00
+
+Loose Women star Frankie, 35, displayed her toned midriff as she slipped into a white bralet which she paired with a matching blazer.
+
+## National Television Awards 2024: Host Joel Dommett leaves fans bewildered after singing 'painful' opening number
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839835/National-Television-Awards-Joe-Dommett-performance-fans-reaction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839835/National-Television-Awards-Joe-Dommett-performance-fans-reaction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:58:39+00:00
+
+The TV sensation, 39, was joined by an array of talented dancers dressed in Charlestone-type gold dresses for the award ceremony.
+
+## Archaeologists unlock 3,000-year-old secrets about creation of universe and monsters after deciphering oldest known map of the world
+ - [https://www.dailymail.co.uk/sciencetech/article-13839003/oldest-known-map-world-Babylon-Iraq-Mesopotamia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13839003/oldest-known-map-world-Babylon-Iraq-Mesopotamia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:58:13+00:00
+
+Researchers are shedding light on an ancient Babylonian tablet known as the oldest map of the world. The map was likely created around 2,600 years ago and offers a glimpse into the past.
+
+## National Television Awards in huge blunder as they accidentally reveal winner for major category before official announcement
+ - [https://www.dailymail.co.uk/tvshowbiz/national_television_awards/article-13839975/National-Television-Awards-huge-blunder-accidentally-reveal-winner-major-category-official-announcement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/national_television_awards/article-13839975/National-Television-Awards-huge-blunder-accidentally-reveal-winner-major-category-official-announcement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:56:59+00:00
+
+National Television Awards viewers were left baffled on Wednesday after a category winner was accidentally revealed.
+
+## Kyle Walker has moved back into his marital home with Annie Kilner as couple 'work' on their marriage after Lauryn Goodman paternity scandal
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839613/Kyle-Walker-moved-marital-home-Annie-Kilner-couple-work-marriage-Lauryn-Goodman-paternity-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839613/Kyle-Walker-moved-marital-home-Annie-Kilner-couple-work-marriage-Lauryn-Goodman-paternity-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:56:13+00:00
+
+Friends reveal that the England right back, 34, has been living at home in Prestbury, Cheshire for the past three weeks.
+
+## Gutted fans who missed out on out Oasis, Charli XCX and Chappell Roan concerts blast Spotify for 'advertising' tickets to sold out shows - dubbing it 'gaslighting on an industrial scale'
+ - [https://www.dailymail.co.uk/femail/article-13839205/oasis-fans-missed-blast-spotify.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13839205/oasis-fans-missed-blast-spotify.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:45:59+00:00
+
+The music streaming giant, which was founded in Stockholm, Sweden, has allegedly been sending push notifications out to their customers to alert them of 'sold out' events happening nearby.
+
+## Holly Willoughby reunites with her This Morning co-stars as she shares a kiss with Dermot O'Leary at the National Television Awards 2024
+ - [https://www.dailymail.co.uk/tvshowbiz/national_television_awards/article-13839785/Holly-Willoughby-reunites-Morning-stars-shares-kiss-Dermot-OLeary-National-Television-Awards-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/national_television_awards/article-13839785/Holly-Willoughby-reunites-Morning-stars-shares-kiss-Dermot-OLeary-National-Television-Awards-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:27:40+00:00
+
+Holly Willoughby, 43, shared a kiss with Dermot O'Leary, 51, and a laugh with Alison Hammond, 49, on Wednesday as she was reunited with her former This Morning co-stars at the NTAs 2024
+
+## Sticking to a tried and tested recipe! Mary Berry, 89, re-wears the SAME NTAs dress from 11 years ago
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839991/Sticking-tried-tested-recipe-Mary-Berry-89-wears-NTAs-dress-11-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839991/Sticking-tried-tested-recipe-Mary-Berry-89-wears-NTAs-dress-11-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:27:07+00:00
+
+Mary Berry proved she's the queen of sustainable style as she wowed in a very familar dress at Wednesday night's National Television Awards.
+
+## Can a 2p tea bag really make the perfect cuppa? We taste test English Breakfast, Earl Grey and herbal beverages from different supermarkets
+ - [https://www.dailymail.co.uk/femail/article-13839591/Can-2p-tea-bag-really-make-perfect-cuppa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13839591/Can-2p-tea-bag-really-make-perfect-cuppa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T20:26:42+00:00
+
+Whether you take yours strong, milky, black or sweet, it's hard to beat a good cuppa. But which tea bags will give you the perfect brew?
+
+## National Television Awards 2024 WINNERS: Stacey Solomon wins the first gong of the night for Sort Your Life Out while I'm A Celeb scoops Entertainment prize for the FIFTH time
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839831/National-Television-Awards-2024-WINNERS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839831/National-Television-Awards-2024-WINNERS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T19:58:17+00:00
+
+The presenter, 34, was supported by her son Zach, 18, and her sister Jemma as she took to the stage to collect the Factual Entertainment prize for Sort Your Life Out.
+
+## NTAs 2024: Michelle Keegan receives a sweet kiss from husband Mark Wright as she stuns in a pinstriped mini dress on the red carpet
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839731/NTAs-2024-Michelle-Keegan-husband-Mark-Wright.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839731/NTAs-2024-Michelle-Keegan-husband-Mark-Wright.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T19:53:09+00:00
+
+The actress, 37, put on a leggy display in a sexy black pinstriped mini dress as she and her spouse packed on the PDA ahead of the ceremony.
+
+## Maura Higgins looks incredible in black latex floral dress at the National Television Awards... but Kendall Jenner wore it first five years ago!
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839755/Maura-Higgins-looks-incredible-black-latex-floral-dress-National-Television-Awards-Kendall-Jenner-wore-five-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839755/Maura-Higgins-looks-incredible-black-latex-floral-dress-National-Television-Awards-Kendall-Jenner-wore-five-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T19:43:14+00:00
+
+The former Love Island star, 33, donned a black dress with a pink floral print and a flowing train that had been worn by model Kendall, 28, to the Emmy Awards in 2019.
+
+## Jacqueline Jossa slips into a red halterneck gown to attend the NTAs as she makes her first public appearance since terrifying £20,000 raid at her Marbella villa
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839631/Jacqueline-Jossa-NTAs-public-appearance-villa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839631/Jacqueline-Jossa-NTAs-public-appearance-villa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T19:08:48+00:00
+
+The EastEnders actress, 31, and her husband Dan Osbourne, 33, and their daughters Ella, nine and Mia and Dan's son Teddy, 10, were staying in Marbella when the robbery took place in their villa.
+
+## Scientists discover a 'smiley face' on Mars - and it could contain signs of life
+ - [https://www.dailymail.co.uk/sciencetech/article-13839031/Scientists-discover-smiley-face-Mars-contain-signs-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13839031/Scientists-discover-smiley-face-Mars-contain-signs-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:58:57+00:00
+
+Astronomers have discovered a smiley-face-shaped structure on Mars -and it could be more than just a planetary quirk. It may be harboring signs of past life on the Red Planet.
+
+## What pushed Taylor Swift to break her silence and endorse Kamala Harris after Donald Trump debate
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839357/pushed-Taylor-Swift-break-silence-endorse-Kamala-Harris-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839357/pushed-Taylor-Swift-break-silence-endorse-Kamala-Harris-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:56:16+00:00
+
+The megastar, 34, had noticeably not endorsed a candidate, with a source telling DailyMail.com that the Blank Space singer had been going 'back and forth' for weeks.
+
+## Hollywood scion weighs 350lbs and lives in cramped motel room while his family lives in luxury
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13834437/barbra-streisand-stepson-jess-brolin-seen-california-motel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13834437/barbra-streisand-stepson-jess-brolin-seen-california-motel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:47:18+00:00
+
+The obese member of one of Hollywood's most famous families is living in a shabby motel room where he has been for months.
+
+## National Television Awards 2024 LIVE: All the action from The O2 as nominees from Netflix, ITV and BBC battle it out on British TV's big night
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13820511/national-television-awards-2024-live-latest-updates-o2.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13820511/national-television-awards-2024-live-latest-updates-o2.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:46:29+00:00
+
+MAILONLINE BLOG: Follow live coverage of the National Television Awards 2024 from London's 02 Arena as the biggest shows on British TV compete against one another.
+
+## That's what I call a REAL walk in the park: JANE SLADE explores the Botswanan bush on foot - and is warned to 'run like hell' if a buffalo charges
+ - [https://www.dailymail.co.uk/travel/article-13823979/Botswana-walking-safari-okavango.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/travel/article-13823979/Botswana-walking-safari-okavango.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:35:22+00:00
+
+During her nine-day adventure of the Okavango, Botswana's 'game-rich oasis', Jane sees some remarkable animals, including the rare and endangered pangolin.
+
+## NTAs 2024: EastEnders flames Michelle Collins and Adam Woodyatt look worlds away from Walford as they reunite on the red carpet
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839481/NTAs-2024-EastEnders-Michelle-Collins-screen-flame-Adam-Woodyatt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839481/NTAs-2024-EastEnders-Michelle-Collins-screen-flame-Adam-Woodyatt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:25:23+00:00
+
+The pair are best known to millions as on-off partners Cindy and Ian Beale, and were among a slew of stars from the BBC soap in attendance for the ceremony.
+
+## National Television Awards 2024: Zara McDermott sizzles in a black fishtail gown as she cosies up to her boyfriend Sam Thompson on the red carpet
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839551/National-Television-Awards-2024-Zara-McDermott-Sam-Thompson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839551/National-Television-Awards-2024-Zara-McDermott-Sam-Thompson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:25:10+00:00
+
+The documentary-maker, 27, stunned in the fitted halterneck piece as she posed up a storm with her partner on the red carpet.
+
+## NTAs 2024: Vicky McClure puts on a racy display as she arrives on the red carpet in a strapless leather fitted dress amid her Drama Performance nomination for Trigger Point
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839489/NTAs-2024-Vicky-McClure-puts-racy-display-arrives-red-carpet-strapless-leather-fitted-dress-amid-Drama-Performance-nomination-Trigger-Point.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839489/NTAs-2024-Vicky-McClure-puts-racy-display-arrives-red-carpet-strapless-leather-fitted-dress-amid-Drama-Performance-nomination-Trigger-Point.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:19:16+00:00
+
+The actress, 41, is nominated in the Drama Performance category for her role as Afghan war veteran Lana in the crime thriller series Trigger Point.
+
+## Kate Garraway is joined by her children Darcey, 17, and Billy, 11 at the National Television Awards where she is nominated for Authored Documentary for Derek's Story
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839509/Kate-Garraway-joined-children-Darcey-17-Billy-11-National-Television-Awards-nominated-Authored-Documentary-Dereks-Story.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839509/Kate-Garraway-joined-children-Darcey-17-Billy-11-National-Television-Awards-nominated-Authored-Documentary-Dereks-Story.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T18:18:12+00:00
+
+The Good Morning Britain host, 57, cut a glamorous figure for the event in a black blazer with a silver sequinned collar which she wore with matching trousers.
+
+## Jordan Chiles cries as she breaks silence on losing USA Olympic bronze medal: 'People didn't support me, I was left in the dark'
+ - [https://www.dailymail.co.uk/sport/olympics/article-13839545/Jordan-Chiles-USA-Olympic-bronze-medal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/olympics/article-13839545/Jordan-Chiles-USA-Olympic-bronze-medal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T17:59:23+00:00
+
+A tearful Jordan Chiles opened up to a live audience on Wednesday about the Court of Arbitration for Sport's decision to strip her of her bronze medal in Paris.
+
+## National Television Awards 2024: This Morning's Cat Deeley and Ben Shephard turn up the glamour as they join actresses Vicky McClure and Helen George on star studded red carpet
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839367/celebrities-National-Television-Awards-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839367/celebrities-National-Television-Awards-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T17:59:08+00:00
+
+Pregnant Charlotte Dawson looked sensational as she led the stars at the National Television Awards at the London O2 on Wednesday evening. 
+
+## Justin Timberlake let off in Hamptons DUI arrest in exchange for $500 fine and PSA video for Mothers Against Drunk Driving
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839241/justin-timberlake-guilty-plea-dui-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839241/justin-timberlake-guilty-plea-dui-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T17:52:00+00:00
+
+Justin Timberlake received a win in court on Wednesday as he sealed a plea deal in his DWI case.
+
+## Dave Grohl's wife Jordyn Blum ditched wedding ring BEFORE secret love child bombshell - and rocker had 'already retained a divorce lawyer'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839297/dave-grohl-wife-jordyn-blum-wedding-ring-love-child-admission.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839297/dave-grohl-wife-jordyn-blum-wedding-ring-love-child-admission.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T17:41:30+00:00
+
+Dave Grohl 's wife, Jordyn Blum, was seen without her wedding ring, weeks before the Foo Fighters frontman admitted to fathering a child outside of their marriage.
+
+## Louise Redknapp enjoys a surprise reunion with her ex-father-in-law Harry at BGC's charity day after he admitted his son Jamie's divorce was 'difficult'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839135/Louise-Redknapp-reunion-ex-father-law-Harry-BGCs-charity-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839135/Louise-Redknapp-reunion-ex-father-law-Harry-BGCs-charity-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T17:30:28+00:00
+
+The singer, 49, sweetly cosied up to her ex-husband Jamie's father, as the pair proved there is no bad blood between them.
+
+## Abby Cohen went grey overnight, suffered a breakdown and needed therapy when husband Ben left her for Kristina Rihanoff. As her ex falls from grace, how she revealed her trauma
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13838839/Abby-Cohen-breakdown-therapy-husband-Ben-Kristina-Rihanoff-trauma.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13838839/Abby-Cohen-breakdown-therapy-husband-Ben-Kristina-Rihanoff-trauma.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T16:53:30+00:00
+
+Last week, a court heard how her ex, former rugby player Ben Cohen, and his dancer fiancee Kristina Rihanoff were trying to 'save' their relationship amid financial troubles.
+
+## Why Dave Grohl lives a humble life with a family car and no property portfolio despite being worth $330M - as rocker reveals he's fathered a child outside of his marriage to Jordyn Blum
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13838789/Dave-Grohl-humble-life-worth-330M-marriage-Jordyn-Blum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13838789/Dave-Grohl-humble-life-worth-330M-marriage-Jordyn-Blum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T16:53:21+00:00
+
+Despite being worth more money than the average American could think of earning in their lifetime, Dave Grohl has always preferred to live a humble life.
+
+## Lottie Moss reveals she's been dumped by boyfriend Evan Campbell - after building bridges with sister Kate
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13839127/Lottie-Moss-reveals-shes-dumped-boyfriend-Evan-Campbell-building-bridges-sister-Kate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13839127/Lottie-Moss-reveals-shes-dumped-boyfriend-Evan-Campbell-building-bridges-sister-Kate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T16:39:53+00:00
+
+The model, 26, went public with musician Evan Campbell in June but revealed in a tweet on Wednesday that she had been dumped.
+
+## I'm the first in Britain to try a 'lunchtime boob job'. So is it worth £10,000?
+ - [https://www.dailymail.co.uk/femail/article-13838849/lunchtime-boob-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13838849/lunchtime-boob-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T16:37:14+00:00
+
+I'm the first British patient to try a new procedure hailed as an 'injectable boob job', one that takes just 15 minutes with almost no downtime - or so the fancy marketing claims.
+
+## Brutal truth about K-Pop: Inside the Netflix smash show that exposes the eye-popping training and controversial methods that create the biggest bands in the world
+ - [https://www.dailymail.co.uk/femail/article-13839001/K-Pop-Netflix-training-controversial-bands-katseye-bl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13839001/K-Pop-Netflix-training-controversial-bands-katseye-bl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T16:29:56+00:00
+
+Dressed in matching school uniforms, with pleated skirts, knee-high socks and smart grey blazers, ten young women - aged 16 to 21 - stand side by side on a stage.
+
+## PETER HITCHENS: Lucy Letby may be innocent. We cannot shut down the pursuit of justice because some are upset by that possibility
+ - [https://www.dailymail.co.uk/debate/article-13838931/PETER-HITCHENS-Lucy-Letby-innocent-shut-pursuit-justice-upset-possibility.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13838931/PETER-HITCHENS-Lucy-Letby-innocent-shut-pursuit-justice-upset-possibility.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T16:29:07+00:00
+
+if I could find a way of campaigning for the courts to re-examine the case of Lucy Letby without  affecting or distressing the parents of the babies in the case, I would do so.
+
+## An early menopause could raise your breast cancer risk six-fold, study suggests
+ - [https://www.dailymail.co.uk/health/article-13838217/early-menopause-spike-beast-cancer-risk-six-fold-study-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13838217/early-menopause-spike-beast-cancer-risk-six-fold-study-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:49:38+00:00
+
+British researchers discovered a collection of genes, which if women have a faulty copy of, can trigger the change than five years earlier than average with some genes also linked to cancer risk.
+
+## Cuddling your DOG can reduce symptoms after a physically painful ordeal, scientists reveal
+ - [https://www.dailymail.co.uk/sciencetech/article-13838023/Cuddling-DOG-reduce-pain-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13838023/Cuddling-DOG-reduce-pain-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:48:31+00:00
+
+Having a canine around reduces feelings of pain during recovery from a physical ordeal, report scientists at Humboldt University in Berlin, Germany.
+
+## Tony's Chocolonely takes aim at Lidl over its very similar confectionery shape - and claims the 'copycat' design 'doesn't feel right'
+ - [https://www.dailymail.co.uk/femail/article-13838561/Tonys-Chocolonely-Lidl-chocolate-bar-copycat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13838561/Tonys-Chocolonely-Lidl-chocolate-bar-copycat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:43:53+00:00
+
+Speaking to The Grocer , a spokesperson from Dutch chocolate company Tony's  said it 'doesn't feel right' for Lidl to 'copy' its packaging.
+
+## Inside Harry and Meghan's 'Godmother' community, celebs call 'Mayberry for rich people', where nepo kids run food trucks and people 'know each other's dogs'
+ - [https://www.dailymail.co.uk/femail/article-13837579/Harry-Meghans-Godmother-celebs-Mayberry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13837579/Harry-Meghans-Godmother-celebs-Mayberry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:41:13+00:00
+
+The Duke and Duchess of Sussex appeared to have a 'new haven' just down the road from their Montecito mansion.
+
+## Queen Maxima of the Netherlands ditches her usual glam attire for a lab coat and safety glasses while visiting a factory in Hengelo
+ - [https://www.dailymail.co.uk/femail/article-13838637/Queen-Maxima-Netherlands-ditches-usual-glam-attire-lab-coat-safety-glasses-visiting-factory-Hengelo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13838637/Queen-Maxima-Netherlands-ditches-usual-glam-attire-lab-coat-safety-glasses-visiting-factory-Hengelo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:38:39+00:00
+
+Queen Maxima looked the part in a lab coat and safety glasses as she visited a laboratory during the opening of a new factory of NX Filtration on Wednesday in Hengelo.
+
+## Bizarre device shaped like a pinecone wins the prestigious James Dyson award in the UK - but can you guess what it does?
+ - [https://www.dailymail.co.uk/sciencetech/article-13838697/Bizarre-device-James-Dyson-award-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13838697/Bizarre-device-James-Dyson-award-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:38:11+00:00
+
+The UK winner of the James Dyson Award is a bizarre but ingenious invention - but can you guess what it does?
+
+## Where are the My Mum, Your Dad couples now? From long lasting connections to SHOCKING split - how last year's romances have fared ahead of the new series
+ - [https://www.dailymail.co.uk/tvshowbiz/article-12555215/Where-Mum-Dad-couples-now.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-12555215/Where-Mum-Dad-couples-now.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:37:36+00:00
+
+Hosted by Davina McCall and branded the 'middle-aged Love Island' some couples who found a connection on camera are still going strong long after filming wrapped, while others sadly parted ways.
+
+## Is Taylor Swift's silent approach to negative headlines genius or will it backfire? PR experts weigh in
+ - [https://www.dailymail.co.uk/femail/article-13838407/taylor-swift-pr-expert-silence-strategy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13838407/taylor-swift-pr-expert-silence-strategy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:28:42+00:00
+
+PR expert Jon Harris, 56, has weighed in on the Cruel Summer songstress' strategy - and he believes it's a 'clever' and 'effective' attitude that other celebrities should learn from.
+
+## Alton Towers crash victims claim paramedics were warned not to rescue them because it 'wasn't safe' as they relive life-changing ordeal 9 years on
+ - [https://www.dailymail.co.uk/femail/article-13837291/Alton-Towers-crash-victims-claim-paramedics-warned-not-rescue-wasnt-safe-relive-life-changing-ordeal-9-years-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13837291/Alton-Towers-crash-victims-claim-paramedics-warned-not-rescue-wasnt-safe-relive-life-changing-ordeal-9-years-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T15:13:59+00:00
+
+Leah Washington and her husband Joe Pugh, from Barnsley, South Yorkshire, opened up about the life-changing day of the crash in 2015, on the Tom's Talks Podcast with mindset coach Tom Dickinson.
+
+## Dentist reveals the crucial times you should NEVER brush your teeth
+ - [https://www.dailymail.co.uk/femail/article-13822699/dentist-times-never-brush-teeth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13822699/dentist-times-never-brush-teeth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T14:47:36+00:00
+
+While brushing your teeth every single day is the hallmark for good oral hygiene, did you know that there are some exceptions?
+
+## Britney Spears's $5M child support payments to struggling ex-Kevin Federline are ending as their youngest turns 18 - and she plans to buy her son 'a gift more expensive than ANYTHING his dad could afford'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13831211/Britney-Spearss-5M-child-support-payments-struggling-ex-Kevin-Federline-ending-youngest-turns-18-plans-buy-son-gift-expensive-dad-afford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13831211/Britney-Spearss-5M-child-support-payments-struggling-ex-Kevin-Federline-ending-youngest-turns-18-plans-buy-son-gift-expensive-dad-afford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T14:31:29+00:00
+
+September 12 marks a major milestone for superstar Britney Spears, as youngest son Jayden turns 18.
+
+## Goonies sequel thrown into doubt after Corey Feldman DENIES any knowledge of plans to reunite 40 years after the original - as insiders reveal no one has been informed
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13835715/Goonies-sequel-chaos-Corey-Feldman-Sean-Astin-deny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13835715/Goonies-sequel-chaos-Corey-Feldman-Sean-Astin-deny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T14:18:39+00:00
+
+While it had been claimed that its original star-studded cast was set to return for the movie, a source has since told DailyMail.com that neither Feldman nor Sean Astin, both 53, have been asked.
+
+## Strictly professionals tour was 'axed' for next year after its culture of 'drinking and fun' sparked concern - as bosses move to 'rebuild the brand' following misconduct probe
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13838159/Strictly-professionals-tour-axed-year-culture-drinking-fun-sparked-concern-bosses-rebuild-brand-following-misconduct-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13838159/Strictly-professionals-tour-axed-year-culture-drinking-fun-sparked-concern-bosses-rebuild-brand-following-misconduct-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T13:47:18+00:00
+
+The move, which is yet to be officially announced, comes as the BBC prepares to release the findings of a £250,000 investigation into workplace misconduct.
+
+## Look inside the secret wedding venue at the heart of Gavin and Stacey finale - and fans of the beloved show can get hitched at historic Tudor mansion in South Wales for £8,000
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13837595/inside-wedding-venue-gavin-stacey-finale-south-wales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13837595/inside-wedding-venue-gavin-stacey-finale-south-wales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T13:36:59+00:00
+
+The wedding venue set to host Smithy and Nessa's nuptials during the Gavin and Stacey finale is an historic Tudor mansion which engaged couples can hire for £8,000.
+
+## DEAR JANE: My husband has a DANGEROUS fetish and I don't want to participate anymore
+ - [https://www.dailymail.co.uk/femail/article-13834871/DEAR-JANE-husband-DANGEROUS-fetish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13834871/DEAR-JANE-husband-DANGEROUS-fetish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T13:29:28+00:00
+
+My husband and I have been married for three years. We've always had a great sex life... except for one thing.
+
+## Doctor warns against using public loos with little-known red flag that could put you at risk of  hepatitis
+ - [https://www.dailymail.co.uk/health/article-13837909/Doctor-warning-hepatitis-HIV-virus.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13837909/Doctor-warning-hepatitis-HIV-virus.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T13:28:34+00:00
+
+Small red marks found on toilet tissue could be specs of blood soiled by intravenous drug users cleaning their needles, medics warned today.
+
+## Lorraine Kelly, 64, reveals the heartbreaking reason why she is not attending this year's National Television Awards
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13838129/Lorraine-Kelly-64-reveals-heartbreaking-reason-not-attending-years-National-Television-Awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13838129/Lorraine-Kelly-64-reveals-heartbreaking-reason-not-attending-years-National-Television-Awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T13:21:48+00:00
+
+Lorraine Kelly has revealed the heartbreaking reason she will not be attending the National Television Awards on Wednesday night.
+
+## Gareth Southgate finally breaks his silence after quitting his role as England boss after Euro 2024 - with the former manager hinting at future plans
+ - [https://www.dailymail.co.uk/sport/football/article-13838349/Gareth-Southgate-breaks-silence-quitting-England-future-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-13838349/Gareth-Southgate-breaks-silence-quitting-England-future-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T13:18:10+00:00
+
+Southgate, 54, resigned from his role as the national team boss following England's devastating 2-1 defeat by Spain in the Euro 2024 final. He spent eight years at the helm.
+
+## My twin daughters were switched at birth when the hospital gave them each other's names by accident - but I decided not to switch them back
+ - [https://www.dailymail.co.uk/femail/article-13838019/My-twin-daughters-switched-birth-hospital-gave-names-accident-decided-not-switch-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13838019/My-twin-daughters-switched-birth-hospital-gave-names-accident-decided-not-switch-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T13:09:29+00:00
+
+Taking to TikTok , Saffron Crisp from Ipswich explained that when was pregnant with non-identical twins, who are now four-months-old, hospital staff named them twin A and twin B.
+
+## Dave Grohl's wife was a teenage model who loved his music 8 years before they met - but his eerie prediction about her could now come true after cheating scandal
+ - [https://www.dailymail.co.uk/femail/article-13837365/jordyn-blum-dave-grohl-nirvana-fan-cheating-scandal-prediction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13837365/jordyn-blum-dave-grohl-nirvana-fan-cheating-scandal-prediction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T12:12:01+00:00
+
+When Jordyn Blume married Dave Grohl at their LA home in 2003, few knew that she had been a Nirvana fangirl just eight years previously.
+
+## The Perfect Couple's tightly-choreographed dance intro divides viewers as some brand it 'cringe' - but others are 'obsessed'
+ - [https://www.dailymail.co.uk/femail/article-13837905/The-Perfect-Couple-Netflix-dance-routine-Nicole-Kidman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13837905/The-Perfect-Couple-Netflix-dance-routine-Nicole-Kidman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T12:00:03+00:00
+
+Every episode of the new Netflix drama, about a Nantucket wedding that comes undone which stars Nicole Kidman, opens with the cast dancing to Meghan Trainor's Criminals on a beach.
+
+## Talk about good vibrations! Video shows a group of cheeky seals lured by sonar waves at the bottom of the Pacific Ocean (who scientists affectionately name after the Beach Boys)
+ - [https://www.dailymail.co.uk/sciencetech/article-13837263/cheeky-seals-beach-boys-pacific.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13837263/cheeky-seals-beach-boys-pacific.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:58:44+00:00
+
+Eight northern elephant seals (Mirounga angustirostris) have been filmed exploring, feeding and even sleeping at the remote spot in the underwater Barkley Canyon.
+
+## Lauryn Goodman defends Dave Grohl and praises his 'lovely worded statement' after Foo Fighters star admitted to fathering secret love child and cheating on his wife
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13837975/Lauryn-Goodman-defends-Dave-Grohl-love-child.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13837975/Lauryn-Goodman-defends-Dave-Grohl-love-child.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:52:47+00:00
+
+It's hardly surprising the TV personality, 33, had thoughts on the matter, having welcomed two children with married footballer Kyle Walker .
+
+## Ditch popular snack duo that sees you eat almost twice the 'mindless' calories, scientists warn
+ - [https://www.dailymail.co.uk/health/article-13838001/Avoid-popular-snack-duo-sees-eat-calories.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13838001/Avoid-popular-snack-duo-sees-eat-calories.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:48:54+00:00
+
+Researchers at The Pennsylvania State University, US, found serving a salty snack alongside a dip led to people eating 77 per cent more calories.
+
+## Chelsea's 41ST departure of the summer is revealed as striker gets set to join AEK Athens on loan before Greek transfer window closes
+ - [https://www.dailymail.co.uk/sport/football/article-13837873/Chelsea-David-Datro-Fofana-Stamford-Bridge-AEK-Athens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-13837873/Chelsea-David-Datro-Fofana-Stamford-Bridge-AEK-Athens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:44:23+00:00
+
+A hectic transfer window in west London has seen a host of players enter and exit the club as new manager Enzo Maresca shuffles the deck under the surveillance of owner Todd Boehly.
+
+## Awkward moment Oprah interrupts Meghan Markle's speech at book store opening in Montecito as she searches for her seat in the front row
+ - [https://www.dailymail.co.uk/femail/article-13837543/Awkward-moment-Oprah-interrupts-Meghan-Markles-speech-book-store-opening-Montecito-searches-seat-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13837543/Awkward-moment-Oprah-interrupts-Meghan-Markles-speech-book-store-opening-Montecito-searches-seat-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:43:04+00:00
+
+The veteran broadcaster, 70, accidentally walked into writer Elizabeth Holme's shot as she was filming the Duchess of Sussex speak at the Godmother bookstore in Montecito.
+
+## Queen Letizia is elegant in striped blouse and smart trousers as she visits school in Guadalajara
+ - [https://www.dailymail.co.uk/femail/article-13838095/Queen-Letizia-elegant-striped-blouse-smart-trousers-visits-school-Guadalajara.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13838095/Queen-Letizia-elegant-striped-blouse-smart-trousers-visits-school-Guadalajara.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:36:34+00:00
+
+The European Queen, 51, opted for smart business attire as she visited the CEIP Maestra Placida Herranz school in the city of Guadalajara.
+
+## I know what twice-divorced Katie sees in her millionaire telly tubby Eamonn Holmes, writes AMANDA PLATELL
+ - [https://www.dailymail.co.uk/debate/article-13833567/I-know-twice-divorced-Kate-sees-millionaire-telly-tubby-Eamonn-Holmes-writes-AMANDA-PLATELL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13833567/I-know-twice-divorced-Kate-sees-millionaire-telly-tubby-Eamonn-Holmes-writes-AMANDA-PLATELL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:12:50+00:00
+
+Seeing those pictures Eamonn Holmes, 64, and his new lover Katie Alexander, 42, at the airport  made me wonder. What is it the glamorous double divorcee gets out of this relationship?
+
+## The Grand Tour's Richard Hammond admits 'I thought I was going to die' after botched stunt - and claims he has been 'cut out of clothes by paramedics so many times he can no longer dress himself'
+ - [https://www.dailymail.co.uk/tv/article-13837981/The-Grand-Tour-Richard-Hammond-die-one-road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tv/article-13837981/The-Grand-Tour-Richard-Hammond-die-one-road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:12:11+00:00
+
+Jeremy Clarkson, Richard Hammond, and James May are gearing up to say goodbye with one epic final episode of The Grand Tour: One For The Road. 
+
+## Dave Grohl's mother Virginia's warning about rocker's love life reemerges after he admits to cheating on his wife and fathering secret love child
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13837353/Dave-Grohls-mother-Virginias-warning-rockers-love-life-reemerge-admits-cheating-wife-fathering-secret-love-child.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13837353/Dave-Grohls-mother-Virginias-warning-rockers-love-life-reemerge-admits-cheating-wife-fathering-secret-love-child.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:04:21+00:00
+
+As fans reel from the news, an interview with Grohl's late mother Virginia has reemerged in which she admitted her fears for her son's love life.
+
+## DAN HODGES: Lucy Letby killed babies. Those who think she's innocent have fallen for a conspiracy theory: Here's the evidence that's convinced me
+ - [https://www.dailymail.co.uk/debate/article-13837769/DAN-HODGES-Lucy-Letby-killed-babies-think-shes-innocent-fallen-conspiracy-theory-Heres-evidence-thats-convinced-me.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13837769/DAN-HODGES-Lucy-Letby-killed-babies-think-shes-innocent-fallen-conspiracy-theory-Heres-evidence-thats-convinced-me.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:03:36+00:00
+
+The online sleuthers and self-appointed criminologists claim their heroine has been wrongly convicted. And demand a halting of the inquiry pending a re-examination of her case.
+
+## The 17 best villages to relocate to in Spain: Live minutes from the beach for just £46,000 with our expert guide - and find out how much life in the sun really costs
+ - [https://www.dailymail.co.uk/property/article-13834323/The-17-best-villages-relocate-Spain-Live-minutes-beach-just-46-000-expert-guide-life-sun-really-costs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/property/article-13834323/The-17-best-villages-relocate-Spain-Live-minutes-beach-just-46-000-expert-guide-life-sun-really-costs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T11:00:45+00:00
+
+Where to move to in Spain? We've spoken to property experts and estate agents to reveal the best towns, villages and cities for Brits, based on house prices, transport, amenities and more.
+
+## Yoga bunny, 26, thought tight hips were causing her back pain...but it was two grapefruit-sized ovarian cancers
+ - [https://www.dailymail.co.uk/health/article-13837473/Yoga-tight-hips-pain-grapefruit-cancer-ovary.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13837473/Yoga-tight-hips-pain-grapefruit-cancer-ovary.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T10:26:33+00:00
+
+Alex Macgillivray, from Wrexham in Wales, took up the flexible hobby in January in a bid to relieve the pressure on her back. But by June it had intensified.
+
+## Good Morning Britain fans rage 'haven't they got rid of him yet?!' as they sink claws into 'inappropriate' Ed Balls who 'shouldn't be on show'
+ - [https://www.dailymail.co.uk/tv/article-13837617/Good-Morning-Britain-ed-balls-host-replaced.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tv/article-13837617/Good-Morning-Britain-ed-balls-host-replaced.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T10:09:42+00:00
+
+Good Morning Britain fans were seething as they took to X, formerly known as Twitter, to slam former politician Ed Balls. 
+
+## Meghan Markle reveals she 'felt uncomfortable being out in the world' when she was a working royal and 'craved safety' in speech at Oprah's book event
+ - [https://www.dailymail.co.uk/femail/article-13837571/meghan-markle-uncomfortable-craved-safety-oprah-book-event.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13837571/meghan-markle-uncomfortable-craved-safety-oprah-book-event.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T10:03:39+00:00
+
+According to Town & Country, Meghan Markle spoke about the solace she has found in bookstores while speaking at her friend Oprah's event at Godmothers store in California on Saturday.
+
+## Lioness Ella Toone reveals heartache over death of her father three days before his 60th birthday
+ - [https://www.dailymail.co.uk/femail/article-13837653/Lioness-Ella-Toone-reveals-heartache-death-father-three-days-60th-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13837653/Lioness-Ella-Toone-reveals-heartache-death-father-three-days-60th-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T10:00:54+00:00
+
+The 25-year-old Man Utd midfielder shared with fans on Instagram the news that her dad Nick had died earlier this week, -with many of her England teammates paying tribute to her father.
+
+## So Solid Crew's Lisa Maffia's dad is tragically diagnosed with terminal cancer as she prays for 'more time' together after only just finding him - while her mum also battles the disease
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13837217/So-Solid-Crew-Lisa-Maffia-father-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13837217/So-Solid-Crew-Lisa-Maffia-father-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T09:51:35+00:00
+
+Publicly revealing him for the first time on her Instagram Story, she wrote a prayer for the 'kind soul' as he smiled in a hospital gown.
+
+## Disabled activist claims she was left 'crying all night' after Eurostar 'forced her to prove her disability' as she travelled home from the Paralympics
+ - [https://www.dailymail.co.uk/femail/article-13834115/Wheelchair-user-travelling-Paris-Paralympics-prevented-eurostar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13834115/Wheelchair-user-travelling-Paris-Paralympics-prevented-eurostar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T09:41:10+00:00
+
+Sam Jennings from London queued for her train before staff turned her away because she did not have a ramp booked, despite her booking a wheelchair space, according to the BBC.
+
+## My 11 year-old has 'Benjamin Button' disease - he's ageing backwards and could die 'at any time'
+ - [https://www.dailymail.co.uk/health/article-13837483/Benjamin-Button-disease-duchennes-muscular-dystrophy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13837483/Benjamin-Button-disease-duchennes-muscular-dystrophy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T09:30:37+00:00
+
+An 11 year-old Yorkshire schoolboy has been diagnosed with an ultra-rare, fatal disease than sees him age backwards - and gradually lose the ability to walk, talk and move.
+
+## Why didn't they stop her? We bring you the latest from the Public Inquiry into the hospital where Letby worked, on the new series of The Trial of Lucy Letby
+ - [https://www.dailymail.co.uk/podcasts/the-trial-of-lucy-letby/article-13835363/Why-didnt-stop-bring-latest-Public-Inquiry-hospital-Letby-worked-new-series-Trial-Lucy-Letby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/podcasts/the-trial-of-lucy-letby/article-13835363/Why-didnt-stop-bring-latest-Public-Inquiry-hospital-Letby-worked-new-series-Trial-Lucy-Letby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T08:55:08+00:00
+
+NEW EPISODE! On the new series, we bring you what you need to know from the first day of the Thirwall Inquiry, set up to examine events at the Countess of Chester Hospital. Listen now.
+
+## Former Manchester United star who won the Premier League four times is ordered to JAIL in Brazil over £45,000 row
+ - [https://www.dailymail.co.uk/sport/football/article-13837305/Former-Manchester-United-star-won-Premier-League-four-times-facing-jail-time-failure-pay-45-000-child-maintenance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-13837305/Former-Manchester-United-star-won-Premier-League-four-times-facing-jail-time-failure-pay-45-000-child-maintenance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T08:54:16+00:00
+
+A former Manchester United midfielder has been threatened with prison time over his reported failure to pay child maintenance.
+
+## The moment Dave Grohl's ex Louise Post accused him of cheating with Winona Ryder on-stage in Australia and details of his wild arrest Down Under resurface - as he admits to fathering a secret baby
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836363/Dave-Grohls-wild-Aussie-trip-cheating-fathering-secret-baby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836363/Dave-Grohls-wild-Aussie-trip-cheating-fathering-secret-baby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T08:00:11+00:00
+
+The rock star, 55, shocked his fans on Tuesday when he revealed on Instagram that he has recently welcomed a baby daughter outside of his marriage.
+
+## 'Weird' bird species with teeth at the tip of its beak ate fruit not flesh in China 120 million years ago, fossil analysis shows
+ - [https://www.dailymail.co.uk/sciencetech/article-13834797/Fossil-bird-teeth-ate-fruit-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13834797/Fossil-bird-teeth-ate-fruit-study.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T07:58:15+00:00
+
+Researchers from the Field Museum, Chicago have found that an ancient bird with a mouthful of super-strong teeth did not live of flesh but actually ate fruit and seeds.
+
+## A sign of sharp wit! Snaps reveal VERY funny notices designed to grab your attention
+ - [https://www.dailymail.co.uk/femail/article-13834177/signs-funny-grab-attention.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13834177/signs-funny-grab-attention.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T07:16:37+00:00
+
+People from around the world have shared the best examples of comical signs and notices - with the very best collated in a gallery by Cheezburger.com.
+
+## Uber Eats partners with eight-Michelin starred chef Simon Rogan for an £80 menu including birch sap and chicken offal
+ - [https://www.dailymail.co.uk/femail/article-13834719/Uber-Eats-Micheli-chef-Simon-Rogan-80.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13834719/Uber-Eats-Micheli-chef-Simon-Rogan-80.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T07:15:48+00:00
+
+Simon and his team will be cooking the menu for Uber Eats customers located in London on the 18th and 19th September  priced at £80, with Pairing wines available for £30.
+
+## Was Anne Boleyn really unfaithful, and did she actually love Henry VIII? The Mail's Robert Hardman and historian Kate Williams explore the life and downfall of the Tudor monarch's second wife in new podcast
+ - [https://www.dailymail.co.uk/news/royals/article-13830289/Was-Anne-Boleyn-really-unfaithful-did-actually-love-Henry-VIII-Mails-Robert-Hardman-historian-Kate-Williams-explore-life-downfall-Tudor-monarchs-second-wife-new-podcast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/royals/article-13830289/Was-Anne-Boleyn-really-unfaithful-did-actually-love-Henry-VIII-Mails-Robert-Hardman-historian-Kate-Williams-explore-life-downfall-Tudor-monarchs-second-wife-new-podcast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T07:07:37+00:00
+
+Was Anne Boleyn really guilty of adultery with several men, including her brother? That question is explored in the latest episode of new Daily Mail podcast Queens, Kings and Dastardly Things.
+
+## Princess Margaret wore them, and Kate, Meghan and other royal women have followed in her footsteps - so why are 'super regal' cape dresses so popular?
+ - [https://www.dailymail.co.uk/news/royals/article-13743517/why-royal-women-wear-cape-dresses-look-memorable-outfits-deeply-intertwined-self-expression-emotional-being.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/royals/article-13743517/why-royal-women-wear-cape-dresses-look-memorable-outfits-deeply-intertwined-self-expression-emotional-being.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T07:04:02+00:00
+
+These clothing choices are 'deeply intertwined with psychological processes', according to Dr Carolyn Mair, Cognitive Psychologist and Fashion Business Consultant.
+
+## Taylor Swift's fans react to Kamala Harris endorsement after backlash over bond with Trump voter Brittany Mahomes: 'Childless cat ladies unite!'
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836773/taylor-swift-endorse-kamala-harris-fans-react-presidental-debate-2024-trump-brittany-mahomes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836773/taylor-swift-endorse-kamala-harris-fans-react-presidental-debate-2024-trump-brittany-mahomes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T06:52:47+00:00
+
+Taylor Swift fans set social media alight after she took to Instagram to endorse Kamala Harris following the presidential debate on Tuesday.
+
+## PLAY TEAMSHEET: Can YOU name the Chelsea team that left it VERY, VERY late for John Terry's last-gasp equaliser in 2016?
+ - [https://www.dailymail.co.uk/sport/teamsheet/article-13789205/TEAMSHEET-Chelsea-Everton-Stamford-Bridge-2016.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/teamsheet/article-13789205/TEAMSHEET-Chelsea-Everton-Stamford-Bridge-2016.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T06:48:32+00:00
+
+Every day we'll challenge you to name a different starting XI from the Premier League era. We'll give you a team's rough formation, and the number of letters in each player's name. Then it's up to you!
+
+## Do you know your Gordon Setter from your Deerhound? Rare dog breeds soar in popularity in the UK this year, report reveals
+ - [https://www.dailymail.co.uk/sciencetech/article-13834435/Gordon-Setter-Deerhound-Rare-dog-breeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13834435/Gordon-Setter-Deerhound-Rare-dog-breeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T06:21:17+00:00
+
+Rare breeds have seen the biggest increase in popularity this year, according to official statistics revealed by the Kennel Club in London.
+
+## Dax Shepard sets record straight on wild rumor he and wife Kristen Bell are SWINGERS
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836233/dax-shepard-kristen-bell-swingers-rumor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836233/dax-shepard-kristen-bell-swingers-rumor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T05:09:06+00:00
+
+Dax Sheppard is setting the record straight about his and wife Kristen Bell's sex life.
+
+## The mind-boggling reason why Raygun is now the world's No.1-ranked female breakdancer is revealed
+ - [https://www.dailymail.co.uk/sport/othersports/article-13836619/Reason-Raygun-world-No-1-ranked-female-breakdancer-revealed-breaker-Rachael-Gunn-Olympics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/othersports/article-13836619/Reason-Raygun-world-No-1-ranked-female-breakdancer-revealed-breaker-Rachael-Gunn-Olympics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T04:27:34+00:00
+
+The World DanceSport Federation has explained why they have given Raygun the world No.1 ranking after her performances during the Paris Olympics sparked a huge backlash.
+
+## Hollywood child star looks unrecognizable with exposed breasts and ripped six pack on red carpet... can you guess who it is?
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836479/Hollywood-child-star-looks-unrecognizable-exposed-breasts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836479/Hollywood-child-star-looks-unrecognizable-exposed-breasts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T02:36:09+00:00
+
+This actress, who is now 31, also had a long-running role on the legendary high school soap opera Gossip Girls.
+
+## Warren Buffett's $5.4 BILLION warning to investors after he dumps popular stock - and Wall Street better pay attention
+ - [https://www.dailymail.co.uk/yourmoney/article-13836173/Warren-Buffetts-BILLION-warning-investors-dumps-popular-stock-Wall-Street-Bank-America.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/yourmoney/article-13836173/Warren-Buffetts-BILLION-warning-investors-dumps-popular-stock-Wall-Street-Bank-America.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T02:31:08+00:00
+
+Warren Buffett's Berkshire Hathaway has sold nearly $5.4 billion in shares of a popular stock shares since mid-July, raising concerns about economic and market conditions.
+
+## My daughter regrets paying over the odds for Oasis tickets. Can she get her money back? DEAN DUNHAM replies
+ - [https://www.dailymail.co.uk/money/mailplus/article-13834407/My-daughter-regrets-paying-odds-Oasis-tickets-money-DEAN-DUNHAM-replies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/money/mailplus/article-13834407/My-daughter-regrets-paying-odds-Oasis-tickets-money-DEAN-DUNHAM-replies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T01:38:32+00:00
+
+My daughter sat for hours in an online queue to buy tickets to see Oasis (led by frontman Liam Gallagher (pictured) next year.
+
+## Joe Jonas and Sophie Turner finalize divorce after year-long battle
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836353/Joe-Jonas-Sophie-Turner-finalize-divorce.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836353/Joe-Jonas-Sophie-Turner-finalize-divorce.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T01:25:03+00:00
+
+Joe Jonas and Sophie Turner have finalized their divorce after a bitter year-long battle.
+
+## Dave Grohl acts 'pissy' in resurfaced Wimbledon clip of last outing with wife Jordyn Blum before he admitted cheating on her and fathering secret love child
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836133/Dave-Grohl-Wimbledon-wife-Jordyn-Blum-cheating-fathering-child.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836133/Dave-Grohl-Wimbledon-wife-Jordyn-Blum-cheating-fathering-child.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T01:20:29+00:00
+
+A clip from Wimbledon in July shows Grohl being clipped and curt with a reporter. It appears to be the last public appearance he made with his wife before announcing his secret love child.
+
+## Meet the F1 boffin who rakes in as much as Pep: Adrian Newey does all his designs in pencil and 'can see air'… now Aston Martin are paying him £20m-a-year
+ - [https://www.dailymail.co.uk/sport/formulaone/article-13834771/adrian-newey-aston-martin-f1-red-bull.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/formulaone/article-13834771/adrian-newey-aston-martin-f1-red-bull.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T01:00:46+00:00
+
+JONATHAN MCEVOY: Slim-set, snake-hipped, bald-pated, immaculately polite, enduringly modest, but fiercely competitive - and the highest paid boffin Formula One has ever known.
+
+## Cynics are so wrong to call Kate's mini-movie contrived... it shows the Wales family as they really live, writes REBECCA ENGLISH
+ - [https://www.dailymail.co.uk/news/royals/article-13835535/Cynics-wrong-call-Kates-mini-movie-contrived-shows-Wales-family-really-live-writes-REBECCA-ENGLISH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/royals/article-13835535/Cynics-wrong-call-Kates-mini-movie-contrived-shows-Wales-family-really-live-writes-REBECCA-ENGLISH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:51:18+00:00
+
+If anyone wanted a window into the Waleses' world, yesterday's remarkable 'mini movie' was it.
+
+## My unpleasant encounter with Kristina Rihanoff and Ben Cohen during Strictly scandal exposed their arrogance - and I can't feel sorry for them now they've fallen, writes KATIE HIND
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13835203/My-unpleasant-encounter-Kristina-Rihanoff-Ben-Cohen-Strictly-scandal-exposed-arrogance-feel-sorry-theyve-fallen-writes-KATIE-HIND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13835203/My-unpleasant-encounter-Kristina-Rihanoff-Ben-Cohen-Strictly-scandal-exposed-arrogance-feel-sorry-theyve-fallen-writes-KATIE-HIND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:48:05+00:00
+
+Dressed in a fabulous ballgown, Kristina Rihanoff looked stunning as she hosted a glitzy party at a Mayfair hotel with her Strictly Come Dancing partner Ben Cohen beside her.
+
+## Robbie Williams is set to enter his first Oscars bid as he prepares to face off against Lady Gaga and Ariana Grande in the Best Original Song category for his Better Man biopic
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836275/Robbie-Williams-set-enter-Oscars-bid-prepares-face-against-Lady-Gaga-Ariana-Grande-Best-Original-Song-category-Better-Man-biopic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836275/Robbie-Williams-set-enter-Oscars-bid-prepares-face-against-Lady-Gaga-Ariana-Grande-Best-Original-Song-category-Better-Man-biopic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:47:13+00:00
+
+The singer-songwriter, 50, has been working on his biopic Better Man since 2021 - with the film premiering at Toronto Film Festival on Tuesday.
+
+## SARAH VINE: Keir Starmer's mask has slipped to reveal the unmistakable smirk of Corbyn and his cronies
+ - [https://www.dailymail.co.uk/debate/article-13835487/SARAH-VINE-Keir-Starmers-mask-slipped-reveal-unmistakable-smirk-Corbyn-cronies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13835487/SARAH-VINE-Keir-Starmers-mask-slipped-reveal-unmistakable-smirk-Corbyn-cronies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:46:38+00:00
+
+How many who voted for Starmer believing his 'man of integrity' spiel have now woken up and realised it was all an act? That they've been duped, tricked, sold a pup?
+
+## Inside Dave Grohl's VERY star-studded love life: Twice-married rock legend has had rumored romances with Christina Aguilera, Winona Ryder, and more - decades prior to secret baby bombshell
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13835659/dave-grohl-love-life-christina-aguilera-winona-ryder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13835659/dave-grohl-love-life-christina-aguilera-winona-ryder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:46:21+00:00
+
+The Foo Fighters singer, 55, made the admission on a statement posted to Instagram on Tuesday.
+
+## EPHRAIM HARDCASTLE: Left-wing Playwright David Hare praises late Queen's private secretary Lord Fellowes
+ - [https://www.dailymail.co.uk/debate/article-13835795/EPHRAIM-HARDCASTLE-Left-wing-Playwright-David-Hare-praises-late-Queens-private-secretary-Lord-Fellowes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-13835795/EPHRAIM-HARDCASTLE-Left-wing-Playwright-David-Hare-praises-late-Queens-private-secretary-Lord-Fellowes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:40:06+00:00
+
+EPHRAIM HARDCASTLE: Left-wing playwright David Hare praises the late Queen's private secretary, Lord Fellowes, calling him 'a wholly wonderful man'.
+
+## Liam Gallagher 'flies rescue dog on private jet' as the pooch joins family for summer getaway in France
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13836217/Liam-Gallagher-rescue-dog-private-jet-pooch-joins-family-summer-getaway-France.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13836217/Liam-Gallagher-rescue-dog-private-jet-pooch-joins-family-summer-getaway-France.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:39:27+00:00
+
+He's known for his hard exterior and abrasive attitude. 
+
+## Princess Sofia of Sweden shows off baby bump in a stunning red dress - as she is joined by husband Prince Carl Philip and other royals for State Opening of Parliament in Stockholm
+ - [https://www.dailymail.co.uk/femail/article-13835619/Princess-Sofia-Sweden-debuts-baby-bump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-13835619/Princess-Sofia-Sweden-debuts-baby-bump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:39:21+00:00
+
+Princess Sofia stepped out in Stockholm, the Swedish capital city, alongside Prince Carl Philip , today. The couple told the public that she is pregnant with their fourth child last week in a sweet announcement.
+
+## DAILY MAIL COMMENT: Just 68 days in and it's Starmergeddon
+ - [https://www.dailymail.co.uk/news/article-13835747/Just-68-days-Starmergeddon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13835747/Just-68-days-Starmergeddon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:38:18+00:00
+
+Outside Wandsworth, Pentonville and dozens of other jails yesterday we had the bizarre spectacle of celebrations and champagne corks popping as around 1,700 prisoners were given early release
+
+## Lily Collins is the epitome of glamour in a shimmering gold gown as she leads the stars on the red carpet for the premiere of Emily In Paris season 4 part two in Rome
+ - [https://www.dailymail.co.uk/tvshowbiz/article-13835589/Lily-Collins-emily-paris-premiere-rome.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-13835589/Lily-Collins-emily-paris-premiere-rome.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:24:27+00:00
+
+The English-American actress, 35, ensured to catch everyone's eyes at the swanky event - where she was joined by cast members of the beloved Netflix series.
+
+## Doctors remove 2ft rusty metal rod from woman's backside after it impaled her when she slipped and fell in her backyard
+ - [https://www.dailymail.co.uk/health/article-13834947/doctor-remove-metal-rod-woman-backside-fell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-13834947/doctor-remove-metal-rod-woman-backside-fell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/home/index.rss
+ - date published: 2024-09-11T00:02:22+00:00
+
+A 65-year-old woman was impaled on a nearly two-foot-long metal rod but miraculously avoided damage to her blood vessels and organs, according to a new case study out of India.
+
