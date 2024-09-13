@@ -1,0 +1,212 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## A Massive Balatro Exploit Has Been Hiding In The Game All Along, Dev Confirms
+ - [https://www.gamespot.com/articles/a-massive-balatro-exploit-has-been-hiding-in-the-game-all-along-dev-confirms/1100-6526461/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-massive-balatro-exploit-has-been-hiding-in-the-game-all-along-dev-confirms/1100-6526461/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T14:58:00+00:00
+
+<p>The poker roguelite <a href="https://www.gamespot.com/games/balatro/">Balatro</a> has built a strong and loyal community of players thanks to the many different ways the game can surprise you during a run. Today--on the same day the game launched on mobile devices--developer LocalThunk has seemingly confirmed a feature that looks like a glitch, but is instead working as intended.</p><p>This exploit, which was brought to light in a YouTube video by BelenosBear, involves the Misprint joker card, and more specifically, it centers around the seemingly random text that flashes in the Misprint’s ability text.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=2pQznnrzeBk" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/2pQznnrzeBk" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>Basically, if you pause during a Balatro run, go to yo
+
+## Wild Bastards Review - Buck Around And Find Out
+ - [https://www.gamespot.com/reviews/wild-bastards-review-buck-around-and-find-out/1900-6418284/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/wild-bastards-review-buck-around-and-find-out/1900-6418284/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T13:32:00+00:00
+
+<p dir="ltr">Anecdotally, I've heard from a lot of people who say they're tired of roguelites. There's been a years-long run on this genre, especially in the indie space where drilling down on systems, rather than expensive environments and setpieces, can be cost-effective while still producing something exciting and worthwhile. Because a roguelite game can take so many different shapes, I've not yet had my fill of them. Maybe fatigue will set in one day, though if games in the genre continue to be as great as <a href="https://www.gamespot.com/games/wild-bastards/">Wild Bastards</a>, I don't think I'll ever grow weary of them.</p><p dir="ltr">Wild Bastards comes from Blue Manchu, the same studio that released Void Bastards in 2019. Like that prior project, Wild Bastards is a strategy-shooter hybrid wrapped in a roguelite framework. But where Void Bastards drew clear inspiration from games like BioShock and System Shock 2, comparisons for Wild Bastards are harder to draw. It's a fascin
+
+## Warner Bros Boss Says It Has The "Best Cookies," Talks About Milking Them
+ - [https://www.gamespot.com/articles/warner-bros-boss-says-it-has-the-best-cookies-talks-about-milking-them/1100-6526460/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/warner-bros-boss-says-it-has-the-best-cookies-talks-about-milking-them/1100-6526460/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T13:08:00+00:00
+
+<p>Warner Bros. Discovery CEO David Zaslav has commented on the future of the company's entertainment business, saying he believes that some of its biggest franchises are "underutilized" and that this is actually one of the firm's biggest growth opportunities. He made his point using an analogy about cookies.</p><p>During a speech at the <a href="https://event.webcasts.com/viewer/event.jsp?ei=1685039&amp;tp_key=476487d723">Goldman Sachs Communacopia + Technology event</a>, he singled out franchises like Harry Potter, DC franchises like Superman, Batman, and Joker, along with the fantasy franchises Game of Thrones and The Lord of the Rings. He said these are franchises people around the world know and will spend time and money on, if they are deployed correctly.</p><p>"The good news for us, is it's underused. We haven't done a Superman in 14 years [<em>note: Man of Steel was released in 2013 and Batman vs Superman came out in</em> <em>2016</em><ins>]</ins>. We haven't done Lord of the 
+
+## Nintendo Switch OLED Zelda-Themed Console Is Available At Amazon For Retail Price
+ - [https://www.gamespot.com/articles/nintendo-switch-oled-legend-of-zelda-console/1100-6526455/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-switch-oled-legend-of-zelda-console/1100-6526455/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T12:57:00+00:00
+
+<div title="6526455 - Zelda Switch OLED" data-embed-type="buylink" data-ref-id="2660" data-template="2" data-size="buylink__large" data-title="6526455 - Zelda Switch OLED" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4366375-zeldaswitcholed.jpg alt="">                                 <a href="https://www.amazon.com/Nintendo-Switch-Model-Legend-Zelda-Kingdom/dp/B0BZK5M9TD?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">      
+
+## Squirrel With A Gun Review - Insert Acorn-y Joke
+ - [https://www.gamespot.com/reviews/squirrel-with-a-gun-review-insert-acorn-y-joke/1900-6418283/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/squirrel-with-a-gun-review-insert-acorn-y-joke/1900-6418283/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T12:52:00+00:00
+
+<p><a href="https://www.gamespot.com/games/squirrel-with-a-gun/">Squirrel With a Gun</a>, as the name implies, is all about a squirrel with a gun. Quite a few guns, actually. Although it's not an action game, nor is there as much shooting as expected. Instead, Squirrel With a Gun is mainly inspired by Goat Simulator and its ilk, letting you run amok in a zany sandbox full of platforming and physics-based puzzles to solve. None of these are particularly good, marred as they are by clunky, imprecise controls and a dearth of personality. Despite being around four hours in length, the whole rodent-wielding-a-firearm gimmick runs out of steam long before the credits roll, leaving you with a janky and unremarkable game that fails to live up to its absurd premise.</p><p dir="ltr">In terms of story, there isn't really one to speak of. The game opens with our titular Sciuridae dropping into a secret government bunker to procure a golden acorn. Once the tasty treat is in your possession, you th
+
+## Grand Theft Auto 6 Might Not Benefit From PS5 Pro In Ways That You Expect
+ - [https://www.gamespot.com/articles/grand-theft-auto-6-might-not-benefit-from-ps5-pro-in-ways-that-you-expect/1100-6526459/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/grand-theft-auto-6-might-not-benefit-from-ps5-pro-in-ways-that-you-expect/1100-6526459/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T11:24:00+00:00
+
+<p>With Sony announcing the <a href="https://www.gamespot.com/articles/ps5-pro-release-date-specs-price/1100-6523695/">PlayStation 5 Pro</a> earlier this week, a lot of attention has now shifted towards how the improved power of the console might be used to enhance both games on the market, and those that might launch soon. As one of the largest games on the horizon, it's unsurprising that <a href="https://www.gamespot.com/articles/grand-theft-auto-6-everything-we-know/1100-6503729/">Grand Theft Auto VI</a> has been included in the discussion, particularly around its potential to run at 60 frames per second.</p><p>Unfortunately, it seems that even with the additional GPU power of the PS5 Pro, this might not be possible. That's according to Richard Leadbetter, editor at renowned games and tech analysis outlet <a href="https://www.digitalfoundry.net/">Digital Foundry</a>. Echoing statements he made during the initial reveal of Grand Theft Auto VI, Leadbetter says that the limiting facto
+
+## Race To The Emerald City In This Upcoming Wicked board game.
+ - [https://www.gamespot.com/articles/race-to-the-emerald-city-in-this-upcoming-wicked-board-game/1100-6526426/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/race-to-the-emerald-city-in-this-upcoming-wicked-board-game/1100-6526426/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T11:20:00+00:00
+
+<p>Wicked hits theaters on November 22, but ahead of its arrival you’ll have a chance to check out a new Wicked board game. Aptly titled <a href="https://www.amazon.com/Spin-Master-Games-Wicked-Strat/dp/B0CSYB4B12?tag=gamespot-preorders-20">Wicked: The Game</a>, it sees you partnering with Elphaba and Glinda to save Oz from the Wizard. Preorders are now open, with a release planned for October 1.</p><div title="6526426 - Wicked: The Game Preorders" data-embed-type="buylink" data-ref-id="2654" data-template="4" data-size="buylink__listicle" data-title="6526426 - Wicked: The Game Preorders" data-collection="" class="norewrite">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/Spin-Master-Games-Wicked-Strat/dp/B0CSYB4B12?tag=gamespot-preorders-20">Wicked: The Game</a>       </h2>          
+
+## Gift Idea For Dad: New 4K Collection With Comedy Classics Airplane, Naked Gun, And Top Secret
+ - [https://www.gamespot.com/articles/zaz-the-collection-4k-blu-ray-collection-preorders/1100-6526410/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/zaz-the-collection-4k-blu-ray-collection-preorders/1100-6526410/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T10:45:00+00:00
+
+<p>When it comes to satirical comedies, few films are as iconic and memorable as those produced by Jim Abrahams and brothers David and Jerry Zucker. The trio set the gold standard for comedy spoofs with films like Airplane, Top Secret!, and The Naked Gun, and soon you can grab all three of those classic movies in a new 4K Blu-ray release aptly titled <a href="https://www.amazon.com/dp/B0DFZ1RJBX?tag=gamespot-preorders-20">ZAZ: The Collection</a>. Preorders for the $50 collection are live at Amazon ahead of its November 19 release date.</p><div title="6526410 - Zaz Blu-ray preorder" data-embed-type="buylink" data-ref-id="2653" data-template="4" data-size="buylink__listicle" data-title="6526410 - Zaz Blu-ray preorder" data-collection="" class="norewrite">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https:/
+
+## Flappy Bird Is Flapping Back To A Screen Near You
+ - [https://www.gamespot.com/articles/flappy-bird-is-flapping-back-to-a-screen-near-you/1100-6526458/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/flappy-bird-is-flapping-back-to-a-screen-near-you/1100-6526458/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T10:41:00+00:00
+
+<p dir="ltr">Just over a decade after its 2013 release--and its surprisingly quick removal from app stores--the immensely popular <a href="https://www.gamespot.com/games/flappy-bird/">Flappy Bird</a> is finally returning to mobile devices (and potentially other platforms) in 2025.</p><p dir="ltr">The project is being developed by the Flappy Bird Foundation, which describes itself as a "team of passionate fans committed to sharing the game with the world." The Flappy Bird Foundation group has acquired the rights to both the official Flappy Bird trademark and the rights to Piou Piou vs. Cactus, the mobile game upon which Flappy Bird's titular character is based.</p><p dir="ltr">"It's been a decade-long, convoluted journey to get here, but we're so excited to finally begin sharing Flappy Bird once again with the world," a spokesperson for the Flappy Bird Foundation said of the game's upcoming reboot.</p><a href="https://www.gamespot.com/articles/flappy-bird-is-flapping-back-to-a-screen-n
+
+## Joker 2 Expected To Open Significantly Worse Than First Movie
+ - [https://www.gamespot.com/articles/joker-2-expected-to-open-significantly-worse-than-first-movie/1100-6526456/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/joker-2-expected-to-open-significantly-worse-than-first-movie/1100-6526456/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T10:29:00+00:00
+
+<p>Joker: Folie à Deux opens in theaters next month, but how is the DC sequel expected to fare at the box office? It is poised for a gigantic debut, according to early tracking estimates, but won't be able to match the pace of the record-setting original film from 2019.</p><p>According to <a href="https://www.hollywoodreporter.com/movies/movie-news/joker-folie-a-deux-tracking-box-office-1235999562/">The Hollywood Reporter</a>, the movie is on track to earn $70 million or more in North America alone for its opening weekend in early October. That would be well below the $96.2 million that 2019's Joker earned domestically for its opening weekend. Of course, early tracking like this is far from concrete, and actual results may vary. Estimates may be revised closer to the movie's October 4 debut.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=_OKAwz2MsJs" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/_OKAwz2MsJ
+
+## Watchmen Chapter 1's New 4K Blu-Ray Release Drops To Best Price Yet
+ - [https://www.gamespot.com/articles/the-animated-watchmen-chapter-1-is-up-for-preorder-right-now/1100-6524876/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-animated-watchmen-chapter-1-is-up-for-preorder-right-now/1100-6524876/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T09:15:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="2494" data-template="2" data-size="buylink__large" data-title="Watchmen Chapter 1 blu-ray" data-collection="" title="Watchmen Chapter 1 blu-ray" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1757/17577455/4331736-watchmenchapter1module.jpg alt="">                                 <a href="https://www.amazon.com/Watchmen-Chapter-1-4K-UHD/dp/B0D693WKP8?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">             
+
+## Marvel Vs. Capcom Fighting Collection GameSpot Review
+ - [https://www.gamespot.com/videos/marvel-vs-capcom-fighting-collection-gamespot-review/2300-6465120](https://www.gamespot.com/videos/marvel-vs-capcom-fighting-collection-gamespot-review/2300-6465120)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T09:13:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4366323-mvc_collection_site.jpg" width="480" height="480" /> A package worthy of the modern era.
+
+## 20 Amazing Details In Warhammer 40K: Space Marine 2
+ - [https://www.gamespot.com/videos/20-amazing-details-in-warhammer-40k-space-marine-2/2300-6465118](https://www.gamespot.com/videos/20-amazing-details-in-warhammer-40k-space-marine-2/2300-6465118)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T09:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4366289-sm2detailsv2site.jpg" width="480" height="480" /> The world of Space Marine 2 is absolutely packed with details, Easter eggs, secrets, and references to the Warhammer 40,000 universe.
+
+## The Penguin Review - Gotham City Thrives Outside Of The Batman
+ - [https://www.gamespot.com/reviews/the-penguin-review-gotham-city-thrives-outside-of-the-batman/1900-6418282/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/the-penguin-review-gotham-city-thrives-outside-of-the-batman/1900-6418282/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T09:00:00+00:00
+
+<p dir="ltr">When it was first announced that Colin Farrell would reprise his role as Oswald Cobblepot from 2022's The Batman in a streaming series, it was a scary proposition. After all, we've seen what happens when a popular superhero movie franchise continues its story on TV. We all saw how Marvel's Agents of SHIELD was not in any way a proper extension of the MCU. And don't even get us started about Inhumans. HBO's The Penguin, though, is almost an exact opposite of those shows, with a stellar cast and story that feel as though they were ripped directly from the world of The Batman, as opposed to tacked on after the fact.</p><p dir="ltr">With The Penguin, showrunner Lauren LeFranc and executive producer Matt Reeves have crafted a genuine extension of the world built in The Batman. The series also truly brings Gotham City to life in ways the movie wouldn't be able to. With eight episodes in Penguin's limited run, viewers not only learn more about Cobblepott--now named simply Oswald
+
+## Just Who Is The PS5 Pro For?
+ - [https://www.gamespot.com/articles/just-who-is-the-ps5-pro-for/1100-6526452/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/just-who-is-the-ps5-pro-for/1100-6526452/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T08:23:00+00:00
+
+<p>There was big video game industry news this when Sony, after months of rumor and speculation, finally and officially unveiled the <a href="https://www.gamespot.com/articles/ps5-pro-revealed-aims-to-double-the-power/1100-6526357/">PlayStation 5 Pro</a>. The disc-free system is more powerful than the PS5 and boasts impressive technical specs. But <a href="https://www.gamespot.com/articles/the-internet-reacts-to-ps5-pros-700-price-tag/1100-6526397/">the reaction online</a> was mainly focused on its price tag: $700 USD. Many were left scratching their heads and wondering: <em>Who is this for?!</em></p><p>According to Circana analyst Mat Piscatella, the console is targeted at the "price-insensitive PlayStation ultra enthusiast." He told GameSpot that, for this audience, the price point is "not a significant barrier" and that the market for the PS5 Pro represents only a "very smell portion" of the total PlayStation fanbase.</p><p>The people who may be interested in purchasing a PS5 Pro a
+
+## Until Dawn PC Requirements Revealed, Aren't Too Terrifying
+ - [https://www.gamespot.com/articles/until-dawn-pc-requirements-revealed-arent-too-terrifying/1100-6526448/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/until-dawn-pc-requirements-revealed-arent-too-terrifying/1100-6526448/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T08:01:00+00:00
+
+<p>Ahead of its launch next month, Sony has revealed a few more details on the <a href="https://www.gamespot.com/games/until-dawn/">Until Dawn</a> remake's PC release, including its system requirements and recommended specs. Similar to the PC ports of other PlayStation Studios games, Until Dawn will benefit from advanced graphical features, customizability, and accessibility features. Developer Supermassive Games has designed the remake to run on a variety of PC configurations, with presets ranging from a 720p 30fps mode that uses low graphical settings, up to a 4K 60fps mode.</p><p>For the least-demanding presets, you'll be able to experience the interactive horror game with an Nvidia GeForce 1660 or a Radeon RX 470 graphics card. If you're aiming for a consistent 1080p 60fps experience, you'll need to have a GeForce RTX 2060 or Radeon RX 6600XT GPU installed and at least 16GB of RAM. For anyone looking for a stable 4K 60fps mode using very high presets, <a href="https://blog.playsta
+
+## Exclusive: The Bravely Default II Art Book Is Getting An English Localization, Preorders Open Today
+ - [https://www.gamespot.com/articles/exclusive-the-bravely-default-ii-art-book-is-getting-an-english-localization-preorders-open-today/1100-6526436/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/exclusive-the-bravely-default-ii-art-book-is-getting-an-english-localization-preorders-open-today/1100-6526436/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T08:00:00+00:00
+
+<p>Square Enix and Dark Horse are teaming up for an English localization of the official Bravely Default II art book. The Art of Bravely Default II: 201X-2021 is a hardcover book featuring concept art and behind-the-scenes insights into the RPG's development directly from the developers. The book will launch for $50 on April 22, 2025, and preorders are available now.</p><div title="6526436 - Art of Bravely Default 2 book preorders" data-embed-type="buylink" data-ref-id="2656" data-template="4" data-size="buylink__listicle" data-title="6526436 - Art of Bravely Default 2 book preorders" data-collection="" class="norewrite">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/Art-Bravely-Default-Square-Enix/dp/1506710263?tag=gamespot-promos-20">The Art of Bravely Default II: 201X-2021</a>    
+
+## One Of The Witcher 3's Endings Has Been Restored By A Fan Mod
+ - [https://www.gamespot.com/articles/one-of-the-witcher-3s-endings-has-been-restored-by-a-fan-mod/1100-6526447/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/one-of-the-witcher-3s-endings-has-been-restored-by-a-fan-mod/1100-6526447/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T07:36:00+00:00
+
+<p><a href="https://www.gamespot.com/reviews/the-witcher-3-wild-hunt-hearts-of-stone-review/1900-6416268/">The Witcher 3: Wild Hunt</a> will celebrate its 10th anniversary next year, but the game apparently still has a few secrets to give up. Fan modder MerigoldMariobor has found a few lost moments of dialogue from one of The Witcher 3's endings, and has released a new mod that restores a little more closure for Geralt and Ceri.</p><p>Via <a href="https://www.ign.com/articles/the-witcher-3-wild-hunt-mod-restores-cut-endings">IGN</a>, the ending in the game features a favorable outcome for Geralt and Ciri as he presents her with a sword signifying her status as a fellow Witcher. However, there were two lost moments of dialogue that added more to the scene. First, Ciri finally gets a chance to react to having a Witcher's sword of her own, before she and Geralt make plans to reunite with either Yen or Triss, depending upon whom Geralt is romancing in the game. The video below adds both o
+
+## New PS5 Update Adds Welcome Hub And Lets You Change Its Background
+ - [https://www.gamespot.com/articles/new-ps5-update-adds-welcome-hub-and-lets-you-change-its-background/1100-6526449/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-ps5-update-adds-welcome-hub-and-lets-you-change-its-background/1100-6526449/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T07:10:00+00:00
+
+<p>Sony has <a href="https://blog.playstation.com/2024/09/12/ps5-system-update-adds-welcome-hub-party-share-personalized-3d-audio-profiles-adaptive-controller-charging-and-more/">announced</a> a new PS5 update is out now, adding a new page called the Welcome Hub with a customizable background, among other features.</p><p>The Welcome Hub is a dedicated personal space where players can prioritize and customize widgets to focus on features that matters to them the most. For example, the widgets include being able to quickly see console storage, Trophies, and battery levels at a glance. For US players, the Welcome Hub will be replacing the current Explore tab. The feature will be gradually released to other regions outside of the US, starting with Japan and select countries in Europe, then the rest of the world.</p><p>Players can also change the background of their Welcome hub, and can pick from a variety of preset backgrounds or choose a screenshot from the Media Gallery. Within the next
+
+## Five Nights At Freddy's 2 Movie Gets Exciting Update
+ - [https://www.gamespot.com/articles/five-nights-at-freddys-2-movie-gets-exciting-update/1100-6526445/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/five-nights-at-freddys-2-movie-gets-exciting-update/1100-6526445/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T07:01:00+00:00
+
+<p>The movie based on Five Nights at Freddy's was a huge success in 2023, and a sequel is in the works. Now, a major development has unfolded, as a report has revealed when the movie is set to begin filming.</p><p><a href="https://collider.com/five-nights-at-freddys-2-filming-start/">Collider's sources</a> have said that FNAF 2 will begin production at the end of October 2024--which is just in time for Halloween. The first movie filmed in and around New Orleans, but there is no word yet on the filming locations for the sequel.</p><p>The reveal of when FNAF 2 may begin filming comes not long after series creator Scott Cawthon released four pages from the movie's script on social media. However, Cawthon said <a href="https://x.com/FNAF_ScottGames/status/1821682179103179124">only one of the pages is legitimate</a>, and fans will have to guess as to which one is real. Here are the four pages:</p><a href="https://www.gamespot.com/articles/five-nights-at-freddys-2-movie-gets-exciting-update
+
+## Hollowbody Review - Shattered Memories
+ - [https://www.gamespot.com/reviews/hollowbody-review-shattered-memories/1900-6418279/?ftag=CAD-01-10abi2f](https://www.gamespot.com/reviews/hollowbody-review-shattered-memories/1900-6418279/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T07:00:00+00:00
+
+<p dir="ltr">Konami is trying to figure out how to make Silent Hill games again. After more than a decade away from the series (and arguably many more years since a <em>good</em> one), multiple new Silent Hill projects have recently debuted or soon shall. Silent Hill devotees like me often wonder whether the publisher can recapture the magic of the series' early games. But even if it can't, at least we have Hollowbody. Made by a single person, <a href="https://www.gamespot.com/games/hollowbody/">Hollowbody</a> sometimes goes too far past being a homage, but most of the time, it stands apart as a memorable entry in the crowded space of horror games drumming up the past.</p><p dir="ltr">This year, Hollowbody is the closest thing you'll find to Silent Hill 2 that isn't Bloober Team's forthcoming remake. Its solo developer, Nathan Hamley (working under the studio name Headware Games), admits his love for the series is the driving force in creating Hollowbody, and there are times when that
+
+## Xbox Friend Requests Are Finally Coming Back
+ - [https://www.gamespot.com/articles/xbox-friend-requests-are-finally-coming-back/1100-6526446/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-friend-requests-are-finally-coming-back/1100-6526446/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T06:57:00+00:00
+
+<p dir="ltr">For the first time since the Xbox 360 days, Xbox users will be able to send and receive friend requests. The announcement was made via a blog post on the official Xbox website, which provided more details.</p><p dir="ltr">"Beginning this week, starting with Alpha Skip-Ahead users on Xbox consoles, and users that have joined the PC Gaming preview on Windows PCs and handheld devices, Xbox Insiders will be able to preview an updated friends and followers experience!" the <a href="https://news.xbox.com/en-us/2024/09/11/new-xbox-friends-and-followers-experience/">post reads</a>. "With updated relationships, and new privacy and notification settings, you can start managing your social experiences with Xbox just the way you like, from any device."</p><div data-embed-type="tweet" data-src="https://x.com/Xbox/status/1833928739677167669" data-has-image="true"><blockquote align="center" class="twitter-tweet" data-conversation="none" data-mce-disable-toolbar="true"><p dir="ltr">We’re
+
+## Dexter: Original Sin Trailer Reveals The Making Of A Serial Killer
+ - [https://www.gamespot.com/articles/dexter-original-sin-trailer-reveals-the-making-of-a-serial-killer/1100-6526443/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dexter-original-sin-trailer-reveals-the-making-of-a-serial-killer/1100-6526443/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T06:48:00+00:00
+
+<p>The original <a href="https://www.gamespot.com/articles/dexter-comes-back-from-the-dead/1100-6483330/">Dexter</a> series was one of the biggest hits that Showtime has ever had, so it's understandable why the premium cable network won't let him go. Even though Michael C. Hall's serial killer apparently died in <a href="https://www.gamespot.com/articles/dexter-new-blood-is-over-but-the-showrunner-has-plans-for-more/1100-6499485/">Dexter: New Blood</a>--and is somehow coming back for Dexter: Resurrection--the prequel series, <a href="https://www.gamespot.com/articles/dexter-prequel-series-casts-young-dexter-debra-and-harry/1100-6523670/">Dexter: Original Sin</a>, will breathe some new life into the franchise later this year. And in the first trailer for the show, Hall lends his voice to the formative years of a much younger Dexter, as played by Patrick Gibson.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=f_Q936R8Hwk" data-width="100%" data-height="100%">  
+
+## Tony Hawk Says He Has Been Talking To Activision Ahead Of The Pro Skater 25th Anniversary
+ - [https://www.gamespot.com/articles/tony-hawk-says-he-has-been-talking-to-activision-ahead-of-the-pro-skater-25th-anniversary/1100-6526442/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/tony-hawk-says-he-has-been-talking-to-activision-ahead-of-the-pro-skater-25th-anniversary/1100-6526442/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T06:34:00+00:00
+
+<p>Skateboarding legend Tony Hawk recently hinted that he had been talking to Activision, teasing that "something" is being planned for the franchise ahead of its 25th anniversary.</p><p>"I wish I could tell you more, but I can tell you that I have been talking to Activision again," Hawk said in a Mythical Kitchen video when asked about the future of the THPS series. "It's insanely exciting. We're working on something. It'll be something the fans truly appreciate."</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=CIEpU0EF0XI" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/CIEpU0EF0XI" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>Hawk's comments align with a <a href="https://www.gamespot.com/articles/tony-hawk-pro-skater-dev-channels-get-refresh-sparking-fan-theories/1100-6526237/">recent refresh of the Tony Hawk Pro Skater 
+
+## New Venom 3 Trailer Introduces The King Of The Symbiotes, Knull
+ - [https://www.gamespot.com/articles/new-venom-3-trailer-introduces-the-king-of-the-symbiotes-knull/1100-6526444/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-venom-3-trailer-introduces-the-king-of-the-symbiotes-knull/1100-6526444/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T06:12:00+00:00
+
+<p>Sony has released the second trailer for Venom: The Last Dance, which closes in on the film's plot: The symbiotes were not sent to Earth randomly, but rather trying to escape their maker, Knull. This is the third movie in the Venom franchise with Tom Hardy as Eddie Brock/Venom, and so far, featuring the only successful Spider-Man villain spin-off character. </p><p>"In Venom: The Last Dance, Tom Hardy returns as Venom, one of Marvel’s greatest and most complex characters, for the final film in the trilogy," the official film synopsis reads. "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance." Check out the new trailer below.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=aFsGDcy-6hc" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/aFsGDcy-6hc" height="10
+
+## Netflix's Arcane Season 2 Panel Heading To LightBox Expo
+ - [https://www.gamespot.com/articles/netflixs-arcane-season-2-panel-heading-to-lightbox-expo/1100-6526432/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflixs-arcane-season-2-panel-heading-to-lightbox-expo/1100-6526432/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T06:00:00+00:00
+
+<p>LightBox Expo, the three-day entertainment and art industry event that brings together creatives to ignite a shared passion for art, today unveiled its stellar programming lineup that will feature a presentation of the art for Season 2 of Arcane, the hit Netflix series based on League of Legends.</p><p>"Step into the world of Arcane: League of Legends with this compelling panel on the artistry and craftsmanship behind the groundbreaking Emmy Award-winning animated series," the official panel description reads. The presentation will be moderated by production designer and concept artist for Riot Games, Arnaud-Loris Baudry with other panelists as they break down the art and design behind Arcane’s technical and artistic challenges of adapting the complex video game lore.</p><figure data-align="center" data-size="large" data-img-src="https://www.gamespot.com/a/uploads/original/1597/15976769/4365775-id_id_arc2_main_sisters_vertical_27x40_rgb_pre_1.jpg" data-ref-id="1300-4365775" data-ra
+
+## Borderlands Movie Has Earned A Shockingly Low Amount After First Month
+ - [https://www.gamespot.com/articles/borderlands-movie-has-earned-a-shockingly-low-amount-after-first-month/1100-6526440/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/borderlands-movie-has-earned-a-shockingly-low-amount-after-first-month/1100-6526440/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T05:55:00+00:00
+
+<p>The Hunger Games studio Lionsgate's Borderlands movie, based on the popular video game series, has not been the success some believed it could be in theaters. About a month after the film debuted in theaters on August 9, the Borderlands movie has made just over $31 million globally. Not only did the movie not make much money, it got poor reviews as well. That might be the movie's final theatrical tally, as many theaters are no longer showing the film, though as always, your market may vary.</p><p>The $31 million globally tally includes $15.4 million from North America and $15.9 million from international markets, according to <a href="https://www.boxofficemojo.com/title/tt4978420/?ref_=bo_se_r_1">BoxOfficeMojo</a>. Things were not looking good right out of the gate, as Borderlands only made $8.6 million during its opening weekend in North America. The Borderlands film had a <a href="https://www.gamespot.com/articles/borderlands-movie-continues-disaster-run-at-box-office-with-anothe
+
+## Disney+ Gets Huge Price Cut For Ad Tier, But Only For A Limited Time
+ - [https://www.gamespot.com/articles/disney-gets-huge-price-cut-for-ad-tier-but-only-for-a-limited-time/1100-6526441/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-gets-huge-price-cut-for-ad-tier-but-only-for-a-limited-time/1100-6526441/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T05:41:00+00:00
+
+<p>Disney is rolling out a nice offer for Disney+'s ad tier and launching new perks to help drive memberships. Starting today, new and returning subscribers can get three months of the Disney+ ad tier for only $2/month, which is a steep discount off the normal rate of $8/month.</p><p>This offer started today, September 12, and runs through September 27. If you subscribed today, you'd have the rate locked in through the end of 2024. Thanks to <a href="https://www.hollywoodreporter.com/business/business-news/new-disney-plus-discount-perks-agatha-all-along-1235997478/?taid=66e2d7ef54b9250001dab186&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter">Hollywood Reporter</a> for spotting the deal.</p><div title="" data-embed-type="buylink" data-ref-id="undefined" data-template="undefined" data-size="buylink__small" data-title="" data-collection="%7B%22text%22:%22Sign%20up%20for%20Disney+%22,%22monetizedUrl%22:%22%22,%22rawUrl%22:%22https://help.disneyplus.com/article/di
+
+## Destiny Fan Accuses Bungie Of Stealing Their Design For New Nerf Gun
+ - [https://www.gamespot.com/articles/destiny-fan-accuses-bungie-of-stealing-their-design-for-new-nerf-gun/1100-6526438/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-fan-accuses-bungie-of-stealing-their-design-for-new-nerf-gun/1100-6526438/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T04:51:00+00:00
+
+<p>Normally in gaming, a weapon getting Nerfed means that it will no longer be as useful or fun as it once was. But Bungie's new <a href="https://www.gamespot.com/reviews/destiny-2-review/1900-6416758/">Destiny 2</a> Ace of Spades replica gun <a href="https://www.gamespot.com/articles/destiny-2-ace-of-spades-hand-cannon-has-been-nerfed-but-not-that-way/1100-6526386/">is an actual working Nerf hand cannon</a>. Now, a Destiny 2 fan has come forward to accuse the company of using a design that lifted from their original artwork for the Ace of Spades Nerf gun that was posted online nearly a decade ago.</p><p>On social media, a user who goes by Tofu Bunny posted a link to their original artwork for the Ace of Spades Nerf gun from 2015 and placed images of that artwork side-by-side with the upcoming release. There are definitely some strong similarities between the two, almost on a one-to-one basis.</p><div data-embed-type="tweet" data-src="https://twitter.com/Tofu_Rabbit/status/18338513366
+
+## Xbox Cuts 650 More Gaming Jobs, But No Studios Closed Or Games Canceled
+ - [https://www.gamespot.com/articles/xbox-cuts-650-more-gaming-jobs-but-no-studios-closed-or-games-canceled/1100-6526439/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-cuts-650-more-gaming-jobs-but-no-studios-closed-or-games-canceled/1100-6526439/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2024-09-12T04:37:00+00:00
+
+<p>Microsoft has implemented another round of heavy cuts to its Xbox gaming team following the acquisition of Activision Blizzard. In this latest round of layoffs, Microsoft is eliminating about 650 positions from its gaming team, but no additional studios have closed and no other games are canceled as a result of the move, which Microsoft Gaming CEO Phil Spencer confirmed on September 12. In January, <a href="https://www.gamespot.com/articles/microsoft-is-cutting-1900-jobs-from-its-video-game-division/1100-6520601/">Microsoft cut 1,900 gaming positions</a>, bringing the number of cuts to the company to about 2,550 since the $75.4 billion deal to buy Activision Blizzard closed in October 2023.</p><p>In a <a href="https://www.ign.com/articles/microsoft-lays-off-another-650-staff-from-its-video-game-workforce-xbox-boss-phil-spencer-sends-memo-to-staff">memo to staff obtained by IGN</a>, Spencer said the cuts came as part of Microsoft's effort to align the company's "post-acquisition tea
+

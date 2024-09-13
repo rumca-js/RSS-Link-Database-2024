@@ -1,0 +1,548 @@
+# Source:Washington Examiner, URL:https://www.washingtonexaminer.com/feed, language:en-US
+
+## Where the New York City federal investigations stand after NYPD chief resigns
+ - [https://www.washingtonexaminer.com/news/justice/3152984/where-new-york-city-federal-investigations-stand-nypd-chief-resigns](https://www.washingtonexaminer.com/news/justice/3152984/where-new-york-city-federal-investigations-stand-nypd-chief-resigns)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T23:35:49+00:00
+
+Edward Caban, the New York City police commissioner, resigned on Thursday as federal investigations circle over several key components of Mayor Eric Adams&#8217;s administration. His resignation is the most significant occurrence of the four federal investigations enveloping City Hall, and the move shows that the investigations could deal more damage to the Adams administration before [&#8230;]
+
+## DOJ official asked to appear before Congress over Jack Smith ethics allegations
+ - [https://www.washingtonexaminer.com/news/justice/3152898/doj-official-asked-appear-before-congress-jack-smith-ethics-allegations](https://www.washingtonexaminer.com/news/justice/3152898/doj-official-asked-appear-before-congress-jack-smith-ethics-allegations)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T22:49:28+00:00
+
+The Republican-led House Judiciary Committee asked a Department of Justice official on Thursday to appear before Congress to discuss how the department has addressed allegations of ethical violations against special counsel Jack Smith&#8217;s office. Committee Chairman Jim Jordan (R-OH) wrote to Jeffrey Ragsdale, the head of the DOJ Office of Professional Responsibility, asking to arrange [&#8230;]
+
+## Trump ally Laura Loomer rebuked by White House and MAGA allies: ‘Stain on society’
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152897/trump-ally-laura-loomer-rebuked-white-house](https://www.washingtonexaminer.com/news/campaigns/presidential/3152897/trump-ally-laura-loomer-rebuked-white-house)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T22:32:36+00:00
+
+Both Republicans and Democrats are attacking Republican activist Laura Loomer over racially disparaging comments she recently made about Vice President Kamala Harris. Loomer, a strident supporter of former President Donald Trump, traveled with the former president&#8217;s team to the debate in Philadelphia, Pennsylvania. Loomer also was part of Trump&#8217;s travel party Wednesday to the Sept. [&#8230;]
+
+## 2024 Harris: ‘I’m not speaking’
+ - [https://www.washingtonexaminer.com/magazine/3152295/2024-harris-im-not-speaking](https://www.washingtonexaminer.com/magazine/3152295/2024-harris-im-not-speaking)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T22:04:33+00:00
+
+The political maxim that if you’re explaining, you’re losing was lit up incandescently by former President Donald Trump’s debate implosion.&#160; He should have spent all 90 minutes debunking Vice President Kamala Harris’s ludicrous claim to represent change from the dire governance for which she’s been jointly responsible since 2021. She pretends she dropped freshly out [&#8230;]
+
+## Chelsea Clinton claims Trump is scared to debate Harris again
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152879/chelsea-clinton-trump-scared-debate-harris-again](https://www.washingtonexaminer.com/news/campaigns/presidential/3152879/chelsea-clinton-trump-scared-debate-harris-again)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T21:40:39+00:00
+
+Chelsea Clinton, the daughter of former President Bill Clinton, cast doubt on another presidential debate taking place, claiming former President Donald Trump is scared to debate his opponent again. The debate between Trump and Vice President Kamala Harris marked the first time the two candidates came face-to-face on the 2024 campaign trail. The Harris campaign [&#8230;]
+
+## Harris eyes NABJ interview as next media sit-down after Trump controversy
+ - [https://www.washingtonexaminer.com/news/campaigns/3152922/harris-eyes-nabj-interview-next-media-sit-down](https://www.washingtonexaminer.com/news/campaigns/3152922/harris-eyes-nabj-interview-next-media-sit-down)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T21:31:19+00:00
+
+Vice President Kamala Harris appears to have locked in several more media sit-downs since she ascended to the top of the Democratic ticket in July.  Most notably, Harris is set to participate in a discussion with the National Association of Black Journalists, according to a statement released by the organization Thursday morning. The vice president’s [&#8230;]
+
+## Trump’s ‘great for women’ policies remain a mystery post-debate
+ - [https://www.washingtonexaminer.com/news/campaigns/3152753/trump-great-women-policies-remain-mystery-post-debate](https://www.washingtonexaminer.com/news/campaigns/3152753/trump-great-women-policies-remain-mystery-post-debate)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T21:17:43+00:00
+
+When former President Donald Trump invoked “reproductive rights” and said his administration would be “great for women” last month, Democrats and Republicans wondered if he was signaling a change in his policies. After Tuesday night’s debate against Vice President Kamala Harris, elaborations on his plans for women’s issues are still to be seen. The majority [&#8230;]
+
+## Unexpected bellwether? Polish Americans tend to predict presidential election outcome
+ - [https://www.washingtonexaminer.com/news/campaigns/3152530/polish-americans-tend-to-predict-presidential-election-outcome](https://www.washingtonexaminer.com/news/campaigns/3152530/polish-americans-tend-to-predict-presidential-election-outcome)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T21:07:37+00:00
+
+One of the most unexpected bellwethers in the United States is the Polish American community, which has correctly chosen almost every president since Woodrow Wilson. Since choosing Wilson in 1916, the Polish American vote has sided with the eventual presidential election winner in all but three votes, giving them an 89% success rate. The vote [&#8230;]
+
+## Kamala Harris calls for another debate after Trump pours cold water on it
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152051/kamala-harris-calls-for-another-debate](https://www.washingtonexaminer.com/news/campaigns/presidential/3152051/kamala-harris-calls-for-another-debate)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T21:02:49+00:00
+
+Vice President Kamala Harris pushed for a second presidential debate against former President Donald Trump less than one hour after he unequivocally stated he would not participate in another onstage matchup. &#8220;Two nights ago, Donald Trump and I had our first debate, and I believe we owe it to the voters to have another debate,&#8221; [&#8230;]
+
+## Germany and Spain exemplify EU’s foreign policy crisis on China and Russia
+ - [https://www.washingtonexaminer.com/opinion/3152599/germany-and-spain-exemplify-eus-foreign-policy-crisis-on-china-and-russia](https://www.washingtonexaminer.com/opinion/3152599/germany-and-spain-exemplify-eus-foreign-policy-crisis-on-china-and-russia)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:53:28+00:00
+
+The European Union has 27 member states. It&#8217;s understandable, then, that the EU finds it difficult to come to quick or decisive decisions on important matters. But in order to advance its raison d&#8217;être of expanding European federalism, prosperity and influence, the EU must accomplish two tasks. First, it must retain and increase the support [&#8230;]
+
+## Biden’s Trump hat moment was about ‘unity’: White House
+ - [https://www.washingtonexaminer.com/news/white-house/3152871/joe-biden-trump-hat-moment-about-unity](https://www.washingtonexaminer.com/news/white-house/3152871/joe-biden-trump-hat-moment-about-unity)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:35:05+00:00
+
+The White House claimed Thursday that President Joe Biden&#8216;s decision to don a Trump hat at a Pennsylvania fire station on Wednesday was an attempt to broker &#8220;unity&#8221; between Republicans and Democrats. The incident occurred while Biden and Vice President Kamala Harris were visiting with first responders and their families in Shanksville, Pennsylvania, the site where [&#8230;]
+
+## Trump gets pushback from FCC chairwoman over post-debate ABC licensing comments
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152755/trump-pushback-fcc-chairwoman-abc-licensing-comments](https://www.washingtonexaminer.com/news/campaigns/presidential/3152755/trump-pushback-fcc-chairwoman-abc-licensing-comments)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:26:21+00:00
+
+The Federal Communications Commission rebuffed former President Donald Trump for saying ABC’s license should be revoked after his debate on the network against Vice President Kamala Harris. The FCC’s Democratic chairwoman declared Thursday that her agency would not pursue Trump’s request to “take away” ABC’s broadcasting license. “The FCC does not revoke licenses for broadcast [&#8230;]
+
+## Blinken fails to comply with House subpoena and faces contempt resolution
+ - [https://www.washingtonexaminer.com/news/house/3152845/blinken-fails-comply-subpoena-faces-contempt](https://www.washingtonexaminer.com/news/house/3152845/blinken-fails-comply-subpoena-faces-contempt)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:26:20+00:00
+
+The House Foreign Affairs Committee will move forward with a resolution to hold Secretary of State Antony Blinken in contempt of Congress after the top Biden administration official failed to comply with a subpoena to testify on the U.S. withdrawal from Afghanistan.&#160; The committee will meet for a full markup on the resolution next week, [&#8230;]
+
+## North Dakota abortion ban struck down by judge
+ - [https://www.washingtonexaminer.com/news/justice/3152507/north-dakota-abortion-ban-struck-down-judge](https://www.washingtonexaminer.com/news/justice/3152507/north-dakota-abortion-ban-struck-down-judge)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:18:47+00:00
+
+A judge in North Dakota struck down the state&#8217;s abortion law, ruling it unconstitutional due to &#8220;vagueness&#8221; and the &#8220;fundamental right to choose abortion before viability&#8221; in the state constitution. The Thursday ruling is the latest turn in North Dakota&#8217;s abortion law since the Supreme Court&#8217;s June 2022 decision in Dobbs v. Jackson Women&#8217;s Health [&#8230;]
+
+## National Security Agency launches podcast
+ - [https://www.washingtonexaminer.com/policy/national-security/3152721/national-security-agency-podcast](https://www.washingtonexaminer.com/policy/national-security/3152721/national-security-agency-podcast)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:17:51+00:00
+
+The National Security Agency, known for its inconspicuous operations, has launched a podcast &#8220;to share the stories of the world’s best codemakers and codebreakers.&#8221; No Such Podcast, a play on words to the agency’s nickname No Such Agency, launched on Sept. 5 with the first episode breaking down how the federal agency assisted in the [&#8230;]
+
+## Daily on Energy: Oil and gas bill to Biden’s desk, a record-hot August, and…Goodbye, Nancy!
+ - [https://www.washingtonexaminer.com/daily-on-energy/3152890/daily-on-energy-oil-and-gas-bill-to-bidens-desk-a-record-hot-august-and-goodbye-nancy](https://www.washingtonexaminer.com/daily-on-energy/3152890/daily-on-energy-oil-and-gas-bill-to-bidens-desk-a-record-hot-august-and-goodbye-nancy)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:11:32+00:00
+
+ICYMI: The Senate unanimously passed oil and gas royalty legislation Wednesday night – sending the popular bill to the White House after it passed the House in a similar bipartisan manner in July.&#160; What the bill does: Dubbed the “Royalty Resiliency Act,” the measure introduced by Texas Republican Rep. Wesley Hunt is meant to improve [&#8230;]
+
+## Will the fact checkers ever fact-check themselves?
+ - [https://www.washingtonexaminer.com/opinion/3152698/will-fact-checkers-ever-fact-check-themselves](https://www.washingtonexaminer.com/opinion/3152698/will-fact-checkers-ever-fact-check-themselves)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:11:14+00:00
+
+Tuesday night’s debate between former President Donald Trump and Vice President Kamala Harris on ABC was the worst-moderated presidential debate in modern history. Following in the footsteps of leftist hacks such as CNN’s Candy Crowley and John Harwood, anchors Linsey Davis and David Muir covered themselves in shame, constantly interrupting and “fact-checking” Trump. Clearly, the [&#8230;]
+
+## Trump declares there will not be a third debate days after contest against Harris
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152769/trump-declares-not-be-third-debate-days-contest-harris](https://www.washingtonexaminer.com/news/campaigns/presidential/3152769/trump-declares-not-be-third-debate-days-contest-harris)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:03:36+00:00
+
+Former President Donald Trump stamped out the possibility of a third 2024 presidential debate between him and Vice President Kamala Harris. &#8220;When a prizefighter loses a fight, the first words out of his mouth are, &#8216;I WANT A REMATCH,'&#8221; Trump wrote on Truth Social Thursday. &#8220;Polls clearly show that I won the Debate against Comrade [&#8230;]
+
+## Georgia judge dismisses two charges against Trump in RICO case
+ - [https://www.washingtonexaminer.com/news/justice/3152812/georgia-judge-dismisses-two-charges-against-in-rico-case](https://www.washingtonexaminer.com/news/justice/3152812/georgia-judge-dismisses-two-charges-against-in-rico-case)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:01:33+00:00
+
+A Georgia judge dismissed three criminal charges on Thursday in the 2020 election interference case involving former President Donald Trump. Fulton County Superior Court Judge Scott McAfee dismissed two counts brought against Trump, and additionally dropped one charge against some of Trump’s allies. The initial 41-count indictment accused Trump and several of his co-defendants of [&#8230;]
+
+## Garland speech on DOJ impartiality met with skepticism from critics: ‘A little late’
+ - [https://www.washingtonexaminer.com/news/justice/3152690/garland-speech-doj-impartiality-met-skepticism](https://www.washingtonexaminer.com/news/justice/3152690/garland-speech-doj-impartiality-met-skepticism)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T20:01:10+00:00
+
+Attorney General Merrick Garland praised his employees on Thursday for their impartiality in the wake of his Justice Department pursuing some of the most politically fraught prosecutions in history. Garland spoke about DOJ “norms” more than a dozen times during his remarks, which he delivered to the department’s workforce during an annual conference of U.S. [&#8230;]
+
+## Pro-life vote can still go to Trump
+ - [https://www.washingtonexaminer.com/opinion/3152731/pro-life-vote-go-donald-trump](https://www.washingtonexaminer.com/opinion/3152731/pro-life-vote-go-donald-trump)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T19:59:45+00:00
+
+Donald Trump is far from an ideal candidate, but pro-life voters can still vote for the former president. While Trump has retreated on the issue of abortion, Vice President Kamala Harris’s extremism makes the alternative unacceptable. The position of some pro-life advocates, such as Live Action founder Lila Rose, is that pro-life voters should not [&#8230;]
+
+## Goldman Sachs CEO contends Harris grossly overstated economic boost that her policies would bring
+ - [https://www.washingtonexaminer.com/policy/economy/3152671/goldman-sachs-ceo-kamala-harris-overstated-economic-boost-policies-would-bring](https://www.washingtonexaminer.com/policy/economy/3152671/goldman-sachs-ceo-kamala-harris-overstated-economic-boost-policies-would-bring)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T19:55:04+00:00
+
+Goldman Sachs CEO David Solomon suggested Vice President Kamala Harris overemphasized the positive effect her plan for the economy would have on gross domestic product. Solomon’s economists predicted earlier this month that the United States’s GDP could take a hit in a hypothetical victory by former President Donald Trump in 2024, whereas a Harris 2024 [&#8230;]
+
+## WATCH LIVE: Harris holds rally in Charlotte, North Carolina
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152807/watch-live-harris-holds-rally-charlotte-north-carolina](https://www.washingtonexaminer.com/news/campaigns/presidential/3152807/watch-live-harris-holds-rally-charlotte-north-carolina)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T19:53:43+00:00
+
+Vice President Kamala Harris is holding a rally in Charlotte, North Carolina, on Tuesday at about 3:30 p.m. CLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER North Carolina is considered a critical state for Harris&#8217;s campaign. The state largely leaned toward former President Donald Trump while President Joe Biden was running but is considered [&#8230;]
+
+## Access to the Oval Office runs through a Dinor
+ - [https://www.washingtonexaminer.com/opinion/3152737/access-to-oval-office-runs-through-dinor](https://www.washingtonexaminer.com/opinion/3152737/access-to-oval-office-runs-through-dinor)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T19:50:10+00:00
+
+WATERFORD, Pennsylvania — In and around this tiny Erie County borough in northwestern Pennsylvania, the handful of broad-windowed storefronts, generous sidewalks, and the gazebo located in the middle of the town square function quite nicely without much attention. A favorite of my family on trips to Lake Erie was a backroad visit to Betty’s Dinor. [&#8230;]
+
+## Real ID requirements delayed another two years as DHS proposes a phased-in approach
+ - [https://www.washingtonexaminer.com/policy/national-security/3152693/real-id-requirements-delayed-two-years](https://www.washingtonexaminer.com/policy/national-security/3152693/real-id-requirements-delayed-two-years)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T19:44:08+00:00
+
+The deadline to obtain a Real ID to use as identification to travel in U.S. airports has been effectively extended — again. The Department of Homeland Security proposed pushing back the hard deadline into 2027, citing a low percentage of people who have a Real ID. It will someday be required to fly if one [&#8230;]
+
+## DC Councilman Trayon White pleads not guilty to bribery charges
+ - [https://www.washingtonexaminer.com/news/crime/3152528/dc-councilman-trayon-white-pleads-not-guilty-bribery-charges](https://www.washingtonexaminer.com/news/crime/3152528/dc-councilman-trayon-white-pleads-not-guilty-bribery-charges)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T18:41:07+00:00
+
+District of Columbia Councilman Trayon White pleaded not guilty to bribery charges when he appeared in court on Thursday for his arraignment. White faces one federal indictment after video footage showed him accepting $156,000 in bribes in exchange for using his position as the chairman of the D.C. Department of Youth Rehabilitation Services to pressure [&#8230;]
+
+## Caitlin Clark encourages voters to educate themselves while declining to endorse Harris
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152406/caitlin-clark-encourages-voters-educate-themselves](https://www.washingtonexaminer.com/news/campaigns/presidential/3152406/caitlin-clark-encourages-voters-educate-themselves)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T18:37:27+00:00
+
+Indiana Fever star Caitlin Clark advocated informed voting when asked about potentially endorsing Vice President Kamala Harris, arguing people should continue to educate themselves ahead of the election. Clark’s statement comes shortly after musician Taylor Swift endorsed Harris in the 2024 election via an Instagram post. Ahead of Wednesday night’s WNBA game between the Indiana [&#8230;]
+
+## Schumer deputy says ‘good fortune’ needed to beat Trump record on judges
+ - [https://www.washingtonexaminer.com/news/senate/3152480/schumer-durbin-good-fortune-beat-trump-record-judges](https://www.washingtonexaminer.com/news/senate/3152480/schumer-durbin-good-fortune-beat-trump-record-judges)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T18:27:59+00:00
+
+Senate Majority Leader Chuck Schumer’s (D-NY) top lieutenant expressed a dose of skepticism that Democrats will be able to beat the record number of judges former President Donald Trump appointed during his four years in office. Sen. Dick Durbin (D-IL), the majority whip and chairman of the Senate Judiciary Committee, told the Washington Examiner on [&#8230;]
+
+## Cornel West disqualified from running in Georgia, will remain on the ballot
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152537/cornel-west-disqualified-from-running-in-georgia-will-remain-on-the-ballot](https://www.washingtonexaminer.com/news/campaigns/presidential/3152537/cornel-west-disqualified-from-running-in-georgia-will-remain-on-the-ballot)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T18:21:56+00:00
+
+Liberal independent presidential candidate Cornel West has been disqualified from running in the presidential election on Georgia’s ballot ahead of the November election.&#160; Two state court judges ruled Wednesday that West and socialist candidate Claudia De la Cruz have been disqualified from the ballot because their electors did not file the proper paperwork. Some ballots [&#8230;]
+
+## House lawmakers ready to turn page on spending battle as GOP discusses paths forward
+ - [https://www.washingtonexaminer.com/news/house/3152451/house-ready-turn-page-spending-battle-gop-discusses-paths-forward](https://www.washingtonexaminer.com/news/house/3152451/house-ready-turn-page-spending-battle-gop-discusses-paths-forward)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T18:06:22+00:00
+
+House lawmakers on both sides of the aisle are ready to move on from the latest spending battle as Republican leadership fights for a way to pass a continuing resolution under fire from hard-line Republicans. House Speaker Mike Johnson (R-LA) was forced to scrap a vote on the spending bill just hours before it was [&#8230;]
+
+## The national security threats America faces aren’t just external
+ - [https://www.washingtonexaminer.com/restoring-america/3151236/the-national-security-threats-america-faces-arent-just-external](https://www.washingtonexaminer.com/restoring-america/3151236/the-national-security-threats-america-faces-arent-just-external)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T18:00:00+00:00
+
+What British historian Eric Hobsbawm once called the “short 20th century” was thought to have ended in 1989 with the Cold War victory of the United States and its allies. Yet today, the U.S. is faced with an increasingly powerful and assertive axis of China, Russia, Iran, and their proxies, united by a shared aim [&#8230;]
+
+## Ben & Jerry’s co-founders create ‘Kamala’s Coconut Jubilee’ ice cream to motivate voters
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152165/ben-and-jerrys-kamalas-coconut-jubilee-ice-cream](https://www.washingtonexaminer.com/news/campaigns/presidential/3152165/ben-and-jerrys-kamalas-coconut-jubilee-ice-cream)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T17:55:37+00:00
+
+The co-founders of Ben &#38; Jerry’s have debuted a new ice cream flavor in honor of Vice President Kamala Harris in a bid to motivate people to register to vote ahead of the election. The coconut-flavored ice cream, “Kamala’s Coconut Jubilee,” is a reference to Harris’s famous “fell out of a coconut tree” statement and [&#8230;]
+
+## WATCH LIVE: Trump holds first rally since debate in Tucson, Arizona
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3152252/trump-holds-first-rally-since-debate-tucson](https://www.washingtonexaminer.com/news/campaigns/presidential/3152252/trump-holds-first-rally-since-debate-tucson)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T17:42:17+00:00
+
+Former President Donald Trump is holding a campaign rally in the battleground state of Arizona, just days after his debate against Vice President Kamala Harris. CLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER Trump is scheduled to begin speaking at 5 p.m. EDT from Tucson. Trump&#8217;s campaign said his remarks will be focused on [&#8230;]
+
+## Bomb threat closes Springfield, Ohio, City Hall after claims about migrants
+ - [https://www.washingtonexaminer.com/news/3152364/bomb-threat-shuts-down-springfield-ohio-city-hall-claims-migrants](https://www.washingtonexaminer.com/news/3152364/bomb-threat-shuts-down-springfield-ohio-city-hall-claims-migrants)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T17:36:11+00:00
+
+Springfield, Ohio, closed its City Hall on Thursday after a bomb threat was sent to multiple agencies earlier in the day, city officials said. The city has recently been the center of unfounded claims about Haitian migrants stealing and eating the pets of residents. Officials in Springfield announced the closure Thursday morning, saying they received [&#8230;]
+
+## WATCH LIVE: Biden gives remarks ahead of 30th anniversary of the Violence Against Women Act
+ - [https://www.washingtonexaminer.com/news/senate/3152292/joe-biden-gives-remarks-30th-anniversary-violence-against-women-act](https://www.washingtonexaminer.com/news/senate/3152292/joe-biden-gives-remarks-30th-anniversary-violence-against-women-act)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T17:35:11+00:00
+
+President Joe Biden delivers remarks to commemorate the 30th anniversary of the Violence Against Women Act. CLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER Biden wrote the bill when he was in the Senate, and through its passage, the federal government has strengthened its protections and support for domestic violence and rape victims. The [&#8230;]
+
+## Iran turning to criminal groups to attack exiled dissidents
+ - [https://www.washingtonexaminer.com/news/world/3152162/iran-turning-criminal-groups-attack-exiled-dissidents](https://www.washingtonexaminer.com/news/world/3152162/iran-turning-criminal-groups-attack-exiled-dissidents)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T17:13:28+00:00
+
+The Iranian government has begun outsourcing assassinations and violent attacks against exiled dissidents to criminal groups as Western security services become more vigilant. Iran has drastically increased its foreign espionage operations in recent years, especially after a series of violent protests over the death of a woman under the custody of the morality police in [&#8230;]
+
+## Schumer expected to put GOP on defense by reupping vote on IVF proposal
+ - [https://www.washingtonexaminer.com/news/senate/3152313/chuck-schumer-gop-on-defense-ivf-proposal](https://www.washingtonexaminer.com/news/senate/3152313/chuck-schumer-gop-on-defense-ivf-proposal)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T17:10:26+00:00
+
+Senate Majority Leader Chuck Schumer (D-NY) is planning a second vote on an IVF bill that resembles a proposal from former President Donald Trump, a strategy to put Republicans in the hot seat over reproductive politics ahead of the election. The New York senator is planning a secondary vote on a bill that Senate Democrats [&#8230;]
+
+## The most important question of the campaign, and Kamala Harris flubbed it
+ - [https://www.washingtonexaminer.com/opinion/columnists/3152412/most-important-question-campaign-kamala-harris-flubbed](https://www.washingtonexaminer.com/opinion/columnists/3152412/most-important-question-campaign-kamala-harris-flubbed)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T16:55:37+00:00
+
+THE MOST IMPORTANT QUESTION OF THE CAMPAIGN, AND KAMALA HARRIS FLUBBED IT. It&#8217;s clear that Democrats and their allies in the press are euphoric over what they see as Vice President Kamala Harris&#8216;s overwhelming victory over former President Donald Trump in the first and possibly only presidential debate. But at the same time, there is a [&#8230;]
+
+## California weighs handing out phone subsidies to illegal immigrants
+ - [https://www.washingtonexaminer.com/policy/immigration/3152168/california-weighs-phone-subsidies-illegal-immigrants](https://www.washingtonexaminer.com/policy/immigration/3152168/california-weighs-phone-subsidies-illegal-immigrants)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T16:52:44+00:00
+
+California could become the first state in the nation to distribute phone discounts to illegal immigrants. The California Public Utilities Commission is considering eliminating the requirement that residents provide a Social Security number to qualify for California LifeLine, the government-run program that gives phone subsidies to low-income residents. Expanding California LifeLine to include undocumented immigrants would [&#8230;]
+
+## House GOP passes raft of bills contrasting China policies with Biden-Harris
+ - [https://www.washingtonexaminer.com/policy/national-security/3148072/house-gop-passes-bills-contrasting-china-policies-biden-harris](https://www.washingtonexaminer.com/policy/national-security/3148072/house-gop-passes-bills-contrasting-china-policies-biden-harris)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T16:34:35+00:00
+
+The Republican-led House of Representatives passed a tranche of legislation this week designed to curb China’s growing influence and present a contrast with the Biden-Harris administration. The bills are designed to target China in a number of ways, including by restarting a program to counter Chinese espionage and further restricting so-called Confucius Institutes at colleges [&#8230;]
+
+## Chicago to close three shelters by end of October as migrant arrivals fall
+ - [https://www.washingtonexaminer.com/policy/immigration/3152291/chicago-close-three-migrant-shelters-end-october-arrivals-fall](https://www.washingtonexaminer.com/policy/immigration/3152291/chicago-close-three-migrant-shelters-end-october-arrivals-fall)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T16:23:33+00:00
+
+The city of Chicago will close three migrant shelters by the end of next month, citing empty beds and a move toward consolidation as it reassesses the crisis that has affected the city for nearly a year. Migrant shelters in Chicago&#8217;s Pilsen, West Town, and Kenwood neighborhoods will close by the end of October. Chicago [&#8230;]
+
+## Taylor Swift wasted her presidential endorsement
+ - [https://www.washingtonexaminer.com/opinion/3152214/taylor-swift-wasted-her-presidential-endorsement](https://www.washingtonexaminer.com/opinion/3152214/taylor-swift-wasted-her-presidential-endorsement)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T16:12:48+00:00
+
+Taylor Swift’s endorsement of Vice President Kamala Harris may fizzle out quickly, and that’s great news for Republicans. Immediately after the first presidential debate between former President Donald Trump and Harris, Swift&#160;posted on Instagram&#160;that she would vote for the Democratic ticket, signing off as a “Childless Cat Lady,” a not-so-subtle&#160;jab&#160;at Trump’s running mate, Sen. J.D. Vance (R-OH).&#160;Both [&#8230;]
+
+## Trump gag order appeal rejected by top New York court
+ - [https://www.washingtonexaminer.com/news/justice/3152199/trump-gag-order-appeal-rejected-top-new-york-court](https://www.washingtonexaminer.com/news/justice/3152199/trump-gag-order-appeal-rejected-top-new-york-court)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T16:07:32+00:00
+
+The highest court in New York rejected a request by former President Donald Trump to lift the gag order imposed on him in his Manhattan hush money case. Under the gag order issued by trial Judge Juan Merchan, Trump is barred from disparaging prosecutors working for Manhattan District Attorney Alvin Bragg&#8217;s office, as well as [&#8230;]
+
+## Congressional Democrats eyeing guardrails on sports betting
+ - [https://www.washingtonexaminer.com/news/house/3152025/congressional-democrats-guardrails-sports-betting](https://www.washingtonexaminer.com/news/house/3152025/congressional-democrats-guardrails-sports-betting)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:58:07+00:00
+
+Sports betting has spread nationwide since the Supreme Court struck down a federal prohibition on it in 2018. But now, two congressional Democrats are seeking to add guardrails to how sportsbooks may advertise and operate. Sports betting is legal in 38 states, including the District of Columbia, as of September 2024, but little has been [&#8230;]
+
+## Harris grasps for absurdities
+ - [https://www.washingtonexaminer.com/opinion/3151576/harris-grasps-absurdities](https://www.washingtonexaminer.com/opinion/3151576/harris-grasps-absurdities)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:43:45+00:00
+
+Sen. J.D. Vance (R-OH) is correct that it took absurd-sounding claims of petnapping to turn the media&#8217;s attention toward Springfield, Ohio, residents. Following the first presidential debate between former President Donald Trump and Vice President Kamala Harris, Vance fielded questions from a CNN reporter on the recent publicity around stories of Haitian immigrants killing and [&#8230;]
+
+## How was there not one debate question about the assassination attempt on Trump?
+ - [https://www.washingtonexaminer.com/opinion/3152076/debate-question-assassination-attempt-trump](https://www.washingtonexaminer.com/opinion/3152076/debate-question-assassination-attempt-trump)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:40:07+00:00
+
+Tuesday’s debate between former President Donald Trump and Vice President Kamala Harris featured questions about many topics, from immigration to abortion to foreign affairs to economic policies, among others. Yet one major incident in the country that occurred less than two months ago was conspicuously absent from last night’s line of questioning: the assassination attempt [&#8230;]
+
+## Foreign policy of Harris, Trump pivotal to $66B military economic impact
+ - [https://www.washingtonexaminer.com/news/3152249/foreign-policy-of-harris-trump-pivotal-to-66b-military-economic-impact](https://www.washingtonexaminer.com/news/3152249/foreign-policy-of-harris-trump-pivotal-to-66b-military-economic-impact)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:38:51+00:00
+
+(The Center Square)&#160;– As Vice President Kamala Harris and former President Donald Trump sparred on the debate stage on Tuesday night about the role of the American military on the world stage, there is no doubt that servicemen around the country were paying close attention. Any potential policy changes would have a unique impact on [&#8230;]
+
+## Rep questions number of administrators at UW schools
+ - [https://www.washingtonexaminer.com/news/3152248/rep-questions-number-of-administrators-at-uw-schools](https://www.washingtonexaminer.com/news/3152248/rep-questions-number-of-administrators-at-uw-schools)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:37:16+00:00
+
+(The Center Square) –&#160;A state lawmaker wants a full accounting of how the University of Wisconsin System has thousands of more administrators now than it did 30 years ago, despite having fewer teachers. State Rep. David Steffen told The Center Square on Wednesday the UW system has hired 6,000 administrators over the past 30 years. [&#8230;]
+
+## Growing demand for power, but no clean plan for PJM
+ - [https://www.washingtonexaminer.com/news/3152231/growing-demand-for-power-but-no-clean-plan-for-pjm](https://www.washingtonexaminer.com/news/3152231/growing-demand-for-power-but-no-clean-plan-for-pjm)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:31:10+00:00
+
+(The Center Square) — Americans will be using more power in the near future. The problem in the long run is how to generate it. The Energy Information Agency’s short-term energy outlook noted that the U.S. will&#160;generate 3% more electricity&#160;than last year, thanks to “a hot start to the summer.” It expects another 1% increase [&#8230;]
+
+## Both Canada and the US could have new leaders next year
+ - [https://www.washingtonexaminer.com/opinion/beltway-confidential/3152048/both-canada-us-could-have-new-leaders](https://www.washingtonexaminer.com/opinion/beltway-confidential/3152048/both-canada-us-could-have-new-leaders)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:28:59+00:00
+
+The odds that both Canada and the United States will elect new leaders before the end of the year have increased significantly in the last few days. Of course, the presidential election in the U.S. this year has always been set for Nov. 5, but in Canada&#8217;s parliamentary system, a general election was not expected [&#8230;]
+
+## Opportunity Scholarships, ICE cooperation bill heads to governor
+ - [https://www.washingtonexaminer.com/news/3152188/opportunity-scholarships-ice-cooperation-bill-heads-to-governor](https://www.washingtonexaminer.com/news/3152188/opportunity-scholarships-ice-cooperation-bill-heads-to-governor)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T15:26:23+00:00
+
+(The Center Square) – Three Democrats joined 64 Republicans in passage Wednesday of legislation that both erases a student waiting list of 55,000 for Opportunity Scholarships, and requires sheriffs to cooperate with federal immigration law enforcement. House Bill 10, known also as Require ICE Cooperation &#38; Budget Adjustments, passed 67-43 and next goes to Gov. [&#8230;]
+
+## Industry groups appeal court order threatening Gulf of Mexico oil production
+ - [https://www.washingtonexaminer.com/policy/energy-and-environment/3152028/industry-groups-appeal-court-order-threatening-gulf-mexico-oil-production](https://www.washingtonexaminer.com/policy/energy-and-environment/3152028/industry-groups-appeal-court-order-threatening-gulf-mexico-oil-production)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T14:23:17+00:00
+
+The American Petroleum Institute, the largest oil trade group in the United States, has joined forces with several other top energy industry organizations to protest a court order they claim threatens oil and gas production in the Gulf of Mexico.  API, EnerGeo Alliance, the National Ocean Industries Association, and Chevron USA said the order puts [&#8230;]
+
+## SpaceX crew performs first-ever commercial spacewalk
+ - [https://www.washingtonexaminer.com/policy/space/3152014/spacex-crew-first-commercial-spacewalk](https://www.washingtonexaminer.com/policy/space/3152014/spacex-crew-first-commercial-spacewalk)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T14:12:50+00:00
+
+A SpaceX crew has performed the first-ever commercial spacewalk. Jared Isaacman, mission commander and funder, and SpaceX engineer Sarah Gillis were given the honor of the historic event, with the former venturing out of the Crew Dragon capsule first. The live-streamed walk occurred 430 miles above the Earth, the furthest away from the planet humans [&#8230;]
+
+## Florida Democrats say state is in play but aren’t putting money where their mouth is
+ - [https://www.washingtonexaminer.com/news/campaigns/3151958/florida-democrats-claim-state-play-arent-putting-money](https://www.washingtonexaminer.com/news/campaigns/3151958/florida-democrats-claim-state-play-arent-putting-money)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T14:03:31+00:00
+
+Florida Democrats have been saying the Sunshine State, which has increasingly shifted toward Republicans in recent years, is in play in November, but the spending in the race has not backed up their claims. Former President Donald Trump and Sen. Rick Scott (R-FL) are expected to win the presidential and Senate races in Florida in [&#8230;]
+
+## On immigration, cats, dogs, and transgender surgery
+ - [https://www.washingtonexaminer.com/opinion/3152022/on-immigration-cats-dogs-and-transgender-surgery](https://www.washingtonexaminer.com/opinion/3152022/on-immigration-cats-dogs-and-transgender-surgery)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T13:55:54+00:00
+
+Few moments from Tuesday night’s presidential debate have had greater resonance than President Donald Trump’s claim that migrants in Springfield, Ohio, are eating pets. In a larger attack on Vice President Kamala Harris’s record, Trump said: “And look at what&#8217;s happening to the towns all over the United States. And a lot of towns don&#8217;t [&#8230;]
+
+## Iowa Supreme Court kicks Libertarian candidates off the ballot in final decision
+ - [https://www.washingtonexaminer.com/news/campaigns/congressional/3151989/iowa-supreme-court-kicks-libertarian-candidates-off-ballot](https://www.washingtonexaminer.com/news/campaigns/congressional/3151989/iowa-supreme-court-kicks-libertarian-candidates-off-ballot)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T13:27:45+00:00
+
+Three congressional Libertarian candidates will not appear on the ballot in Iowa after the Iowa Supreme Court determined the Libertarian Party did not follow the law when nominating them. The court’s unanimous ruling marks the final decision after previous decisions invalidating their candidacy. Libertarian candidates Nicholas Gluba in the 1st District, Marco Battaglia in the [&#8230;]
+
+## James Comer requests FBI documents on Tim Walz’s China ties
+ - [https://www.washingtonexaminer.com/news/house/3151231/james-comer-requests-fbi-documents-tim-walzs-china](https://www.washingtonexaminer.com/news/house/3151231/james-comer-requests-fbi-documents-tim-walzs-china)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T13:00:00+00:00
+
+EXCLUSIVE — Rep. James Comer (R-KY), House Oversight Committee chairman, is expanding his investigation into Gov. Tim Walz&#8216;s (D-MN) ties to China, citing a recent Washington Examiner report on Walz promoting a China-linked research institute. In a letter Thursday to FBI Director Christopher Wray, Comer raised concerns over Walz&#8217;s promotion, as Minnesota&#8217;s governor, of a [&#8230;]
+
+## Political Perspectives: Lackluster ABC debate from Trump
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3151459/lackluster-debate-from-donald-trump](https://www.washingtonexaminer.com/news/campaigns/presidential/3151459/lackluster-debate-from-donald-trump)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T13:00:00+00:00
+
+Washington Examiner chief political correspondent Byron York joins editor-in-chief Hugo Gurdon to discuss the presidential debate hosted by ABC News, former President Donald Trump&#8216;s lackluster performance against Vice President Kamala Harris, why Trump didn&#8217;t use his closing statement to show Harris is not the candidate of change and hope, the ABC News moderators&#8217; biased fact checks [&#8230;]
+
+## Inflation dropped to 1.7% in August in producer price index
+ - [https://www.washingtonexaminer.com/policy/finance-and-economy/3151645/inflation-dropped-to-1-7-in-august-in-producer-price-index](https://www.washingtonexaminer.com/policy/finance-and-economy/3151645/inflation-dropped-to-1-7-in-august-in-producer-price-index)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T12:33:51+00:00
+
+Inflation, as measured by the producer price index, declined four-tenths of a percentage point to 1.7% for the year ending in August, the Bureau of Labor Statistics reported on Thursday. The decline in inflation, which was anticipated by forecasters, is good news for the Federal Reserve and Vice President Kamala Harris as she campaigns for president. Annual PPI inflation [&#8230;]
+
+## Wake up with the Washington Examiner: Kroger goes court shopping, and Harris tries to make ‘change’ happen
+ - [https://www.washingtonexaminer.com/news/campaigns/3151962/wake-up-washington-examiner-kroger-shopping-harris-tries-make-change-happen](https://www.washingtonexaminer.com/news/campaigns/3151962/wake-up-washington-examiner-kroger-shopping-harris-tries-make-change-happen)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T12:29:31+00:00
+
+Court shopping The mega merger of Kroger and Albertsons is poised to do more than change the signs and prices at your supermarket. As the grocery giants fight with attorneys general in several states, a pivotal showdown with the Federal Trade Commission in Ohio could wind up expanding Kroger’s brand and hobbling the administrative state [&#8230;]
+
+## Riley Gaines’s Trans-fixed docuseries delves into ‘injustice’ of transgender movement
+ - [https://www.washingtonexaminer.com/news/entertainment/3151512/riley-gaines-trans-fixed-docuseries-injustice-transgender-movement](https://www.washingtonexaminer.com/news/entertainment/3151512/riley-gaines-trans-fixed-docuseries-injustice-transgender-movement)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T12:00:00+00:00
+
+EXCLUSIVE — Outkick’s Gaines for Girls podcast host Riley Gaines debuted her new documentary series, Trans-fixed, to the Washington Examiner ahead of its release Thursday. The new docuseries explores the danger and “injustice” that the transgender movement poses. The miniseries, consisting of four episodes, begins with a look at the impact that transgender ideology has [&#8230;]
+
+## Emboldened Democrats adopt Trump’s ‘anytime, anyplace’ debate mantra
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3151544/democrats-cheer-harris-trump-second-debate](https://www.washingtonexaminer.com/news/campaigns/presidential/3151544/democrats-cheer-harris-trump-second-debate)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T11:19:03+00:00
+
+Democrats are chomping at the bit for Vice President Kamala Harris to go a second round on the debate stage following Tuesday night’s strong performance against former President Donald Trump. Her allies on Capitol Hill have borrowed a mantra Trump once used to taunt her and his formal rival, President Joe Biden: &#8220;anytime, anywhere, anyplace.&#8221; [&#8230;]
+
+## Biden and Starmer to meet as decision nears on plan to allow Ukraine to use Western weapons for deeper strikes into Russia.
+ - [https://www.washingtonexaminer.com/policy/defense/3151942/biden-and-starmer-to-meet-as-decision-nears-on-plan-to-allow-ukraine-to-use-western-weapons-for-deeper-strikes-into-russia](https://www.washingtonexaminer.com/policy/defense/3151942/biden-and-starmer-to-meet-as-decision-nears-on-plan-to-allow-ukraine-to-use-western-weapons-for-deeper-strikes-into-russia)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T11:04:10+00:00
+
+BLINKEN: ‘WE WANT UKRAINE TO WIN’: The U.S. and the U.K. appear close to approving a plan that would loosen the restrictions placed on the use of Western long-range weapons by Ukraine to counter Russia’s relentless attacks on civilian targets and vital energy infrastructure. President Joe Biden and British Prime Minister Keir Starmer will confer [&#8230;]
+
+## How a small city in Ohio became the epicenter of the immigration debate
+ - [https://www.washingtonexaminer.com/policy/immigration/3151198/how-springfield-ohio-became-epicenter-immigration-debate](https://www.washingtonexaminer.com/policy/immigration/3151198/how-springfield-ohio-became-epicenter-immigration-debate)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T11:00:00+00:00
+
+A quiet Midwestern community has become the latest battleground over immigration after Republicans leveled unfounded claims that Haitians were kidnapping and eating neighbors&#8217; pets. The city of Springfield, Ohio, had roughly 60,000 residents as of 2022. In the two years since then, thousands of migrants have arrived, mostly from Haiti. Although some have welcomed the [&#8230;]
+
+## Social Security update: October direct payment worth $943 goes out in 19 days
+ - [https://www.washingtonexaminer.com/policy/finance-and-economy/3151213/social-security-update-october-direct-payment-19-days](https://www.washingtonexaminer.com/policy/finance-and-economy/3151213/social-security-update-october-direct-payment-19-days)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T11:00:00+00:00
+
+October’s Supplemental Security Income payment, worth up to $943, will go out to millions of beneficiaries in 19 days. The October SSI payments will be distributed on Oct. 1 and are given to people living with&#160;debilitating disabilities&#160;that affect their income, according to the&#160;Social Security Administration. Filers need to be at least partially blind or have a “physical or mental [&#8230;]
+
+## Social Security update: Second round of September payments worth $4,873 go out in six days
+ - [https://www.washingtonexaminer.com/policy/finance-and-economy/3151299/social-security-second-round-september-payments-six-days](https://www.washingtonexaminer.com/policy/finance-and-economy/3151299/social-security-second-round-september-payments-six-days)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T11:00:00+00:00
+
+The second round of September’s&#160;Social Security&#160;payments, worth up to $4,873 for&#160;the highest-income earners&#160;who retire at age 70, will go out to the next group of&#160;retirees in six days. Here is all you need to know about this month’s Social Security payments, which go out in three rounds. What is it? The Social Security Act was [&#8230;]
+
+## Gas prices: Decreases continue at the pump as 13 states now have prices under $3 per gallon
+ - [https://www.washingtonexaminer.com/news/3151934/gas-prices-decreases-continue-at-the-pump-as-13-states-now-have-prices-under-3-per-gallon](https://www.washingtonexaminer.com/news/3151934/gas-prices-decreases-continue-at-the-pump-as-13-states-now-have-prices-under-3-per-gallon)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T10:12:15+00:00
+
+Gas prices continued to fall on Thursday as the national average for a gallon of regular gas decreased to $3.242, according to AAA. This is the lowest price since the winter. The average price for regular gas has dropped three cents per gallon since Monday. The fuel price is over six cents cheaper than a [&#8230;]
+
+## BlueAnon: Liberalism’s tragic descent into paranoia and conspiracy theories
+ - [https://www.washingtonexaminer.com/restoring-america/patriotism-unity/3151260/liberalism-descent-into-paranoia-conspiracy-theories](https://www.washingtonexaminer.com/restoring-america/patriotism-unity/3151260/liberalism-descent-into-paranoia-conspiracy-theories)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T10:00:00+00:00
+
+“The biggest difference between Alex Jones and Rachel Maddow is the haircut.” This funny line is from The Rise of BlueAnon: How the Democrats Became a Party of Conspiracy Theorists, a forthcoming book by the political writer David Harsanyi. The Rise of BlueAnon is one of the most important political books of the decade. It’s [&#8230;]
+
+## Dancing to Putin’s WW3 waltz, Trump deals strength for weakness
+ - [https://www.washingtonexaminer.com/opinion/beltway-confidential/3150942/dancing-putins-ww3-waltz-trump-deals-strength-weakness](https://www.washingtonexaminer.com/opinion/beltway-confidential/3150942/dancing-putins-ww3-waltz-trump-deals-strength-weakness)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T10:00:00+00:00
+
+During Tuesday&#8217;s presidential debate, former President Donald Trump insisted again that a rapid end to the war in Ukraine is critical for two reasons. First, because vast numbers of people have been killed since Russia invaded Ukraine in February 2022. Second, because U.S. support for Ukraine&#8217;s defense means, as Trump put it last night, that [&#8230;]
+
+## How the Kroger merger could further erode the administrative state
+ - [https://www.washingtonexaminer.com/news/business/3143402/how-the-kroger-merger-could-further-erode-the-administrative-state](https://www.washingtonexaminer.com/news/business/3143402/how-the-kroger-merger-could-further-erode-the-administrative-state)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T10:00:00+00:00
+
+The Federal Trade Commission is challenging Kroger’s acquisition of Albertsons, saying their merger would be anticompetitive. The Washington Examiner will take a deeper look at what this lawsuit and potential merger would do to food prices – particularly on the cusp of the November election. Part 2 of Supermarket Sweep Up will focus on how [&#8230;]
+
+## What’s wrong with Disney’s stock?
+ - [https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/3147712/whats-wrong-disney-stock](https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/3147712/whats-wrong-disney-stock)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T10:00:00+00:00
+
+What is wrong with the entertainment giant Disney? The Disney brand is known globally and has an iconic status. The company owns unrivaled assets: its theme parks, the world’s most powerful and profitable film studio, a profitable streaming business with a global reach of over 1 billion potential customers, and a preeminent asset in sports, ESPN. [&#8230;]
+
+## Harris tries to shake incumbent label with call for ‘new generation of leadership’
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3150816/harris-incumbent-label-new-generation-leadership](https://www.washingtonexaminer.com/news/campaigns/presidential/3150816/harris-incumbent-label-new-generation-leadership)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T09:00:00+00:00
+
+Vice President Kamala Harris is attempting to use her relative youth to portray former President Donald Trump as part of the status quo. During Tuesday&#8217;s debate, Harris attempted to differentiate herself from President Joe Biden but also Trump by telling viewers that she offered &#8220;a new generation of leadership for our country.&#8221; &#8220;Clearly I am [&#8230;]
+
+## Due to 2021 Capitol riot, Jan. 6, 2025 will be designated as special security event
+ - [https://www.washingtonexaminer.com/news/3151930/due-to-2021-capitol-riot-jan-6-2025-will-be-designated-as-special-security-event](https://www.washingtonexaminer.com/news/3151930/due-to-2021-capitol-riot-jan-6-2025-will-be-designated-as-special-security-event)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T07:44:18+00:00
+
+The Department of Homeland Security will take extra precautions after this year’s presidential election to help prevent another January 6 riot.  Homeland Security Secretary Alejandro Mayorkas ordered Jan. 6, 2025, the date in which the certification of the presidential vote will occur, as a “national special security event,” according to multiple reports. It will be [&#8230;]
+
+## The real Kamala Harris agenda
+ - [https://www.washingtonexaminer.com/opinion/3151209/real-kamala-harris-agenda](https://www.washingtonexaminer.com/opinion/3151209/real-kamala-harris-agenda)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T04:01:00+00:00
+
+When politicians do live interviews, even with friendly journalists, they sometimes slip up and tell the truth. This happened on Sunday when NBC’s Kristen Welker asked Sen. Bernie Sanders (I-VT) if he still considered Vice President Kamala Harris a &#8220;progressive,&#8221; even though she has recently claimed to have abandoned her support for bans on fracking [&#8230;]
+
+## Who is Laura Loomer? Republicans fear conservative activist’s influence growing on Trump
+ - [https://www.washingtonexaminer.com/news/campaigns/3151866/laura-loomer-republicans-fear-conservative-activist-influence-growing-trump](https://www.washingtonexaminer.com/news/campaigns/3151866/laura-loomer-republicans-fear-conservative-activist-influence-growing-trump)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T03:39:02+00:00
+
+Laura Loomer, a self-labeled &#8220;investigative journalist,&#8221; has been repeatedly sighted around former President Donald Trump in recent days. Loomer was seen de-boarding his plane on the day of the presidential debate, and she was spotted around him throughout the day on Wednesday as Trump joined with others in the 9/11 day of remembrance. Some conservatives [&#8230;]
+
+## Top Israeli official suggests safe passage for Hamas leader in exchange for releasing hostages
+ - [https://www.washingtonexaminer.com/news/world/3151855/israeli-official-suggests-safe-passage-hamas-leader-releasing-hostages](https://www.washingtonexaminer.com/news/world/3151855/israeli-official-suggests-safe-passage-hamas-leader-releasing-hostages)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T02:02:58+00:00
+
+A top Israeli official suggested the country could provide safe passage for Hamas leader Yahya Sinwar if the remaining Israeli hostages inside of Gaza are freed. Israel’s coordinator for hostages and the missing, Gal Hirsch, also said Gaza would need to be “demilitarized and deradicalized&#8221; for such a deal to go through. Sinwar is allegedly [&#8230;]
+
+## Harris and Trump beat Biden debate ratings with 67.1 million viewers
+ - [https://www.washingtonexaminer.com/news/entertainment/3151806/harris-trump-beat-biden-debate-ratings-67-million-viewers](https://www.washingtonexaminer.com/news/entertainment/3151806/harris-trump-beat-biden-debate-ratings-67-million-viewers)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T00:41:40+00:00
+
+Nielsen television ratings for Tuesday night&#8217;s first presidential debate between Vice President Kamala Harris and former President Donald Trump outperformed the previous debate with President Joe Biden in late June. According to Nielsen ratings data, approximately 67.1 million viewers were watching the ABC News simulcast across CNN, Fox News, Fox Business and MSNBC platforms, a [&#8230;]
+
+## RFK Jr. critical of Trump debate performance: ‘Lost opportunity’
+ - [https://www.washingtonexaminer.com/news/campaigns/presidential/3151813/rfk-jr-critical-trump-debate-performance](https://www.washingtonexaminer.com/news/campaigns/presidential/3151813/rfk-jr-critical-trump-debate-performance)
+ - RSS feed: https://www.washingtonexaminer.com/feed
+ - date published: 2024-09-12T00:19:03+00:00
+
+Former independent presidential candidate Robert F. Kennedy Jr. offered a candid assessment of Donald Trump&#8217;s debate performance against Vice President Kamala Harris, saying the former president missed an opportunity within the first few minutes. Kennedy has been a prominent surrogate for Trump since he dropped out of the presidential race and endorsed the GOP leader, [&#8230;]
+

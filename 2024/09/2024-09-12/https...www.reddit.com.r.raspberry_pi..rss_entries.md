@@ -1,0 +1,37 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## JV880-Pi: a Rompler running on a Pi Zero
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ffczzv/jv880pi_a_rompler_running_on_a_pi_zero](https://www.reddit.com/r/raspberry_pi/comments/1ffczzv/jv880pi_a_rompler_running_on_a_pi_zero)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-12T20:47:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ffczzv/jv880pi_a_rompler_running_on_a_pi_zero/"> <img src="https://external-preview.redd.it/cjX0BE2E5bjk4AMA75qOuo33ECtV2sxirroZTHst3dc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2f59fcfa2743f81bb2308b332e857a7a24fb0b01" alt="JV880-Pi: a Rompler running on a Pi Zero" title="JV880-Pi: a Rompler running on a Pi Zero" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giulioz"> /u/giulioz </a> <br/> <span><a href="https://www.youtube.com/watch?v=7LWaYHTNIDI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ffczzv/jv880pi_a_rompler_running_on_a_pi_zero/">[comments]</a></span> </td></tr></table>
+
+## [HOWTO] Headless configuration of a Raspberry Pi using USB Ethernet Gadget on Bookworm
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ffaeb0/howto_headless_configuration_of_a_raspberry_pi](https://www.reddit.com/r/raspberry_pi/comments/1ffaeb0/howto_headless_configuration_of_a_raspberry_pi)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-12T18:58:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>After getting frustrated with not being able to use the USB Ethernet Gadget on Bookworm, just like the good old days, I&#39;ve researched a new method to get a headless configuration of a Raspberry Pi using USB Ethernet Gadget on Bookworm, and written a how to.</p> <p>Summary<br/> This method should allow you to write a fresh Raspberry Pi OS Bookworm image, edit some files on the ‘bootfs’ FAT32 volume, boot the Raspberry Pi using a USB cable connected to a PC (Windows, Linux or MacOS), and have a USB Ethernet connection to the Raspberry Pi to connect using SSH.</p> <p>This method is very similar to others I’ve seen, but has some advantages:</p> <ul> <li>Doesn’t require other access, such as local console, SSH over Ethernet, or over Wi-Fi, to edit files, or make changes.</li> <li>Uses the native Network-Manager system to manage the connection.</li> <li>Supports DHCP, and if not available, falls back to a Link-Local address.</li> <li>Supports IPv6.</li>
+
+## Anybody using qBittorrent on their raspberrypi?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ff6nrg/anybody_using_qbittorrent_on_their_raspberrypi](https://www.reddit.com/r/raspberry_pi/comments/1ff6nrg/anybody_using_qbittorrent_on_their_raspberrypi)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-12T16:23:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am able to achieve my max download speed but I noticed 100% cpu usage with only one torrent downloading. This might be a dumb question but is this normal? I had to set my max connections to 20 to get it under control.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/litex2x"> /u/litex2x </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ff6nrg/anybody_using_qbittorrent_on_their_raspberrypi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ff6nrg/anybody_using_qbittorrent_on_their_raspberrypi/">[comments]</a></span>
+
+## Error: cpio: write error: No space left on device. When trying to update.
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ff2jxb/error_cpio_write_error_no_space_left_on_device](https://www.reddit.com/r/raspberry_pi/comments/1ff2jxb/error_cpio_write_error_no_space_left_on_device)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-12T13:27:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>When trying to update I keep getting this error, I checked with df -h and my boot partition is only 13% full. I also checked my inodes and those are only 1% full.</p> <p>I tried a few troubleshooting steps like removing old images and making sure the boot parition is not encrypted with raspi-config.</p> <p>Really have no idea how this happened.</p> <p>The main error seems to be: <code> Setting up linux-image-6.6.47+rpt-rpi-2712 (1:6.6.47-1+rpt1) ... /etc/kernel/postinst.d/initramfs-tools: update-initramfs: Generating /boot/initrd.img-6.6.47+rpt-rpi-2712 cpio: write error: No space left on device E: mkinitramfs failure cpio 2 </code> The full output I get: ``` $ sudo apt install --fix-broken Reading package lists... Done Building dependency tree... Done Reading state information... Done The following package was automatically installed and is no longer required: linux-kbuild-6.6.47+rpt Use &#39;sudo apt autoremove&#39; to remove it. 0 upgraded, 0 newly
+
+## Compute Module 4 - TLV320ADC5140 multi-channel audio codec over I2S
+ - [https://www.reddit.com/r/raspberry_pi/comments/1feylo4/compute_module_4_tlv320adc5140_multichannel_audio](https://www.reddit.com/r/raspberry_pi/comments/1feylo4/compute_module_4_tlv320adc5140_multichannel_audio)
+ - RSS feed: https://www.reddit.com/r/raspberry_pi/.rss
+ - date published: 2024-09-12T09:44:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for a bit of advice when it comes to interfacing a TLV320ADC5140 multi-channel audio adc via the I2S interface on a CM4.</p> <p>Having trawled through the I2S section of the BCM2711 peripherals documentation, it would appear that each audio frame can contain one or two channels - but could subsequent frames come from different audio sources?</p> <p>This is the documentation I&#39;ve looked in, specifically chapter 7:</p> <p><a href="https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf">https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf</a></p> <p>The datasheet for the TLV320ADC5140 is here:</p> <p><a href="https://www.ti.com/lit/ds/symlink/tlv320adc5140.pdf">https://www.ti.com/lit/ds/symlink/tlv320adc5140.pdf</a></p> <p>The TLV320 can have up to 8 microphones connected to it and arranges the audio frames into output &quot;slots&quot; over the I2S bus. If the channels are configured to be mono channels, wou
+
