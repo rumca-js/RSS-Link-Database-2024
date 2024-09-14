@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Feature Friday: Django's Database-Generated Fields</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/django/comments/1ffubld/feature_friday_djangos_databasegenerated_fields"><h1>[1139205] Feature Friday: Django's Database-Generated Fields</h1></a><div>https://www.reddit.com/r/django/.rss</div><div>2024-09-13 14:40:50.968379+00:00</div><div><pre><!-- SC_OFF --><div><p>Need DB-generated values in your Django models? Meet the new <code>GeneratedField</code>! Define fields with values created by the database, not Django. This is powerful for computed columns &amp; more.</p> <p>DB-generated fields can be used for the following use cases:</p> <ul> <li>Computed columns</li> <li>Default values from DB functions</li> <li>Auto-updating timestamps</li> </ul> <p>Here's a small sample code showing the usage of GeneratedField:</p> <p>``` from django.db import models from django.db.models import GeneratedField</p> <p>class Product(models.Model): name = models.CharField(max_length=100) price = models.DecimalField(max_digits=10, decimal_places=2) discounted_price = GeneratedField( expression=models.F('price') * 0.9, output_field=models.DecimalField(max_digits=10, decimal_places=2), db_persist=True ) ```</p> <p>Some benefits of the DB-generated Fields:</p> <ul> <li><strong>Improved performance</strong>: calculations don</li></ul></div></pre></div></body></html>

@@ -1,0 +1,51 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## University of Washington President Ana Mari Cauce on AI, startups, and tradition vs. innovation
+ - [https://www.geekwire.com/2024/university-of-washington-president-ana-mari-cauce-on-ai-startups-and-tradition-vs-innovation](https://www.geekwire.com/2024/university-of-washington-president-ana-mari-cauce-on-ai-startups-and-tradition-vs-innovation)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-09-13T22:38:11+00:00
+
+<img width="1260" height="862" src="https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_5278-1-1260x862.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_5278-1-1260x862.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_5278-1-768x525.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_5278-1-1536x1051.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_5278-1-2048x1401.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_5278-1-630x431.jpg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>Artificial intelligence and startups were two of the topics addressed by Ana Mari Cauce, the University of Washington president, during a keynote conversation Thursday at the Seattle Metropolitan Chamber of Commerce annual meeting. Cauce, who has announced plans to step down from the role in June 2025, was asked by moderator Ad
+
+## Tech Moves: SheerID adds revenue chief; Sana CFO stepping down; Seattle HR vet launches new firm
+ - [https://www.geekwire.com/2024/tech-moves-sheerid-adds-revenue-chief-sana-cfo-stepping-down-seattle-hr-vet-launches-new-firm](https://www.geekwire.com/2024/tech-moves-sheerid-adds-revenue-chief-sana-cfo-stepping-down-seattle-hr-vet-launches-new-firm)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-09-13T21:51:29+00:00
+
+<img width="512" height="512" src="https://cdn.geekwire.com/wp-content/uploads/2024/09/Rebecca-Grimes.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/09/Rebecca-Grimes.png 512w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Rebecca-Grimes-300x300.png 300w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Rebecca-Grimes-150x150.png 150w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Rebecca-Grimes-100x100.png 100w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Rebecca-Grimes-200x200.png 200w" sizes="(max-width: 512px) 100vw, 512px"><br>Portland, Ore.-based identity verification company SheerID named Rebecca Grimes as its new chief revenue officer. Grimes previously was chief sales and marketing officer at Searchspring, and chief revenue officer at Ruby. She also spent time at Cheetah Digital, PowerReviews, and Vibes. SheerID helps consumer brands run special deal
+
+## Port of Seattle reveals details of ransomware attack, says it refused to pay criminal organization
+ - [https://www.geekwire.com/2024/port-of-seattle-reveals-details-of-ransomware-attack-says-it-refused-to-pay-criminal-organization](https://www.geekwire.com/2024/port-of-seattle-reveals-details-of-ransomware-attack-says-it-refused-to-pay-criminal-organization)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-09-13T20:17:53+00:00
+
+<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_9506-1-1260x945.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_9506-1-1260x945.jpeg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_9506-1-768x576.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_9506-1-1536x1152.jpeg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_9506-1-2048x1536.jpeg 2048w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_9506-1-630x473.jpeg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>The Port of Seattle said some of its data may be at risk of being posted online after it refused to pay a ransom demanded by a criminal organization responsible for a cyberattack that took place nearly three weeks ago. The Port revealed new details on Friday about the Aug. 24 cyberattack that impacted various operations, 
+
+## Putting the AI in Apple Cup: Send us your best images of Huskies and Cougars battling
+ - [https://www.geekwire.com/2024/putting-the-ai-in-apple-cup-send-us-your-best-images-of-huskies-and-cougars-battling](https://www.geekwire.com/2024/putting-the-ai-in-apple-cup-send-us-your-best-images-of-huskies-and-cougars-battling)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-09-13T19:36:21+00:00
+
+<img width="1024" height="1024" src="https://cdn.geekwire.com/wp-content/uploads/2024/09/OIG4.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/09/OIG4.jpeg 1024w, https://cdn.geekwire.com/wp-content/uploads/2024/09/OIG4-150x150.jpeg 150w, https://cdn.geekwire.com/wp-content/uploads/2024/09/OIG4-768x768.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/09/OIG4-100x100.jpeg 100w, https://cdn.geekwire.com/wp-content/uploads/2024/09/OIG4-630x630.jpeg 630w" sizes="(max-width: 1024px) 100vw, 1024px"><br>The 2024 Apple Cup college football matchup between the University of Washington and Washington State University has a bit of different look and feel this year. The game is earlier in the season than usual, it&#8217;s not at either school&#8217;s stadium, and the teams now play in different conferences. In the spirit of all of that, ahead of Saturday&#8217;s contest at Lumen Fiel
+
+## A boost for downtown Seattle? PCC grocery market returns with new format
+ - [https://www.geekwire.com/2024/a-boost-for-downtown-seattle-pcc-grocery-market-returns-with-new-format](https://www.geekwire.com/2024/a-boost-for-downtown-seattle-pcc-grocery-market-returns-with-new-format)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-09-13T18:37:51+00:00
+
+<img width="800" height="450" src="https://cdn.geekwire.com/wp-content/uploads/2023/11/Downtown-exterior-grand-opening-800.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2023/11/Downtown-exterior-grand-opening-800.jpeg 800w, https://cdn.geekwire.com/wp-content/uploads/2023/11/Downtown-exterior-grand-opening-800-768x432.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2023/11/Downtown-exterior-grand-opening-800-630x354.jpeg 630w" sizes="(max-width: 800px) 100vw, 800px"><br>PCC Community Markets announced Friday that it coming back to the Seattle skyscraper it left in January and will relocate its corporate headquarters office to the same space. The grocer will open a smaller-format store at 1320 4th Ave., in the base of the high-profile 58-story Rainier Square building. PCC previously had a full-format store at the location but decided to that shut down last year, citing a lower n
+
+## GeekWire tried to win a piece of Microsoft and Paul Allen history at auction — here’s why we lost
+ - [https://www.geekwire.com/2024/geekwire-tried-to-win-a-piece-of-microsoft-and-paul-allen-history-at-auction-heres-why-we-lost](https://www.geekwire.com/2024/geekwire-tried-to-win-a-piece-of-microsoft-and-paul-allen-history-at-auction-heres-why-we-lost)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-09-13T15:47:50+00:00
+
+<img width="722" height="694" src="https://cdn.geekwire.com/wp-content/uploads/2024/09/auctionmags.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/09/auctionmags.png 722w, https://cdn.geekwire.com/wp-content/uploads/2024/09/auctionmags-630x606.png 630w" sizes="(max-width: 722px) 100vw, 722px"><br>There&#8217;s probably a magazine article out there somewhere about how to successfully bid on something at auction and come away a winner. Hopefully it&#8217;s not in a 1975 copy of Popular Electronics, because, well, I had a little trouble getting my hands on one of those &#8230; at auction. In a bid to outbid other tech and computer history geeks this week, GeekWire gave me the company credit card and told me to try to win something from one of three Christie&#8217;s sales of items from Paul Allen&#8217;s collection of computers and other stuff. I chose a set of 12&#8230; <a href="https:
+
+## Finding a founder: What to consider when picking a startup partner
+ - [https://www.geekwire.com/2024/finding-a-founder-heres-what-to-consider-when-picking-a-startup-partner](https://www.geekwire.com/2024/finding-a-founder-heres-what-to-consider-when-picking-a-startup-partner)
+ - RSS feed: https://www.geekwire.com/feed
+ - date published: 2024-09-13T05:43:33+00:00
+
+<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_1278-1260x945.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_1278-1260x945.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_1278-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_1278-1536x1152.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_1278-2048x1536.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2024/09/IMG_1278-630x473.jpg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>One of the most crucial decisions for an entrepreneur is picking the right co-founders. Having colleagues who provide complementary skills, speed up productivity, and just be there when times get tough can make or break a startup. But it&#8217;s not always easy finding the right fit — and to make it work as partners along the entrepreneuri
+

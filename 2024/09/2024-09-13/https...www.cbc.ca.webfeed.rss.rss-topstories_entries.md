@@ -1,0 +1,198 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Costco's Greek yogurt recalled across Canada due to mould
+ - [https://www.cbc.ca/news/canada/british-columbia/kirkland-signature-greek-yogurt-recall-1.7323522?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/kirkland-signature-greek-yogurt-recall-1.7323522?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T20:38:00+00:00
+
+<img src='https://i.cbc.ca/1.3844991.1726272608!/fileImage/httpImage/image.jpg-large_gen/derivatives/16x9_620/new-costco.jpg-large' alt='the front of a costco store ' width='620' height='349' title='Saskatoon&apos;s second Costco store is opening its doors in the Rosewood area on Thursday.'/><p>The Canadian Food Inspection Agency (CFIA) has issued a recall of a brand of yogurt sold at Costco due to mould. </p>
+
+## After receiving threats, mayor of Summerside, P.E.I., returns to social media with a message
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-summerside-mayor-online-harassment-1.7322819?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-summerside-mayor-online-harassment-1.7322819?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T17:12:46+00:00
+
+<img src='https://i.cbc.ca/1.7323215.1726259516!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/dan-kutcher.JPG' alt='A man with short dark hair and glasses wearing a white dress shirt sitting in an office.' width='620' height='349' title=''/><p>Dan Kutcher's online presence has led to conversations with residents that amount to respectful disagreements. But about six months ago, the Summerside mayor began receiving repeated messages from a man who eventually became more and more aggressive. </p>
+
+## Can pigeons guide missiles? Can dead trout swim? Ig Nobels celebrate weirdest research
+ - [https://www.cbc.ca/radio/asithappens/ig-nobels-2024-1.7322916?cmp=rss](https://www.cbc.ca/radio/asithappens/ig-nobels-2024-1.7322916?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T17:06:15+00:00
+
+<img src='https://i.cbc.ca/1.7323093.1726255689!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-ignobel.JPG' alt='A man in a suit kisses a large toy fish' width='620' height='349' title='James Liao accepts the Physics Prize for &quot;Demonstrating and explaining the swimming abilities of a dead trout&quot; during the 34th First Annual IgNobel Prizes ceremony, at the Massachusetts Institute of Technology (MIT) in Cambridge, Massachusetts, U.S., September 12, 2024.  REUTERS/Brian Snyder'/><p>This year’s winners included a study that explores the feasibility of using pigeons to guide missiles, an experiment that saw scientists explode a paper bag next to a cat standing on the back of a cow, and a paper that explores the swimming abilities of dead trout.</p>
+
+## Triple stabbing sparks changes at B.C. Forensic Psychiatric Hospital
+ - [https://www.cbc.ca/news/canada/british-columbia/chinatown-stabbing-review-board-bob-rich-report-1.7322954?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/chinatown-stabbing-review-board-bob-rich-report-1.7322954?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T16:50:14+00:00
+
+<img src='https://i.cbc.ca/1.6968614.1726260201!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/blair-evan-donnelly.jpg' alt='An artist&apos;s courtroom sketch shows a courtroom with a judge, two clerks and a lawyer, and an accused man appearing on a video screen wearing red and blue.' width='620' height='349' title='Blair Evan Donnelly, shown here in a court sketch at top right, appeared in Vancouver provincial court on  Sept. 15, 2023, on three charges of aggravated assault.'/><p>A report into a triple stabbing last year in Vancouver says the accused had been let out of custody at a psychiatric care facility 99 times in the year prior without incident.</p>
+
+## Sports complex at Montreal's Olympic Park won't reopen before early 2025
+ - [https://www.cbc.ca/news/canada/montreal/olympic-sports-complex-1.7322983?cmp=rss](https://www.cbc.ca/news/canada/montreal/olympic-sports-complex-1.7322983?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T16:08:24+00:00
+
+<img src='https://i.cbc.ca/1.7323019.1726257367!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/olympic-park.jpg' alt='A large swimming area with workers nearby. ' width='620' height='349' title='The management team at the Olympic Park says repairing the damage from the fire has been a &apos;colossal&apos; task. '/><p>In March, a fire ripped through the Olympic Park and its sports complex has been closed since. On Friday, the park announced the sports facilities would remain closed until early 2025.</p>
+
+## Stranded astronauts make first public statement since being left behind on ISS
+ - [https://www.cbc.ca/news/world/astronauts-boeing-space-1.7323046?cmp=rss](https://www.cbc.ca/news/world/astronauts-boeing-space-1.7323046?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T15:50:38+00:00
+
+<img src='https://i.cbc.ca/1.7323067.1726256953!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nasa-astronauts.jpg' alt='Two astronauts float in zero gravity inside a space station. ' width='620' height='349' title='This image made from a NASA live stream shows NASA astronauts Suni Williams and Butch Wilmore during a press conference from the International Space Station on Sept. 13, 2024. '/><p>Stranded astronauts Butch Wilmore and Suni Williams said Friday it was hard to watch their Boeing capsule return to Earth without them.</p>
+
+## Sask. private school connected to abuse allegations changes its name again
+ - [https://www.cbc.ca/news/canada/saskatoon/private-school-connected-abuse-allegations-changes-name-again-1.7322023?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/private-school-connected-abuse-allegations-changes-name-again-1.7322023?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T14:58:09.256514+00:00
+
+<img src='https://i.cbc.ca/1.7322056.1726181396!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/students.jpg' alt='Former students Caitlin Erickson and Quentin Pelletier say a Saskatoon private school&apos;s new name won&apos;t change the abuse allegations facing multiple former officials. Valour Academy was once called Christian Centre Academy and then Legacy Christian Academy.' width='620' height='349' title='Former students Caitlin Erickson and Quentin Pelletier say a Saskatoon private school&apos;s new name won&apos;t change the abuse allegations facing multiple former officials. Valour Academy was once called Christian Centre Academy and then Legacy Christian Academy.'/><p>A Saskatoon private school connected to multiple allegations of abuse and human rights violations has changed its name again.</p>
+
+## They're conservative, they oppose Trump. But some are at odds over whether to vote for Kamala Harris.
+ - [https://www.cbc.ca/news/world/republicans-conservatives-voting-for-kamala-harris-1.7321540?cmp=rss](https://www.cbc.ca/news/world/republicans-conservatives-voting-for-kamala-harris-1.7321540?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T14:58:08.596579+00:00
+
+<img src='https://i.cbc.ca/1.7322236.1726196994!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/liz-cheney-election-2022.jpg' alt='Liz Cheney and Dick Cheney speak to members of the media in front of a library as people with cameras and phones look on. ' width='620' height='349' title='Then Republican representative Liz Cheney arrives with her father, former vice-president Dick Cheney, to vote during the Republican primary election in August 2022, in Jackson Hole, Wyo. Both Cheneys recently announced they would be voting for Kamala Harris in the upcoming U.S. presidential election. '/><p>There appears to be a shift happening among some U.S. Republicans, who have announced they will be marking an X beside the name of Democratic candidate Vice-President Kamala Harris in the upcoming presidential election. But other anti-Trump conservatives say actually casting a vote for Harris is a step too far.</p>
+
+## Court of appeal rejects Jacob Hoggard's bail request
+ - [https://www.cbc.ca/news/canada/toronto/hoggard-bail-appeal-denied-1.7322795?cmp=rss](https://www.cbc.ca/news/canada/toronto/hoggard-bail-appeal-denied-1.7322795?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T13:15:43+00:00
+
+<img src='https://i.cbc.ca/1.7318701.1725980189!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/hoggard-may-9.JPG' alt='A man in a black suit looks off camera' width='620' height='349' title='Jacob Hoggard leaves court on May 9, 2022. '/><p>The Court of Appeal for Ontario has denied a bail request from disgraced musician Jacob Hoggard while his lawyers mount another appeal of his sexual assault conviction.</p>
+
+## Trudeau says Singh, NDP 'caved' to political pressure in fight against climate change
+ - [https://www.cbc.ca/news/politics/trudeau-ndp-political-pressure-1.7322679?cmp=rss](https://www.cbc.ca/news/politics/trudeau-ndp-political-pressure-1.7322679?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T13:06:04+00:00
+
+<img src='https://i.cbc.ca/1.7322799.1726247029!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/que-mda-trudaeu-legault-20240913.JPG' alt='Prime Minister Justin Trudeau and Quebec Premier Francois Legault, left, make an aerospace announcement at the MDA satellite manufacturing centre Friday, September 13, 2024 in Ste.Anne-de-Bellevue, Quebec.' width='620' height='349' title='Prime Minister Justin Trudeau and Quebec Premier Francois Legault, left, make an aerospace announcement at the MDA satellite manufacturing centre on Friday, September 13, 2024 in Ste.Anne-de-Bellevue, Quebec.'/><p>Prime Minister Justin Trudeau slammed the NDP and its leader Jagmeet Singh on Friday, saying that while they may care about the environment, they have "no idea what to do in the fight against climate change." </p>
+
+## Terror suspect who entered Canada on student visa to await U.S. evidence in prison
+ - [https://www.cbc.ca/news/politics/muhammad-shahzeb-khan-terror-new-york-ormstown-1.7322700?cmp=rss](https://www.cbc.ca/news/politics/muhammad-shahzeb-khan-terror-new-york-ormstown-1.7322700?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T12:52:29+00:00
+
+<img src='https://i.cbc.ca/1.7315621.1726163492!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/terror-investigation-ormstown-toronto-man.jpeg' alt='A group of police officers in tactical gear stand in a circle at the side of a road.' width='620' height='349' title=''/><p>A Pakistani national accused of planning a terror attack against a Jewish centre in Brooklyn, New York likely will spend several more weeks in Quebec's Bordeaux prison while U.S. authorities present evidence to back up an extradition request.</p>
+
+## Justin Timberlake pleads guilty to impaired driving
+ - [https://www.cbc.ca/news/entertainment/justin-timberlake-plea-dwi-sag-harbor-1.7322684?cmp=rss](https://www.cbc.ca/news/entertainment/justin-timberlake-plea-dwi-sag-harbor-1.7322684?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T12:51:31+00:00
+
+<img src='https://i.cbc.ca/1.7322688.1726243665!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/people-justin-timberlake.JPG' alt='A man in a black sweater and sunglasses with orange lenses walks into court.' width='620' height='349' title='Singer Justin Timberlake arrives to appear in court in Sag Harbor, New York on Sept. 13, 2024.'/><p>Justin Timberlake pleaded guilty to impaired driving Friday, resolving the criminal case stemming from his June arrest in New York's Hamptons.</p>
+
+## 9 Ukrainian women facing years in a Russian prison were just released in a swap
+ - [https://www.cbc.ca/news/world/ukraine-russia-women-prisoner-swap-1.7322392?cmp=rss](https://www.cbc.ca/news/world/ukraine-russia-women-prisoner-swap-1.7322392?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T12:42:33+00:00
+
+<img src='https://i.cbc.ca/1.7322416.1726237045!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukrane-crisis-prisoners-exchange.JPG' alt='A group of women, holding bouquets of yellow flowers, are wrapped in yellow and blue banners as they stand outside.' width='620' height='349' title='Ukrainian prisoners of war (PoWs) are seen after a swap, amid Russia&apos;s attack on Ukraine, at an unknown location in Ukraine, in this handout picture released on September 13, 2024. '/><p>Nearly 100 prisoners of war were recently released in an exchange between Russia and Ukraine, including nine Ukrainian women who were on trial in Russia, accused by prosecutors of supporting terrorism because of their connection to the Azov Regiment.</p>
+
+## Driver charged with killing Gaudreau brothers had blood-alcohol level over legal limit
+ - [https://www.cbc.ca/sports/hockey/nhl/driver-alcohol-level-johnny-gaudreau-brother-nhl-1.7322610?cmp=rss](https://www.cbc.ca/sports/hockey/nhl/driver-alcohol-level-johnny-gaudreau-brother-nhl-1.7322610?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T11:45:54+00:00
+
+<img src='https://i.cbc.ca/1.7322645.1726242217!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/higgins-sean-m-240913-1180.jpg' alt='Sean M. Higgins, the alleged drunken driver charged with killing NHL player Johnny Gaudreau and his brother Matthew as they bicycled on a rural road, appears before Judge Michael Silvanio for his hearing via video from jail on Sept. 13, 2024, in Woodbury, New Jersey.' width='620' height='349' title='Alleged drunken driver Sean M. Higgins, top, is charged with two counts of death by auto, along with reckless driving, possession of an open container and consuming alcohol in a motor vehicle after NHL player Johnny Gaudreau and his brother were killed while riding bicycles on a rural road in New Jersey. '/><p>The driver charged with killing NHL hockey player Johnny Gaudreau and his brother Matthew as they bicycled on a rural road had a blood-alcohol level of .087, above the .08 legal limit in New Jersey, a prosecutor said Friday.</p>
+
+## Kingston care hub shuts as police investigate attack that left 2 dead
+ - [https://www.cbc.ca/news/canada/ottawa/kingston-care-hub-shuts-as-police-investigate-attack-that-left-2-dead-1.7322331?cmp=rss](https://www.cbc.ca/news/canada/ottawa/kingston-care-hub-shuts-as-police-investigate-attack-that-left-2-dead-1.7322331?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T11:11:25+00:00
+
+<img src='https://i.cbc.ca/1.7322536.1726238656!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/kingston-attacks-sept-12.JPG' alt='A group of paramedics stand in the foreground. Down the street is a circle of police officers surrounded by caution tape and cruisers.' width='620' height='349' title='There was a heavy paramedic and police presence on Montreal Street in Kingston, Ont. on Sept. 12, 2024, following a series of attacks that left two people dead and a third with life-threatening injuries.'/><p>On Friday morning, Kingston Police cruisers sat parked outside the city's Integrated Care Hub (ICH) and a tall fence that was erected overnight surrounded the site, lined with tents and other temporary shelters.</p>
+
+## Kingston care hub shuts as police name victims, accused in fatal attack
+ - [https://www.cbc.ca/news/canada/ottawa/kingston-police-stabbing-attack-murder-charge-victim-1.7322331?cmp=rss](https://www.cbc.ca/news/canada/ottawa/kingston-police-stabbing-attack-murder-charge-victim-1.7322331?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T11:11:25+00:00
+
+<img src='https://i.cbc.ca/1.7322536.1726238656!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/kingston-attacks-sept-12.JPG' alt='A group of paramedics stand in the foreground. Down the street is a circle of police officers surrounded by caution tape and cruisers.' width='620' height='349' title='There was a heavy paramedic and police presence on Montreal Street in Kingston, Ont. on Sept. 12, 2024, following a series of attacks that left two people dead and a third with life-threatening injuries.'/><p>Kingston Police have announced murder and attempted murder charges against 47-year-old Andre Wareham, accusing him of killing 38-year-old Taylor Wilkinson and 41-year-old John Hood.</p>
+
+## Air Canada says some operations will be affected today as pilot talks near deadline
+ - [https://www.cbc.ca/news/business/air-canada-disruptions-chances-increasing-1.7322564?cmp=rss](https://www.cbc.ca/news/business/air-canada-disruptions-chances-increasing-1.7322564?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T11:10:51+00:00
+
+<img src='https://i.cbc.ca/1.7317321.1725879188!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/air-canada-pilots-strike-20240827.JPG' alt='Several men wearing uniforms and dark caps hold signs during a labour demonstration.' width='620' height='349' title='Air Canada pilots hold signs during an informational picket at Vancouver International Airport in Richmond, B.C., on Tuesday, August 27, 2024. Air Canada pilots voted overwhelmingly to approve a strike mandate last week, putting them in a position to walk off the job as early as Sept. 17. The Air Line Pilots Association, which represents more than 5,400 aviators at the country&apos;s largest carrier, said the vote passed with 98 per cent support. THE CANADIAN PRESS/Darryl Dyck'/><p>Air Canada says some operations will start to be affected today as time is running out before a potential shutdown because of a labour dispute with its pilots.</p>
+
+## Kim talks of growing nuclear arsenal as North Korea releases uranium facility photos
+ - [https://www.cbc.ca/news/world/north-korea-kim-uranium-tour-1.7322313?cmp=rss](https://www.cbc.ca/news/world/north-korea-kim-uranium-tour-1.7322313?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T09:13:29+00:00
+
+<img src='https://i.cbc.ca/1.7322318.1726229825!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/koreas-tensions.jpg' alt='A facility is shown, with four or five people, some in uniforms, huddled closely and speaking.' width='620' height='349' title='This undated photo provided on Friday, Sept. 13, 2024, by the North Korean government shows its leader Kim Jong Un, center, on an inspecting visit at what they say is an institute of nuclear weapons and a facility for nuclear materials at an undisclosed location in North Korea. Independent journalists were not given access to cover the event depicted in this image distributed by the North Korean government. The content of this image is as provided and cannot be independently verified. Korean language watermark on image as provided by source reads: &quot;KCNA&quot; which is the abbreviation for Korean Central News Agency.  '/><p>North Korea offered a rare glimpse into a secretive facility to produce weapons-grade uranium, as state m
+
+## New AI apps promise mental health support at a student's fingertips. But can you trust a chatbot?
+ - [https://www.cbc.ca/news/ai-mental-health-1.7320071?cmp=rss](https://www.cbc.ca/news/ai-mental-health-1.7320071?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T09:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7320796.1726095263!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/rastin-rassoli.jpeg' alt='A young man with his arms crossed smiles as he stands in a computer lab in front of a large computer screen bearing the phrase &apos;Your daily mental health coach.&apos;' width='620' height='349' title='University of Waterloo student Rastin Rassoli, who is studying both computer science and psychology, is developing AI-power apps to support young people&apos;s mental well-being.'/><p>As young people struggle to find mental health care, a new wave of AI-powered apps have emerged of late, offering support at one's fingertips, 24/7. Yet experts warn that an app can't replace conventional treatment, especially in serious or emergency situations.</p>
+
+## Former NHL enforcer Stephen Peat dies 2 weeks after being struck by car in Langley, B.C.
+ - [https://www.cbc.ca/sports/hockey/nhl/nhl-stephen-peat-obit-1.7322304?cmp=rss](https://www.cbc.ca/sports/hockey/nhl/nhl-stephen-peat-obit-1.7322304?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T07:40:14+00:00
+
+<img src='https://i.cbc.ca/1.7322307.1726227257!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2862327.jpg' alt='A men&apos;s hockey player watches the play as he holds his stick with two hands.' width='620' height='349' title='Stephen Peat of the Washington Capitals is shown in this November 2003 file photo. Peat had eight goals, two assists and 234 penalty minutes in 130 NHL games.'/><p>Stephen Peat, the former Washington Capitals enforcer who fought concussion issues and experienced homelessness at times after leaving hockey, has died from injuries sustained late last month when he was struck by a car while crossing a street in Langley, B.C. He was 44.</p>
+
+## Boeing's U.S. factory workers on strike after rejecting pay increases of 25% over 4 years
+ - [https://www.cbc.ca/news/business/boeing-strike-machinists-1.7322267?cmp=rss](https://www.cbc.ca/news/business/boeing-strike-machinists-1.7322267?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T07:16:57+00:00
+
+<img src='https://i.cbc.ca/1.7322270.1726207763!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/boeing-labor-contract.jpg' alt='A group of men walk on a street, one carries a sign saying, &apos;Strike, strike, strike.&apos;' width='620' height='349' title='International Aerospace Machinists union members march toward the union&apos;s hall to vote on a contract offer with airplane maker Boeing, on Thursday, Sept. 12, 2024, in Renton, Wash. (AP Photo/Stephen Brashear)'/><p>Boeing's U.S. West Coast factory workers walked off the job early on Friday after 96 per cent voted in favour of a strike, halting production of the planemaker's strongest-selling jet as it wrestles with chronic output delays and mounting debt.</p>
+
+## Sask. hockey player, 90, honoured for co-founding seniors league that's 'the envy of any league in Canada'
+ - [https://www.cbc.ca/news/canada/saskatoon/90-year-old-seniors-hockey-league-co-founder-honoured-1.7321604?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/90-year-old-seniors-hockey-league-co-founder-honoured-1.7321604?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T07:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7321789.1726170922!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/stan-halliwell.JPG' alt='A smiling, elderly man with white hair wearing a red hockey jersey standing on the ice surface in a hockey arena.' width='620' height='349' title='Stan Halliwell, 90, was honoured at a ceremony in Saskatoon&apos;s Schroh Arena on Wednesday for co-founding the Saskatoon 60+ Hockey League.'/><p>Stan Halliwell, a co-founder of Saskatoon's 60+ hockey league, was honoured after a game Wednesday with a surprise 90th birthday celebration and a ceremony recognizing his work as a league pioneer.</p>
+
+## Russia expels 6 British diplomats, accuses them of spying and sabotage
+ - [https://www.cbc.ca/news/world/russia-expel-diplomats-spying-accusation-1.7322281?cmp=rss](https://www.cbc.ca/news/world/russia-expel-diplomats-spying-accusation-1.7322281?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T06:20:06+00:00
+
+<img src='https://i.cbc.ca/1.6999827.1697635805!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/china-belt-and-road.jpg' alt='A man in a dark suit speaks at a podium.' width='620' height='349' title='Russian President Vladimir Putin speaks to journalists following the Belt and Road Forum at the Diaoyutai State Guest House in Beijing, China, on Wednesday, Oct. 18, 2023. '/><p>Russia's FSB security service said on Friday it had revoked the accreditation of six British diplomats in Moscow whose actions it said showed signs of spying and sabotage work.</p>
+
+## Are playgrounds too safe? Why anthropologists say kids need to monkey around
+ - [https://www.cbc.ca/news/canada/jungle-gym-playground-kids-1.7320426?cmp=rss](https://www.cbc.ca/news/canada/jungle-gym-playground-kids-1.7320426?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7321251.1726153672!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/playground.jpg' alt='Silhouette of a boy climbing rings at a playground' width='620' height='349' title='A boy moves on rings at a playground at the Zoom Erlebniswelt zoo as it reopens for the public in Gelsenkirchen on May 7, 2020.(Photo by INA FASSBENDER/AFP via Getty Images)'/><p>A new report from a team of anthropologists argues that monkey bars exercise a biological need passed down from apes that may be critical to childhood development. And the authors say well-intentioned efforts to mitigate their risk may, in fact, be harming kids.</p>
+
+## Cirque Éloize suffers millions in losses after massive Montreal water main break
+ - [https://www.cbc.ca/news/canada/montreal/water-main-break-montreal-1.7321903?cmp=rss](https://www.cbc.ca/news/canada/montreal/water-main-break-montreal-1.7321903?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7322432.1726235503!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cirque-eloize-hotel-show.JPG' alt='Image of circus performers' width='620' height='349' title='Cirque Éloize&apos;s show Hotel was supposed to go back on tour, however much of the set and lighting had to be destroyed as a result of the flood. '/><p>A Montreal-based circus company, Cirque Éloize, lost millions of dollars worth of equipment, costumes and archives when a city water main broke and flooded its storage facility last month.</p>
+
+## How Russia uses race and migration to divide the West
+ - [https://www.cbc.ca/news/politics/russia-disinformation-putin-trump-ukraine-1.7321506?cmp=rss](https://www.cbc.ca/news/politics/russia-disinformation-putin-trump-ukraine-1.7321506?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7321973.1726177426!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-pet-memes.jpg' alt='Pro-Trump social media accounts have produced hundreds of AI-generated memes presenting images of Donald Trump rescuing cats and ducks from Haitian migrants.' width='620' height='349' title='Pro-Trump social media accounts have produced hundreds of AI-generated memes presenting images of Donald Trump rescuing cats and ducks from Haitian migrants.'/><p>It makes sense for Russian propaganda to boost Russia or undermine Ukraine — but what explains its obsessive focus on issues of race and migration in the West? In other words, what does Moscow gain from boosting stories about migrants eating cats and ducks?</p>
+
+## Japanese documents reveal 21 horses died after export from Canada
+ - [https://www.cbc.ca/news/canada/manitoba/horses-japan-aircraft-1.7321374?cmp=rss](https://www.cbc.ca/news/canada/manitoba/horses-japan-aircraft-1.7321374?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7252630.1720035245!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/horse-exportation-kitakyushu-airport-may-7.jpg' alt='Horses are shown standing in a transport vehicle, with workers in hardhats standing nearby.' width='620' height='349' title='The Tokyo-based animal welfare organization Life Investigation Agency says this photo shows horses at Kitakyushu Airport waiting to be transported to a quarantine centre on May 7, 2024.'/><p>Newly released access to information documents from the Japanese government show at least 21 horses died during or in the days after being flown from Canada for slaughter in Japan between May 2023 and June 2024. That contradicts information from the Canadian Food Inspection Agency.</p>
+
+## The government's stance on military exports to Israel is anything but clear-cut
+ - [https://www.cbc.ca/news/politics/joly-suspensions-analysis-1.7320990?cmp=rss](https://www.cbc.ca/news/politics/joly-suspensions-analysis-1.7320990?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2024-09-13T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7319120.1725994945!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-israel-gaza-20240910.JPG' alt='A stately, blonde-haired woman stands at a microphone taking questions from reporters. Her hands, open palmed, are motioning in a wipe-away motion.' width='620' height='349' title='Foreign Affairs Minister Mélanie Joly told reporters at the Liberal caucus retreat that “will not have any forms of arms” made in Canada used in the Gaza Strip. Joly speaks to reporters at the Liberal caucus retreat in Nanaimo, B.C., Tuesday, Sept. 10, 2024. THE CANADIAN PRESS/Darryl Dyck'/><p>Foreign Affairs Minister Mélanie Joly's announcement Tuesday that Canada's suspended 30 military export permits to "ask questions" may have been intended to placate pro-Palestinian activists demanding an arms embargo on Israel. But without more transparency, it remains a political muddle.</p>
+

@@ -1,0 +1,51 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## VexiiRiscv quadcore running debian on FPGA @200Mhz
+ - [https://www.reddit.com/r/RISCV/comments/1fg4zbb/vexiiriscv_quadcore_running_debian_on_fpga_200mhz](https://www.reddit.com/r/RISCV/comments/1fg4zbb/vexiiriscv_quadcore_running_debian_on_fpga_200mhz)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-09-13T20:43:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1fg4zbb/vexiiriscv_quadcore_running_debian_on_fpga_200mhz/"> <img src="https://external-preview.redd.it/gCaziefGN2PjxWnRyST593yqBesQQ1ipYAQ2VVP1X5Y.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f13238c0651dea1ab49445da11580c4c0e49ea45" alt="VexiiRiscv quadcore running debian on FPGA @200Mhz" title="VexiiRiscv quadcore running debian on FPGA @200Mhz" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jumpy-Difference120"> /u/Jumpy-Difference120 </a> <br/> <span><a href="https://www.youtube.com/watch?v=dR_jqS13D2c&amp;t=117s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1fg4zbb/vexiiriscv_quadcore_running_debian_on_fpga_200mhz/">[comments]</a></span> </td></tr></table>
+
+## Can a RISC V GPU be built using only RV64 IV (Integer and Vector) ISA?
+ - [https://www.reddit.com/r/RISCV/comments/1fg2kso/can_a_risc_v_gpu_be_built_using_only_rv64_iv](https://www.reddit.com/r/RISCV/comments/1fg2kso/can_a_risc_v_gpu_be_built_using_only_rv64_iv)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-09-13T19:00:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/PlentyAd9374"> /u/PlentyAd9374 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1fg2kso/can_a_risc_v_gpu_be_built_using_only_rv64_iv/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1fg2kso/can_a_risc_v_gpu_be_built_using_only_rv64_iv/">[comments]</a></span>
+
+## The Saturn Vector Unit: Design of a Fully Compliant Open-Source RISC-V Vector Unit (Jerry Zhao)
+ - [https://www.reddit.com/r/RISCV/comments/1ffxvat/the_saturn_vector_unit_design_of_a_fully](https://www.reddit.com/r/RISCV/comments/1ffxvat/the_saturn_vector_unit_design_of_a_fully)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-09-13T15:41:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1ffxvat/the_saturn_vector_unit_design_of_a_fully/"> <img src="https://external-preview.redd.it/jrt0mjLAXSRJNLLGHBEqRtTACqJcz4jG2s3oAalewTM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8a2cc3864da2dd52d36c7434b9e422c871e532f2" alt="The Saturn Vector Unit: Design of a Fully Compliant Open-Source RISC-V Vector Unit (Jerry Zhao)" title="The Saturn Vector Unit: Design of a Fully Compliant Open-Source RISC-V Vector Unit (Jerry Zhao)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/camel-cdr-"> /u/camel-cdr- </a> <br/> <span><a href="https://www.youtube.com/watch?v=5eitFdW8CCM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ffxvat/the_saturn_vector_unit_design_of_a_fully/">[comments]</a></span> </td></tr></table>
+
+## Where are the riscv compliance test suites for vector extension
+ - [https://www.reddit.com/r/RISCV/comments/1ffvg5d/where_are_the_riscv_compliance_test_suites_for](https://www.reddit.com/r/RISCV/comments/1ffvg5d/where_are_the_riscv_compliance_test_suites_for)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-09-13T14:00:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to verify my vector co-processor but there aren&#39;t vector test suites available in the riscv-arch-test repo, even though the Zvk test suites are available. Does anybody know why? or are there any other open source test suites available for the RVV1.0?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Cranberry-9010"> /u/Ok-Cranberry-9010 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1ffvg5d/where_are_the_riscv_compliance_test_suites_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ffvg5d/where_are_the_riscv_compliance_test_suites_for/">[comments]</a></span>
+
+## Milk-V Pioneer One on FleaBay if anyone is looking for one
+ - [https://www.reddit.com/r/RISCV/comments/1fftwv9/milkv_pioneer_one_on_fleabay_if_anyone_is_looking](https://www.reddit.com/r/RISCV/comments/1fftwv9/milkv_pioneer_one_on_fleabay_if_anyone_is_looking)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-09-13T12:49:47+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.ebay.com/itm/315749801975">Link to auction</a></p> <p>I&#39;ll take offers from members here via PM if you&#39;re interested. We&#39;re not expecting to get close to MSRP, so don&#39;t be shy. I&#39;d rather it went to a good home than get scrapped for its RAM and recycled. </p> <p>Shipping is TBD, the boss wants us to sell to a US based person on Ebay because of scams, but I can sell directly to an international buyer who is an active or trusted member of this group or a few like it.</p> <p>Cheers!</p> <p>Shipping is ~30 for CONUS, and $100ish to western Europe.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bitwise_Gamgee"> /u/Bitwise_Gamgee </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1fftwv9/milkv_pioneer_one_on_fleabay_if_anyone_is_looking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1fftwv9/milkv_pioneer_one_on_fleabay_if_anyone_
+
+## Spike Allows Re-Reservation: How to Properly Implement 'A'?
+ - [https://www.reddit.com/r/RISCV/comments/1ffso2h/spike_allows_rereservation_how_to_properly](https://www.reddit.com/r/RISCV/comments/1ffso2h/spike_allows_rereservation_how_to_properly)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-09-13T11:45:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am an undergraduate student, currently I am working on implementing the Atomic (A) extension in my RISC-V core and have a question related to that.</p> <p>The risc-v specs states that once a reservation is made, it cannot be reserved again. However, in Spike, it is being reserved again. I need to implement &#39;A&#39;, so what should I do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Deep_Living_6398"> /u/Deep_Living_6398 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1ffso2h/spike_allows_rereservation_how_to_properly/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ffso2h/spike_allows_rereservation_how_to_properly/">[comments]</a></span>
+
+## Is qemu suitable for use as a golden simulator?
+ - [https://www.reddit.com/r/RISCV/comments/1ffm39n/is_qemu_suitable_for_use_as_a_golden_simulator](https://www.reddit.com/r/RISCV/comments/1ffm39n/is_qemu_suitable_for_use_as_a_golden_simulator)
+ - RSS feed: https://www.reddit.com/r/RISCV/.rss
+ - date published: 2024-09-13T04:17:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>AFAK, qemu is optimized for performance, on the other hand, it have simualted the register files and CSRs(<a href="https://github.com/qemu/qemu/blob/master/target/riscv/cpu.h">https://github.com/qemu/qemu/blob/master/target/riscv/cpu.h</a>)</p> <p>My question is, compared with Spike, is qemu suitable for use as a golden simulator? Are there any company or organization use qemu as their golden simulator?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zhongchengyong"> /u/zhongchengyong </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1ffm39n/is_qemu_suitable_for_use_as_a_golden_simulator/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ffm39n/is_qemu_suitable_for_use_as_a_golden_simulator/">[comments]</a></span>
+

@@ -1,0 +1,16 @@
+# Source:Road to VR, URL:https://www.roadtovr.com/feed, language:en-US
+
+## Quest 3S Name Seemingly Confirmed in Leaked Meta Support Page
+ - [https://www.roadtovr.com/quest-3s-name-confirmed-meta-support-page](https://www.roadtovr.com/quest-3s-name-confirmed-meta-support-page)
+ - RSS feed: https://www.roadtovr.com/feed
+ - date published: 2024-09-13T15:15:44+00:00
+
+<img width="640" height="360" src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-640x360.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" srcset="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-640x360.jpg 640w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-125x70.jpg 125w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-320x180.jpg 320w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-768x432.jpg 768w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-747x420.jpg 747w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-681x383.jpg 681w" sizes="(max-width: 640px) 100vw, 640px" /><div style="margin: 5px 5% 10px 5%;"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/quest-3s-341x220.jpg" width="341" height="220" title=
+
+## Backrooms-inspired PC Adventure ‘POOLS’ is Getting VR Support Soon, Gameplay Trailer Here
+ - [https://www.roadtovr.com/backrooms-adventure-pools-vr-release-date-trailer](https://www.roadtovr.com/backrooms-adventure-pools-vr-release-date-trailer)
+ - RSS feed: https://www.roadtovr.com/feed
+ - date published: 2024-09-13T09:06:23+00:00
+
+<img width="640" height="360" src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-640x360.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" srcset="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-640x360.jpg 640w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-125x70.jpg 125w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-320x180.jpg 320w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-768x432.jpg 768w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-747x420.jpg 747w, https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-681x383.jpg 681w" sizes="(max-width: 640px) 100vw, 640px" /><div style="margin: 5px 5% 10px 5%;"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2024/09/pools-vr-341x220.jpg" width="341" height="220" title=
+

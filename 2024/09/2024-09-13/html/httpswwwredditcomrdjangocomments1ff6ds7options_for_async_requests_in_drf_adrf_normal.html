@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Options for async requests in DRF? (ADRF, normal django views)</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/django/comments/1ff6ds7/options_for_async_requests_in_drf_adrf_normal"><h1>[1139217] Options for async requests in DRF? (ADRF, normal django views)</h1></a><div>https://www.reddit.com/r/django/.rss</div><div>2024-09-13 14:40:58.747696+00:00</div><div><pre><!-- SC_OFF --><div><p>Hello everybody,</p> <p>I'm working on a big Django DRF application.<br/> Here I have certain views who are calling external APIs a lot, so it would be good to make them async. </p> <p>Now I'm a little uncertain what the best way for this is. I think using the normal django async views is not the best approach, because I would loose all the automatic permission handling, authentication and so on. Now as I'm writing this I'm now thinking that this may not even be so much and it may be the best approach?</p> <p>My other idea was to use the third party package ADRF. Does anybody have experience with this in production? </p> <p>I would also need to use a lot of sync_to_async here, so I can make queries on the database, this would sporn a lot of threads. But since this is the recommended way anyways for the normal django views, I think this is not such a big issue. </p> <p>Of course I'm already using celery for long running tasks. But s</p></div></pre></div></body></html>
