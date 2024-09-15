@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Confused AF, Scl pins not detecing.</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/raspberry_pi/comments/1fguuxl/confused_af_scl_pins_not_detecing"><h1>[1146201] Confused AF, Scl pins not detecing.</h1></a><div>https://www.reddit.com/r/raspberry_pi/.rss</div><div>2024-09-14 20:12:26+00:00</div><div><pre><table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1fguuxl/confused_af_scl_pins_not_detecing/"> <img src="https://b.thumbs.redditmedia.com/8mKHO6qvBfWkTNJbs73Kb_CWuywyko3E2wV5nT5YIFo.jpg"/> </a> </td><td> <!-- SC_OFF --><div><p>Title, I am trying to wire a raspberry pi pico with a mpu6050 on a perfboard. I have checked over and over again. No short circuits, all direct connections, etc. Yet when running code for the mpu6050, it gives me the bad scl pin error. </p> <p><code>from time import sleep</code></p> <p><code>import utime</code></p> <p><code>from imu import MPU6050</code></p> <p><code>from machine import Pin, I2C, PWM</code></p> <p><code>sleep(1)</code></p> <p><code># Initialize I2C and MPU6050</code></p> <p><code>i2c = I2C(0, sda=machine.Pin(11), scl=machine.Pin(10), freq=40000)</code></p> <p><code>imu = MPU6050(i2c)</code></p> <p><code>while True:</code></p> </div></td></tr></table></pre></div></body></html>

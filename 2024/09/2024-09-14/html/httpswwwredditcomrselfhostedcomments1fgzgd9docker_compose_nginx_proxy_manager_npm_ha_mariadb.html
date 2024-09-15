@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Docker Compose - Nginx Proxy Manager (NPM) HA MariaDB Galera Cluster</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/selfhosted/comments/1fgzgd9/docker_compose_nginx_proxy_manager_npm_ha_mariadb"><h1>[1146699] Docker Compose - Nginx Proxy Manager (NPM) HA MariaDB Galera Cluster</h1></a><div>https://www.reddit.com/r/selfhosted/.rss</div><div>2024-09-14 23:52:03+00:00</div><div><pre><!-- SC_OFF --><div><p>I wanted to see if anyone has configured and setup a HA NPM on docker. I have 3 docker hosts and I wanted to add redundancy to NPM since it's a crucial part of the network. Right now I have a script that basically clears out the secondary and tertiary node data and then copies over the data from the primary node. Not the best solution but works for now since I don't add new entries very often to NPM. </p> <p>To learn more about databases and clustering in general I was trying to see if I could get NPM to work with MariaDB and then have HA configured with a galera cluster. The plan is to open the the syncing ports on the host machines while restricting the client port (3306) to internal. Then let the databases sync with each other while restricting the client port to their local NPM container/local docker network. </p> <p>I guess my main questions are: how should I setup the galera cluster within docker? I found information of setting up the ga</p></div></pre></div></body></html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Determining memory layout (SV39/48/57) in userspace?</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/RISCV/comments/1fgcicm/determining_memory_layout_sv394857_in_userspace"><h1>[1142997] Determining memory layout (SV39/48/57) in userspace?</h1></a><div>https://www.reddit.com/r/RISCV/.rss</div><div>2024-09-14 02:51:59+00:00</div><div><pre><!-- SC_OFF --><div><p>I'm troubleshooting an issue with <a href="https://github.com/microsoft/mimalloc">mimalloc</a> on riscv64. One of mimalloc's tricks to improve performance on a 64-bit system is to give mmap a page-aligned hint in a part of the virtual address space that is unlikely to be in use. At the moment, it's using the 2TiB+ range for this. But on a RISC-V system with an <a href="https://www.kernel.org/doc/html/latest/arch/riscv/vm-layout.html">SV39 MMU</a>, the 2TiB range is unusable.</p> <p>This causes mmap to pick a different address, one that is likely <em>not</em> aligned, and that triggers a fallback in mimalloc. This wastes time on (almost) every allocation, so it's counterproductive.</p> <p>My question is: is there a reliable way to determine the size of the usable virtual address space at either build- or run-time? Basically it'd be nice to have a special case for SV39 that either uses a different range, or at least doesn't waste</p></div></pre></div></body></html>
