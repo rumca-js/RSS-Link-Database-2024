@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>NGINX Proxy Manager - Troubleshooting</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/selfhosted/comments/1fhg5q3/nginx_proxy_manager_troubleshooting"><h1>[1149295] NGINX Proxy Manager - Troubleshooting</h1></a><div>https://www.reddit.com/r/selfhosted/.rss</div><div>2024-09-15 16:09:55+00:00</div><div><pre><!-- SC_OFF --><div><p>Hello Everyone,</p> <p>I'm at a loss and need some help.</p> <p>I have a Raspberry PI running Docker on my local network. My aim is to be able to access various docker containers via domain - [mydomain].cfd. </p> <p>Below is a list of things I have installed to get me closer to a result:<br/> - Running RasperryPI connected to local network. Local IP reserved on Router - 192.168.0.10</p> <ul> <li><p>Installed NPM on Docker. Ports 8080:80 / 8181:80 / 8443:443</p></li> <li><p>Ports forwarded on Router. Address 192.168.0.10 (External: 80 / 81 / 443 -&gt; Internal: 8080 / 8181 / 8443)</p></li> <li><p>Bought a cheap domain on Porkburn.com. Created a cloudflare account and created the following setup:<br/> A name - 192.168.0.10 / [mydomain].cfd<br/> CNAME - [mydomain].cfd / *.mydomain.cfd</p></li> </ul> <p>Basically all my issues start from here.</p> <ul> <li>When I access NPM and try add an SSL by selecting 'Test server reachability', I get a re</li></ul></div></pre></div></body></html>

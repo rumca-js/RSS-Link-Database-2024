@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Proxmox Paperless Installation | Mount to NAS folder | WebUI not reachable</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/selfhosted/comments/1fh8pqc/proxmox_paperless_installation_mount_to_nas"><h1>[1147808] Proxmox Paperless Installation | Mount to NAS folder | WebUI not reachable</h1></a><div>https://www.reddit.com/r/selfhosted/.rss</div><div>2024-09-15 09:34:34+00:00</div><div><pre><!-- SC_OFF --><div><p>First of all - I'm completly new to proxmox, selfhosting, paperless, ... </p> <p>I'm trying to install a PaperlessNGX LXC on my proxmox server and I want to mount the paperless folder structure to my NAS. The NAS is mounted to /mnt/nas and this is my docker-compose.yml but I can't reach the WebUI after starting the docker container. </p> <p>I would be so happy if someone could help me. Please tell me if you need more information because I don't know what's important.</p> <pre><code>version: "3.4" services: broker: image: docker.io/library/redis:7 container_name: broker restart: unless-stopped volumes: - /mnt/nas/data/paperless/redis/_data:/data db: image: docker.io/library/postgres:13 container_name: db restart: unless-stopped volumes: - /mnt/nas/data/paperless/postgresql/_data:/var/lib/postgresql/data environment: POSTGRES_DB: paperless POSTGRES_USER: paperless POSTGRES_PASSWORD: paperless webserver: image: ghcr.io/paper</code></pre></div></pre></div></body></html>

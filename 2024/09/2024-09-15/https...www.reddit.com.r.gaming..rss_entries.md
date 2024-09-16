@@ -1,0 +1,233 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## If you were stuck with a series' soundtrack for the rest of your life, which series would you choose?
+ - [https://www.reddit.com/r/gaming/comments/1fhp2az/if_you_were_stuck_with_a_series_soundtrack_for](https://www.reddit.com/r/gaming/comments/1fhp2az/if_you_were_stuck_with_a_series_soundtrack_for)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T22:27:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;d choose the Xenoblade series. Though I haven&#39;t played 2, the first and third games&#39; soundtracks are phenomenal </p> <p>And you can&#39;t go wrong with Mechanical Rhythm for the rest of your life</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LuigiSecondary"> /u/LuigiSecondary </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhp2az/if_you_were_stuck_with_a_series_soundtrack_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhp2az/if_you_were_stuck_with_a_series_soundtrack_for/">[comments]</a></span>
+
+## Grandmaster Ursine Witcher and Knight Ciri armors by my wife. Compiled story of 2 years work
+ - [https://www.reddit.com/r/gaming/comments/1fho8bq/grandmaster_ursine_witcher_and_knight_ciri_armors](https://www.reddit.com/r/gaming/comments/1fho8bq/grandmaster_ursine_witcher_and_knight_ciri_armors)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T21:50:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fho8bq/grandmaster_ursine_witcher_and_knight_ciri_armors/"> <img src="https://external-preview.redd.it/l7QG1k_22xkPzITTVBT-9FpZphuTD1k-K5UTk_cJZQg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bc05aa0554a31b9d9c0fd6fe91a5cb6fdad164f5" alt="Grandmaster Ursine Witcher and Knight Ciri armors by my wife. Compiled story of 2 years work" title="Grandmaster Ursine Witcher and Knight Ciri armors by my wife. Compiled story of 2 years work" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alswulf"> /u/Alswulf </a> <br/> <span><a href="https://www.youtube.com/watch?v=COhGHgZ1DI4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fho8bq/grandmaster_ursine_witcher_and_knight_ciri_armors/">[comments]</a></span> </td></tr></table>
+
+## DayZ - I can't decide if I hate it or love it, but somehow I keep coming back
+ - [https://www.reddit.com/r/gaming/comments/1fhmxqk/dayz_i_cant_decide_if_i_hate_it_or_love_it_but](https://www.reddit.com/r/gaming/comments/1fhmxqk/dayz_i_cant_decide_if_i_hate_it_or_love_it_but)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T20:54:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhmxqk/dayz_i_cant_decide_if_i_hate_it_or_love_it_but/"> <img src="https://preview.redd.it/g3apj2fzc1pd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf1999c786b4c3779c0ae4130a2ae6875e4417f3" alt="DayZ - I can't decide if I hate it or love it, but somehow I keep coming back" title="DayZ - I can't decide if I hate it or love it, but somehow I keep coming back" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AiChiTheOne"> /u/AiChiTheOne </a> <br/> <span><a href="https://i.redd.it/g3apj2fzc1pd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhmxqk/dayz_i_cant_decide_if_i_hate_it_or_love_it_but/">[comments]</a></span> </td></tr></table>
+
+## That game you never remove. NEVER.
+ - [https://www.reddit.com/r/gaming/comments/1fhm2x4/that_game_you_never_remove_never](https://www.reddit.com/r/gaming/comments/1fhm2x4/that_game_you_never_remove_never)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T20:17:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhm2x4/that_game_you_never_remove_never/"> <img src="https://preview.redd.it/684f3re071pd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79ecee45310ef57ada2f37985b68918d6e7468be" alt="That game you never remove. NEVER. " title="That game you never remove. NEVER. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Get-the-Vibe"> /u/Get-the-Vibe </a> <br/> <span><a href="https://i.redd.it/684f3re071pd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhm2x4/that_game_you_never_remove_never/">[comments]</a></span> </td></tr></table>
+
+## Is Space Marine 2 worth it if I'm only interested in the pvp?
+ - [https://www.reddit.com/r/gaming/comments/1fhly2l/is_space_marine_2_worth_it_if_im_only_interested](https://www.reddit.com/r/gaming/comments/1fhly2l/is_space_marine_2_worth_it_if_im_only_interested)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T20:11:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>What the title says. I&#39;m not likely to ever play the pve content tbh but I keep hearing the pvp is genuinely great, so...worth the purchase for that? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/perfect_fifth_note"> /u/perfect_fifth_note </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhly2l/is_space_marine_2_worth_it_if_im_only_interested/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhly2l/is_space_marine_2_worth_it_if_im_only_interested/">[comments]</a></span>
+
+## As a One Piece fan I really wanna see a really good game.
+ - [https://www.reddit.com/r/gaming/comments/1fhlqw0/as_a_one_piece_fan_i_really_wanna_see_a_really](https://www.reddit.com/r/gaming/comments/1fhlqw0/as_a_one_piece_fan_i_really_wanna_see_a_really)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T20:03:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhlqw0/as_a_one_piece_fan_i_really_wanna_see_a_really/"> <img src="https://preview.redd.it/3ab6ikdk41pd1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=13af9f1d9e55ae15ee87c526f94beec28a6b1f82" alt="As a One Piece fan I really wanna see a really good game." title="As a One Piece fan I really wanna see a really good game." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Dragon Ball is back with an incredible looking game., Bleach is getting a new clean game. </p> <p>Naruto got the Storm series.</p> <p>Why not One Piece bro😭😭</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetalCannon"> /u/MetalCannon </a> <br/> <span><a href="https://i.redd.it/3ab6ikdk41pd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhlqw0/as_a_one_piece_fan_i_really_wanna_see_a_really/">[comments]</a></span> </td></tr></table>
+
+## DEATHSPRINT 66 Launch Trailer - Mario Kart with 200% more death and 300% more sprinting
+ - [https://www.reddit.com/r/gaming/comments/1fhljk1/deathsprint_66_launch_trailer_mario_kart_with_200](https://www.reddit.com/r/gaming/comments/1fhljk1/deathsprint_66_launch_trailer_mario_kart_with_200)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T19:54:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhljk1/deathsprint_66_launch_trailer_mario_kart_with_200/"> <img src="https://external-preview.redd.it/P0qUcEiOTEfXKCwA7AcGQSbJ-zFszG2vxRpFssnCJbM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=898f01e6a60e535fb9a016c170efd6def0f308eb" alt="DEATHSPRINT 66 Launch Trailer - Mario Kart with 200% more death and 300% more sprinting" title="DEATHSPRINT 66 Launch Trailer - Mario Kart with 200% more death and 300% more sprinting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_Verumex_"> /u/_Verumex_ </a> <br/> <span><a href="https://youtu.be/Z2iSmxKpOIM?si=pb5CrF9WOZvAn0u2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhljk1/deathsprint_66_launch_trailer_mario_kart_with_200/">[comments]</a></span> </td></tr></table>
+
+## Biggest gaming achievement.
+ - [https://www.reddit.com/r/gaming/comments/1fhl9bf/biggest_gaming_achievement](https://www.reddit.com/r/gaming/comments/1fhl9bf/biggest_gaming_achievement)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T19:42:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>What&#39;s everyone&#39;s biggest gaming achievements? It could be anything from 100%ing any game to playing something with a challenge of your own.</p> <p>Personally my number one achievement is beating COD World at wars at veteran difficulty.</p> <p>Some others are beating amnesia the dark descent (I am not good with horror games) and beating Factorio on death world.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheEgyptianScouser"> /u/TheEgyptianScouser </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhl9bf/biggest_gaming_achievement/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhl9bf/biggest_gaming_achievement/">[comments]</a></span>
+
+## Warzone (2020)
+ - [https://www.reddit.com/r/gaming/comments/1fhk8pg/warzone_2020](https://www.reddit.com/r/gaming/comments/1fhk8pg/warzone_2020)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T19:00:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Here’s my first ever clip of verdansk. Gaming during covid was wild. (Not looking for subs just wanted to share a memory) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Willing-Resist-3218"> /u/Willing-Resist-3218 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhk8pg/warzone_2020/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhk8pg/warzone_2020/">[comments]</a></span>
+
+## What were yours self set goals in video games you never accomplished?
+ - [https://www.reddit.com/r/gaming/comments/1fhjqek/what_were_yours_self_set_goals_in_video_games_you](https://www.reddit.com/r/gaming/comments/1fhjqek/what_were_yours_self_set_goals_in_video_games_you)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T18:39:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me these were two: </p> <ol> <li>I always tried to create a graveyard in Sims 1 and 2 by jaling annoying neighbours and waiting until they died by starvation. It always took so long that I always lost the motivation for it</li> <li>Reach 100% in GTA San Andreas</li> </ol> <p>What were your goals you&#39;ve never rached?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/illHaveTwoNumbers9s"> /u/illHaveTwoNumbers9s </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhjqek/what_were_yours_self_set_goals_in_video_games_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhjqek/what_were_yours_self_set_goals_in_video_games_you/">[comments]</a></span>
+
+## What game was well received at first but was bashed by critics in hindsight?
+ - [https://www.reddit.com/r/gaming/comments/1fhi7yt/what_game_was_well_received_at_first_but_was](https://www.reddit.com/r/gaming/comments/1fhi7yt/what_game_was_well_received_at_first_but_was)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T17:36:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>We all know games that are &quot;sleeper hits&quot;, but what about the other way around? Games that were considered good at the time of their release, but years later were not favorably remembered?</p> <p>The first example that pops in my mind is Castlevania II - Simon&#39;s Quest. Critics seemed to like the RPG elements at the time, but nowadays almost everyone agrees it&#39;s a very flawed game and inferior to its predecessor.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lessthanfox"> /u/lessthanfox </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhi7yt/what_game_was_well_received_at_first_but_was/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhi7yt/what_game_was_well_received_at_first_but_was/">[comments]</a></span>
+
+## Microsoft is planning to end Kernel-level anti cheats.
+ - [https://www.reddit.com/r/gaming/comments/1fhhjzy/microsoft_is_planning_to_end_kernellevel_anti](https://www.reddit.com/r/gaming/comments/1fhhjzy/microsoft_is_planning_to_end_kernellevel_anti)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T17:08:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhhjzy/microsoft_is_planning_to_end_kernellevel_anti/"> <img src="https://preview.redd.it/79afbced90pd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf58ca84328c77696b02bab624e082aafc39230c" alt="Microsoft is planning to end Kernel-level anti cheats." title="Microsoft is planning to end Kernel-level anti cheats." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thezerostone"> /u/Thezerostone </a> <br/> <span><a href="https://i.redd.it/79afbced90pd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhhjzy/microsoft_is_planning_to_end_kernellevel_anti/">[comments]</a></span> </td></tr></table>
+
+## Not sure what game to buy next
+ - [https://www.reddit.com/r/gaming/comments/1fhhe8e/not_sure_what_game_to_buy_next](https://www.reddit.com/r/gaming/comments/1fhhe8e/not_sure_what_game_to_buy_next)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T17:01:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a bunch in mind, all are different but i’d like to hear some suggestions. I’m looking for something with replayability or something i can play for a while.</p> <p>Currently i’m looking at: God of War, DayZ, Outlast Trials, Sea of Thieves, Stardew Valley, Skyrim, Kenshi, RoboBeat, Absolver or Sons of the Forest. Any advice, recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/notpetite"> /u/notpetite </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhhe8e/not_sure_what_game_to_buy_next/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhhe8e/not_sure_what_game_to_buy_next/">[comments]</a></span>
+
+## We finally figured out how to use the Cricut and I knew the first thing I had to do
+ - [https://www.reddit.com/r/gaming/comments/1fhg8e6/we_finally_figured_out_how_to_use_the_cricut_and](https://www.reddit.com/r/gaming/comments/1fhg8e6/we_finally_figured_out_how_to_use_the_cricut_and)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T16:13:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhg8e6/we_finally_figured_out_how_to_use_the_cricut_and/"> <img src="https://preview.redd.it/gkg0kulgzzod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d267df692945195f2ec62e6c8516bb9148d888b" alt="We finally figured out how to use the Cricut and I knew the first thing I had to do " title="We finally figured out how to use the Cricut and I knew the first thing I had to do " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/axe_cannon"> /u/axe_cannon </a> <br/> <span><a href="https://i.redd.it/gkg0kulgzzod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhg8e6/we_finally_figured_out_how_to_use_the_cricut_and/">[comments]</a></span> </td></tr></table>
+
+## First Ontario game dev labour union formed at Joydrop, majority of staff who voted reportedly fired
+ - [https://www.reddit.com/r/gaming/comments/1fhfuqh/first_ontario_game_dev_labour_union_formed_at](https://www.reddit.com/r/gaming/comments/1fhfuqh/first_ontario_game_dev_labour_union_formed_at)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T15:57:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhfuqh/first_ontario_game_dev_labour_union_formed_at/"> <img src="https://external-preview.redd.it/Z3FcTTT2HhxyLe7D-_any3ieOO5IB5YMLGIworry9Ko.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ce9f1e2b6cf3c944ef7295c4a2e8c091ce43140" alt="First Ontario game dev labour union formed at Joydrop, majority of staff who voted reportedly fired" title="First Ontario game dev labour union formed at Joydrop, majority of staff who voted reportedly fired" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/owensoundgamedev"> /u/owensoundgamedev </a> <br/> <span><a href="https://www.gamesindustry.biz/first-ontario-game-dev-labour-union-formed-at-joydrop-majority-of-staff-who-voted-reportedly-fired?trk=feed-detail_main-feed-card_feed-article-content">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhfuqh/first_ontario_game_dev_labour_union_formed_at/">[comments]</a></span
+
+## I wonder what would happen if Nintendo made an ad like this today.
+ - [https://www.reddit.com/r/gaming/comments/1fhf2xy/i_wonder_what_would_happen_if_nintendo_made_an_ad](https://www.reddit.com/r/gaming/comments/1fhf2xy/i_wonder_what_would_happen_if_nintendo_made_an_ad)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T15:24:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BaronVonBroccoli"> /u/BaronVonBroccoli </a> <br/> <span><a href="https://i.redd.it/ph55ujjlqzod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhf2xy/i_wonder_what_would_happen_if_nintendo_made_an_ad/">[comments]</a></span>
+
+## Annapurna Video-Game Team Resigns, Leaving Partners Scrambling
+ - [https://www.reddit.com/r/gaming/comments/1fhdefh/annapurna_videogame_team_resigns_leaving_partners](https://www.reddit.com/r/gaming/comments/1fhdefh/annapurna_videogame_team_resigns_leaving_partners)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T14:10:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhdefh/annapurna_videogame_team_resigns_leaving_partners/"> <img src="https://external-preview.redd.it/6U6Pzuz0cFeAjV0r-yQ02G0nnxbSTZXWbK5RxwIcXj0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac374b6a922dc39e694377dd519e9e3958b09397" alt="Annapurna Video-Game Team Resigns, Leaving Partners Scrambling" title="Annapurna Video-Game Team Resigns, Leaving Partners Scrambling" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/biochip"> /u/biochip </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2024-09-12/annapurna-video-game-team-resigns-leaving-partners-scrambling">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhdefh/annapurna_videogame_team_resigns_leaving_partners/">[comments]</a></span> </td></tr></table>
+
+## EA, why haven't you remastered this gem yet? Don't you want my money?
+ - [https://www.reddit.com/r/gaming/comments/1fhd4q1/ea_why_havent_you_remastered_this_gem_yet_dont](https://www.reddit.com/r/gaming/comments/1fhd4q1/ea_why_havent_you_remastered_this_gem_yet_dont)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T13:58:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhd4q1/ea_why_havent_you_remastered_this_gem_yet_dont/"> <img src="https://preview.redd.it/u3t7ttugbzod1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2bfad6054a6d295a84740e706d579bc930b8da30" alt="EA, why haven't you remastered this gem yet? Don't you want my money?" title="EA, why haven't you remastered this gem yet? Don't you want my money?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wonderful-Zebra-6439"> /u/Wonderful-Zebra-6439 </a> <br/> <span><a href="https://i.redd.it/u3t7ttugbzod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhd4q1/ea_why_havent_you_remastered_this_gem_yet_dont/">[comments]</a></span> </td></tr></table>
+
+## What's a game where you went "momma didn't raise no bitch" and picked the hardest difficulty, only to get your ass handed to you?
+ - [https://www.reddit.com/r/gaming/comments/1fhcglz/whats_a_game_where_you_went_momma_didnt_raise_no](https://www.reddit.com/r/gaming/comments/1fhcglz/whats_a_game_where_you_went_momma_didnt_raise_no)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T13:25:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me it was dead space 2. I&#39;m hard headed so I managed without turning it down, but I screwed myself with regards to immersion with all the reloading I had to do</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Askin_Real_Questions"> /u/Askin_Real_Questions </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhcglz/whats_a_game_where_you_went_momma_didnt_raise_no/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhcglz/whats_a_game_where_you_went_momma_didnt_raise_no/">[comments]</a></span>
+
+## What's your go-to PVP game at the moment?
+ - [https://www.reddit.com/r/gaming/comments/1fhc7lr/whats_your_goto_pvp_game_at_the_moment](https://www.reddit.com/r/gaming/comments/1fhc7lr/whats_your_goto_pvp_game_at_the_moment)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T13:12:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>What&#39;s your go-to PVP game at the moment?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Delevia"> /u/Delevia </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhc7lr/whats_your_goto_pvp_game_at_the_moment/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhc7lr/whats_your_goto_pvp_game_at_the_moment/">[comments]</a></span>
+
+## Just some Warhammer game editions I have
+ - [https://www.reddit.com/r/gaming/comments/1fhc0gd/just_some_warhammer_game_editions_i_have](https://www.reddit.com/r/gaming/comments/1fhc0gd/just_some_warhammer_game_editions_i_have)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T13:03:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhc0gd/just_some_warhammer_game_editions_i_have/"> <img src="https://preview.redd.it/cn1twkjk1zod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f32b5099cf5396bcc46bb2a6a8fec66d50559728" alt="Just some Warhammer game editions I have" title="Just some Warhammer game editions I have" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GabbaGibbon1095"> /u/GabbaGibbon1095 </a> <br/> <span><a href="https://i.redd.it/cn1twkjk1zod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhc0gd/just_some_warhammer_game_editions_i_have/">[comments]</a></span> </td></tr></table>
+
+## I just replayed Antichamber after years, and it's still one of the best puzzle games noone talks about.
+ - [https://www.reddit.com/r/gaming/comments/1fhbuwp/i_just_replayed_antichamber_after_years_and_its](https://www.reddit.com/r/gaming/comments/1fhbuwp/i_just_replayed_antichamber_after_years_and_its)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T12:55:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>With all the mind-bending puzzle games out there, I feel like Antichamber never got the attention it deserved. I recently dove back into it, and honestly, it’s still one of the most unique puzzle experiences I’ve ever had. </p> <p>The way it messes with your perception of space and logic is genius, and it’s such a refreshing break from the usual game formula. I’m surprised more people don’t talk about it. Did anyone else play this back in the day, or has Antichamber been flying under the radar for most gamers?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alarmed_Feet336"> /u/Alarmed_Feet336 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhbuwp/i_just_replayed_antichamber_after_years_and_its/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fhbuwp/i_just_replayed_antichamber_after_years_and_its/">[comments]</a></span>
+
+## Games that I can play for 15 mins during my study break?
+ - [https://www.reddit.com/r/gaming/comments/1fhankm/games_that_i_can_play_for_15_mins_during_my_study](https://www.reddit.com/r/gaming/comments/1fhankm/games_that_i_can_play_for_15_mins_during_my_study)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T11:47:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m doing the pomodoro thing. 1 hour of study and 20 mins break is the ratio I&#39;ve decided upon. Sometimes I&#39;ll watch anime on my break. However I find myself to not be refreshed sometimes I do that. So I was wondering if there were any games that either</p> <p>You can only play for 15 mins a day or</p> <p>1 session is only 15 mins. </p> <p>People have suggested hades online so maybe I&#39;ll try that. I personally have been playing Pokémon sleep which just doesn&#39;t have things to do so you only spend like 15 mins at best a day on it. I&#39;ve also been playing games like connections and wordle but have gotten slightly bored from them now. </p> <p>Also if yall have any good non gaming study break alternatives lmk.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YammaTamma"> /u/YammaTamma </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fhankm/games_that_i_can_play_for_15_mins_duri
+
+## Former Bungie lawyer says Sony’s "discipline" forced Bungie to "get their heads out of their asses" and "fix the things that were wrong with their game." "This is the future I thought the company should embrace after the Sony acquisition: a studio, not an 'independent company'.
+ - [https://www.reddit.com/r/gaming/comments/1fhaegw/former_bungie_lawyer_says_sonys_discipline_forced](https://www.reddit.com/r/gaming/comments/1fhaegw/former_bungie_lawyer_says_sonys_discipline_forced)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T11:31:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fhaegw/former_bungie_lawyer_says_sonys_discipline_forced/"> <img src="https://external-preview.redd.it/zAykU_BFYCVwF7Dc3lorgF_OcYruNk7lx_iIuN-6NcQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a315fa4bb7c6a81c4bce3b397d941d08d962c5a" alt="Former Bungie lawyer says Sony’s &quot;discipline&quot; forced Bungie to &quot;get their heads out of their asses&quot; and &quot;fix the things that were wrong with their game.&quot; &quot;This is the future I thought the company should embrace after the Sony acquisition: a studio, not an 'independent company'." title="Former Bungie lawyer says Sony’s &quot;discipline&quot; forced Bungie to &quot;get their heads out of their asses&quot; and &quot;fix the things that were wrong with their game.&quot; &quot;This is the future I thought the company should embrace after the Sony acquisition: a studio, not an 'independent company'." /> </a> </td><td> &#32; submitted by &#32; <a href=
+
+## Hector's Last Mission - a father and son indie production.
+ - [https://www.reddit.com/r/gaming/comments/1fh8oi1/hectors_last_mission_a_father_and_son_indie](https://www.reddit.com/r/gaming/comments/1fh8oi1/hectors_last_mission_a_father_and_son_indie)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T09:30:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fh8oi1/hectors_last_mission_a_father_and_son_indie/"> <img src="https://preview.redd.it/ji7c40clyxod1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=65b9e02d39730e46041175f3165820d63453449f" alt="Hector's Last Mission - a father and son indie production." title="Hector's Last Mission - a father and son indie production." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dramatic-Swimming463"> /u/Dramatic-Swimming463 </a> <br/> <span><a href="https://i.redd.it/ji7c40clyxod1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh8oi1/hectors_last_mission_a_father_and_son_indie/">[comments]</a></span> </td></tr></table>
+
+## Where did all the stealth go???
+ - [https://www.reddit.com/r/gaming/comments/1fh84ul/where_did_all_the_stealth_go](https://www.reddit.com/r/gaming/comments/1fh84ul/where_did_all_the_stealth_go)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T08:50:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>The new Assassin&#39;s Creed game is coming out soon and while I wait I&#39;ve been itching for some stealth but when I look out into the modern market for good stealth I see... nothing. Most of the &quot;stealth&quot; in modern games is exceptionally boring (Spiderman 2) or lacking in depth (Ghost of Tsushima). 10 years ago we had the Arkham games, prime Assassin&#39;s Creed, Dishonored, Splinter Cell, Metal Gear but now the well runs dry. These games sold well! They were amazing games and had very good stealth. What happened?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mr_P3"> /u/Mr_P3 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fh84ul/where_did_all_the_stealth_go/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh84ul/where_did_all_the_stealth_go/">[comments]</a></span>
+
+## Ai dating
+ - [https://www.reddit.com/r/gaming/comments/1fh837z/ai_dating](https://www.reddit.com/r/gaming/comments/1fh837z/ai_dating)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T08:47:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fh837z/ai_dating/"> <img src="https://preview.redd.it/ke01lkjwrxod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abb75f67dd8d8e25b9bbf38e920312dd2ca71e00" alt="Ai dating" title="Ai dating" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hoppy_Doodle"> /u/Hoppy_Doodle </a> <br/> <span><a href="https://i.redd.it/ke01lkjwrxod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh837z/ai_dating/">[comments]</a></span> </td></tr></table>
+
+## [No spoilers] Really struggling with Outer Wilds
+ - [https://www.reddit.com/r/gaming/comments/1fh7zwa/no_spoilers_really_struggling_with_outer_wilds](https://www.reddit.com/r/gaming/comments/1fh7zwa/no_spoilers_really_struggling_with_outer_wilds)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T08:40:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve played about 6-8 hours in approx 6 sittings. I love the vibes and the mystery, but I&#39;m finding the controls incredibly hard for some reason, both flying and first person, and I keep dying. I spend all my time trying to get back to the clue I just found and then immediately die. I decide to try another planet and same thing happens.</p> <p>Did you get used to the controls over time?</p> <p>Am I just rubbish? (It&#39;s fine if this is the answer btw, ha, no gamer ego here)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SighMartini"> /u/SighMartini </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fh7zwa/no_spoilers_really_struggling_with_outer_wilds/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh7zwa/no_spoilers_really_struggling_with_outer_wilds/">[comments]</a></span>
+
+## Microsoft paves the way for Linux gaming success with plan that would kill kernel-level anti-cheat
+ - [https://www.reddit.com/r/gaming/comments/1fh6z9u/microsoft_paves_the_way_for_linux_gaming_success](https://www.reddit.com/r/gaming/comments/1fh6z9u/microsoft_paves_the_way_for_linux_gaming_success)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T07:26:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fh6z9u/microsoft_paves_the_way_for_linux_gaming_success/"> <img src="https://external-preview.redd.it/zpMq5sS0_2w8MTHrD11u1T5rN6Amjq4iKYwWodGAG00.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19129c2e5e705e8df7397df9ae363c9d90e66d02" alt="Microsoft paves the way for Linux gaming success with plan that would kill kernel-level anti-cheat" title="Microsoft paves the way for Linux gaming success with plan that would kill kernel-level anti-cheat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/testus_maximus"> /u/testus_maximus </a> <br/> <span><a href="https://www.notebookcheck.net/Microsoft-paves-the-way-for-Linux-gaming-success-with-plan-that-would-kill-kernel-level-anti-cheat.888345.0.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh6z9u/microsoft_paves_the_way_for_linux_gaming_success/">[comments]</a></span> </td></tr></table>
+
+## Simple Questions Sunday!
+ - [https://www.reddit.com/r/gaming/comments/1fh5r6z/simple_questions_sunday](https://www.reddit.com/r/gaming/comments/1fh5r6z/simple_questions_sunday)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T06:00:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>For those questions that don&#39;t feel worthy of a whole new post.</p> <p>This thread is posted weekly on Sundays (adjustments made as needed).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fh5r6z/simple_questions_sunday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh5r6z/simple_questions_sunday/">[comments]</a></span>
+
+## Just finished Deus Ex Human Revolution and Mankind Divided - so happy and so sad at the same time
+ - [https://www.reddit.com/r/gaming/comments/1fh4p65/just_finished_deus_ex_human_revolution_and](https://www.reddit.com/r/gaming/comments/1fh4p65/just_finished_deus_ex_human_revolution_and)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T04:49:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just...holy shit. I played these right after finishing my 4th run in Cyberpunk (with PL), and I went in expecting a palette cleanser of a similar-if-dated couple of games but goddamn they were <em>amazing</em>. Scratched every &quot;explore ALL the ways to approach a mission, go stealth or kill everything that moves, find all the hidden areas, all the different ways to solve a problem, and get totally immersed in the story along the way&quot; itch I have. </p> <p>93 hours in Human Revolution, and 120 hours (inlcuding DLC) in Mankind Divided. Pretty mind-blowing level of immersion and content (granted I&#39;m the &quot;explore every damn alley and air shaft&quot; type of player). I only maxed 60ish hours in each of the Mass Effect games, and topped 160 in Cyberpunk with Phantom Liberty which is massive in scale compared to Deus Ex. So glad I got to experience them, and so damn sad we probably won&#39;t have any more in the near future.</p> </div><!-- S
+
+## Underrated Gem 💎
+ - [https://www.reddit.com/r/gaming/comments/1fh3ylv/underrated_gem](https://www.reddit.com/r/gaming/comments/1fh3ylv/underrated_gem)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T04:04:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fh3ylv/underrated_gem/"> <img src="https://preview.redd.it/bfdnpxthdwod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11ebafc8f60a2c1f7bf73b1c9d3f97695a5d2bff" alt="Underrated Gem 💎 " title="Underrated Gem 💎 " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Minish Cap on Steam Deck </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SonOfSlyherin"> /u/SonOfSlyherin </a> <br/> <span><a href="https://i.redd.it/bfdnpxthdwod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh3ylv/underrated_gem/">[comments]</a></span> </td></tr></table>
+
+## Which game is known for having iconic cheat codes?
+ - [https://www.reddit.com/r/gaming/comments/1fh3m8l/which_game_is_known_for_having_iconic_cheat_codes](https://www.reddit.com/r/gaming/comments/1fh3m8l/which_game_is_known_for_having_iconic_cheat_codes)
+ - RSS feed: https://www.reddit.com/r/gaming/.rss
+ - date published: 2024-09-15T03:43:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>What game has the most famous cheat codes?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dabor11"> /u/dabor11 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fh3m8l/which_game_is_known_for_having_iconic_cheat_codes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fh3m8l/which_game_is_known_for_having_iconic_cheat_codes/">[comments]</a></span>
+

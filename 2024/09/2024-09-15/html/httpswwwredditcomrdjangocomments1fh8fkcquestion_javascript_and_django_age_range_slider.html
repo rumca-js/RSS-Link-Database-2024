@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Question: Javascript and Django age range slider</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/django/comments/1fh8fkc/question_javascript_and_django_age_range_slider"><h1>[1147767] Question: Javascript and Django age range slider</h1></a><div>https://www.reddit.com/r/django/.rss</div><div>2024-09-15 09:12:19+00:00</div><div><pre><!-- SC_OFF --><div><p>Hi everyone,</p> <p>I am trying to create an age range slider but I'm having trouble with "linking" JavaScript and Django together. On my post_form.html page the user needs to use a slider to specify an age range. This works perfectly fine, but when I adjust the age range to "23-30" for instance, it is not being updated in the actual post (post_detail.html). I know this is the case because the age_range is not being stored in the database, but I don't know how to fix this. Can anyone help me out?</p> <p>In my <a href="http://models.py">models.py</a> I have set a default age range of "18-25"</p> <pre><code>class Post(models.Model): title = models.CharField(max_length=100) content = models.TextField() date_posted = models.DateTimeField(default=timezone.now) location = models.CharField(max_length=100, choices=DUTCH_CITIES, default="Amsterdam") number_of_people = models.PositiveIntegerField(validators=[MinVa</code></pre></div></pre></div></body></html>

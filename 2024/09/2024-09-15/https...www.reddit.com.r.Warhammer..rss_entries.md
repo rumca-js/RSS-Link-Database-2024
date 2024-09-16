@@ -1,0 +1,261 @@
+# Source:All things Warhammer!, URL:https://www.reddit.com/r/Warhammer/.rss, language:en
+
+## My Girlfriends Progress!
+ - [https://www.reddit.com/r/Warhammer/comments/1fhosah/my_girlfriends_progress](https://www.reddit.com/r/Warhammer/comments/1fhosah/my_girlfriends_progress)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T22:14:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhosah/my_girlfriends_progress/"> <img src="https://b.thumbs.redditmedia.com/nlqtGRCt4zGNWtJJc0w84-4BoGNib9fOWLxjBzygcJo.jpg" alt="My Girlfriends Progress!" title="My Girlfriends Progress!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A while back I made a post showcasing my Girlfriends Company Champion, now she has completed more! I just had to buy something for her, and she chose intercessors! C+C please Proud bf Thankyou again for the support from the first post guys!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zuromeax2"> /u/Zuromeax2 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhosah">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhosah/my_girlfriends_progress/">[comments]</a></span> </td></tr></table>
+
+## What is your Hobbying Endgame? When do you stop collecting models?
+ - [https://www.reddit.com/r/Warhammer/comments/1fhnjne/what_is_your_hobbying_endgame_when_do_you_stop](https://www.reddit.com/r/Warhammer/comments/1fhnjne/what_is_your_hobbying_endgame_when_do_you_stop)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T21:20:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been collecting/building/painting Warhammer off and on for about 2/3 years now. I love the hobby as it&#39;s a rare mix of handiwork, artistic expression, playing with friends and fantasy/escapism. </p> <p>I&#39;ve managed to gather 2000 point armies for S2D and Khorne in AoS, and around 1500 points of Daemons for 40k. I&#39;m starting to get tempted by a few other 40k armies (since my factions rarely get new models) but I&#39;m running out of display space for my miniatures (which aren&#39;t super well painted but they mean a lot to me). Do we ever just decide that you have enough miniatures and want to play with what you have without adding to your collection? I think without the allure of getting new models, I may get a bit lazy with organising games to actually play with what I have.</p> <p>Sorry for the hobby existentialism, I know the answer is probably about budgeting new model limits and selling/storing old ones but I really just want
+
+## WIP, basing ideas?
+ - [https://www.reddit.com/r/Warhammer/comments/1fhm41a/wip_basing_ideas](https://www.reddit.com/r/Warhammer/comments/1fhm41a/wip_basing_ideas)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T20:19:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhm41a/wip_basing_ideas/"> <img src="https://b.thumbs.redditmedia.com/c511nVvDA1gdeTligC23ne3w5VopkPzWH9XeSkraNcU.jpg" alt="WIP, basing ideas?" title="WIP, basing ideas?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Almost done with this gunship, but can&#39;t decide what to do for the base. Any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FtF_Alters"> /u/FtF_Alters </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhm41a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhm41a/wip_basing_ideas/">[comments]</a></span> </td></tr></table>
+
+## Painted some cataphractii terminators for the world eaters
+ - [https://www.reddit.com/r/Warhammer/comments/1fhlwuz/painted_some_cataphractii_terminators_for_the](https://www.reddit.com/r/Warhammer/comments/1fhlwuz/painted_some_cataphractii_terminators_for_the)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T20:10:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhlwuz/painted_some_cataphractii_terminators_for_the/"> <img src="https://preview.redd.it/8aks8i5s51pd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3959837cc97726935eb54be13a601092e0438567" alt="Painted some cataphractii terminators for the world eaters" title="Painted some cataphractii terminators for the world eaters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/warpcolor"> /u/warpcolor </a> <br/> <span><a href="https://i.redd.it/8aks8i5s51pd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhlwuz/painted_some_cataphractii_terminators_for_the/">[comments]</a></span> </td></tr></table>
+
+## Second krieg battalion finished, may be iused lot of shades
+ - [https://www.reddit.com/r/Warhammer/comments/1fhlrt7/second_krieg_battalion_finished_may_be_iused_lot](https://www.reddit.com/r/Warhammer/comments/1fhlrt7/second_krieg_battalion_finished_may_be_iused_lot)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T20:04:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhlrt7/second_krieg_battalion_finished_may_be_iused_lot/"> <img src="https://b.thumbs.redditmedia.com/hrhcxsxVShf4DDSIJ9ZjIp4ukzTMy9qavL0jq572NTI.jpg" alt="Second krieg battalion finished, may be iused lot of shades" title="Second krieg battalion finished, may be iused lot of shades" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sofotc"> /u/Sofotc </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhlrt7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhlrt7/second_krieg_battalion_finished_may_be_iused_lot/">[comments]</a></span> </td></tr></table>
+
+## Mesazar Aegypius ‘The Vulture’ of the Death Spectres
+ - [https://www.reddit.com/r/Warhammer/comments/1fhlhkg/mesazar_aegypius_the_vulture_of_the_death_spectres](https://www.reddit.com/r/Warhammer/comments/1fhlhkg/mesazar_aegypius_the_vulture_of_the_death_spectres)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T19:52:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhlhkg/mesazar_aegypius_the_vulture_of_the_death_spectres/"> <img src="https://preview.redd.it/i8ndcbnl21pd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=583b9322c1b22fbdea332f3e209847e68780b9e7" alt="Mesazar Aegypius ‘The Vulture’ of the Death Spectres" title="Mesazar Aegypius ‘The Vulture’ of the Death Spectres" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Used a series of kits and printed parts to create a custom Chapter Master for my Death Spectre army. Took me a month but I’m happy with him 😀</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Firm-Engineering2175"> /u/Firm-Engineering2175 </a> <br/> <span><a href="https://i.redd.it/i8ndcbnl21pd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhlhkg/mesazar_aegypius_the_vulture_of_the_death_spectres/">[comments]</a></span> </td></tr></table>
+
+## Ditching the Disc is one hell of a Scream - Ahriman and 4x Screamers - C&C welcome!
+ - [https://www.reddit.com/r/Warhammer/comments/1fhl9d2/ditching_the_disc_is_one_hell_of_a_scream_ahriman](https://www.reddit.com/r/Warhammer/comments/1fhl9d2/ditching_the_disc_is_one_hell_of_a_scream_ahriman)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T19:42:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhl9d2/ditching_the_disc_is_one_hell_of_a_scream_ahriman/"> <img src="https://b.thumbs.redditmedia.com/_cL2d2b8NQUuABWlbn8sLbekrC_YlfEX0JFI65xBMpo.jpg" alt="Ditching the Disc is one hell of a Scream - Ahriman and 4x Screamers - C&amp;C welcome!" title="Ditching the Disc is one hell of a Scream - Ahriman and 4x Screamers - C&amp;C welcome!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/steel_legs"> /u/steel_legs </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhl9d2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhl9d2/ditching_the_disc_is_one_hell_of_a_scream_ahriman/">[comments]</a></span> </td></tr></table>
+
+## Lady Olynder, Mortarch of Grief
+ - [https://www.reddit.com/r/Warhammer/comments/1fhk12q/lady_olynder_mortarch_of_grief](https://www.reddit.com/r/Warhammer/comments/1fhk12q/lady_olynder_mortarch_of_grief)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T18:51:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhk12q/lady_olynder_mortarch_of_grief/"> <img src="https://b.thumbs.redditmedia.com/rIc7uK-bbsO9DcS-ERqAM3z9RHPajaUXjFqADC4CaLo.jpg" alt="Lady Olynder, Mortarch of Grief" title="Lady Olynder, Mortarch of Grief" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>2 Days of work! And i think she looks perfect :) I made the gravestones myself very proud of those.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Memenap"> /u/Memenap </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhk12q">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhk12q/lady_olynder_mortarch_of_grief/">[comments]</a></span> </td></tr></table>
+
+## Squat Kill Team complete
+ - [https://www.reddit.com/r/Warhammer/comments/1fhivg0/squat_kill_team_complete](https://www.reddit.com/r/Warhammer/comments/1fhivg0/squat_kill_team_complete)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T18:03:39+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CopChef"> /u/CopChef </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhiv10">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhivg0/squat_kill_team_complete/">[comments]</a></span>
+
+## I painted a guy 2
+ - [https://www.reddit.com/r/Warhammer/comments/1fhhu0p/i_painted_a_guy_2](https://www.reddit.com/r/Warhammer/comments/1fhhu0p/i_painted_a_guy_2)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T17:20:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhhu0p/i_painted_a_guy_2/"> <img src="https://a.thumbs.redditmedia.com/v3OwrPNp4EMtY0-gHanpSEP9XjGMa6vbWL1uozYPfO0.jpg" alt="I painted a guy 2" title="I painted a guy 2" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I painted a guy! And this one is better than the last, I also painted a ripper swarm but I didnt like the way it Turned out.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Warm_Trip_9597"> /u/Warm_Trip_9597 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhhu0p">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhhu0p/i_painted_a_guy_2/">[comments]</a></span> </td></tr></table>
+
+## Vanguard Drip
+ - [https://www.reddit.com/r/Warhammer/comments/1fhgapb/vanguard_drip](https://www.reddit.com/r/Warhammer/comments/1fhgapb/vanguard_drip)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T16:15:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhgapb/vanguard_drip/"> <img src="https://preview.redd.it/zatva4fxzzod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bd140d5fc62f675bb669ecb7887aa3e659b575d" alt="Vanguard Drip" title="Vanguard Drip" /> </a> </td><td> <!-- SC_OFF --><div class="md"></div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bluejay255"> /u/Bluejay255 </a> <br/> <span><a href="https://i.redd.it/zatva4fxzzod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhgapb/vanguard_drip/">[comments]</a></span> </td></tr></table>
+
+## Guys, is It legit?
+ - [https://www.reddit.com/r/Warhammer/comments/1fhfwn4/guys_is_it_legit](https://www.reddit.com/r/Warhammer/comments/1fhfwn4/guys_is_it_legit)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T15:59:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhfwn4/guys_is_it_legit/"> <img src="https://external-preview.redd.it/MmlmNXlvenh3em9kMUg5L9KdOJaqBwQFuObJUjgPnTP6r2DzzH121diZvxHl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=682bea067c6433f9a24845ab78fd8b1807ea7b7e" alt="Guys, is It legit?" title="Guys, is It legit?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Commander_Rudzik"> /u/Commander_Rudzik </a> <br/> <span><a href="https://v.redd.it/zwbc9drxwzod1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhfwn4/guys_is_it_legit/">[comments]</a></span> </td></tr></table>
+
+## Thunder Warriors - Survivors of Urartu
+ - [https://www.reddit.com/r/Warhammer/comments/1fhfchn/thunder_warriors_survivors_of_urartu](https://www.reddit.com/r/Warhammer/comments/1fhfchn/thunder_warriors_survivors_of_urartu)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T15:35:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhfchn/thunder_warriors_survivors_of_urartu/"> <img src="https://b.thumbs.redditmedia.com/A5QB_RqfNbq8OYm82h8yU0TULvuNo9eXJmUxllc7k2g.jpg" alt="Thunder Warriors - Survivors of Urartu" title="Thunder Warriors - Survivors of Urartu" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BabuDakhal"> /u/BabuDakhal </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhfchn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhfchn/thunder_warriors_survivors_of_urartu/">[comments]</a></span> </td></tr></table>
+
+## Adeptus Astartes fanart by me
+ - [https://www.reddit.com/r/Warhammer/comments/1fhf9n8/adeptus_astartes_fanart_by_me](https://www.reddit.com/r/Warhammer/comments/1fhf9n8/adeptus_astartes_fanart_by_me)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T15:32:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhf9n8/adeptus_astartes_fanart_by_me/"> <img src="https://preview.redd.it/bfehnkh5szod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd4e41d32bba9d2bee09e25a3b715fc77b1016ba" alt="Adeptus Astartes fanart by me" title="Adeptus Astartes fanart by me" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SynSkyress"> /u/SynSkyress </a> <br/> <span><a href="https://i.redd.it/bfehnkh5szod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhf9n8/adeptus_astartes_fanart_by_me/">[comments]</a></span> </td></tr></table>
+
+## Jump-pack Sword brother
+ - [https://www.reddit.com/r/Warhammer/comments/1fhde77/jumppack_sword_brother](https://www.reddit.com/r/Warhammer/comments/1fhde77/jumppack_sword_brother)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T14:10:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhde77/jumppack_sword_brother/"> <img src="https://b.thumbs.redditmedia.com/tICoMOcAu8t1STFMNJgYHgc1atCj-tOaYt6y3FChH4E.jpg" alt="Jump-pack Sword brother" title="Jump-pack Sword brother" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I CAST FIST</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Financial_Block5461"> /u/Financial_Block5461 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhde77">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhde77/jumppack_sword_brother/">[comments]</a></span> </td></tr></table>
+
+## My Lord Kroak
+ - [https://www.reddit.com/r/Warhammer/comments/1fhdbpa/my_lord_kroak](https://www.reddit.com/r/Warhammer/comments/1fhdbpa/my_lord_kroak)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T14:07:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhdbpa/my_lord_kroak/"> <img src="https://b.thumbs.redditmedia.com/D6ge1svBSuk2egPhjE7HOoz7EdPFvgpN9idgGyO5w0I.jpg" alt="My Lord Kroak" title="My Lord Kroak" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LordBaconAndEggs"> /u/LordBaconAndEggs </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhdbpa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhdbpa/my_lord_kroak/">[comments]</a></span> </td></tr></table>
+
+## "Vengeance For Caliban!" Dark Angels Assault Intercessor Finished!
+ - [https://www.reddit.com/r/Warhammer/comments/1fhda92/vengeance_for_caliban_dark_angels_assault](https://www.reddit.com/r/Warhammer/comments/1fhda92/vengeance_for_caliban_dark_angels_assault)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T14:05:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhda92/vengeance_for_caliban_dark_angels_assault/"> <img src="https://b.thumbs.redditmedia.com/SPlezmVgDVlM09Bv5hO2GRi5FBOkhh3aPEQBTJpdw8A.jpg" alt="&quot;Vengeance For Caliban!&quot; Dark Angels Assault Intercessor Finished!" title="&quot;Vengeance For Caliban!&quot; Dark Angels Assault Intercessor Finished!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/utterchaospainting"> /u/utterchaospainting </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhda92">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhda92/vengeance_for_caliban_dark_angels_assault/">[comments]</a></span> </td></tr></table>
+
+## I've completed my first mini in a fairly long time, my first (test) Skaven!
+ - [https://www.reddit.com/r/Warhammer/comments/1fhcaaf/ive_completed_my_first_mini_in_a_fairly_long_time](https://www.reddit.com/r/Warhammer/comments/1fhcaaf/ive_completed_my_first_mini_in_a_fairly_long_time)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T13:16:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhcaaf/ive_completed_my_first_mini_in_a_fairly_long_time/"> <img src="https://b.thumbs.redditmedia.com/0hjDvK7hJ0-LuX1mhrtBPq9Ql8AF7Z1yaOtz2S40rFc.jpg" alt="I've completed my first mini in a fairly long time, my first (test) Skaven! " title="I've completed my first mini in a fairly long time, my first (test) Skaven! " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HeavilyBearded"> /u/HeavilyBearded </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhcaaf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhcaaf/ive_completed_my_first_mini_in_a_fairly_long_time/">[comments]</a></span> </td></tr></table>
+
+## Penitent Engines are ready
+ - [https://www.reddit.com/r/Warhammer/comments/1fhc317/penitent_engines_are_ready](https://www.reddit.com/r/Warhammer/comments/1fhc317/penitent_engines_are_ready)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T13:06:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Plane-Consequence-92"> /u/Plane-Consequence-92 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhc2mb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhc317/penitent_engines_are_ready/">[comments]</a></span>
+
+## For a gamer - what's a great way to get introduced to the Warhammer universe?
+ - [https://www.reddit.com/r/Warhammer/comments/1fhc0gn/for_a_gamer_whats_a_great_way_to_get_introduced](https://www.reddit.com/r/Warhammer/comments/1fhc0gn/for_a_gamer_whats_a_great_way_to_get_introduced)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T13:03:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I was always intrigued by Warhammer and I did briefly start Warhammer 40,000: Space Marine (2011) but didn&#39;t really know what&#39;s going on and why I&#39;m doing what I&#39;m doing. </p> <p>So long story short - what are the best games that either (or both) heavily focus on the lore or storytelling? Which games are best to understand the universe and the main factions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SirOxford"> /u/SirOxford </a> <br/> <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhc0gn/for_a_gamer_whats_a_great_way_to_get_introduced/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhc0gn/for_a_gamer_whats_a_great_way_to_get_introduced/">[comments]</a></span>
+
+## Would it be in my best interest to buy and play the first Warhammer Space Marine game before the (new) second one?
+ - [https://www.reddit.com/r/Warhammer/comments/1fhbe9z/would_it_be_in_my_best_interest_to_buy_and_play](https://www.reddit.com/r/Warhammer/comments/1fhbe9z/would_it_be_in_my_best_interest_to_buy_and_play)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T12:31:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhbe9z/would_it_be_in_my_best_interest_to_buy_and_play/"> <img src="https://b.thumbs.redditmedia.com/l5QIK9Ki8j7q0-Jk6nrM5EM7EYgIP_Yq0WwrauKKh-o.jpg" alt="Would it be in my best interest to buy and play the first Warhammer Space Marine game before the (new) second one?" title="Would it be in my best interest to buy and play the first Warhammer Space Marine game before the (new) second one?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Is there a coherent story that continues into the second game from the first one, or does it not make a difference?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/H4loR4ptor"> /u/H4loR4ptor </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhbe9z">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhbe9z/would_it_be_in_my_best_interest_to_buy_and_play/">[comments]</a></span> </td></tr></table>
+
+## 40k or AOS?
+ - [https://www.reddit.com/r/Warhammer/comments/1fhbb81/40k_or_aos](https://www.reddit.com/r/Warhammer/comments/1fhbb81/40k_or_aos)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T12:26:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Afternoon, I&#39;m looking for some advice from this wonderful community...</p> <p>I&#39;ve been into Warhammer for decades on the lore front but stopped the collecting and playing front in my late teens. I&#39;m now in my early 40s so thought I&#39;d have another go. </p> <p>Turns out I&#39;m really enjoying the modeling and painting aspect. I&#39;m in the UK and there&#39;s some good local clubs near me that play a variety of GW games. </p> <p>When I started back up I started with a GK squad and the battle sister combat patrol for 40k. I&#39;ve enjoyed and painted these models but now looking to actually get a army together to join the game nights. </p> <p>But honestly it&#39;s very intimidating. Most 40k people are playing 1000 and 2000 point games that can take hours and there&#39;s so much to learn. My concern is that I just dont have the time to dedicate to &#39;getting into&#39; 40k actual games at the moment let alone actually finding 4-5 hour
+
+## The free mini of this month (and my cat)
+ - [https://www.reddit.com/r/Warhammer/comments/1fhb1hw/the_free_mini_of_this_month_and_my_cat](https://www.reddit.com/r/Warhammer/comments/1fhb1hw/the_free_mini_of_this_month_and_my_cat)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T12:10:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fhb1hw/the_free_mini_of_this_month_and_my_cat/"> <img src="https://b.thumbs.redditmedia.com/cfDaSIrjpMyzrNbOaUA9h1aeNnCI5P1VC_b48H2C59g.jpg" alt="The free mini of this month (and my cat)" title="The free mini of this month (and my cat)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BallAlternative1029"> /u/BallAlternative1029 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fhb1hw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fhb1hw/the_free_mini_of_this_month_and_my_cat/">[comments]</a></span> </td></tr></table>
+
+## Angelic Ascent from the painting table(finally)
+ - [https://www.reddit.com/r/Warhammer/comments/1fh97hu/angelic_ascent_from_the_painting_tablefinally](https://www.reddit.com/r/Warhammer/comments/1fh97hu/angelic_ascent_from_the_painting_tablefinally)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T10:10:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/beaverman3000"> /u/beaverman3000 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fh972l">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh97hu/angelic_ascent_from_the_painting_tablefinally/">[comments]</a></span>
+
+## Lord Krel Dravenost “The Winged Butcher”
+ - [https://www.reddit.com/r/Warhammer/comments/1fh8tlu/lord_krel_dravenost_the_winged_butcher](https://www.reddit.com/r/Warhammer/comments/1fh8tlu/lord_krel_dravenost_the_winged_butcher)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T09:42:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh8tlu/lord_krel_dravenost_the_winged_butcher/"> <img src="https://preview.redd.it/me0pl13r1yod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76b821a12d3f7715006673d9ed1eeb3b1e55c43f" alt="Lord Krel Dravenost “The Winged Butcher”" title="Lord Krel Dravenost “The Winged Butcher”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/s0ulafein"> /u/s0ulafein </a> <br/> <span><a href="https://i.redd.it/me0pl13r1yod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh8tlu/lord_krel_dravenost_the_winged_butcher/">[comments]</a></span> </td></tr></table>
+
+## Best Warhammer book for beginner?
+ - [https://www.reddit.com/r/Warhammer/comments/1fh8tkc/best_warhammer_book_for_beginner](https://www.reddit.com/r/Warhammer/comments/1fh8tkc/best_warhammer_book_for_beginner)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T09:42:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>So my friend got me into Warhammer and I want to read some of the book. Well technically listen because I personally have a hard time reading a normal book that isn&#39;t a graphic novel. So I am getting the audiobooks, I would love to know some recommendations. I am not 100% new I do know some stuff from lore videos but still I would like something that I don&#39;t need vast knowledge on the lore to understand. One that did peak my interest was &quot;The fall of Cadia&quot; should I start with that one? If not any that I should start with. I also really like Yarrick and the salamanders so any with them I would love to listen too as well but If they aren&#39;t in the ones i should start with that&#39;s fine :).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Organic_Ad_1324"> /u/Organic_Ad_1324 </a> <br/> <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh8tkc/best_warhammer_book_for_beginner/">[link]<
+
+## My first ever painted Warhammer figurine
+ - [https://www.reddit.com/r/Warhammer/comments/1fh8kd2/my_first_ever_painted_warhammer_figurine](https://www.reddit.com/r/Warhammer/comments/1fh8kd2/my_first_ever_painted_warhammer_figurine)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T09:22:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh8kd2/my_first_ever_painted_warhammer_figurine/"> <img src="https://preview.redd.it/f02efwk5yxod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e36de48a08096966f0e4a9da7581fa6d94480a0" alt="My first ever painted Warhammer figurine" title="My first ever painted Warhammer figurine" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I did some mistake, mainly not reading the paint names but all in all I&#39;m happy with the results. Two more to go</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiguynb"> /u/indiguynb </a> <br/> <span><a href="https://i.redd.it/f02efwk5yxod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh8kd2/my_first_ever_painted_warhammer_figurine/">[comments]</a></span> </td></tr></table>
+
+## I made Iron Man on accident
+ - [https://www.reddit.com/r/Warhammer/comments/1fh8gqw/i_made_iron_man_on_accident](https://www.reddit.com/r/Warhammer/comments/1fh8gqw/i_made_iron_man_on_accident)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T09:14:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh8gqw/i_made_iron_man_on_accident/"> <img src="https://preview.redd.it/8qibxuutwxod1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=10ca645209ff0242ea743d297627d8e3e1793435" alt="I made Iron Man on accident" title="I made Iron Man on accident" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wolfeslayer04"> /u/Wolfeslayer04 </a> <br/> <span><a href="https://i.redd.it/8qibxuutwxod1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh8gqw/i_made_iron_man_on_accident/">[comments]</a></span> </td></tr></table>
+
+## How to pick Sternguard helmet color?
+ - [https://www.reddit.com/r/Warhammer/comments/1fh6g7i/how_to_pick_sternguard_helmet_color](https://www.reddit.com/r/Warhammer/comments/1fh6g7i/how_to_pick_sternguard_helmet_color)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T06:47:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry to be a bother, just a bit curious. My wife gifted me some Sternguard for my current project (Knights of Blood) and I&#39;m wondering how to pick what helmet color for them since I&#39;ve never painted them before? Is it required for them to change their helmet color?</p> <p>I know for the Ultramarines it&#39;s white, and Blood Angels it&#39;s gold, but unsure what I would go with for the KoB. Would I just go gold since they&#39;re a BA Successor, or am I still okay to keep their helmet red like their normal Marines?</p> <p>Thank you in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DustierSaturn"> /u/DustierSaturn </a> <br/> <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh6g7i/how_to_pick_sternguard_helmet_color/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh6g7i/how_to_pick_sternguard_helmet_color/">[comments]</a></span>
+
+## Skaven pestilens
+ - [https://www.reddit.com/r/Warhammer/comments/1fh6b88/skaven_pestilens](https://www.reddit.com/r/Warhammer/comments/1fh6b88/skaven_pestilens)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T06:37:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh6b88/skaven_pestilens/"> <img src="https://b.thumbs.redditmedia.com/VGpj9yRbKgXw9DYidxPiN8yhelJ7gusCoEkPzeA6kIQ.jpg" alt="Skaven pestilens" title="Skaven pestilens" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tilean_Bareller"> /u/Tilean_Bareller </a> <br/> <span><a href="https://www.reddit.com/gallery/1fh6b88">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh6b88/skaven_pestilens/">[comments]</a></span> </td></tr></table>
+
+## Brethren of the Bolt from Warhammer Underworlds
+ - [https://www.reddit.com/r/Warhammer/comments/1fh5w0o/brethren_of_the_bolt_from_warhammer_underworlds](https://www.reddit.com/r/Warhammer/comments/1fh5w0o/brethren_of_the_bolt_from_warhammer_underworlds)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T06:09:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh5w0o/brethren_of_the_bolt_from_warhammer_underworlds/"> <img src="https://b.thumbs.redditmedia.com/TMIM5w7p8-6lm3m6hW-NXGjv1FJq5Blf6usTeXRrcOs.jpg" alt="Brethren of the Bolt from Warhammer Underworlds" title="Brethren of the Bolt from Warhammer Underworlds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fishmode24"> /u/fishmode24 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fh5w0o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh5w0o/brethren_of_the_bolt_from_warhammer_underworlds/">[comments]</a></span> </td></tr></table>
+
+## Time for some Heresy! (Tzeench sorcerer fan art.)
+ - [https://www.reddit.com/r/Warhammer/comments/1fh5rbx/time_for_some_heresy_tzeench_sorcerer_fan_art](https://www.reddit.com/r/Warhammer/comments/1fh5rbx/time_for_some_heresy_tzeench_sorcerer_fan_art)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T06:00:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh5rbx/time_for_some_heresy_tzeench_sorcerer_fan_art/"> <img src="https://preview.redd.it/6p618furxwod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c3ada26ca7375598db8ef91afd55aa6fcd61d90" alt=" Time for some Heresy! (Tzeench sorcerer fan art.)" title=" Time for some Heresy! (Tzeench sorcerer fan art.)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Exzalia"> /u/Exzalia </a> <br/> <span><a href="https://i.redd.it/6p618furxwod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh5rbx/time_for_some_heresy_tzeench_sorcerer_fan_art/">[comments]</a></span> </td></tr></table>
+
+## first go at a living mini garden of nurgle
+ - [https://www.reddit.com/r/Warhammer/comments/1fh5d8l/first_go_at_a_living_mini_garden_of_nurgle](https://www.reddit.com/r/Warhammer/comments/1fh5d8l/first_go_at_a_living_mini_garden_of_nurgle)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T05:32:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh5d8l/first_go_at_a_living_mini_garden_of_nurgle/"> <img src="https://b.thumbs.redditmedia.com/ryLlsAorJOmgAfURcNNm6f0lqv_oiqFCdfgkeTAjQKw.jpg" alt="first go at a living mini garden of nurgle" title="first go at a living mini garden of nurgle" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/prier"> /u/prier </a> <br/> <span><a href="https://www.reddit.com/gallery/1fh5d8l">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh5d8l/first_go_at_a_living_mini_garden_of_nurgle/">[comments]</a></span> </td></tr></table>
+
+## Riverblades!
+ - [https://www.reddit.com/r/Warhammer/comments/1fh4p68/riverblades](https://www.reddit.com/r/Warhammer/comments/1fh4p68/riverblades)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T04:49:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh4p68/riverblades/"> <img src="https://preview.redd.it/ep0y8dkklwod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f5b3f8534fd555aab7f4d9efefa4ba2ef641146" alt="Riverblades!" title="Riverblades!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Honestly I didn’t love this kit to start but by the time I had finished them they really grew on me. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Baelemma"> /u/Baelemma </a> <br/> <span><a href="https://i.redd.it/ep0y8dkklwod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh4p68/riverblades/">[comments]</a></span> </td></tr></table>
+
+## My chosen for the 8th legion!
+ - [https://www.reddit.com/r/Warhammer/comments/1fh4itd/my_chosen_for_the_8th_legion](https://www.reddit.com/r/Warhammer/comments/1fh4itd/my_chosen_for_the_8th_legion)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T04:38:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheEsotericProphet"> /u/TheEsotericProphet </a> <br/> <span><a href="https://v.redd.it/e4u0k7iezvod1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh4itd/my_chosen_for_the_8th_legion/">[comments]</a></span>
+
+## Made the mark X helmet
+ - [https://www.reddit.com/r/Warhammer/comments/1fh1et6/made_the_mark_x_helmet](https://www.reddit.com/r/Warhammer/comments/1fh1et6/made_the_mark_x_helmet)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T01:37:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh1et6/made_the_mark_x_helmet/"> <img src="https://preview.redd.it/w7ajciianvod1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77123375ed1e0a89320b2acf63d8ddddc536be5e" alt="Made the mark X helmet" title="Made the mark X helmet" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Gonna also make a glass one so stay tuned for that</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Extreme_Leave_1536"> /u/Extreme_Leave_1536 </a> <br/> <span><a href="https://i.redd.it/w7ajciianvod1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh1et6/made_the_mark_x_helmet/">[comments]</a></span> </td></tr></table>
+
+## Warplock Bronze over Black is Gorgeous
+ - [https://www.reddit.com/r/Warhammer/comments/1fh02lq/warplock_bronze_over_black_is_gorgeous](https://www.reddit.com/r/Warhammer/comments/1fh02lq/warplock_bronze_over_black_is_gorgeous)
+ - RSS feed: https://www.reddit.com/r/Warhammer/.rss
+ - date published: 2024-09-15T00:24:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1fh02lq/warplock_bronze_over_black_is_gorgeous/"> <img src="https://b.thumbs.redditmedia.com/zt9HLyhcN-VZ4Nx9XY2HaofoayalDfIhMOeS4m7K2ik.jpg" alt="Warplock Bronze over Black is Gorgeous " title="Warplock Bronze over Black is Gorgeous " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GlennHaven"> /u/GlennHaven </a> <br/> <span><a href="https://www.reddit.com/gallery/1fh02lq">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1fh02lq/warplock_bronze_over_black_is_gorgeous/">[comments]</a></span> </td></tr></table>
+

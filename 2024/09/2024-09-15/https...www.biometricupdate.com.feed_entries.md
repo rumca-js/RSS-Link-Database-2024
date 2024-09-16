@@ -1,0 +1,46 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Biometric authentication invaluable, set to further enhance security in Africa
+ - [https://www.biometricupdate.com/202409/biometric-authentication-invaluable-set-to-further-enhance-security-in-africa](https://www.biometricupdate.com/202409/biometric-authentication-invaluable-set-to-further-enhance-security-in-africa)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-09-15T11:17:19+00:00
+
+
+		<img width="1440" height="960" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/24142826/paycode-financial-inclusion-Africa.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/24142826/paycode-financial-inclusion-Africa.jpg 1440w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/24142826/paycode-financial-inclusion-Africa-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/24142826/paycode-financial-inclusion-Africa-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/24142826/paycode-financial-inclusion-Africa-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/24142826/paycode-financial-inclusion-Africa-768x512.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" />
+		<a href="https://www.youtube.com/watch?v=x3RPVB2
+
+## Low birth registration, high cost hinder access to legal ID in Sub Saharan Africa
+ - [https://www.biometricupdate.com/202409/low-birth-registration-high-cost-hinder-access-to-legal-id-in-sub-saharan-africa](https://www.biometricupdate.com/202409/low-birth-registration-high-cost-hinder-access-to-legal-id-in-sub-saharan-africa)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-09-15T11:15:46+00:00
+
+
+		<img width="1536" height="713" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/19162604/simprints-contactless-biometric-fingerprints.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="simprints contactless biometric fingerprints" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/19162604/simprints-contactless-biometric-fingerprints.png 1536w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/19162604/simprints-contactless-biometric-fingerprints-300x139.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/19162604/simprints-contactless-biometric-fingerprints-1024x475.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/19162604/simprints-contactless-biometric-fingerprints-150x70.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/19162604/simprints-contactless-biometric-fingerprints-768x357.png 768w" sizes="(max-w
+
+## Saudi Arabia’s Absher boosts digital ID delivery, financial inclusion
+ - [https://www.biometricupdate.com/202409/saudi-arabias-absher-boosts-digital-id-delivery-financial-inclusion](https://www.biometricupdate.com/202409/saudi-arabias-absher-boosts-digital-id-delivery-financial-inclusion)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-09-15T02:15:57+00:00
+
+
+		<img width="1105" height="556" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia.png 1105w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-300x151.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-1024x515.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-150x75.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-768x386.png 768w" sizes="(max-width: 1105px) 100vw, 1105px" />
+		The <a href="https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z1/lZJBc4IwEIV_Sw9cySYUQnsDrAHBEW1VmksHOxhpkTBI5e8XLRerj
+
+## Saudi Arabia’s Absher digital identity for financial inclusion and transactions
+ - [https://www.biometricupdate.com/202409/saudi-arabias-absher-digital-identity-for-financial-inclusion-and-transactions](https://www.biometricupdate.com/202409/saudi-arabias-absher-digital-identity-for-financial-inclusion-and-transactions)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-09-15T02:15:57+00:00
+
+
+		<img width="1105" height="556" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia.png 1105w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-300x151.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-1024x515.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-150x75.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14221109/absher-app-saudi-arabia-768x386.png 768w" sizes="(max-width: 1105px) 100vw, 1105px" />
+		The <a href="https://www.absher.sa/wps/portal/individuals/Home/homepublic/!ut/p/z1/lZJBc4IwEIV_Sw9cySYUQnsDrAHBEW1V
+
+## Malawi begins biometric voter registration pilot to test new system
+ - [https://www.biometricupdate.com/202409/malawi-begins-biometric-voter-registration-pilot-to-test-new-system](https://www.biometricupdate.com/202409/malawi-begins-biometric-voter-registration-pilot-to-test-new-system)
+ - RSS feed: https://www.biometricupdate.com/feed
+ - date published: 2024-09-15T01:31:59+00:00
+
+
+		<img width="960" height="720" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14215410/malawi-electoral-commission-registration-center2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14215410/malawi-electoral-commission-registration-center2.jpg 960w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14215410/malawi-electoral-commission-registration-center2-300x225.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14215410/malawi-electoral-commission-registration-center2-150x113.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/14215410/malawi-electoral-commission-registration-center2-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />
+		A trial voter registration process will begin in Malawi tomorrow September 13 to put the country’s new Electoral Management Device (
+

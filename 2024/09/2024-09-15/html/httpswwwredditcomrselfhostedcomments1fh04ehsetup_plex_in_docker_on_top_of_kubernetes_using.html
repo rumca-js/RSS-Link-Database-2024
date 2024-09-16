@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head>   <meta>     <title>Setup plex in docker on top of kubernetes using portainer and longhorn. How do I point plex to longhorn for storage?</title>   </meta>   <style>
+.youtube_player_container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 26.25%;
+    /* background-color: yellow; */
+}
+.youtube_player_frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+       </style></head><body><a href="index.html"><h2>Index</h2></a><a href="https://www.reddit.com/r/selfhosted/comments/1fh04eh/setup_plex_in_docker_on_top_of_kubernetes_using"><h1>[1146816] Setup plex in docker on top of kubernetes using portainer and longhorn. How do I point plex to longhorn for storage?</h1></a><div>https://www.reddit.com/r/selfhosted/.rss</div><div>2024-09-15 00:27:33+00:00</div><div><pre><!-- SC_OFF --><div><p>I setup a k3s cluster using these instructions:</p> <p><a href="https://rpi4cluster.com">https://rpi4cluster.com</a></p> <p>Running 5 rpi 5’s, 1 master, 4 nodes. 4 nodes all running OS off of microSD, nvme storage using longhorn. </p> <p>Running portainer to manage cluster, running docker on cluster. Couple of questions-</p> <ol> <li><p>I want master controller to manage plex to run on any of the nodes it seems fit using portainer. How do I do that? I tried config using plex website, but it crashed my master every time plex tried to record a show. I tried using storage on the SD card to test, so I think it’s related to using it for storage, which brings me to:</p></li> <li><p>I can’t seem to figure out how to point plex to longhorn. I used this: </p></li> </ol> <p><a href="https://rpi4cluster.com/k3s-storage-setting/">https://rpi4cluster.com/k3s-storage-setting/</a> </p> <p>If I allow the master controller to use whatever mode it wants to, I can’t poi</p></div></pre></div></body></html>
