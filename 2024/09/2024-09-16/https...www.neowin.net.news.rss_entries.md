@@ -1,0 +1,226 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Microsoft releases Windows 10 build 19045.4955 to Insider Beta and Release Preview channels
+ - [https://www.neowin.net/news/microsoft-releases-windows-10-build-190454955-to-insider-beta-and-release-preview-channels](https://www.neowin.net/news/microsoft-releases-windows-10-build-190454955-to-insider-beta-and-release-preview-channels)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T21:52:42+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2022/11/1668681788_windows_10_logo_red_medium.jpg" alt="" /></div>Microsoft has released the Windows 10 build 19045.4955 under KB5043131, to members of the Windows Insider Program in the Beta and Release Preview channels. <a href="https://www.neowin.net/news/microsoft-releases-windows-10-build-190454955-to-insider-beta-and-release-preview-channels/">Read more...</a>
+
+## Intel confirms it plans to switch its foundry business into an independent subsidiary
+ - [https://www.neowin.net/news/intel-confirms-it-plans-to-switch-its-foundry-business-into-an-independent-subsidiary](https://www.neowin.net/news/intel-confirms-it-plans-to-switch-its-foundry-business-into-an-independent-subsidiary)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T21:40:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2021/10/1635255949_download_medium.jpg" alt="" /></div>Intel has announced some of its plans to improve the chip company, including turning its foundry division into an independent subsidiary <a href="https://www.neowin.net/news/intel-confirms-it-plans-to-switch-its-foundry-business-into-an-independent-subsidiary/">Read more...</a>
+
+## Overwatch 2 is coming to Xbox Game Pass tomorrow with exclusive benefits
+ - [https://www.neowin.net/news/overwatch-2-is-coming-to-xbox-game-pass-tomorrow-with-exclusive-benefits](https://www.neowin.net/news/overwatch-2-is-coming-to-xbox-game-pass-tomorrow-with-exclusive-benefits)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T20:58:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2022/03/1646935467_fngobv9x0aw4dwy_(1)_medium.jpg" alt="" /></div>Microsoft and Blizzard are bringing Overwatch 2 to Xbox Game Pass. The free-to-play entry will offer a myriad of bonuses for playing with a subscription. <a href="https://www.neowin.net/news/overwatch-2-is-coming-to-xbox-game-pass-tomorrow-with-exclusive-benefits/">Read more...</a>
+
+## The next Battlefield game is confirmed for a present day setting; first concept art revealed
+ - [https://www.neowin.net/news/the-next-battlefield-game-is-confirmed-for-a-present-day-setting-first-concept-art-revealed](https://www.neowin.net/news/the-next-battlefield-game-is-confirmed-for-a-present-day-setting-first-concept-art-revealed)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T19:48:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726514415_bf-ca-1726271105698_medium.jpg" alt="" /></div>It&#039;s been confirmed that the next game in EA&#039;s long-running Battlefield series will be set in the modern-day time period. The first concept art for the game has also been posted. <a href="https://www.neowin.net/news/the-next-battlefield-game-is-confirmed-for-a-present-day-setting-first-concept-art-revealed/">Read more...</a>
+
+## Steam's Planes, Trains, and Automobiles Fest sales event is live through Sepember 23
+ - [https://www.neowin.net/news/steams-planes-trains-and-automobiles-fest-sales-event-is-live-through-sepember-23](https://www.neowin.net/news/steams-planes-trains-and-automobiles-fest-sales-event-is-live-through-sepember-23)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T18:18:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726509035_english_1_medium.jpg" alt="" /></div>The latest game category sale event from Valve&#039;s Steam service is the Planes, Trains, and Automobiles Fest. It runs through 1 pm Eastern time on Sept. 23.  <a href="https://www.neowin.net/news/steams-planes-trains-and-automobiles-fest-sales-event-is-live-through-sepember-23/">Read more...</a>
+
+## Cities: Skylines II DLC further delayed as work on improving base game continues
+ - [https://www.neowin.net/news/cities-skylines-ii-dlc-further-delayed-as-work-on-improving-base-game-continues](https://www.neowin.net/news/cities-skylines-ii-dlc-further-delayed-as-work-on-improving-base-game-continues)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T18:00:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726506408_ss_593d4dd71ee3b1afe8cd1c9c1a0b513ef6a8d368.1920x1080_medium.jpg" alt="" /></div>Colossal Order has shared an update on Cities: Skylines II&#039;s future, and while patches are being worked on for improving the base game, expansions are being pushed back again. <a href="https://www.neowin.net/news/cities-skylines-ii-dlc-further-delayed-as-work-on-improving-base-game-continues/">Read more...</a>
+
+## Leaked images reveal various official Samsung cases for the alleged Galaxy S24 FE
+ - [https://www.neowin.net/news/leaked-images-reveal-various-official-samsung-cases-for-the-alleged-galaxy-s24-fe](https://www.neowin.net/news/leaked-images-reveal-various-official-samsung-cases-for-the-alleged-galaxy-s24-fe)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T17:46:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1725971315_galaxy-s24-fe_medium.jpg" alt="" /></div>A huge gallery of official Samsung cases for the rumored Galaxy S24 FE, expected to debut next month, has been leaked online. <a href="https://www.neowin.net/news/leaked-images-reveal-various-official-samsung-cases-for-the-alleged-galaxy-s24-fe/">Read more...</a>
+
+## Indian antitrust body finds Amazon, Flipkart guilty of violating laws with Samsung, others
+ - [https://www.neowin.net/news/indian-antitrust-body-finds-amazon-flipkart-guilty-of-violating-laws-with-samsung-others](https://www.neowin.net/news/indian-antitrust-body-finds-amazon-flipkart-guilty-of-violating-laws-with-samsung-others)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T17:30:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/04/1712127655_pexels-studio-art-smile-3476860_medium.jpg" alt="" /></div>India&#039;s antitrust regulator has found Amazon and Flipkart guilty of colluding with smartphone companies such as Samsung, Xiaomi, OnePlus, and others.  <a href="https://www.neowin.net/news/indian-antitrust-body-finds-amazon-flipkart-guilty-of-violating-laws-with-samsung-others/">Read more...</a>
+
+## Microsoft officially launches Office LTSC 2024 for business and government customers
+ - [https://www.neowin.net/news/microsoft-officially-launches-office-ltsc-2024-for-business-and-government-customers](https://www.neowin.net/news/microsoft-officially-launches-office-ltsc-2024-for-business-and-government-customers)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T17:16:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2021/05/1621176360_office_medium.jpg" alt="" /></div>Microsoft has announced that Office LTSC 2024 is now generally available for current commercial and government customers, and will be available for all of those customers by October 1. <a href="https://www.neowin.net/news/microsoft-officially-launches-office-ltsc-2024-for-business-and-government-customers/">Read more...</a>
+
+## Apple releases watchOS 11 with overnight vitals, ability to pause activity rings, and more
+ - [https://www.neowin.net/news/apple-releases-watchos-11-with-overnight-vitals-ability-to-pause-activity-rings-and-more](https://www.neowin.net/news/apple-releases-watchos-11-with-overnight-vitals-ability-to-pause-activity-rings-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T17:00:16+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/06/1718050678_watchos_11_medium.jpg" alt="" /></div>watchOS 11, Apple&#039;s latest operating system for its smartwatches, is now available for download on compatible Apple Watch models. <a href="https://www.neowin.net/news/apple-releases-watchos-11-with-overnight-vitals-ability-to-pause-activity-rings-and-more/">Read more...</a>
+
+## iOS 18 is now available with new Home Screen personalization, reworked Control Center, more
+ - [https://www.neowin.net/news/ios-18-is-now-available-with-new-home-screen-personalization-reworked-control-center-more](https://www.neowin.net/news/ios-18-is-now-available-with-new-home-screen-personalization-reworked-control-center-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T17:00:08+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/06/1718106318_apple_ios_18_medium.jpg" alt="" /></div>iOS 18 is now finally out of beta and rolling out to all users with supported iPhone models, adding many new features. <a href="https://www.neowin.net/news/ios-18-is-now-available-with-new-home-screen-personalization-reworked-control-center-more/">Read more...</a>
+
+## Starfield: Shattered Space gameplay trailer shows off the handcrafted city of the expansion
+ - [https://www.neowin.net/news/starfield-shattered-space-gameplay-trailer-shows-off-the-handcrafted-city-of-the-expansion](https://www.neowin.net/news/starfield-shattered-space-gameplay-trailer-shows-off-the-handcrafted-city-of-the-expansion)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T16:36:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726502779_maxresdefault_29_medium.jpg" alt="" /></div>Bethesda has given a deeper look at what players will be experiencing in the first expansion to Starfield. The brand-new city, quest plotlines, and more revealed. <a href="https://www.neowin.net/news/starfield-shattered-space-gameplay-trailer-shows-off-the-handcrafted-city-of-the-expansion/">Read more...</a>
+
+## Microsoft adds more data protection with Copilot for Windows 11 work and school customers
+ - [https://www.neowin.net/news/microsoft-adds-more-data-protection-with-copilot-for-windows-11-work-and-school-customers](https://www.neowin.net/news/microsoft-adds-more-data-protection-with-copilot-for-windows-11-work-and-school-customers)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T16:20:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707562088_copilot_medium.jpg" alt="" /></div>Microsoft has announced a new effort to keep the use of Copilot secure for Windows 11 PCs for people who use it at work or at school. <a href="https://www.neowin.net/news/microsoft-adds-more-data-protection-with-copilot-for-windows-11-work-and-school-customers/">Read more...</a>
+
+## 14TB Seagate External HDD is the best deal as it's less than $13 per TB for limited time
+ - [https://www.neowin.net/deals/14tb-seagate-external-hdd-is-the-best-deal-as-its-less-than-13-per-tb-for-limited-time](https://www.neowin.net/deals/14tb-seagate-external-hdd-is-the-best-deal-as-its-less-than-13-per-tb-for-limited-time)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T16:04:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711896150_seagate_external_hdd_medium.jpg" alt="" /></div>The Seagate Expansion 14TB external portable Hard Disk Drive (HDD) is up for sale at under $13 per TB but for limited time only. <a href="https://www.neowin.net/deals/14tb-seagate-external-hdd-is-the-best-deal-as-its-less-than-13-per-tb-for-limited-time/">Read more...</a>
+
+## Redmond's latest Copilot update brings persistent, shareable AI-powered pages
+ - [https://www.neowin.net/news/redmonds-latest-copilot-update-brings-persistent-shareable-ai-powered-pages](https://www.neowin.net/news/redmonds-latest-copilot-update-brings-persistent-shareable-ai-powered-pages)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T15:47:27+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710436229_1920x1080-copilot-blog-image-1024x576_medium.jpg" alt="" /></div>Microsoft dubs the new Copilot Pages experience &#039;multiplayer AI collaboration&#039;, aiming to improve and expand AI-generated responses through team work. <a href="https://www.neowin.net/news/redmonds-latest-copilot-update-brings-persistent-shareable-ai-powered-pages/">Read more...</a>
+
+## Microsoft is adding more Copilot features to Office apps, including Python in Excel
+ - [https://www.neowin.net/news/microsoft-is-adding-more-copilot-features-to-office-apps-including-python-in-excel](https://www.neowin.net/news/microsoft-is-adding-more-copilot-features-to-office-apps-including-python-in-excel)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T15:47:12+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707155735_harjit_dhaliwal_0-1707148117812_medium.jpg" alt="" /></div>Microsoft has announced a number of new Copilot-related features that are being added to various Office apps. That includes adding Copilot for Python support in Excel. <a href="https://www.neowin.net/news/microsoft-is-adding-more-copilot-features-to-office-apps-including-python-in-excel/">Read more...</a>
+
+## Google could bring a new feature to sync notifications across devices with Android 15
+ - [https://www.neowin.net/news/google-could-bring-a-new-feature-to-sync-notifications-across-devices-with-android-15](https://www.neowin.net/news/google-could-bring-a-new-feature-to-sync-notifications-across-devices-with-android-15)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T15:36:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/03/1711089002_android-15-dp2_medium.jpg" alt="" /></div>Android 15 QPR1 Beta 2 update has a code for a feature that will help sync notifications across all your Android devices. <a href="https://www.neowin.net/news/google-could-bring-a-new-feature-to-sync-notifications-across-devices-with-android-15/">Read more...</a>
+
+## Microsoft reveals Copilot Agents made with Copilot Studio for Microsoft 365 Copilot users
+ - [https://www.neowin.net/news/microsoft-reveals-copilot-agents-made-with-copilot-studio-for-microsoft-365-copilot-users](https://www.neowin.net/news/microsoft-reveals-copilot-agents-made-with-copilot-studio-for-microsoft-365-copilot-users)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T15:20:21+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/03/1710436229_1920x1080-copilot-blog-image-1024x576_medium.jpg" alt="" /></div>Microsoft has announced it will add support for Copilot Agents for Microsoft 365 Copilot, which can be created by anyone with the use of Copilot Studio. <a href="https://www.neowin.net/news/microsoft-reveals-copilot-agents-made-with-copilot-studio-for-microsoft-365-copilot-users/">Read more...</a>
+
+## FDA approves Apple Watch's sleep apnea detection feature
+ - [https://www.neowin.net/news/fda-approves-apple-watchs-sleep-apnea-detection-feature](https://www.neowin.net/news/fda-approves-apple-watchs-sleep-apnea-detection-feature)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T15:16:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1725909058_apple_watch_series_10_12_medium.jpg" alt="" /></div>The U.S. Food and Drug Administration (FDA) has finally approved the sleep apnea detection feature for Apple Watch Series 10, Watch Series 9, and Watch Ultra 2.  <a href="https://www.neowin.net/news/fda-approves-apple-watchs-sleep-apnea-detection-feature/">Read more...</a>
+
+## TikTok and the US government battle in court today over TikTok's possible ban
+ - [https://www.neowin.net/news/tiktok-and-the-us-government-battle-in-court-today-over-tiktoks-possible-ban](https://www.neowin.net/news/tiktok-and-the-us-government-battle-in-court-today-over-tiktoks-possible-ban)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T14:36:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/05/1684788273_tiktok-ban-montana-sues_medium.jpg" alt="" /></div>Today, a federal appeals court will hear arguments from TikTok, its supporters, and the US government. The results could determine whether TikTok will be completely banned in the US. <a href="https://www.neowin.net/news/tiktok-and-the-us-government-battle-in-court-today-over-tiktoks-possible-ban/">Read more...</a>
+
+## New iPad mini, M4 MacBook Pro, Mac mini, iMac, & iPad 11th Gen reportedly arrive next month
+ - [https://www.neowin.net/news/new-ipad-mini-m4-macbook-pro-mac-mini-imac--ipad-11th-gen-reportedly-arrive-next-month](https://www.neowin.net/news/new-ipad-mini-m4-macbook-pro-mac-mini-imac--ipad-11th-gen-reportedly-arrive-next-month)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T14:10:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2022/03/1646764294_screenshot_(81)_medium.jpg" alt="" /></div>Reports suggest that Apple could launch M4-powered Mac mini and iMac, new iPad mini, 11th Gen iPad, and MacBook Pro models with M4 chips in October. <a href="https://www.neowin.net/news/new-ipad-mini-m4-macbook-pro-mac-mini-imac--ipad-11th-gen-reportedly-arrive-next-month/">Read more...</a>
+
+## Diablo IV has reportedly generated over $1 billion in revenue since its June 2023 launch
+ - [https://www.neowin.net/news/diablo-iv-has-reportedly-generated-over-1-billion-in-revenue-since-its-june-2023-launch](https://www.neowin.net/news/diablo-iv-has-reportedly-generated-over-1-billion-in-revenue-since-its-june-2023-launch)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T13:36:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/03/1678736700_diablo-iv-screenshot_medium.jpg" alt="" /></div>A LinkedIn profile of a Blizzard employee that has since been closed claims that Diablo IV has generated over $1 billion in revenue since its launch in June 2023. <a href="https://www.neowin.net/news/diablo-iv-has-reportedly-generated-over-1-billion-in-revenue-since-its-june-2023-launch/">Read more...</a>
+
+## Get this 27-inch Acer Nitro monitor with a 300Hz refresh rate for a new low price of $249.99
+ - [https://www.neowin.net/deals/get-this-27-inch-acer-nitro-monitor-with-a-300hz-refresh-rate-for-a-new-low-price-of-24999](https://www.neowin.net/deals/get-this-27-inch-acer-nitro-monitor-with-a-300hz-refresh-rate-for-a-new-low-price-of-24999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T13:20:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726490995_acer-27-inch-monitor_medium.jpg" alt="" /></div>Acer is currently selling a 27-inch Nitro PC gaming monitor with a high 300Hz refresh rate at an all new low price of just $249.99. <a href="https://www.neowin.net/deals/get-this-27-inch-acer-nitro-monitor-with-a-300hz-refresh-rate-for-a-new-low-price-of-24999/">Read more...</a>
+
+## PowerToys may soon let you change Windows settings on schedule
+ - [https://www.neowin.net/news/powertoys-may-soon-let-you-change-windows-settings-on-schedule](https://www.neowin.net/news/powertoys-may-soon-let-you-change-windows-settings-on-schedule)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T13:04:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/06/1685715607_12_medium.jpg" alt="" /></div>It might soon become much easier to automate Windows 11 settings thanks to a suggested module for PowerToys. <a href="https://www.neowin.net/news/powertoys-may-soon-let-you-change-windows-settings-on-schedule/">Read more...</a>
+
+## Out-of-warranty battery replacements for iPhone 16 Pro models will cost you more in the US
+ - [https://www.neowin.net/news/out-of-warranty-battery-replacements-for-iphone-16-pro-models-will-cost-you-more-in-the-us](https://www.neowin.net/news/out-of-warranty-battery-replacements-for-iphone-16-pro-models-will-cost-you-more-in-the-us)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T12:40:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1725950813_iphone_16_pro_medium.jpg" alt="" /></div>Apple has increased the price of out-of-warranty battery replacements for the iPhone 16 Pro and the iPhone 16 Pro Max models. <a href="https://www.neowin.net/news/out-of-warranty-battery-replacements-for-iphone-16-pro-models-will-cost-you-more-in-the-us/">Read more...</a>
+
+## Intel reportedly misses out on $30 billion PlayStation 6 chip deal
+ - [https://www.neowin.net/news/intel-reportedly-misses-out-on-30-billion-playstation-6-chip-deal](https://www.neowin.net/news/intel-reportedly-misses-out-on-30-billion-playstation-6-chip-deal)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T12:24:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2020/07/1594930265_dualsense_medium.jpg" alt="" /></div>Intel has reportedly lost the opportunity to supply chips for Sony&#039;s PlayStation 6. Winning the major contract was expected to generate $30 billion in revenue for Intel over five years. <a href="https://www.neowin.net/news/intel-reportedly-misses-out-on-30-billion-playstation-6-chip-deal/">Read more...</a>
+
+## Model aims to combat misinformation by tracking trolls in real-time
+ - [https://www.neowin.net/news/model-aims-to-combat-misinformation-by-tracking-trolls-in-real-time](https://www.neowin.net/news/model-aims-to-combat-misinformation-by-tracking-trolls-in-real-time)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T11:06:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726484249_pexels-239811708-17157780_medium.jpg" alt="" /></div>Researchers from Texas Tech University have developed a machine learning model that detects Russian troll accounts on X with impressive accuracy, potentially improving misinformation management. <a href="https://www.neowin.net/news/model-aims-to-combat-misinformation-by-tracking-trolls-in-real-time/">Read more...</a>
+
+## Microsoft sends "Final Notice" before you lose Outlook access on third-party apps today
+ - [https://www.neowin.net/news/microsoft-sends-final-notice-before-you-lose-outlook-access-on-third-party-apps-today](https://www.neowin.net/news/microsoft-sends-final-notice-before-you-lose-outlook-access-on-third-party-apps-today)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T09:16:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2021/05/1622384162_outlook_medium.jpg" alt="" /></div>Microsoft has been sending &quot;Final Notice&quot; emails to users before they lose access to Outlook on third-party mail apps. <a href="https://www.neowin.net/news/microsoft-sends-final-notice-before-you-lose-outlook-access-on-third-party-apps-today/">Read more...</a>
+
+## Report: iPhone 16 Pro models pre-orders low, iPhone 16/16 Plus register more sales
+ - [https://www.neowin.net/news/report-iphone-16-pro-models-pre-orders-low-iphone-1616-plus-register-more-sales](https://www.neowin.net/news/report-iphone-16-pro-models-pre-orders-low-iphone-1616-plus-register-more-sales)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T07:24:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1725950798_iphon_16_pro_1_medium.jpg" alt="" /></div>Reports suggest that people aren&#039;t much interested in this year&#039;s iPhone 16 Pro and Pro Max as pre-orders have gone down. <a href="https://www.neowin.net/news/report-iphone-16-pro-models-pre-orders-low-iphone-1616-plus-register-more-sales/">Read more...</a>
+
+## Samsung Galaxy Z Fold6 packs power and style and is currently 21% off 
+ - [https://www.neowin.net/deals/samsung-galaxy-z-fold6-packs-power-and-style-and-is-currently-21-off](https://www.neowin.net/deals/samsung-galaxy-z-fold6-packs-power-and-style-and-is-currently-21-off)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T07:02:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726468456_61896otgvgl._ac_sl1500__medium.jpg" alt="" /></div>Don&#039;t miss the chance to snag the Samsung Galaxy Z Fold6 at a discount. Both models boast 12 GB of RAM and promise four major Android upgrades for longevity. <a href="https://www.neowin.net/deals/samsung-galaxy-z-fold6-packs-power-and-style-and-is-currently-21-off/">Read more...</a>
+
+## Latest leak shows off the difference between the alleged Galaxy S25 Ultra and S24 Ultra
+ - [https://www.neowin.net/news/latest-leak-shows-off-the-difference-between-the-alleged-galaxy-s25-ultra-and-s24-ultra](https://www.neowin.net/news/latest-leak-shows-off-the-difference-between-the-alleged-galaxy-s25-ultra-and-s24-ultra)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T05:28:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726462627_galaxy-s25-ultra-render_medium.jpg" alt="" /></div>A couple of renders of the alleged Samsung Galaxy S25 Ultra have popped up showing off the design difference between it and the Galaxy S24 Ultra. <a href="https://www.neowin.net/news/latest-leak-shows-off-the-difference-between-the-alleged-galaxy-s25-ultra-and-s24-ultra/">Read more...</a>
+
+## The 12TB Seagate IronWolf NAS HDD is 17% off on Amazon
+ - [https://www.neowin.net/deals/the-12tb-seagate-ironwolf-nas-hdd-is-17-off-on-amazon](https://www.neowin.net/deals/the-12tb-seagate-ironwolf-nas-hdd-is-17-off-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-16T05:12:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/08/1724853579_12tb_seagate_ironwolf_hdd_medium.jpg" alt="" /></div>Amazon US is offering the 12TB Seagate IronWolf NAS hard-disk drive at a 17% discount on its original MSRP once again. <a href="https://www.neowin.net/deals/the-12tb-seagate-ironwolf-nas-hdd-is-17-off-on-amazon/">Read more...</a>
+
