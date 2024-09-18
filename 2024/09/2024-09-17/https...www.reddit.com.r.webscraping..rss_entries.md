@@ -1,0 +1,79 @@
+# Source:webscraping, URL:https://www.reddit.com/r/webscraping/.rss, language:en
+
+## Skilled Scraper / Python Develper
+ - [https://www.reddit.com/r/webscraping/comments/1fjbo0g/skilled_scraper_python_develper](https://www.reddit.com/r/webscraping/comments/1fjbo0g/skilled_scraper_python_develper)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T21:37:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone just reply me if you need help for projects. I’m good at bypassing cloudflare and captchas. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Specialist_Echo2427"> /u/Specialist_Echo2427 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fjbo0g/skilled_scraper_python_develper/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fjbo0g/skilled_scraper_python_develper/">[comments]</a></span>
+
+## Any undetectible python lib to interact with user-installed firefox?
+ - [https://www.reddit.com/r/webscraping/comments/1fj7gaj/any_undetectible_python_lib_to_interact_with](https://www.reddit.com/r/webscraping/comments/1fj7gaj/any_undetectible_python_lib_to_interact_with)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T18:53:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tried asking GPT, but most of them are for chrome. Any library that interacts with the user installed firefox so it has cookies and sessions? And waits for elements to appear, and lets us scrape the html?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scholastc"> /u/scholastc </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fj7gaj/any_undetectible_python_lib_to_interact_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fj7gaj/any_undetectible_python_lib_to_interact_with/">[comments]</a></span>
+
+## How to scrape ALL the images from a subreddit?
+ - [https://www.reddit.com/r/webscraping/comments/1fj42ng/how_to_scrape_all_the_images_from_a_subreddit](https://www.reddit.com/r/webscraping/comments/1fj42ng/how_to_scrape_all_the_images_from_a_subreddit)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T16:42:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everybody,<br/> For my AI project, I need to collect as many images as I can from a subreddit. I wrote a simple script using Selenium, which basically keeps scrolling down in a subreddit and downloads all the visible images in the DOM. However, I&#39;ve noticed that after loading around 1000 posts (which I think is the limit), I&#39;m unable to load older content. Is there any workaround for this? </p> <p>Here is the code if anybody is interested (as you can guess it gets stuck at the scroll down function);<br/> <a href="https://github.com/bergalii/web_scrapers.git">https://github.com/bergalii/web_scrapers.git</a> (reddit post images branch)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/digga-nick-666"> /u/digga-nick-666 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fj42ng/how_to_scrape_all_the_images_from_a_subreddit/">[link]</a></span> &#32; <span><a href="https://www.reddit.c
+
+## Ideas on scraping a site
+ - [https://www.reddit.com/r/webscraping/comments/1fj2zje/ideas_on_scraping_a_site](https://www.reddit.com/r/webscraping/comments/1fj2zje/ideas_on_scraping_a_site)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T16:01:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to collect news articles from websites but struggling a bit. My goal is to grab articles from yahoo for a stock ticker to get headlines, date and url for each article within the look back period. </p> <p>I tried ChatGPT it but it can’t seem to work out the issue and trying to find an existing repo to modify hasn’t turned up any results that work. Is selenium to scroll to get new articles and beautifulsoup to extract the information the correct approach? I’m on a flight with limited access but trying to think through my next approach. I’m pretty new to web scraping. Thanks! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/funkspiel56"> /u/funkspiel56 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fj2zje/ideas_on_scraping_a_site/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fj2zje/ideas_on_scraping_a_site/">[comments]</a></span>
+
+## Need to extract data from web
+ - [https://www.reddit.com/r/webscraping/comments/1fj0m95/need_to_extract_data_from_web](https://www.reddit.com/r/webscraping/comments/1fj0m95/need_to_extract_data_from_web)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T14:25:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just got an internship and they need hotel data of specific region from web and idk how to do that any tools you guys from or anything fast and easy it might help </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Arachnid5510"> /u/No-Arachnid5510 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fj0m95/need_to_extract_data_from_web/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fj0m95/need_to_extract_data_from_web/">[comments]</a></span>
+
+## is it still worth it to learn web scraping?
+ - [https://www.reddit.com/r/webscraping/comments/1fj0bny/is_it_still_worth_it_to_learn_web_scraping](https://www.reddit.com/r/webscraping/comments/1fj0bny/is_it_still_worth_it_to_learn_web_scraping)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T14:13:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>is it still worth it to learn web scraping? why and why not? how and where to begin? is python a good language to begin with?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Financial-Figure4741"> /u/Financial-Figure4741 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fj0bny/is_it_still_worth_it_to_learn_web_scraping/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fj0bny/is_it_still_worth_it_to_learn_web_scraping/">[comments]</a></span>
+
+## Getting data from forum posts
+ - [https://www.reddit.com/r/webscraping/comments/1fiwm0f/getting_data_from_forum_posts](https://www.reddit.com/r/webscraping/comments/1fiwm0f/getting_data_from_forum_posts)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T11:25:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Heya, so as a side project i&#39;m creating a webscraper using scrapy that crawls multiple forums where people sell stuff and saves the content of each post, now a problem I&#39;m facing is how to extract information from each post, there is no post template for the content of each post, each user may write something like price:30$ or price $30 and so on, same thing for countries, each user may write something like &quot;polish xxx&quot; or &quot;poland xyz&quot; , so i&#39;m wondering if there are any tools that can help me extract this kind of information</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Toxiic_Red"> /u/Toxiic_Red </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fiwm0f/getting_data_from_forum_posts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fiwm0f/getting_data_from_forum_posts/">[comments]</a></span>
+
+## Issue While extracting Lowes data using request
+ - [https://www.reddit.com/r/webscraping/comments/1fiv3kk/issue_while_extracting_lowes_data_using_request](https://www.reddit.com/r/webscraping/comments/1fiv3kk/issue_while_extracting_lowes_data_using_request)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T09:58:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, all. so I am trying to get the product details i.e model number, description, stock count, specifications from this URL - <a href="https://www.lowes.com/pd/Project-Source-Chrome-1-Handle-Deck-Mount-Pull-Down-Handle-Lever-Commercial-Residential-Kitchen-Faucet/1000379005">https://www.lowes.com/pd/Project-Source-Chrome-1-Handle-Deck-Mount-Pull-Down-Handle-Lever-Commercial-Residential-Kitchen-Faucet/1000379005</a></p> <p>I got a api url which ask for 3 things, product id i.e. 1000379005, store_id i.e 1845, and zipcode - 60639 which i am passing by making the URL with the 3 inputs. payload is {} and I am using a proxy. I am able to get the json but when i see the output i can see its store_id is default i.e 1539 instead of 1845. I tried different store_id and it&#39;s taking the default one only. Can anyone help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Minimum-Earth9509"> /u/Minimum-Earth9509 </a> <br/> <s
+
+## Trouble getting daytime stamp on JSON output
+ - [https://www.reddit.com/r/webscraping/comments/1fiulor/trouble_getting_daytime_stamp_on_json_output](https://www.reddit.com/r/webscraping/comments/1fiulor/trouble_getting_daytime_stamp_on_json_output)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T09:25:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey yall, Im trying to write some code where the daytime shows up on the JSON output. Currently its showing up in the ternimal after the code runs but not in the JSON output. Anyone have any advice or code that can help me fix this issue? Thanks</p> <pre><code>def save_to_json(data, filename=&#39;books.json&#39;): with open(filename, &#39;w&#39;, encoding=&#39;utf-8&#39;) as f: json.dump(data, f, ensure_ascii=False, indent=4) print(f&quot;Data saved to {filename}&quot;) timestamp = datetime.now().isoformat() print(timestamp) </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlueLagoon226"> /u/BlueLagoon226 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fiulor/trouble_getting_daytime_stamp_on_json_output/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fiulor/trouble_getting_daytime_stamp_on_json_output/">[comments]</a></span>
+
+## This might be a dumb question but has anyone made it possible that you search someone's name on Truecaller and get a list of numbers under that name?
+ - [https://www.reddit.com/r/webscraping/comments/1fis6x8/this_might_be_a_dumb_question_but_has_anyone_made](https://www.reddit.com/r/webscraping/comments/1fis6x8/this_might_be_a_dumb_question_but_has_anyone_made)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T06:44:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>In the paid version of truecaller, you can search someone&#39;s name and it gives you a list of numbers under that name but you have to send them a request and you can view their number only if they accept your request.</p> <p>So I was wondering if any scraper has built a software that do this instead?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mrcompletelyunaware"> /u/Mrcompletelyunaware </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fis6x8/this_might_be_a_dumb_question_but_has_anyone_made/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fis6x8/this_might_be_a_dumb_question_but_has_anyone_made/">[comments]</a></span>
+
+## Proxy issues with playwright python
+ - [https://www.reddit.com/r/webscraping/comments/1fimdh4/proxy_issues_with_playwright_python](https://www.reddit.com/r/webscraping/comments/1fimdh4/proxy_issues_with_playwright_python)
+ - RSS feed: https://www.reddit.com/r/webscraping/.rss
+ - date published: 2024-09-17T01:38:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, all. So i am using different proxies with playwright code. for normal proxies its working fine but when using residential rotating proxy. its throwing me an error - NS_ERROR_PROXY_FORBIDDEN</p> <p>Tried to install a certification for using this proxy which I did but still getting the error. Can anyone help me on this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Negotiation_Sweaty"> /u/Negotiation_Sweaty </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fimdh4/proxy_issues_with_playwright_python/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fimdh4/proxy_issues_with_playwright_python/">[comments]</a></span>
+
