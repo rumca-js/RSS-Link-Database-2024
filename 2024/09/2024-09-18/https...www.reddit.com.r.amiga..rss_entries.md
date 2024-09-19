@@ -1,0 +1,30 @@
+# Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
+
+## Flailing Fire - 32 color - Deluxe Paint IV - Using blend and color modes.
+ - [https://www.reddit.com/r/amiga/comments/1fjy6jf/flailing_fire_32_color_deluxe_paint_iv_using](https://www.reddit.com/r/amiga/comments/1fjy6jf/flailing_fire_32_color_deluxe_paint_iv_using)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-18T17:14:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1fjy6jf/flailing_fire_32_color_deluxe_paint_iv_using/"> <img src="https://b.thumbs.redditmedia.com/nKZ9rml6jRLnDcHkfOC-sGaXoOF5il-QkPXG8t-5mGI.jpg" alt="Flailing Fire - 32 color - Deluxe Paint IV - Using blend and color modes." title="Flailing Fire - 32 color - Deluxe Paint IV - Using blend and color modes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tschak909"> /u/tschak909 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fjy6jf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1fjy6jf/flailing_fire_32_color_deluxe_paint_iv_using/">[comments]</a></span> </td></tr></table>
+
+## Amiga 1000 mod
+ - [https://www.reddit.com/r/amiga/comments/1fjwq79/amiga_1000_mod](https://www.reddit.com/r/amiga/comments/1fjwq79/amiga_1000_mod)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-18T16:13:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone built a PC in their Amiga 1000 Chassis? The motherboard doesn&#39;t seem to post anymore, and I was going to box-frame it (It was my first computer) and I was thinking of keeping the Case alive by putting a small x86 motherboard in there, it&#39;s not the ideal case for PCs but thought I could ask here. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TdeG76"> /u/TdeG76 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1fjwq79/amiga_1000_mod/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1fjwq79/amiga_1000_mod/">[comments]</a></span>
+
+## remake of Zool heavily discounted on steam
+ - [https://www.reddit.com/r/amiga/comments/1fjvqz6/remake_of_zool_heavily_discounted_on_steam](https://www.reddit.com/r/amiga/comments/1fjvqz6/remake_of_zool_heavily_discounted_on_steam)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-18T15:33:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1fjvqz6/remake_of_zool_heavily_discounted_on_steam/"> <img src="https://external-preview.redd.it/yL3vO5zrg970oLhH-e3Z7Pk9S6ABr2dsC3k_ROQpf_Q.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=64084d547304e0285bf67833c099e1dcb3899ddb" alt="remake of Zool heavily discounted on steam" title="remake of Zool heavily discounted on steam" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/martylang"> /u/martylang </a> <br/> <span><a href="https://store.steampowered.com/app/1647730/Zool_Redimensioned/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1fjvqz6/remake_of_zool_heavily_discounted_on_steam/">[comments]</a></span> </td></tr></table>
+
+## Globdule (1993) (Platform) (Amiga) [GAMEPLAY] [EN] [HD]
+ - [https://www.reddit.com/r/amiga/comments/1fjphq8/globdule_1993_platform_amiga_gameplay_en_hd](https://www.reddit.com/r/amiga/comments/1fjphq8/globdule_1993_platform_amiga_gameplay_en_hd)
+ - RSS feed: https://www.reddit.com/r/amiga/.rss
+ - date published: 2024-09-18T10:27:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1fjphq8/globdule_1993_platform_amiga_gameplay_en_hd/"> <img src="https://external-preview.redd.it/KwCGIebTYVfRAeOX0U6VcmcgutKEijiXOSFzX5TdSE0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2d05f3a61a063d89db7b49f9c392ed2ee65a86b8" alt="Globdule (1993) (Platform) (Amiga) [GAMEPLAY] [EN] [HD]" title="Globdule (1993) (Platform) (Amiga) [GAMEPLAY] [EN] [HD]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JohnnyGameOverMAG"> /u/JohnnyGameOverMAG </a> <br/> <span><a href="https://www.youtube.com/watch?v=5msUcx7q8rw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1fjphq8/globdule_1993_platform_amiga_gameplay_en_hd/">[comments]</a></span> </td></tr></table>
+

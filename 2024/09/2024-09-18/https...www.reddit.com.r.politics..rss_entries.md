@@ -1,0 +1,282 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## New Emails Expose Election Officials’ Plot to Unleash Chaos
+ - [https://www.reddit.com/r/politics/comments/1fk3w89/new_emails_expose_election_officials_plot_to](https://www.reddit.com/r/politics/comments/1fk3w89/new_emails_expose_election_officials_plot_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T21:16:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fk3w89/new_emails_expose_election_officials_plot_to/"> <img src="https://external-preview.redd.it/qIm6o5haP0pifx6pgvPpstCB5Lo0BIqh-5tw2YTtcZE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80ea8595b7810066d148521f197c4bca01421692" alt="New Emails Expose Election Officials’ Plot to Unleash Chaos" title="New Emails Expose Election Officials’ Plot to Unleash Chaos" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br/> <span><a href="https://newrepublic.com/post/186116/emails-georgia-election-officials-trump-chaos">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fk3w89/new_emails_expose_election_officials_plot_to/">[comments]</a></span> </td></tr></table>
+
+## Trump Calls for Govt. Shutdown Unless Congress Makes It Harder for Americans to Vote
+ - [https://www.reddit.com/r/politics/comments/1fk3p28/trump_calls_for_govt_shutdown_unless_congress](https://www.reddit.com/r/politics/comments/1fk3p28/trump_calls_for_govt_shutdown_unless_congress)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T21:07:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fk3p28/trump_calls_for_govt_shutdown_unless_congress/"> <img src="https://external-preview.redd.it/ngGic3V8KirlhdMDKpjCOjYxa4XEGkJQxg_hRuzfBuU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5092bf93a3926cd1d6f781b76d108949186dad3f" alt="Trump Calls for Govt. Shutdown Unless Congress Makes It Harder for Americans to Vote" title="Trump Calls for Govt. Shutdown Unless Congress Makes It Harder for Americans to Vote" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/trump-government-shutdown-congress-save-act-1235106067/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fk3p28/trump_calls_for_govt_shutdown_unless_congress/">[comments]</a></span> </td></tr></table>
+
+## CNN shows supercut of Trump calling Harris ‘fascist’ – after JD Vance said no one should be using the word
+ - [https://www.reddit.com/r/politics/comments/1fk2lpn/cnn_shows_supercut_of_trump_calling_harris](https://www.reddit.com/r/politics/comments/1fk2lpn/cnn_shows_supercut_of_trump_calling_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T20:21:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fk2lpn/cnn_shows_supercut_of_trump_calling_harris/"> <img src="https://external-preview.redd.it/fj_c_snjfkxXHTBn3nl7dFkJxJIHdoY3oCA7xLYjcHA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8dbefedb30d39d5857f8ef5618d07c73fe3258af" alt="CNN shows supercut of Trump calling Harris ‘fascist’ – after JD Vance said no one should be using the word" title="CNN shows supercut of Trump calling Harris ‘fascist’ – after JD Vance said no one should be using the word" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkayButFoRealz"> /u/OkayButFoRealz </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-harris-fascist-jd-vance-b2614984.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fk2lpn/cnn_shows_supercut_of_trump_calling_harris/">[comments]</a></span> </td></tr></table>
+
+## Politico Is Bent Out Of Shape That Kamala Harris Stuck To Her Talking Points
+ - [https://www.reddit.com/r/politics/comments/1fk0oj6/politico_is_bent_out_of_shape_that_kamala_harris](https://www.reddit.com/r/politics/comments/1fk0oj6/politico_is_bent_out_of_shape_that_kamala_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T19:00:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fk0oj6/politico_is_bent_out_of_shape_that_kamala_harris/"> <img src="https://external-preview.redd.it/37ojoTBaylmteSiw4smQojR-NszfQ0Hv-vB4YA0RhDc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=94d62ff9e615e0aa8762243183b7eb8fe97dadb0" alt="Politico Is Bent Out Of Shape That Kamala Harris Stuck To Her Talking Points" title="Politico Is Bent Out Of Shape That Kamala Harris Stuck To Her Talking Points" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Esquire"> /u/Esquire </a> <br/> <span><a href="https://www.esquire.com/news-politics/politics/a62260167/kamala-harris-nabj-interview/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fk0oj6/politico_is_bent_out_of_shape_that_kamala_harris/">[comments]</a></span> </td></tr></table>
+
+## Trump Supporter Whose Police Report Fueled Cat-Eating Rumor Found Pet In Basement Days Later: WSJ
+ - [https://www.reddit.com/r/politics/comments/1fk0i4u/trump_supporter_whose_police_report_fueled](https://www.reddit.com/r/politics/comments/1fk0i4u/trump_supporter_whose_police_report_fueled)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T18:52:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fk0i4u/trump_supporter_whose_police_report_fueled/"> <img src="https://external-preview.redd.it/HFpy10WTG-LrC-v2OdvdU6F_RCwDaBJV-bfZbAVCvoA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3b7dffe28146e0c7110041c6092a1be0410c438" alt="Trump Supporter Whose Police Report Fueled Cat-Eating Rumor Found Pet In Basement Days Later: WSJ" title="Trump Supporter Whose Police Report Fueled Cat-Eating Rumor Found Pet In Basement Days Later: WSJ" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/heinderhead"> /u/heinderhead </a> <br/> <span><a href="https://www.huffpost.com/entry/woman-who-made-haitian-cat-stealing-police-report-found-pet-at-home_n_66eaf106e4b00648275b86da">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fk0i4u/trump_supporter_whose_police_report_fueled/">[comments]</a></span> </td></tr></table>
+
+## Ohio Sheriff who told public to write down the address of Harris supporters says those individuals with liberal policies have to accept responsibility for their actions
+ - [https://www.reddit.com/r/politics/comments/1fjzzv8/ohio_sheriff_who_told_public_to_write_down_the](https://www.reddit.com/r/politics/comments/1fjzzv8/ohio_sheriff_who_told_public_to_write_down_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T18:31:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjzzv8/ohio_sheriff_who_told_public_to_write_down_the/"> <img src="https://external-preview.redd.it/TKoX80Ysnm6xssn8ry_7O31bC1XLPuvOXhEfdPmLXtw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0f6d8ffb0cbeeff03930461513f6f1ff5ff8da36" alt="Ohio Sheriff who told public to write down the address of Harris supporters says those individuals with liberal policies have to accept responsibility for their actions" title="Ohio Sheriff who told public to write down the address of Harris supporters says those individuals with liberal policies have to accept responsibility for their actions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br/> <span><a href="https://www.wtrf.com/ohio/ohio-sheriff-who-told-public-to-write-down-the-adress-of-harris-supporters-says-those-individuals-with-liberal-policies-have-to-accept-responsibility-for-their-actions/">[
+
+## Judge Cannon’s Secret Right-Wing Links Expose Her True Colors - The judge presiding over Donald Trump’s classified documents case has failed to disclose multiple speaking appearances.
+ - [https://www.reddit.com/r/politics/comments/1fjzpzm/judge_cannons_secret_rightwing_links_expose_her](https://www.reddit.com/r/politics/comments/1fjzpzm/judge_cannons_secret_rightwing_links_expose_her)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T18:19:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjzpzm/judge_cannons_secret_rightwing_links_expose_her/"> <img src="https://external-preview.redd.it/33YbgEiWG4S5cPZuCw3-i0BZsXHim1fVDPQn-txPzXE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ce3b5c0f47b0ad3b507f64b0f4e7472304dd7fc" alt="Judge Cannon’s Secret Right-Wing Links Expose Her True Colors - The judge presiding over Donald Trump’s classified documents case has failed to disclose multiple speaking appearances." title="Judge Cannon’s Secret Right-Wing Links Expose Her True Colors - The judge presiding over Donald Trump’s classified documents case has failed to disclose multiple speaking appearances." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://newrepublic.com/post/186101/aileen-cannon-secret-right-wing-links-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjzpzm/judge_cannons
+
+## This Is What a Losing Campaign Looks Like
+ - [https://www.reddit.com/r/politics/comments/1fjxq3w/this_is_what_a_losing_campaign_looks_like](https://www.reddit.com/r/politics/comments/1fjxq3w/this_is_what_a_losing_campaign_looks_like)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T16:55:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjxq3w/this_is_what_a_losing_campaign_looks_like/"> <img src="https://external-preview.redd.it/5rfmLN-lNs5ZtcX-rPLj_e8TFOPZQcoC8mXj58uupNs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4fe1ff074ae2a1cc7c6ad2a0c4f1f73371c96408" alt="This Is What a Losing Campaign Looks Like" title="This Is What a Losing Campaign Looks Like" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntelligentYinzer"> /u/IntelligentYinzer </a> <br/> <span><a href="https://www.theatlantic.com/politics/archive/2024/09/trump-vance-x-campaign-losing/679924/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjxq3w/this_is_what_a_losing_campaign_looks_like/">[comments]</a></span> </td></tr></table>
+
+## Harris Secures Major Win as 100 GOP Officials Turn Against Trump
+ - [https://www.reddit.com/r/politics/comments/1fjxiqz/harris_secures_major_win_as_100_gop_officials](https://www.reddit.com/r/politics/comments/1fjxiqz/harris_secures_major_win_as_100_gop_officials)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T16:46:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjxiqz/harris_secures_major_win_as_100_gop_officials/"> <img src="https://external-preview.redd.it/FxSPx_4BQwytTvnLm-HgvWP8Emh8fvAy35DOmDdTI60.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de5493a6cc48d08ba780572a0effad96696e67c8" alt="Harris Secures Major Win as 100 GOP Officials Turn Against Trump" title="Harris Secures Major Win as 100 GOP Officials Turn Against Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br/> <span><a href="https://newrepublic.com/post/186099/more-than-100-republican-officials-back-harris-over-trump-letter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjxiqz/harris_secures_major_win_as_100_gop_officials/">[comments]</a></span> </td></tr></table>
+
+## New Quinnipiac Poll shows Harris up 51-45 over Trump.
+ - [https://www.reddit.com/r/politics/comments/1fjxhv1/new_quinnipiac_poll_shows_harris_up_5145_over](https://www.reddit.com/r/politics/comments/1fjxhv1/new_quinnipiac_poll_shows_harris_up_5145_over)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T16:45:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Valahiru"> /u/Valahiru </a> <br/> <span><a href="https://poll.qu.edu/poll-release?releaseid=3905">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjxhv1/new_quinnipiac_poll_shows_harris_up_5145_over/">[comments]</a></span>
+
+## Trump quips he wishes Biden hadn’t called him: ‘He was so nice to me’
+ - [https://www.reddit.com/r/politics/comments/1fjwslt/trump_quips_he_wishes_biden_hadnt_called_him_he](https://www.reddit.com/r/politics/comments/1fjwslt/trump_quips_he_wishes_biden_hadnt_called_him_he)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T16:16:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjwslt/trump_quips_he_wishes_biden_hadnt_called_him_he/"> <img src="https://external-preview.redd.it/h_XAptsFNrcm6sYwvKbL1OxtjvlURpIRDXbesoj6f7M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=008af5d941fc0a4084f738ed6b37fe1ce137fe2e" alt="Trump quips he wishes Biden hadn’t called him: ‘He was so nice to me’" title="Trump quips he wishes Biden hadn’t called him: ‘He was so nice to me’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Liewvkoinsoedt"> /u/Liewvkoinsoedt </a> <br/> <span><a href="https://thehill.com/homenews/campaign/4885432-donald-trump-joe-biden-call/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjwslt/trump_quips_he_wishes_biden_hadnt_called_him_he/">[comments]</a></span> </td></tr></table>
+
+## J.D. Vance offers ‘proof’ of pet-eating, but it’s proven false with 1 phone call
+ - [https://www.reddit.com/r/politics/comments/1fjwr0s/jd_vance_offers_proof_of_peteating_but_its_proven](https://www.reddit.com/r/politics/comments/1fjwr0s/jd_vance_offers_proof_of_peteating_but_its_proven)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T16:14:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjwr0s/jd_vance_offers_proof_of_peteating_but_its_proven/"> <img src="https://external-preview.redd.it/g061ErYIRe9PaZBD6buMuD3jgtN9lWh-l6iyD5leDMQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9cb469e1890890cffcfa18c27cb500838ddf8159" alt="J.D. Vance offers ‘proof’ of pet-eating, but it’s proven false with 1 phone call" title="J.D. Vance offers ‘proof’ of pet-eating, but it’s proven false with 1 phone call" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br/> <span><a href="https://www.nj.com/politics/2024/09/jd-vance-offers-proof-of-pet-eating-but-its-proven-false-with-1-phone-call.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjwr0s/jd_vance_offers_proof_of_peteating_but_its_proven/">[comments]</a></span> </td></tr></table>
+
+## Oh, the irony that 97K mostly Arizona GOP voters haven't proved they're citizens | An MVD coding glitch has revealed that 97,000 Arizona voters never proved their citizenship and thus shouldn't be voting in state and local elections. Most are ... wait for it ... Republicans.
+ - [https://www.reddit.com/r/politics/comments/1fjvwed/oh_the_irony_that_97k_mostly_arizona_gop_voters](https://www.reddit.com/r/politics/comments/1fjvwed/oh_the_irony_that_97k_mostly_arizona_gop_voters)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T15:40:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjvwed/oh_the_irony_that_97k_mostly_arizona_gop_voters/"> <img src="https://external-preview.redd.it/75IleSAwZJJ8zf-3zEtoBxpLX4CuxMOkpdRCi6YS3-w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1f46c1ebd80bc7d74ad92d459dd91d5d0f4e48a" alt="Oh, the irony that 97K mostly Arizona GOP voters haven't proved they're citizens | An MVD coding glitch has revealed that 97,000 Arizona voters never proved their citizenship and thus shouldn't be voting in state and local elections. Most are ... wait for it ... Republicans." title="Oh, the irony that 97K mostly Arizona GOP voters haven't proved they're citizens | An MVD coding glitch has revealed that 97,000 Arizona voters never proved their citizenship and thus shouldn't be voting in state and local elections. Most are ... wait for it ... Republicans." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br
+
+## Secret Service Probes Elon Musk ‘Joke’ About Killing Prez Joe Biden and VP Kamala Harris
+ - [https://www.reddit.com/r/politics/comments/1fjv8rb/secret_service_probes_elon_musk_joke_about](https://www.reddit.com/r/politics/comments/1fjv8rb/secret_service_probes_elon_musk_joke_about)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T15:13:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjv8rb/secret_service_probes_elon_musk_joke_about/"> <img src="https://external-preview.redd.it/Cp5iPd_rVu_X-RTcR_nfhLnTqQ8f6IWFRSrU3BlFPE4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7cf6853ec4b97156d189c698ec04c6a4e15ca653" alt="Secret Service Probes Elon Musk ‘Joke’ About Killing Prez Joe Biden and VP Kamala Harris" title="Secret Service Probes Elon Musk ‘Joke’ About Killing Prez Joe Biden and VP Kamala Harris" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkayButFoRealz"> /u/OkayButFoRealz </a> <br/> <span><a href="https://www.thedailybeast.com/secret-service-probes-elon-musk-joke-about-killing-harris-biden">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjv8rb/secret_service_probes_elon_musk_joke_about/">[comments]</a></span> </td></tr></table>
+
+## 111 Republican former officials endorse Harris, say Trump is 'unfit to serve'
+ - [https://www.reddit.com/r/politics/comments/1fjv7uy/111_republican_former_officials_endorse_harris](https://www.reddit.com/r/politics/comments/1fjv7uy/111_republican_former_officials_endorse_harris)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T15:12:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjv7uy/111_republican_former_officials_endorse_harris/"> <img src="https://external-preview.redd.it/GIc_c9-FOy3WHOYnJoHzF8HHOH2wIEqAMXYblfjksVs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57c7fcb0a39173efe64d2aa2d90e374f38911d33" alt="111 Republican former officials endorse Harris, say Trump is 'unfit to serve'" title="111 Republican former officials endorse Harris, say Trump is 'unfit to serve'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/24identity"> /u/24identity </a> <br/> <span><a href="https://www.cnbc.com/2024/09/18/republicans-endorse-harris-over-trump.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjv7uy/111_republican_former_officials_endorse_harris/">[comments]</a></span> </td></tr></table>
+
+## Could there be a Kamala Harris landslide in November? The data scientist who correctly called the last election is betting yes
+ - [https://www.reddit.com/r/politics/comments/1fjv1e3/could_there_be_a_kamala_harris_landslide_in](https://www.reddit.com/r/politics/comments/1fjv1e3/could_there_be_a_kamala_harris_landslide_in)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T15:04:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjv1e3/could_there_be_a_kamala_harris_landslide_in/"> <img src="https://external-preview.redd.it/d5nItud-kHfNWMS5xGPy3dBGAIEh3GujgphYGwhNzDM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35566031805298ecc139cac89459675108b0a5b6" alt="Could there be a Kamala Harris landslide in November? The data scientist who correctly called the last election is betting yes" title="Could there be a Kamala Harris landslide in November? The data scientist who correctly called the last election is betting yes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/candis_stank_puss"> /u/candis_stank_puss </a> <br/> <span><a href="https://fortune.com/2024/09/18/trump-vs-harris-election-odds-who-will-win/?itm_source=parsely-api">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjv1e3/could_there_be_a_kamala_harris_landslide_in/">[comments]</a></span> </td></tr></table>
+
+## Kentucky governor bans use of 'conversion therapy' with executive order
+ - [https://www.reddit.com/r/politics/comments/1fjujgo/kentucky_governor_bans_use_of_conversion_therapy](https://www.reddit.com/r/politics/comments/1fjujgo/kentucky_governor_bans_use_of_conversion_therapy)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T14:44:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjujgo/kentucky_governor_bans_use_of_conversion_therapy/"> <img src="https://external-preview.redd.it/F5OtpFg8dZKkChUSrpUa3UvfuEFAnHTN7v55zeFOXK0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=003c16c98e3b1b897fc29cd6a92d566a00b3a9e5" alt="Kentucky governor bans use of 'conversion therapy' with executive order" title="Kentucky governor bans use of 'conversion therapy' with executive order" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun__Panda"> /u/Fun__Panda </a> <br/> <span><a href="https://apnews.com/article/kentucky-conversion-therapy-andy-beshear-93a07354cd0ed2e7fc09c15f204f75c0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjujgo/kentucky_governor_bans_use_of_conversion_therapy/">[comments]</a></span> </td></tr></table>
+
+## Trump, Vance's Haitian smears "need to stop," Ohio Gov. DeWine says
+ - [https://www.reddit.com/r/politics/comments/1fju9mx/trump_vances_haitian_smears_need_to_stop_ohio_gov](https://www.reddit.com/r/politics/comments/1fju9mx/trump_vances_haitian_smears_need_to_stop_ohio_gov)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T14:32:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fju9mx/trump_vances_haitian_smears_need_to_stop_ohio_gov/"> <img src="https://external-preview.redd.it/yFpnkaSJtTcuJq_AM0qfQ96gG2SeVyk7wq5q8ljbKnQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b124fe283207ed70d7b47c1f5b62d27c512bf062" alt="Trump, Vance's Haitian smears &quot;need to stop,&quot; Ohio Gov. DeWine says" title="Trump, Vance's Haitian smears &quot;need to stop,&quot; Ohio Gov. DeWine says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IntelligentYinzer"> /u/IntelligentYinzer </a> <br/> <span><a href="https://www.axios.com/2024/09/18/ohio-gov-dewine-haitian-migrants-springfield">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fju9mx/trump_vances_haitian_smears_need_to_stop_ohio_gov/">[comments]</a></span> </td></tr></table>
+
+## MAGA Rep’s Daughter Blasts His Alleged Affair With Woman 27 Years His Junior
+ - [https://www.reddit.com/r/politics/comments/1fju9m2/maga_reps_daughter_blasts_his_alleged_affair_with](https://www.reddit.com/r/politics/comments/1fju9m2/maga_reps_daughter_blasts_his_alleged_affair_with)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T14:32:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fju9m2/maga_reps_daughter_blasts_his_alleged_affair_with/"> <img src="https://external-preview.redd.it/dRv8U749ZE7l8lkoCmDogLPGf9ezHHX0bmCA9slE-IA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98f000d7e7ae9cbe054cb47630a87142352983cb" alt="MAGA Rep’s Daughter Blasts His Alleged Affair With Woman 27 Years His Junior" title="MAGA Rep’s Daughter Blasts His Alleged Affair With Woman 27 Years His Junior" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xraygun2014"> /u/xraygun2014 </a> <br/> <span><a href="https://www.thedailybeast.com/maga-rep-mark-greens-daughter-blasts-his-alleged-affair-with-32-year-old">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fju9m2/maga_reps_daughter_blasts_his_alleged_affair_with/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: US House Debates Government Funding Extension and SAVE Act
+ - [https://www.reddit.com/r/politics/comments/1fju5j5/discussion_thread_us_house_debates_government](https://www.reddit.com/r/politics/comments/1fju5j5/discussion_thread_us_house_debates_government)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T14:27:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>C-SPAN&#39;s description-in-advance of today&#39;s House proceedings reads: &quot;The House will vote on a six-month continuing resolution, temporarily funding government past the September 30th deadline to March 28, 2025 to avert a shutdown. The bill was pulled from the House floor last week due to a lack of support.&quot;</p> <p><strong>News</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/congress-budget-shutdown-citizenship-speaker-johnson-e308f980aeb0c6d1dd483bdd6bbdf561">Speaker Johnson pushes ahead on funding bill with proof of citizenship mandate despite dim prospects</a></p></li> <li><p>NBC: <a href="https://www.nbcnews.com/politics/congress/house-will-vote-speaker-johnsons-funding-plan-shutdown-looms-rcna171466">House to vote on Speaker Mike Johnson&#39;s funding plan as shutdown looms | Johnson pulled his funding package — which includes a Trump-backed voting bill — last week amid opposition from hard-line conservatives.</a>
+
+## Spice company targeted by Trump, supporters after Harris visits Pittsburgh store
+ - [https://www.reddit.com/r/politics/comments/1fjteo1/spice_company_targeted_by_trump_supporters_after](https://www.reddit.com/r/politics/comments/1fjteo1/spice_company_targeted_by_trump_supporters_after)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T13:55:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjteo1/spice_company_targeted_by_trump_supporters_after/"> <img src="https://external-preview.redd.it/UQ304rg4r8OzD_1DgplSw3yCKOzHfNMQ4bfjpCFATnY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85705845b7da5fecead3867cfaa8bf7739340489" alt="Spice company targeted by Trump, supporters after Harris visits Pittsburgh store" title="Spice company targeted by Trump, supporters after Harris visits Pittsburgh store" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tigermountains"> /u/tigermountains </a> <br/> <span><a href="https://www.pennlive.com/news/2024/09/spice-company-targeted-by-trump-supporters-after-harris-visits-pittsburgh-store.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjteo1/spice_company_targeted_by_trump_supporters_after/">[comments]</a></span> </td></tr></table>
+
+## Sarah Huckabee Sanders echoes JD Vance by sneering at Kamala Harris for not having biological children
+ - [https://www.reddit.com/r/politics/comments/1fjsyf5/sarah_huckabee_sanders_echoes_jd_vance_by](https://www.reddit.com/r/politics/comments/1fjsyf5/sarah_huckabee_sanders_echoes_jd_vance_by)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T13:34:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjsyf5/sarah_huckabee_sanders_echoes_jd_vance_by/"> <img src="https://external-preview.redd.it/UvJ4diFR6uAAuSKNkdA40nl_INZlWuzuOpPQGhg6UMU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a005433e5e547790200489d940cb72e147d4d21" alt="Sarah Huckabee Sanders echoes JD Vance by sneering at Kamala Harris for not having biological children" title="Sarah Huckabee Sanders echoes JD Vance by sneering at Kamala Harris for not having biological children" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oleg101"> /u/Oleg101 </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/sarah-huckabee-sanders-kamala-harris-b2614655.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjsyf5/sarah_huckabee_sanders_echoes_jd_vance_by/">[comments]</a></span> </td></tr></table>
+
+## Increasingly desperate, Trump unveils yet another weird tax idea | The thing to remember about Donald Trump’s tax plans: They’re not actual tax plans. They’re desperate grunts, blurted out without forethought or vetting.
+ - [https://www.reddit.com/r/politics/comments/1fjsjz3/increasingly_desperate_trump_unveils_yet_another](https://www.reddit.com/r/politics/comments/1fjsjz3/increasingly_desperate_trump_unveils_yet_another)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T13:16:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjsjz3/increasingly_desperate_trump_unveils_yet_another/"> <img src="https://external-preview.redd.it/2Ew1JsYVqEbjiN9GFFWqlU4JQObytAKQulzxOKKPTJ8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e553c8168dd73eca26ff216aaad6266960538b06" alt="Increasingly desperate, Trump unveils yet another weird tax idea | The thing to remember about Donald Trump’s tax plans: They’re not actual tax plans. They’re desperate grunts, blurted out without forethought or vetting." title="Increasingly desperate, Trump unveils yet another weird tax idea | The thing to remember about Donald Trump’s tax plans: They’re not actual tax plans. They’re desperate grunts, blurted out without forethought or vetting." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/increasingly-desperate-trump-unveils-yet-an
+
+## MAGA Editor Rich Lowry Says He Didn't Use N-Word To Describe Haitian Migrants But Watch This — The National Review editor-in-chief denied using the slur but the video shows otherwise.
+ - [https://www.reddit.com/r/politics/comments/1fjrs15/maga_editor_rich_lowry_says_he_didnt_use_nword_to](https://www.reddit.com/r/politics/comments/1fjrs15/maga_editor_rich_lowry_says_he_didnt_use_nword_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T12:39:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjrs15/maga_editor_rich_lowry_says_he_didnt_use_nword_to/"> <img src="https://external-preview.redd.it/ImCVxjCuc7-lu0eQZ-KWe3kUfaLnvZBX1XUm02_NdF8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=affe8d413e8f1e7e7af74a202ff75c174e1afc81" alt="MAGA Editor Rich Lowry Says He Didn't Use N-Word To Describe Haitian Migrants But Watch This — The National Review editor-in-chief denied using the slur but the video shows otherwise." title="MAGA Editor Rich Lowry Says He Didn't Use N-Word To Describe Haitian Migrants But Watch This — The National Review editor-in-chief denied using the slur but the video shows otherwise." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br/> <span><a href="https://www.theroot.com/maga-rich-lowry-says-he-didnt-use-n-word-to-describe-ha-1851650107">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comme
+
+## 111 Former G.O.P. Officials Back Harris, Calling Trump ‘Unfit to Serve’
+ - [https://www.reddit.com/r/politics/comments/1fjrpsf/111_former_gop_officials_back_harris_calling](https://www.reddit.com/r/politics/comments/1fjrpsf/111_former_gop_officials_back_harris_calling)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T12:36:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjrpsf/111_former_gop_officials_back_harris_calling/"> <img src="https://external-preview.redd.it/0fbbEtmkJm60XoAFi5_K9FFD189WDqIO8QowHVL7hDU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa3bea481640aec15c77365cb4f81f6604db59c8" alt="111 Former G.O.P. Officials Back Harris, Calling Trump ‘Unfit to Serve’" title="111 Former G.O.P. Officials Back Harris, Calling Trump ‘Unfit to Serve’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThonThaddeo"> /u/ThonThaddeo </a> <br/> <span><a href="https://www.nytimes.com/2024/09/18/us/politics/republican-officials-harris-endorsement.html?smid=nytcore-android-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjrpsf/111_former_gop_officials_back_harris_calling/">[comments]</a></span> </td></tr></table>
+
+## US still unprepared for Russian election interference, Robert Mueller says
+ - [https://www.reddit.com/r/politics/comments/1fjr4az/us_still_unprepared_for_russian_election](https://www.reddit.com/r/politics/comments/1fjr4az/us_still_unprepared_for_russian_election)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T12:04:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjr4az/us_still_unprepared_for_russian_election/"> <img src="https://external-preview.redd.it/Pb_TEB7PN5WcCGXbB0kvbDoiHi86SLLdHmzt2fv7nXU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ca03718318f17889fd68caba3ae946711567296" alt="US still unprepared for Russian election interference, Robert Mueller says" title="US still unprepared for Russian election interference, Robert Mueller says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/conspiracy_troll"> /u/conspiracy_troll </a> <br/> <span><a href="https://www.theguardian.com/us-news/2024/sep/18/russia-election-interference-robert-mueller">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjr4az/us_still_unprepared_for_russian_election/">[comments]</a></span> </td></tr></table>
+
+## GOP Mayor to Trump: Don’t Come to Springfield After Your Dog-Eating Slurs
+ - [https://www.reddit.com/r/politics/comments/1fjr38f/gop_mayor_to_trump_dont_come_to_springfield_after](https://www.reddit.com/r/politics/comments/1fjr38f/gop_mayor_to_trump_dont_come_to_springfield_after)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T12:03:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjr38f/gop_mayor_to_trump_dont_come_to_springfield_after/"> <img src="https://external-preview.redd.it/ZSVbiZY_4IWFgpYrDbeF280dfve7rTlOzARWq4QHRfs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87c29653183ad8cfa58e3730572d3e0520e61018" alt="GOP Mayor to Trump: Don’t Come to Springfield After Your Dog-Eating Slurs" title="GOP Mayor to Trump: Don’t Come to Springfield After Your Dog-Eating Slurs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FreeChickenDinner"> /u/FreeChickenDinner </a> <br/> <span><a href="https://www.thedailybeast.com/springfields-gop-mayor-suggests-trump-should-stay-away">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjr38f/gop_mayor_to_trump_dont_come_to_springfield_after/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Framed Climate Action as a Patriotic Duty. New Research Shows Why That’s Effective — Psychologists found that appealing to American values could boost support for environmental measures.
+ - [https://www.reddit.com/r/politics/comments/1fjqhzu/kamala_harris_framed_climate_action_as_a](https://www.reddit.com/r/politics/comments/1fjqhzu/kamala_harris_framed_climate_action_as_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T11:30:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjqhzu/kamala_harris_framed_climate_action_as_a/"> <img src="https://external-preview.redd.it/BGt1qqVOsBsjJjfeT_YCRu8fvTMwyXS6VwQNXN1JI7U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d022eef65234b85c5e6cde59c259a161cd00c91" alt="Kamala Harris Framed Climate Action as a Patriotic Duty. New Research Shows Why That’s Effective — Psychologists found that appealing to American values could boost support for environmental measures." title="Kamala Harris Framed Climate Action as a Patriotic Duty. New Research Shows Why That’s Effective — Psychologists found that appealing to American values could boost support for environmental measures." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br/> <span><a href="https://www.motherjones.com/environment/2024/09/kamala-harris-climate-patriotism/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/
+
+## Kamala Harris has neutralized Donald Trump's "high-dominance" advantage: "It’s finally occurred to the Democrats that Trump and the Republicans are bullies and cowards who will fold"
+ - [https://www.reddit.com/r/politics/comments/1fjpu8j/kamala_harris_has_neutralized_donald_trumps](https://www.reddit.com/r/politics/comments/1fjpu8j/kamala_harris_has_neutralized_donald_trumps)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T10:50:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjpu8j/kamala_harris_has_neutralized_donald_trumps/"> <img src="https://external-preview.redd.it/INDUYw046K83C0m8K9Vlnl-LqyKDnq35Ted05OW1Fhc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6752a501b5507b9393f98faa56906d4e4ab79330" alt="Kamala Harris has neutralized Donald Trump's &quot;high-dominance&quot; advantage: &quot;It’s finally occurred to the Democrats that Trump and the Republicans are bullies and cowards who will fold&quot;" title="Kamala Harris has neutralized Donald Trump's &quot;high-dominance&quot; advantage: &quot;It’s finally occurred to the Democrats that Trump and the Republicans are bullies and cowards who will fold&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.salon.com/2024/09/18/kamala-harris-has-neutralized-donald-high-dominance-advantage/">[link]</a></span> &#32; <span><a href="https://www.
+
+## Brittany Mahomes now questioning her Donald Trump support after bestie Taylor Swift backed Kamala Harris. Sources said that Trump’s recent attacks on pop megastar – who last week officially backed Kamala Harris for president – has shaken Mahomes ‘to her core’
+ - [https://www.reddit.com/r/politics/comments/1fjppfn/brittany_mahomes_now_questioning_her_donald_trump](https://www.reddit.com/r/politics/comments/1fjppfn/brittany_mahomes_now_questioning_her_donald_trump)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T10:41:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjppfn/brittany_mahomes_now_questioning_her_donald_trump/"> <img src="https://external-preview.redd.it/N1vllpW38BLnyg7bqecypBSoXEnEef5z3YGeM-pfEmI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68e69a01f02a58a0271b91b6da978eefd06aba4c" alt="Brittany Mahomes now questioning her Donald Trump support after bestie Taylor Swift backed Kamala Harris. Sources said that Trump’s recent attacks on pop megastar – who last week officially backed Kamala Harris for president – has shaken Mahomes ‘to her core’" title="Brittany Mahomes now questioning her Donald Trump support after bestie Taylor Swift backed Kamala Harris. Sources said that Trump’s recent attacks on pop megastar – who last week officially backed Kamala Harris for president – has shaken Mahomes ‘to her core’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br/> <span><a href="https://www.indepe
+
+## Now a Roe advocate, woman raped by stepfather as a child tells her story in Harris campaign ad
+ - [https://www.reddit.com/r/politics/comments/1fjoyg8/now_a_roe_advocate_woman_raped_by_stepfather_as_a](https://www.reddit.com/r/politics/comments/1fjoyg8/now_a_roe_advocate_woman_raped_by_stepfather_as_a)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T09:50:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjoyg8/now_a_roe_advocate_woman_raped_by_stepfather_as_a/"> <img src="https://external-preview.redd.it/y401gzADRDkZPMTXsdUZO9c6rjN82zc19Pv3iMIG5EQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3135b6f89c0966bbf340eeb858d43f901f25bca6" alt="Now a Roe advocate, woman raped by stepfather as a child tells her story in Harris campaign ad" title="Now a Roe advocate, woman raped by stepfather as a child tells her story in Harris campaign ad" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cute-Perception2335"> /u/Cute-Perception2335 </a> <br/> <span><a href="https://apnews.com/article/cdb874e7c3e7fe12fb1bfb95d06e907f">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjoyg8/now_a_roe_advocate_woman_raped_by_stepfather_as_a/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump sends message to anyone who leaves his rallies early
+ - [https://www.reddit.com/r/politics/comments/1fjomh0/donald_trump_sends_message_to_anyone_who_leaves](https://www.reddit.com/r/politics/comments/1fjomh0/donald_trump_sends_message_to_anyone_who_leaves)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T09:24:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjomh0/donald_trump_sends_message_to_anyone_who_leaves/"> <img src="https://external-preview.redd.it/YCkFna7RF1gb7nJQOEviXdxRsfI8vJMS_Cj-XtDWgqY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f63fc41db2c74b23a1e0f296e2dd82c1632b615" alt="Donald Trump sends message to anyone who leaves his rallies early" title="Donald Trump sends message to anyone who leaves his rallies early" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pecncorn1"> /u/Pecncorn1 </a> <br/> <span><a href="https://www.independent.co.uk/tv/news/donald-trump-town-hall-crowds-message-b2614715.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjomh0/donald_trump_sends_message_to_anyone_who_leaves/">[comments]</a></span> </td></tr></table>
+
+## Here’s the List of Every Republican Who Voted to Block IVF—Again
+ - [https://www.reddit.com/r/politics/comments/1fjmtsq/heres_the_list_of_every_republican_who_voted_to](https://www.reddit.com/r/politics/comments/1fjmtsq/heres_the_list_of_every_republican_who_voted_to)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T07:04:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjmtsq/heres_the_list_of_every_republican_who_voted_to/"> <img src="https://external-preview.redd.it/wB0sHZFJx7KdqpGXwXron7xO610re_GxIRlpFUF5PKY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9abeb4cb268d53debb18dfd60968f0999266683" alt="Here’s the List of Every Republican Who Voted to Block IVF—Again" title="Here’s the List of Every Republican Who Voted to Block IVF—Again" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/agoodsolidthrowaway"> /u/agoodsolidthrowaway </a> <br/> <span><a href="https://newrepublic.com/post/186082/list-republican-senators-vote-block-ivf-again">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjmtsq/heres_the_list_of_every_republican_who_voted_to/">[comments]</a></span> </td></tr></table>
+
+## Calls for J.D. Vance to resign after he admits that he created pet-eating story about immigrants
+ - [https://www.reddit.com/r/politics/comments/1fjm5w1/calls_for_jd_vance_to_resign_after_he_admits_that](https://www.reddit.com/r/politics/comments/1fjm5w1/calls_for_jd_vance_to_resign_after_he_admits_that)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T06:18:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjm5w1/calls_for_jd_vance_to_resign_after_he_admits_that/"> <img src="https://external-preview.redd.it/TMDwrSdFwreqCJAQiwon5iTDcPL-jCGFriQMosQVV1U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=54cc6b7298d440860b7e4cb36cc8e0e6ef99cc1c" alt="Calls for J.D. Vance to resign after he admits that he created pet-eating story about immigrants" title="Calls for J.D. Vance to resign after he admits that he created pet-eating story about immigrants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duedate2010"> /u/duedate2010 </a> <br/> <span><a href="https://www.nj.com/politics/2024/09/calls-for-jd-vance-to-resign-after-he-admits-that-he-created-pet-eating-story-about-immigrants.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjm5w1/calls_for_jd_vance_to_resign_after_he_admits_that/">[comments]</a></span> </td></tr></table>
+
+## Judge rules Trump Media breached stock contract with early investor
+ - [https://www.reddit.com/r/politics/comments/1fjk5ne/judge_rules_trump_media_breached_stock_contract](https://www.reddit.com/r/politics/comments/1fjk5ne/judge_rules_trump_media_breached_stock_contract)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T04:09:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjk5ne/judge_rules_trump_media_breached_stock_contract/"> <img src="https://external-preview.redd.it/9FZ3QHVnfD3vPdAGJ_UNwDSIbI8R3VgODspyycVZGAM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cbfe3def748c8f404181d8327a7d05e3f7b6d2c0" alt="Judge rules Trump Media breached stock contract with early investor" title="Judge rules Trump Media breached stock contract with early investor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Worried_Quarter469"> /u/Worried_Quarter469 </a> <br/> <span><a href="https://www.cnbc.com/2024/09/17/djt-trump-media-stock-lawsuit-lockup.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjk5ne/judge_rules_trump_media_breached_stock_contract/">[comments]</a></span> </td></tr></table>
+
+## Scientific American makes presidential endorsement for only the second time in its 179-year history
+ - [https://www.reddit.com/r/politics/comments/1fji6i7/scientific_american_makes_presidential](https://www.reddit.com/r/politics/comments/1fji6i7/scientific_american_makes_presidential)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T02:25:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fji6i7/scientific_american_makes_presidential/"> <img src="https://external-preview.redd.it/5aaJlUG4OrzIFgxxjM01sVwpJHHcT6bQW_HF0oYu21k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d318e16993347512e4e2f396b5625b7ad2ae7003" alt="Scientific American makes presidential endorsement for only the second time in its 179-year history" title="Scientific American makes presidential endorsement for only the second time in its 179-year history" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nO0b"> /u/nO0b </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/scientific-american-endorse-harris-trump-election-b2614153.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fji6i7/scientific_american_makes_presidential/">[comments]</a></span> </td></tr></table>
+
+## Joe Rogan says Kamala Harris is ‘nailing it’ against Trump
+ - [https://www.reddit.com/r/politics/comments/1fjhnwe/joe_rogan_says_kamala_harris_is_nailing_it](https://www.reddit.com/r/politics/comments/1fjhnwe/joe_rogan_says_kamala_harris_is_nailing_it)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T01:59:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjhnwe/joe_rogan_says_kamala_harris_is_nailing_it/"> <img src="https://external-preview.redd.it/QUk5grU6TbxCnykaNFYjfdzWTacM6hgK9XhNj-3YPjA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52617dc50db1f2d10cf07cb4b004318bfe05d5e3" alt="Joe Rogan says Kamala Harris is ‘nailing it’ against Trump" title="Joe Rogan says Kamala Harris is ‘nailing it’ against Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cybermort"> /u/cybermort </a> <br/> <span><a href="https://fortune.com/2024/09/17/joe-rogan-praise-kamala-harris-nailing-it-trump-billie-eilish/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjhnwe/joe_rogan_says_kamala_harris_is_nailing_it/">[comments]</a></span> </td></tr></table>
+
+## Chief justice Roberts pushed for quick immunity ruling in Trump’s favor – report | US supreme court
+ - [https://www.reddit.com/r/politics/comments/1fjgeew/chief_justice_roberts_pushed_for_quick_immunity](https://www.reddit.com/r/politics/comments/1fjgeew/chief_justice_roberts_pushed_for_quick_immunity)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T00:58:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjgeew/chief_justice_roberts_pushed_for_quick_immunity/"> <img src="https://external-preview.redd.it/ah7kYR5tsab-ZwwcNyK2ccc-PtCraaWVmKbj8z3eftQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=390bacf72bba19d8a5d7cb71e32c96fc9b6d118e" alt="Chief justice Roberts pushed for quick immunity ruling in Trump’s favor – report | US supreme court" title="Chief justice Roberts pushed for quick immunity ruling in Trump’s favor – report | US supreme court" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SybilVimesDragon"> /u/SybilVimesDragon </a> <br/> <span><a href="https://www.theguardian.com/us-news/2024/sep/16/supreme-court-john-roberts-trump-immunity-ruling">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjgeew/chief_justice_roberts_pushed_for_quick_immunity/">[comments]</a></span> </td></tr></table>
+
+## 'It's happening again': Trump gets a pass as the media scrutinize Harris
+ - [https://www.reddit.com/r/politics/comments/1fjftq6/its_happening_again_trump_gets_a_pass_as_the](https://www.reddit.com/r/politics/comments/1fjftq6/its_happening_again_trump_gets_a_pass_as_the)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T00:32:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjftq6/its_happening_again_trump_gets_a_pass_as_the/"> <img src="https://external-preview.redd.it/0VozP0unOyBulOMN7_-fIQ5C6zMeuHeuEoTJbcv5K7U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc192ffcc50dc614da2e627b1a1ff621f297dce0" alt="'It's happening again': Trump gets a pass as the media scrutinize Harris" title="'It's happening again': Trump gets a pass as the media scrutinize Harris" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ewzetf"> /u/ewzetf </a> <br/> <span><a href="https://www.latimes.com/opinion/letters-to-the-editor/story/2024-09-11/trump-gets-a-pass-as-the-media-scrutinize-harris">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjftq6/its_happening_again_trump_gets_a_pass_as_the/">[comments]</a></span> </td></tr></table>
+
+## Jill Stein Is Killing the Green Party
+ - [https://www.reddit.com/r/politics/comments/1fjffk3/jill_stein_is_killing_the_green_party](https://www.reddit.com/r/politics/comments/1fjffk3/jill_stein_is_killing_the_green_party)
+ - RSS feed: https://www.reddit.com/r/politics/.rss
+ - date published: 2024-09-18T00:15:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fjffk3/jill_stein_is_killing_the_green_party/"> <img src="https://external-preview.redd.it/ga8gGPtkIf73OAeUQdrZW4jLo0_eWdR8kixS1pwn82g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f27b1f208f3a2bdd4fcedd7133df457512566d1" alt="Jill Stein Is Killing the Green Party" title="Jill Stein Is Killing the Green Party" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aresef"> /u/aresef </a> <br/> <span><a href="https://newrepublic.com/article/186004/green-jill-stein-2024-election">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fjffk3/jill_stein_is_killing_the_green_party/">[comments]</a></span> </td></tr></table>
+

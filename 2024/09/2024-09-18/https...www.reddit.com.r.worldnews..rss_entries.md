@@ -1,0 +1,366 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Estonia signals readiness to preemptively strike Russia to defend NATO
+ - [https://www.reddit.com/r/worldnews/comments/1fk508i/estonia_signals_readiness_to_preemptively_strike](https://www.reddit.com/r/worldnews/comments/1fk508i/estonia_signals_readiness_to_preemptively_strike)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T22:05:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk508i/estonia_signals_readiness_to_preemptively_strike/"> <img src="https://external-preview.redd.it/_zUwXDQHqM45x0MgaJvcMJOMr5BuwmQm6skjdk5qmCk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c861bb8a4283777337aafe6aadae59b62924825" alt="Estonia signals readiness to preemptively strike Russia to defend NATO" title="Estonia signals readiness to preemptively strike Russia to defend NATO" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Evermoving-"> /u/Evermoving- </a> <br/> <span><a href="https://www.uawire.org/estonia-signals-readiness-to-preemptively-strike-russia-to-defend-nato">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fk508i/estonia_signals_readiness_to_preemptively_strike/">[comments]</a></span> </td></tr></table>
+
+## Jewish Mass Grave Uncovered in Belarus
+ - [https://www.reddit.com/r/worldnews/comments/1fk4if9/jewish_mass_grave_uncovered_in_belarus](https://www.reddit.com/r/worldnews/comments/1fk4if9/jewish_mass_grave_uncovered_in_belarus)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T21:43:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk4if9/jewish_mass_grave_uncovered_in_belarus/"> <img src="https://external-preview.redd.it/XNJqjG-1loiNuZ0MFvHYf3XJsGPXSauoDtw_IFRTSKk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b965c170a2ae789441019de11b3e5edf2684fd44" alt="Jewish Mass Grave Uncovered in Belarus" title="Jewish Mass Grave Uncovered in Belarus" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drak0bsidian"> /u/drak0bsidian </a> <br/> <span><a href="https://www.jewishpress.com/news/jewish-news/holocaust/jewish-mass-grave-uncovered-in-belarus/2024/09/17/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fk4if9/jewish_mass_grave_uncovered_in_belarus/">[comments]</a></span> </td></tr></table>
+
+## Venezuela opposition leader says he was forced to sign letter accepting Maduro victory | Venezuela
+ - [https://www.reddit.com/r/worldnews/comments/1fk429j/venezuela_opposition_leader_says_he_was_forced_to](https://www.reddit.com/r/worldnews/comments/1fk429j/venezuela_opposition_leader_says_he_was_forced_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T21:23:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk429j/venezuela_opposition_leader_says_he_was_forced_to/"> <img src="https://external-preview.redd.it/3b6lTWZsS97KInJUnthDLk9vN_lvlEVXNQZURejS4fI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a89373d5af684ac30695dc5b5b26e6c704816536" alt="Venezuela opposition leader says he was forced to sign letter accepting Maduro victory | Venezuela" title="Venezuela opposition leader says he was forced to sign letter accepting Maduro victory | Venezuela" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hernannadal"> /u/hernannadal </a> <br/> <span><a href="https://www.theguardian.com/world/2024/sep/18/venezuela-maduro-election-opposition-leader">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fk429j/venezuela_opposition_leader_says_he_was_forced_to/">[comments]</a></span> </td></tr></table>
+
+## Pair of huge plasma jets spotted blasting out of gigantic black hole
+ - [https://www.reddit.com/r/worldnews/comments/1fk3z4i/pair_of_huge_plasma_jets_spotted_blasting_out_of](https://www.reddit.com/r/worldnews/comments/1fk3z4i/pair_of_huge_plasma_jets_spotted_blasting_out_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T21:19:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk3z4i/pair_of_huge_plasma_jets_spotted_blasting_out_of/"> <img src="https://external-preview.redd.it/Vthd3mgNZUz65r2bDMhxgQqAPBs9H1pMhGklN-Y67qs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bef4a4923fc3691ad167c6303ee8a7ff5b6bccb0" alt="Pair of huge plasma jets spotted blasting out of gigantic black hole" title="Pair of huge plasma jets spotted blasting out of gigantic black hole" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/emugiant1"> /u/emugiant1 </a> <br/> <span><a href="https://www.theguardian.com/science/2024/sep/18/huge-plasma-jets-spotted-gigantic-black-hole-porphyrion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fk3z4i/pair_of_huge_plasma_jets_spotted_blasting_out_of/">[comments]</a></span> </td></tr></table>
+
+## IAF strikes Hezbollah terrorists, targets in southern Lebanon
+ - [https://www.reddit.com/r/worldnews/comments/1fk19po/iaf_strikes_hezbollah_terrorists_targets_in](https://www.reddit.com/r/worldnews/comments/1fk19po/iaf_strikes_hezbollah_terrorists_targets_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T19:25:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk19po/iaf_strikes_hezbollah_terrorists_targets_in/"> <img src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" alt="IAF strikes Hezbollah terrorists, targets in southern Lebanon" title="IAF strikes Hezbollah terrorists, targets in southern Lebanon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CarpenterIT"> /u/CarpenterIT </a> <br/> <span><a href="https://m.jpost.com/breaking-news/article-820767">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fk19po/iaf_strikes_hezbollah_terrorists_targets_in/">[comments]</a></span> </td></tr></table>
+
+## Russia tried to stage coup in Armenia, prosecutors allege
+ - [https://www.reddit.com/r/worldnews/comments/1fk0r3d/russia_tried_to_stage_coup_in_armenia_prosecutors](https://www.reddit.com/r/worldnews/comments/1fk0r3d/russia_tried_to_stage_coup_in_armenia_prosecutors)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T19:03:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk0r3d/russia_tried_to_stage_coup_in_armenia_prosecutors/"> <img src="https://external-preview.redd.it/YFL1dlp2xHjs4tK4zdAw5N5PEv2htxm-pM4U4XTtE7g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc5ec757293e6832dc125d70e9618e0b37c6b03d" alt="Russia tried to stage coup in Armenia, prosecutors allege" title="Russia tried to stage coup in Armenia, prosecutors allege" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnscheduledCalendar"> /u/UnscheduledCalendar </a> <br/> <span><a href="https://www.politico.eu/article/russia-stage-violent-coup-armenia-investigation-allegiation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fk0r3d/russia_tried_to_stage_coup_in_armenia_prosecutors/">[comments]</a></span> </td></tr></table>
+
+## NATO Secretary General does not believe in Putin's red lines regarding Ukraine's long-range strikes on Russia
+ - [https://www.reddit.com/r/worldnews/comments/1fk0c46/nato_secretary_general_does_not_believe_in_putins](https://www.reddit.com/r/worldnews/comments/1fk0c46/nato_secretary_general_does_not_believe_in_putins)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T18:45:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk0c46/nato_secretary_general_does_not_believe_in_putins/"> <img src="https://external-preview.redd.it/LQv7djkgzN4sb-0IT7_gFF3BjMyKTNLSApLUvo6oj8Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=031ec3c793e29662614fa460c03c1c13b995fd97" alt="NATO Secretary General does not believe in Putin's red lines regarding Ukraine's long-range strikes on Russia" title="NATO Secretary General does not believe in Putin's red lines regarding Ukraine's long-range strikes on Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravda_UA"> /u/Pravda_UA </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2024/09/18/7475727/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fk0c46/nato_secretary_general_does_not_believe_in_putins/">[comments]</a></span> </td></tr></table>
+
+## Conservationists on Wednesday voiced concern at a fall in the number of butterflies found in the UK, declaring a "butterfly emergency" and calling for greater protections for under-threat species
+ - [https://www.reddit.com/r/worldnews/comments/1fk01z4/conservationists_on_wednesday_voiced_concern_at_a](https://www.reddit.com/r/worldnews/comments/1fk01z4/conservationists_on_wednesday_voiced_concern_at_a)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T18:33:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fk01z4/conservationists_on_wednesday_voiced_concern_at_a/"> <img src="https://external-preview.redd.it/gw769ydDd9Vequh7KgUSNn7yLfUV95uxl4YQ-SZQKDk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b1d063565123c8419e68ea1c14dfc41c753d955" alt="Conservationists on Wednesday voiced concern at a fall in the number of butterflies found in the UK, declaring a &quot;butterfly emergency&quot; and calling for greater protections for under-threat species" title="Conservationists on Wednesday voiced concern at a fall in the number of butterflies found in the UK, declaring a &quot;butterfly emergency&quot; and calling for greater protections for under-threat species" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br/> <span><a href="https://www.france24.com/en/live-news/20240918-emergency-declared-over-falling-uk-butterfly-numbers">[link]</a></span> &#32; 
+
+## Putin agrees to sign Russia-Iran strategic partnership agreement
+ - [https://www.reddit.com/r/worldnews/comments/1fjzy8v/putin_agrees_to_sign_russiairan_strategic](https://www.reddit.com/r/worldnews/comments/1fjzy8v/putin_agrees_to_sign_russiairan_strategic)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T18:29:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjzy8v/putin_agrees_to_sign_russiairan_strategic/"> <img src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" alt="Putin agrees to sign Russia-Iran strategic partnership agreement" title="Putin agrees to sign Russia-Iran strategic partnership agreement" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CarpenterIT"> /u/CarpenterIT </a> <br/> <span><a href="https://m.jpost.com/breaking-news/article-820762">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjzy8v/putin_agrees_to_sign_russiairan_strategic/">[comments]</a></span> </td></tr></table>
+
+## Chile's birth rate plummets as more women say no to motherhood
+ - [https://www.reddit.com/r/worldnews/comments/1fjzrxq/chiles_birth_rate_plummets_as_more_women_say_no](https://www.reddit.com/r/worldnews/comments/1fjzrxq/chiles_birth_rate_plummets_as_more_women_say_no)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T18:22:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjzrxq/chiles_birth_rate_plummets_as_more_women_say_no/"> <img src="https://external-preview.redd.it/Uy0SUt3Zit6CWl1f2M-CA2KrIdZLj_A_xt7DdhZP2ZI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a69569e800d054f9a676a8ac75bccfb03116071e" alt="Chile's birth rate plummets as more women say no to motherhood" title="Chile's birth rate plummets as more women say no to motherhood" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hernannadal"> /u/hernannadal </a> <br/> <span><a href="https://www.batimes.com.ar/news/latin-america/birth-rates-in-chile-plummet-as-more-women-say-no-to-motherhood.phtml">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjzrxq/chiles_birth_rate_plummets_as_more_women_say_no/">[comments]</a></span> </td></tr></table>
+
+## Brazil fires need harsher punishment: environmental police boss
+ - [https://www.reddit.com/r/worldnews/comments/1fjyn9a/brazil_fires_need_harsher_punishment](https://www.reddit.com/r/worldnews/comments/1fjyn9a/brazil_fires_need_harsher_punishment)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T17:34:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjyn9a/brazil_fires_need_harsher_punishment/"> <img src="https://external-preview.redd.it/HAAdiULq898dlaH2hz103fQm4M0mNwLKwKOLwLkeuUs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11214142c8e88f331ef30f8266bef1e5235b3d5e" alt="Brazil fires need harsher punishment: environmental police boss" title="Brazil fires need harsher punishment: environmental police boss" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br/> <span><a href="https://www.france24.com/en/live-news/20240918-brazil-fires-need-harsher-punishment-environmental-police-boss">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjyn9a/brazil_fires_need_harsher_punishment/">[comments]</a></span> </td></tr></table>
+
+## UN approves proposal for arms embargo on Israel
+ - [https://www.reddit.com/r/worldnews/comments/1fjyf09/un_approves_proposal_for_arms_embargo_on_israel](https://www.reddit.com/r/worldnews/comments/1fjyf09/un_approves_proposal_for_arms_embargo_on_israel)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T17:24:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjyf09/un_approves_proposal_for_arms_embargo_on_israel/"> <img src="https://external-preview.redd.it/UvjJKVw54BZ2q3e5J6eaUQjRmd5hwdlZm8fnRsYyAko.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f20d63af9e6e96fe5d8668b9d96e1afcc20dd29a" alt="UN approves proposal for arms embargo on Israel" title="UN approves proposal for arms embargo on Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/parski841"> /u/parski841 </a> <br/> <span><a href="https://www.ynetnews.com/article/hj11ja00da0#autoplay">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjyf09/un_approves_proposal_for_arms_embargo_on_israel/">[comments]</a></span> </td></tr></table>
+
+## New EU defense commissioner: "Peace can be achieved only if Ukraine wins and restores its territorial sovereignty"
+ - [https://www.reddit.com/r/worldnews/comments/1fjwwty/new_eu_defense_commissioner_peace_can_be_achieved](https://www.reddit.com/r/worldnews/comments/1fjwwty/new_eu_defense_commissioner_peace_can_be_achieved)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T16:21:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjwwty/new_eu_defense_commissioner_peace_can_be_achieved/"> <img src="https://external-preview.redd.it/30Rjy5O5PMalwgoyhm7-0q8kADf1YJwdld_y4bWounI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01f594816af4546e2d6c73243236ca6eaad9ebbd" alt="New EU defense commissioner: &quot;Peace can be achieved only if Ukraine wins and restores its territorial sovereignty&quot;" title="New EU defense commissioner: &quot;Peace can be achieved only if Ukraine wins and restores its territorial sovereignty&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Royal7858"> /u/Royal7858 </a> <br/> <span><a href="https://euromaidanpress.com/2024/09/18/new-eu-defense-commissioner-peace-can-be-achieved-only-if-ukraine-wins-and-restores-its-territorial-sovereignty/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjwwty/new_eu_defense_commissioner_peace_can_be_achieved/"
+
+## Portugal declares a state of calamity as wildfires rage out of control
+ - [https://www.reddit.com/r/worldnews/comments/1fjwm99/portugal_declares_a_state_of_calamity_as](https://www.reddit.com/r/worldnews/comments/1fjwm99/portugal_declares_a_state_of_calamity_as)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T16:09:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjwm99/portugal_declares_a_state_of_calamity_as/"> <img src="https://external-preview.redd.it/Kot4JcezDJ0hPNFDNrtiE5hOCGR1915edM0k5v0PqRQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eeb78e98b1f922436e0ee59b55bd71f67adcfc4c" alt="Portugal declares a state of calamity as wildfires rage out of control" title="Portugal declares a state of calamity as wildfires rage out of control" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theluckyfrog"> /u/theluckyfrog </a> <br/> <span><a href="https://apnews.com/article/portugal-wildfires-calamity-climate-change-aveiro-bb8abc72159bcdf2ba1443168cfa7ba6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjwm99/portugal_declares_a_state_of_calamity_as/">[comments]</a></span> </td></tr></table>
+
+## UN votes 124-14 to strip Israel's right to self-defense in Gaza, West Bank
+ - [https://www.reddit.com/r/worldnews/comments/1fjvvyy/un_votes_12414_to_strip_israels_right_to](https://www.reddit.com/r/worldnews/comments/1fjvvyy/un_votes_12414_to_strip_israels_right_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T15:39:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjvvyy/un_votes_12414_to_strip_israels_right_to/"> <img src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" alt="UN votes 124-14 to strip Israel's right to self-defense in Gaza, West Bank" title="UN votes 124-14 to strip Israel's right to self-defense in Gaza, West Bank" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yoyo456"> /u/yoyo456 </a> <br/> <span><a href="https://www.jpost.com/breaking-news/article-820725?utm_source=jpost.app.android&amp;utm_medium=share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjvvyy/un_votes_12414_to_strip_israels_right_to/">[comments]</a></span> </td></tr></table>
+
+## Valencia to cut off electricity and water for illegal tourist lets
+ - [https://www.reddit.com/r/worldnews/comments/1fjvhoo/valencia_to_cut_off_electricity_and_water_for](https://www.reddit.com/r/worldnews/comments/1fjvhoo/valencia_to_cut_off_electricity_and_water_for)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T15:23:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjvhoo/valencia_to_cut_off_electricity_and_water_for/"> <img src="https://external-preview.redd.it/tVyy0fhbs81GZa_uoaS1xVBtD4JMLwXKhFIo-8ZuP_Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72d364fa88b1a0c2841dc6abef4e1db80e7263b6" alt="Valencia to cut off electricity and water for illegal tourist lets" title="Valencia to cut off electricity and water for illegal tourist lets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/euronews-english"> /u/euronews-english </a> <br/> <span><a href="https://www.euronews.com/travel/2024/09/18/cruise-caps-and-cutting-off-power-european-cities-get-serious-on-overtourism">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjvhoo/valencia_to_cut_off_electricity_and_water_for/">[comments]</a></span> </td></tr></table>
+
+## Ukraine claims to have destroyed large Russian ammunition depot in overnight drone attack
+ - [https://www.reddit.com/r/worldnews/comments/1fjuq08/ukraine_claims_to_have_destroyed_large_russian](https://www.reddit.com/r/worldnews/comments/1fjuq08/ukraine_claims_to_have_destroyed_large_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T14:51:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjuq08/ukraine_claims_to_have_destroyed_large_russian/"> <img src="https://external-preview.redd.it/4U63czegq0WyldQRnYWcsXffSHqIF0iO2YqJ7jWYnQM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c195f291382ed6be0d96bd203c2ada8f8224940" alt="Ukraine claims to have destroyed large Russian ammunition depot in overnight drone attack" title="Ukraine claims to have destroyed large Russian ammunition depot in overnight drone attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hot_lace"> /u/hot_lace </a> <br/> <span><a href="https://edition.cnn.com/2024/09/18/europe/ukraine-russian-weapons-depot-drone-attack-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjuq08/ukraine_claims_to_have_destroyed_large_russian/">[comments]</a></span> </td></tr></table>
+
+## Armenia uncovers alleged coup plot with Russian traces
+ - [https://www.reddit.com/r/worldnews/comments/1fjum51/armenia_uncovers_alleged_coup_plot_with_russian](https://www.reddit.com/r/worldnews/comments/1fjum51/armenia_uncovers_alleged_coup_plot_with_russian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T14:47:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjum51/armenia_uncovers_alleged_coup_plot_with_russian/"> <img src="https://external-preview.redd.it/xO4FvDlmpbEthlHvuBobnTwWMrjpqO5kmxERSIiiEoM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6f04f1a5b87d1430c020e8a0f7a451fa34ebe5c" alt="Armenia uncovers alleged coup plot with Russian traces" title="Armenia uncovers alleged coup plot with Russian traces" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NatSpaghettiAgency"> /u/NatSpaghettiAgency </a> <br/> <span><a href="https://kyivindependent.com/armenia-coup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjum51/armenia_uncovers_alleged_coup_plot_with_russian/">[comments]</a></span> </td></tr></table>
+
+## India deplores Iran leader's remarks on Muslims: ‘Misinformed, unacceptable’
+ - [https://www.reddit.com/r/worldnews/comments/1fjul46/india_deplores_iran_leaders_remarks_on_muslims](https://www.reddit.com/r/worldnews/comments/1fjul46/india_deplores_iran_leaders_remarks_on_muslims)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T14:45:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjul46/india_deplores_iran_leaders_remarks_on_muslims/"> <img src="https://external-preview.redd.it/lnJ_vBycuy3jzen6mjeIxrEwz42UqAFrEHoPHkxI0l8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d918cbc971ed3644190428fca700280de6f3b73" alt="India deplores Iran leader's remarks on Muslims: ‘Misinformed, unacceptable’" title="India deplores Iran leader's remarks on Muslims: ‘Misinformed, unacceptable’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kakarotsingh"> /u/kakarotsingh </a> <br/> <span><a href="https://www.hindustantimes.com/india-news/iran-leader-khamenei-s-message-mentions-suffering-of-muslims-in-india-101726501124410.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjul46/india_deplores_iran_leaders_remarks_on_muslims/">[comments]</a></span> </td></tr></table>
+
+## Hezbollah hand-held radios detonate across Lebanon
+ - [https://www.reddit.com/r/worldnews/comments/1fjudfv/hezbollah_handheld_radios_detonate_across_lebanon](https://www.reddit.com/r/worldnews/comments/1fjudfv/hezbollah_handheld_radios_detonate_across_lebanon)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T14:36:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Nikita1409"> /u/Nikita1409 </a> <br/> <span><a href="https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjudfv/hezbollah_handheld_radios_detonate_across_lebanon/">[comments]</a></span>
+
+## Round two? Additional Hezbollah beepers explode in southern Lebanon
+ - [https://www.reddit.com/r/worldnews/comments/1fjtxg0/round_two_additional_hezbollah_beepers_explode_in](https://www.reddit.com/r/worldnews/comments/1fjtxg0/round_two_additional_hezbollah_beepers_explode_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T14:17:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjtxg0/round_two_additional_hezbollah_beepers_explode_in/"> <img src="https://external-preview.redd.it/YxttgRAWoBZv0VYUpKDZRa4euDmZpA7kOYIVm-3rU-U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79e96a876401f22961c008ae7522ba3175f81145" alt="Round two? Additional Hezbollah beepers explode in southern Lebanon " title="Round two? Additional Hezbollah beepers explode in southern Lebanon " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Japan-Bandicoot"> /u/Japan-Bandicoot </a> <br/> <span><a href="https://www.jpost.com/breaking-news/article-820703">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjtxg0/round_two_additional_hezbollah_beepers_explode_in/">[comments]</a></span> </td></tr></table>
+
+## IMF axes controversial Russia visit after outrage from European capitals
+ - [https://www.reddit.com/r/worldnews/comments/1fjts95/imf_axes_controversial_russia_visit_after_outrage](https://www.reddit.com/r/worldnews/comments/1fjts95/imf_axes_controversial_russia_visit_after_outrage)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T14:11:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjts95/imf_axes_controversial_russia_visit_after_outrage/"> <img src="https://external-preview.redd.it/z6mswHhdYLtzduwChuZSBZBCPVnc9d98k5rU0c7b51Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf98d4f4bb01f1becb639a12f37a932b521840cd" alt="IMF axes controversial Russia visit after outrage from European capitals" title="IMF axes controversial Russia visit after outrage from European capitals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CourtofTalons"> /u/CourtofTalons </a> <br/> <span><a href="https://www.politico.eu/article/imf-cancels-russia-trip-after-warnings-outrage-european-capitals/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjts95/imf_axes_controversial_russia_visit_after_outrage/">[comments]</a></span> </td></tr></table>
+
+## Pager explosions killed 19 IRGC members in Syria - report
+ - [https://www.reddit.com/r/worldnews/comments/1fjtlab/pager_explosions_killed_19_irgc_members_in_syria](https://www.reddit.com/r/worldnews/comments/1fjtlab/pager_explosions_killed_19_irgc_members_in_syria)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T14:03:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjtlab/pager_explosions_killed_19_irgc_members_in_syria/"> <img src="https://external-preview.redd.it/nkuxrkmH6Sf-y9N_8vHigp2CzjNjzrVQ5KDguiMjDnI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1eac2769778a9b311138ed005fd8bd4aaf2e1a3b" alt="Pager explosions killed 19 IRGC members in Syria - report" title="Pager explosions killed 19 IRGC members in Syria - report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kooker321"> /u/Kooker321 </a> <br/> <span><a href="https://m.jpost.com/breaking-news/article-820674">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjtlab/pager_explosions_killed_19_irgc_members_in_syria/">[comments]</a></span> </td></tr></table>
+
+## Speaker of Russian Senate calls for ‘child-free movement’ to be banned
+ - [https://www.reddit.com/r/worldnews/comments/1fjstff/speaker_of_russian_senate_calls_for_childfree](https://www.reddit.com/r/worldnews/comments/1fjstff/speaker_of_russian_senate_calls_for_childfree)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T13:28:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjstff/speaker_of_russian_senate_calls_for_childfree/"> <img src="https://external-preview.redd.it/QmtSsYdAJLUHfV7hmHTs79_tJA7c1bTav-O3DqbzmoU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2344be250e4c8b40c56844cd2906a2d322e4796" alt="Speaker of Russian Senate calls for ‘child-free movement’ to be banned" title="Speaker of Russian Senate calls for ‘child-free movement’ to be banned" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2024/09/18/speaker-of-russian-senate-calls-for-child-free-movement-to-be-banned-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjstff/speaker_of_russian_senate_calls_for_childfree/">[comments]</a></span> </td></tr></table>
+
+## Musk's satellites 'blocking' view of the universe
+ - [https://www.reddit.com/r/worldnews/comments/1fjrwga/musks_satellites_blocking_view_of_the_universe](https://www.reddit.com/r/worldnews/comments/1fjrwga/musks_satellites_blocking_view_of_the_universe)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T12:45:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjrwga/musks_satellites_blocking_view_of_the_universe/"> <img src="https://external-preview.redd.it/mS7hWSPfj4UVSBwmX2Z5BJ4DT0x6l0r5ybWpzfbcttM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b74850ab0fa283fc12820e1488e577e34e33867d" alt="Musk's satellites 'blocking' view of the universe" title="Musk's satellites 'blocking' view of the universe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mcbenz"> /u/mcbenz </a> <br/> <span><a href="https://www.bbc.com/news/articles/cy4dnr8zemgo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjrwga/musks_satellites_blocking_view_of_the_universe/">[comments]</a></span> </td></tr></table>
+
+## Chinese Citizen Allegedly Spent Years Trying to Hack NASA, US Research
+ - [https://www.reddit.com/r/worldnews/comments/1fjrs7j/chinese_citizen_allegedly_spent_years_trying_to](https://www.reddit.com/r/worldnews/comments/1fjrs7j/chinese_citizen_allegedly_spent_years_trying_to)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T12:39:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjrs7j/chinese_citizen_allegedly_spent_years_trying_to/"> <img src="https://external-preview.redd.it/gBx-_JXB5pAOnZpX-r_2NQP1eVzEGWF6JPhpfiqsxIk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1b76ed7732270ecb646696dd23e4ba3d29432bb" alt="Chinese Citizen Allegedly Spent Years Trying to Hack NASA, US Research" title="Chinese Citizen Allegedly Spent Years Trying to Hack NASA, US Research" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KingSash"> /u/KingSash </a> <br/> <span><a href="https://www.pcmag.com/news/chinese-citizen-allegedly-spent-years-trying-to-hack-nasa-us-research">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjrs7j/chinese_citizen_allegedly_spent_years_trying_to/">[comments]</a></span> </td></tr></table>
+
+## Georgian parliament passes anti-LGBTQ legislation
+ - [https://www.reddit.com/r/worldnews/comments/1fjrpjq/georgian_parliament_passes_antilgbtq_legislation](https://www.reddit.com/r/worldnews/comments/1fjrpjq/georgian_parliament_passes_antilgbtq_legislation)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T12:35:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjrpjq/georgian_parliament_passes_antilgbtq_legislation/"> <img src="https://external-preview.redd.it/SlnFmlCgV1YY4fujWEZL8yRpZ905VaBq3YVhQ3xlSVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c388a66b3f9d867396e108cac1f7f5e4087d5b08" alt="Georgian parliament passes anti-LGBTQ legislation" title="Georgian parliament passes anti-LGBTQ legislation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/georgian-parliament-passes-anti-lgbtq-legislation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjrpjq/georgian_parliament_passes_antilgbtq_legislation/">[comments]</a></span> </td></tr></table>
+
+## Brussels moves to deduct €200 million fine from Hungary's EU funds, as country refuses to pay up
+ - [https://www.reddit.com/r/worldnews/comments/1fjr76w/brussels_moves_to_deduct_200_million_fine_from](https://www.reddit.com/r/worldnews/comments/1fjr76w/brussels_moves_to_deduct_200_million_fine_from)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T12:09:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjr76w/brussels_moves_to_deduct_200_million_fine_from/"> <img src="https://external-preview.redd.it/adlLNJnlS3QJJQ3g8Zu3mLVxWH56fiJVNQW77T95XMk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=204dba1f8390df224c102cbfb7bb77f798949008" alt="Brussels moves to deduct €200 million fine from Hungary's EU funds, as country refuses to pay up" title="Brussels moves to deduct €200 million fine from Hungary's EU funds, as country refuses to pay up" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OddAioli6993"> /u/OddAioli6993 </a> <br/> <span><a href="https://www.euronews.com/my-europe/2024/09/18/brussels-moves-to-deduct-200-million-fine-from-hungarys-eu-funds-as-country-refuses-to-pay">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjr76w/brussels_moves_to_deduct_200_million_fine_from/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian drones strike large military depot in Russian town northwest of Moscow
+ - [https://www.reddit.com/r/worldnews/comments/1fjqyoc/ukrainian_drones_strike_large_military_depot_in](https://www.reddit.com/r/worldnews/comments/1fjqyoc/ukrainian_drones_strike_large_military_depot_in)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T11:56:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjqyoc/ukrainian_drones_strike_large_military_depot_in/"> <img src="https://external-preview.redd.it/EeUKh-t00b7UNMSfepNpDUYCQbHOxxCHaHbMKR1jtbc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb93520719a0edb27e94b51a5d89266cd7d283ee" alt="Ukrainian drones strike large military depot in Russian town northwest of Moscow" title="Ukrainian drones strike large military depot in Russian town northwest of Moscow" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newlooksales"> /u/newlooksales </a> <br/> <span><a href="https://www.theglobeandmail.com/world/article-ukrainian-drones-strike-large-military-depot-in-russian-town-northwest/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjqyoc/ukrainian_drones_strike_large_military_depot_in/">[comments]</a></span> </td></tr></table>
+
+## Russia's Tver region orders evacuation after Ukrainian drone attack
+ - [https://www.reddit.com/r/worldnews/comments/1fjq1gy/russias_tver_region_orders_evacuation_after](https://www.reddit.com/r/worldnews/comments/1fjq1gy/russias_tver_region_orders_evacuation_after)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T11:03:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjq1gy/russias_tver_region_orders_evacuation_after/"> <img src="https://external-preview.redd.it/AG_sLq-r2NwA4mUpr-sXoluSVlvbMjnyiPi3rVkEeRc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6bb224c850d9155a33c78563e1b04c65b49a0f5" alt="Russia's Tver region orders evacuation after Ukrainian drone attack" title="Russia's Tver region orders evacuation after Ukrainian drone attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hot_lace"> /u/hot_lace </a> <br/> <span><a href="https://www.bbc.com/news/articles/c30lp1qq6pzo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjq1gy/russias_tver_region_orders_evacuation_after/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian drone attack triggers huge blasts at Russian ammo depot
+ - [https://www.reddit.com/r/worldnews/comments/1fjpuiy/ukrainian_drone_attack_triggers_huge_blasts_at](https://www.reddit.com/r/worldnews/comments/1fjpuiy/ukrainian_drone_attack_triggers_huge_blasts_at)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T10:50:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjpuiy/ukrainian_drone_attack_triggers_huge_blasts_at/"> <img src="https://external-preview.redd.it/BsGjUt9qTQBV8DfKd9sSE-BXWHvZjG_XJcGU3hIfNR4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4a4b8da2685071b49b3ab47c44108fd21f6fabf" alt="Ukrainian drone attack triggers huge blasts at Russian ammo depot" title="Ukrainian drone attack triggers huge blasts at Russian ammo depot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Guba3"> /u/Guba3 </a> <br/> <span><a href="https://www.nbcnews.com/news/world/ukraine-drone-attack-russia-ammo-depot-toropets-tver-blasts-quake-fire-rcna171601">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjpuiy/ukrainian_drone_attack_triggers_huge_blasts_at/">[comments]</a></span> </td></tr></table>
+
+## Poland calls for end to EU benefits for Ukrainian men of fighting age
+ - [https://www.reddit.com/r/worldnews/comments/1fjpj1b/poland_calls_for_end_to_eu_benefits_for_ukrainian](https://www.reddit.com/r/worldnews/comments/1fjpj1b/poland_calls_for_end_to_eu_benefits_for_ukrainian)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T10:29:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjpj1b/poland_calls_for_end_to_eu_benefits_for_ukrainian/"> <img src="https://external-preview.redd.it/hEw9qW7wIZB-WIXb-HAj6oFjh45ZAjRekkXdigcCQPI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f67ffd2989f1f126c09a3446b19f58b55086471" alt="Poland calls for end to EU benefits for Ukrainian men of fighting age" title="Poland calls for end to EU benefits for Ukrainian men of fighting age" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Organization8412"> /u/No-Organization8412 </a> <br/> <span><a href="https://www.euronews.com/2024/09/15/poland-calls-for-end-to-eu-benefits-for-ukrainian-men-of-fighting-age">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjpj1b/poland_calls_for_end_to_eu_benefits_for_ukrainian/">[comments]</a></span> </td></tr></table>
+
+## Japan says Chinese carrier entered its contiguous waters for first time
+ - [https://www.reddit.com/r/worldnews/comments/1fjo743/japan_says_chinese_carrier_entered_its_contiguous](https://www.reddit.com/r/worldnews/comments/1fjo743/japan_says_chinese_carrier_entered_its_contiguous)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T08:51:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjo743/japan_says_chinese_carrier_entered_its_contiguous/"> <img src="https://external-preview.redd.it/SuYT7TK7Lt9xmmEFi6Mod-KW25tRjOEfG3onwZIxlI0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d5dfac985aa8e2eefa67c3da64b12a9e5f65ee5" alt="Japan says Chinese carrier entered its contiguous waters for first time" title="Japan says Chinese carrier entered its contiguous waters for first time" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Illustrious_Diver_37"> /u/Illustrious_Diver_37 </a> <br/> <span><a href="https://www.channelnewsasia.com/east-asia/chinese-carrier-enters-japan-contiguous-waters-first-time-4615316">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjo743/japan_says_chinese_carrier_entered_its_contiguous/">[comments]</a></span> </td></tr></table>
+
+## US military aid packages to Ukraine shrink amid concerns over Pentagon stockpiles
+ - [https://www.reddit.com/r/worldnews/comments/1fjnrju/us_military_aid_packages_to_ukraine_shrink_amid](https://www.reddit.com/r/worldnews/comments/1fjnrju/us_military_aid_packages_to_ukraine_shrink_amid)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T08:17:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjnrju/us_military_aid_packages_to_ukraine_shrink_amid/"> <img src="https://external-preview.redd.it/8IFOntvmCVIeoc1ctaXO1YRC5LbZtD_UMktipUIpxbo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06625781708073af53afcabbacc7128d68341004" alt="US military aid packages to Ukraine shrink amid concerns over Pentagon stockpiles" title="US military aid packages to Ukraine shrink amid concerns over Pentagon stockpiles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/handlelamper"> /u/handlelamper </a> <br/> <span><a href="https://www.cnn.com/2024/09/17/politics/us-reducing-military-aid-packages-ukraine/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjnrju/us_military_aid_packages_to_ukraine_shrink_amid/">[comments]</a></span> </td></tr></table>
+
+## Korean aerospace and defense giant Hanwha Aerospace set to begin work at armored vehicle factory in Romania
+ - [https://www.reddit.com/r/worldnews/comments/1fjnha6/korean_aerospace_and_defense_giant_hanwha](https://www.reddit.com/r/worldnews/comments/1fjnha6/korean_aerospace_and_defense_giant_hanwha)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T07:55:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjnha6/korean_aerospace_and_defense_giant_hanwha/"> <img src="https://external-preview.redd.it/vctNO8NN4vpEmOf_2GmPoNs2nOsY4_C0GE8qbPBf2Go.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6e90d1a0ff95444cf29fa3739a8c37dcbad471a" alt="Korean aerospace and defense giant Hanwha Aerospace set to begin work at armored vehicle factory in Romania" title="Korean aerospace and defense giant Hanwha Aerospace set to begin work at armored vehicle factory in Romania" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/adyrip1"> /u/adyrip1 </a> <br/> <span><a href="https://www.romania-insider.com/hanwha-aerospace-build-armored-vehicle-factory-romania-2024">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjnha6/korean_aerospace_and_defense_giant_hanwha/">[comments]</a></span> </td></tr></table>
+
+## Japan says Chinese carrier entered its contiguous waters for first time
+ - [https://www.reddit.com/r/worldnews/comments/1fjngwq/japan_says_chinese_carrier_entered_its_contiguous](https://www.reddit.com/r/worldnews/comments/1fjngwq/japan_says_chinese_carrier_entered_its_contiguous)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T07:54:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mark000"> /u/mark000 </a> <br/> <span><a href="https://www.reuters.com/world/asia-pacific/taiwan-spots-chinese-carrier-group-sailing-off-its-east-coast-2024-09-17/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjngwq/japan_says_chinese_carrier_entered_its_contiguous/">[comments]</a></span>
+
+## Ukrainian Drone Attack Targets Large Ammunition Depot in Russia's Tver Region, Triggers Explosions and Evacuation
+ - [https://www.reddit.com/r/worldnews/comments/1fjmq78/ukrainian_drone_attack_targets_large_ammunition](https://www.reddit.com/r/worldnews/comments/1fjmq78/ukrainian_drone_attack_targets_large_ammunition)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T06:58:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjmq78/ukrainian_drone_attack_targets_large_ammunition/"> <img src="https://external-preview.redd.it/97RRtBMR4WrQfnpmaUe3LI7BiZqTLUd-3JKI1B1ZV0c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab713ec59f308538595051b65759f30b0629c3ab" alt="Ukrainian Drone Attack Targets Large Ammunition Depot in Russia's Tver Region, Triggers Explosions and Evacuation" title="Ukrainian Drone Attack Targets Large Ammunition Depot in Russia's Tver Region, Triggers Explosions and Evacuation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CosmicLullabyX"> /u/CosmicLullabyX </a> <br/> <span><a href="https://www.kyivpost.com/post/39151">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjmq78/ukrainian_drone_attack_targets_large_ammunition/">[comments]</a></span> </td></tr></table>
+
+## Russian army to overtake United States as world’s second largest
+ - [https://www.reddit.com/r/worldnews/comments/1fjmp9u/russian_army_to_overtake_united_states_as_worlds](https://www.reddit.com/r/worldnews/comments/1fjmp9u/russian_army_to_overtake_united_states_as_worlds)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T06:56:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjmp9u/russian_army_to_overtake_united_states_as_worlds/"> <img src="https://external-preview.redd.it/uVutVOZtYOU7IRVP5JKjLF5VOMYc_SML2m6XJWIjPlY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7eab5fbd039dd19537800a3ad2b83ea2be2506bf" alt="Russian army to overtake United States as world’s second largest" title="Russian army to overtake United States as world’s second largest" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2024/09/17/russian-army-overtake-us-as-worlds-second-largest/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjmp9u/russian_army_to_overtake_united_states_as_worlds/">[comments]</a></span> </td></tr></table>
+
+## Syrians are disappearing in Luhansk region – Russians are sending foreign mercenaries into meat grinders
+ - [https://www.reddit.com/r/worldnews/comments/1fjm0ke/syrians_are_disappearing_in_luhansk_region](https://www.reddit.com/r/worldnews/comments/1fjm0ke/syrians_are_disappearing_in_luhansk_region)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T06:07:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjm0ke/syrians_are_disappearing_in_luhansk_region/"> <img src="https://external-preview.redd.it/OWTIzav9eQ2Z7kRWYtaVgGIqtiiPlcJPWP_3sg3G1e8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=768d14417b9b657cbe48573af2eccb3ba410feca" alt="Syrians are disappearing in Luhansk region – Russians are sending foreign mercenaries into meat grinders" title="Syrians are disappearing in Luhansk region – Russians are sending foreign mercenaries into meat grinders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CompetitiveNovel8990"> /u/CompetitiveNovel8990 </a> <br/> <span><a href="https://odessa-journal.com/defence-intelligence-syrians-are-disappearing-in-luhansk-region">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjm0ke/syrians_are_disappearing_in_luhansk_region/">[comments]</a></span> </td></tr></table>
+
+## Ukraine war briefing: Blinken briefed on Kyiv’s plan to push Russia to end war | Ukraine | The Guardian
+ - [https://www.reddit.com/r/worldnews/comments/1fjljpm/ukraine_war_briefing_blinken_briefed_on_kyivs](https://www.reddit.com/r/worldnews/comments/1fjljpm/ukraine_war_briefing_blinken_briefed_on_kyivs)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T05:36:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjljpm/ukraine_war_briefing_blinken_briefed_on_kyivs/"> <img src="https://external-preview.redd.it/GcKLBkDKd_zc8i6G0bg2ekbSFJUO6msxmXMKZemGkDo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25d0c7ee9d7d2074ec7838f6d87de4a9c3e463a9" alt="Ukraine war briefing: Blinken briefed on Kyiv’s plan to push Russia to end war | Ukraine | The Guardian" title="Ukraine war briefing: Blinken briefed on Kyiv’s plan to push Russia to end war | Ukraine | The Guardian" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dangerous-Dashing"> /u/Dangerous-Dashing </a> <br/> <span><a href="https://www.theguardian.com/world/2024/sep/18/ukraine-war-briefing-blinken-briefed-on-kyivs-plan-to-push-russia-to-end-war#amp_tf=From%20%251%24s&amp;aoh=17266369838707&amp;csi=1&amp;referrer=https%3A%2F%2Fwww.google.com&amp;ampshare=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2024%2Fsep%2F18%2Fukraine-war-briefing-blinken-
+
+## Chinese military video appears to show 'dangerous' intercept of Australian aircraft over South China Sea
+ - [https://www.reddit.com/r/worldnews/comments/1fjlish/chinese_military_video_appears_to_show_dangerous](https://www.reddit.com/r/worldnews/comments/1fjlish/chinese_military_video_appears_to_show_dangerous)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T05:34:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjlish/chinese_military_video_appears_to_show_dangerous/"> <img src="https://external-preview.redd.it/LFXYG9V90gV8RcOkNdjuUfma470bTeZ6XqKM3phGasg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e646765a58d4dc974f91435e1e670af240aa9458" alt="Chinese military video appears to show 'dangerous' intercept of Australian aircraft over South China Sea" title="Chinese military video appears to show 'dangerous' intercept of Australian aircraft over South China Sea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aurora-241"> /u/aurora-241 </a> <br/> <span><a href="https://www.abc.net.au/news/2024-09-18/video-shows-chinese-military-intercept-of-australian-aircraft/104362682">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjlish/chinese_military_video_appears_to_show_dangerous/">[comments]</a></span> </td></tr></table>
+
+## Ukraine drone attack forces evacuation in Russia's Tver region, governor says
+ - [https://www.reddit.com/r/worldnews/comments/1fjko93/ukraine_drone_attack_forces_evacuation_in_russias](https://www.reddit.com/r/worldnews/comments/1fjko93/ukraine_drone_attack_forces_evacuation_in_russias)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T04:40:43+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://www.reuters.com/world/europe/ukraine-targets-western-russian-regions-with-drones-russian-officials-says-2024-09-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjko93/ukraine_drone_attack_forces_evacuation_in_russias/">[comments]</a></span>
+
+## 'The pressure became too much for her': Mother calls out EY's work culture after 26-year-old EY Pune employee dies from 'Work Stress'
+ - [https://www.reddit.com/r/worldnews/comments/1fjkg1p/the_pressure_became_too_much_for_her_mother_calls](https://www.reddit.com/r/worldnews/comments/1fjkg1p/the_pressure_became_too_much_for_her_mother_calls)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T04:26:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjkg1p/the_pressure_became_too_much_for_her_mother_calls/"> <img src="https://external-preview.redd.it/a3vZ6dSovV1vSdYzXkOEBqbRjrfsZWfur0mJC7bhRZ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55cdf7b0f8853cbb6bb5099a0b6dcc137ac2945a" alt="'The pressure became too much for her': Mother calls out EY's work culture after 26-year-old EY Pune employee dies from 'Work Stress'" title="'The pressure became too much for her': Mother calls out EY's work culture after 26-year-old EY Pune employee dies from 'Work Stress'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zentaoyang"> /u/zentaoyang </a> <br/> <span><a href="https://www.businesstoday.in/latest/trends/story/the-pressure-became-too-much-for-her-mother-calls-out-eys-work-culture-after-26-year-old-ey-pune-employee-dies-from-work-stress-446382-2024-09-17#google_vignette">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r
+
+## Cuba slashes size of daily bread ration as ingredients run thin
+ - [https://www.reddit.com/r/worldnews/comments/1fjk97s/cuba_slashes_size_of_daily_bread_ration_as](https://www.reddit.com/r/worldnews/comments/1fjk97s/cuba_slashes_size_of_daily_bread_ration_as)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T04:15:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjk97s/cuba_slashes_size_of_daily_bread_ration_as/"> <img src="https://external-preview.redd.it/hqZ5BU8E4i1KcaErlmuxU71hzem3jIjwtyH9GomZ6vk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbaf5c7468de5cf6706be14bfd990bb61a9a353d" alt="Cuba slashes size of daily bread ration as ingredients run thin" title="Cuba slashes size of daily bread ration as ingredients run thin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Anchor_Aways"> /u/Anchor_Aways </a> <br/> <span><a href="https://www.yahoo.com/news/cuba-slashes-size-daily-bread-172742110.html?guccounter=1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjk97s/cuba_slashes_size_of_daily_bread_ration_as/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 937, Part 1 (Thread #1084)
+ - [https://www.reddit.com/r/worldnews/comments/1fjk0rs/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1fjk0rs/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T04:02:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjk0rs/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 937, Part 1 (Thread #1084)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 937, Part 1 (Thread #1084)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjk0rs/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Global spending on subsidies that harm environment rises to $2.6tn, report says
+ - [https://www.reddit.com/r/worldnews/comments/1fjjuhi/global_spending_on_subsidies_that_harm](https://www.reddit.com/r/worldnews/comments/1fjjuhi/global_spending_on_subsidies_that_harm)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T03:52:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjjuhi/global_spending_on_subsidies_that_harm/"> <img src="https://external-preview.redd.it/4AV2cxB3DMBrxr8QNkYU4lK965dWC7_xoFdX4bJOkQc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae4bb22bdc02ee6e65899b64779275682f8b52f8" alt="Global spending on subsidies that harm environment rises to $2.6tn, report says " title="Global spending on subsidies that harm environment rises to $2.6tn, report says " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HorsesMeow"> /u/HorsesMeow </a> <br/> <span><a href="https://www.theguardian.com/environment/2024/sep/18/spending-subsidies-environment-deforestation-pollution-fossil-fuels-aoe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjjuhi/global_spending_on_subsidies_that_harm/">[comments]</a></span> </td></tr></table>
+
+## AUKUS in talks with Canada, Japan, NZ, say leaders
+ - [https://www.reddit.com/r/worldnews/comments/1fjiwzt/aukus_in_talks_with_canada_japan_nz_say_leaders](https://www.reddit.com/r/worldnews/comments/1fjiwzt/aukus_in_talks_with_canada_japan_nz_say_leaders)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T03:02:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Georgeika"> /u/Georgeika </a> <br/> <span><a href="https://www.reuters.com/business/aerospace-defense/aukus-talks-with-canada-japan-nz-say-leaders-2024-09-18/?taid=66ea425ade5c9e0001bb9e28&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjiwzt/aukus_in_talks_with_canada_japan_nz_say_leaders/">[comments]</a></span>
+
+## NATO Ally Uses Seized Russian Assets To Fund Artillery for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1fjhy64/nato_ally_uses_seized_russian_assets_to_fund](https://www.reddit.com/r/worldnews/comments/1fjhy64/nato_ally_uses_seized_russian_assets_to_fund)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T02:14:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjhy64/nato_ally_uses_seized_russian_assets_to_fund/"> <img src="https://external-preview.redd.it/-_OP-1m-3u3FcPol_80BVBoPbjMTQw27scsICuCyCeg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd35fdb10cbd16a292fcf5766a2112b0809cf7df" alt="NATO Ally Uses Seized Russian Assets To Fund Artillery for Ukraine" title="NATO Ally Uses Seized Russian Assets To Fund Artillery for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/P_a_s_g_i_t_24"> /u/P_a_s_g_i_t_24 </a> <br/> <span><a href="https://www.newsweek.com/nato-frozen-russian-assets-fund-ukraine-military-1955224">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjhy64/nato_ally_uses_seized_russian_assets_to_fund/">[comments]</a></span> </td></tr></table>
+
+## Japan faces labor shortages and demographic crisis as elderly population hits record high
+ - [https://www.reddit.com/r/worldnews/comments/1fjgvyv/japan_faces_labor_shortages_and_demographic](https://www.reddit.com/r/worldnews/comments/1fjgvyv/japan_faces_labor_shortages_and_demographic)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T01:21:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjgvyv/japan_faces_labor_shortages_and_demographic/"> <img src="https://external-preview.redd.it/dZappsjAIoKnFmBT4pb-dSYxaun7O_u4IopkhoHKVK4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea1e61245c045533f5ffb15986da74317e11294e" alt="Japan faces labor shortages and demographic crisis as elderly population hits record high" title="Japan faces labor shortages and demographic crisis as elderly population hits record high" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Big-Heron4763"> /u/Big-Heron4763 </a> <br/> <span><a href="https://www.cnbc.com/2024/09/18/japan-faces-demographic-crisis-as-elderly-count-hits-record-high-.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjgvyv/japan_faces_labor_shortages_and_demographic/">[comments]</a></span> </td></tr></table>
+
+## A report by environmental and rights NGOs Tuesday linked three major meatpacking companies to illegal deforestation in Brazil, where farmers are accused of spraying herbicides from the sky to clear huge tracts of land
+ - [https://www.reddit.com/r/worldnews/comments/1fjgmzx/a_report_by_environmental_and_rights_ngos_tuesday](https://www.reddit.com/r/worldnews/comments/1fjgmzx/a_report_by_environmental_and_rights_ngos_tuesday)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T01:09:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fjgmzx/a_report_by_environmental_and_rights_ngos_tuesday/"> <img src="https://external-preview.redd.it/QVV41o1zsznhgzD0FkEqYNkv_wFSk3wkr79HtftryrY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fd8a8d050d4e2fe14693d6261d447e1ebfb2369" alt="A report by environmental and rights NGOs Tuesday linked three major meatpacking companies to illegal deforestation in Brazil, where farmers are accused of spraying herbicides from the sky to clear huge tracts of land" title="A report by environmental and rights NGOs Tuesday linked three major meatpacking companies to illegal deforestation in Brazil, where farmers are accused of spraying herbicides from the sky to clear huge tracts of land" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoremusJessup"> /u/DoremusJessup </a> <br/> <span><a href="https://www.france24.com/en/live-news/20240917-report-links-meatpacking-companies-to-war-on-nature-in
+
+## Mossad Planted Explosives in Hezbollah's Taiwan-made Devices Months in Advance
+ - [https://www.reddit.com/r/worldnews/comments/1fjfp5u/mossad_planted_explosives_in_hezbollahs](https://www.reddit.com/r/worldnews/comments/1fjfp5u/mossad_planted_explosives_in_hezbollahs)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T00:26:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/s1n0d3utscht3k"> /u/s1n0d3utscht3k </a> <br/> <span><a href="https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-sources-say-2024-09-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjfp5u/mossad_planted_explosives_in_hezbollahs/">[comments]</a></span>
+
+## Israel planted explosives in Hezbollah's Taiwan-made pagers, sources say
+ - [https://www.reddit.com/r/worldnews/comments/1fjfo2j/israel_planted_explosives_in_hezbollahs](https://www.reddit.com/r/worldnews/comments/1fjfo2j/israel_planted_explosives_in_hezbollahs)
+ - RSS feed: https://www.reddit.com/r/worldnews/.rss
+ - date published: 2024-09-18T00:25:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/s1n0d3utscht3k"> /u/s1n0d3utscht3k </a> <br/> <span><a href="https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-sources-say-2024-09-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fjfo2j/israel_planted_explosives_in_hezbollahs/">[comments]</a></span>
+

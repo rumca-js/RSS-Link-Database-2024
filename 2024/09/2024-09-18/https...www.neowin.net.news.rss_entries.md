@@ -1,0 +1,219 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## This super-fast rugged USB 20Gbps 2TB external SSD is a massive 36% off its highest price
+ - [https://www.neowin.net/deals/this-super-fast-rugged-usb-20gbps-2tb-external-ssd-is-a-massive-36-off-its-highest-price](https://www.neowin.net/deals/this-super-fast-rugged-usb-20gbps-2tb-external-ssd-is-a-massive-36-off-its-highest-price)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T22:12:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726696282_transcend_esd360c_ssd_medium.jpg" alt="" /></div>This rugged external SSD from Transcend is a whopping 36% off from its highest price making it an amazing deal. <a href="https://www.neowin.net/deals/this-super-fast-rugged-usb-20gbps-2tb-external-ssd-is-a-massive-36-off-its-highest-price/">Read more...</a>
+
+## Microsoft President Brad Smith urges the US Congress to pass a new "deepfake fraud statute"
+ - [https://www.neowin.net/news/microsoft-president-brad-smith-urges-the-us-congress-to-pass-a-new-deepfake-fraud-statute](https://www.neowin.net/news/microsoft-president-brad-smith-urges-the-us-congress-to-pass-a-new-deepfake-fraud-statute)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T21:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2021/02/1612276304_microsoft_logo_2_medium.jpg" alt="" /></div>Microsoft President Brad Smith testified before the US Congress today, and urged federal lawmakers to pass new laws aimed to fight digital deepfakes. <a href="https://www.neowin.net/news/microsoft-president-brad-smith-urges-the-us-congress-to-pass-a-new-deepfake-fraud-statute/">Read more...</a>
+
+## Microsoft might just have delayed Windows 11 24H2 update release slightly
+ - [https://www.neowin.net/news/microsoft-might-just-have-delayed-windows-11-24h2-update-release-slightly](https://www.neowin.net/news/microsoft-might-just-have-delayed-windows-11-24h2-update-release-slightly)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T20:44:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/02/1707638708_windows_11_24h2_red_medium.jpg" alt="" /></div>Microsoft might want to delay the upcoming general availability of Windows 11 version 24H2 annual feature update. <a href="https://www.neowin.net/news/microsoft-might-just-have-delayed-windows-11-24h2-update-release-slightly/">Read more...</a>
+
+## The new Ara: History Untold dev diary video takes a look at England and Elizabeth the First
+ - [https://www.neowin.net/news/the-new-ara-history-untold-dev-diary-video-takes-a-look-at-england-and-elizabeth-the-first](https://www.neowin.net/news/the-new-ara-history-untold-dev-diary-video-takes-a-look-at-england-and-elizabeth-the-first)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T20:22:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726688720_ara-england_medium.jpg" alt="" /></div>The latest dev diary for Ara: History Untold takes a look at another of the upcoming grand strategy game&#039;s leaders, England&#039;s Elizabeth the First, and her abilities in the game. <a href="https://www.neowin.net/news/the-new-ara-history-untold-dev-diary-video-takes-a-look-at-england-and-elizabeth-the-first/">Read more...</a>
+
+## There willl be no EU investigation for Microsoft's acquisition of AI startup Inflection
+ - [https://www.neowin.net/news/there-willl-be-no-eu-investigation-for-microsofts-acquisition-of-ai-startup-inflection](https://www.neowin.net/news/there-willl-be-no-eu-investigation-for-microsofts-acquisition-of-ai-startup-inflection)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T20:06:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/05/1717164605_depositphotos_95431504_s_medium.jpg" alt="" /></div>The European Commission has declined to open an investigation into Microsoft&#039;s hiring of employees from AI startup Inflection, despite requests from member states. <a href="https://www.neowin.net/news/there-willl-be-no-eu-investigation-for-microsofts-acquisition-of-ai-startup-inflection/">Read more...</a>
+
+## Mojang reveals Minecraft is pulling support for PlayStationVR in 2025
+ - [https://www.neowin.net/news/mojang-reveals-minecraft-is-pulling-support-for-playstationvr-in-2025](https://www.neowin.net/news/mojang-reveals-minecraft-is-pulling-support-for-playstationvr-in-2025)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T19:50:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697125858_apps.32986.14581193029730121.b9b_medium.jpg" alt="" /></div>Mojang will soon stop supporting the virtual reality version of Minecraft on PlayStation platforms. The PS4&#039;s PlayStationVR version is going away next year. <a href="https://www.neowin.net/news/mojang-reveals-minecraft-is-pulling-support-for-playstationvr-in-2025/">Read more...</a>
+
+## XDefiant Season 2 launches Sept. 25; Ubisoft says "the game is doing well"
+ - [https://www.neowin.net/news/xdefiant-season-2-launches-sept-25-ubisoft-says-the-game-is-doing-well](https://www.neowin.net/news/xdefiant-season-2-launches-sept-25-ubisoft-says-the-game-is-doing-well)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T18:44:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726683303_xdefinate1_medium.jpg" alt="" /></div>Ubisoft will launch Season 2 of its free-to-play shooter XDefiant on September 25. It also says that, contrary to rumors, &quot;the game is doing well.&quot; <a href="https://www.neowin.net/news/xdefiant-season-2-launches-sept-25-ubisoft-says-the-game-is-doing-well/">Read more...</a>
+
+## iMessage bug in iOS 18 causes repeated crashes
+ - [https://www.neowin.net/news/imessage-bug-in-ios-18-causes-repeated-crashes](https://www.neowin.net/news/imessage-bug-in-ios-18-causes-repeated-crashes)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T18:28:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726474826_ios_18_2_medium.jpg" alt="" /></div>Apple&#039;s iOS18 has only been publicly available for 48 hours, and now a significant bug has been found within the Messages app involving the sharing of Apple Watch faces. <a href="https://www.neowin.net/news/imessage-bug-in-ios-18-causes-repeated-crashes/">Read more...</a>
+
+## Inching towards portless iPhones? Users can now recover bricked iPhone 16 devices wirelessly
+ - [https://www.neowin.net/news/inching-towards-portless-iphones-users-can-now-recover-bricked-iphone-16-devices-wirelessly](https://www.neowin.net/news/inching-towards-portless-iphones-users-can-now-recover-bricked-iphone-16-devices-wirelessly)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T18:12:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1725966889_iphone_16_1_medium.jpg" alt="" /></div>Apple now lets users fix their bricked iPhone 16 devices using another nearby iPhone wirelessly, similar to Apple Watches and TVs. <a href="https://www.neowin.net/news/inching-towards-portless-iphones-users-can-now-recover-bricked-iphone-16-devices-wirelessly/">Read more...</a>
+
+## God of War Ragnarok hits PC tomorrow, launch trailer released
+ - [https://www.neowin.net/news/god-of-war-ragnarok-hits-pc-tomorrow-launch-trailer-released](https://www.neowin.net/news/god-of-war-ragnarok-hits-pc-tomorrow-launch-trailer-released)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T17:58:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2021/10/1634745878_51607636855_a89b1c912f_o_medium.jpg" alt="" /></div>God of War Ragnarok arrives on PC tomorrow, bringing the blockbuster with support for ultra-wide displays, unlocked frame rates, DLSS and more. It also has new tweaks like reduced puzzle hints. <a href="https://www.neowin.net/news/god-of-war-ragnarok-hits-pc-tomorrow-launch-trailer-released/">Read more...</a>
+
+## This budget Samsung phone could offer a better update policy than many Android flagships
+ - [https://www.neowin.net/news/this-budget-samsung-phone-could-offer-a-better-update-policy-than-many-android-flagships](https://www.neowin.net/news/this-budget-samsung-phone-could-offer-a-better-update-policy-than-many-android-flagships)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T17:42:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726675219_galaxy-a15-5g_medium.jpg" alt="" /></div>Samsung is expected to launch its budget phone, the Galaxy A16 5G in India at the end of this month,  and it could offer a better update policy than most Android flagships. <a href="https://www.neowin.net/news/this-budget-samsung-phone-could-offer-a-better-update-policy-than-many-android-flagships/">Read more...</a>
+
+## Bose announces new QuietComfort Earbuds to take on Apple AirPods 4
+ - [https://www.neowin.net/news/bose-announces-new-quietcomfort-earbuds-to-take-on-apple-airpods-4](https://www.neowin.net/news/bose-announces-new-quietcomfort-earbuds-to-take-on-apple-airpods-4)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T17:26:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726678365_bose_queitcomfort_earbuds_new_medium.jpg" alt="" /></div>Bose has launched the new QuietComfort Earbuds with improved audio, ANC, fast charging support and up to 8.5 hours of battery life. <a href="https://www.neowin.net/news/bose-announces-new-quietcomfort-earbuds-to-take-on-apple-airpods-4/">Read more...</a>
+
+## Save 77% on this 2024 JAVA & Spring Bundle
+ - [https://www.neowin.net/deals/save-77-on-this-2024-java--spring-bundle](https://www.neowin.net/deals/save-77-on-this-2024-java--spring-bundle)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T17:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726472797_product_344462_product_shot_wide_medium.jpg" alt="" /></div>Unlock Your Full-Stack Potential with 44+ Hours of Content on Core Java, Spring Framework, Microservices, PostgreSQL, and Git. <a href="https://www.neowin.net/deals/save-77-on-this-2024-java--spring-bundle/">Read more...</a>
+
+## YouTube is adding new features for creators and viewers including Communities
+ - [https://www.neowin.net/news/youtube-is-adding-new-features-for-creators-and-viewers-including-communities](https://www.neowin.net/news/youtube-is-adding-new-features-for-creators-and-viewers-including-communities)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T16:44:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2020/12/1607027171_youtube_5_medium.jpg" alt="" /></div>Google announced a number of new features for YouTube, including Communities that expand on how creators and fans can connect with each other. <a href="https://www.neowin.net/news/youtube-is-adding-new-features-for-creators-and-viewers-including-communities/">Read more...</a>
+
+## Minecraft Live 2024 set for September 28, teases 'never before seen' content
+ - [https://www.neowin.net/news/minecraft-live-2024-set-for-september-28-teases-never-before-seen-content](https://www.neowin.net/news/minecraft-live-2024-set-for-september-28-teases-never-before-seen-content)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T16:04:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697125865_apps.48268.14581193029730121.b9b_medium.jpg" alt="" /></div>Minecraft Live 2024 will take place on September 28. With this event, Mojang has announced plans to change the way it supports Minecraft in the future. <a href="https://www.neowin.net/news/minecraft-live-2024-set-for-september-28-teases-never-before-seen-content/">Read more...</a>
+
+## Samsung Galaxy Z Flip 6 price slashed to $949.99 on Amazon
+ - [https://www.neowin.net/deals/samsung-galaxy-z-flip-6-price-slashed-to-94999-on-amazon](https://www.neowin.net/deals/samsung-galaxy-z-flip-6-price-slashed-to-94999-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T15:46:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726671625_61msusy4xwl._ac_sl1500__medium.jpg" alt="" /></div>The new Galaxy Z Flip 6 is now available for $949.99, complete with a stunning camera setup and long software support from Samsung. <a href="https://www.neowin.net/deals/samsung-galaxy-z-flip-6-price-slashed-to-94999-on-amazon/">Read more...</a>
+
+## Get this Alienware 34-inch OLED gaming PC monitor for its lowest price ever at $799.99
+ - [https://www.neowin.net/deals/get-this-alienware-34-inch-oled-gaming-pc-monitor-for-its-lowest-price-ever-at-79999](https://www.neowin.net/deals/get-this-alienware-34-inch-oled-gaming-pc-monitor-for-its-lowest-price-ever-at-79999)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T15:30:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726670251_alienware-34-monitor_medium.jpg" alt="" /></div>The 34-inch Alienware AW3423DW OLED gaming PC monitor has hit a new low price of $799.99 or $300 off its MSRP. <a href="https://www.neowin.net/deals/get-this-alienware-34-inch-oled-gaming-pc-monitor-for-its-lowest-price-ever-at-79999/">Read more...</a>
+
+## Stoic offers a Towerborne dev update;  matchmaking fixes are its top priority
+ - [https://www.neowin.net/news/stoic-offers-a-towerborne-dev-update-matchmaking-fixes-are-its-top-priority](https://www.neowin.net/news/stoic-offers-a-towerborne-dev-update-matchmaking-fixes-are-its-top-priority)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T15:16:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726005189_20240908204351_2_medium.jpg" alt="" /></div>Developer Stoic has released a lengthy update on the Early Access release of its game Towerborne, with matchmaking its current top priority. <a href="https://www.neowin.net/news/stoic-offers-a-towerborne-dev-update-matchmaking-fixes-are-its-top-priority/">Read more...</a>
+
+## TSMC has started making iPhone chips in the United States 
+ - [https://www.neowin.net/news/tsmc-has-started-making-iphone-chips-in-the-united-states](https://www.neowin.net/news/tsmc-has-started-making-iphone-chips-in-the-united-states)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T14:34:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/05/1683056684_tsmc_arizona_medium.jpg" alt="" /></div>The Taiwan Semiconductor Manufacturing Company has started making iPhone processors at its first semiconductor fabrication unit in Arizona.  <a href="https://www.neowin.net/news/tsmc-has-started-making-iphone-chips-in-the-united-states/">Read more...</a>
+
+## Microsoft adds more English (Indian) and Hindi voices to its TTS Azure AI speech services
+ - [https://www.neowin.net/news/microsoft-adds-more-english-indian-and-hindi-voices-to-its-tts-azure-ai-speech-services](https://www.neowin.net/news/microsoft-adds-more-english-indian-and-hindi-voices-to-its-tts-azure-ai-speech-services)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T14:18:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1725380387_microsoft_azure_ai_service_medium.jpg" alt="" /></div>Microsoft has announced it is expanding the number of TTS AI voices for English (Indian) and Hindi customers for its Azure AI speech services to use. <a href="https://www.neowin.net/news/microsoft-adds-more-english-indian-and-hindi-voices-to-its-tts-azure-ai-speech-services/">Read more...</a>
+
+## New Cloud smartphone from Vodafone offers 4G access for under $14
+ - [https://www.neowin.net/news/new-cloud-smartphone-from-vodafone-offers-4g-access-for-under-14](https://www.neowin.net/news/new-cloud-smartphone-from-vodafone-offers-4g-access-for-under-14)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T14:02:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726666653_cloud-phone_medium.jpg" alt="" /></div>The Cloud phone, priced at $13.93, is designed for users still reliant on 2G and 3G networks. It allows a smooth transition to modern apps and services. <a href="https://www.neowin.net/news/new-cloud-smartphone-from-vodafone-offers-4g-access-for-under-14/">Read more...</a>
+
+## MSN Weather gets a feature that sends out alerts about unusual local weather trends
+ - [https://www.neowin.net/news/msn-weather-gets-a-feature-that-sends-out-alerts-about-unusual-local-weather-trends](https://www.neowin.net/news/msn-weather-gets-a-feature-that-sends-out-alerts-about-unusual-local-weather-trends)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T13:46:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/04/1682338667_msn_weather_medium.jpg" alt="" /></div>Microsoft has added a new feature to its MSN Weather service called the Climate Insights Engine, which uses decades of local weather data to determine and notify about unusual trends. <a href="https://www.neowin.net/news/msn-weather-gets-a-feature-that-sends-out-alerts-about-unusual-local-weather-trends/">Read more...</a>
+
+## Google overturns €1.49 billion antitrust fine by the EU over digital ad market practices
+ - [https://www.neowin.net/news/google-overturns-149-billion-antitrust-fine-by-the-eu-over-digital-ad-market-practices](https://www.neowin.net/news/google-overturns-149-billion-antitrust-fine-by-the-eu-over-digital-ad-market-practices)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T13:02:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/05/1717164605_depositphotos_95431504_s_medium.jpg" alt="" /></div>The General Court of the EU has annulled a €1.49 billion fine on Google by the European Commission that had targeted its online advertising practices.  <a href="https://www.neowin.net/news/google-overturns-149-billion-antitrust-fine-by-the-eu-over-digital-ad-market-practices/">Read more...</a>
+
+## Raspberry Pi launches Pico VS Code extension beta for easier coding
+ - [https://www.neowin.net/news/raspberry-pi-launches-pico-vs-code-extension-beta-for-easier-coding](https://www.neowin.net/news/raspberry-pi-launches-pico-vs-code-extension-beta-for-easier-coding)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T12:08:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726660072_pico_medium.jpg" alt="" /></div>The public beta of the Raspberry Pi Pico VS Code extension is out, simplifying project coding for users while enhancing the setup experience for all skill levels. <a href="https://www.neowin.net/news/raspberry-pi-launches-pico-vs-code-extension-beta-for-easier-coding/">Read more...</a>
+
+## Looks like a Horizon Zero Dawn remaster is incoming, targeting PC and PS5
+ - [https://www.neowin.net/news/looks-like-a-horizon-zero-dawn-remaster-is-incoming-targeting-pc-and-ps5](https://www.neowin.net/news/looks-like-a-horizon-zero-dawn-remaster-is-incoming-targeting-pc-and-ps5)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T10:50:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2020/01/1579206179_hori_medium.jpg" alt="" /></div>Sony&#039;s next remaster project seems to be Horizon Zero Dawn, the 2017-released open-world action entry from Guerrilla Games. <a href="https://www.neowin.net/news/looks-like-a-horizon-zero-dawn-remaster-is-incoming-targeting-pc-and-ps5/">Read more...</a>
+
+## Intel releases new graphics driver with Frostpunk 2, GoW Ranarok support and more
+ - [https://www.neowin.net/news/intel-releases-new-graphics-driver-with-frostpunk-2-gow-ranarok-support-and-more](https://www.neowin.net/news/intel-releases-new-graphics-driver-with-frostpunk-2-gow-ranarok-support-and-more)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T09:12:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726649465_intel_32.0.101.6077_medium.jpg" alt="" /></div>Intel has released a new non-WHQL driver, version 32.0.101.6077. It adds optimizations and support for several games, such as Frostpunk 2 and God of War Ragnarok 2. <a href="https://www.neowin.net/news/intel-releases-new-graphics-driver-with-frostpunk-2-gow-ranarok-support-and-more/">Read more...</a>
+
+## Fedora 41 beta drops Python 2 and adds new Miracle spin
+ - [https://www.neowin.net/news/fedora-41-beta-drops-python-2-and-adds-new-miracle-spin](https://www.neowin.net/news/fedora-41-beta-drops-python-2-and-adds-new-miracle-spin)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T08:38:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726647954_fedora_linux_41_beta_medium.jpg" alt="" /></div>Fedora 41 beta restores support for proprietary Nvidia drivers with Secure Boot, making it easier for gamers and AI developers to utilize Fedora without hindrance. <a href="https://www.neowin.net/news/fedora-41-beta-drops-python-2-and-adds-new-miracle-spin/">Read more...</a>
+
+## Microsoft, BlackRock and others announce Global AI Infrastructure Investment Partnership
+ - [https://www.neowin.net/news/microsoft-blackrock-and-others-announce-global-ai-infrastructure-investment-partnership](https://www.neowin.net/news/microsoft-blackrock-and-others-announce-global-ai-infrastructure-investment-partnership)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T07:52:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/05/1714739776_1714075556002_medium.jpg" alt="" /></div>Microsoft, BlackRock, GIP, and MGX announced a partnership to invest in AI infrastructure, primarily in the US. The partnership aims to raise up to $100 billion. <a href="https://www.neowin.net/news/microsoft-blackrock-and-others-announce-global-ai-infrastructure-investment-partnership/">Read more...</a>
+
+## 2TB Samsung 990 EVO SSD is selling at a 46% discount on Amazon
+ - [https://www.neowin.net/deals/2tb-samsung-990-evo-ssd-is-selling-at-a-46-discount-on-amazon](https://www.neowin.net/deals/2tb-samsung-990-evo-ssd-is-selling-at-a-46-discount-on-amazon)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T07:36:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/01/1706550528_samsung-990-evo-1_medium.jpg" alt="" /></div>The 2TB Samsung 990 EVO NVMe Internal solid-state drive is available at a 46% discount on its original MSRP on Amazon US. <a href="https://www.neowin.net/deals/2tb-samsung-990-evo-ssd-is-selling-at-a-46-discount-on-amazon/">Read more...</a>
+
+## Microsoft reveals Windows 11 24H2 release date for all PCs. Is your system ready?
+ - [https://www.neowin.net/news/microsoft-reveals-windows-11-24h2-release-date-for-all-pcs-is-your-system-ready](https://www.neowin.net/news/microsoft-reveals-windows-11-24h2-release-date-for-all-pcs-is-your-system-ready)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T06:50:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/02/1706910379_windows_11_24h2_medium.jpg" alt="" /></div>Microsoft has revealed the release date for Windows 11 24H2 for all eligible devices. The launch is not too far out. <a href="https://www.neowin.net/news/microsoft-reveals-windows-11-24h2-release-date-for-all-pcs-is-your-system-ready/">Read more...</a>
+
+## Snap announces the fifth generation of Spectacles with 45 minutes battery life
+ - [https://www.neowin.net/news/snap-announces-the-fifth-generation-of-spectacles-with-45-minutes-battery-life](https://www.neowin.net/news/snap-announces-the-fifth-generation-of-spectacles-with-45-minutes-battery-life)
+ - RSS feed: https://www.neowin.net/news/rss
+ - date published: 2024-09-18T05:34:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726631636_snap_spectacles_medium.jpg" alt="" /></div>Snap has unveiled the 5th generation of Spectacles, their standalone AR glasses, with significant hardware upgrades and a focus on developer tools. <a href="https://www.neowin.net/news/snap-announces-the-fifth-generation-of-spectacles-with-45-minutes-battery-life/">Read more...</a>
+
