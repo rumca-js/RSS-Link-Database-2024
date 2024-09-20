@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: Thinking the unthinkable (19 Sep 2024)
+ - [https://pluralistic.net/2024/09/19/just-stop-putting-that-up-your-ass](https://pluralistic.net/2024/09/19/just-stop-putting-that-up-your-ass)
+ - RSS feed: $source
+ - date published: 2024-09-19T14:32:22+00:00
+
+Today's links Thinking the unthinkable: At a certain point, we have to admit that the correct amount of radium in your suppository is zero. Hey look at this: Delights to delectate. This day in history: 2004, 2014, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Thinking the unthinkable (permalink) Time and again, I find myself thinking about radium suppositories: specifically, I get to thinking about the day that the consensus shifted from "radium suppositories are great" to "stop putting radioisotopes up your ass." The thing is, people really liked radium-based quack remedies. They drank radium-infused water, smeared radium cream on their faces and bodies, and yes, rammed radium suppositories up their assholes: https://maximumfun.org/episodes/sawbones/radium-girls/ The fact that this made whatever ailed you sicker didn
+

@@ -1,0 +1,34 @@
+# Source:Electronic Frontier Foundation, URL:https://www.eff.org/rss/updates.xml, language:en
+
+## Prison Banned Books Week: Being in Jail Shouldn’t Mean Having Nothing to Read
+ - [https://www.eff.org/deeplinks/2024/09/prison-banned-books-week-being-jail-shouldnt-mean-having-nothing-read](https://www.eff.org/deeplinks/2024/09/prison-banned-books-week-being-jail-shouldnt-mean-having-nothing-read)
+ - RSS feed: $source
+ - date published: 2024-09-19T21:36:17+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span>Across the United States, nearly every state’s prison system offers some form of tablet access to incarcerated people, many of which boast of sizable libraries of eBooks. Knowing this, one might assume that access to books is on the rise for incarcerated folks. Unfortunately, this is not the case. A combination of predatory pricing, woefully inadequate eBook catalogs, and bad policies restricting access to paper literature has exacerbated an already acute book censorship problem in U.S. prison systems.</span></p>
+<p><span>New data collected by the </span><a href="https://prisonbannedbooksweek.org/"><span>Prison Banned Books Week campaign</span></a><span> focuses on the widespread use of tablet devices in prison systems, as well as their pricing structure and libraries of eBooks. Through a combination of interviews with incarcerated peop
+
+## Square Peg, Meet Round Hole: Previously Classified TikTok Briefing Shows Error of Ban
+ - [https://www.eff.org/deeplinks/2024/09/square-peg-meet-round-hole-previously-classified-tiktok-briefing-shows-error-ban](https://www.eff.org/deeplinks/2024/09/square-peg-meet-round-hole-previously-classified-tiktok-briefing-shows-error-ban)
+ - RSS feed: $source
+ - date published: 2024-09-19T20:07:41+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>A <a href="https://www.eff.org/document/h-enc-tiktok-hearing-transcript">previously classified transcript</a> reveals Congress knows full well that American TikTok users engage in First Amendment protected speech on the platform and that banning the application is an inadequate way to protect privacy—but it banned TikTok anyway.</p>
+<p>The government submitted the partially redacted transcript as part of the ongoing litigation over the federal TikTok ban (which the D.C. Circuit just heard arguments about this week). The transcript indicates that that members of Congress and law enforcement recognize that Americans are engaging in First Amendment protected speech—the <a href="https://www.eff.org/deeplinks/2023/12/victory-montanas-unprecedented-tiktok-ban-unconstitutional">same recognition</a> a federal district court made when it blocked Monta
+
+## Strong End-to-End Encryption Comes to Discord Calls
+ - [https://www.eff.org/deeplinks/2024/09/discords-end-end-encryption-voice-and-video-step-forward-privacy-all](https://www.eff.org/deeplinks/2024/09/discords-end-end-encryption-voice-and-video-step-forward-privacy-all)
+ - RSS feed: $source
+ - date published: 2024-09-19T18:25:43+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span>We’re happy to see that </span><a href="https://discord.com/blog/meet-dave-e2ee-for-audio-video"><span>Discord will soon start offering a form of end-to-end encryption</span></a><span> dubbed “DAVE” for its voice and video chats. This puts some of Discord’s audio and video offerings </span><a href="https://www.eff.org/deeplinks/2020/06/victory-zoom-will-offer-end-end-encryption-all-its-users"><span>in line with Zoom</span></a><span>, and separates it from tools like Slack and Microsoft Teams, which do not offer end-to-end encryption for video, voice, or any other communications on those apps. This is a strong step forward, and Discord can do even more to protect its users’ communications.</span></p>
+<p><span>End-to-end encryption is used by many chat apps for both text and video offerings, including WhatsApp, iMessage, Signal, and Faceb
+
+## Canada’s Leaders Must Reject Overbroad Age Verification Bill	
+ - [https://www.eff.org/deeplinks/2024/09/canadas-leaders-must-reject-overbroad-age-verification-bill](https://www.eff.org/deeplinks/2024/09/canadas-leaders-must-reject-overbroad-age-verification-bill)
+ - RSS feed: $source
+ - date published: 2024-09-19T17:14:00+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span>Canadian lawmakers are considering a bill, <a href="https://www.parl.ca/DocumentViewer/en/44-1/bill/S-210/third-reading">S-210</a>, that’s meant to benefit children, but would sacrifice the security, privacy, and free speech of all internet users. </span></p>
+<p>First introduced in 2023, S-210 seeks to prevent young people from encountering sexually explicit material by requiring <em>all</em> commercial internet services that “make available” explicit content to adopt age verification services. Typically, these services will require people to show government-issued ID to get on the internet. According to bill authors, this is needed to prevent harms like the “development of pornography addiction” and “the reinforcement of gender stereotypes and the development of attitudes favorable to harassment and violence…particularly against women.
+
