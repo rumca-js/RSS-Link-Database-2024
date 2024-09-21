@@ -1,0 +1,128 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Here's How Experts Think Nintendo Will Get Its Revenge On Palworld
+ - [https://kotaku.com/nintendo-pokemon-palworld-lawsuit-pocketpair-patent-1851654149](https://kotaku.com/nintendo-pokemon-palworld-lawsuit-pocketpair-patent-1851654149)
+ - RSS feed: $source
+ - date published: 2024-09-20T21:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5f669a0458d112237e34a845b5ab8025.jpg"/><p>Earlier this week, Nintendo and The Pokémon Company, of which it’s a part owner, announced they were suing the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/palworld-shoot-pokemon-with-guns-impressions-review-pc-1851185681?_gl=1*1i7t0br*_ga*ODE3ODM5ODIyLjE3MjA0NjY0NTg.*_ga_V4QNJTT5L0*MTcyNjg1NzMyNC43Ni4xLjE3MjY4NjI0MzAuNjAuMC4w">maker of Palworld</a>, a survival crafting MMO that blew up earlier this year on Steam and Xbox. The companies accused Pocketpair, the studio behind the overnight “Pokémon with guns” sensation, of patent…</p><p><a href="https://kotaku.com/nintendo-pokemon-palworld-lawsuit-pocketpair-patent-1851654149">Read more...</a></p>
+
+## Devs Behind A Bunch Of Zelda Remasters Finally Get To Make Their Own With Echoes Of Wisdom
+ - [https://kotaku.com/echoes-of-wisdom-developer-grezzo-revealed-switch-zelda-1851654131](https://kotaku.com/echoes-of-wisdom-developer-grezzo-revealed-switch-zelda-1851654131)
+ - RSS feed: $source
+ - date published: 2024-09-20T21:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/89ec651c1248a294cd54480747456599.jpg"/><p>Next week, T<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/zelda-echoes-wisdom-nintendo-switch-trailer-horse-1851613081">he Legend of Zelda: Echoes of Wisdom</a> launches on Nintendo Switch. It’s the first mainline entry in the franchise to let you play as Princess Zelda. And once again, Nintendo is being secretive about who developed it, though fans have seemingly figured it out. </p><p><a href="https://kotaku.com/echoes-of-wisdom-developer-grezzo-revealed-switch-zelda-1851654131">Read more...</a></p>
+
+## All The Video Game News From Netflix's Geeked Week
+ - [https://kotaku.com/netflix-geeked-week-devil-may-cry-tomb-raider-trailers-1851654006](https://kotaku.com/netflix-geeked-week-devil-may-cry-tomb-raider-trailers-1851654006)
+ - RSS feed: $source
+ - date published: 2024-09-20T19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f5e80824d5c6f04f98a63a4d1ff38490.jpg"/><p>Netflix’s annual <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.netflix.com/tudum/geeked-week" target="_blank" rel="noopener noreferrer">Geeked Week event</a> has wrapped up and we’ve collected all the big video game-related news into one place. You’re welcome! </p><p><a href="https://kotaku.com/netflix-geeked-week-devil-may-cry-tomb-raider-trailers-1851654006">Read more...</a></p>
+
+## God Of War Ragnarök Is The Latest Steam Review Victim Of Sony's PC Login Requirement
+ - [https://kotaku.com/god-war-ragnarok-steam-reviews-psn-login-requirement-1851654047](https://kotaku.com/god-war-ragnarok-steam-reviews-psn-login-requirement-1851654047)
+ - RSS feed: $source
+ - date published: 2024-09-20T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/188c4c82a3960482be61acbcb00f417b.jpg"/><p>  <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/god-of-war-ragnarok-review-release-date-ps4-ps5-spear-1849734382">God Of War Ragnarök was one of 2022's hit games on PS5 and PS4</a>, and by all accounts it looks great and plays well on PC, where it arrived via Valve’s  storefront earlier this week. The Steam user review score is less than stellar, however, as players use the metric to once again boycott Sony’s PSN login requirement.</p><p><a href="https://kotaku.com/god-war-ragnarok-steam-reviews-psn-login-requirement-1851654047">Read more...</a></p>
+
+## Sega’s Steam Sale Offers Up A Ton Of Lengthy RPGs For A Bargain
+ - [https://kotaku.com/sega-steam-sale-persona-like-a-dragon-sonic-1851653985](https://kotaku.com/sega-steam-sale-persona-like-a-dragon-sonic-1851653985)
+ - RSS feed: $source
+ - date published: 2024-09-20T18:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4267c82b3d26cdaffbf1651301033943.jpg"/><p>If you are a fan of big RPGs that take dozens, maybe even a hundred, hours to complete, Sega is the publisher to go to. Between franchises such as <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/yakuza-like-a-dragon-the-kotaku-review-1845822473">Like a Dragon</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/the-persona-games-ranked-from-worst-to-best-1848334715">Persona</a>, and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/shin-megami-tensei-v-the-kotaku-review-1848102235">Shin Megami Tensei</a>, the publisher has a knack for putting out really freaking long games you will sink more time into than you care to admit.…</p><p><a href="https://kotaku.com/sega-steam-sale-persona-like-a-dragon-sonic-1851653985">Read more...</a></p>
+
+## Kotaku's Weekend Guide: 5 Terrific Games To Say Goodbye To Summer With
+ - [https://kotaku.com/kotaku-weekend-guide-god-of-war-ufo-50-fortnite-visions-1851653862](https://kotaku.com/kotaku-weekend-guide-god-of-war-ufo-50-fortnite-visions-1851653862)
+ - RSS feed: $source
+ - date published: 2024-09-20T16:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dcd7b44a0678afe6a8ed1eeea979b01a.png"/><p>It’s fall, y’all. Well, almost. Officially, summer ends this weekend on September 22. So this is the last weekend for you to get in some quality gaming time before the trees start to change colors and the weather gets to a tolerable temperature. Even that’s not promised, given the state of global warming. But you know…</p><p><a href="https://kotaku.com/kotaku-weekend-guide-god-of-war-ufo-50-fortnite-visions-1851653862">Read more...</a></p>
+
+## New Silent Hill 2 Remake Trailer Confirms No Xbox Version Until 2025
+ - [https://kotaku.com/ps5-exclusive-silent-hill-2-remake-xbox-switch-trailer-1851653806](https://kotaku.com/ps5-exclusive-silent-hill-2-remake-xbox-switch-trailer-1851653806)
+ - RSS feed: $source
+ - date published: 2024-09-20T16:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f64e2c6dbdf1a964e084417972b04ba7.jpg"/><p>A new trailer for the upcoming <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/silent-hill-2-remake-how-long-to-beat-hours-length-1851629545">Silent Hill 2 remake</a> quietly confirmed that the horror game will be a PS5 console exclusive for at least a year. So if you were planning to buy this game on Xbox (or maybe a theoretical Switch 2), you’ll have to wait until 2025. </p><p><a href="https://kotaku.com/ps5-exclusive-silent-hill-2-remake-xbox-switch-trailer-1851653806">Read more...</a></p>
+
+## This Sunlit Soulslike Is Going Under The Radar: Here's What It Has To Offer
+ - [https://kotaku.com/enotria-the-last-song-soulslike-how-long-guide-1851653705](https://kotaku.com/enotria-the-last-song-soulslike-how-long-guide-1851653705)
+ - RSS feed: $source
+ - date published: 2024-09-20T16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/590731014e70728bfc6ffdb8842d0093.jpg"/><p>Enotria: The Last Song is a soulslike title inspired by Italian folklore, bringing a sunnier vibe to the gloomy genre, otherwise known for its oppressive and dark aesthetics. This unique entry in such a beloved field promises dozens of hours of action for those looking to dig in and see it all.</p><p><a href="https://kotaku.com/enotria-the-last-song-soulslike-how-long-guide-1851653705">Read more...</a></p>
+
+## You Too Can Now Loudly Spread Liberty By Blasting The Helldivers 2 Soundtrack
+ - [https://kotaku.com/helldivers-2-soundtrack-streaming-spotify-apple-music-1851653787](https://kotaku.com/helldivers-2-soundtrack-streaming-spotify-apple-music-1851653787)
+ - RSS feed: $source
+ - date published: 2024-09-20T16:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2c98b59ce82a802349a86334a58a3e24.jpg"/><p>It’s a damn fine day for managed democracy, folks. The sun is shining, the birds are chirping, and the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/helldivers-2-kotaku-review-pc-ps5-is-it-good-ps-plus-1851258251">Helldivers 2</a> soundtrack is now available to stream. Now, wherever you go, liberty can follow closely behind you. You can take it on the road, on the train, at the gym, or blast it from the comfort of your own room,…</p><p><a href="https://kotaku.com/helldivers-2-soundtrack-streaming-spotify-apple-music-1851653787">Read more...</a></p>
+
+## BioWare Doesn’t Want To Invalidate Your Earlier Choices In Dragon Age: The Veilguard
+ - [https://kotaku.com/dragon-age-veilguard-canon-choice-bioware-mass-effect-5-1851646112](https://kotaku.com/dragon-age-veilguard-canon-choice-bioware-mass-effect-5-1851646112)
+ - RSS feed: $source
+ - date published: 2024-09-20T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5ffcf92d1259101fbf0fb6b7c02df91d.png"/><p>With series like <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/mass-effect-board-game-miniature-liara-tali-garrus-wrex-1851635545">Mass Effect </a>and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragon-age-veilguard-release-date-trailer-morrigan-1851623396">Dragon Age</a>, BioWare has made a name for itself as the “choices matter” studio. These games have allowed players to import their choices from previous entries in order to keep a consistent world state that feels shaped, to some degree, by your actions. The process by which players do…</p><p><a href="https://kotaku.com/dragon-age-veilguard-canon-choice-bioware-mass-effect-5-1851646112">Read more...</a></p>
+
+## Netflix Teases Another Cyberpunk 2077 Anime Following Runaway Success Of Edgerunners
+ - [https://kotaku.com/cyberpunk-2077-edgerunners-netflix-season-2-anime-1851653715](https://kotaku.com/cyberpunk-2077-edgerunners-netflix-season-2-anime-1851653715)
+ - RSS feed: $source
+ - date published: 2024-09-20T15:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/084bd1b212c277183aa9d612c0c0fcc8.jpg"/><p>  <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-edgerunners-netflix-review-anime-trigger-2077-1849530790">Cyberpunk: Edgerunners</a> was a shockingly good anime spin-off that proved not all video game transmedia projects are destined for mediocrity. So maybe it’s not surprising that Netflix and Cyberpunk 2077 maker CD Projekt Red are back to tease a new collaboration that will let fans return to Night City for another…</p><p><a href="https://kotaku.com/cyberpunk-2077-edgerunners-netflix-season-2-anime-1851653715">Read more...</a></p>
+
+## Arcane Season 2 Finally Has A Release Date
+ - [https://kotaku.com/netflix-arcane-season-2-league-of-legends-release-date-1851653678](https://kotaku.com/netflix-arcane-season-2-league-of-legends-release-date-1851653678)
+ - RSS feed: $source
+ - date published: 2024-09-20T15:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/530d0078a88f01c8a0a4d5a5dcfa5461.jpg"/><p>After nearly three years of fans waiting with bated breath, we finally know when <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/arcane-final-season-first-of-many-league-of-legends-1851535061">Arcane season two</a> will air. The second, and last, season of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/league-of-legends-arcane-is-the-best-show-on-netflix-ri-1848062117">Netflix’s League of Legends adaptation</a> has been a long time coming and after stringing us along with a handful of clips, trailers, and a nebulous release window of November, the…</p><p><a href="https://kotaku.com/netflix-arcane-season-2-league-of-legends-release-date-1851653678">Read more...</a></p>
+
+## Astro Bot's Soulless Devotion To The Sony Brand Is A Real Problem
+ - [https://kotaku.com/astro-bot-ps5-sony-parappa-1851653602](https://kotaku.com/astro-bot-ps5-sony-parappa-1851653602)
+ - RSS feed: $source
+ - date published: 2024-09-20T14:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/86bac3c644b63ffc76ad113fcedc58dc.jpg"/><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/astro-bot-kotaku-review-playstation-5-1851640280">Astro Bot</a> is one of the most entertaining and depressing games I’ve played in ages. It’s a loud, unrestrained explosion of creative energy, it’s an antiseptic corporate product drowning in brand fellatio. A shining example of what current-gen first-party games can be, a dreary reminder of everything they’re not.…</p><p><a href="https://kotaku.com/astro-bot-ps5-sony-parappa-1851653602">Read more...</a></p>
+
+## Doctor Doom's Takeover Of Fortnite Is So Complete He Has His Own Game Mode
+ - [https://kotaku.com/fortnite-day-of-doom-quests-guide-1851653431](https://kotaku.com/fortnite-day-of-doom-quests-guide-1851653431)
+ - RSS feed: $source
+ - date published: 2024-09-20T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2069b13f42f6e6e16cbf840646636ab6.jpg"/><p>As we approach the mid-life cycle of Fortnite Chapter 5, Season 4, Epic has introduced a new limited-time mode that pits players against one another in a Marvel-themed 16v16 match, called Day of Doom. Playable until October 3, 2024, in addition to eliminating one another, players can earn XP and unlock a special…</p><p><a href="https://kotaku.com/fortnite-day-of-doom-quests-guide-1851653431">Read more...</a></p>
+
+## Like A Dragon: Pirate Yakuza In Hawaii Looks As Bonkers As It Sounds In The Spin-Off's Announcement Trailer
+ - [https://kotaku.com/like-dragon-pirate-yakuza-hawaii-trailer-release-date-1851653566](https://kotaku.com/like-dragon-pirate-yakuza-hawaii-trailer-release-date-1851653566)
+ - RSS feed: $source
+ - date published: 2024-09-20T14:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b998b9814a196b768c608232cfcd73b9.jpg"/><p>Like A Dragon: Pirate Yakuza in Hawaii will bring the criminal sandbox soap opera back for another annual release early next year, Sega announced on Friday during the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.youtube.com/watch?v=WVfS62k4aLU" target="_blank" rel="noopener noreferrer">September 2024 RGG Summit</a>. The apparent spin-off will follow the swashbuckling exploits of long-time series character <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/like-a-dragon-yakuza-amazon-kiryu-actor-interview-1851592856">Goro Majima</a>, and the trailer looks…</p><p><a href="https://kotaku.com/like-dragon-pirate-yakuza-hawaii-trailer-release-date-1851653566">Read more...</a></p>
+
+## Here’s How Your Faction Affects Relationships In Dragon Age: The Veilguard
+ - [https://kotaku.com/dragon-age-veilguard-faction-romance-companions-party-1851649151](https://kotaku.com/dragon-age-veilguard-faction-romance-companions-party-1851649151)
+ - RSS feed: $source
+ - date published: 2024-09-20T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e1f3d793eba72309f2592996c2de6bca.jpg"/><p>When you boot up BioWare’s long-awaited RPG <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragon-age-veilguard-bioware-dreadwolf-andromeda-anthem-1851545206">Dragon Age: The Veilguard</a> on October 31 and create your custom character, you’ll be asked what Faction your protagonist Rook came from before the game starts. As you’ll notice as you <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/dragon-age-veilguard-companions-party-members-dreadwolf-1851530857">recruit new teammates</a> throughout your journey, each of these Factions has a corresponding…</p><p><a href="https://kotaku.com/dragon-age-veilguard-faction-romance-companions-party-1851649151">Read more...</a></p>
+
+## The Sword Lance Is A Real Show Of Strength In Shadow Of The Erdtree
+ - [https://kotaku.com/elden-ring-shadow-erdtree-heavy-lance-guide-1851652733](https://kotaku.com/elden-ring-shadow-erdtree-heavy-lance-guide-1851652733)
+ - RSS feed: $source
+ - date published: 2024-09-20T10:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5a6269e424f657f8e03cb45ea31571cf.jpg"/><p>The Sword Lance is a Heavy Thrusting Sword added in Elden Ring’s Shadow of the Erdtree expansion. This weapon’s awesome Ash of War and fantastic overall damage output makes it a rock solid choice for Strength builds looking to add some fun flair to their kit.</p><p><a href="https://kotaku.com/elden-ring-shadow-erdtree-heavy-lance-guide-1851652733">Read more...</a></p>
+
+## Want Your Shadow Of The Erdtree Build To Get Smarter? Try The Spirit Glaive
+ - [https://kotaku.com/elden-ring-shadow-erdtree-spirit-glaive-guide-1851652701](https://kotaku.com/elden-ring-shadow-erdtree-spirit-glaive-guide-1851652701)
+ - RSS feed: $source
+ - date published: 2024-09-20T10:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/479207c8c5e868d050eb5307e6c11ef4.jpg"/><p>The Spirit Glaive is a new Halberd added in Elden Ring:Shadow of the Erdtree. This unique weapon has a really cool Ash of War skill attached to it, and can be a fantastic choice for Intelligence builds looking to add some melee flair to their kit.</p><p><a href="https://kotaku.com/elden-ring-shadow-erdtree-spirit-glaive-guide-1851652701">Read more...</a></p>
+
