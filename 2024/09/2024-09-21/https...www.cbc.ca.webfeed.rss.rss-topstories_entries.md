@@ -1,0 +1,128 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## More vegan Nutrabolics bars recalled over undeclared milk
+ - [https://www.cbc.ca/news/health/nutrabolics-vegan-bars-recall-undeclared-milk-1.7330641?cmp=rss](https://www.cbc.ca/news/health/nutrabolics-vegan-bars-recall-undeclared-milk-1.7330641?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T18:00:54+00:00
+
+<img src='https://i.cbc.ca/1.7330643.1726955415!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vegan-bars-recall-20240921.JPG' alt='A protein bar is seen close up.' width='620' height='349' title='The Canadian Food Inspection Agency says a recall of Nutrabolics brand Feed Me Vegan Real Food Protein &amp; Oats bars due to undeclared milk has been expanded. An example of the recalled food bar is seen in an undated handout image. THE CANADIAN PRESS/HO-Government of Canada, *MANDATORY CREDIT*'/><p>The notice says the recall includes the frosted blueberry cobbler, glazed cranberry lemon cake, caramel apple pie and chocolate coconut varieties of the bars.</p>
+
+## Trump rejects Harris challenge for 2nd U.S. presidential debate before Nov. 5 election
+ - [https://www.cbc.ca/news/world/trump-harris-presidential-debate-challenge-1.7330604?cmp=rss](https://www.cbc.ca/news/world/trump-harris-presidential-debate-challenge-1.7330604?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T16:08:54+00:00
+
+<img src='https://i.cbc.ca/1.7319703.1726021595!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-election-debate.JPG' alt='x' width='620' height='349' title='Republican presidential nominee, former U.S. President Donald Trump and Democratic presidential nominee, U.S. Vice President Kamala Harris take part in a presidential debate hosted by ABC in Philadelphia, Pennsylvania, U.S., September 10, 2024 in a combination of file photographs. REUTERS/Brian Snyder'/><p>Donald Trump stuck to his previous position that there would not be another debate with Kamala Harris before voters go to the polls in the Nov. 5 election.</p>
+
+## Man charged in connection with Montreal-area mosque altercation that left 3 injured
+ - [https://www.cbc.ca/news/canada/montreal/mosque-quebec-altercation-charged-1.7330590?cmp=rss](https://www.cbc.ca/news/canada/montreal/mosque-quebec-altercation-charged-1.7330590?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T15:48:05+00:00
+
+<img src='https://i.cbc.ca/1.7330013.1726864878!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/chateauguay-centre-musulman.JPG' alt='Photo of a building behind yellow police tape' width='620' height='349' title='The incident took place at around 1:40 p.m. in Châteauguay, Que., on Friday.'/><p>A 24-year-old man has been charged with possession of a weapon for a dangerous purpose in connection with Friday's altercation at a mosque in Châteauguay, Que., that left three men injured.</p>
+
+## Israeli strike kills at least 22 people at school shelter, Gaza officials say. IDF says it targeted Hamas
+ - [https://www.cbc.ca/news/world/israel-hamas-gaza-airstrike-school-1.7330469?cmp=rss](https://www.cbc.ca/news/world/israel-hamas-gaza-airstrike-school-1.7330469?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T11:33:25+00:00
+
+<img src='https://i.cbc.ca/1.7330489.1726931619!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians.JPG' alt='Palestinians inspect a building destroyed in an airstrike.' width='620' height='349' title='Palestinians inspect a school, which was sheltering displaced people, after it was hit by an Israeli strike, amid the Israel-Hamas conflict, in Gaza City, September 21, 2024. REUTERS/Dawoud Abu Alkas'/><p>Palestinians said an Israeli strike killed at least 22 people, including 13 children, in a school sheltering displaced people in southern Gaza City on Saturday, while the Israeli military said the attack targeted a command centre of militant group Hamas.</p>
+
+## B.C. minister 'absolutely disgusted' by officers' alleged chats revealed in internal probe
+ - [https://www.cbc.ca/news/canada/british-columbia/coquitlam-rcmp-officer-chats-fallout-1.7330133?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/coquitlam-rcmp-officer-chats-fallout-1.7330133?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T10:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7330276.1726875951!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/mike-farnworth-surrey-docs.jpg' alt='A man wearing a purple tie stands in front of B.C. flags.' width='620' height='349' title='B.C. Solicitor General Mike Farnworth on Surrey deadline to produce documents on Jun 16, 2023.'/><p>B.C.'s public safety minister has condemned the alleged conduct of Coquitlam RCMP officers accused of making racist, homophobic and sexist comments in a private online chat group.</p>
+
+## Are Canadian mortgage rates about to plummet? | About That
+ - [https://www.cbc.ca/player/play/9.6516034?cmp=rss](https://www.cbc.ca/player/play/9.6516034?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T09:00:00+00:00
+
+<img src='https://i.cbc.ca/ais/0193827d-2e9f-4d97-bc37-59a88754d344,1726872077438/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%28620%29' alt='Aerial of houses in a Canadian neighbourhood' width='620' height='349' title='Aerial of houses in a Canadian neighbourhood'/><p>The U.S. Federal Reserve slashed interest rates for the first time in four years, and in the same week, Canada's inflation rate reached the Bank of Canada's two per cent target. Andrew Chang explains why this is prompting economists to predict more aggressive rate cuts are on the horizon.</p>
+
+## Forever chemicals are everywhere. These burnt wood chips could help change that
+ - [https://www.cbc.ca/news/canada/british-columbia/goodbye-forever-chemicals-1.7330391?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/goodbye-forever-chemicals-1.7330391?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T08:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7330404.1726931952!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pfas-burnt-wood-chips.jpg' alt='Burnt wood chips' width='620' height='349' title='These burnt wood chips could help eliminate forever chemicals in contaminated drinking water. '/><p>Scientists at UBC are trying to take the ‘forever’ out of some forever chemicals by developing a new treatment that removes harmful PFAS substances from drinking water.</p>
+
+## Small town on hook for $5M after B.C. Hydro impacts water quality
+ - [https://www.cbc.ca/news/canada/british-columbia/hudson-hope-water-quality-1.7330111?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/hudson-hope-water-quality-1.7330111?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T07:00:00+00:00
+
+<img src='https://i.cbc.ca/1.6468662.1726873502!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hudson-s-hope-welcome-sign.jpg' alt='A green and blue sign by a roadway says, Welcome to Hudson&apos;s Hope.' width='620' height='349' title='Hudson&apos;s Hope is currently paying $32,000 a month for a temporary, portable water filtration system. District councilor Tashana Winnicky said the town will go bankrupt if it continues paying for the temporary station without building a permanent station to replace it.'/><p>Time is of the essence as the 850 residents of Hudson's Hope, B.C., vote on whether the town should borrow $5 million to cover a badly needed water treatment plant.</p>
+
+## Climate change is impacting weeds on the Prairies. Here's how some people are fighting back
+ - [https://www.cbc.ca/news/canada/saskatchewan/weeds-prairies-climate-change-1.7329533?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/weeds-prairies-climate-change-1.7329533?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7329960.1726863600!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/julia-leeson-aafc-weeds.jpg' alt='Julia Leeson, a weed monitoring biologist with Agriculture and Agri-Food Canada, takes note of weeds growing in a wheat field near Saskatoon.' width='620' height='349' title='Julia Leeson, a weed monitoring biologist with Agriculture and Agri-Food Canada, takes note of weeds growing in a wheat field near Saskatoon.'/><p>A team of researchers with Agriculture and Agri-Food Canada is looking at how to stop weeds in their tracks as they become more resistant to herbicides and spread further due to climate change.</p>
+
+## Toddlers wounded in Israeli airstrike hours after getting polio vaccine in Gaza, aunt says
+ - [https://www.cbc.ca/news/world/polio-gaza-girls-amputees-1.7329535?cmp=rss](https://www.cbc.ca/news/world/polio-gaza-girls-amputees-1.7329535?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:39+00:00
+
+<img src='https://i.cbc.ca/1.7329721.1726856937!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hanan-and-misk-al-daqqi.jpg' alt='Two young girls with amputated legs and feet.' width='620' height='349' title=''/><p>Mere hours after getting their polio vaccinations in  in Deir Al-Balah in the central Gaza Strip — as part of a children's immunization campaign — sisters Hanan Al-Daqqi and Misk Al-Daqqi were wounded in an Israeli airstrike on their home minutes after a humanitarian pause ended, leaving them as amputees.</p>
+
+## This New York farmer is overwhelmed by illegal crossings from Canada, caught on camera
+ - [https://www.cbc.ca/news/investigates/canada-us-border-migrants-security-camera-footage-1.7329983?cmp=rss](https://www.cbc.ca/news/investigates/canada-us-border-migrants-security-camera-footage-1.7329983?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:19+00:00
+
+<img src='https://i.cbc.ca/1.7330177.1726870064!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/migrants-crossing-security-camera-1.jpg' alt='Security camera footage shows four migrants, with faces blurred, crossing from Canada to the U.S.' width='620' height='349' title='Migrants cross illegally from Canada into the U.S., caught on New York farmer Chris Oliver&apos;s security cameras. Faces have been blurred as CBC was not able to reach any of the migrants in the footage to verify their stories.'/><p>A New York farmer whose lands run along the Canada-U.S. border says people are using his land to enter the U.S. illegally. He installed trail cameras that have captured dozens of people travelling on foot.</p>
+
+## As a teenager, I was ashamed of Chinatown. Now I know I need it and will always support it
+ - [https://www.cbc.ca/news/canada/calgary/catherine-law-first-person-1.7324661?cmp=rss](https://www.cbc.ca/news/canada/calgary/catherine-law-first-person-1.7324661?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7325836.1726597153!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/catherine-law.jpg' alt='A woman sips tea in a Chinese restaurant.' width='620' height='349' title='Catherine Law drinks milk tea at one of her favourite Chinatown restaurants, Calgary Court. The neighbourhood has become a special place for her again later in life.'/><p>Catherine Law turned her back on Chinatown and her Chinese heritage when she faced racism as a teenager. But everything changed when she had her own child.</p>
+
+## China ended its international adoption program. Some prospective parents want Canada to intervene
+ - [https://www.cbc.ca/radio/thecurrent/china-ends-international-adoption-1.7329432?cmp=rss](https://www.cbc.ca/radio/thecurrent/china-ends-international-adoption-1.7329432?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7315657.1725641109!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/china-lunar-new-year.jpg' alt='A man and a child walk along a road with red lanterns hanging on trees.' width='620' height='349' title='A man and a child walk along a road with red lanterns hanging on trees for the upcoming Chinese Lunar New Year celebrations at a park in Beijing on Jan. 11, 2023.'/><p>China ended its international adoption program in September, leaving families in the middle of applications in limbo.</p>
+
+## Men get breast cancer, too. But they can't always access new drugs
+ - [https://www.cbc.ca/news/health/men-breast-cancer-drug-access-1.7327966?cmp=rss](https://www.cbc.ca/news/health/men-breast-cancer-drug-access-1.7327966?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7327983.1726759430!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/warren-kotler.jpg' alt='Warren Kotler, a man in his sixties, stands in his kitchen.' width='620' height='349' title='Warren Kotler, who has lived with stage 4 breast cancer for 8 years, says he wants to have the option of taking a drug, only approved for female patients.'/><p>Breast cancer is one of the most-researched illnesses in the world. But some men suffering from the disease say they’re not able to benefit from new research and treatments.</p>
+
+## New med school for family doctors aims to help solve the shortage. Can it do so with doctors alone?
+ - [https://www.cbc.ca/radio/whitecoat/family-doctor-medical-school-1.7328500?cmp=rss](https://www.cbc.ca/radio/whitecoat/family-doctor-medical-school-1.7328500?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7329757.1726857472!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/queen-s-lakeridge-students-orientation.jpg' alt='A group of students wearing surgical masks and lanyards stands around in a hospital setting.' width='620' height='349' title='Students in the first cohort at the Queen’s-Lakeridge Health MD Family Medicine Program get their orientation in September 2023. '/><p>The people behind a new medical school dedicated solely to turning out family doctors say the program is disrupting traditional medical education in a way that could help solve Canada’s shortage of family physicians. But critics say the effort is a drop in the bucket and that solutions to the primary care shortage lie elsewhere.</p>
+
+## The balance of power in Ottawa has shifted to the Bloc. So what does it want?
+ - [https://www.cbc.ca/news/politics/bloc-quebecois-balance-of-power-bill-c319-1.7329429?cmp=rss](https://www.cbc.ca/news/politics/bloc-quebecois-balance-of-power-bill-c319-1.7329429?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7328359.1726770941!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/bloc-20240919.jpg' alt='Bloc Québécois Leader Yves-François Blanchet' width='620' height='349' title='Bloc Québécois Leader Yves-François Blanchet speaks with reporters in the foyer of the House of Commons, Thursday, Sept. 19, 2024 in Ottawa.'/><p>The balance of power has shifted to the Bloc Québécois. So what do they plan to do with it?</p>
+
+## The issue isn't the carbon tax — it's climate change
+ - [https://www.cbc.ca/news/politics/climate-change-carbon-tax-poilievre-singh-1.7329954?cmp=rss](https://www.cbc.ca/news/politics/climate-change-carbon-tax-poilievre-singh-1.7329954?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7326260.1726611562!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/parliament-returns-20240916.jpg' alt='A tightly framed shot of a man with a beard and an orange turban' width='620' height='349' title='NDP Leader Jagmeet Singh speaks to reporters in the foyer of the House of Commons on Parliament Hill, in Ottawa, Monday, Sept. 16, 2024, as members of Parliament return from summer break. '/><p>The question before Canada’s political leaders right now is not whether there should be a carbon tax. The real question is how Canada is going to reduce its emissions and do its part to fight global climate change.</p>
+
+## The U.S. needs a few good allies. Does it still need Canada?
+ - [https://www.cbc.ca/news/politics/canada-united-states-nato-defence-spending-1.7329925?cmp=rss](https://www.cbc.ca/news/politics/canada-united-states-nato-defence-spending-1.7329925?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-21T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.5747482.1726865531!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/latvia-nato-canada.jpg' alt='Trudeau gestures while visiting NATO troops at Adazi Military Base in Latvia, in 2018, where Canadian soldiers were stationed.' width='620' height='349' title='Trudeau gestures while visiting NATO troops at Adazi Military Base in Latvia, in 2018, where Canadian soldiers were stationed.'/><p>Eight decades after the United States extended its security umbrella to cover Canada, the alliance is being undermined by Washington's growing exasperation with Ottawa's attitude toward defence spending.</p>
+

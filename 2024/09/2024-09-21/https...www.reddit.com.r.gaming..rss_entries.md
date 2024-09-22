@@ -1,0 +1,268 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## Just finished reading Project Hail Mary and it got me wanting to replay The Dig
+ - [https://www.reddit.com/r/gaming/comments/1fmf9br/just_finished_reading_project_hail_mary_and_it](https://www.reddit.com/r/gaming/comments/1fmf9br/just_finished_reading_project_hail_mary_and_it)
+ - RSS feed: $source
+ - date published: 2024-09-21T23:00:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmf9br/just_finished_reading_project_hail_mary_and_it/"> <img src="https://preview.redd.it/o99tw4mkt8qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59aeae864c7bf517c44e650befc6aab929e2d165" alt="Just finished reading Project Hail Mary and it got me wanting to replay The Dig" title="Just finished reading Project Hail Mary and it got me wanting to replay The Dig" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Haven’t played this game in quite a long time. I wish games like this still came out, such a chill way to spend a Saturday afternoon. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalJenemba"> /u/FinalJenemba </a> <br/> <span><a href="https://i.redd.it/o99tw4mkt8qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmf9br/just_finished_reading_project_hail_mary_and_it/">[comments]</a></span> </td></tr></table>
+
+## No other crew like the Normandy crew.
+ - [https://www.reddit.com/r/gaming/comments/1fmf5mx/no_other_crew_like_the_normandy_crew](https://www.reddit.com/r/gaming/comments/1fmf5mx/no_other_crew_like_the_normandy_crew)
+ - RSS feed: $source
+ - date published: 2024-09-21T22:54:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmf5mx/no_other_crew_like_the_normandy_crew/"> <img src="https://preview.redd.it/khi3su2ns8qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=518fd91607eb7fd95b04d7403886f4b695e3b867" alt="No other crew like the Normandy crew." title="No other crew like the Normandy crew." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Always love this moment of the Citadel DLC of Mass Effect 3.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PhanThief95"> /u/PhanThief95 </a> <br/> <span><a href="https://i.redd.it/khi3su2ns8qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmf5mx/no_other_crew_like_the_normandy_crew/">[comments]</a></span> </td></tr></table>
+
+## Recommend game to play with son in colege
+ - [https://www.reddit.com/r/gaming/comments/1fmerwj/recommend_game_to_play_with_son_in_colege](https://www.reddit.com/r/gaming/comments/1fmerwj/recommend_game_to_play_with_son_in_colege)
+ - RSS feed: $source
+ - date published: 2024-09-21T22:35:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for some game recommendations for multi player games. My kid is 18, I&#39;m 54. He is in collage this year and we are looking for some game we can play for an hour a few times a week.</p> <p>The thing is he is just way more talented at video games than I am. He is way better at shooters and any kind of parkour than me. Sometimes we play a game to relax like No Mans Sky, but that game is not really a good multiplayer game since most of the time you are both just on separate places and don&#39;t see each other. We have played Raft together and its not a terrible option. Its just always got something going on and isn&#39;t ideal for shorter sessions.</p> <p>Really I am just looking for something kind of gives us something to do when we run out of things to talk about. Something that won&#39;t make it hard for 2 people to play together is one persons skill level increases more rapidly than the other. It would be cool if we had something to
+
+## What Game Has Your Non-Gaming SO Enjoyed With You?
+ - [https://www.reddit.com/r/gaming/comments/1fmeq5h/what_game_has_your_nongaming_so_enjoyed_with_you](https://www.reddit.com/r/gaming/comments/1fmeq5h/what_game_has_your_nongaming_so_enjoyed_with_you)
+ - RSS feed: $source
+ - date published: 2024-09-21T22:33:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Maybe you played a game and they just watched. Maybe you passed the controller. Maybe you cajoled them into co-op so.ehow.</p> <p>In any case, what game did you manage to convince your significant other to engage with with you, and how did it turn out?</p> <p>For example: my wife is not a gamer and largely dislikes games, but we have played a couple of the Dark Pictures games together because they bridge the gap between &quot;game&quot; and &quot;movie/TV&quot; pretty well. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reynard203"> /u/Reynard203 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmeq5h/what_game_has_your_nongaming_so_enjoyed_with_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmeq5h/what_game_has_your_nongaming_so_enjoyed_with_you/">[comments]</a></span>
+
+## My crowing achievement, 136 hours later. It would have been much sooner if not for those damn Challenges!
+ - [https://www.reddit.com/r/gaming/comments/1fmcn7d/my_crowing_achievement_136_hours_later_it_would](https://www.reddit.com/r/gaming/comments/1fmcn7d/my_crowing_achievement_136_hours_later_it_would)
+ - RSS feed: $source
+ - date published: 2024-09-21T20:52:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmcn7d/my_crowing_achievement_136_hours_later_it_would/"> <img src="https://preview.redd.it/dadtvd4u68qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75bbf5272df19d97395d5f3b1b84d17f68d63ee0" alt="My crowing achievement, 136 hours later. It would have been much sooner if not for those damn Challenges!" title="My crowing achievement, 136 hours later. It would have been much sooner if not for those damn Challenges!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Getting those 5 gold medals in challenges killed me. </p> <p>This has become my go to “de-stressing” game. Throw on a podcast and wash the grime away. Hope they keep the DLC coming!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GullibleCheeks844"> /u/GullibleCheeks844 </a> <br/> <span><a href="https://i.redd.it/dadtvd4u68qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1
+
+## What are some games besides undertale where you can just talk it out with the enemies/bosses and not having to kill anything?
+ - [https://www.reddit.com/r/gaming/comments/1fmcch7/what_are_some_games_besides_undertale_where_you](https://www.reddit.com/r/gaming/comments/1fmcch7/what_are_some_games_besides_undertale_where_you)
+ - RSS feed: $source
+ - date published: 2024-09-21T20:38:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Bottom text</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scared-Gamer"> /u/Scared-Gamer </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmcch7/what_are_some_games_besides_undertale_where_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmcch7/what_are_some_games_besides_undertale_where_you/">[comments]</a></span>
+
+## Valve is testing ARM64 support for popular games, sparking speculations about new future hardware
+ - [https://www.reddit.com/r/gaming/comments/1fmb8vx/valve_is_testing_arm64_support_for_popular_games](https://www.reddit.com/r/gaming/comments/1fmb8vx/valve_is_testing_arm64_support_for_popular_games)
+ - RSS feed: $source
+ - date published: 2024-09-21T19:47:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmb8vx/valve_is_testing_arm64_support_for_popular_games/"> <img src="https://external-preview.redd.it/OQ_OJqqzvh5f0xT8CpsL3nT0HuWmSgmx2myPMPQDzxg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=727839b031897b96731e0eee9b29b952e090adc9" alt="Valve is testing ARM64 support for popular games, sparking speculations about new future hardware" title="Valve is testing ARM64 support for popular games, sparking speculations about new future hardware" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OK_PEOPLE77"> /u/OK_PEOPLE77 </a> <br/> <span><a href="https://www.notebookcheck.net/Valve-is-testing-ARM64-support-for-popular-games-sparking-speculations-about-new-future-hardware.891851.0.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmb8vx/valve_is_testing_arm64_support_for_popular_games/">[comments]</a></span> </td></tr></table>
+
+## God of War Ragnarok looks really nice in PC
+ - [https://www.reddit.com/r/gaming/comments/1fmay4k/god_of_war_ragnarok_looks_really_nice_in_pc](https://www.reddit.com/r/gaming/comments/1fmay4k/god_of_war_ragnarok_looks_really_nice_in_pc)
+ - RSS feed: $source
+ - date published: 2024-09-21T19:34:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmay4k/god_of_war_ragnarok_looks_really_nice_in_pc/"> <img src="https://preview.redd.it/trjjakqss7qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ee8c6371cf069a5889cd0aab8521563565cdf3d" alt="God of War Ragnarok looks really nice in PC " title="God of War Ragnarok looks really nice in PC " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Is there any way to stop Aureus from ruining puzzles? (He talks too much)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GrinningAxe9"> /u/GrinningAxe9 </a> <br/> <span><a href="https://i.redd.it/trjjakqss7qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmay4k/god_of_war_ragnarok_looks_really_nice_in_pc/">[comments]</a></span> </td></tr></table>
+
+## Marvel vs Capcom collection is great, but I really crave a return of Gundam Battle Assualt games... anyone remember these?
+ - [https://www.reddit.com/r/gaming/comments/1fmavq5/marvel_vs_capcom_collection_is_great_but_i_really](https://www.reddit.com/r/gaming/comments/1fmavq5/marvel_vs_capcom_collection_is_great_but_i_really)
+ - RSS feed: $source
+ - date published: 2024-09-21T19:30:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmavq5/marvel_vs_capcom_collection_is_great_but_i_really/"> <img src="https://preview.redd.it/42vc5o88s7qd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=468c5cca3028d4f755f15cb887635fd8fba22b39" alt="Marvel vs Capcom collection is great, but I really crave a return of Gundam Battle Assualt games... anyone remember these?" title="Marvel vs Capcom collection is great, but I really crave a return of Gundam Battle Assualt games... anyone remember these?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The 2d graphics were pretty awesome and I love seeing the pilots in the bottom corners...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Calm_Currency_8201"> /u/Calm_Currency_8201 </a> <br/> <span><a href="https://i.redd.it/42vc5o88s7qd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmavq5/marvel_vs_capcom_collection_is_great_but_i_really
+
+## Misery
+ - [https://www.reddit.com/r/gaming/comments/1fmabvp/misery](https://www.reddit.com/r/gaming/comments/1fmabvp/misery)
+ - RSS feed: $source
+ - date published: 2024-09-21T19:05:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmabvp/misery/"> <img src="https://preview.redd.it/oe7fjjyln7qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba03b0ca422476937b543a81b310d58bf048c3b0" alt="Misery " title="Misery " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gomugomupirate"> /u/gomugomupirate </a> <br/> <span><a href="https://i.redd.it/oe7fjjyln7qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmabvp/misery/">[comments]</a></span> </td></tr></table>
+
+## New Report Says Sony’s ‘Concord’ Cost $400 Million To Make
+ - [https://www.reddit.com/r/gaming/comments/1fma8rv/new_report_says_sonys_concord_cost_400_million_to](https://www.reddit.com/r/gaming/comments/1fma8rv/new_report_says_sonys_concord_cost_400_million_to)
+ - RSS feed: $source
+ - date published: 2024-09-21T19:01:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fma8rv/new_report_says_sonys_concord_cost_400_million_to/"> <img src="https://external-preview.redd.it/qhaUa4hl9tlrgPpdW2EDYWmYrxY8rmxQdjvOznK5-Ww.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87f90c178163dde415854c300252ee5d74fd80b7" alt="New Report Says Sony’s ‘Concord’ Cost $400 Million To Make" title="New Report Says Sony’s ‘Concord’ Cost $400 Million To Make" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/I-Lyke-Shicken"> /u/I-Lyke-Shicken </a> <br/> <span><a href="https://www.forbes.com/sites/paultassi/2024/09/21/new-report-says-sonys-concord-cost-400-million-to-make/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fma8rv/new_report_says_sonys_concord_cost_400_million_to/">[comments]</a></span> </td></tr></table>
+
+## Midway Games made some of my favorite games growing up. This one was amazing.
+ - [https://www.reddit.com/r/gaming/comments/1fm9nbs/midway_games_made_some_of_my_favorite_games](https://www.reddit.com/r/gaming/comments/1fm9nbs/midway_games_made_some_of_my_favorite_games)
+ - RSS feed: $source
+ - date published: 2024-09-21T18:33:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm9nbs/midway_games_made_some_of_my_favorite_games/"> <img src="https://preview.redd.it/iwkoczg0i7qd1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=660d149b479e49f3e41d9da1aefb8f032a38c175" alt="Midway Games made some of my favorite games growing up. This one was amazing. " title="Midway Games made some of my favorite games growing up. This one was amazing. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HotBananaWaters"> /u/HotBananaWaters </a> <br/> <span><a href="https://i.redd.it/iwkoczg0i7qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm9nbs/midway_games_made_some_of_my_favorite_games/">[comments]</a></span> </td></tr></table>
+
+## I was commissioned to make a Last of Us themed pc! How did I do?
+ - [https://www.reddit.com/r/gaming/comments/1fm82fj/i_was_commissioned_to_make_a_last_of_us_themed_pc](https://www.reddit.com/r/gaming/comments/1fm82fj/i_was_commissioned_to_make_a_last_of_us_themed_pc)
+ - RSS feed: $source
+ - date published: 2024-09-21T17:22:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm82fj/i_was_commissioned_to_make_a_last_of_us_themed_pc/"> <img src="https://preview.redd.it/8e2url4a57qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef0270c29a0fb23957e7e7ba26cfe6c42bac9c7c" alt="I was commissioned to make a Last of Us themed pc! How did I do? " title="I was commissioned to make a Last of Us themed pc! How did I do? " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/oddertech"> /u/oddertech </a> <br/> <span><a href="https://i.redd.it/8e2url4a57qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm82fj/i_was_commissioned_to_make_a_last_of_us_themed_pc/">[comments]</a></span> </td></tr></table>
+
+## How to argue on the internet
+ - [https://www.reddit.com/r/gaming/comments/1fm7w3u/how_to_argue_on_the_internet](https://www.reddit.com/r/gaming/comments/1fm7w3u/how_to_argue_on_the_internet)
+ - RSS feed: $source
+ - date published: 2024-09-21T17:14:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm7w3u/how_to_argue_on_the_internet/"> <img src="https://external-preview.redd.it/eB3lUlRkrwAMy4tf3TCG_OGk9D7CmwfisE0siBOTiXk.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b5861bf4aa1a2e89a1ca09e085dd9dcff5b4dbac" alt="How to argue on the internet" title="How to argue on the internet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wokeaspie"> /u/wokeaspie </a> <br/> <span><a href="https://i.imgur.com/wNmEbf9.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm7w3u/how_to_argue_on_the_internet/">[comments]</a></span> </td></tr></table>
+
+## Generations apart
+ - [https://www.reddit.com/r/gaming/comments/1fm6n23/generations_apart](https://www.reddit.com/r/gaming/comments/1fm6n23/generations_apart)
+ - RSS feed: $source
+ - date published: 2024-09-21T16:17:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm6n23/generations_apart/"> <img src="https://preview.redd.it/z1vf2k9qt6qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06308c12c4b0e0f52f7c04a82bd7037219f2b2bc" alt="Generations apart" title="Generations apart" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bukeyolacan"> /u/bukeyolacan </a> <br/> <span><a href="https://i.redd.it/z1vf2k9qt6qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm6n23/generations_apart/">[comments]</a></span> </td></tr></table>
+
+## History repeating: Nintendo vs. Colplo and Nintendo vs. Poket Pair
+ - [https://www.reddit.com/r/gaming/comments/1fm6l0i/history_repeating_nintendo_vs_colplo_and_nintendo](https://www.reddit.com/r/gaming/comments/1fm6l0i/history_repeating_nintendo_vs_colplo_and_nintendo)
+ - RSS feed: $source
+ - date published: 2024-09-21T16:14:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm6l0i/history_repeating_nintendo_vs_colplo_and_nintendo/"> <img src="https://external-preview.redd.it/eivSfxhzCPfXaDt2aLcvtjKWzBYdOKRYApP-31P7WF0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68c23efd45e8218b75ff9e7c5e2a12d9d82402cd" alt="History repeating: Nintendo vs. Colplo and Nintendo vs. Poket Pair" title="History repeating: Nintendo vs. Colplo and Nintendo vs. Poket Pair" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>On December 22, 2017, <a href="https://kotaku.com/nintendo-s-lawsuit-forces-japanese-dev-to-cough-up-30-1847420631">Nintendo filed a lawsuit against Colopl</a> over <a href="https://i.colopl.co.jp/news/info/2021080401.php">six counts of patent infringement</a>.</p> <p>The main talking point in this lawsuit is the use of a joystick-like control scheme known as ぷにコン (Punicon) in the mobile game Shironeko Project. Nintendo argued that the control scheme violated patent <a href="https://www.j
+
+## Yesterday, after years of working on it part time, we FINALLY released our first Indie Game on Steam: Spiral
+ - [https://www.reddit.com/r/gaming/comments/1fm67gc/yesterday_after_years_of_working_on_it_part_time](https://www.reddit.com/r/gaming/comments/1fm67gc/yesterday_after_years_of_working_on_it_part_time)
+ - RSS feed: $source
+ - date published: 2024-09-21T15:58:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm67gc/yesterday_after_years_of_working_on_it_part_time/"> <img src="https://external-preview.redd.it/O0HCKq_8JhUIft75FDG2lmTbHGrhP9U5AJ6Q42w-G-A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e034fccd6d28313bd5b5bc731172fd8f74e34f56" alt="Yesterday, after years of working on it part time, we FINALLY released our first Indie Game on Steam: Spiral" title="Yesterday, after years of working on it part time, we FINALLY released our first Indie Game on Steam: Spiral" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Raesh_net"> /u/Raesh_net </a> <br/> <span><a href="https://store.steampowered.com/app/1579390/Spiral/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm67gc/yesterday_after_years_of_working_on_it_part_time/">[comments]</a></span> </td></tr></table>
+
+## C h e e r [Kirby x Super Mario]
+ - [https://www.reddit.com/r/gaming/comments/1fm5yr3/c_h_e_e_r_kirby_x_super_mario](https://www.reddit.com/r/gaming/comments/1fm5yr3/c_h_e_e_r_kirby_x_super_mario)
+ - RSS feed: $source
+ - date published: 2024-09-21T15:47:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm5yr3/c_h_e_e_r_kirby_x_super_mario/"> <img src="https://preview.redd.it/mlfqpf5co6qd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=62607a8bc193167748feb7f5248ff349013455df" alt="C h e e r [Kirby x Super Mario]" title="C h e e r [Kirby x Super Mario]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tar0Pand4"> /u/Tar0Pand4 </a> <br/> <span><a href="https://i.redd.it/mlfqpf5co6qd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm5yr3/c_h_e_e_r_kirby_x_super_mario/">[comments]</a></span> </td></tr></table>
+
+## Old School Gaming Collection. ⭐
+ - [https://www.reddit.com/r/gaming/comments/1fm5hsm/old_school_gaming_collection](https://www.reddit.com/r/gaming/comments/1fm5hsm/old_school_gaming_collection)
+ - RSS feed: $source
+ - date published: 2024-09-21T15:25:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm5hsm/old_school_gaming_collection/"> <img src="https://preview.redd.it/q9sal7y7k6qd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=52904767d836eb0f40a02fce5c2a43828fd93633" alt="Old School Gaming Collection. ⭐" title="Old School Gaming Collection. ⭐" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alpha-Lyr"> /u/Alpha-Lyr </a> <br/> <span><a href="https://i.redd.it/q9sal7y7k6qd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm5hsm/old_school_gaming_collection/">[comments]</a></span> </td></tr></table>
+
+## Oh you wanna talk? Let's talk then.
+ - [https://www.reddit.com/r/gaming/comments/1fm4ndv/oh_you_wanna_talk_lets_talk_then](https://www.reddit.com/r/gaming/comments/1fm4ndv/oh_you_wanna_talk_lets_talk_then)
+ - RSS feed: $source
+ - date published: 2024-09-21T14:45:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm4ndv/oh_you_wanna_talk_lets_talk_then/"> <img src="https://preview.redd.it/h1mfoizad6qd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=993096437cf28b370e8dc544d2e39b6b96edee11" alt="Oh you wanna talk? Let's talk then." title="Oh you wanna talk? Let's talk then." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SirHomoLiberus"> /u/SirHomoLiberus </a> <br/> <span><a href="https://i.redd.it/h1mfoizad6qd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm4ndv/oh_you_wanna_talk_lets_talk_then/">[comments]</a></span> </td></tr></table>
+
+## Are there any game covers burned into your memory from the rental days?
+ - [https://www.reddit.com/r/gaming/comments/1fm4huq/are_there_any_game_covers_burned_into_your_memory](https://www.reddit.com/r/gaming/comments/1fm4huq/are_there_any_game_covers_burned_into_your_memory)
+ - RSS feed: $source
+ - date published: 2024-09-21T14:38:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m sure I&#39;m not the only one that grew up in the 90s/2000s that made a pretty regular habit of renting games and movies as a kid. And for whatever reason, there have always been a few covers (from games that I wouldn&#39;t even consider playing) that have just been stuck in my head for years. </p> <p>The best example for me is probably Shadow Man for the N64. I don&#39;t even know what <em>genre</em> of game it is, but I could draw it from memory despite having not seen it for 20 years. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VioletJones6"> /u/VioletJones6 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fm4huq/are_there_any_game_covers_burned_into_your_memory/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm4huq/are_there_any_game_covers_burned_into_your_memory/">[comments]</a></span>
+
+## My Warhammer physical PC games seem a bit pointless now but they still look cool on the shelf
+ - [https://www.reddit.com/r/gaming/comments/1fm3wu3/my_warhammer_physical_pc_games_seem_a_bit](https://www.reddit.com/r/gaming/comments/1fm3wu3/my_warhammer_physical_pc_games_seem_a_bit)
+ - RSS feed: $source
+ - date published: 2024-09-21T14:10:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm3wu3/my_warhammer_physical_pc_games_seem_a_bit/"> <img src="https://preview.redd.it/tzr3j1g476qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6b99d0c3ab97a6228b216516de8764b5ddbff38" alt="My Warhammer physical PC games seem a bit pointless now but they still look cool on the shelf " title="My Warhammer physical PC games seem a bit pointless now but they still look cool on the shelf " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GabbaGibbon1095"> /u/GabbaGibbon1095 </a> <br/> <span><a href="https://i.redd.it/tzr3j1g476qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm3wu3/my_warhammer_physical_pc_games_seem_a_bit/">[comments]</a></span> </td></tr></table>
+
+## We Need an Uncharted: Origins of Thieves Collection
+ - [https://www.reddit.com/r/gaming/comments/1fm3t96/we_need_an_uncharted_origins_of_thieves_collection](https://www.reddit.com/r/gaming/comments/1fm3t96/we_need_an_uncharted_origins_of_thieves_collection)
+ - RSS feed: $source
+ - date published: 2024-09-21T14:06:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I&#39;m just going to get to the topic. I really think we need an Uncharted Golden Abyss + Drake&#39;s Fortune(1) combined Remake. Which can have the title of &quot;Origins of Thieves&quot;. I am a huge Uncharted fan but I don&#39;t own a Vita so couldn&#39;t play Golden Abyss and while Drake&#39;s Fortune is still a great game it&#39;s very much an aged title these days. So throwing that into the mix made sense to me.</p> <p>We already have Legacy of Thieves Collection as well bundling in 4 and Lost Legacy. So for 2 and 3, we can have a simple Remastered collection like &quot;Adventures of Thieves&quot;, &quot;Trials of Thieves&quot; or something else. Both can come to PS5 and PC and I think it makes a lot of sense. What do you think?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kayrakaanonline"> /u/kayrakaanonline </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fm3t96/we_nee
+
+## 20 years ago the best fighting game Ever was released
+ - [https://www.reddit.com/r/gaming/comments/1fm2w7z/20_years_ago_the_best_fighting_game_ever_was](https://www.reddit.com/r/gaming/comments/1fm2w7z/20_years_ago_the_best_fighting_game_ever_was)
+ - RSS feed: $source
+ - date published: 2024-09-21T13:21:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm2w7z/20_years_ago_the_best_fighting_game_ever_was/"> <img src="https://preview.redd.it/7qwgzoqey5qd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=36b5c21dcfd04dfb28b185de6d1b8125b02e9c01" alt="20 years ago the best fighting game Ever was released" title="20 years ago the best fighting game Ever was released" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bootybandit6989"> /u/Bootybandit6989 </a> <br/> <span><a href="https://i.redd.it/7qwgzoqey5qd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm2w7z/20_years_ago_the_best_fighting_game_ever_was/">[comments]</a></span> </td></tr></table>
+
+## Got SpaceMarines 2 and saw that they had a photo mode
+ - [https://www.reddit.com/r/gaming/comments/1fm2tm7/got_spacemarines_2_and_saw_that_they_had_a_photo](https://www.reddit.com/r/gaming/comments/1fm2tm7/got_spacemarines_2_and_saw_that_they_had_a_photo)
+ - RSS feed: $source
+ - date published: 2024-09-21T13:18:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm2tm7/got_spacemarines_2_and_saw_that_they_had_a_photo/"> <img src="https://preview.redd.it/04xg4n5rx5qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21ae5306149cf67587abd65c65b02b63b39c403b" alt="Got SpaceMarines 2 and saw that they had a photo mode " title="Got SpaceMarines 2 and saw that they had a photo mode " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Icy-Passion-4552"> /u/Icy-Passion-4552 </a> <br/> <span><a href="https://i.redd.it/04xg4n5rx5qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm2tm7/got_spacemarines_2_and_saw_that_they_had_a_photo/">[comments]</a></span> </td></tr></table>
+
+## I’ve spent the last 5 years passionately making a grand strategy 4X sci-fi game, putting my heart and soul into it. I loved stellaris and spore, how about creating a spiritual successor? Beyond Astra will be out on Steam in 2025
+ - [https://www.reddit.com/r/gaming/comments/1fm2pdl/ive_spent_the_last_5_years_passionately_making_a](https://www.reddit.com/r/gaming/comments/1fm2pdl/ive_spent_the_last_5_years_passionately_making_a)
+ - RSS feed: $source
+ - date published: 2024-09-21T13:12:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fm2pdl/ive_spent_the_last_5_years_passionately_making_a/"> <img src="https://preview.redd.it/ktb4ckqnw5qd1.gif?width=320&amp;crop=smart&amp;s=9a602d6d275de0ecb269263be0a5db4a64083e50" alt="I’ve spent the last 5 years passionately making a grand strategy 4X sci-fi game, putting my heart and soul into it. I loved stellaris and spore, how about creating a spiritual successor? Beyond Astra will be out on Steam in 2025" title="I’ve spent the last 5 years passionately making a grand strategy 4X sci-fi game, putting my heart and soul into it. I loved stellaris and spore, how about creating a spiritual successor? Beyond Astra will be out on Steam in 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NebuleGames"> /u/NebuleGames </a> <br/> <span><a href="https://i.redd.it/ktb4ckqnw5qd1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm2pdl/ive_spent_the_l
+
+## Does Deathsprint 66 remind you of an old game?
+ - [https://www.reddit.com/r/gaming/comments/1fm1aw8/does_deathsprint_66_remind_you_of_an_old_game](https://www.reddit.com/r/gaming/comments/1fm1aw8/does_deathsprint_66_remind_you_of_an_old_game)
+ - RSS feed: $source
+ - date published: 2024-09-21T11:55:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve just seen some trailers and gameplay of Deathsprint 66.</p> <p>It looks really cool but... Does it remind anyone of another game from the mid 90s?</p> <p>Watching the footage gave me a flashback of me going to a computer shop circa 1996 and just longingly looking at game consoles and wishing I could afford at least one.</p> <p>They were loaded up with random games an running their demos.</p> <p>I remember seeing &quot;Night into dreams&quot; for the sega Saturn and then another game I was never able to identify... It may have been loaded on another Saturn or another console of the time.</p> <p>At any rate, the game had of futuristic-looking runners, running along futuristic-looking walled tracks, and the models had to lean and skid to take curves.</p> <p>Deathsprint 66 looks to be more violent, but very similar otherwise.</p> <p>Anyone else remembers that game? what was it called? Is Deathsprint 66 a &quot;sequel&quot;?</p> </div><!-- SC_ON -
+
+## If you could have any cross over game, what would it be?
+ - [https://www.reddit.com/r/gaming/comments/1fm15fm/if_you_could_have_any_cross_over_game_what_would](https://www.reddit.com/r/gaming/comments/1fm15fm/if_you_could_have_any_cross_over_game_what_would)
+ - RSS feed: $source
+ - date published: 2024-09-21T11:45:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>For example, legend of Zelda: breath of the wild mixed with pokemon. What would you want?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dicks_4_days"> /u/dicks_4_days </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fm15fm/if_you_could_have_any_cross_over_game_what_would/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm15fm/if_you_could_have_any_cross_over_game_what_would/">[comments]</a></span>
+
+## Steam games suggestions?
+ - [https://www.reddit.com/r/gaming/comments/1fm01r7/steam_games_suggestions](https://www.reddit.com/r/gaming/comments/1fm01r7/steam_games_suggestions)
+ - RSS feed: $source
+ - date published: 2024-09-21T10:32:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I bought a Steam Deck! Since I&#39;m now broke, and very new to Steam, what&#39;s a few great free (or at least very cheap) suggestions to start me off? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/N64PLAY10"> /u/N64PLAY10 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fm01r7/steam_games_suggestions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fm01r7/steam_games_suggestions/">[comments]</a></span>
+
+## Inside Annapurna Interactive's Mass Walkout: Internal Politics, the Surprise Remedy Deal, and Why It All Happened
+ - [https://www.reddit.com/r/gaming/comments/1flzi9d/inside_annapurna_interactives_mass_walkout](https://www.reddit.com/r/gaming/comments/1flzi9d/inside_annapurna_interactives_mass_walkout)
+ - RSS feed: $source
+ - date published: 2024-09-21T09:54:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1flzi9d/inside_annapurna_interactives_mass_walkout/"> <img src="https://external-preview.redd.it/yMdzyOUw1LWx0GcTM89E-9qf816yTsWepa9GEO1kX-w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37d8935818a0378792b3dc90e291c9bbe0c2806c" alt="Inside Annapurna Interactive's Mass Walkout: Internal Politics, the Surprise Remedy Deal, and Why It All Happened " title="Inside Annapurna Interactive's Mass Walkout: Internal Politics, the Surprise Remedy Deal, and Why It All Happened " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rip_cpu"> /u/rip_cpu </a> <br/> <span><a href="https://www.ign.com/articles/what-the-heck-has-been-going-on-at-annapurna-interactive-an-investigation">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1flzi9d/inside_annapurna_interactives_mass_walkout/">[comments]</a></span> </td></tr></table>
+
+## Top 5 japanese game companies with most patents
+ - [https://www.reddit.com/r/gaming/comments/1flyxh8/top_5_japanese_game_companies_with_most_patents](https://www.reddit.com/r/gaming/comments/1flyxh8/top_5_japanese_game_companies_with_most_patents)
+ - RSS feed: $source
+ - date published: 2024-09-21T09:10:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1flyxh8/top_5_japanese_game_companies_with_most_patents/"> <img src="https://preview.redd.it/65doznf7p4qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f580e8b48b96e44d62c3ef197936ca56141271e" alt="Top 5 japanese game companies with most patents" title="Top 5 japanese game companies with most patents" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/brzzcode"> /u/brzzcode </a> <br/> <span><a href="https://i.redd.it/65doznf7p4qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1flyxh8/top_5_japanese_game_companies_with_most_patents/">[comments]</a></span> </td></tr></table>
+
+## Spectre Divide Player Count Dwindles: Loses Over Two-Thirds of Players in Only Two Weeks
+ - [https://www.reddit.com/r/gaming/comments/1flyjln/spectre_divide_player_count_dwindles_loses_over](https://www.reddit.com/r/gaming/comments/1flyjln/spectre_divide_player_count_dwindles_loses_over)
+ - RSS feed: $source
+ - date published: 2024-09-21T08:40:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1flyjln/spectre_divide_player_count_dwindles_loses_over/"> <img src="https://external-preview.redd.it/ouFpTEBKRNmvN0gy4trvNTsHpP5ZhlEW92Yw59hCzxU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=318b35ae9c27bbaae27e89676c139f3e4cbc5c10" alt="Spectre Divide Player Count Dwindles: Loses Over Two-Thirds of Players in Only Two Weeks" title="Spectre Divide Player Count Dwindles: Loses Over Two-Thirds of Players in Only Two Weeks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sea_Caterpillar5662"> /u/Sea_Caterpillar5662 </a> <br/> <span><a href="https://gamerblurb.com/articles/spectre-divide-player-count-down-over-two-thirds">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1flyjln/spectre_divide_player_count_dwindles_loses_over/">[comments]</a></span> </td></tr></table>
+
+## No Man’s Sky 2016 vs 2024 Graphics Comparison
+ - [https://www.reddit.com/r/gaming/comments/1flxwp8/no_mans_sky_2016_vs_2024_graphics_comparison](https://www.reddit.com/r/gaming/comments/1flxwp8/no_mans_sky_2016_vs_2024_graphics_comparison)
+ - RSS feed: $source
+ - date published: 2024-09-21T07:53:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1flxwp8/no_mans_sky_2016_vs_2024_graphics_comparison/"> <img src="https://preview.redd.it/sq19r25sb4qd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26ef3d2c85e8669efb2a88f89923311fcc9eec48" alt="No Man’s Sky 2016 vs 2024 Graphics Comparison" title="No Man’s Sky 2016 vs 2024 Graphics Comparison" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheLogame"> /u/TheLogame </a> <br/> <span><a href="https://i.redd.it/sq19r25sb4qd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1flxwp8/no_mans_sky_2016_vs_2024_graphics_comparison/">[comments]</a></span> </td></tr></table>
+
+## What's stopping large titan entities from patenting game mechanics and forming a monopoly on ideas?
+ - [https://www.reddit.com/r/gaming/comments/1flwer4/whats_stopping_large_titan_entities_from](https://www.reddit.com/r/gaming/comments/1flwer4/whats_stopping_large_titan_entities_from)
+ - RSS feed: $source
+ - date published: 2024-09-21T06:02:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>In light of the recent Nintendo suit against Pocket Pair and Palworld for patent infringement (multiple, in fact), and some claiming the patent is possibly related to the some throwing mechanics that were patent filed in 2021, which I assume are for Pokeballs...</p> <p>I&#39;ve also seen some cases of Nintendo patenting basic physics mechanics, such as literally standing on a moving platform and the character being affected by platform momentum. And there&#39;s quite a polarizing view on the morals/ethics of patenting game mechanics, especially basic ones that any number of developers could use without knowing they were patented (such as the above moving platform one).</p> <p>So, what exactly keeps entities like Nintendo from full sending patenting game mechanics - even basic stuff, to form a monopoly on mechanics and curb competition in the gaming space? To add, why would an entity even feel the need to, or be allowed to patent such a basic mechanic 
+
+## Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!
+ - [https://www.reddit.com/r/gaming/comments/1flwd3n/self_promotion_saturday_small_streamer_just](https://www.reddit.com/r/gaming/comments/1flwd3n/self_promotion_saturday_small_streamer_just)
+ - RSS feed: $source
+ - date published: 2024-09-21T06:00:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Use this post to tell us about your YouTube Channel or Twitch stream! Show us your creativity and tell us why we should subscribe. What makes you unique?</p> <p>Please note that this thread is NOT for selling or advertising stores. Report any such posts and we&#39;ll deal with them. Thanks!</p> <p>This thread is posted weekly on Saturdays (adjustments made as needed).</p> <p>Reminder that you must follow our <a href="https://www.reddit.com/r/gaming/wiki/index?utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=gaming&amp;utm_content=t5_2qh03#wiki_rule_7.3A_self-promotion">rules of promotion.</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1flwd3n/self_promotion_saturday_small_streamer_just/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1flwd3n/self_promotion_saturday_small_
+
+## Final Fantasy 16 producer Naoki Yoshida asks that modders please don't run amok with 'offensive or inappropriate' shenanigans now the game's on PC
+ - [https://www.reddit.com/r/gaming/comments/1flt5xl/final_fantasy_16_producer_naoki_yoshida_asks_that](https://www.reddit.com/r/gaming/comments/1flt5xl/final_fantasy_16_producer_naoki_yoshida_asks_that)
+ - RSS feed: $source
+ - date published: 2024-09-21T02:40:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1flt5xl/final_fantasy_16_producer_naoki_yoshida_asks_that/"> <img src="https://external-preview.redd.it/kEYocFKxEKmBeLxinMnUBb7gW5_duq0INWm2-kYrgdk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc317afb08f057a0ab5707f71985c28dca9bb298" alt="Final Fantasy 16 producer Naoki Yoshida asks that modders please don't run amok with 'offensive or inappropriate' shenanigans now the game's on PC" title="Final Fantasy 16 producer Naoki Yoshida asks that modders please don't run amok with 'offensive or inappropriate' shenanigans now the game's on PC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CryMoreFanboys"> /u/CryMoreFanboys </a> <br/> <span><a href="https://www.pcgamer.com/games/rpg/final-fantasy-16-director-naoki-yoshida-asks-that-modders-please-dont-run-amok-with-offensive-or-inappropriate-shenanigans-now-the-games-on-pc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/g
+
+## What made you stop playing call of duty?
+ - [https://www.reddit.com/r/gaming/comments/1flsp2v/what_made_you_stop_playing_call_of_duty](https://www.reddit.com/r/gaming/comments/1flsp2v/what_made_you_stop_playing_call_of_duty)
+ - RSS feed: $source
+ - date published: 2024-09-21T02:13:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me it&#39;s because of the loot boxes which you have to pay for even though call of duty is a full price game. Another reason is because I had to share the Xbox with my brother and despite the console not being his he doesn&#39;t let me play multiplayer because I&#39;m going to ruin his stats. I stopped playing video games on a regular basis around about 2017 but fortunately my brother stopped playing video games in 2021 because he got sick of COD because you have to be sweaty at the game and because the internet we use isn&#39;t the best. He sold the Xbox and now all he does is watch people play in the eSports competition. I&#39;m not convinced that call of duty black ops gulf war would be good because Activision will try to put microtrantions inside a game that cost $100AU at launch. The gameplay might just be like modern warfare but with slightly different graphics and weapons.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://
+
+## The company behind a 'mental health action shooter' envisions a health insurance-funded 'golden age' for gaming, and it just got FDA clearance to treat stress
+ - [https://www.reddit.com/r/gaming/comments/1flroza/the_company_behind_a_mental_health_action_shooter](https://www.reddit.com/r/gaming/comments/1flroza/the_company_behind_a_mental_health_action_shooter)
+ - RSS feed: $source
+ - date published: 2024-09-21T01:17:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1flroza/the_company_behind_a_mental_health_action_shooter/"> <img src="https://external-preview.redd.it/SWAKo_Yw_-X90LSdN-6BHE2f8AnpLQ6kgctTK06RajQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6bd664050d769ddae38668501e0a81e6ceae7a7" alt="The company behind a 'mental health action shooter' envisions a health insurance-funded 'golden age' for gaming, and it just got FDA clearance to treat stress" title="The company behind a 'mental health action shooter' envisions a health insurance-funded 'golden age' for gaming, and it just got FDA clearance to treat stress" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TylerFortier_Photo"> /u/TylerFortier_Photo </a> <br/> <span><a href="https://www.pcgamer.com/gaming-industry/deepwell-dtx-videogame-therapy-fda-clearance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1flroza/the_company_behind_a_mental_health_ac
+

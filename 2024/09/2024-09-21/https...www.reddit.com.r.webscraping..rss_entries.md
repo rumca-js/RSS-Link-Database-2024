@@ -1,0 +1,58 @@
+# Source:webscraping, URL:https://www.reddit.com/r/webscraping/.rss, language:en
+
+## Selenium Cloudflare
+ - [https://www.reddit.com/r/webscraping/comments/1fmc9gq/selenium_cloudflare](https://www.reddit.com/r/webscraping/comments/1fmc9gq/selenium_cloudflare)
+ - RSS feed: $source
+ - date published: 2024-09-21T20:34:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! There is a page: <a href="https://visa.vfsglobal.com/uzb/en/ltp/login">https://visa.vfsglobal.com/uzb/en/ltp/login</a>. Ok, but there is a problem: captcha from cloudflare. It must be passed both for registration and for authorization. When using selenium, an error is always displayed. Are there any ways to solve this problem?</p> <p>If selenium is not an option in this case, what other options can be used?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gullf4xi2"> /u/gullf4xi2 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fmc9gq/selenium_cloudflare/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fmc9gq/selenium_cloudflare/">[comments]</a></span>
+
+## Free Test to A data scraper
+ - [https://www.reddit.com/r/webscraping/comments/1fm4oiv/free_test_to_a_data_scraper](https://www.reddit.com/r/webscraping/comments/1fm4oiv/free_test_to_a_data_scraper)
+ - RSS feed: $source
+ - date published: 2024-09-21T14:47:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, I&#39;m kinda new here, been here for only a couple of weeks. I was wondering if anyone would be interested in trying a Data Scraper and giving me feedback. There is no need for any payment methods at all, and I don&#39;t want any of your money. I just hope for feedback to see if this is Scraper is easy to use. Just comment or DM me if you&#39;re interested. Thank you!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Proper-Ad6542"> /u/Proper-Ad6542 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1fm4oiv/free_test_to_a_data_scraper/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1fm4oiv/free_test_to_a_data_scraper/">[comments]</a></span>
+
+## How to make scraping as generla as possible using like Beatifulsoup?
+ - [https://www.reddit.com/r/webscraping/comments/1fm34n7/how_to_make_scraping_as_generla_as_possible_using](https://www.reddit.com/r/webscraping/comments/1fm34n7/how_to_make_scraping_as_generla_as_possible_using)
+ - RSS feed: $source
+ - date published: 2024-09-21T13:33:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey there,</p> <p>is there an easy way to scrape without knowing the exact html structure and name of tags?</p> <p>I saw also the <code>partition_html()</code> from the unstructured lib. This goes into this direction but it is very bad...</p> <p>E.g having a product website listing products and clicking on aproduct a new link to the products open up (like in every online shop):</p> <p>Then I found a simple function like this and this is something I look for as it is general and removes the noise like from footers...</p> <pre><code>def extract_html_from_url(url): try: # Fetch HTML content from the URL using requests response = requests.get(url) response.raise_for_status() # Raise an exception for bad responses (4xx and 5xx) # Parse HTML content using BeautifulSoup soup = BeautifulSoup(response.content, &quot;html.parser&quot;) excluded_tagNames = [&quot;footer&quot;, &quot;nav&quot;] # Exclude elements with tag names &#39;footer&#39; and &#39;nav&#39; 
+
+## Issue with fetching location data from a site.
+ - [https://www.reddit.com/r/webscraping/comments/1flztcs/issue_with_fetching_location_data_from_a_site](https://www.reddit.com/r/webscraping/comments/1flztcs/issue_with_fetching_location_data_from_a_site)
+ - RSS feed: $source
+ - date published: 2024-09-21T10:16:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I like to think of myself as an experienced scraper, but am flummoxed by this site: <a href="https://www.home.zipwater.co.uk/locator">https://www.home.zipwater.co.uk/locator</a></p> <p>I am trying to scrape the location of each distributor on the map. I suspect that all the data is somehow encoded and then decoded in js. Can anyone tell me where, in the incoming data or ajax, this data is stored please? TIA</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd-Ambition-1135"> /u/Odd-Ambition-1135 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1flztcs/issue_with_fetching_location_data_from_a_site/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1flztcs/issue_with_fetching_location_data_from_a_site/">[comments]</a></span>
+
+## HTML size difference: headless browser scraping vs. manual save
+ - [https://www.reddit.com/r/webscraping/comments/1flzrj8/html_size_difference_headless_browser_scraping_vs](https://www.reddit.com/r/webscraping/comments/1flzrj8/html_size_difference_headless_browser_scraping_vs)
+ - RSS feed: $source
+ - date published: 2024-09-21T10:12:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone!</p> <p>I’ve been experimenting with scraping a webpage in different ways, and I’ve noticed some discrepancies in the size of the HTML files I end up with. I&#39;m hoping someone can help me understand what’s going on here. Here&#39;s what I&#39;ve observed:</p> <ul> <li><strong>Way 1:</strong> I scraped the webpage using a scraping service without JS rendering enabled, and saved the HTML. The size of the saved file was <strong>280 KB</strong>.</li> <li><strong>Way 2:</strong> I used a headless browser scraping service (with JS rendering enabled) to scrape the page and saved the resulting HTML after the JS was rendered. This gave me a file of <strong>689 KB</strong>.</li> <li><strong>Way 3:</strong> I manually opened the webpage in a browser, waited for everything to load, and then saved the page with CTRL+S. The saved HTML was <strong>1328 KB</strong>.</li> </ul> <p>I understand that after rendering JS, additional content might be loaded 
+
+## Scraping data from ebay.com that's NOT visible on the site
+ - [https://www.reddit.com/r/webscraping/comments/1flwmlx/scraping_data_from_ebaycom_thats_not_visible_on](https://www.reddit.com/r/webscraping/comments/1flwmlx/scraping_data_from_ebaycom_thats_not_visible_on)
+ - RSS feed: $source
+ - date published: 2024-09-21T06:18:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Quick question.</p> <p>I&#39;d like to scrape the email addresses of specific business sellers on the US eBay site. The problem is, unlike the UK site, the US one doesn&#39;t display the email on the bottom of the page, in the contact details section.</p> <p>Can this information be somehow extracted? My guess is not, but want to check with the experts.</p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/illuscriber"> /u/illuscriber </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1flwmlx/scraping_data_from_ebaycom_thats_not_visible_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1flwmlx/scraping_data_from_ebaycom_thats_not_visible_on/">[comments]</a></span>
+
+## read and summarize messages from whatsapp without opening them
+ - [https://www.reddit.com/r/webscraping/comments/1flucts/read_and_summarize_messages_from_whatsapp_without](https://www.reddit.com/r/webscraping/comments/1flucts/read_and_summarize_messages_from_whatsapp_without)
+ - RSS feed: $source
+ - date published: 2024-09-21T03:50:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/webscraping/comments/1flucts/read_and_summarize_messages_from_whatsapp_without/"> <img src="https://external-preview.redd.it/t3ur1yeHMzdt9ffl14wO72DKd2TDJjlMT9TeK5znWxU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9edca2508b3bc24b6a64485e21847ef34888871d" alt="read and summarize messages from whatsapp without opening them " title="read and summarize messages from whatsapp without opening them " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Matthew_heartful"> /u/Matthew_heartful </a> <br/> <span><a href="https://youtu.be/sJgGxUt9c0E">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1flucts/read_and_summarize_messages_from_whatsapp_without/">[comments]</a></span> </td></tr></table>
+
+## How to bypass a devtool blocked site
+ - [https://www.reddit.com/r/webscraping/comments/1flr6mw/how_to_bypass_a_devtool_blocked_site](https://www.reddit.com/r/webscraping/comments/1flr6mw/how_to_bypass_a_devtool_blocked_site)
+ - RSS feed: $source
+ - date published: 2024-09-21T00:49:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I try to access an anime streaming site with devtool but it always response to me something like &quot;Debugger Paused&quot; or redirect me to the homepage everytime i open the devtool inside it</p> <p>Example: <a href="https://hianime.to/watch/pseudo-harem-19246">https://hianime.to/watch/pseudo-harem-19246</a></p> <p>Is there anyone has the experience how to bypass this situation, thank you so much</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pear104"> /u/pear104 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1flr6mw/how_to_bypass_a_devtool_blocked_site/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1flr6mw/how_to_bypass_a_devtool_blocked_site/">[comments]</a></span>
+

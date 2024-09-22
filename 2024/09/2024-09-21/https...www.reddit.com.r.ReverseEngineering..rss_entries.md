@@ -1,0 +1,23 @@
+# Source:Reverse Engineering, URL:https://www.reddit.com/r/ReverseEngineering/.rss, language:
+
+## Tool to reverse-engineer Qt binaries. Hope it is useful to someone!
+ - [https://www.reddit.com/r/ReverseEngineering/comments/1fm2u1f/tool_to_reverseengineer_qt_binaries_hope_it_is](https://www.reddit.com/r/ReverseEngineering/comments/1fm2u1f/tool_to_reverseengineer_qt_binaries_hope_it_is)
+ - RSS feed: $source
+ - date published: 2024-09-21T13:18:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Afraid_Option8394"> /u/Afraid_Option8394 </a> <br/> <span><a href="https://github.com/diommsantos/QtREAnalyzer">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ReverseEngineering/comments/1fm2u1f/tool_to_reverseengineer_qt_binaries_hope_it_is/">[comments]</a></span>
+
+## Slowly booting full Linux on the intel 4004
+ - [https://www.reddit.com/r/ReverseEngineering/comments/1fm06g8/slowly_booting_full_linux_on_the_intel_4004](https://www.reddit.com/r/ReverseEngineering/comments/1fm06g8/slowly_booting_full_linux_on_the_intel_4004)
+ - RSS feed: $source
+ - date published: 2024-09-21T10:41:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/igor_sk"> /u/igor_sk </a> <br/> <span><a href="https://dmitry.gr/?r=05.Projects&amp;proj=35.%20Linux4004">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ReverseEngineering/comments/1fm06g8/slowly_booting_full_linux_on_the_intel_4004/">[comments]</a></span>
+
+## Promising AI-Enhanced decompiler
+ - [https://www.reddit.com/r/ReverseEngineering/comments/1flqrj9/promising_aienhanced_decompiler](https://www.reddit.com/r/ReverseEngineering/comments/1flqrj9/promising_aienhanced_decompiler)
+ - RSS feed: $source
+ - date published: 2024-09-21T00:27:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Well it may be very useful for deobfuscation, it reconstructs high level C++ from binary, it&#39;s based on ghidra and mixes classic decompilation techniques with AI.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chri4_"> /u/chri4_ </a> <br/> <span><a href="http://reforgeai.live">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ReverseEngineering/comments/1flqrj9/promising_aienhanced_decompiler/">[comments]</a></span>
+
