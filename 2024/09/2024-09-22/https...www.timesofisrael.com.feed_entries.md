@@ -1,0 +1,254 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Rediscovering Jerusalem: Journalist releases new edition of Six Day War-era book
+ - [https://www.timesofisrael.com/rediscovering-jerusalem-journalist-releases-new-edition-of-six-day-war-era-book](https://www.timesofisrael.com/rediscovering-jerusalem-journalist-releases-new-edition-of-six-day-war-era-book)
+ - RSS feed: $source
+ - date published: 2024-09-22T23:52:28+00:00
+
+<p>Abraham Rabinovich's updated book offers new insights and photographs, capturing Jerusalem's transformation and enduring tensions since the Six-Day War</p>
+<p>The post <a href="https://www.timesofisrael.com/rediscovering-jerusalem-journalist-releases-new-edition-of-six-day-war-era-book/">Rediscovering Jerusalem: Journalist releases new edition of Six Day War-era book</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/06/Blank-2-Grids-Collage-1-1-1024x640.jpg" title="Rediscovering Jerusalem: Journalist releases new edition of Six Day War-era book" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Iran’s IRGC says it arrested 12 people for alleged collaboration with Israel
+ - [https://www.timesofisrael.com/irans-irgc-says-it-arrested-12-people-for-alleged-collaboration-with-israel](https://www.timesofisrael.com/irans-irgc-says-it-arrested-12-people-for-alleged-collaboration-with-israel)
+ - RSS feed: $source
+ - date published: 2024-09-22T22:40:32+00:00
+
+<p>Islamic Revolutionary Guard Corps says alleged spies were connected to 'series of actions planned against our country's security'; Tehran frequently claims to foil Mossad plots</p>
+<p>The post <a href="https://www.timesofisrael.com/irans-irgc-says-it-arrested-12-people-for-alleged-collaboration-with-israel/">Iran&#8217;s IRGC says it arrested 12 people for alleged collaboration with Israel</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24265261045326-1024x640.jpg" title="Iran&#8217;s IRGC says it arrested 12 people for alleged collaboration with Israel" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Levin nominates all Supreme Court judges for president in effort to stall appointment
+ - [https://www.timesofisrael.com/levin-nominates-all-supreme-court-judges-for-president-in-effort-to-stall-appointment](https://www.timesofisrael.com/levin-nominates-all-supreme-court-judges-for-president-in-effort-to-stall-appointment)
+ - RSS feed: $source
+ - date published: 2024-09-22T21:39:32+00:00
+
+<p>Justice minister claims court is coercing appointment of new chief justice; opponents accuse him of shameful behavior, say he still intends to 'crush independence of legal system'</p>
+<p>The post <a href="https://www.timesofisrael.com/levin-nominates-all-supreme-court-judges-for-president-in-effort-to-stall-appointment/">Levin nominates all Supreme Court judges for president in effort to stall appointment</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/08/F240623CG334-e1724692761318-1024x640.jpg" title="Levin nominates all Supreme Court judges for president in effort to stall appointment" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Macron says France stands by Lebanon, calls to deescalate, doesn’t mention Hezbollah
+ - [https://www.timesofisrael.com/macron-says-france-stands-by-lebanon-calls-to-deescalate-doesnt-mention-hezbollah](https://www.timesofisrael.com/macron-says-france-stands-by-lebanon-calls-to-deescalate-doesnt-mention-hezbollah)
+ - RSS feed: $source
+ - date published: 2024-09-22T20:02:26+00:00
+
+<p>In video to Lebanese people, French president says he has spoken with regional leaders, mentions 'grief for all civilian victims of attacks' in Lebanon</p>
+<p>The post <a href="https://www.timesofisrael.com/macron-says-france-stands-by-lebanon-calls-to-deescalate-doesnt-mention-hezbollah/">Macron says France stands by Lebanon, calls to deescalate, doesn&#8217;t mention Hezbollah</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Screenshot-2024-09-22-at-18.24.56-1024x640.png" title="Macron says France stands by Lebanon, calls to deescalate, doesn&#8217;t mention Hezbollah" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Hezbollah supporters arrive en masse for funeral of top commander Ibrahim Aqil
+ - [https://www.timesofisrael.com/hezbollah-supporters-arrive-en-masse-for-funeral-of-top-commander-ibrahim-aqil](https://www.timesofisrael.com/hezbollah-supporters-arrive-en-masse-for-funeral-of-top-commander-ibrahim-aqil)
+ - RSS feed: $source
+ - date published: 2024-09-22T19:51:02+00:00
+
+<p>Attendees tell AFP they came to funeral to express support for Lebanese terror group; 'We sacrifice our children and grandchildren for him,' one woman says of leader Nasrallah</p>
+<p>The post <a href="https://www.timesofisrael.com/hezbollah-supporters-arrive-en-masse-for-funeral-of-top-commander-ibrahim-aqil/">Hezbollah supporters arrive en masse for funeral of top commander Ibrahim Aqil</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240922__36GV2EP__v3__HighRes__TopshotLebanonIsraelPalestinianConflictFuneral-1024x640.jpg" title="Hezbollah supporters arrive en masse for funeral of top commander Ibrahim Aqil" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Lebanese hospitals pushed to the brink as discontent with Hezbollah mounts 
+ - [https://www.timesofisrael.com/lebanese-hospitals-pushed-to-the-brink-as-discontent-with-hezbollah-mounts](https://www.timesofisrael.com/lebanese-hospitals-pushed-to-the-brink-as-discontent-with-hezbollah-mounts)
+ - RSS feed: $source
+ - date published: 2024-09-22T19:19:26+00:00
+
+<p>Health workers report harrowing scenes from operating rooms after massive attacks, while anti-Hezbollah camp raises voice against escalation, calling on Nasrallah to 'climb down'</p>
+<p>The post <a href="https://www.timesofisrael.com/lebanese-hospitals-pushed-to-the-brink-as-discontent-with-hezbollah-mounts/">Lebanese hospitals pushed to the brink as discontent with Hezbollah mounts </a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24261579263613-1024x640.jpg" title="Lebanese hospitals pushed to the brink as discontent with Hezbollah mounts " border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Tatiana Schnitman, 70: Russian immigrant and avid gardener
+ - [https://www.timesofisrael.com/tatiana-schnitman-70-russian-immigrant-and-avid-gardener](https://www.timesofisrael.com/tatiana-schnitman-70-russian-immigrant-and-avid-gardener)
+ - RSS feed: $source
+ - date published: 2024-09-22T18:36:32+00:00
+
+<p>Murdered by Hamas terrorists in Sderot on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/tatiana-schnitman-70-russian-immigrant-and-avid-gardener/">Tatiana Schnitman, 70: Russian immigrant and avid gardener</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Untitled-design119-1024x640.jpg" title="Tatiana Schnitman, 70: Russian immigrant and avid gardener" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Dado Tsafir, 44: Tractor driver, animal lover and devoted father of 3
+ - [https://www.timesofisrael.com/dado-tsafir-44-tractor-driver-animal-lover-and-devoted-father-of-3](https://www.timesofisrael.com/dado-tsafir-44-tractor-driver-animal-lover-and-devoted-father-of-3)
+ - RSS feed: $source
+ - date published: 2024-09-22T18:33:27+00:00
+
+<p>Murdered by Hamas terrorists while fleeing the Supernova music festival on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/dado-tsafir-44-tractor-driver-animal-lover-and-devoted-father-of-3/">Dado Tsafir, 44: Tractor driver, animal lover and devoted father of 3</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/269732772_10224048452377747_2616665647848688514_n-e1725966216921-1024x640.jpg" title="Dado Tsafir, 44: Tractor driver, animal lover and devoted father of 3" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## PM says he’s weighing plan to lay siege to north Gaza; believes half of hostages alive
+ - [https://www.timesofisrael.com/pm-says-hes-weighing-plan-to-lay-siege-to-north-gaza-believes-half-of-hostages-alive](https://www.timesofisrael.com/pm-says-hes-weighing-plan-to-lay-siege-to-north-gaza-believes-half-of-hostages-alive)
+ - RSS feed: $source
+ - date published: 2024-09-22T18:13:26+00:00
+
+<p>During closed-door meeting with lawmakers, Netanyahu argues putting pressure on Hezbollah could help force Hamas's Sinwar to the table, predicts ICC arrest warrants coming soon</p>
+<p>The post <a href="https://www.timesofisrael.com/pm-says-hes-weighing-plan-to-lay-siege-to-north-gaza-believes-half-of-hostages-alive/">PM says he’s weighing plan to lay siege to north Gaza; believes half of hostages alive</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/06/WhatsApp-Image-2024-06-03-at-15.52.32-1024x640.jpeg" title="PM says he’s weighing plan to lay siege to north Gaza; believes half of hostages alive" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Israel’s stunning intelligence successes in Lebanon highlight its grave failures in Gaza
+ - [https://www.timesofisrael.com/israels-stunning-intelligence-successes-in-lebanon-highlight-its-grave-failures-in-gaza](https://www.timesofisrael.com/israels-stunning-intelligence-successes-in-lebanon-highlight-its-grave-failures-in-gaza)
+ - RSS feed: $source
+ - date published: 2024-09-22T16:36:53+00:00
+
+<p>Jerusalem has knocked Hezbollah back on its heels with strikes against senior leaders and, ostensibly, the attacks on communications devices. So why did it get October 7 so wrong? </p>
+<p>The post <a href="https://www.timesofisrael.com/israels-stunning-intelligence-successes-in-lebanon-highlight-its-grave-failures-in-gaza/">Israel&#8217;s stunning intelligence successes in Lebanon highlight its grave failures in Gaza</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240921__36GU7HR__v3__HighRes__LebanonIsraelPalestinianConflict-1024x640.jpg" title="Israel&#8217;s stunning intelligence successes in Lebanon highlight its grave failures in Gaza" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Ben Gvir’s driver indicted for reckless driving over crash while chauffeuring minister
+ - [https://www.timesofisrael.com/ben-gvirs-driver-indicted-for-reckless-driving-over-crash-while-chauffeuring-minister](https://www.timesofisrael.com/ben-gvirs-driver-indicted-for-reckless-driving-over-crash-while-chauffeuring-minister)
+ - RSS feed: $source
+ - date published: 2024-09-22T16:36:16+00:00
+
+<p>According to charges, Moshe Eichenstein drove 'recklessly' without paying attention to the road; his lawyer alleges a political hit job</p>
+<p>The post <a href="https://www.timesofisrael.com/ben-gvirs-driver-indicted-for-reckless-driving-over-crash-while-chauffeuring-minister/">Ben Gvir&#8217;s driver indicted for reckless driving over crash while chauffeuring minister</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/04/F240426JA106-1024x640.jpg" title="Ben Gvir&#8217;s driver indicted for reckless driving over crash while chauffeuring minister" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Finance Ministry proposes creating independent authority to manage waste treatment
+ - [https://www.timesofisrael.com/finance-ministry-proposes-creating-independent-authority-to-manage-waste-treatment](https://www.timesofisrael.com/finance-ministry-proposes-creating-independent-authority-to-manage-waste-treatment)
+ - RSS feed: $source
+ - date published: 2024-09-22T16:36:14+00:00
+
+<p>Following years of failure to significantly reduce amount of trash sent to landfill, ministry suggests new body to bring Israel up to OECD standard</p>
+<p>The post <a href="https://www.timesofisrael.com/finance-ministry-proposes-creating-independent-authority-to-manage-waste-treatment/">Finance Ministry proposes creating independent authority to manage waste treatment</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2019/08/F130812YN35-1024x640.jpg" title="Finance Ministry proposes creating independent authority to manage waste treatment" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Noam Yechiel, 17, killed in car crash amid rocket fire, described as ‘delightful boy’
+ - [https://www.timesofisrael.com/noam-yechiel-killed-in-car-crash-amid-rocket-fire-described-as-delightful-boy](https://www.timesofisrael.com/noam-yechiel-killed-in-car-crash-amid-rocket-fire-described-as-delightful-boy)
+ - RSS feed: $source
+ - date published: 2024-09-22T14:12:29+00:00
+
+<p>Yechiel was on his way back to Hadera with friends when the accident happened; police investigating whether the siren caused the driver to panic and crash</p>
+<p>The post <a href="https://www.timesofisrael.com/noam-yechiel-killed-in-car-crash-amid-rocket-fire-described-as-delightful-boy/">Noam Yechiel, 17, killed in car crash amid rocket fire, described as &#8216;delightful boy&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/police-1024x640.jpg" title="Noam Yechiel, 17, killed in car crash amid rocket fire, described as &#8216;delightful boy&#8217;" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## North under siege: Rockets cause hospitals to nix procedures, schools and beaches to close
+ - [https://www.timesofisrael.com/north-under-siege-rockets-lead-to-medical-cancellations-closures-of-schools-and-beaches](https://www.timesofisrael.com/north-under-siege-rockets-lead-to-medical-cancellations-closures-of-schools-and-beaches)
+ - RSS feed: $source
+ - date published: 2024-09-22T14:05:06+00:00
+
+<p>'Most people live in stress and worry,' one Safed resident says with cities on war footing; 'My blood pressure goes up every time I hear a siren'</p>
+<p>The post <a href="https://www.timesofisrael.com/north-under-siege-rockets-lead-to-medical-cancellations-closures-of-schools-and-beaches/">North under siege: Rockets cause hospitals to nix procedures, schools and beaches to close</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24266366523343-1024x640.jpg" title="North under siege: Rockets cause hospitals to nix procedures, schools and beaches to close" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Herzog: Hezbollah chiefs were meeting to plan Oct.7-style invasion when killed
+ - [https://www.timesofisrael.com/herzog-hezbollah-chiefs-were-meeting-to-plan-oct-7-style-invasion-when-killed](https://www.timesofisrael.com/herzog-hezbollah-chiefs-were-meeting-to-plan-oct-7-style-invasion-when-killed)
+ - RSS feed: $source
+ - date published: 2024-09-22T13:28:43+00:00
+
+<p>President confirms terror group commanders slain in Friday's IDF strike were set on 'horrendous' rampage in north; Lebanese source: They were meeting on 'plans for ground invasion'</p>
+<p>The post <a href="https://www.timesofisrael.com/herzog-hezbollah-chiefs-were-meeting-to-plan-oct-7-style-invasion-when-killed/">Herzog: Hezbollah chiefs were meeting to plan Oct.7-style invasion when killed</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Screenshot-2024-09-22-at-3.06.40 PM-e1727006865845-1024x640.jpeg" title="Herzog: Hezbollah chiefs were meeting to plan Oct.7-style invasion when killed" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Netanyahu says Hezbollah ‘will get the message’ after strikes it ‘never imagined’
+ - [https://www.timesofisrael.com/netanyahu-says-hezbollah-will-get-the-message-after-strikes-it-never-imagined](https://www.timesofisrael.com/netanyahu-says-hezbollah-will-get-the-message-after-strikes-it-never-imagined)
+ - RSS feed: $source
+ - date published: 2024-09-22T12:28:44+00:00
+
+<p>PM says Israel determined to return displaced northern residents to their homes; Gallant says Iran-backed group ‘beginning to feel some of our capabilities'</p>
+<p>The post <a href="https://www.timesofisrael.com/netanyahu-says-hezbollah-will-get-the-message-after-strikes-it-never-imagined/">Netanyahu says Hezbollah ‘will get the message’ after strikes it &#8216;never imagined&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/vlcsnap-2024-09-22-13h13m48s597-copy-1024x640.jpg" title="Netanyahu says Hezbollah ‘will get the message’ after strikes it &#8216;never imagined&#8217;" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Daily Briefing Sept. 22: Day 352 – Is the IDF prepping the ground for a northern incursion?
+ - [https://www.timesofisrael.com/daily-briefing-sept-22-day-352-is-the-idf-prepping-the-ground-for-a-northern-incursion](https://www.timesofisrael.com/daily-briefing-sept-22-day-352-is-the-idf-prepping-the-ground-for-a-northern-incursion)
+ - RSS feed: $source
+ - date published: 2024-09-22T11:52:58+00:00
+
+<p>Military reporter Emanuel Fabian on decapitation of Hezbollah's elite Radwan Force and curious case of Jewish Israeli arrested for colluding with Iran to assassinate top officials</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-sept-22-day-352-is-the-idf-prepping-the-ground-for-a-northern-incursion/">Daily Briefing Sept. 22: Day 352 &#8211; Is the IDF prepping the ground for a northern incursion?</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240922__36GW3LW__v2__HighRes__TopshotLebanonIsraelPalestinianConflict-1024x640.jpg" title="Daily Briefing Sept. 22: Day 352 &#8211; Is the IDF prepping the ground for a northern incursion?" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Technion startup aims to keep coastal industry systems clean while capturing CO₂
+ - [https://www.timesofisrael.com/technion-startup-aims-to-keep-coastal-industry-systems-clean-while-capturing-co%e2%82%82](https://www.timesofisrael.com/technion-startup-aims-to-keep-coastal-industry-systems-clean-while-capturing-co%e2%82%82)
+ - RSS feed: $source
+ - date published: 2024-09-22T11:26:42+00:00
+
+<p>MOZAICO uses electrochemistry rather than chemicals to stop scale buildup in coastal cooling systems, converting CO2 into marketable calcium carbonate</p>
+<p>The post <a href="https://www.timesofisrael.com/technion-startup-aims-to-keep-coastal-industry-systems-clean-while-capturing-co%e2%82%82/">Technion startup aims to keep coastal industry systems clean while capturing CO₂</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/Nitzan_Z-9203053-1024x640.jpg" title="Technion startup aims to keep coastal industry systems clean while capturing CO₂" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Far-right AfD eyes new win in east German state vote
+ - [https://www.timesofisrael.com/far-right-afd-eyes-new-win-in-east-german-state-vote](https://www.timesofisrael.com/far-right-afd-eyes-new-win-in-east-german-state-vote)
+ - RSS feed: $source
+ - date published: 2024-09-22T09:42:57+00:00
+
+<p>On heels of extremist terror attacks in the country, the anti-immigration party hopes to repeat its recent gains in Thuringia and Saxony, deliver 'hard blow' to Scholz's SPD</p>
+<p>The post <a href="https://www.timesofisrael.com/far-right-afd-eyes-new-win-in-east-german-state-vote/">Far-right AfD eyes new win in east German state vote</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240922__36GV3WQ__v1__HighRes__GermanyPoliticsVoteBrandenburg-1024x640.jpg" title="Far-right AfD eyes new win in east German state vote" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Hospitals in north ordered to move patients to fortified areas amid rocket fire
+ - [https://www.timesofisrael.com/hospitals-in-north-ordered-to-move-patients-to-fortified-areas-amid-rocket-fire](https://www.timesofisrael.com/hospitals-in-north-ordered-to-move-patients-to-fortified-areas-amid-rocket-fire)
+ - RSS feed: $source
+ - date published: 2024-09-22T09:29:52+00:00
+
+<p>Haifa's Rambam will shift activities to underground parking lot, while other medical facilities move treatments to protected areas, scrap elective procedures</p>
+<p>The post <a href="https://www.timesofisrael.com/hospitals-in-north-ordered-to-move-patients-to-fortified-areas-amid-rocket-fire/">Hospitals in north ordered to move patients to fortified areas amid rocket fire</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240801CG09-1024x640.jpg" title="Hospitals in north ordered to move patients to fortified areas amid rocket fire" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## IDF intercepts cruise missiles, drones fired from Iraq at north and south
+ - [https://www.timesofisrael.com/idf-intercepts-cruise-missiles-drones-fired-from-iraq-at-north-and-south](https://www.timesofisrael.com/idf-intercepts-cruise-missiles-drones-fired-from-iraq-at-north-and-south)
+ - RSS feed: $source
+ - date published: 2024-09-22T09:23:09+00:00
+
+<p>No impacts reported as most threats do not enter Israeli airspace; coalition of pro-Iran armed groups claims responsibility, says acting in support of Gaza</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-intercepts-cruise-missiles-drones-fired-from-iraq-at-north-and-south/">IDF intercepts cruise missiles, drones fired from Iraq at north and south</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/F240919MG107-1024x640.jpg" title="IDF intercepts cruise missiles, drones fired from Iraq at north and south" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Hezbollah fires 100 rockets at north, wounding 3; teen killed in crash during siren
+ - [https://www.timesofisrael.com/hezbollah-fires-85-rockets-at-haifa-area-wounding-3-teen-killed-in-crash-during-siren](https://www.timesofisrael.com/hezbollah-fires-85-rockets-at-haifa-area-wounding-3-teen-killed-in-crash-during-siren)
+ - RSS feed: $source
+ - date published: 2024-09-22T07:25:27+00:00
+
+<p>Terror group says it targeted defense firm facility; 17-year-old believed to have panicked when alerts began and lost control of vehicle; IDF: Strikes 'will continue and increase'</p>
+<p>The post <a href="https://www.timesofisrael.com/hezbollah-fires-85-rockets-at-haifa-area-wounding-3-teen-killed-in-crash-during-siren/">Hezbollah fires 100 rockets at north, wounding 3; teen killed in crash during siren</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240922__36GW3M4__v1__HighRes__IsraelLebanonPalestinianConflict-e1726987315465-1024x640.jpg" title="Hezbollah fires 100 rockets at north, wounding 3; teen killed in crash during siren" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## String of IDF successes might cause Nasrallah to back down, but won’t lead to victory
+ - [https://www.timesofisrael.com/string-of-idf-successes-might-cause-nasrallah-to-back-down-but-wont-lead-to-victory](https://www.timesofisrael.com/string-of-idf-successes-might-cause-nasrallah-to-back-down-but-wont-lead-to-victory)
+ - RSS feed: $source
+ - date published: 2024-09-22T06:14:01+00:00
+
+<p>Israel is hoping stunning tactical achievements will head off war against Hezbollah, but defeating the organization requires a different approach</p>
+<p>The post <a href="https://www.timesofisrael.com/string-of-idf-successes-might-cause-nasrallah-to-back-down-but-wont-lead-to-victory/">String of IDF successes might cause Nasrallah to back down, but won&#8217;t lead to victory</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24263457830680-1024x640.jpg" title="String of IDF successes might cause Nasrallah to back down, but won&#8217;t lead to victory" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## At least 30 dead in coal mine explosion in Iran, state media says
+ - [https://www.timesofisrael.com/at-least-28-dead-in-coal-mine-explosion-in-iran-state-media-says](https://www.timesofisrael.com/at-least-28-dead-in-coal-mine-explosion-in-iran-state-media-says)
+ - RSS feed: $source
+ - date published: 2024-09-22T06:03:39+00:00
+
+<p>Dozens injured in incident in Tabas, southeast of Tehran; about 70 on site at time of blast, some still stuck in the mine </p>
+<p>The post <a href="https://www.timesofisrael.com/at-least-28-dead-in-coal-mine-explosion-in-iran-state-media-says/">At least 30 dead in coal mine explosion in Iran, state media says</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP17127471579240-1024x640.jpg" title="At least 30 dead in coal mine explosion in Iran, state media says" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Schools closed in Haifa and entire north amid rocket barrages from Lebanon
+ - [https://www.timesofisrael.com/schools-closed-in-haifa-and-entire-north-amid-rocket-barrages-from-lebanon](https://www.timesofisrael.com/schools-closed-in-haifa-and-entire-north-amid-rocket-barrages-from-lebanon)
+ - RSS feed: $source
+ - date published: 2024-09-22T05:24:33+00:00
+
+<p>IDF Home Front Command sets maximum size for outdoor gatherings at 10 people as far south Beit She'an, over 60 kilometers from border</p>
+<p>The post <a href="https://www.timesofisrael.com/schools-closed-in-haifa-and-entire-north-amid-rocket-barrages-from-lebanon/">Schools closed in Haifa and entire north amid rocket barrages from Lebanon</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AP24266154596013-1024x640.jpg" title="Schools closed in Haifa and entire north amid rocket barrages from Lebanon" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Israeli forces raid Al Jazeera Ramallah bureau with closure order
+ - [https://www.timesofisrael.com/israeli-forces-raid-al-jazeera-ramallah-bureau-with-closure-order](https://www.timesofisrael.com/israeli-forces-raid-al-jazeera-ramallah-bureau-with-closure-order)
+ - RSS feed: $source
+ - date published: 2024-09-22T05:07:38+00:00
+
+<p>Recent months have seen a concerted effort by authorities to crack down on the network, regarded by many as propagating inflammatory anti-Israel and pro-Hamas rhetoric</p>
+<p>The post <a href="https://www.timesofisrael.com/israeli-forces-raid-al-jazeera-ramallah-bureau-with-closure-order/">Israeli forces raid Al Jazeera Ramallah bureau with closure order</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/05/AP17220446266646-1024x640.jpg" title="Israeli forces raid Al Jazeera Ramallah bureau with closure order" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Report: Hezbollah devices were detonated individually, with precise intel on targets
+ - [https://www.timesofisrael.com/report-hezbollah-devices-were-detonated-individually-with-precise-intel-on-targets](https://www.timesofisrael.com/report-hezbollah-devices-were-detonated-individually-with-precise-intel-on-targets)
+ - RSS feed: $source
+ - date published: 2024-09-22T03:01:51+00:00
+
+<p>Channel 12 says attack designed so only person carrying pager, walkie-talkie would be hurt by blast, quotes sources as saying Israel has far more extensive capabilities in Lebanon</p>
+<p>The post <a href="https://www.timesofisrael.com/report-hezbollah-devices-were-detonated-individually-with-precise-intel-on-targets/">Report: Hezbollah devices were detonated individually, with precise intel on targets</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/AFP__20240918__36GM8CR__v2__HighRes__LebanonIsraelPalestinianConflict-1-1-1024x640.jpg" title="Report: Hezbollah devices were detonated individually, with precise intel on targets" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## US said hoping IDF pressure will push Hezbollah to diplomatic solution, not all-out war
+ - [https://www.timesofisrael.com/liveblog-september-22-2024](https://www.timesofisrael.com/liveblog-september-22-2024)
+ - RSS feed: $source
+ - date published: 2024-09-22T00:32:42+00:00
+
+<p>Hezbollah-affiliated media reports more IDF strikes in southern Lebanon * Terror group takes responsibility for rocket barrage on Jezreel Valley, claiming to have targeted IAF base</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-september-22-2024/">US said hoping IDF pressure will push Hezbollah to diplomatic solution, not all-out war</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static.timesofisrael.com/www/uploads/2024/09/2024-09-21T203053Z_986307443_MT1ANADL00060GEFP_RTRMADP_3_ANADOLU-1024x640.jpg" title="US said hoping IDF pressure will push Hezbollah to diplomatic solution, not all-out war" border="0" width="160" height="100" class="type:primaryImage"></figure>
+

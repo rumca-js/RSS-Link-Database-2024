@@ -1,0 +1,58 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## ‘Europe’s Oldest Battlefield’ Just Got Stranger With New Evidence of Outsiders Involved
+ - [https://gizmodo.com/europes-oldest-battlefield-just-got-stranger-with-new-evidence-of-outsiders-involved-2000501233](https://gizmodo.com/europes-oldest-battlefield-just-got-stranger-with-new-evidence-of-outsiders-involved-2000501233)
+ - RSS feed: $source
+ - date published: 2024-09-22T23:01:46+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle.jpg" class="attachment-full size-full wp-post-image" alt="A skullcap from the Tollense Valley perforated by an arrowhead. Photo: Volker Minkus" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/arrowhead-skull-germany-battle-896x597
+
+## A Creepy Storm’s a-Brewing in Teacup’s New Trailer
+ - [https://gizmodo.com/teacup-peacock-horror-trailer-2000501743](https://gizmodo.com/teacup-peacock-horror-trailer-2000501743)
+ - RSS feed: $source
+ - date published: 2024-09-22T19:33:04+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/teacup-peacock.jpg" class="attachment-full size-full wp-post-image" alt="Teacup Peacock" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/teacup-peacock.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/teacup-peacock-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/teacup-peacock-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/teacup-peacock-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/teacup-peacock-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/teacup-peacock-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/teacup-peacock-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/teacup-peacock-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>The Peacock series stars Yvonne Strahovski, Scott Speedman, and Chaske Spencer as ranchers being  stalked by something unpleasant.
+
+## Daniela Forever Is a Dream of a Film About Dreams
+ - [https://gizmodo.com/daniela-forever-is-a-dream-of-a-film-about-dreams-2000501705](https://gizmodo.com/daniela-forever-is-a-dream-of-a-film-about-dreams-2000501705)
+ - RSS feed: $source
+ - date published: 2024-09-22T18:25:57+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review.jpg" class="attachment-full size-full wp-post-image" alt="Daniela Forever Review" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/Daniela-Forever-review-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p><i>Snake Eyes</i> and <i>Crazy Rich Asians</i> star Henry Golding explores th
+
+## Terry Matalas Will Reshuffle Netflix’s Magic: The Gathering Show
+ - [https://gizmodo.com/magic-the-gathering-netflix-matalas-2000501781](https://gizmodo.com/magic-the-gathering-netflix-matalas-2000501781)
+ - RSS feed: $source
+ - date published: 2024-09-22T17:10:48+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix.jpg" class="attachment-full size-full wp-post-image" alt="Magic Gathering Netflix" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/magic-gathering-netflix-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>After years of radio silence, Netflix is starting its <i>Magic</i> 
+
+## Open Channel: What’d You Think of Transformers One?
+ - [https://gizmodo.com/transformers-one-open-channel-2000501742](https://gizmodo.com/transformers-one-open-channel-2000501742)
+ - RSS feed: $source
+ - date published: 2024-09-22T16:40:03+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point.jpg" class="attachment-full size-full wp-post-image" alt="Transformers One Point" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/Transformers-One-Point-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p><i>Transformers'</i> prequel story for Optimus Prime and Megatron is here, an
+
+## Charlie Brooker’s Been Dying to Give Black Mirror’s Best Episode a Sequel
+ - [https://gizmodo.com/black-mirror-callister-sequel-2000501740](https://gizmodo.com/black-mirror-callister-sequel-2000501740)
+ - RSS feed: $source
+ - date published: 2024-09-22T15:05:26+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/black-mirror-callister.jpg" class="attachment-full size-full wp-post-image" alt="Black Mirror Callister" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/black-mirror-callister.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/black-mirror-callister-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/black-mirror-callister-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/black-mirror-callister-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/black-mirror-callister-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/black-mirror-callister-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/black-mirror-callister-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/black-mirror-callister-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p><i>Black Mirror's</i> seventh season will bring back the crew of the USS Call
+
+## How Do People Actually ‘Die From Old Age’?
+ - [https://gizmodo.com/how-do-people-actually-die-old-age-1844521439](https://gizmodo.com/how-do-people-actually-die-old-age-1844521439)
+ - RSS feed: $source
+ - date published: 2024-09-22T14:26:00+00:00
+
+<p><img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7.jpg 1920w, https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7-300x169.jpg 300w, https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7-768x432.jpg 768w, https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7-512x288.jpg 512w, https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7-680x383.jpg 680w, https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7-896x504.jpg 896w, https://gizmodo.com/app/uploads/2020/08/zzno4crigsanrvb1duo7-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"></p>"Old age" sounds like a pleasant way to go, comparatively—a peaceful winding-down. But what exactly does it look lik
+
+## The Wild Robot Is a Magnificent Movie In Every Way
+ - [https://gizmodo.com/the-wild-robot-movie-review-pedro-pascal-lupita-2000501715](https://gizmodo.com/the-wild-robot-movie-review-pedro-pascal-lupita-2000501715)
+ - RSS feed: $source
+ - date published: 2024-09-22T14:00:40+00:00
+
+<p><img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review.jpg" class="attachment-full size-full wp-post-image" alt="Wild Robot Review" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/Wild-Robot-Review-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"></p>Lupita Nyong'o, Pedro Pascal, Stephanie Hsu, Mark Hamill, and Catherine O'Hara are part of the year's best animated film.
+

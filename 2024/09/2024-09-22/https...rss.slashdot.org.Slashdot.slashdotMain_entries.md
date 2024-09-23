@@ -1,0 +1,131 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Amazon Ads Launches a New AI Video Generator
+ - [https://slashdot.org/story/24/09/22/2023205/amazon-ads-launches-a-new-ai-video-generator?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/09/22/2023205/amazon-ads-launches-a-new-ai-video-generator?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T22:08:17.302850+00:00
+
+Long-time Slashdot reader theodp writes: On Thursday, Amazon Ads announced Video Generator and Live Image, "our first generative AI-powered technology designed to remove creative barriers and enable brands to produce lifestyle imagery that enhances ad performance." 
+
+Amazon's blog post calls it "a new feature that uses generative AI technology to make it easier for advertisers to create more interesting and relevant video ads for customers. The new feature, Video generator, creates visually rich video content in a matter of minutes and at no additional cost. Using a single product image, Video generator curates custom AI-generated videos tailored to a product's distinct selling proposition and features, leveraging Amazon's unique insights to vividly bring a product story to life." An accompanying video demonstrates how Amazon's AI-powered tech can be used to animate still images, making it appear that steam is rising from a coffee mug, flowers are being blown in the wind, the night sk
+
+## Internal Google Emails Presented at Antitrust Trial
+ - [https://tech.slashdot.org/story/24/09/22/1949223/internal-google-emails-presented-at-antitrust-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/22/1949223/internal-google-emails-presented-at-antitrust-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T21:04:05.013632+00:00
+
+In the antitrust trial alleging Google had an ad-selling monopoly, "government lawyers have said some of their strongest evidence is in Google's own internal communications," reports the Wall Street Journal:
+[In 2010] a new crop of ad-tech companies were threatening Google's bottom line. "One way to make sure we don't get further behind in the market is picking up the one with the most traction and parking it somewhere..." [wrote YouTube Chief Executive Neal Mohan, who previously ran Google's display-ads business]. Google ended up buying one such company, AdMeld, for $400 million in 2011. Google shut down AdMeld two years later, after incorporating some of the startup's technology into its ad exchange, known commonly as AdX. 
+
+The Justice Department argued that AdMeld was part of a larger trend: Google acquiring nascent rivals to corner the market and then locking customers into using its products by conditioning access to one software tool on them paying for another... In a 2016 emai
+
+## AI Smackdown: How a New FTC Rule Also Fights Fake Product Reviews
+ - [https://yro.slashdot.org/story/24/09/22/1910230/ai-smackdown-how-a-new-ftc-rule-also-fights-fake-product-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/09/22/1910230/ai-smackdown-how-a-new-ftc-rule-also-fights-fake-product-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T19:58:22.233435+00:00
+
+Salon looks closer at a new $51,744-per-violation AI regulation officially approved one month ago by America's FTC &mdash; calling it a financial blow "If you're a digital media company whose revenue comes from publishing AI-generated articles and fake product reviews. 
+
+But they point out the rules also ban "product review suppression."
+
+Per the ruling, that means it's a violation for "anyone to use an unfounded or groundless legal threat, a physical threat, intimidation, or a public false accusation in response to a consumer review... to (1) prevent a review or any portion thereof from being written or created, or (2) cause a review or any portion thereof to be removed, whether or not that review or a portion thereof is replaced with other content." 
+
+Finally... The rule makes it a violation for a business to "provide compensation or other incentives in exchange for, or conditioned expressly or by implication on, the writing or creation of consumer reviews expressing a particular se
+
+## A California Boy Was Kidnapped from a Park in 1951.  He's Just Been Found Alive
+ - [https://science.slashdot.org/story/24/09/22/178217/a-california-boy-was-kidnapped-from-a-park-in-1951-hes-just-been-found-alive?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/09/22/178217/a-california-boy-was-kidnapped-from-a-park-in-1951-hes-just-been-found-alive?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T17:48:21.242471+00:00
+
+An anonymous reader shared this story from SFGate:
+
+A boy who was kidnapped from an Oakland playground in 1951 has been found alive on the East Coast, a remarkable resolution to a mystery that has haunted his family for over half a century. 
+
+On February 21, 1951, 6-year-old Luis Armando Albino was playing with his older brother Roger at Jefferson Square Park. The boys had recently immigrated with their mother and four other siblings from Puerto Rico... That afternoon, Luis and 10-year-old Roger walked down the block from their home at 730 Brush Street to play in the park. They were approached by a woman in her 30s, wearing a green bandana over her hair, who began chatting with Luis in Spanish. She promised she would buy him candy if he came along with her, and little Luis agreed to join her. Wary, Roger trailed the pair for a while before returning home to alert an adult to the strange encounter. Oakland police were called by frantic family members and a search was immediately launch
+
+## 'Compile and Run C in JavaScript', Promises Bun
+ - [https://developers.slashdot.org/story/24/09/22/011240/compile-and-run-c-in-javascript-promises-bun?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/24/09/22/011240/compile-and-run-c-in-javascript-promises-bun?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T16:43:40.562514+00:00
+
+The JavaScript runtime Bun is a Node.js/Deno alternative (that's also a bundler/test runner/package manager). 
+
+And Bun 1.1.28 now includes experimental support for "&gt;compiling and running native C from JavaScript, according to this report from The New Stack:
+
+
+
+"From compression to cryptography to networking to the web browser you're reading this on, the world runs on C," wrote Jarred Sumner, creator of Bun. "If it's not written in C, it speaks the C ABI (C++, Rust, Zig, etc.) and is available as a C library. C and the C ABI are the past, present, and future of systems programming." This is a low-boilerplate way to use C libraries and system libraries from JavaScript, he said, adding that this feature allows the same project that runs JavaScript to also run C without a separate build step... "It's good for glue code that binds C or C-like libraries to JavaScript. Sometimes, you want to use a C library or system API from JavaScript, and that library was never meant to be used from 
+
+## Vaporizing Plastics Recycles Them Into Nothing But Gas, Researchers Find
+ - [https://science.slashdot.org/story/24/09/22/047204/vaporizing-plastics-recycles-them-into-nothing-but-gas-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/09/22/047204/vaporizing-plastics-recycles-them-into-nothing-but-gas-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T15:38:17.438856+00:00
+
+Polypropylene and polyethylene plastics "can be recycled," reports Ars Technica. But as "polyolefin" polymers, "the process can be difficult and often produces large quantities of the greenhouse gas methane. 
+
+"Now, researchers at the University of California, Berkeley have come up with a method of recycling these polymers that uses catalysts that easily break their bonds, converting them into propylene and isobutylene, which are gasses at room temperature. Those gasses can then be recycled into new plastics..."
+
+[T]he previous catalysts were expensive metals that did not remain pure long enough to convert all of the plastic into gas. Using sodium on alumina followed by tungsten oxide on silica proved much more economical and effective, even though the high temperatures required for the reaction added a bit to the cost. In both plastics, exposure to sodium on alumina broke each polymer chain into shorter polymer chains and created breakable carbon-carbon double bonds at the ends. The 
+
+## GM Electric Vehicles Can Now Use Tesla Superchargers
+ - [https://tech.slashdot.org/story/24/09/22/0016220/gm-electric-vehicles-can-now-use-tesla-superchargers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/22/0016220/gm-electric-vehicles-can-now-use-tesla-superchargers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T15:38:17.352767+00:00
+
+The Washington Post reports that electric vehicles made by General Motors now can use Tesla's Superchargers. (GM's charger adapters "will first be made available to customers in the United States, followed by availability for Canadian customers later this year.") The Post writes that the move "expands the number of vehicles compatible with the North American Charging Standard developed by Tesla" &mdash; and also marks "another step forward for efforts to settle on a universal public charger network for battery-powered cars and trucks in the U.S. 
+
+"It could also allay some GM customers' concerns about a lack of charging options."
+
+The new changes take effect immediately, along with sales of the GM-approved power adapters... The deal makes roughly 17,800 Tesla Superchargers available to drivers of GM-manufactured vehicles such as the Chevy Bolt, Cadillac Lyriq and Silverado EV, with the help of an adapter that costs $225... GM estimates that the partnership with Tesla contributes to an
+
+## How NASA Could Find Evidence of Life on Another Planet Within 25 Years
+ - [https://science.slashdot.org/story/24/09/21/1950212/how-nasa-could-find-evidence-of-life-on-another-planet-within-25-years?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/09/21/1950212/how-nasa-could-find-evidence-of-life-on-another-planet-within-25-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T12:23:18.386031+00:00
+
+"In all likelihood, in the next 25 years, we'll find evidence of life on another planet..." begins a new essay by author Dave Eggers in the Washington Post. 
+
+"In more than a dozen conversations with some of the best minds in astrophysics, I did not meet anyone who was doubtful about finding evidence of life elsewhere &mdash; most likely on an exoplanet beyond our solar system. It was not a matter of if. It was a matter of when."
+
+
+[A]ll evidence points to us getting closer, every year, to identifying moons in our solar system, or exoplanets beyond it, that can sustain life. And if we don't find conditions for life on the moons near us, we'll find it on exoplanets &mdash; that is, planets outside our solar system. Within the next few decades, we'll likely find an exoplanet that has an atmosphere, that has water, that has carbon and methane and oxygen. Or some combination of those things. 
+
+
+ And thus, the conditions for life. In a few years, NASA will launch the Nancy Grace Roman Spac
+
+## Why the UK's Power Grid is Sidelining Clean-Energy Battery Storage
+ - [https://news.slashdot.org/story/24/09/22/056236/why-the-uks-power-grid-is-sidelining-clean-energy-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/09/22/056236/why-the-uks-power-grid-is-sidelining-clean-energy-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T09:08:11.772940+00:00
+
+The administrators of Great Britain's power grid admit that it's often unable to use energy-storage batteries due to old computer systems and an old network with "not enough cables", according to the Financial Times &mdash; though the system operator says they're making progress after upgrading their system last December:
+
+ The company has plans to lower the rate at which batteries are sidelined to single figures by early next year [said Craig Dyke, from National Grid's electricity system operator], calling current levels "higher than where we want them to be". Dyke's comments came in response to a letter from four leading battery storage groups which said National Grid's "electricity system operator" or ESO division was making the country's power costlier and dirtier by failing to use their technology properly. "Consumers are paying more, clean renewable energy is being wasted, and fossil fuel generation is being used instead," they said... depriving them of revenue and undermining i
+
+## Car Parts, Fiberglass and a Dream: How a Teacher Built a Hovercraft
+ - [https://news.slashdot.org/story/24/09/21/2313253/car-parts-fiberglass-and-a-dream-how-a-teacher-built-a-hovercraft?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/09/21/2313253/car-parts-fiberglass-and-a-dream-how-a-teacher-built-a-hovercraft?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T05:52:56.809020+00:00
+
+"The cab was cut from a 1997 Jeep Grand Cherokee," writes the New York Times. "The engine once revved up a 1985 Toyota Celica; and 107 hand-sewn rubber segments, courtesy of Mr. Tymofichuk's wife, help to direct low-pressure air beneath the craft so that it rises eight inches above the ground..."
+
+On a cold spring day in a small garage in Alberta, Canada, an engine revved up and an improbable machine &mdash; fabricated from auto parts, a hand-sewn rubber skirt and an abandoned fiberglass hull &mdash; came to life. 
+A homemade hovercraft began to rise off the ground with a small crew standing by. 
+
+The successful liftoff was the culmination of a lifelong fascination of Robert Tymofichuk, 55, who spent about 1,800 hours over a year working on it [according to this nifty video on YouTube ]. And, to the gratitude of passengers, it comes with heated seats. "If you're going through all that hassle, you might as well make yourself comfortable," Mr. Tymofichuk said. He repurposed the seats fr
+
+## California Drivers May Soon Get Mandatory In-Car Speed Warnings Like the EU
+ - [https://tech.slashdot.org/story/24/09/22/0238234/california-drivers-may-soon-get-mandatory-in-car-speed-warnings-like-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/09/22/0238234/california-drivers-may-soon-get-mandatory-in-car-speed-warnings-like-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-09-22T03:43:12.395466+00:00
+
+"Exceed the speed limit in one of the 27 European Union countries, and you may get some pushback from your vehicle," reports Car and Driver. "As of July, new cars sold in the EU must include a speed-warning device that alerts drivers if they exceed the posted limit." 
+
+The warnings can be ither acoustic or haptic, "though the European Commission gives automakers the latitude to supplant those passive measures with either an active accelerator pedal that applies counterpressure against the driver's foot or a governor that restricts the vehicle's speed to the legal limit."
+
+
+Drivers can override or deactivate these admonishments, but the devices must default to their active state at startup. 
+
+Now California is looking to emulate the EU with legislation that would mandate in-car speed-warning devices [for driving more than 10 miles per hour over the speed limit &mdash; in "just about every 2030 model-year vehicle equipped with either GPS or a front-facing camera"]. 
+The article cites st
+

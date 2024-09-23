@@ -1,0 +1,16 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Can Amazon change how we watch football? Testing ‘Prime Vision’ on Thursday Night Football
+ - [https://www.geekwire.com/2024/can-amazon-change-how-we-watch-football-testing-prime-vision-on-thursday-night-football](https://www.geekwire.com/2024/can-amazon-change-how-we-watch-football-testing-prime-vision-on-thursday-night-football)
+ - RSS feed: $source
+ - date published: 2024-09-22T17:07:44+00:00
+
+<img width="1260" height="705" src="https://cdn.geekwire.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-5.20.11%E2%80%AFPM-1260x705.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-5.20.11%E2%80%AFPM-1260x705.png 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-5.20.11%E2%80%AFPM-768x430.png 768w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-5.20.11%E2%80%AFPM-1536x860.png 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-5.20.11%E2%80%AFPM-2048x1146.png 2048w, https://cdn.geekwire.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-5.20.11%E2%80%AFPM-630x353.png 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>More than 25 years after the debut of the yellow first down line in an NFL broadcast, the quest to fill the screen with more overlay
+
+## Week in Review: Most popular stories on GeekWire for the week of Sept. 15, 2024
+ - [https://www.geekwire.com/2024/geekwire-weekly-roundup-2024-09-15](https://www.geekwire.com/2024/geekwire-weekly-roundup-2024-09-15)
+ - RSS feed: $source
+ - date published: 2024-09-22T15:00:39+00:00
+
+<img width="1200" height="630" src="https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png" class="webfeedsFeaturedVisual wp-post-image" alt="GeekWire Week in Review" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png 1200w, https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1-620x326.png 620w" sizes="(max-width: 1200px) 100vw, 1200px"><br>See the technology stories that people were reading on GeekWire for the week of Sept. 15, 2024.&#8230; <a href="https://www.geekwire.com/2024/geekwire-weekly-roundup-2024-09-15/">Read More</a>
+

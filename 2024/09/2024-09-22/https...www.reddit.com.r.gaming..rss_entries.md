@@ -1,0 +1,191 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## This shit slapped fr
+ - [https://www.reddit.com/r/gaming/comments/1fn6c1p/this_shit_slapped_fr](https://www.reddit.com/r/gaming/comments/1fn6c1p/this_shit_slapped_fr)
+ - RSS feed: $source
+ - date published: 2024-09-22T23:09:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn6c1p/this_shit_slapped_fr/"> <img src="https://preview.redd.it/mck2xbs30gqd1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7dc87826a5e0f07b2682ab1d0d9ff42b9aeeeabe" alt="This shit slapped fr" title="This shit slapped fr" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OTSly"> /u/OTSly </a> <br/> <span><a href="https://i.redd.it/mck2xbs30gqd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn6c1p/this_shit_slapped_fr/">[comments]</a></span> </td></tr></table>
+
+## [Dragon Age: The Veilguard] The Qun didn't prepare us for this
+ - [https://www.reddit.com/r/gaming/comments/1fn63as/dragon_age_the_veilguard_the_qun_didnt_prepare_us](https://www.reddit.com/r/gaming/comments/1fn63as/dragon_age_the_veilguard_the_qun_didnt_prepare_us)
+ - RSS feed: $source
+ - date published: 2024-09-22T22:57:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn63as/dragon_age_the_veilguard_the_qun_didnt_prepare_us/"> <img src="https://preview.redd.it/y7xcscf1yfqd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=154d2189d9073e897b34b7ce20d31b0d066ded49" alt="[Dragon Age: The Veilguard] The Qun didn't prepare us for this" title="[Dragon Age: The Veilguard] The Qun didn't prepare us for this" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The aesthetic decision to make Qunari just humans with big foreheads is one of the most baffling things to come out of BioWare, especially when they nailed the look in DA2.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ConfidentMongoose"> /u/ConfidentMongoose </a> <br/> <span><a href="https://i.redd.it/y7xcscf1yfqd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn63as/dragon_age_the_veilguard_the_qun_didnt_prepare_us/">[comments]</a></span> </td></tr></ta
+
+## Found an old 97 flyers from a Canadian store
+ - [https://www.reddit.com/r/gaming/comments/1fn60cs/found_an_old_97_flyers_from_a_canadian_store](https://www.reddit.com/r/gaming/comments/1fn60cs/found_an_old_97_flyers_from_a_canadian_store)
+ - RSS feed: $source
+ - date published: 2024-09-22T22:53:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn60cs/found_an_old_97_flyers_from_a_canadian_store/"> <img src="https://preview.redd.it/ye80sc9bxfqd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9f8df64f591dbdc471c4262d2f784e4c391f056" alt="Found an old 97 flyers from a Canadian store" title="Found an old 97 flyers from a Canadian store" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Iceboster2"> /u/Iceboster2 </a> <br/> <span><a href="https://i.redd.it/ye80sc9bxfqd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn60cs/found_an_old_97_flyers_from_a_canadian_store/">[comments]</a></span> </td></tr></table>
+
+## Last gen version of Star Wars Jedi Survivor.
+ - [https://www.reddit.com/r/gaming/comments/1fn4xj4/last_gen_version_of_star_wars_jedi_survivor](https://www.reddit.com/r/gaming/comments/1fn4xj4/last_gen_version_of_star_wars_jedi_survivor)
+ - RSS feed: $source
+ - date published: 2024-09-22T22:02:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn4xj4/last_gen_version_of_star_wars_jedi_survivor/"> <img src="https://preview.redd.it/gsjcdzxznfqd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9e3dede099262fded926132a992e82c1541e4c7" alt="Last gen version of Star Wars Jedi Survivor." title="Last gen version of Star Wars Jedi Survivor." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheMythicalSnake"> /u/TheMythicalSnake </a> <br/> <span><a href="https://i.redd.it/gsjcdzxznfqd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn4xj4/last_gen_version_of_star_wars_jedi_survivor/">[comments]</a></span> </td></tr></table>
+
+## Saw the request for getting some real games in this sub
+ - [https://www.reddit.com/r/gaming/comments/1fn48f0/saw_the_request_for_getting_some_real_games_in](https://www.reddit.com/r/gaming/comments/1fn48f0/saw_the_request_for_getting_some_real_games_in)
+ - RSS feed: $source
+ - date published: 2024-09-22T21:31:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn48f0/saw_the_request_for_getting_some_real_games_in/"> <img src="https://preview.redd.it/re9zsg6nifqd1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d29f95e82c1b176244f86105730ee8d9dde07a15" alt="Saw the request for getting some real games in this sub" title="Saw the request for getting some real games in this sub" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Who remembers this classic?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SirRichHead"> /u/SirRichHead </a> <br/> <span><a href="https://i.redd.it/re9zsg6nifqd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn48f0/saw_the_request_for_getting_some_real_games_in/">[comments]</a></span> </td></tr></table>
+
+## yeah whatever lets see some real gaming in this sub
+ - [https://www.reddit.com/r/gaming/comments/1fn3tqv/yeah_whatever_lets_see_some_real_gaming_in_this](https://www.reddit.com/r/gaming/comments/1fn3tqv/yeah_whatever_lets_see_some_real_gaming_in_this)
+ - RSS feed: $source
+ - date published: 2024-09-22T21:13:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn3tqv/yeah_whatever_lets_see_some_real_gaming_in_this/"> <img src="https://preview.redd.it/c35diqqcffqd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=337c39c73e6b9aaf531f037ee4149909e2f7a1f5" alt="yeah whatever lets see some real gaming in this sub" title="yeah whatever lets see some real gaming in this sub" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WatercoolerComedian"> /u/WatercoolerComedian </a> <br/> <span><a href="https://i.redd.it/c35diqqcffqd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn3tqv/yeah_whatever_lets_see_some_real_gaming_in_this/">[comments]</a></span> </td></tr></table>
+
+## Love The Genre, But Damn This Gets Old
+ - [https://www.reddit.com/r/gaming/comments/1fn3p08/love_the_genre_but_damn_this_gets_old](https://www.reddit.com/r/gaming/comments/1fn3p08/love_the_genre_but_damn_this_gets_old)
+ - RSS feed: $source
+ - date published: 2024-09-22T21:07:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn3p08/love_the_genre_but_damn_this_gets_old/"> <img src="https://preview.redd.it/745sregeefqd1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=277ccd13c805d380aabee357d0f66983746461bc" alt="Love The Genre, But Damn This Gets Old" title="Love The Genre, But Damn This Gets Old" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Panx"> /u/Panx </a> <br/> <span><a href="https://i.redd.it/745sregeefqd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn3p08/love_the_genre_but_damn_this_gets_old/">[comments]</a></span> </td></tr></table>
+
+## The Plucky Squire is a breeze of fresh air. What a wonderful game!
+ - [https://www.reddit.com/r/gaming/comments/1fn2yiv/the_plucky_squire_is_a_breeze_of_fresh_air_what_a](https://www.reddit.com/r/gaming/comments/1fn2yiv/the_plucky_squire_is_a_breeze_of_fresh_air_what_a)
+ - RSS feed: $source
+ - date published: 2024-09-22T20:35:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn2yiv/the_plucky_squire_is_a_breeze_of_fresh_air_what_a/"> <img src="https://preview.redd.it/h549is2n8fqd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8a7a0d396bcc1a90250f3168934d9ae45f79383" alt="The Plucky Squire is a breeze of fresh air. What a wonderful game!" title="The Plucky Squire is a breeze of fresh air. What a wonderful game!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Raphous"> /u/Raphous </a> <br/> <span><a href="https://i.redd.it/h549is2n8fqd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn2yiv/the_plucky_squire_is_a_breeze_of_fresh_air_what_a/">[comments]</a></span> </td></tr></table>
+
+## Post a game quote. People will give you wrong answers only.
+ - [https://www.reddit.com/r/gaming/comments/1fn1njq/post_a_game_quote_people_will_give_you_wrong](https://www.reddit.com/r/gaming/comments/1fn1njq/post_a_game_quote_people_will_give_you_wrong)
+ - RSS feed: $source
+ - date published: 2024-09-22T19:39:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn1njq/post_a_game_quote_people_will_give_you_wrong/"> <img src="https://preview.redd.it/v7zj5xykyeqd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9c206dcb58e46d25eb399a8a56a4357d771de37" alt="Post a game quote. People will give you wrong answers only. " title="Post a game quote. People will give you wrong answers only. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/carax01"> /u/carax01 </a> <br/> <span><a href="https://i.redd.it/v7zj5xykyeqd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn1njq/post_a_game_quote_people_will_give_you_wrong/">[comments]</a></span> </td></tr></table>
+
+## Pick your preferred grim setting released this September.
+ - [https://www.reddit.com/r/gaming/comments/1fn100k/pick_your_preferred_grim_setting_released_this](https://www.reddit.com/r/gaming/comments/1fn100k/pick_your_preferred_grim_setting_released_this)
+ - RSS feed: $source
+ - date published: 2024-09-22T19:11:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fn100k/pick_your_preferred_grim_setting_released_this/"> <img src="https://preview.redd.it/u9zxt88iteqd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=276740ed86ad957cb47d4d941a17a1bb3c555ed6" alt="Pick your preferred grim setting released this September." title="Pick your preferred grim setting released this September." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spearka"> /u/Spearka </a> <br/> <span><a href="https://i.redd.it/u9zxt88iteqd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fn100k/pick_your_preferred_grim_setting_released_this/">[comments]</a></span> </td></tr></table>
+
+## Need a game recommendation.
+ - [https://www.reddit.com/r/gaming/comments/1fmzssn/need_a_game_recommendation](https://www.reddit.com/r/gaming/comments/1fmzssn/need_a_game_recommendation)
+ - RSS feed: $source
+ - date published: 2024-09-22T18:19:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a ps5 and thoroughly enjoyed RSR2, GoW, cyberpunk, ff16, Horizon. The last of us. I loved ER and Returnal. I&#39;ve played GoT and the assassins creed games. I also liked A Plague Tale and Kena. Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jjfish09"> /u/jjfish09 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmzssn/need_a_game_recommendation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmzssn/need_a_game_recommendation/">[comments]</a></span>
+
+## Wayfinder or Atlas Fallen: Reign of Sand?
+ - [https://www.reddit.com/r/gaming/comments/1fmyx2i/wayfinder_or_atlas_fallen_reign_of_sand](https://www.reddit.com/r/gaming/comments/1fmyx2i/wayfinder_or_atlas_fallen_reign_of_sand)
+ - RSS feed: $source
+ - date published: 2024-09-22T17:41:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Both games have seen a 180 in their development from initial launch and have great recent reviews. I like the RPG elements of both. Thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Djentleman5000"> /u/Djentleman5000 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmyx2i/wayfinder_or_atlas_fallen_reign_of_sand/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmyx2i/wayfinder_or_atlas_fallen_reign_of_sand/">[comments]</a></span>
+
+## Why does 30FPS feel so bad in some games & not as bad in others?
+ - [https://www.reddit.com/r/gaming/comments/1fmybxv/why_does_30fps_feel_so_bad_in_some_games_not_as](https://www.reddit.com/r/gaming/comments/1fmybxv/why_does_30fps_feel_so_bad_in_some_games_not_as)
+ - RSS feed: $source
+ - date published: 2024-09-22T17:14:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve noticed that a lot of games feel absolutely unplayable in 30FPS (imo, wild claim I know lol).<br/> But, some games I&#39;ve played in 30FPS and didn&#39;t even realize or barely noticed that they were.</p> <p>Example:</p> <p><strong>Space Marine 2</strong><br/> Playing in Quality mode on a XBSX feels almost unplayable. There is a very choppy, sloppy camera look and feel. Everything feels massively delayed and laggy and unresponsive.</p> <p>Other games that feel bad in lower fps: Dragons Dogma 2, Nioh 1/2, almost any first person view game. </p> <p><strong>Zelda: BOTW / Tears of the Kingdom</strong><br/> This games also running 30FPS but it feels so much better and of course still not as good as it would be in 60FPS but it definitely is enjoyable and playable. Feels a bit unresponsive but not remotely nearly as bad.</p> <p>There&#39;s other example of more graphically demanding / better looking hi res games that are running 30FPS that feel fin
+
+## I don't really finish games anymore and it makes me sad.
+ - [https://www.reddit.com/r/gaming/comments/1fmy3dz/i_dont_really_finish_games_anymore_and_it_makes](https://www.reddit.com/r/gaming/comments/1fmy3dz/i_dont_really_finish_games_anymore_and_it_makes)
+ - RSS feed: $source
+ - date published: 2024-09-22T17:04:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Lately, I&#39;ve been struggling to finish games. I prefer games that are longer with more content, like RPGs or 4X games you can play for hundreds of hours. However, nowdays I work a bunch on weekdays, then barely have to play before going to bed. On weekends I always plan to play like 8 hours, but then I just end up doing somehting else and play maybe 3-4 hours. Overall, I play maybe 30 hours of a game over two weeks, then I get bored and play something else for a while, then again and again. I noticed that my retention for a game is about two to three weeks, always has been, but back then it used to mean 60 hours of playing the same game, while now it means about 30. </p> <p>I have probably 20 or 30 really good games that I genuinely want to finish but I never do. Since it takes maybe half a year or even more for me to get back to the same game, I usually need to start over since I don&#39;t really remember the story or the strategies, so I just en
+
+## Which game surprised you the most with how good it was?
+ - [https://www.reddit.com/r/gaming/comments/1fmxrlc/which_game_surprised_you_the_most_with_how_good](https://www.reddit.com/r/gaming/comments/1fmxrlc/which_game_surprised_you_the_most_with_how_good)
+ - RSS feed: $source
+ - date published: 2024-09-22T16:49:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmxrlc/which_game_surprised_you_the_most_with_how_good/"> <img src="https://preview.redd.it/zstr44of4eqd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=167e473bf2db66f0c080ef6520b10cd4e04c675e" alt="Which game surprised you the most with how good it was? " title="Which game surprised you the most with how good it was? " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>For me it&#39;s little nightmares, I picked it up for 10 bucks on sale on steam thinking nothing of it. I played it and I was completely blown away, the art, the soundtrack, gameplay, I consider it a masterpiece. Little nightmares turned out to be one of my favourite series. It does a great job at really throwing you into the world. </p> <p>Here&#39;s some gameplay footage of the third one that&#39;s coming out soon. </p> <p><a href="https://youtu.be/ou9THu2g3I4">https://youtu.be/ou9THu2g3I4</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a
+
+## What’s the hardest game to recommend to someone?
+ - [https://www.reddit.com/r/gaming/comments/1fmx9m0/whats_the_hardest_game_to_recommend_to_someone](https://www.reddit.com/r/gaming/comments/1fmx9m0/whats_the_hardest_game_to_recommend_to_someone)
+ - RSS feed: $source
+ - date published: 2024-09-22T16:28:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me it has to be outer wilds, it’s hard to tell someone what’s it’s about you just have to play it to get the full experience out of it and it doesn’t have replay ability. And it could change your life</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gravmels"> /u/gravmels </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmx9m0/whats_the_hardest_game_to_recommend_to_someone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmx9m0/whats_the_hardest_game_to_recommend_to_someone/">[comments]</a></span>
+
+## when games get hard
+ - [https://www.reddit.com/r/gaming/comments/1fmuip2/when_games_get_hard](https://www.reddit.com/r/gaming/comments/1fmuip2/when_games_get_hard)
+ - RSS feed: $source
+ - date published: 2024-09-22T14:26:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmuip2/when_games_get_hard/"> <img src="https://preview.redd.it/i615919redqd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e8a173cc5ee3948ad5d37f1438c897e3e2280d4" alt="when games get hard" title="when games get hard" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/blue4029"> /u/blue4029 </a> <br/> <span><a href="https://i.redd.it/i615919redqd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmuip2/when_games_get_hard/">[comments]</a></span> </td></tr></table>
+
+## Yukuza: Like a Dragon is full of funy minigames
+ - [https://www.reddit.com/r/gaming/comments/1fmu0l9/yukuza_like_a_dragon_is_full_of_funy_minigames](https://www.reddit.com/r/gaming/comments/1fmu0l9/yukuza_like_a_dragon_is_full_of_funy_minigames)
+ - RSS feed: $source
+ - date published: 2024-09-22T14:03:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmu0l9/yukuza_like_a_dragon_is_full_of_funy_minigames/"> <img src="https://preview.redd.it/84z6lcyfadqd1.gif?width=640&amp;crop=smart&amp;s=e93b1d3be67ac1072301d743801cc6d651cb155a" alt="Yukuza: Like a Dragon is full of funy minigames" title="Yukuza: Like a Dragon is full of funy minigames" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nesatzuke"> /u/nesatzuke </a> <br/> <span><a href="https://i.redd.it/84z6lcyfadqd1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmu0l9/yukuza_like_a_dragon_is_full_of_funy_minigames/">[comments]</a></span> </td></tr></table>
+
+## This Counter Strike: Source sniping demotivational poster was never wrong. snipers pretty much ruin every online FPS game. "feel like a player without actually joining the game" it reads.
+ - [https://www.reddit.com/r/gaming/comments/1fms3u3/this_counter_strike_source_sniping_demotivational](https://www.reddit.com/r/gaming/comments/1fms3u3/this_counter_strike_source_sniping_demotivational)
+ - RSS feed: $source
+ - date published: 2024-09-22T12:27:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fms3u3/this_counter_strike_source_sniping_demotivational/"> <img src="https://preview.redd.it/78hqpgbetcqd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8858bace140a5a1bd9b6b2ce3047aad94f256139" alt="This Counter Strike: Source sniping demotivational poster was never wrong. snipers pretty much ruin every online FPS game. &quot;feel like a player without actually joining the game&quot; it reads. " title="This Counter Strike: Source sniping demotivational poster was never wrong. snipers pretty much ruin every online FPS game. &quot;feel like a player without actually joining the game&quot; it reads. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vile35"> /u/Vile35 </a> <br/> <span><a href="https://i.redd.it/78hqpgbetcqd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fms3u3/this_counter_strike_source_sniping_demotivational/">[comments]</a></sp
+
+## is there a way to autoclick with tiny task while doing something else?
+ - [https://www.reddit.com/r/gaming/comments/1fms3h1/is_there_a_way_to_autoclick_with_tiny_task_while](https://www.reddit.com/r/gaming/comments/1fms3h1/is_there_a_way_to_autoclick_with_tiny_task_while)
+ - RSS feed: $source
+ - date published: 2024-09-22T12:27:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>i wanna autoclick in a game but i also want to watch youtube. is there a way, like an app that allows you to chill in another window while tiny task is working for you in a game?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slick_Vec"> /u/Slick_Vec </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fms3h1/is_there_a_way_to_autoclick_with_tiny_task_while/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fms3h1/is_there_a_way_to_autoclick_with_tiny_task_while/">[comments]</a></span>
+
+## What are some good or decent slavjank/eurojank games ?
+ - [https://www.reddit.com/r/gaming/comments/1fmrudn/what_are_some_good_or_decent_slavjankeurojank](https://www.reddit.com/r/gaming/comments/1fmrudn/what_are_some_good_or_decent_slavjankeurojank)
+ - RSS feed: $source
+ - date published: 2024-09-22T12:13:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>So as the title says I am looking for good or decent slavjank or eurojank games. What are slavjank/eurojank games ? Slavjank games are games that were developed in old URSS countrys or Russian and are known for their surreal atmosphere. To be considered a Slavjank game it has to fit a few criteria:</p> <p>Be developed in eastern Europe</p> <p>Take place in a vaguely slavic setting</p> <p>Be harsh and a bit depressing</p> <p>Having some great atmosphere</p> <p>little dash of jank</p> <p>EXamples of slavjank games include: </p> <p>You are empty</p> <p>Kreed</p> <p>chaser</p> <p>necrovision</p> <p>cryostasis</p> <p>Eurojank is the same thing as Slavjank but the games must have been developed in European countries and not in Russia or former Soviet Union countries. So what are some good/decent slavjank or eurojank games?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/miguelrgabriel23"> /u/miguelrgabriel23 </a> <br/>
+
+## Anyone had one of those? I had the version with catching eggs :0
+ - [https://www.reddit.com/r/gaming/comments/1fmo941/anyone_had_one_of_those_i_had_the_version_with](https://www.reddit.com/r/gaming/comments/1fmo941/anyone_had_one_of_those_i_had_the_version_with)
+ - RSS feed: $source
+ - date published: 2024-09-22T08:10:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmo941/anyone_had_one_of_those_i_had_the_version_with/"> <img src="https://preview.redd.it/i4wrpp5tjbqd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe08ae46afdb8342ad529d538a6efdb39878627a" alt="Anyone had one of those? I had the version with catching eggs :0" title="Anyone had one of those? I had the version with catching eggs :0" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RoboCG"> /u/RoboCG </a> <br/> <span><a href="https://i.redd.it/i4wrpp5tjbqd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmo941/anyone_had_one_of_those_i_had_the_version_with/">[comments]</a></span> </td></tr></table>
+
+## What’s a game in your backlog that you know you will probably not ever play and why?(genuine question)
+ - [https://www.reddit.com/r/gaming/comments/1fmmu8u/whats_a_game_in_your_backlog_that_you_know_you](https://www.reddit.com/r/gaming/comments/1fmmu8u/whats_a_game_in_your_backlog_that_you_know_you)
+ - RSS feed: $source
+ - date published: 2024-09-22T06:27:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Bonus: what’s a game in your back log you recently cleared?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kyoya23"> /u/Kyoya23 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmmu8u/whats_a_game_in_your_backlog_that_you_know_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmmu8u/whats_a_game_in_your_backlog_that_you_know_you/">[comments]</a></span>
+
+## One hand friendly game recommendations?
+ - [https://www.reddit.com/r/gaming/comments/1fmmtxx/one_hand_friendly_game_recommendations](https://www.reddit.com/r/gaming/comments/1fmmtxx/one_hand_friendly_game_recommendations)
+ - RSS feed: $source
+ - date published: 2024-09-22T06:26:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fmmtxx/one_hand_friendly_game_recommendations/"> <img src="https://preview.redd.it/746342f81bqd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb9d844a9fe8dfa0ecb415e47addddd5a512c479" alt="One hand friendly game recommendations?" title="One hand friendly game recommendations?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Recently broke the hamate bone in my right(main) hand, i find out if surgery is needed on tuesday. Either way its looking like minimum 8 weeks in a cast. </p> <p>I have ps5, switch, pc and android( phone). I can use my pointer finger and thumb to occasionally push buttons. I primarily am in need og games i can play one handed or that wont need fast precise 2 handed controls. Ive been playing balatro a lot since i broke it. I know i can remap the dualsense for ps5 so im gonna try to swap the face buttons with the Dpad so i can easily use X◻️O triangle. Im up for most genres </p> </div><!-- 
+
+## Simple Questions Sunday!
+ - [https://www.reddit.com/r/gaming/comments/1fmmgdk/simple_questions_sunday](https://www.reddit.com/r/gaming/comments/1fmmgdk/simple_questions_sunday)
+ - RSS feed: $source
+ - date published: 2024-09-22T06:00:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>For those questions that don&#39;t feel worthy of a whole new post.</p> <p>This thread is posted weekly on Sundays (adjustments made as needed).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmmgdk/simple_questions_sunday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmmgdk/simple_questions_sunday/">[comments]</a></span>
+
+## What game has the best introduction?
+ - [https://www.reddit.com/r/gaming/comments/1fml8lz/what_game_has_the_best_introduction](https://www.reddit.com/r/gaming/comments/1fml8lz/what_game_has_the_best_introduction)
+ - RSS feed: $source
+ - date published: 2024-09-22T04:39:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just started replaying Saints Row 4 it starts with jumping onto the nuclear missile to save the world while Aerosmith &quot;Don&#39;t Wanna Miss a Thing&quot; plays.. hard to beat that.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/grantrules"> /u/grantrules </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fml8lz/what_game_has_the_best_introduction/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fml8lz/what_game_has_the_best_introduction/">[comments]</a></span>
+
+## What’s a real-life skill you learned from video games?
+ - [https://www.reddit.com/r/gaming/comments/1fmi1ri/whats_a_reallife_skill_you_learned_from_video](https://www.reddit.com/r/gaming/comments/1fmi1ri/whats_a_reallife_skill_you_learned_from_video)
+ - RSS feed: $source
+ - date published: 2024-09-22T01:28:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Mine would be learning poker from Far Cry 3 (I’m sure many learned poker from Red Dead 2 as well). Also learned a lot about hunting from Way of the Hunter. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SlimSheaT"> /u/SlimSheaT </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fmi1ri/whats_a_reallife_skill_you_learned_from_video/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fmi1ri/whats_a_reallife_skill_you_learned_from_video/">[comments]</a></span>
+
