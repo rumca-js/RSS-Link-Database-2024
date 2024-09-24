@@ -1,0 +1,67 @@
+# Source:Wargamer, URL:https://www.wargamer.com/mainrss.xml, language:en-US
+
+## The best WW1 games on PC in 2024
+ - [https://www.wargamer.com/best-ww1-games](https://www.wargamer.com/best-ww1-games)
+ - RSS feed: $source
+ - date published: 2024-09-23T16:56:40.075915+00:00
+
+
+									<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/01/best-ww1-games-guide.jpg" class="webfeedsFeaturedVisual" alt="The best WW1 games on PC in 2024" title="The best WW1 games on PC in 2024">
+								<p><b>What are the best WW1 games in 2024? </b><span style="font-weight: 400;">It often seems that World War One games have gone out of fashion; the conflict's slow, static grinding warfare, combined with its legacy of haunting sadness, make it a challenging setting. That said, we’ve played some <em>excellent</em> games about the 1914-18 war - and this guide tracks our favorites, from old-school strategic wargames to newer, multiplayer action titles.</span></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/best-ww1-games">The best WW1 games on PC in 2024</a>
+				</div>
+				MORE FROM WARGAMER: <a href="http://Wargamer.2.vu/WGWOT">Play World of Tanks for free</a>, <a href="https://www.wargamer.com/world-of-tanks/mods">W
+
+## DnD fan cooks up a new, accessible character sheet with retro vibes
+ - [https://www.wargamer.com/dnd/fan-retro-character-sheet](https://www.wargamer.com/dnd/fan-retro-character-sheet)
+ - RSS feed: $source
+ - date published: 2024-09-23T15:48:01.807038+00:00
+
+
+									<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/09/dnd-fan-retro-character-sheet.jpg" class="webfeedsFeaturedVisual" alt="DnD fan cooks up a new, accessible character sheet with retro vibes" title="DnD fan cooks up a new, accessible character sheet with retro vibes">
+								<p>One creative <strong>Dungeons and Dragons</strong> fan has created a new character sheet, and it strikes a strong balance between accessibility and <em>serious</em> style. Graphic designer Tobias Dirnberger chose a vibrant, 70s-style aesthetic for his version of the fifth edition sheet, telling Wargamer he wanted it to “look different than any other character sheet out there”. Dirnberger also shared pictures of his creation via Reddit on September 22.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/fan-retro-character-sheet">DnD fan cooks up a new, accessible character sheet with retro vibes</a>
+				</div>
+				MORE FROM WARGAMER: <
+
+## Next big Warhammer reveal stream confirmed, with news for five games
+ - [https://www.wargamer.com/warhammer-day-preview-2024](https://www.wargamer.com/warhammer-day-preview-2024)
+ - RSS feed: $source
+ - date published: 2024-09-23T15:47:59.564134+00:00
+
+
+									<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/09/warhammer-day-previews-2024.jpg" class="webfeedsFeaturedVisual" alt="Next big Warhammer reveal stream confirmed, with news for five games" title="Next big Warhammer reveal stream confirmed, with news for five games">
+								<p>Games Workshop has promised big online previews for <strong>Warhammer 40k, Warhammer Age of Sigmar</strong>, Kill Team, Legions Imperialis, and Warhammer Underworlds on this year’s ‘Warhammer Day’, October 5. The powers of Chaos factions will apparently have a big part to play in the reveals.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/warhammer-day-preview-2024">Next big Warhammer reveal stream confirmed, with news for five games</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/warhammer-40k/starter-set">How to play Warhammer 40k </a>, <a href="https://www.wargamer.com/warhammer-40k/10th-edition">All about 
+
+## Legacy play sparks a 690% price spike for fiery MTG card
+ - [https://www.wargamer.com/magic-the-gathering/pyrogoyf-price-spike](https://www.wargamer.com/magic-the-gathering/pyrogoyf-price-spike)
+ - RSS feed: $source
+ - date published: 2024-09-23T13:29:51.450746+00:00
+
+
+									<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/09/mtg-card-pyrogoyf.jpg" class="webfeedsFeaturedVisual" alt="Legacy play sparks a 690% price spike for fiery MTG card" title="Legacy play sparks a 690% price spike for fiery MTG card">
+								<p>Pyrogoyf, a red <strong>Magic the Gathering</strong> creature card that can burn any target when it enters the battlefield and rewards you for filling your graveyard with different card types, has shot up in price from $1.20 to $9.50 in the space of a week. Demand seems to be driven by the Legacy format, where the Pyrogoyf sees play in several red strategies.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/magic-the-gathering/pyrogoyf-price-spike">Legacy play sparks a 690% price spike for fiery MTG card</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/magic-the-gathering/mtg-sets-in-order">All MTG sets in order</a>, <a href="https://www.wargamer
+
+## Warhammer reveals its new Lord of the Rings starter set
+ - [https://www.wargamer.com/middle-earth-strategy-battle-game/war-of-the-rohirrim-battle-of-edoras](https://www.wargamer.com/middle-earth-strategy-battle-game/war-of-the-rohirrim-battle-of-edoras)
+ - RSS feed: $source
+ - date published: 2024-09-23T11:58:03.460521+00:00
+
+
+									<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/09/middle-earth-strategy-battle-game-war-of-the-rohirrim.jpg" class="webfeedsFeaturedVisual" alt="Warhammer reveals its new Lord of the Rings starter set" title="Warhammer reveals its new Lord of the Rings starter set">
+								<p><strong>Warhammer</strong> manufacturer Games Workshop has revealed the starter set for the new edition of the Middle-earth Strategy Battle Game, its officially licensed wargame set in Tolkien’s Middle-earth. The upcoming ‘The War of the Rohirrim - Battle of Edoras’ box set pits the noble horsemen of Rohan against the marauding Dunlending hill tribes, and ties in with an upcoming new LotR anime.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/middle-earth-strategy-battle-game/war-of-the-rohirrim-battle-of-edoras">Warhammer reveals its new Lord of the Rings starter set</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer
+
