@@ -1,0 +1,761 @@
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## The White Collar Apocalypse Is Nigh
+ - [https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh](https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh)
+ - RSS feed: $source
+ - date published: 2024-09-24T22:17:02+00:00
+
+
+<p>Article URL: <a href="https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh/">https://scott-fryxell.github.io/blog/the-white-collar-apocalypse-is-nigh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41641560">https://news.ycombinator.com/item?id=41641560</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
+
+
+## Hacker plants false memories in ChatGPT to steal user data in perpetuity
+ - [https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel](https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel)
+ - RSS feed: $source
+ - date published: 2024-09-24T22:13:03+00:00
+
+
+<p>Article URL: <a href="https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/">https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41641522">https://news.ycombinator.com/item?id=41641522</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+
+## Ethernet in 17 lines of Spade [video]
+ - [https://www.youtube.com/watch?v=0a8P0NLYPWA](https://www.youtube.com/watch?v=0a8P0NLYPWA)
+ - RSS feed: $source
+ - date published: 2024-09-24T22:10:27+00:00
+
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=0a8P0NLYPWA">https://www.youtube.com/watch?v=0a8P0NLYPWA</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41641495">https://news.ycombinator.com/item?id=41641495</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+
+## Why Most Published Research Findings Are False
+ - [https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+ - RSS feed: $source
+ - date published: 2024-09-24T21:45:50+00:00
+
+
+<p>Article URL: <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124">https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41641274">https://news.ycombinator.com/item?id=41641274</a></p>
+<p>Points: 36</p>
+<p># Comments: 16</p>
+
+
+## Missouri is about to execute a man even the prosecution believes is innocent
+ - [https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html](https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T21:12:10+00:00
+
+
+<p>Article URL: <a href="https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html">https://www.cnn.com/2024/09/24/us/marcellus-williams-scheduled-execution-date/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640953">https://news.ycombinator.com/item?id=41640953</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
+
+
+## $1B Solar and Battery Storage Project Breaks Ground in Utah
+ - [https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah](https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah)
+ - RSS feed: $source
+ - date published: 2024-09-24T21:10:59+00:00
+
+
+<p>Article URL: <a href="https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/">https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640941">https://news.ycombinator.com/item?id=41640941</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+
+
+## Google Cache Is Fully Dead
+ - [https://www.seroundtable.com/google-cache-dead-38112.html](https://www.seroundtable.com/google-cache-dead-38112.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T20:59:53+00:00
+
+
+<p>Article URL: <a href="https://www.seroundtable.com/google-cache-dead-38112.html">https://www.seroundtable.com/google-cache-dead-38112.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640845">https://news.ycombinator.com/item?id=41640845</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+
+## On Impactful AI Research
+ - [https://github.com/okhat/blog/blob/main/2024.09.impact.md](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
+ - RSS feed: $source
+ - date published: 2024-09-24T20:56:29+00:00
+
+
+<p>Article URL: <a href="https://github.com/okhat/blog/blob/main/2024.09.impact.md">https://github.com/okhat/blog/blob/main/2024.09.impact.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640812">https://news.ycombinator.com/item?id=41640812</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+
+## Galilean Moons and Determination of Longitude
+ - [https://en.wikipedia.org/wiki/Galilean_moons](https://en.wikipedia.org/wiki/Galilean_moons)
+ - RSS feed: $source
+ - date published: 2024-09-24T20:48:57+00:00
+
+
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Galilean_moons">https://en.wikipedia.org/wiki/Galilean_moons</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640760">https://news.ycombinator.com/item?id=41640760</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+
+## My Camera Will Never Overheat Again [video]
+ - [https://www.youtube.com/watch?v=IpzBdVeJ_jo](https://www.youtube.com/watch?v=IpzBdVeJ_jo)
+ - RSS feed: $source
+ - date published: 2024-09-24T20:45:13+00:00
+
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=IpzBdVeJ_jo">https://www.youtube.com/watch?v=IpzBdVeJ_jo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640734">https://news.ycombinator.com/item?id=41640734</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
+
+
+## Mental-1, a Brainfuck CPU
+ - [https://hackaday.io/project/4237-mental-1-a-brainfuck-cpu](https://hackaday.io/project/4237-mental-1-a-brainfuck-cpu)
+ - RSS feed: $source
+ - date published: 2024-09-24T20:40:37+00:00
+
+
+<p>Article URL: <a href="https://hackaday.io/project/4237-mental-1-a-brainfuck-cpu">https://hackaday.io/project/4237-mental-1-a-brainfuck-cpu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640690">https://news.ycombinator.com/item?id=41640690</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+
+## Star FTX Witness Caroline Ellison Sentenced to Two Years in Prison
+ - [https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84](https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84)
+ - RSS feed: $source
+ - date published: 2024-09-24T20:16:59+00:00
+
+
+<p>Article URL: <a href="https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84">https://www.wsj.com/finance/currencies/ftx-trial-caroline-ellison-sentencing-cc104a84</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640458">https://news.ycombinator.com/item?id=41640458</a></p>
+<p>Points: 26</p>
+<p># Comments: 0</p>
+
+
+## Rotation-Based Compression
+ - [https://www.winstoncooke.com/blog/rotation-based-compression](https://www.winstoncooke.com/blog/rotation-based-compression)
+ - RSS feed: $source
+ - date published: 2024-09-24T20:10:08+00:00
+
+
+<p>Article URL: <a href="https://www.winstoncooke.com/blog/rotation-based-compression">https://www.winstoncooke.com/blog/rotation-based-compression</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640388">https://news.ycombinator.com/item?id=41640388</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+
+## Beyond the route: Introducing granular MTA bus speed data
+ - [https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data](https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data)
+ - RSS feed: $source
+ - date published: 2024-09-24T19:26:03+00:00
+
+
+<p>Article URL: <a href="https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data">https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41640005">https://news.ycombinator.com/item?id=41640005</a></p>
+<p>Points: 27</p>
+<p># Comments: 2</p>
+
+
+## Death of the Department Store
+ - [https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs](https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs)
+ - RSS feed: $source
+ - date published: 2024-09-24T19:23:41+00:00
+
+
+<p>Article URL: <a href="https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs">https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41639980">https://news.ycombinator.com/item?id=41639980</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
+
+
+## Intel's Core Ultra 2 Chip Posts Nearly 24-Hour Battery Life in Lunar Lake
+ - [https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24](https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24)
+ - RSS feed: $source
+ - date published: 2024-09-24T19:03:11+00:00
+
+
+<p>Article URL: <a href="https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24">https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41639794">https://news.ycombinator.com/item?id=41639794</a></p>
+<p>Points: 12</p>
+<p># Comments: 8</p>
+
+
+## Are there individual protons and neutrons in a nucleus?
+ - [https://physics.stackexchange.com/questions/828872/are-there-individual-protons-and-neutrons-in-a-nucleus](https://physics.stackexchange.com/questions/828872/are-there-individual-protons-and-neutrons-in-a-nucleus)
+ - RSS feed: $source
+ - date published: 2024-09-24T18:42:47+00:00
+
+
+<p>Article URL: <a href="https://physics.stackexchange.com/questions/828872/are-there-individual-protons-and-neutrons-in-a-nucleus">https://physics.stackexchange.com/questions/828872/are-there-individual-protons-and-neutrons-in-a-nucleus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41639640">https://news.ycombinator.com/item?id=41639640</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+
+## DOJ accuses Visa of debit network monopoly, impacts price of 'nearly everything'
+ - [https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html](https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T18:42:08+00:00
+
+
+<p>Article URL: <a href="https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html">https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41639635">https://news.ycombinator.com/item?id=41639635</a></p>
+<p>Points: 27</p>
+<p># Comments: 0</p>
+
+
+## "Creounity Time Machine", the universal date converter for coin collectors
+ - [https://creounity.com/apps/time_machine/index.php?go=&lang=en](https://creounity.com/apps/time_machine/index.php?go=&lang=en)
+ - RSS feed: $source
+ - date published: 2024-09-24T18:36:22+00:00
+
+
+<p>Article URL: <a href="https://creounity.com/apps/time_machine/index.php?go=&lang=en">https://creounity.com/apps/time_machine/index.php?go=&lang=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41639589">https://news.ycombinator.com/item?id=41639589</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+
+## 45 years ago CompuServe connected the world before the World Wide Web
+ - [https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web](https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web)
+ - RSS feed: $source
+ - date published: 2024-09-24T17:27:49+00:00
+
+
+<p>Article URL: <a href="https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web">https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41638885">https://news.ycombinator.com/item?id=41638885</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
+
+
+## Euripedes Unbound
+ - [https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound](https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound)
+ - RSS feed: $source
+ - date published: 2024-09-24T17:14:30+00:00
+
+
+<p>Article URL: <a href="https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound">https://www.lrb.co.uk/the-paper/v46/n18/robert-cioffi/euripides-unbound</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41638738">https://news.ycombinator.com/item?id=41638738</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+
+## GSoC'24: Differentiable Logic for Interactive Systems and Generative Music
+ - [https://ijc8.me/2024/08/26/gsoc-difflogic](https://ijc8.me/2024/08/26/gsoc-difflogic)
+ - RSS feed: $source
+ - date published: 2024-09-24T17:02:24+00:00
+
+
+<p>Article URL: <a href="https://ijc8.me/2024/08/26/gsoc-difflogic/">https://ijc8.me/2024/08/26/gsoc-difflogic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41638581">https://news.ycombinator.com/item?id=41638581</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+
+## Launch HN: Modern Realty (YC S24) – AI Realtor for Home Buyers
+ - [https://news.ycombinator.com/item?id=41638199](https://news.ycombinator.com/item?id=41638199)
+ - RSS feed: $source
+ - date published: 2024-09-24T16:23:35+00:00
+
+
+<p>Hey HN! We're Raymond Xu and Raffi Isanians, the team behind Modern Realty (<a href="https://modernrealty.io">https://modernrealty.io</a>). Modern Realty is an AI-powered real estate buying experience that helps you purchase homes without relying on a traditional realtor. Demo: <a href="https://youtu.be/VhsWSVn5blA" rel="nofollow">https://youtu.be/VhsWSVn5blA</a><p>Our mission at Modern Realty is to make home buying easier, faster, and far more enjoyable. We interpret real estate data, giving you an edge on other home buyers.<p>Since 2024, there has been a growing need for innovative solutions in real estate, especially with tools like Zillow making it easier than ever for buyers to find the right house at the right price. However, the process still requires an agent, even though buyers are doing most of the work themselves. Modern Realty changes this by offering an AI self-service solution.<p>Raymond and Raffi came face-to-face with this technology's potential while working on AI
+
+## Natural Gas Company Said It Was Going Green but Still Sells as Much Fossil Fuel
+ - [https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel](https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel)
+ - RSS feed: $source
+ - date published: 2024-09-24T16:15:41+00:00
+
+
+<p>Article URL: <a href="https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel">https://www.propublica.org/article/nw-natural-gas-oregon-fossil-fuel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41638137">https://news.ycombinator.com/item?id=41638137</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+
+## Google wins challenge against $1.7B EU competition fine
+ - [https://www.cnn.com/2024/09/18/tech/google-wins-eu-antitrust-fine/index.html](https://www.cnn.com/2024/09/18/tech/google-wins-eu-antitrust-fine/index.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T16:13:09+00:00
+
+
+<p>Article URL: <a href="https://www.cnn.com/2024/09/18/tech/google-wins-eu-antitrust-fine/index.html">https://www.cnn.com/2024/09/18/tech/google-wins-eu-antitrust-fine/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41638114">https://news.ycombinator.com/item?id=41638114</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+
+## Two new Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more
+ - [https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more)
+ - RSS feed: $source
+ - date published: 2024-09-24T16:08:38+00:00
+
+
+<p>Article URL: <a href="https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/">https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41638068">https://news.ycombinator.com/item?id=41638068</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+
+## Intel Xeon 6900P Reasserts Intel Server Leadership
+ - [https://www.servethehome.com/welcome-back-intel-xeon-6900p-reasserts-intel-server-leadership](https://www.servethehome.com/welcome-back-intel-xeon-6900p-reasserts-intel-server-leadership)
+ - RSS feed: $source
+ - date published: 2024-09-24T15:33:46+00:00
+
+
+<p>Article URL: <a href="https://www.servethehome.com/welcome-back-intel-xeon-6900p-reasserts-intel-server-leadership/">https://www.servethehome.com/welcome-back-intel-xeon-6900p-reasserts-intel-server-leadership/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41637658">https://news.ycombinator.com/item?id=41637658</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
+
+
+## Show HN: Velvet – Store OpenAI requests in your own DB
+ - [https://www.usevelvet.com](https://www.usevelvet.com)
+ - RSS feed: $source
+ - date published: 2024-09-24T15:25:52+00:00
+
+
+<p>Hey HN! We’re Emma and Chris, founders of Velvet (<a href="https://www.usevelvet.com" rel="nofollow">https://www.usevelvet.com</a>).<p>Velvet proxies OpenAI calls and stores the requests and responses in your PostgreSQL database. That way, you can analyze logs with SQL (instead of a clunky UI). You can also set headers to add caching and metadata (for analysis).<p>Backstory: We started by building some more general AI data tools (like a text-to-SQL editor). We were frustrated by the lack of basic LLM infrastructure, so ended up pivoting to focus on the tooling we wanted. So many existing apps, like Helicone, were hard to use as power users. We just wanted a database.<p>Scale: We’ve already warehoused 50m requests for customers, and have optimized the platform for scale and latency. We’ve built the proxy on Cloudflare Workers, and latency is nominal. We’ve built some “yak shaving” features that were really complex such as decomposing OpenAI Batch API requests so you can track each 
+
+## Winamp Legacy player source code is now open
+ - [https://github.com/WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
+ - RSS feed: $source
+ - date published: 2024-09-24T14:27:09+00:00
+
+
+<p>Article URL: <a href="https://github.com/WinampDesktop/winamp">https://github.com/WinampDesktop/winamp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41636804">https://news.ycombinator.com/item?id=41636804</a></p>
+<p>Points: 96</p>
+<p># Comments: 33</p>
+
+
+## Evan Prodromou Launches the Social Web Foundation
+ - [https://wedistribute.org/2024/09/social-web-foundation-launch](https://wedistribute.org/2024/09/social-web-foundation-launch)
+ - RSS feed: $source
+ - date published: 2024-09-24T13:55:30+00:00
+
+
+<p>Article URL: <a href="https://wedistribute.org/2024/09/social-web-foundation-launch/">https://wedistribute.org/2024/09/social-web-foundation-launch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41636491">https://news.ycombinator.com/item?id=41636491</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+
+## Blue Origin has ignited an orbital rocket stage
+ - [https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket](https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket)
+ - RSS feed: $source
+ - date published: 2024-09-24T13:27:08+00:00
+
+
+<p>Article URL: <a href="https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/">https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41636226">https://news.ycombinator.com/item?id=41636226</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+
+## OpenBSD now enforcing no invalid NUL characters in shell scripts
+ - [https://www.undeadly.org/cgi?action=article;sid=20240924105732](https://www.undeadly.org/cgi?action=article;sid=20240924105732)
+ - RSS feed: $source
+ - date published: 2024-09-24T13:06:35+00:00
+
+
+<p>Article URL: <a href="https://www.undeadly.org/cgi?action=article;sid=20240924105732">https://www.undeadly.org/cgi?action=article;sid=20240924105732</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41636070">https://news.ycombinator.com/item?id=41636070</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
+
+
+## Halide rejected from App Store because it doesn't explain why it takes photos
+ - [https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos](https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos)
+ - RSS feed: $source
+ - date published: 2024-09-24T13:02:30+00:00
+
+
+<p>Article URL: <a href="https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/">https://9to5mac.com/2024/09/24/halide-rejected-from-the-app-store-because-it-doesnt-explain-why-the-camera-takes-photos/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41636038">https://news.ycombinator.com/item?id=41636038</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+
+## Several people detained in Switzerland over death in a 'suicide capsule'
+ - [https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0](https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0)
+ - RSS feed: $source
+ - date published: 2024-09-24T12:55:12+00:00
+
+
+<p>Article URL: <a href="https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0">https://apnews.com/article/switzerland-suicide-capsule-people-detained-06d38d708d8b8b4b771bb2df047adfd0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635991">https://news.ycombinator.com/item?id=41635991</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
+
+
+## Giving T cells extra batteries supercharges them against cancer
+ - [https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges](https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges)
+ - RSS feed: $source
+ - date published: 2024-09-24T12:51:35+00:00
+
+
+<p>Article URL: <a href="https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/">https://newatlas.com/cancer/cancer-immunotherapy-t-cells-extra-batteries-supercharges/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635962">https://news.ycombinator.com/item?id=41635962</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+
+## Show HN: Oodle – serverless, fully-managed, drop-in replacement for Prometheus
+ - [https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system](https://blog.oodle.ai/building-a-high-performance-low-cost-metrics-observability-system)
+ - RSS feed: $source
+ - date published: 2024-09-24T12:39:39+00:00
+
+
+<p>Hello HN!<p>My co-founder, Vijay and I are excited to open up Oodle for everyone.<p>We used to be observability geeks at Rubrik. Our metrics bills grew like 20x over 4 years. We tried to control spend by getting better visibility, blocking high cardinality labels like pod_id, cluster_id, and customer_id. But that made debugging issues complicated. App engineers hated blocking metrics, and blocking others' code reviews was not fun for platform engineers either! Migrations (and lock-ins) were very painful, the first migration from Influx to Signalfx took 6+ months and the second migration from Splunk took over a year.<p>Oodle is taking a new approach to building a cost-efficient serverless metrics observability platform. It delivers fast performance at high scale. We leverage custom storage format on S3, tuned for metrics data. Queries are serverless. The hard part is how to achieve fast performance while optimizing for costs (every cpu cycle, storage/memory byte counts!). We've wri
+
+## Passkey Privacy Issues
+ - [https://lapcatsoftware.com/articles/2024/8/8.html](https://lapcatsoftware.com/articles/2024/8/8.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T12:16:35+00:00
+
+
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2024/8/8.html">https://lapcatsoftware.com/articles/2024/8/8.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635700">https://news.ycombinator.com/item?id=41635700</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+
+## Show HN: OpenFreeMap – Open-Source Map Hosting
+ - [https://openfreemap.org](https://openfreemap.org)
+ - RSS feed: $source
+ - date published: 2024-09-24T11:59:22+00:00
+
+
+<p>Hi HN,<p>After 9 years of running my own OpenStreetMap tile server infra for MapHub (<a href="https://news.ycombinator.com/item?id=11389989">https://news.ycombinator.com/item?id=11389989</a>), I've open-sourced it and launched OpenFreeMap.<p>You can either self-host or use our public instance. Everything is open-source, including the full production setup — there’s no 'open-core' model here. Check out the repo (<a href="https://github.com/hyperknot/openfreemap">https://github.com/hyperknot/openfreemap</a>). The map data comes from OpenStreetMap.<p>I also provide weekly full planet downloads both in Btrfs and MBTiles formats.<p>I aim to cover the running costs of the public instance through donations.<p>Looking forwards for your feedback.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635592">https://news.ycombinator.com/item?id=41635592</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
+
+
+## Move Fast and Abandon Things
+ - [https://engineersneedart.com/blog/movefast/movefast.html](https://engineersneedart.com/blog/movefast/movefast.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T11:58:02+00:00
+
+
+<p>Article URL: <a href="https://engineersneedart.com/blog/movefast/movefast.html">https://engineersneedart.com/blog/movefast/movefast.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635583">https://news.ycombinator.com/item?id=41635583</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+
+## Jetstream: Shrinking the AT Protocol Firehose by >99%
+ - [https://jazco.dev/2024/09/24/jetstream](https://jazco.dev/2024/09/24/jetstream)
+ - RSS feed: $source
+ - date published: 2024-09-24T10:50:10+00:00
+
+
+<p>Article URL: <a href="https://jazco.dev/2024/09/24/jetstream/">https://jazco.dev/2024/09/24/jetstream/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635176">https://news.ycombinator.com/item?id=41635176</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+
+## Fully documented source code for Lander on the Acorn Archimedes
+ - [https://lander.bbcelite.com](https://lander.bbcelite.com)
+ - RSS feed: $source
+ - date published: 2024-09-24T10:47:23+00:00
+
+
+<p>Article URL: <a href="https://lander.bbcelite.com/">https://lander.bbcelite.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635166">https://news.ycombinator.com/item?id=41635166</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+
+## Show HN: An expression parser supporting multiple types
+ - [https://github.com/torrentg/expr](https://github.com/torrentg/expr)
+ - RSS feed: $source
+ - date published: 2024-09-24T10:30:53+00:00
+
+
+<p>This C library is part of a main project aimed at providing a reactive key-value (KV) database. The data is typed (numbers, strings, dates, or booleans) and can include formulas with references to other entries. Clients connected to this database receive a real-time data stream with updates to the subscribed keys, allowing them to react to changes and their dependencies. Essentially, it’s like building a distributed Excel, where data and formulas dynamically update across the system.<p>I couldn’t find any libraries that offered the full set of features I needed for evaluating expressions, so I decided to create my own.<p>This sub-project is open-source and available on GitHub. Feedback is welcome!</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41635088">https://news.ycombinator.com/item?id=41635088</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+
+## Show HN: JSON For You – Visualize JSON in graph or table views
+ - [https://github.com/loggerhead/json4u](https://github.com/loggerhead/json4u)
+ - RSS feed: $source
+ - date published: 2024-09-24T08:20:38+00:00
+
+
+<p>After two years of improvement, I think it's time to share it with you all. Here’s a quick overview:<p>- Common features include validation, formatting, minification, and more.<p>- Visualize JSON in a graph or table view.<p>- Structured comparison with fallback to text comparison.<p>- Navigate though JSON using JSON pointer.<p>- Supports jq.<p>Would love to hear the community's questions, thoughts and comments!</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41634356">https://news.ycombinator.com/item?id=41634356</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+
+## Radioactive Tape Dispenser (1970s)
+ - [https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html](https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T08:05:52+00:00
+
+
+<p>Article URL: <a href="https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html">https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41634268">https://news.ycombinator.com/item?id=41634268</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
+
+## Excel spreadsheet caused network equipment's physical failure
+ - [https://twitter.com/lauriewired/status/1838256923428438345](https://twitter.com/lauriewired/status/1838256923428438345)
+ - RSS feed: $source
+ - date published: 2024-09-24T07:42:08+00:00
+
+
+<p>Article URL: <a href="https://twitter.com/lauriewired/status/1838256923428438345">https://twitter.com/lauriewired/status/1838256923428438345</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41634119">https://news.ycombinator.com/item?id=41634119</a></p>
+<p>Points: 13</p>
+<p># Comments: 9</p>
+
+
+## Linux boots in 4,76 days on Intel 4004
+ - [https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu](https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu)
+ - RSS feed: $source
+ - date published: 2024-09-24T07:28:53+00:00
+
+
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/">https://arstechnica.com/gadgets/2024/09/hacker-boots-linux-on-intels-first-ever-cpu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41634010">https://news.ycombinator.com/item?id=41634010</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+
+## Carpentopod, a 12-legged walking wooden table that can serve drinks or snacks
+ - [https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024](https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024)
+ - RSS feed: $source
+ - date published: 2024-09-24T07:28:29+00:00
+
+
+<p>Article URL: <a href="https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/">https://www.designboom.com/technology/carpentopod-12-legged-walking-wooden-table-giliam-de-carpentier-09-20-2024/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41634007">https://news.ycombinator.com/item?id=41634007</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+
+## Matrix.org Breaks Federation: Users Can't Decrypt Messages from Other Servers
+ - [https://github.com/matrix-org/matrix.org/issues/2483](https://github.com/matrix-org/matrix.org/issues/2483)
+ - RSS feed: $source
+ - date published: 2024-09-24T07:12:45+00:00
+
+
+<p>Article URL: <a href="https://github.com/matrix-org/matrix.org/issues/2483">https://github.com/matrix-org/matrix.org/issues/2483</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633904">https://news.ycombinator.com/item?id=41633904</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+
+## GUI Examples – Rye Language
+ - [https://ryelang.org/cookbook/rye-fyne/examples](https://ryelang.org/cookbook/rye-fyne/examples)
+ - RSS feed: $source
+ - date published: 2024-09-24T07:12:19+00:00
+
+
+<p>Article URL: <a href="https://ryelang.org/cookbook/rye-fyne/examples/">https://ryelang.org/cookbook/rye-fyne/examples/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633899">https://news.ycombinator.com/item?id=41633899</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+
+## 3D-Stacked CMOS Takes Moore's Law to New Heights
+ - [https://spectrum.ieee.org/3d-cmos](https://spectrum.ieee.org/3d-cmos)
+ - RSS feed: $source
+ - date published: 2024-09-24T07:10:11+00:00
+
+
+<p>Article URL: <a href="https://spectrum.ieee.org/3d-cmos">https://spectrum.ieee.org/3d-cmos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633882">https://news.ycombinator.com/item?id=41633882</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+
+## It's Now Officially Illegal to Use AI to Impersonate a Human Actor in Hollywood
+ - [https://futurism.com/the-byte/california-illegal-ai-impersonate-actor](https://futurism.com/the-byte/california-illegal-ai-impersonate-actor)
+ - RSS feed: $source
+ - date published: 2024-09-24T06:18:13+00:00
+
+
+<p>Article URL: <a href="https://futurism.com/the-byte/california-illegal-ai-impersonate-actor">https://futurism.com/the-byte/california-illegal-ai-impersonate-actor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633574">https://news.ycombinator.com/item?id=41633574</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+
+## Working Lego Turing Machine
+ - [https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
+ - RSS feed: $source
+ - date published: 2024-09-24T06:12:45+00:00
+
+
+<p>Article URL: <a href="https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7">https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633551">https://news.ycombinator.com/item?id=41633551</a></p>
+<p>Points: 28</p>
+<p># Comments: 0</p>
+
+
+## Colocation: Non-Clown Hosting
+ - [http://rachelbythebay.com/w/2024/09/23/colo](http://rachelbythebay.com/w/2024/09/23/colo)
+ - RSS feed: $source
+ - date published: 2024-09-24T05:39:27+00:00
+
+
+<p>Article URL: <a href="http://rachelbythebay.com/w/2024/09/23/colo/">http://rachelbythebay.com/w/2024/09/23/colo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633400">https://news.ycombinator.com/item?id=41633400</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+
+## An AI Event Hired John Mulaney to Do a Comedy Set and He Brutally Roasted Them O
+ - [https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked](https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked)
+ - RSS feed: $source
+ - date published: 2024-09-24T05:13:04+00:00
+
+
+<p>Article URL: <a href="https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked">https://futurism.com/the-byte/salesforce-ai-john-mulaney-mocked</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633268">https://news.ycombinator.com/item?id=41633268</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+
+## Maker Pipe – Structural Pipe Fittings for DIY Builders
+ - [https://makerpipe.com](https://makerpipe.com)
+ - RSS feed: $source
+ - date published: 2024-09-24T04:43:30+00:00
+
+
+<p>Article URL: <a href="https://makerpipe.com/">https://makerpipe.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41633155">https://news.ycombinator.com/item?id=41633155</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+
+## EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer
+ - [https://haidog-yaqub.github.io/EzAudio-Page](https://haidog-yaqub.github.io/EzAudio-Page)
+ - RSS feed: $source
+ - date published: 2024-09-24T03:16:10+00:00
+
+
+<p>Article URL: <a href="https://haidog-yaqub.github.io/EzAudio-Page/">https://haidog-yaqub.github.io/EzAudio-Page/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41632823">https://news.ycombinator.com/item?id=41632823</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+
+## Tracy: A real time, nanosecond resolution frame profiler
+ - [https://github.com/wolfpld/tracy](https://github.com/wolfpld/tracy)
+ - RSS feed: $source
+ - date published: 2024-09-24T02:57:47+00:00
+
+
+<p>Article URL: <a href="https://github.com/wolfpld/tracy">https://github.com/wolfpld/tracy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41632719">https://news.ycombinator.com/item?id=41632719</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+
+## Active Ball Joint Mechanism with Three-DoF Based on Spherical Gear Meshings
+ - [https://ieeexplore.ieee.org/document/9415699](https://ieeexplore.ieee.org/document/9415699)
+ - RSS feed: $source
+ - date published: 2024-09-24T02:07:31+00:00
+
+
+<p>Article URL: <a href="https://ieeexplore.ieee.org/document/9415699">https://ieeexplore.ieee.org/document/9415699</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41632469">https://news.ycombinator.com/item?id=41632469</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+
+## How 12,000 Tonnes of Dumped Orange Peel Transformed an Ecological Desert
+ - [https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
+ - RSS feed: $source
+ - date published: 2024-09-24T02:05:46+00:00
+
+
+<p>Article URL: <a href="https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined">https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41632460">https://news.ycombinator.com/item?id=41632460</a></p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
+
+
+## Why is F# code so robust and reliable?
+ - [https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable](https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable)
+ - RSS feed: $source
+ - date published: 2024-09-24T00:47:46+00:00
+
+
+<p>Article URL: <a href="https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/">https://devblogs.microsoft.com/dotnet/why-is-fsharp-code-so-robust-and-reliable/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41632048">https://news.ycombinator.com/item?id=41632048</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+
+## "Traffic Violence": The Grifters Go After Cars
+ - [https://albertcory50.substack.com/p/traffic-violence-the-grifters-go](https://albertcory50.substack.com/p/traffic-violence-the-grifters-go)
+ - RSS feed: $source
+ - date published: 2024-09-24T00:38:12+00:00
+
+
+<p>Article URL: <a href="https://albertcory50.substack.com/p/traffic-violence-the-grifters-go">https://albertcory50.substack.com/p/traffic-violence-the-grifters-go</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41631995">https://news.ycombinator.com/item?id=41631995</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+
+## What Is Io_uring?
+ - [https://matklad.github.io/2024/09/32/-what-is-io-uring.html](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
+ - RSS feed: $source
+ - date published: 2024-09-24T00:35:41+00:00
+
+
+<p>Article URL: <a href="https://matklad.github.io/2024/09/32/-what-is-io-uring.html">https://matklad.github.io/2024/09/32/-what-is-io-uring.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41631982">https://news.ycombinator.com/item?id=41631982</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+
+## Re: Automattic's Actionable Misconduct Directed to WP Engine [pdf]
+ - [https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
+ - RSS feed: $source
+ - date published: 2024-09-24T00:23:36+00:00
+
+
+<p>Article URL: <a href="https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf">https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41631920">https://news.ycombinator.com/item?id=41631920</a></p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
+
+
+## WP Engine sent "cease and desist" letter to Automattic
+ - [https://twitter.com/wpengine/status/1838350670564377051](https://twitter.com/wpengine/status/1838350670564377051)
+ - RSS feed: $source
+ - date published: 2024-09-24T00:21:58+00:00
+
+
+<p>Article URL: <a href="https://twitter.com/wpengine/status/1838350670564377051">https://twitter.com/wpengine/status/1838350670564377051</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=41631912">https://news.ycombinator.com/item?id=41631912</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+

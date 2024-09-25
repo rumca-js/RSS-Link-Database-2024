@@ -1,0 +1,9 @@
+# Source:Grimdark Magazine, URL:https://www.grimdarkmagazine.com/feed, language:en-AU
+
+## REVIEW: The Book of Witches ed. by Jonathan Strahan
+ - [https://www.grimdarkmagazine.com/review-the-book-of-witches-ed-by-jonathan-strahan](https://www.grimdarkmagazine.com/review-the-book-of-witches-ed-by-jonathan-strahan)
+ - RSS feed: $source
+ - date published: 2024-09-24T04:14:21+00:00
+
+<p>Depending on your tastes, the spooky season is in full swing or about to descend. Either way, if seasonal reading is your thing, it is the best time of the year to pick up The Book of Witches. The latest spellbinding anthology to be edited by Jonathan Strahan, The Book of Witches, has just under 30 short story and poetry contributions from a host of speculative fiction writers. Each piece also has its own illustration from Hugo-nominated artist Alyssa Winans, which was an additional touch that I really enjoyed in this collection. Not every tale in The Book of Witches will appeal to the Grimdark Magazine crowd; it is a very varied anthology in terms of writing style. Although each story has fantastical elements and at least one witch, they range from dark and disturbing to funny and folksy. Overall, it was an excellent read for this time of year. Some of these authors were new to me, but many were ones I had already read or had been recommended to me by fellow members of team GdM, s
+
