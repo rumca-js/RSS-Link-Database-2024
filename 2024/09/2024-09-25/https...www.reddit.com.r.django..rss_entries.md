@@ -1,0 +1,149 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## How to Create a Dynamic ModelForm in Django Admin to Display Dynamic Columns
+ - [https://www.reddit.com/r/django/comments/1fpgniz/how_to_create_a_dynamic_modelform_in_django_admin](https://www.reddit.com/r/django/comments/1fpgniz/how_to_create_a_dynamic_modelform_in_django_admin)
+ - RSS feed: $source
+ - date published: 2024-09-25T22:04:31+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/6oy58ex931rd1.png?width=3054&amp;format=png&amp;auto=webp&amp;s=972e704d29f8453546b104a192850055f35c98b4">https://preview.redd.it/6oy58ex931rd1.png?width=3054&amp;format=png&amp;auto=webp&amp;s=972e704d29f8453546b104a192850055f35c98b4</a></p> <pre><code>class OrganizationMaterialVariantPriceForm(ModelForm): def __init_subclass__(cls, **kwargs): if cls.__name__ == OrganizationMaterialVariantPriceForm.__name__: for color in Color.objects.all(): field_name = f&#39;color_{color.slug}&#39; cls.declared_fields[field_name] = IntegerField( label=color.name, required=False, widget=UnfoldAdminIntegerFieldWidget() ) class Meta: model = OrganizationMaterialVariantPrice fields = [] class OrganizationMaterialVariantPriceInline(TabularInline): model = OrganizationMaterialVariantPrice extra = 0 form = OrganizationMaterialVariantPriceForm fields = [&#39;material&#39;] def get_fields(self, request, obj=None): fields = super().get_fields
+
+## How do you sell your services?
+ - [https://www.reddit.com/r/django/comments/1fpfmhr/how_do_you_sell_your_services](https://www.reddit.com/r/django/comments/1fpfmhr/how_do_you_sell_your_services)
+ - RSS feed: $source
+ - date published: 2024-09-25T21:18:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m interested in knowing how Django does sell their services. Do you guys normally just talk to people and get clients that way, where you recommended initially by another client that you had, or do you actively advertise yourself on social media or you&#39;ve been paying Google ads or similar in order to attract customers?</p> <p>I have these in more questions so feel free to talk about what your approaches or what your experience has been and what you would recommend doing or not doing. </p> <p>For example if you had a CRM platform with an e-commerce ability to sell products and services. Do you ask people to try your product and then sell it to them or do you have people normally come to you and ask for your services?</p> <p>Thank you and have a good week</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blue_Owlet"> /u/Blue_Owlet </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fpfmhr/ho
+
+## Going against best practices?
+ - [https://www.reddit.com/r/django/comments/1fpe9hi/going_against_best_practices](https://www.reddit.com/r/django/comments/1fpe9hi/going_against_best_practices)
+ - RSS feed: $source
+ - date published: 2024-09-25T20:20:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently drifting over from Flask I&#39;ve been struck with this login hurdle where trying to authenticate using username doesn&#39;t apply to my project and can&#39;t seem to find a solution that works. I&#39;m thinking of doing it my own way and just using asyncpg for an sql query which would allow me to breeze through and continue development. Is this bad practice or is it fine to do so?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Queasy_Bee_4911"> /u/Queasy_Bee_4911 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fpe9hi/going_against_best_practices/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fpe9hi/going_against_best_practices/">[comments]</a></span>
+
+## Creating Forms that Redirects to Different URL When Successful
+ - [https://www.reddit.com/r/django/comments/1fpd289/creating_forms_that_redirects_to_different_url](https://www.reddit.com/r/django/comments/1fpd289/creating_forms_that_redirects_to_different_url)
+ - RSS feed: $source
+ - date published: 2024-09-25T19:30:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have created two folders (Aside from my main project folder) One of my folders is the main app and the second folder is a users folder.</p> <p>Error Message: </p> <h1>Page not found (404)</h1> <table><thead> <tr> <th align="left">Request Method:</th> <th align="left">POST</th> </tr> </thead><tbody> <tr> <td align="left">Request URL:</td> <td align="left"><a href="http://127.0.0.1:8000/users/register">http://127.0.0.1:8000/users/register</a></td> </tr> </tbody></table> <p>Using the URLconf defined in <code>cooknook.urls</code>, Django tried these URL patterns, in this order:</p> <ol> <li><code>admin/</code></li> <li><code>users/ register/ [name=&#39;cooknook-register&#39;]</code></li> <li><code>[name=&#39;cooknook-home&#39;]</code></li> <li><code>about/ [name=&#39;cooknook-about&#39;]</code></li> <li><code>account/ [name=&#39;cooknook-account&#39;]</code></li> </ol> <p>The current path, <code>users/register</code>, didn’t match any of these.</p> <
+
+## Learn Django as React Developer
+ - [https://www.reddit.com/r/django/comments/1fpc7e5/learn_django_as_react_developer](https://www.reddit.com/r/django/comments/1fpc7e5/learn_django_as_react_developer)
+ - RSS feed: $source
+ - date published: 2024-09-25T18:54:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Should I learn Django to be fullstack from React Frontend developer? I&#39;m a React/Next Js Frontend developer, I&#39;ve little experience of building backend in Node Js to be precise Express js. But I want to expand my skills and want to move towards Python. Django was known to me as a Python&#39;s Framework for backend development but I found it a fullstack framework. Is it worth learning Django as a React Developer? As I aim to use it only for building Restful APIs.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sure-Raspberry116"> /u/Sure-Raspberry116 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fpc7e5/learn_django_as_react_developer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fpc7e5/learn_django_as_react_developer/">[comments]</a></span>
+
+## Should I learn Django to be fullstack from React Frontend developer?
+ - [https://www.reddit.com/r/django/comments/1fpbqah/should_i_learn_django_to_be_fullstack_from_react](https://www.reddit.com/r/django/comments/1fpbqah/should_i_learn_django_to_be_fullstack_from_react)
+ - RSS feed: $source
+ - date published: 2024-09-25T18:33:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m a React/Next Js Frontend developer, I&#39;ve little experience of building backend in Node Js to be precise Express js. But I want to expand my skills and want to move towards Python. Django was known to me as a Python&#39;s Framework for backend development but I found it a fullstack framework. Is it worth learning Django as a React Developer? As I aim to use it only for building Restful APIs.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sure-Raspberry116"> /u/Sure-Raspberry116 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fpbqah/should_i_learn_django_to_be_fullstack_from_react/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fpbqah/should_i_learn_django_to_be_fullstack_from_react/">[comments]</a></span>
+
+## Generate Django backend from the front end
+ - [https://www.reddit.com/r/django/comments/1fpasy3/generate_django_backend_from_the_front_end](https://www.reddit.com/r/django/comments/1fpasy3/generate_django_backend_from_the_front_end)
+ - RSS feed: $source
+ - date published: 2024-09-25T17:55:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>So my boss wants us to create a webpage where a user can create Django apps, models, views, logic etc by clicking on a website and have everything work without errors… any ideas, opinions, views on the matter??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Several_Joke4673"> /u/Several_Joke4673 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fpasy3/generate_django_backend_from_the_front_end/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fpasy3/generate_django_backend_from_the_front_end/">[comments]</a></span>
+
+## Django not connecting to proper DB
+ - [https://www.reddit.com/r/django/comments/1fpahdv/django_not_connecting_to_proper_db](https://www.reddit.com/r/django/comments/1fpahdv/django_not_connecting_to_proper_db)
+ - RSS feed: $source
+ - date published: 2024-09-25T17:41:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>&#39;m building a rather small backend component with Django and I got it connected to an external Postgre DB.</p> <p>The issue is, when I started the Django app and tried to fetch some data all I got is a 204 No content response (which is what I&#39;d expect if there is no data in DB) but the DB has data, which make me think my app is not connecting to the proper DB.</p> <p>This is my DB config which was working before and is working in my deployed component:</p> <pre><code>DATABASES = { &#39;default&#39;: { &#39;ENGINE&#39;: &#39;django.db.backends.postgresql&#39;, &#39;NAME&#39;: os.environ.get(&#39;DATABASE_NAME&#39;), &#39;USER&#39;: os.environ.get(&#39;DATABASE_USERNAME&#39;), &#39;PASSWORD&#39;: os.environ.get(&#39;DATABASE_PASSWORD&#39;), &#39;HOST&#39;: os.environ.get(&#39;DATABASE_HOST&#39;), &#39;PORT&#39;: os.environ.get(&#39;DATABASE_PORT&#39;), } } </code></pre> <p>There is no error showing up at all, just my DB has some test data which 
+
+## React, Django and Allauth Headless
+ - [https://www.reddit.com/r/django/comments/1fp9eip/react_django_and_allauth_headless](https://www.reddit.com/r/django/comments/1fp9eip/react_django_and_allauth_headless)
+ - RSS feed: $source
+ - date published: 2024-09-25T16:57:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, Thanks for tuning in, </p> <p>I&#39;m trying to build a django backend with auth and social auth, I really like the features allauth offers and I wanted to integrate it&#39;s auth and some social providers with React, thus I came to this<br/> <a href="https://github.com/pennersr/django-allauth/tree/main/examples/react-spa">https://github.com/pennersr/django-allauth/tree/main/examples/react-spa</a></p> <p>I tried to run it locally, without docker, by just installing requirements and starting the frontend, had to change the base url to start with local host for django server, </p> <p>but still all of my login or signup post requests get CSRF error, despite trusting localhost (managed to get by cors headers errors by these and inclusion of corsheaders)</p> <pre><code>CSRF_TRUSTED_ORIGINS = [&quot;http://localhost:3000&quot;] CORS_ORIGIN_ALLOW_ALL = True CORS_ALLOW_CREDENTIALS = True CORS_ORIGIN_WHITELIST = [&quot;http://localhost:3000&quot;] CORS_ALL
+
+## 2025 DSF Board Nominations
+ - [https://www.reddit.com/r/django/comments/1fp87u2/2025_dsf_board_nominations](https://www.reddit.com/r/django/comments/1fp87u2/2025_dsf_board_nominations)
+ - RSS feed: $source
+ - date published: 2024-09-25T16:08:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/thibaudcolas"> /u/thibaudcolas </a> <br/> <span><a href="https://www.djangoproject.com/weblog/2024/sep/25/2025-dsf-board-nominations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fp87u2/2025_dsf_board_nominations/">[comments]</a></span>
+
+## Let’s work on this project together.
+ - [https://www.reddit.com/r/django/comments/1fp5wkx/lets_work_on_this_project_together](https://www.reddit.com/r/django/comments/1fp5wkx/lets_work_on_this_project_together)
+ - RSS feed: $source
+ - date published: 2024-09-25T14:33:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m looking for a good Django developer with some good front end skills to help me finish on the current Django project I’m working on. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spence8760"> /u/spence8760 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fp5wkx/lets_work_on_this_project_together/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fp5wkx/lets_work_on_this_project_together/">[comments]</a></span>
+
+## django-components update - Templating is now on par with Vue or React
+ - [https://www.reddit.com/r/django/comments/1fp5v6k/djangocomponents_update_templating_is_now_on_par](https://www.reddit.com/r/django/comments/1fp5v6k/djangocomponents_update_templating_is_now_on_par)
+ - RSS feed: $source
+ - date published: 2024-09-25T14:31:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I&#39;m Juro, I&#39;m one of the maintainers of <a href="https://github.com/EmilStenstrom/django-components">django-components</a>. In releases <a href="https://github.com/EmilStenstrom/django-components/releases/tag/0.94">v0.90-0.94</a> we&#39;ve added features that make using components in templates much more flexible.</p> <p>(This info is already a bit dated (released a month ago; latest is v0.101), as I&#39;m busy adding support for JS / CSS variables, TypeScript &amp; Sass, and HTML fragment. Exciting stuff! But I realized haven&#39;t shared this update yet!)</p> <p>Anyway, the components can be written in the Django template similar to JSX / Vue.</p> <p>The following is a component <code>blog_post</code>, that accepts a <code>title</code>, <code>id</code>, and additional kwargs applied from <code>blog_post_props</code>:</p> <pre><code>{% blog_post title=&quot;{{ person.first_name }} {{ person.last_name }}&quot; id=&quot;{% random_int 10 20 
+
+## Nanodjango - single file django with working models. Convert to a full project whenever you want.
+ - [https://www.reddit.com/r/django/comments/1fp4bgg/nanodjango_single_file_django_with_working_models](https://www.reddit.com/r/django/comments/1fp4bgg/nanodjango_single_file_django_with_working_models)
+ - RSS feed: $source
+ - date published: 2024-09-25T13:22:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gbeier"> /u/gbeier </a> <br/> <span><a href="https://simonwillison.net/2024/Sep/24/nanodjango/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fp4bgg/nanodjango_single_file_django_with_working_models/">[comments]</a></span>
+
+## Help me with commit messages (the project is for learning)
+ - [https://www.reddit.com/r/django/comments/1fp272w/help_me_with_commit_messages_the_project_is_for](https://www.reddit.com/r/django/comments/1fp272w/help_me_with_commit_messages_the_project_is_for)
+ - RSS feed: $source
+ - date published: 2024-09-25T11:33:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/SpaceX262"> /u/SpaceX262 </a> <br/> <span><a href="https://i.redd.it/iwxiu6ymyxqd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fp272w/help_me_with_commit_messages_the_project_is_for/">[comments]</a></span>
+
+## Problem with mysqlclient and Django
+ - [https://www.reddit.com/r/django/comments/1fp1hvw/problem_with_mysqlclient_and_django](https://www.reddit.com/r/django/comments/1fp1hvw/problem_with_mysqlclient_and_django)
+ - RSS feed: $source
+ - date published: 2024-09-25T10:50:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everybody, hope you&#39;re doing great. I&#39;m having a problem connecting my Django project version 5.1.1 to MariaDB installed with Homebrew (I&#39;m in Mac). I&#39;ve installed mysqlclient package on Django with pipenv. Here&#39;s the error i&#39;m getting in the console:<br/> <strong>django.db.utils.OperationalError: (2026, &#39;TLS/SSL error: SSL is required, but the server does not support it&#39;)</strong></p> <p>I&#39;ve checked that MariaDB on my computer is not requiring any SSL certificates. </p> <p>Also checked some documentations from mysqlclient and saw that there are some options i could add to solve this issue but they didn&#39;t work. Here&#39;s the <a href="http://settings.py">settings.py</a> configuration i have:</p> <pre><code>DATABASES = { &#39;default&#39;: { &#39;ENGINE&#39;: &#39;django.db.backends.mysql&#39;, &#39;NAME&#39;: &#39;movies&#39;, &#39;USER&#39;: &#39;root&#39;, &#39;PASSWORD&#39;: &#39;password&#39;, &#39;HOST&
+
+## Why save type not show as pdf when try to save pdf in my django app?
+ - [https://www.reddit.com/r/django/comments/1fp130m/why_save_type_not_show_as_pdf_when_try_to_save](https://www.reddit.com/r/django/comments/1fp130m/why_save_type_not_show_as_pdf_when_try_to_save)
+ - RSS feed: $source
+ - date published: 2024-09-25T10:22:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tried to convert HTML code to pdf and then download. Below methods are in my admin.py. However, HTML code successfully converted to pdf and can be viewed. But I tried to save it. Then it didn&#39;t show saving type as pdf. Why does this error occur? How do I resolve this? I tried different browsers. But it is the same in every browser. I have used weasyprint library in here to convert HTML to pdf.</p> <pre><code>from io import BytesIO from weasyprint import HTML, CSS def render_to_pdf2(template_src, context_dict): template = get_template(template_src) html = template.render(context_dict) result = BytesIO() # HTML(string=html).write_pdf(result) HTML(string=html).write_pdf(result, stylesheets=[CSS(string=&#39;@page { size: A4; margin:0cm }&#39;)]) return HttpResponse(result.getvalue(), content_type=&#39;application/pdf&#39;) def generate_purchase_order_PDF(self, request, queryset): for purchase_order in queryset: sales_order = purchase_order.sales_ord
+
+## Optimize Admin View for Millions of Data Points?
+ - [https://www.reddit.com/r/django/comments/1fp0ft9/optimize_admin_view_for_millions_of_data_points](https://www.reddit.com/r/django/comments/1fp0ft9/optimize_admin_view_for_millions_of_data_points)
+ - RSS feed: $source
+ - date published: 2024-09-25T09:38:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, i have a website and i recently started to collect Data about what Tools are used, Duration, etc.<br/> We have around 1000 Daily Active Users so there will be a ton of Data.</p> <p>Currently we simply have a model which we also added to the admin view.<br/> What is the best way to optimize this and prevent long loading times when checking the data? </p> <p>Appreciate any help! </p> <p>Added Images of the model and admin panel for reference</p> <p><a href="https://preview.redd.it/vwsjp0bvdxqd1.png?width=723&amp;format=png&amp;auto=webp&amp;s=f057907af4222b79bc1049d0ee4cbdfb4c20a0fb">https://preview.redd.it/vwsjp0bvdxqd1.png?width=723&amp;format=png&amp;auto=webp&amp;s=f057907af4222b79bc1049d0ee4cbdfb4c20a0fb</a></p> <p><a href="https://preview.redd.it/wgyd1fvydxqd1.png?width=762&amp;format=png&amp;auto=webp&amp;s=189028f3c2de8f3f4eedfb97c5e0cde7d134edf2">https://preview.redd.it/wgyd1fvydxqd1.png?width=762&amp;format=png&amp;auto=webp&amp;
+
+## Your Django Stack
+ - [https://www.reddit.com/r/django/comments/1fp0au2/your_django_stack](https://www.reddit.com/r/django/comments/1fp0au2/your_django_stack)
+ - RSS feed: $source
+ - date published: 2024-09-25T09:27:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Am thinking maybe: Django + HTMX + some css framework? </p> <p>I need to be able to do some SPA stuff, but also I want the support of a modern CSS framework. I want to move as fast as possible, any suggestions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Comprehensive-Set-77"> /u/Comprehensive-Set-77 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fp0au2/your_django_stack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fp0au2/your_django_stack/">[comments]</a></span>
+
+## I need a remote job
+ - [https://www.reddit.com/r/django/comments/1fozv16/i_need_a_remote_job](https://www.reddit.com/r/django/comments/1fozv16/i_need_a_remote_job)
+ - RSS feed: $source
+ - date published: 2024-09-25T08:54:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, I am a backend developer with expertise in Django, flask, PostgreSQL, MySQL, celery. I have 1.5 years of experience. Please I need a job. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dense-Fee-9859"> /u/Dense-Fee-9859 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fozv16/i_need_a_remote_job/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fozv16/i_need_a_remote_job/">[comments]</a></span>
+
+## Switching careers
+ - [https://www.reddit.com/r/django/comments/1fozlxf/switching_careers](https://www.reddit.com/r/django/comments/1fozlxf/switching_careers)
+ - RSS feed: $source
+ - date published: 2024-09-25T08:35:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m currently coming to the end of a career switch full stack developers course, which taught me how to use Django and I&#39;ve now completed two projects using Django and will say I&#39;m loving it.</p> <p>The next step for me is to start looking for jobs to move into, I was wondering if people that have a bit of experience could enlighten me where they found the best place is to look for Junior Django developer roles, preferably remote.</p> <p>Is this even obtainable or am I going to really struggle trying to find this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Permission_Huge"> /u/Permission_Huge </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fozlxf/switching_careers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fozlxf/switching_careers/">[comments]</a></span>
+
+## Anyone have any clean logging example code?
+ - [https://www.reddit.com/r/django/comments/1fowvgf/anyone_have_any_clean_logging_example_code](https://www.reddit.com/r/django/comments/1fowvgf/anyone_have_any_clean_logging_example_code)
+ - RSS feed: $source
+ - date published: 2024-09-25T05:11:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I already have django logging fully wired up and functional, and have configured logging across the majority of my views.</p> <p>The problem I have is that I feel like the log statements clutter my code up a bit. I was thinking of writing a decorator to move the log statements out of the view logic, but then im only able to log relatively generic information. </p> <p>Anyone have any clean examples or philosophies regarding logging here?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/structured_obscurity"> /u/structured_obscurity </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fowvgf/anyone_have_any_clean_logging_example_code/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fowvgf/anyone_have_any_clean_logging_example_code/">[comments]</a></span>
+

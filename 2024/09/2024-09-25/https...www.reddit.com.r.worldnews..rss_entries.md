@@ -1,0 +1,247 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## The Biden administration on Thursday announced $375 million more in security assistance for Ukraine, which for the first time will include American Joint Standoff Weapon (JSOW) glide bombs
+ - [https://www.reddit.com/r/worldnews/comments/1fpfyc7/the_biden_administration_on_thursday_announced](https://www.reddit.com/r/worldnews/comments/1fpfyc7/the_biden_administration_on_thursday_announced)
+ - RSS feed: $source
+ - date published: 2024-09-25T21:33:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fpfyc7/the_biden_administration_on_thursday_announced/"> <img src="https://external-preview.redd.it/5kX0Jbhkhwgu_PPm197SOsg6i1zvxmw4hF5C8njysDg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19f65fa390e9570233b54c0ebab9e97b8bb0f1b4" alt="The Biden administration on Thursday announced $375 million more in security assistance for Ukraine, which for the first time will include American Joint Standoff Weapon (JSOW) glide bombs" title="The Biden administration on Thursday announced $375 million more in security assistance for Ukraine, which for the first time will include American Joint Standoff Weapon (JSOW) glide bombs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NewSlinger"> /u/NewSlinger </a> <br/> <span><a href="https://abcnews.go.com/Politics/biden-administration-pledges-new-glide-bombs-ukraine-ahead/story?id=114120996">[link]</a></span> &#32; <span><a href="https://www.reddit
+
+## Russia has destroyed all thermal power plants in Ukraine, says Zelenskyy
+ - [https://www.reddit.com/r/worldnews/comments/1fpeo05/russia_has_destroyed_all_thermal_power_plants_in](https://www.reddit.com/r/worldnews/comments/1fpeo05/russia_has_destroyed_all_thermal_power_plants_in)
+ - RSS feed: $source
+ - date published: 2024-09-25T20:37:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/The_New_Voice"> /u/The_New_Voice </a> <br/> <span><a href="https://english.nv.ua/nation/zelenskyy-warns-of-energy-crisis-as-russia-destroys-ukrainian-power-infrastructure-50453676.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fpeo05/russia_has_destroyed_all_thermal_power_plants_in/">[comments]</a></span>
+
+## Canada PM Trudeau Survives Vote of No Confidence
+ - [https://www.reddit.com/r/worldnews/comments/1fpe40g/canada_pm_trudeau_survives_vote_of_no_confidence](https://www.reddit.com/r/worldnews/comments/1fpe40g/canada_pm_trudeau_survives_vote_of_no_confidence)
+ - RSS feed: $source
+ - date published: 2024-09-25T20:14:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fpe40g/canada_pm_trudeau_survives_vote_of_no_confidence/"> <img src="https://external-preview.redd.it/w1e3BuvwxSQ0ngxaHSxI3tLhN6kGuQ46ohZbQhaxEPA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e0356bd772504429bba455acb1efe6eda050a58" alt="Canada PM Trudeau Survives Vote of No Confidence" title="Canada PM Trudeau Survives Vote of No Confidence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/barronsmag"> /u/barronsmag </a> <br/> <span><a href="https://www.barrons.com/news/canada-pm-trudeau-survives-vote-of-no-confidence-b010fae7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fpe40g/canada_pm_trudeau_survives_vote_of_no_confidence/">[comments]</a></span> </td></tr></table>
+
+## US prepares $8 billion in arms aid packages for Zelenskiy visit, sources say
+ - [https://www.reddit.com/r/worldnews/comments/1fpdosa/us_prepares_8_billion_in_arms_aid_packages_for](https://www.reddit.com/r/worldnews/comments/1fpdosa/us_prepares_8_billion_in_arms_aid_packages_for)
+ - RSS feed: $source
+ - date published: 2024-09-25T19:56:52+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Glum-Promotion8084"> /u/Glum-Promotion8084 </a> <br/> <span><a href="https://www.reuters.com/world/us-prepares-8-billion-arms-aid-packages-zelenskiy-visit-sources-say-2024-09-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fpdosa/us_prepares_8_billion_in_arms_aid_packages_for/">[comments]</a></span>
+
+## Sources: Iran brokering Russia-Houthi talks on arming group with anti-ship missiles | The Times of Israel
+ - [https://www.reddit.com/r/worldnews/comments/1fpbbr1/sources_iran_brokering_russiahouthi_talks_on](https://www.reddit.com/r/worldnews/comments/1fpbbr1/sources_iran_brokering_russiahouthi_talks_on)
+ - RSS feed: $source
+ - date published: 2024-09-25T18:16:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fpbbr1/sources_iran_brokering_russiahouthi_talks_on/"> <img src="https://external-preview.redd.it/sSUEOn3IBN520HqV-v1Ej9Xtv6hxwRGbnN4IRDyx1Fo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0097feb79e069485abffda537b9672a8633d77f4" alt="Sources: Iran brokering Russia-Houthi talks on arming group with anti-ship missiles | The Times of Israel" title="Sources: Iran brokering Russia-Houthi talks on arming group with anti-ship missiles | The Times of Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/epou"> /u/epou </a> <br/> <span><a href="https://www.timesofisrael.com/sources-iran-brokering-russia-houthi-talks-on-arming-group-with-anti-ship-missiles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fpbbr1/sources_iran_brokering_russiahouthi_talks_on/">[comments]</a></span> </td></tr></table>
+
+## Putin issues a nuclear warning to the West over Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1fpazh8/putin_issues_a_nuclear_warning_to_the_west_over](https://www.reddit.com/r/worldnews/comments/1fpazh8/putin_issues_a_nuclear_warning_to_the_west_over)
+ - RSS feed: $source
+ - date published: 2024-09-25T18:02:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/lmaonite"> /u/lmaonite </a> <br/> <span><a href="https://www.reuters.com/world/europe/putin-says-russia-reserves-right-use-nuclear-weapons-if-attacked-2024-09-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fpazh8/putin_issues_a_nuclear_warning_to_the_west_over/">[comments]</a></span>
+
+## Around 20 Russian soldiers captured during operation to recapture Vovchansk aggregate plant, military intelligence claims
+ - [https://www.reddit.com/r/worldnews/comments/1fp96gd/around_20_russian_soldiers_captured_during](https://www.reddit.com/r/worldnews/comments/1fp96gd/around_20_russian_soldiers_captured_during)
+ - RSS feed: $source
+ - date published: 2024-09-25T16:48:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp96gd/around_20_russian_soldiers_captured_during/"> <img src="https://external-preview.redd.it/_e_dxuJ5sL0oP1TIAxc-PytY1fjTVZEJhTn6IhQsHtM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5610e6f530413a27b4e7b8632bbbdfb99e8fe2d" alt="Around 20 Russian soldiers captured during operation to recapture Vovchansk aggregate plant, military intelligence claims" title="Around 20 Russian soldiers captured during operation to recapture Vovchansk aggregate plant, military intelligence claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nurshakil10"> /u/nurshakil10 </a> <br/> <span><a href="https://kyivindependent.com/vovchansk-aggregate-plant-recaptured-hur/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp96gd/around_20_russian_soldiers_captured_during/">[comments]</a></span> </td></tr></table>
+
+## Ballistic missile fired from Lebanon intercepted by IDF over Tel Aviv
+ - [https://www.reddit.com/r/worldnews/comments/1fp8tds/ballistic_missile_fired_from_lebanon_intercepted](https://www.reddit.com/r/worldnews/comments/1fp8tds/ballistic_missile_fired_from_lebanon_intercepted)
+ - RSS feed: $source
+ - date published: 2024-09-25T16:33:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp8tds/ballistic_missile_fired_from_lebanon_intercepted/"> <img src="https://external-preview.redd.it/zxMhF6zubIQ2KGHvSn_3rvszWDUPzb5FFvuTqQ9hE7w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=163f876e110d2c42b7e9866f02193c903d9d0e69" alt="Ballistic missile fired from Lebanon intercepted by IDF over Tel Aviv" title="Ballistic missile fired from Lebanon intercepted by IDF over Tel Aviv" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alysslut-"> /u/alysslut- </a> <br/> <span><a href="https://edition.cnn.com/2024/09/25/middleeast/israel-rocket-lebanon-tel-aviv-intl-hnk/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp8tds/ballistic_missile_fired_from_lebanon_intercepted/">[comments]</a></span> </td></tr></table>
+
+## US troops deployed to Cyprus as fears of wider Middle East war intensify
+ - [https://www.reddit.com/r/worldnews/comments/1fp7yrp/us_troops_deployed_to_cyprus_as_fears_of_wider](https://www.reddit.com/r/worldnews/comments/1fp7yrp/us_troops_deployed_to_cyprus_as_fears_of_wider)
+ - RSS feed: $source
+ - date published: 2024-09-25T15:58:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp7yrp/us_troops_deployed_to_cyprus_as_fears_of_wider/"> <img src="https://external-preview.redd.it/jLAJkBJdkRwIG5IDQ0QLZNJplGeP_ynALeJMasv463o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b5dcd5c14aa11fa82649b6de207733a06ccb117" alt="US troops deployed to Cyprus as fears of wider Middle East war intensify " title="US troops deployed to Cyprus as fears of wider Middle East war intensify " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glum-Promotion8084"> /u/Glum-Promotion8084 </a> <br/> <span><a href="https://www.cnn.com/2024/09/25/politics/us-troops-cyprus/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp7yrp/us_troops_deployed_to_cyprus_as_fears_of_wider/">[comments]</a></span> </td></tr></table>
+
+## Hold China responsible for helping Russia, Danish PM says
+ - [https://www.reddit.com/r/worldnews/comments/1fp7p4a/hold_china_responsible_for_helping_russia_danish](https://www.reddit.com/r/worldnews/comments/1fp7p4a/hold_china_responsible_for_helping_russia_danish)
+ - RSS feed: $source
+ - date published: 2024-09-25T15:47:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp7p4a/hold_china_responsible_for_helping_russia_danish/"> <img src="https://external-preview.redd.it/LmZvFPRk5nuyZ0hyV69m73AazdyEr9-XloGm_yi8fcU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a221bc665dd9a09116d25d42f1d2ae60775beadd" alt="Hold China responsible for helping Russia, Danish PM says" title="Hold China responsible for helping Russia, Danish PM says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/professorbrainiac"> /u/professorbrainiac </a> <br/> <span><a href="https://www.politico.eu/article/danish-pm-mette-frederiksen-blast-china-help-russia-wage-war-ukraine/?utm_medium=social&amp;utm_source=Twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp7p4a/hold_china_responsible_for_helping_russia_danish/">[comments]</a></span> </td></tr></table>
+
+## IDF mobilizing 2 reserve brigades to north signaling possible ground war in Lebanon
+ - [https://www.reddit.com/r/worldnews/comments/1fp7kor/idf_mobilizing_2_reserve_brigades_to_north](https://www.reddit.com/r/worldnews/comments/1fp7kor/idf_mobilizing_2_reserve_brigades_to_north)
+ - RSS feed: $source
+ - date published: 2024-09-25T15:42:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp7kor/idf_mobilizing_2_reserve_brigades_to_north/"> <img src="https://external-preview.redd.it/lGA2Pcp3tjeqlBod5NEH87IO8b_t8nFN2_nLk5G_Wis.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e7c12767bef7a15c63e676e57dc631b14e056a4e" alt="IDF mobilizing 2 reserve brigades to north signaling possible ground war in Lebanon" title="IDF mobilizing 2 reserve brigades to north signaling possible ground war in Lebanon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br/> <span><a href="https://www.ynetnews.com/article/h18riqb0r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp7kor/idf_mobilizing_2_reserve_brigades_to_north/">[comments]</a></span> </td></tr></table>
+
+## France: Murder of Paris student fuels anger at failed deportation
+ - [https://www.reddit.com/r/worldnews/comments/1fp75uv/france_murder_of_paris_student_fuels_anger_at](https://www.reddit.com/r/worldnews/comments/1fp75uv/france_murder_of_paris_student_fuels_anger_at)
+ - RSS feed: $source
+ - date published: 2024-09-25T15:24:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp75uv/france_murder_of_paris_student_fuels_anger_at/"> <img src="https://external-preview.redd.it/tLSjC3YgMKR58MI4Estrsn7au-fhxH-MqYxGs3pdQOc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c99eaccfe6f284d004787e2a3657ec6e0607590e" alt="France: Murder of Paris student fuels anger at failed deportation" title="France: Murder of Paris student fuels anger at failed deportation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlfaG0216"> /u/AlfaG0216 </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/cly650vk317o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp75uv/france_murder_of_paris_student_fuels_anger_at/">[comments]</a></span> </td></tr></table>
+
+## Hold China responsible for helping Russia, Danish PM says
+ - [https://www.reddit.com/r/worldnews/comments/1fp5em9/hold_china_responsible_for_helping_russia_danish](https://www.reddit.com/r/worldnews/comments/1fp5em9/hold_china_responsible_for_helping_russia_danish)
+ - RSS feed: $source
+ - date published: 2024-09-25T14:11:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp5em9/hold_china_responsible_for_helping_russia_danish/"> <img src="https://external-preview.redd.it/LmZvFPRk5nuyZ0hyV69m73AazdyEr9-XloGm_yi8fcU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a221bc665dd9a09116d25d42f1d2ae60775beadd" alt="Hold China responsible for helping Russia, Danish PM says" title="Hold China responsible for helping Russia, Danish PM says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/legendsking"> /u/legendsking </a> <br/> <span><a href="https://www.politico.eu/article/danish-pm-mette-frederiksen-blast-china-help-russia-wage-war-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp5em9/hold_china_responsible_for_helping_russia_danish/">[comments]</a></span> </td></tr></table>
+
+## Russia, battling birth rate dip, is working on 'child-free' ideology ban, says Putin ally
+ - [https://www.reddit.com/r/worldnews/comments/1fp5dhw/russia_battling_birth_rate_dip_is_working_on](https://www.reddit.com/r/worldnews/comments/1fp5dhw/russia_battling_birth_rate_dip_is_working_on)
+ - RSS feed: $source
+ - date published: 2024-09-25T14:09:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp5dhw/russia_battling_birth_rate_dip_is_working_on/"> <img src="https://external-preview.redd.it/8aoydX9B_uuOqIQtIW1XQM-lbAF3Hqgjnx5zt5NCwjM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=259a53e824b1850f6f7cb96496586a0af000c9b1" alt="Russia, battling birth rate dip, is working on 'child-free' ideology ban, says Putin ally" title="Russia, battling birth rate dip, is working on 'child-free' ideology ban, says Putin ally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BezugssystemCH1903"> /u/BezugssystemCH1903 </a> <br/> <span><a href="https://www.swissinfo.ch/eng/russia%2C-battling-birth-rate-dip%2C-is-working-on-%27child-free%27-ideology-ban%2C-says-putin-ally/87609035">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp5dhw/russia_battling_birth_rate_dip_is_working_on/">[comments]</a></span> </td></tr></table>
+
+## Russia preparing to attack 3 nuclear plants in Ukraine, Zelensky tells UN
+ - [https://www.reddit.com/r/worldnews/comments/1fp4kms/russia_preparing_to_attack_3_nuclear_plants_in](https://www.reddit.com/r/worldnews/comments/1fp4kms/russia_preparing_to_attack_3_nuclear_plants_in)
+ - RSS feed: $source
+ - date published: 2024-09-25T13:33:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp4kms/russia_preparing_to_attack_3_nuclear_plants_in/"> <img src="https://external-preview.redd.it/EPEDrizjvDYl7PB23MLP3Qs_mKnklhC9r5DRnGieAXU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de66cd5641a0a072a2c7138cc6cf9de37958b459" alt="Russia preparing to attack 3 nuclear plants in Ukraine, Zelensky tells UN" title="Russia preparing to attack 3 nuclear plants in Ukraine, Zelensky tells UN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://kyivindependent.com/russia-preparing-to-attack-3-ukraines-nuclear-plants-zelensky-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp4kms/russia_preparing_to_attack_3_nuclear_plants_in/">[comments]</a></span> </td></tr></table>
+
+## BBC told director of Nova massacre film to not describe Hamas as terrorists
+ - [https://www.reddit.com/r/worldnews/comments/1fp4g4j/bbc_told_director_of_nova_massacre_film_to_not](https://www.reddit.com/r/worldnews/comments/1fp4g4j/bbc_told_director_of_nova_massacre_film_to_not)
+ - RSS feed: $source
+ - date published: 2024-09-25T13:28:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp4g4j/bbc_told_director_of_nova_massacre_film_to_not/"> <img src="https://external-preview.redd.it/IiVPrB_yRN6iXb5n_BFRv0OiG4imyAY9fgtNMyJXk7s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c576759970b19c91436cbcc455ec033bfa7ca0b1" alt="BBC told director of Nova massacre film to not describe Hamas as terrorists" title="BBC told director of Nova massacre film to not describe Hamas as terrorists" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br/> <span><a href="https://www.jpost.com/diaspora/article-821666">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp4g4j/bbc_told_director_of_nova_massacre_film_to_not/">[comments]</a></span> </td></tr></table>
+
+## Hezbollah Rockets Force Chief Dead As Israel Bombs Lebanon Killing Over 560 People
+ - [https://www.reddit.com/r/worldnews/comments/1fp411f/hezbollah_rockets_force_chief_dead_as_israel](https://www.reddit.com/r/worldnews/comments/1fp411f/hezbollah_rockets_force_chief_dead_as_israel)
+ - RSS feed: $source
+ - date published: 2024-09-25T13:08:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp411f/hezbollah_rockets_force_chief_dead_as_israel/"> <img src="https://external-preview.redd.it/EGDgq5JVrFuttLITc_SZrgxkUidl6a-KIESwCisaV_Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca900fee1c29cd1dcf578bbb419574f3db41af8c" alt="Hezbollah Rockets Force Chief Dead As Israel Bombs Lebanon Killing Over 560 People" title="Hezbollah Rockets Force Chief Dead As Israel Bombs Lebanon Killing Over 560 People" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/prashant_d_4500"> /u/prashant_d_4500 </a> <br/> <span><a href="https://www.news18.com/amp/world/israeli-airstrike-in-lebanon-targets-senior-hezbollah-commander-9061918.html#amp_tf=From%20%251%24s&amp;aoh=17272694900006&amp;csi=1&amp;referrer=https%3A%2F%2Fwww.google.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp411f/hezbollah_rockets_force_chief_dead_as_israel/">[comments]</a></span> </t
+
+## Kremlin says it is impossible to force Russia into peace
+ - [https://www.reddit.com/r/worldnews/comments/1fp3tj4/kremlin_says_it_is_impossible_to_force_russia](https://www.reddit.com/r/worldnews/comments/1fp3tj4/kremlin_says_it_is_impossible_to_force_russia)
+ - RSS feed: $source
+ - date published: 2024-09-25T12:58:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp3tj4/kremlin_says_it_is_impossible_to_force_russia/"> <img src="https://external-preview.redd.it/hIpnwLdbPjvDNQU5g7gi-c4r3bLIH3xZklx8NLqSSXY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c2da33000e0dfe34cf0d8f6b269f99ce25a3b88" alt="Kremlin says it is impossible to force Russia into peace" title="Kremlin says it is impossible to force Russia into peace" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CatUsaUk"> /u/CatUsaUk </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2024/09/25/7476677/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp3tj4/kremlin_says_it_is_impossible_to_force_russia/">[comments]</a></span> </td></tr></table>
+
+## Russia has secret war drones project in China, intel sources say
+ - [https://www.reddit.com/r/worldnews/comments/1fp3r2z/russia_has_secret_war_drones_project_in_china](https://www.reddit.com/r/worldnews/comments/1fp3r2z/russia_has_secret_war_drones_project_in_china)
+ - RSS feed: $source
+ - date published: 2024-09-25T12:55:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DarkX666"> /u/DarkX666 </a> <br/> <span><a href="https://www.reuters.com/world/russia-has-secret-war-drones-project-china-intel-sources-say-2024-09-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp3r2z/russia_has_secret_war_drones_project_in_china/">[comments]</a></span>
+
+## 1,500 Hezbollah fighters lost sight and limbs to pager bombs, report says
+ - [https://www.reddit.com/r/worldnews/comments/1fp2cgr/1500_hezbollah_fighters_lost_sight_and_limbs_to](https://www.reddit.com/r/worldnews/comments/1fp2cgr/1500_hezbollah_fighters_lost_sight_and_limbs_to)
+ - RSS feed: $source
+ - date published: 2024-09-25T11:42:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp2cgr/1500_hezbollah_fighters_lost_sight_and_limbs_to/"> <img src="https://external-preview.redd.it/aufjkoDHXAl1tI5K8umbIMNTbyuNcd-DnlKOb54JxIU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a1aeeeab3b32b64792e890e391e4f1244189691c" alt="1,500 Hezbollah fighters lost sight and limbs to pager bombs, report says" title="1,500 Hezbollah fighters lost sight and limbs to pager bombs, report says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/parski841"> /u/parski841 </a> <br/> <span><a href="https://www.ynetnews.com/article/bkpyid11cr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp2cgr/1500_hezbollah_fighters_lost_sight_and_limbs_to/">[comments]</a></span> </td></tr></table>
+
+## Polish foreign minister likens Russian kidnapping of Ukrainian children to Nazi crimes in UN speech
+ - [https://www.reddit.com/r/worldnews/comments/1fp1t00/polish_foreign_minister_likens_russian_kidnapping](https://www.reddit.com/r/worldnews/comments/1fp1t00/polish_foreign_minister_likens_russian_kidnapping)
+ - RSS feed: $source
+ - date published: 2024-09-25T11:09:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BubsyFanboy"> /u/BubsyFanboy </a> <br/> <span><a href="https://notesfrompoland.com/2024/09/25/polish-foreign-minister-likens-russian-kidnapping-of-ukrainian-children-to-nazi-crimes-in-un-speech/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp1t00/polish_foreign_minister_likens_russian_kidnapping/">[comments]</a></span>
+
+## Hearing-impaired Russian woman killed after hearing aid mistaken for espionage device
+ - [https://www.reddit.com/r/worldnews/comments/1fp18ot/hearingimpaired_russian_woman_killed_after](https://www.reddit.com/r/worldnews/comments/1fp18ot/hearingimpaired_russian_woman_killed_after)
+ - RSS feed: $source
+ - date published: 2024-09-25T10:33:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp18ot/hearingimpaired_russian_woman_killed_after/"> <img src="https://external-preview.redd.it/BR4-X0brKpBCHLYD6x3DOuPBZ_sb7LFHd60n2e5j8ns.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a4b64423915c25a94f638d8fcf74510bf06d67a" alt="Hearing-impaired Russian woman killed after hearing aid mistaken for espionage device" title="Hearing-impaired Russian woman killed after hearing aid mistaken for espionage device" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2024/09/25/hearing-impaired-russian-woman-killed-after-hearing-aid-mistaken-for-espionage-device-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp18ot/hearingimpaired_russian_woman_killed_after/">[comments]</a></span> </td></tr></table>
+
+## Trump vows to 'get America out' of Ukraine war, blames Biden for conflict
+ - [https://www.reddit.com/r/worldnews/comments/1fp04vo/trump_vows_to_get_america_out_of_ukraine_war](https://www.reddit.com/r/worldnews/comments/1fp04vo/trump_vows_to_get_america_out_of_ukraine_war)
+ - RSS feed: $source
+ - date published: 2024-09-25T09:14:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fp04vo/trump_vows_to_get_america_out_of_ukraine_war/"> <img src="https://external-preview.redd.it/WRKLbL6b8Mip9_q5sS9WN4dDMp6LDPKDwdrrh4q_NbU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35a316f01b6e89e64a8873f56b89d799afe00deb" alt="Trump vows to 'get America out' of Ukraine war, blames Biden for conflict" title="Trump vows to 'get America out' of Ukraine war, blames Biden for conflict" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newlooksales"> /u/newlooksales </a> <br/> <span><a href="https://kyivindependent.com/trump-vows-to-get-america-out-of-ukraine-war-blames-biden-for-conflict/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fp04vo/trump_vows_to_get_america_out_of_ukraine_war/">[comments]</a></span> </td></tr></table>
+
+## UK tells Putin: You’re a slave-owning mafia boss
+ - [https://www.reddit.com/r/worldnews/comments/1fozo4z/uk_tells_putin_youre_a_slaveowning_mafia_boss](https://www.reddit.com/r/worldnews/comments/1fozo4z/uk_tells_putin_youre_a_slaveowning_mafia_boss)
+ - RSS feed: $source
+ - date published: 2024-09-25T08:39:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fozo4z/uk_tells_putin_youre_a_slaveowning_mafia_boss/"> <img src="https://external-preview.redd.it/LmLwR6Euz-LcbPI8l4wWZyyB-BGjDne7yhrMu5ih1D4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d94a75748ce589065b415bd771a15bdf4d1e8c61" alt="UK tells Putin: You’re a slave-owning mafia boss" title="UK tells Putin: You’re a slave-owning mafia boss" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/enkrstic"> /u/enkrstic </a> <br/> <span><a href="https://www.politico.eu/article/uk-vladimir-putin-david-lammy-diplomacy-slave-mafia-state/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fozo4z/uk_tells_putin_youre_a_slaveowning_mafia_boss/">[comments]</a></span> </td></tr></table>
+
+## Belarus Reeducating Ukrainian Children Into 'Enemies Of Their Own People,' Report Says
+ - [https://www.reddit.com/r/worldnews/comments/1foz7ci/belarus_reeducating_ukrainian_children_into](https://www.reddit.com/r/worldnews/comments/1foz7ci/belarus_reeducating_ukrainian_children_into)
+ - RSS feed: $source
+ - date published: 2024-09-25T08:03:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1foz7ci/belarus_reeducating_ukrainian_children_into/"> <img src="https://external-preview.redd.it/ejHxeFWgh4WPGdhThzbW4QHJx7IPBiz9ZcfahRRA73c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=804fd37ce73fb8b6787a24d5d9b433fb0d2c78f1" alt="Belarus Reeducating Ukrainian Children Into 'Enemies Of Their Own People,' Report Says" title="Belarus Reeducating Ukrainian Children Into 'Enemies Of Their Own People,' Report Says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/legendsking"> /u/legendsking </a> <br/> <span><a href="https://www.rferl.org/a/belarus-russia-ukraine-children-reeducation/33132306.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1foz7ci/belarus_reeducating_ukrainian_children_into/">[comments]</a></span> </td></tr></table>
+
+## Starmer will press Biden to drop Storm Shadow missile ban
+ - [https://www.reddit.com/r/worldnews/comments/1foyipk/starmer_will_press_biden_to_drop_storm_shadow](https://www.reddit.com/r/worldnews/comments/1foyipk/starmer_will_press_biden_to_drop_storm_shadow)
+ - RSS feed: $source
+ - date published: 2024-09-25T07:08:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1foyipk/starmer_will_press_biden_to_drop_storm_shadow/"> <img src="https://external-preview.redd.it/YPe-xN6u27aZZXhqhXgrqQo5AjHY_QsCL8x1FY3jYb0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18e7242ca0ef61847e5027bd8369623d506e3247" alt="Starmer will press Biden to drop Storm Shadow missile ban" title="Starmer will press Biden to drop Storm Shadow missile ban" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2024/09/25/starmer-joe-biden-ukraine-storm-shadow-missiles-russia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1foyipk/starmer_will_press_biden_to_drop_storm_shadow/">[comments]</a></span> </td></tr></table>
+
+## Russia to Boost Military Spending to 40% of State Budget in 2025
+ - [https://www.reddit.com/r/worldnews/comments/1foy26g/russia_to_boost_military_spending_to_40_of_state](https://www.reddit.com/r/worldnews/comments/1foy26g/russia_to_boost_military_spending_to_40_of_state)
+ - RSS feed: $source
+ - date published: 2024-09-25T06:35:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1foy26g/russia_to_boost_military_spending_to_40_of_state/"> <img src="https://external-preview.redd.it/WKTP8XUMsihAfRsRVorZrr4tvvd4PJhp_tt_yiCqXMk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9278f65d8b120a7a961523ad1d6be24bd9b7932c" alt="Russia to Boost Military Spending to 40% of State Budget in 2025" title="Russia to Boost Military Spending to 40% of State Budget in 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br/> <span><a href="https://www.themoscowtimes.com/2024/09/24/russia-to-boost-military-spending-to-40-of-state-budget-in-2025-bloomberg-a86450">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1foy26g/russia_to_boost_military_spending_to_40_of_state/">[comments]</a></span> </td></tr></table>
+
+## Zelensky says Russia can't be calmed by talks alone
+ - [https://www.reddit.com/r/worldnews/comments/1fowxz0/zelensky_says_russia_cant_be_calmed_by_talks_alone](https://www.reddit.com/r/worldnews/comments/1fowxz0/zelensky_says_russia_cant_be_calmed_by_talks_alone)
+ - RSS feed: $source
+ - date published: 2024-09-25T05:16:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fowxz0/zelensky_says_russia_cant_be_calmed_by_talks_alone/"> <img src="https://external-preview.redd.it/maD8IAP-48s3HU5IYfKBtbPeIhGF37PRufnp3iXNpW8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=399222cabbf86a47f40dd0059a0f11e43781653c" alt="Zelensky says Russia can't be calmed by talks alone" title="Zelensky says Russia can't be calmed by talks alone" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sararosese"> /u/sararosese </a> <br/> <span><a href="https://kyivindependent.com/zelensky-says-russia-cant-be-calmed-by-talks-alone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fowxz0/zelensky_says_russia_cant_be_calmed_by_talks_alone/">[comments]</a></span> </td></tr></table>
+
+## US to send $375 million in military aid to Ukraine, including medium-range cluster bombs
+ - [https://www.reddit.com/r/worldnews/comments/1fow4ud/us_to_send_375_million_in_military_aid_to_ukraine](https://www.reddit.com/r/worldnews/comments/1fow4ud/us_to_send_375_million_in_military_aid_to_ukraine)
+ - RSS feed: $source
+ - date published: 2024-09-25T04:23:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fow4ud/us_to_send_375_million_in_military_aid_to_ukraine/"> <img src="https://external-preview.redd.it/kVkGnXO0XqTZZiGez-CoDBMrXzyJR8GmfEQgTeWC7pc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5da87c742c7a0b18556fe7d5bc76bbcfc487a5f4" alt="US to send $375 million in military aid to Ukraine, including medium-range cluster bombs" title="US to send $375 million in military aid to Ukraine, including medium-range cluster bombs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Royal7858"> /u/Royal7858 </a> <br/> <span><a href="https://apnews.com/article/ukraine-russia-war-weapons-missiles-a4a109e2eb4581e59d5d1455deb92b09">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fow4ud/us_to_send_375_million_in_military_aid_to_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Trump praises Russia's military record in argument to stop funding Ukraine's fight
+ - [https://www.reddit.com/r/worldnews/comments/1fow4qv/trump_praises_russias_military_record_in_argument](https://www.reddit.com/r/worldnews/comments/1fow4qv/trump_praises_russias_military_record_in_argument)
+ - RSS feed: $source
+ - date published: 2024-09-25T04:23:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fow4qv/trump_praises_russias_military_record_in_argument/"> <img src="https://external-preview.redd.it/Z5xP7gK6VoAqWML9nutEDcxfJqxTsQXPArG3Ud-rLpM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e149c3e8b0fecaf7fba68e5af107d3fe15722ff" alt="Trump praises Russia's military record in argument to stop funding Ukraine's fight" title="Trump praises Russia's military record in argument to stop funding Ukraine's fight" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SendStoreMeloner"> /u/SendStoreMeloner </a> <br/> <span><a href="https://apnews.com/article/trump-zelenskyy-ukraine-russia-6e02fc7575a14d9abb64a326ffd0a4a3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fow4qv/trump_praises_russias_military_record_in_argument/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 944, Part 1 (Thread #1091)
+ - [https://www.reddit.com/r/worldnews/comments/1fovs3c/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1fovs3c/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2024-09-25T04:02:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fovs3c/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 944, Part 1 (Thread #1091)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 944, Part 1 (Thread #1091)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fovs3c/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Russia, Iran use AI to boost anti-U.S. influence campaigns, officials say | American intelligence officials say Moscow’s efforts, aimed mostly at undermining Harris, are the most aggressive.
+ - [https://www.reddit.com/r/worldnews/comments/1fos9b6/russia_iran_use_ai_to_boost_antius_influence](https://www.reddit.com/r/worldnews/comments/1fos9b6/russia_iran_use_ai_to_boost_antius_influence)
+ - RSS feed: $source
+ - date published: 2024-09-25T00:55:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fos9b6/russia_iran_use_ai_to_boost_antius_influence/"> <img src="https://external-preview.redd.it/MBOrAY87Y9ju4Xg5pmu4EMKBOWg7tcXggGc_kEt9AD0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06c6446f14f0f7e0fc30c27791afefdf3e572065" alt="Russia, Iran use AI to boost anti-U.S. influence campaigns, officials say | American intelligence officials say Moscow’s efforts, aimed mostly at undermining Harris, are the most aggressive." title="Russia, Iran use AI to boost anti-U.S. influence campaigns, officials say | American intelligence officials say Moscow’s efforts, aimed mostly at undermining Harris, are the most aggressive." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://www.washingtonpost.com/technology/2024/09/23/us-election-foreign-influence-russia-china-iran-ai/">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## Argentina's President Milei calls out UN's hypocrisy in condemning Israel
+ - [https://www.reddit.com/r/worldnews/comments/1fors33/argentinas_president_milei_calls_out_uns](https://www.reddit.com/r/worldnews/comments/1fors33/argentinas_president_milei_calls_out_uns)
+ - RSS feed: $source
+ - date published: 2024-09-25T00:30:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fors33/argentinas_president_milei_calls_out_uns/"> <img src="https://external-preview.redd.it/z-PfVsOidxISeaUrtHWASSu5FEeqRZDml7gT13Hvi2Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbdcbd548a235d6f2d66ccdaf0978267a872fcd1" alt="Argentina's President Milei calls out UN's hypocrisy in condemning Israel" title="Argentina's President Milei calls out UN's hypocrisy in condemning Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Brilliant_User_7673"> /u/Brilliant_User_7673 </a> <br/> <span><a href="https://m.jpost.com/international/article-821598">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fors33/argentinas_president_milei_calls_out_uns/">[comments]</a></span> </td></tr></table>
+
+## Pain is ‘dramatically’ different in men and women
+ - [https://www.reddit.com/r/worldnews/comments/1foro01/pain_is_dramatically_different_in_men_and_women](https://www.reddit.com/r/worldnews/comments/1foro01/pain_is_dramatically_different_in_men_and_women)
+ - RSS feed: $source
+ - date published: 2024-09-25T00:25:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1foro01/pain_is_dramatically_different_in_men_and_women/"> <img src="https://external-preview.redd.it/AIzWbnRVzPkvzkEq9gc83Bqj0_uhcyP6uEqLnDvpzfA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21671b934ee8d8f8f13eefecbc07a1ec0c90d41a" alt="Pain is ‘dramatically’ different in men and women" title="Pain is ‘dramatically’ different in men and women" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/binding_swamp"> /u/binding_swamp </a> <br/> <span><a href="https://thehill.com/policy/healthcare/4890425-pain-sex-gender-differences/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1foro01/pain_is_dramatically_different_in_men_and_women/">[comments]</a></span> </td></tr></table>
+
+## Russian troops constantly storming Vuhledar in Donetsk Oblast, situation 'steadily tense,' Ukraine's military says
+ - [https://www.reddit.com/r/worldnews/comments/1for8uh/russian_troops_constantly_storming_vuhledar_in](https://www.reddit.com/r/worldnews/comments/1for8uh/russian_troops_constantly_storming_vuhledar_in)
+ - RSS feed: $source
+ - date published: 2024-09-25T00:03:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1for8uh/russian_troops_constantly_storming_vuhledar_in/"> <img src="https://external-preview.redd.it/JZE0OcA-bmzZ6ewu8cMVyMzB_CJ2sPxnt94JVjXLwKw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a267828b9ec31294be931317b4673cecb5d9040" alt="Russian troops constantly storming Vuhledar in Donetsk Oblast, situation 'steadily tense,' Ukraine's military says" title="Russian troops constantly storming Vuhledar in Donetsk Oblast, situation 'steadily tense,' Ukraine's military says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://kyivindependent.com/russian-troops-constantly-storming-vuhledar-in-donetsk-oblast-situation-steadily-tense-ukraines-military-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1for8uh/russian_troops_constantly_storming_vuhledar_in/">[comments]</a></span> </td></tr></ta
+
