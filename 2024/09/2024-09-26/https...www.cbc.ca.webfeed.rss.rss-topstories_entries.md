@@ -1,0 +1,191 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## B.C. man sentenced for death threat against Richmond MP
+ - [https://www.cbc.ca/news/canada/british-columbia/wilson-miao-death-threat-democracy-1.7334944?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/wilson-miao-death-threat-democracy-1.7334944?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T18:08:46+00:00
+
+<img src='https://i.cbc.ca/1.6189388.1727387884!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/wilson-miao.JPG' alt='An East Asian man wearing a suit and red tie looks straight at the camera.' width='620' height='349' title='Wilson Miao is the newly elected MP of Richmond Centre.'/><p>A B.C. man has been handed a two-month conditional sentence after pleading guilty to posting a video on social media of himself threatening the life of Richmond Member of Parliament Wilson Miao.</p>
+
+## CTV says staffers who altered Poilievre clip 'no longer' work for its news team
+ - [https://www.cbc.ca/news/politics/ctv-journalists-pierre-poilievre-1.7335509?cmp=rss](https://www.cbc.ca/news/politics/ctv-journalists-pierre-poilievre-1.7335509?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T18:03:35+00:00
+
+<img src='https://i.cbc.ca/1.7109526.1707425561!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/bell-bce-layoffs.JPG' alt='The Bell Media Studios, in downtown Toronto, are pictured on Feb. 8, 2024. ' width='620' height='349' title='The Bell Media Studios, in downtown Toronto, are pictured on Feb. 8, 2024. Bell Media is slashing CTV&apos;s local news output.'/><p>CTV has dropped two members of its news team after an altered clip of Conservative Leader Pierre Poilievre went to air in a recent national news report, according to a statement from the network posted to social media.</p>
+
+## Kamala Harris slams 'dangerous and unacceptable' calls for Ukraine to cede land to Russia
+ - [https://www.cbc.ca/news/world/kamala-harris-ukraine-support-1.7335306?cmp=rss](https://www.cbc.ca/news/world/kamala-harris-ukraine-support-1.7335306?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T17:40:51+00:00
+
+<img src='https://i.cbc.ca/1.7335335.1727382063!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-vice-president-kamala-harris-speaking-during-visit-of-ukrainian-leader-to-washington.jpg' alt='U.S. Vice President Kamala Harris, the Democratic presidential nominee, speaks during a meeting with Ukrainian President Volodymyr Zelenskyy in Washington on Thursday.' width='620' height='349' title='U.S. Vice President Kamala Harris speaks as she meets with Ukraine&apos;s President Volodymyr Zelenskyy, Thursday, Sept. 26, 2024, at the Vice President&apos;s ceremonial office inside the Eisenhower Executive Office Building on the White House complex in Washington.'/><p>With American support for Ukraine at a partisan crossroads, Vice President Kamala Harris on Thursday slammed suggestions that Kyiv should cede territory for the sake of peace with Moscow as "dangerous and unacceptable."</p>
+
+## Minister says veterans on Canada's Invictus team will get health coverage by 2025
+ - [https://www.cbc.ca/news/politics/minister-invictus-health-coverage-by-whistler-1.7335292?cmp=rss](https://www.cbc.ca/news/politics/minister-invictus-health-coverage-by-whistler-1.7335292?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T16:38:07+00:00
+
+<img src='https://i.cbc.ca/1.7335301.1727381579!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1670057426.jpg' alt='Members of Canada&apos;s Invictus Team attend the Opening Ceremony at Merkur Spiel-Arena during the Invictus Games Düsseldorf 2023 on September 09, 2023 in Dusseldorf, Germany. ' width='620' height='349' title='Members of Canada&apos;s Invictus Team attend the Opening Ceremony at Merkur Spiel-Arena during the Invictus Games Düsseldorf 2023 on September 09, 2023 in Dusseldorf, Germany. '/><p>Veterans' Affairs Minister Ginette Petitpas Taylor now says that veterans on Canada's Invictus Games team will get full health coverage by 2025, days after CBC News reported that veterans on the team have to buy their own health insurance.</p>
+
+## This camel desperately needed a pair of shoes. A cobbler came to his rescue
+ - [https://www.cbc.ca/radio/asithappens/camel-shoes-timujin-1.7334670?cmp=rss](https://www.cbc.ca/radio/asithappens/camel-shoes-timujin-1.7334670?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T16:29:34+00:00
+
+<img src='https://i.cbc.ca/1.7334709.1727363098!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/timujin.jpeg' alt='A camel, wearing custom shoes on his feet.' width='620' height='349' title='Timujin, a 27-year-old Bactrian camel, can now walk with glee thanks to his new shoes.'/><p>It’s far from typical for a camel to sport shoes around the yard, but then again, it’s far from typical for a camel to be trotting around the United Kingdom. So when cobbler Stuart Moss got a call from a woman named Lady Chichester about making a shoe for a camel, he thought it was a prank.</p>
+
+## Helene strengthens to Category 3 hurricane as it churns toward Florida
+ - [https://www.cbc.ca/news/world/hurricane-helene-florida-thursday-1.7335173?cmp=rss](https://www.cbc.ca/news/world/hurricane-helene-florida-thursday-1.7335173?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T15:47:27+00:00
+
+<img src='https://i.cbc.ca/1.7335195.1727378037!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/water-pushes-up-against-st-pete-beach-fla-as-hurricane-helene-churns-offshore.jpg' alt='The Gulf of Mexico&apos;s water pushes up against the beach as Hurricane Helene churns offshore on September 26, 2024 in St. Pete Beach, Florida. ' width='620' height='349' title='The Gulf of Mexico&apos;s water pushes up against the beach as Hurricane Helene churns offshore on September 26, 2024 in St. Pete Beach, Florida. Later today, Helene is forecast to become a major hurricane, bringing the potential for deadly storm surges, flooding rain, and destructive hurricane-force winds along parts of the Florida West Coast.'/><p>Hurricane Helene could cause a "nightmare" scenario of catastrophic storm surge in northwestern Florida, officials warned Thursday as they urged residents to heed evacuation orders ahead of the enormous storm, which is expected to cause significant damage hundreds of kilomet
+
+## New home construction is up in Canada's 6 largest cities, but supply gap persists
+ - [https://www.cbc.ca/news/business/new-home-construction-1.7335150?cmp=rss](https://www.cbc.ca/news/business/new-home-construction-1.7335150?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T15:33:30+00:00
+
+<img src='https://i.cbc.ca/1.7335188.1727377840!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/desjardins-housing-starts-20240910.JPG' alt='A construction crew works on a house. A yellow scaffolding structure is in front of the house and construction people are standing on it. ' width='620' height='349' title='A new report by Desjardins warns Ottawa&apos;s efforts to kickstart new housing supply likely won&apos;t be enough to meet &quot;optimistic&quot; targets due to regulatory hurdles and constraints on labour, materials and financing. Workers are shown at a new residential construction in the Riverside South neighbourhood of Ottawa on Friday, Aug. 30, 2024. '/><p>The Canada Mortgage and Housing Corp. says construction of new homes in Canada's six largest cities rose four per cent year-over-year during the first half of 2024, but housing starts were still not enough to meet growing demand.</p>
+
+## Angry claims of 'double standards' in international law roil the UN
+ - [https://www.cbc.ca/news/politics/united-nations-israel-gaza-1.7334158?cmp=rss](https://www.cbc.ca/news/politics/united-nations-israel-gaza-1.7334158?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T15:08:57+00:00
+
+<img src='https://i.cbc.ca/1.7335124.1727375470!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/un-general-assembly.jpg' alt='United Nations Secretary-General António Guterres puts his hand over his heart after speaking to the 79th session of the United Nations General Assembly at United Nations headquarters on Tuesday, Sept. 24, 2024.' width='620' height='349' title='United Nations Secretary-General António Guterres puts his hand over his heart after speaking to the 79th session of the United Nations General Assembly at United Nations headquarters on Tuesday, Sept. 24, 2024.'/><p>As representatives of the world's governments met at the UN General Assembly in New York earlier this week, tensions were growing in the world body over what many countries describe as double standards in the application of the UN Charter, which prohibits the seizure of territory by force.</p>
+
+## Ottawa considering lower threshold for issuing alerts on foreign interference, inquiry hears
+ - [https://www.cbc.ca/news/politics/foreign-interference-elections-pco-1.7334743?cmp=rss](https://www.cbc.ca/news/politics/foreign-interference-elections-pco-1.7334743?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T14:28:49+00:00
+
+<img src='https://i.cbc.ca/1.7335099.1727374473!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/foreign-interference-20240926.JPG' alt='Allen Sutherland, assistant secretary to the cabinet in the Privy Council Office appears as a witness at the Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions, Thursday, September 26, 2024 in Ottawa.' width='620' height='349' title='Allen Sutherland, assistant secretary to the cabinet in the Privy Council Office appears as a witness at the Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions, Thursday, September 26, 2024 in Ottawa.'/><p>The federal government is considering changes to the way it lets Canadians know about attempts at foreign interference in elections, including lowering the threshold for alerting the public that an attempt has been made.</p>
+
+## Bill before Parliament would outlaw residential school 'denialism'
+ - [https://www.cbc.ca/news/politics/ndp-mp-private-members-bill-residential-school-denialism-1.7334916?cmp=rss](https://www.cbc.ca/news/politics/ndp-mp-private-members-bill-residential-school-denialism-1.7334916?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T13:38:04+00:00
+
+<img src='https://i.cbc.ca/1.6102607.1727370981!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kamloops-residential-school-memorial-ottawa-parliament-hill.jpg' alt='A memorial set up on June 2, 2021 in recognition of possible unmarked graves at the site of a former residential school in Kamloops, B.C.' width='620' height='349' title='Shoes, toys and more were a set up around the Centennial Flame on Parliament Hill in Ottawa June 2, 2021 in recognition of what&apos;s believed to be the discovery of children&apos;s remains at the site of a former residential school in Kamloops, B.C.'/><p>An NDP MP introduced a private member’s bill in the House of Commons on Thursday to add residential school denialism to the Criminal Code.</p>
+
+## Crown to seek adult sentence for alleged Sask. high school fire attack, defence to argue not criminally responsible
+ - [https://www.cbc.ca/news/canada/saskatoon/evan-hardy-court-details-1.7334887?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/evan-hardy-court-details-1.7334887?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T13:29:13+00:00
+
+<img src='https://i.cbc.ca/1.7317888.1727369497!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/evan-hardy-memorial-flowers-4.jpg' alt='Flowers and posters sit on the grass while a group of students stand nearby.' width='620' height='349' title='Flowers were placed outside of Evan Hardy Collegiate after a teen was seriously injured when a classmate allegedly set her fire on Sept. 5, 2024.'/><p>Details are emerging in court in the case of a 14-year-old girl accused of setting a 15-year-old classmate on fire at Evan Hardy Collegiate in Saskatoon.</p>
+
+## Sorority defends sending busloads of students to Airbnb in London, Ont., says owner was informed
+ - [https://www.cbc.ca/news/canada/london/airbnb-london-sorority-response-1.7334510?cmp=rss](https://www.cbc.ca/news/canada/london/airbnb-london-sorority-response-1.7334510?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T12:49:42+00:00
+
+<img src='https://i.cbc.ca/1.7331579.1727117812!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/sorority-girls-at-167-sunnyside-drive.jpeg' alt='Dozens of women wait for instructions as they arrive and leave by the busload at 167 Sunnyside Drive, a home that&apos;s being rented out as a short-term rental. ' width='620' height='349' title='Dozens of women wait for instructions as they arrive and leave by the busload at 167 Sunnyside Drive, a home that&apos;s being rented out as a short-term rental. '/><p>A sorority event that highlighted problems north London, Ont., residents are having with a home listed for rent on Airbnb never would have gone ahead if the home's owner didn't agree to it, the sorority's chapter president says. </p>
+
+## Toronto is getting a new — and temporary — outdoor concert venue that can hold 50,000 people
+ - [https://www.cbc.ca/news/canada/toronto/rogers-stadium-downsview-airport-live-nation-1.7334655?cmp=rss](https://www.cbc.ca/news/canada/toronto/rogers-stadium-downsview-airport-live-nation-1.7334655?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T11:57:50+00:00
+
+<img src='https://i.cbc.ca/1.7334811.1727365843!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rogers-stadium-rendering-downsview-airport.jpg' alt='An artist&apos;s rendering of the new Rogers Stadium, a venue with capacity for 50,000 to be built on the grounds of the former Downsview airport.' width='620' height='349' title='An artist&apos;s rendering of the new Rogers Stadium, a venue with capacity for 50,000 to be built on the grounds of the former Downsview airport.'/><p>Entertainment giant Live Nation says it will build a temporary, open-air music venue with a capacity for some 50,000 people on the grounds of the former Downsview airport in north Toronto.</p>
+
+## Disability rights groups launching Charter challenge against MAID law
+ - [https://www.cbc.ca/news/politics/maid-charter-challenge-1.7334653?cmp=rss](https://www.cbc.ca/news/politics/maid-charter-challenge-1.7334653?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T10:55:53+00:00
+
+<img src='https://i.cbc.ca/1.5066192.1704838501!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/medical-assistance-in-dying.jpg' alt='The hands of an adult hold the hand of an older person, who is hooked up to intravenous and lying in a bed.' width='620' height='349' title='MAiD advocates say that 2 years since medically assisted dying became law in Canada, significant barriers remain. For one, they say, a gap exists between where people want to die, and where they&apos;re compelled to die.'/><p>A coalition of disability rights groups says it is launching a Charter challenge against a part of Canada's law on medical assistance in dying.</p>
+
+## Decorated Canadian swimmer Maggie Mac Neil announces retirement at 24
+ - [https://www.cbc.ca/sports/olympics/summer/aquatics/maggie-mac-neil-announces-retirement-1.7333915?cmp=rss](https://www.cbc.ca/sports/olympics/summer/aquatics/maggie-mac-neil-announces-retirement-1.7333915?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T10:05:12+00:00
+
+<img src='https://i.cbc.ca/1.7333959.1727294447!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1449545191.jpg' alt='A female swimmer standing on a podium smiles while waving her right hand and holding a sign that says world record.' width='620' height='349' title='Canada&apos;s Maggie Mac Neil celebrates after breaking her own short-course world record in the women&apos;s 50-metre backstroke at the 2022 world championships in Melbourne, Australia.'/><p>Canadian swimmer Maggie Mac Neil announced her retirement from the sport on Thursday, marking the end of a decorated career that includes three Olympic medals.</p>
+
+## In an era of drought, can B.C. rely on Site C and other hydro projects?
+ - [https://www.cbc.ca/news/canada/british-columbia/site-c-hydro-projects-drought-1.7330201?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/site-c-hydro-projects-drought-1.7330201?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T10:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7334266.1727305049!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/site-c.jpg' alt='asdf' width='620' height='349' title='The $16 billion Site C dam is expected to be fully operating by fall of 2025.'/><p>How will B.C.'s new Site C dam and other hydroelectric power projects fare in an era of climate change and multi-year droughts?</p>
+
+## P.E.I. must have 2-ferry service, federal transport minister reaffirms as repair delays continue
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-northumberland-ferries-update-thursday-1.7334517?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-northumberland-ferries-update-thursday-1.7334517?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T09:46:42+00:00
+
+<img src='https://i.cbc.ca/1.7335210.1727378560!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/anita-anand.jpg' alt='Woman with long brown hair, wearing a lavender jacket, white shirt, and purple printed scarf.' width='620' height='349' title='&apos;It is unacceptable not to have ferry service&apos; between P.E.I. and Nova Scotia, federal Transportation Minister Anita Anand said during an interview with CBC News in Charlottetown Thursday.'/><p>Transport Minister Anita Anand restated the federal government’s support for a two-ferry service connecting P.E.I. and Nova Scotia during a visit to Charlottetown Thursday.</p>
+
+## Homeowners will no longer need to do stress test when switching mortgage providers
+ - [https://www.cbc.ca/news/business/mortgage-stress-test-1.7334547?cmp=rss](https://www.cbc.ca/news/business/mortgage-stress-test-1.7334547?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T09:31:32+00:00
+
+<img src='https://i.cbc.ca/1.7334557.1727356371!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/housing-20240812.jpg' alt='A row of houses with colourful fronts is shown from an aerial view. ' width='620' height='349' title='New single family houses billed as estate cottages and townhouses under construction are seen in an aerial view, in Delta, B.C., on Monday, Aug. 12, 2024. '/><p>The national banking regulator says it will no longer require borrowers with uninsured mortgages to undergo a stress test when switching providers.</p>
+
+## Japanese man on death row for more than 45 years is acquitted in retrial
+ - [https://www.cbc.ca/news/world/japan-famed-death-row-inmate-acquitted-1.7334492?cmp=rss](https://www.cbc.ca/news/world/japan-famed-death-row-inmate-acquitted-1.7334492?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T07:11:27+00:00
+
+<img src='https://i.cbc.ca/1.7334497.1727347077!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/japan-boxer-retrial.jpg' alt='An older cleanshaven Asian man wearing a green hat and matching vest, is shown in an outdoor photo.' width='620' height='349' title='Iwao Hakamada, 88-year-old former boxer who has been on death row for nearly six decades after his murder conviction that his lawyers said was based on forced confession and fabricated evidence is shown Thursday in Shizuoka prefecture, central Japan.'/><p>A Japanese court ruled Thursday that an 88-year-old man was not guilty in a retrial for a 1966 quadruple murder, reversing an earlier decision that made him the world's longest-serving death row inmate.</p>
+
+## Israel's foreign minister rejects call for 21-day ceasefire in conflict with Hezbollah
+ - [https://www.cbc.ca/news/world/u-s-allies-ceasefire-hezbollah-israel-1.7334447?cmp=rss](https://www.cbc.ca/news/world/u-s-allies-ceasefire-hezbollah-israel-1.7334447?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T06:16:12+00:00
+
+<img src='https://i.cbc.ca/1.7334488.1727344087!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-lebanon.JPG' alt='Huge clouds of smoke are shown above a town with low-rise buildings set in a valley.' width='620' height='349' title='Smoke billows over southern Lebanon following an Israeli airstrike, amid ongoing cross-border hostilities between Hezbollah and Israeli forces, as seen from Tyre, Lebanon on Thursday. '/><p>Israeli Foreign Minister Israel Katz has rejected proposals for a ceasefire with Hezbollah after the United States and France called for a 21-day halt in the fighting that has alarmed Lebanon and raised fears of a ground invasion.</p>
+
+## Ontario can learn from Boston's mega highway project, experts say
+ - [https://www.cbc.ca/news/canada/toronto/ontario-boston-big-dig-1.7334107?cmp=rss](https://www.cbc.ca/news/canada/toronto/ontario-boston-big-dig-1.7334107?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7334169.1727307405!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/big-dig.jpg' alt='A construction worker looks at the camera. He is standing above an under-construction section of tunnel.' width='620' height='349' title='An unfinished tunnel section of the Big Dig construction project appears at left during a press preview of the project in Boston, Wednesday, April 5, 2000. James J. Kerasiotes, head of the Massachusetts Turnpike Authority, who has been running Boston&apos;s troubled &quot;Big Dig&quot; highway project, was asked to resign Tuesday as federal auditors released a scathing report on the huge project&apos;s finances and mismanagement.'/><p>As Ontario considers building a tunnel underneath Highway 401, some say the provincial government can learn from a similar highway megaproject south of the border. </p>
+
+## Trump's tariff plan would shave almost a half-point off Canada's economy, says U.S. forecast
+ - [https://www.cbc.ca/news/world/trump-tariff-plan-canada-economy-1.7334156?cmp=rss](https://www.cbc.ca/news/world/trump-tariff-plan-canada-economy-1.7334156?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7334207.1727307695!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-election-trump.JPG' alt='Man in red hat stands in front of big poster with Trump&apos;s face on it' width='620' height='349' title='A supporter of Republican presidential nominee and former U.S. President Donald Trump waits in line as he arrives at a campaign rally in Indiana, Pennsylvania, U.S., September 23, 2024. '/><p>What exactly would Donald Trump's tariff plans do to Canada? A prominent Washington think-tank has an answer — and it's not pretty.</p>
+
+## N.L. premier directs watchdog to investigate handling of child abuse allegations
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/nl-tony-wakeham-hussey-drive-independent-review-1.7334157?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-tony-wakeham-hussey-drive-independent-review-1.7334157?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T04:30:00+00:00
+
+<img src='https://i.cbc.ca/1.7332587.1727202454!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/furey-mha-salaries-1.jpg' alt='Premier Andrew Furey speaks with reporters, raising his finger to make a point.' width='620' height='349' title='Newfoundland and Labrador Premier Andrew Furey says he will not support an independent report that recommends a $25,000 increase in the base salary for Members of the House of Assembly.'/><p>Premier Andrew Furey is directing Newfoundland and Labrador's child and youth advocate to investigate "deeply concerning" information about how child abuse allegations were handled by authorities, following CBC Investigates reporting this week.</p>
+
+## Why UCP activists 'hold the pen' on so many of Danielle Smith's government policies
+ - [https://www.cbc.ca/news/canada/calgary/danielle-smith-bill-rights-ucp-leadership-review-analysis-1.7334213?cmp=rss](https://www.cbc.ca/news/canada/calgary/danielle-smith-bill-rights-ucp-leadership-review-analysis-1.7334213?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T04:00:10+00:00
+
+<img src='https://i.cbc.ca/1.7126715.1709068156!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/danielle-smith.jpg' alt='A woman wearing a green blazer with white pearls with brown hair is pictured in front of a blue wall.' width='620' height='349' title='Alberta Premier Danielle Smith is pictured in a file photo from Feb. 5.'/><p>The premier is sending a message with her Bill of Rights changes, and she likely hopes her party members like what they hear before her leadership review.</p>
+
+## 50 years after brother drowned, Montreal family seeks stranger who put up memorial plaque
+ - [https://www.cbc.ca/news/canada/montreal/mystery-new-plaque-montreal-1.7333285?cmp=rss](https://www.cbc.ca/news/canada/montreal/mystery-new-plaque-montreal-1.7333285?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7333286.1727260632!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/new-plaque-alain-nadeau.jpeg' alt='A man and woman standing in a forest next to two plaques. ' width='620' height='349' title=''/><p>A memorial plaque has been placed near a creek in Pointe-Claire, Que., where a six-year-old boy drowned 50 years ago. His siblings are now hoping to find the Good Samaritan behind this tribute to express their gratitude.</p>
+
+## Businesses face new limits on temporary foreign worker program
+ - [https://www.cbc.ca/news/business/tfw-program-new-limits-1.7333777?cmp=rss](https://www.cbc.ca/news/business/tfw-program-new-limits-1.7333777?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7333811.1727306129!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/mcdonalds-stiill-creek-burnaby.jpg' alt='A close-up of a McDonalds employee&apos;s arm handing a fast food bag to a customer sitting in their car in a drive-through.' width='620' height='349' title='A McDonalds fast food restaurant is pictured at 4410 Still Creek Drive in Burnaby, British Columbia on Thursday January 19, 2023. Restaurants have become a major employer of cooks, food service supervisors and food counter attendants through the temporary foreign worker program.'/><p>Changes to the program, in effect as of Sept. 26, are aimed at shrinking the program and pushing employers to invest more in local employees.</p>
+
+## The scandal that shocked Parliament in the spring is slowly fading from memory
+ - [https://www.cbc.ca/news/politics/nsicop-foreign-interference-hogue-1.7334106?cmp=rss](https://www.cbc.ca/news/politics/nsicop-foreign-interference-hogue-1.7334106?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-09-26T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.6957537.1718760882!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/foreign-interference-kwan-20230603.jpg' alt='NDP MP Jenny Kwan speaks to reporters about her briefing with CSIS where they confirmed that she was a target of foreign interference, in the Foyer of the House of Commons on Parliament Hill in Ottawa, on Monday, May 29, 2023. It took about an hour for Jenny Kwan to be briefed by Canada&apos;s spy agency and not even a second for her to decide it won&apos;t let her bend.' width='620' height='349' title='NDP MP Jenny Kwan speaks to reporters in the Foyer of the House of Commons on Parliament Hill in Ottawa, on Monday, May 29, 2023. '/><p>For a couple weeks in June, there was great concern around Parliament Hill that unnamed MPs or senators had been compromised, perhaps even wittingly, by foreign states — fears raised by a startling, if opaque, report by the National Security and Intelligence Committee of Parliamentarians.</p>
+
