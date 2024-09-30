@@ -1,0 +1,65 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## Version 1 proof of concept Pi 400 Laptop!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fshcmu/version_1_proof_of_concept_pi_400_laptop](https://www.reddit.com/r/raspberry_pi/comments/1fshcmu/version_1_proof_of_concept_pi_400_laptop)
+ - RSS feed: $source
+ - date published: 2024-09-29T23:06:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1fshcmu/version_1_proof_of_concept_pi_400_laptop/"> <img src="https://b.thumbs.redditmedia.com/SNWnIsl5mw12E3QxUBsfzv4m7dUQwjg4lWupmNw4kPw.jpg" alt="Version 1 proof of concept Pi 400 Laptop!" title="Version 1 proof of concept Pi 400 Laptop!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I recently got a new 3D printer and I was trying to think of a cool project to test out what it can do. I got inspired to make a little laptop using the Pi 400 as a base since it seems like the perfect form factor for such a project. The laptop uses a little external screen I found on amazon, and uses 2 usb battery banks for power (1 for the Pi and 1 for the screen due to the limited output ports of the banks). I know it looks a little rough with the hot melt glue and all showing, but this was mainly a proof of concept for me and if I end up getting bored I may revisit the project and make some improvements! Let me know w
+
+## Get interface to work, and set default interface (eth1) (to connect to on startup)
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fsgsa6/get_interface_to_work_and_set_default_interface](https://www.reddit.com/r/raspberry_pi/comments/1fsgsa6/get_interface_to_work_and_set_default_interface)
+ - RSS feed: $source
+ - date published: 2024-09-29T22:38:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Two questions, firstly how come my eth1 interface isnt being created? pastebin:<br/> <a href="https://pastebin.com/NSYC1bEr">https://pastebin.com/NSYC1bEr</a><br/> (I restarted dhcpcd service and restarted NetworkManager, still doesnt work, as in eth1 isnt created)</p> <p>secondly:</p> <p>How to set the default interface for a device to connect to? like in my dhcpcd.conf i have two interfaces, eth0 and eth1. Basicially, how do i make my pi automatically connect to eth1</p> <p>(this is on raspberry pi os)</p> <p>If your on mobile, here is my /etc/dhcpcd.conf:</p> <p><code>spiderunderurbed@raspberrypi:~ $ cat /etc/dhcpcd.conf</code></p> <p><code># Add the following to the end of the file and save it:</code></p> <p><code>interface usb0</code></p> <p><code>metric 0</code></p> <p><code>interface eth0</code></p> <p><code>static ip_address=192.168.68.77/22</code></p> <p><code>static router=192.168.68.1</code></p> <p><code>static domain_name_servers=192.168.6
+
+## Some screenshots of my public raspberry pi minecraft server
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fsfyig/some_screenshots_of_my_public_raspberry_pi](https://www.reddit.com/r/raspberry_pi/comments/1fsfyig/some_screenshots_of_my_public_raspberry_pi)
+ - RSS feed: $source
+ - date published: 2024-09-29T22:00:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1fsfyig/some_screenshots_of_my_public_raspberry_pi/"> <img src="https://b.thumbs.redditmedia.com/1umEyIV2Nwt1f4r28KFalcZRyHyCZENjbLkTMAffQqg.jpg" alt="Some screenshots of my public raspberry pi minecraft server" title="Some screenshots of my public raspberry pi minecraft server" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I have been running a public minecraft server hosted on a raspberry pi 4 with 8gb ram and a 256gb SSD. If you&#39;d like to join, it is on java edition 1.20.4 and the server address is <a href="http://mc.spawntrapped.org">mc.spawntrapped.org</a> and the server has a vanilla playstyle with no teleport commands. </p> <p><a href="https://preview.redd.it/f7pxw3hyltrd1.png?width=3420&amp;format=png&amp;auto=webp&amp;s=0b2fba741b14718cd1098756e0149e7d89f6b9db">https://preview.redd.it/f7pxw3hyltrd1.png?width=3420&amp;format=png&amp;auto=webp&amp;s=0b2fba741b14718cd1098756e0149e7d89f6b9db</a></p
+
+## RasPi-Print | Brother QL-570, Raspberry Pi Zero, brother_ql_web
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fse6la/raspiprint_brother_ql570_raspberry_pi_zero](https://www.reddit.com/r/raspberry_pi/comments/1fse6la/raspiprint_brother_ql570_raspberry_pi_zero)
+ - RSS feed: $source
+ - date published: 2024-09-29T20:39:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1fse6la/raspiprint_brother_ql570_raspberry_pi_zero/"> <img src="https://external-preview.redd.it/FWUbZre_q1kygDJ2KcoDLR1TPULvs4R6iVmNwhD5sjo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65778e13814e988a9661d2c9f8ba9efc8229a39c" alt="RasPi-Print | Brother QL-570, Raspberry Pi Zero, brother_ql_web" title="RasPi-Print | Brother QL-570, Raspberry Pi Zero, brother_ql_web" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/swake88"> /u/swake88 </a> <br/> <span><a href="https://imgur.com/gallery/raspi-print-brother-ql-570-raspberry-pi-zero-brother-ql-web-WqlxbJl">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fse6la/raspiprint_brother_ql570_raspberry_pi_zero/">[comments]</a></span> </td></tr></table>
+
+## My twist on the Road Trip Pi
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fs86jp/my_twist_on_the_road_trip_pi](https://www.reddit.com/r/raspberry_pi/comments/1fs86jp/my_twist_on_the_road_trip_pi)
+ - RSS feed: $source
+ - date published: 2024-09-29T16:21:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1fs86jp/my_twist_on_the_road_trip_pi/"> <img src="https://preview.redd.it/em0mernnxrrd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f1037bd6ac34e4f03d17dbf5a1edfbdbfc3cedb" alt="My twist on the Road Trip Pi" title="My twist on the Road Trip Pi" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>To start, this is in no way a unique idea, and I borrowed heavily from the hard work of others. As well do, I did put my own twist on the ideas of others, making it more tailored to my needs. Here is the write up of how I put this together to complete the build.</p> <p>Parts List: -Raspberry Pi 4 Model B -Micro SD card of your choice (for OS) -Raspberry Pi4 power supply -Raspberry Pi4 case of your choice -<a href="https://www.amazon.com/your-orders/pop/ref=ppx_yo_mob_b_pop?_encoding=UTF8&amp;gen=canonical&amp;lineItemId=jgrhtpoplksrwmps&amp;orderId=113-0317203-2359466&amp;packageId=1&amp;returnSummaryId=&amp;returnU
+
+## Help! Waveshare paper hat and led
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fs416g/help_waveshare_paper_hat_and_led](https://www.reddit.com/r/raspberry_pi/comments/1fs416g/help_waveshare_paper_hat_and_led)
+ - RSS feed: $source
+ - date published: 2024-09-29T13:12:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>OK here goes. I&#39;m currently trying to make a cluster using 8 raspberry pi 5s lol (an ambitious project for a semi beginner, but if I don&#39;t do something practical/useful, I&#39;ll lose interest. Anyway so the plan is to use an RGB LED lamp module by pzsmocn on each pi and have it output a different coloured light according to that pi&#39;s status. I have also got a waveshare 2.13 inch paper hat display (cause that&#39;s what I&#39;ve got handy and don&#39;t want to buy a different display if I don&#39;t have to), to output more specific information about the cluster. </p> <p>The problem I am having, is that the RGB lamp module and the paper hat display both want pin 18 (GPIO 24). now I&#39;ve looked at various pinouts, and 18 doesn&#39;t seem to be anything special (like an i2c or whatever) so theoretically I just put it (or the led) on pin 22 (gpio 25) and it&#39;s all good right? Just that the manuals for both devices say to put that jumper o
+
+## WS2812B Problems - NeoPixel Script Issues - Permission Errors and LED Glitches (Raspberry Pi 2b)
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fs3493/ws2812b_problems_neopixel_script_issues](https://www.reddit.com/r/raspberry_pi/comments/1fs3493/ws2812b_problems_neopixel_script_issues)
+ - RSS feed: $source
+ - date published: 2024-09-29T12:22:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tried to follow this video : <a href="https://youtu.be/aNlaj1r7NKc">https://youtu.be/aNlaj1r7NKc</a></p> <p>but while going through the library installation I get this error:</p> <p>error: externally-managed-environment</p> <p>``` × This environment is externally managed</p> <p>╰─&gt; To install Python packages system-wide, try apt install</p> <p>python3-xyz, where xyz is the package you are trying to</p> <p>install.</p> <p>If you wish to install a non-Debian-packaged Python package,</p> <p>create a virtual environment using python3 -m venv path/to/venv.</p> <p>Then use path/to/venv/bin/python and path/to/venv/bin/pip. Make</p> <p>sure you have python3-full installed.</p> <p>For more information visit <a href="http://rptl.io/venv">http://rptl.io/venv</a></p> <p>note: If you believe this is a mistake, please contact your Python installation or OS distribution provider. You can override this, at the risk of breaking your Python installation or OS, by 
+
+## UART help RPI5 Ubuntu 24.04
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fryuui/uart_help_rpi5_ubuntu_2404](https://www.reddit.com/r/raspberry_pi/comments/1fryuui/uart_help_rpi5_ubuntu_2404)
+ - RSS feed: $source
+ - date published: 2024-09-29T07:21:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m running an Rpi 5 with Ubuntu 24.04 OS, I am debugging my serial output input because I can’t read anything from my LIDAR so i’m trying to set up a feedback loop.</p> <p>I’ve tried shorting my GPIO 14 and 15 (TXD and RXD) and tried finding ttyS0 (which is there listed as ttys0) however cat doesn’t recognise it, so I instead used my USB to UART connector and it’s recognised as ttyUSB0 and when i try cat and echo nothing pops up, when i try use minicom and enable local echo and typing stuff I can’t see any output. </p> <p>I am quite stumped to be honest, (and yes i out enable_uart=1 in my config.txt) i’ve been playing around for ages now and can’t find any way to fix it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpiritedPound6569"> /u/SpiritedPound6569 </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1fryuui/uart_help_rpi5_ubuntu_2404/">[link]</a></span> &#32; <span><a href="https:
+
+## USB OV5640 Won't Enumerate
+ - [https://www.reddit.com/r/raspberry_pi/comments/1fruqyo/usb_ov5640_wont_enumerate](https://www.reddit.com/r/raspberry_pi/comments/1fruqyo/usb_ov5640_wont_enumerate)
+ - RSS feed: $source
+ - date published: 2024-09-29T02:51:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I upgraded My Voron from a pi3B+ to a Pi 4B. I moved my SD card over and plugged in the power, ground, and peripherals (MCU and U2C) . At first glance everything worked, then I noticed the USB webcam was not working in Crowsnest. </p> <p>I reinstalled crowsnest and updated all the firmware on the pi. No luck</p> <p>I checked Dmesh -w and found that i was getting an error: &quot;</p> <p>6.280614] usb 1-1-port2: Cannot enable. Maybe the USB cable is bad?</p> <p>[ 6.284511] usb 1-1-port2: unable to enumerate USB device</p> <p>[ 6.367375] usb 1-1.4: new full-speed USB device number 8 using xhci_hcd</p> <p>[ 6.368305] brcmfmac: brcmf_c_process_txcap_blob: no txcap_blob available (err=-2)&quot;</p> <p>I gather this means the USB is not initiating. I am at a loss as where to start. I have tried rebooting, chaning ports, making sure everything is up to date. This is the same camera and files there were working on the Pi 3B+</p> <p>Any help would be greatly ap
+
