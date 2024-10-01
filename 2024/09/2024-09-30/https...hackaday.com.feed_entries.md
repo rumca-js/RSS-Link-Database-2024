@@ -1,0 +1,72 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## Building a 3D Printed Scanning Tunneling Microscope
+ - [https://hackaday.com/2024/09/30/building-a-3d-printed-scanning-tunneling-microscope](https://hackaday.com/2024/09/30/building-a-3d-printed-scanning-tunneling-microscope)
+ - RSS feed: $source
+ - date published: 2024-09-30T23:00:35+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-132300-featured.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-132300-featured.png 1598w, https://hackaday.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-132300-featured.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-132300-featured.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-132300-featured.png?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-132300-featured.png?resize=1536,864 1536w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="725260" data-permalink="https://hackaday.com/2024/09/30/building-a-3d-printed-scanning-tunneling-microscope/scr
+
+## Doing 1080p Video, Sort Of, On the STM32 Microcontroller
+ - [https://hackaday.com/2024/09/30/doing-1080p-video-sort-of-on-the-stm32-microcontroller](https://hackaday.com/2024/09/30/doing-1080p-video-sort-of-on-the-stm32-microcontroller)
+ - RSS feed: $source
+ - date published: 2024-09-30T20:00:29+00:00
+
+<div><img width="800" height="449" src="https://hackaday.com/wp-content/uploads/2024/09/9302771727201397410-e1727695056344.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" data-attachment-id="725243" data-permalink="https://hackaday.com/2024/09/30/doing-1080p-video-sort-of-on-the-stm32-microcontroller/attachment/9302771727201397410/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/9302771727201397410-e1727695056344.jpg" data-orig-size="1429,802" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;
+
+## iPhone 15 Gets Dual SIM Through FPC Patch
+ - [https://hackaday.com/2024/09/30/iphone-15-gets-dual-sim-through-fpc-patch](https://hackaday.com/2024/09/30/iphone-15-gets-dual-sim-through-fpc-patch)
+ - RSS feed: $source
+ - date published: 2024-09-30T18:30:46+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2024/09/hadimg_iphone_dualsimmod_feat.jpeg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/hadimg_iphone_dualsimmod_feat.jpeg 1280w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_iphone_dualsimmod_feat.jpeg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_iphone_dualsimmod_feat.jpeg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_iphone_dualsimmod_feat.jpeg?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="725088" data-permalink="https://hackaday.com/2024/09/30/iphone-15-gets-dual-sim-through-fpc-patch/hadimg_iphone_dualsimmod_feat/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/hadimg_iphone_dualsimmod_feat.jpeg" data-orig-size="1280,720" dat
+
+## Supercon 2023 – Going into Deep Logic Waters With The Pico’s PIO And The Pi’s SMI
+ - [https://hackaday.com/2024/09/30/supercon-2023-going-into-deep-logic-waters-with-the-picos-pio-and-the-pis-smi](https://hackaday.com/2024/09/30/supercon-2023-going-into-deep-logic-waters-with-the-picos-pio-and-the-pis-smi)
+ - RSS feed: $source
+ - date published: 2024-09-30T17:00:15+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2024/09/srefer.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/srefer.jpg 1600w, https://hackaday.com/wp-content/uploads/2024/09/srefer.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/srefer.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2024/09/srefer.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2024/09/srefer.jpg?resize=1536,864 1536w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="724268" data-permalink="https://hackaday.com/2024/09/30/supercon-2023-going-into-deep-logic-waters-with-the-picos-pio-and-the-pis-smi/srefer/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/srefer.jpg" data-orig-size="1600,900" data-comments-opened="1" data-image-meta="{&quot;ape
+
+## 3D Printer Swaps Build Plates to Automate Print Jobs
+ - [https://hackaday.com/2024/09/30/3d-printer-swaps-build-plates-to-automate-print-jobs](https://hackaday.com/2024/09/30/3d-printer-swaps-build-plates-to-automate-print-jobs)
+ - RSS feed: $source
+ - date published: 2024-09-30T15:30:54+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2024/09/Bambu-A1-Mini-Multi-plate-system.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/Bambu-A1-Mini-Multi-plate-system.png 1280w, https://hackaday.com/wp-content/uploads/2024/09/Bambu-A1-Mini-Multi-plate-system.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/Bambu-A1-Mini-Multi-plate-system.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2024/09/Bambu-A1-Mini-Multi-plate-system.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="725137" data-permalink="https://hackaday.com/2024/09/30/3d-printer-swaps-build-plates-to-automate-print-jobs/bambu-a1-mini-multi-plate-system-2/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/Bambu-A1-Mini-Multi-plate-system.png" d
+
+## Static Electricity And The Machines That Make It
+ - [https://hackaday.com/2024/09/30/static-electricity-and-the-machines-that-make-it](https://hackaday.com/2024/09/30/static-electricity-and-the-machines-that-make-it)
+ - RSS feed: $source
+ - date published: 2024-09-30T14:00:17+00:00
+
+<div><img width="800" height="484" src="https://hackaday.com/wp-content/uploads/2018/08/simpleelectronics.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2018/08/simpleelectronics.jpg 3000w, https://hackaday.com/wp-content/uploads/2018/08/simpleelectronics.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2018/08/simpleelectronics.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2018/08/simpleelectronics.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2018/08/simpleelectronics.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2018/08/simpleelectronics.jpg?resize=2048,1239 2048w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="319759" data-permalink="https://hackaday.com/simpleelectronics/" data-orig-file="https://hackaday.com/wp-content/uploads/2018/08/simpleel
+
+## Switch Your RP2040 Between 3.3 V and 1.8 V
+ - [https://hackaday.com/2024/09/30/switch-your-rp2040-between-3-3-v-and-1-8-v](https://hackaday.com/2024/09/30/switch-your-rp2040-between-3-3-v-and-1-8-v)
+ - RSS feed: $source
+ - date published: 2024-09-30T11:00:25+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2024/09/hadimg_rp2040_multivolt_feat.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/hadimg_rp2040_multivolt_feat.png 1280w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_rp2040_multivolt_feat.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_rp2040_multivolt_feat.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_rp2040_multivolt_feat.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="725074" data-permalink="https://hackaday.com/2024/09/30/switch-your-rp2040-between-3-3-v-and-1-8-v/hadimg_rp2040_multivolt_feat/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/hadimg_rp2040_multivolt_feat.png" data-orig-size="1280,720" data-comments-o
+
+## Inside the F-4 Attitude Indicator
+ - [https://hackaday.com/2024/09/30/inside-the-f-4-attitude-indicator](https://hackaday.com/2024/09/30/inside-the-f-4-attitude-indicator)
+ - RSS feed: $source
+ - date published: 2024-09-30T08:00:00+00:00
+
+<div><img width="800" height="459" src="https://hackaday.com/wp-content/uploads/2024/09/adi.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/adi.png 800w, https://hackaday.com/wp-content/uploads/2024/09/adi.png?resize=250,143 250w, https://hackaday.com/wp-content/uploads/2024/09/adi.png?resize=400,230 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="725054" data-permalink="https://hackaday.com/2024/09/30/inside-the-f-4-attitude-indicator/adi-2/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/adi.png" data-orig-size="800,459" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quo
+
+## Shoot Smooth Video From Your Phone With the Syringe Slider
+ - [https://hackaday.com/2024/09/29/shoot-smooth-video-from-your-phone-with-the-syringe-slider](https://hackaday.com/2024/09/29/shoot-smooth-video-from-your-phone-with-the-syringe-slider)
+ - RSS feed: $source
+ - date published: 2024-09-30T05:00:43+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2024/09/syringe-slider-1.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/syringe-slider-1.png 1389w, https://hackaday.com/wp-content/uploads/2024/09/syringe-slider-1.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/syringe-slider-1.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2024/09/syringe-slider-1.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="725114" data-permalink="https://hackaday.com/2024/09/29/shoot-smooth-video-from-your-phone-with-the-syringe-slider/syringe-slider-1/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/syringe-slider-1.png" data-orig-size="1389,781" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot
+
+## Some SPI Flash Chip Nuances Worth Learning
+ - [https://hackaday.com/2024/09/29/some-spi-flash-chip-nuances-worth-learning](https://hackaday.com/2024/09/29/some-spi-flash-chip-nuances-worth-learning)
+ - RSS feed: $source
+ - date published: 2024-09-30T02:00:58+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2024/09/hadimg_spiflash_lessons_feat.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2024/09/hadimg_spiflash_lessons_feat.jpg 1280w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_spiflash_lessons_feat.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_spiflash_lessons_feat.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2024/09/hadimg_spiflash_lessons_feat.jpg?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="725076" data-permalink="https://hackaday.com/2024/09/29/some-spi-flash-chip-nuances-worth-learning/hadimg_spiflash_lessons_feat/" data-orig-file="https://hackaday.com/wp-content/uploads/2024/09/hadimg_spiflash_lessons_feat.jpg" data-orig-size="1280,720" data-comments-o
+

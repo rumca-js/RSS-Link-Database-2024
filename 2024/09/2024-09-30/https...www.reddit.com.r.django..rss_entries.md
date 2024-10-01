@@ -1,0 +1,93 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## React and Django comprehensive tutorial?
+ - [https://www.reddit.com/r/django/comments/1ft80s5/react_and_django_comprehensive_tutorial](https://www.reddit.com/r/django/comments/1ft80s5/react_and_django_comprehensive_tutorial)
+ - RSS feed: $source
+ - date published: 2024-09-30T22:04:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I already know that this is probably a post made once a week here, but I have seen so many different implementations of react with Django and I’m just wondering what is considered the most “correct” and the most cohesive source for a stack like this</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sarconefourthree"> /u/sarconefourthree </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ft80s5/react_and_django_comprehensive_tutorial/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ft80s5/react_and_django_comprehensive_tutorial/">[comments]</a></span>
+
+## I still need a remote job
+ - [https://www.reddit.com/r/django/comments/1ft6ios/i_still_need_a_remote_job](https://www.reddit.com/r/django/comments/1ft6ios/i_still_need_a_remote_job)
+ - RSS feed: $source
+ - date published: 2024-09-30T21:01:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m a Django dev and I’m in dare need of job. I do backend development. Please I really need this job. I have 1.5 years of experience but I’ve worked extensively that you’ll be impressed with my work rate. Please help me </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dense-Fee-9859"> /u/Dense-Fee-9859 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ft6ios/i_still_need_a_remote_job/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ft6ios/i_still_need_a_remote_job/">[comments]</a></span>
+
+## Celery tasks with ETA repeating several times
+ - [https://www.reddit.com/r/django/comments/1ft2lfu/celery_tasks_with_eta_repeating_several_times](https://www.reddit.com/r/django/comments/1ft2lfu/celery_tasks_with_eta_repeating_several_times)
+ - RSS feed: $source
+ - date published: 2024-09-30T18:21:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, I am using Celery with Redis as a message broker. I have implemented a system where users can schedule emails to be sent at a certain time. To do this, I am using <code>task.apply_async(..., eta=eta)</code></p> <p>Naively, for ease of testing, I checked if this work by scheduling an email for one minute in the future. One minute later, I received an email. No problem.</p> <p>The issue arises when scheduling an email hours in advance. When the scheduled time arrived, 10 emails were sent simultaneously to the user.</p> <p>I now understand that tasks should be idempotent. I will be rewriting my code to ensure this is the case. But there seems to be an underlying issue here that I am not understanding - why is the task being duplicated many times over?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Necessary-Ad8108"> /u/Necessary-Ad8108 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ft2l
+
+## Django (pip) + npm
+ - [https://www.reddit.com/r/django/comments/1ft2ev4/django_pip_npm](https://www.reddit.com/r/django/comments/1ft2ev4/django_pip_npm)
+ - RSS feed: $source
+ - date published: 2024-09-30T18:14:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>A week ago I asked what stack you guys recommend and I think the winner was:</p> <p>Django + Alpine.js + HTMX + Tailwind</p> <p>However I am not very experienced when in comes to the node world. I have worked some with npm and yarn but I never combined it with a python/django project.</p> <p>What is the best way to do it? I mean it should live in the static folder somehow? How do you deal with templates etc? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Comprehensive-Set-77"> /u/Comprehensive-Set-77 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ft2ev4/django_pip_npm/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ft2ev4/django_pip_npm/">[comments]</a></span>
+
+## Help me deploy a REST API for FREE
+ - [https://www.reddit.com/r/django/comments/1fsytdc/help_me_deploy_a_rest_api_for_free](https://www.reddit.com/r/django/comments/1fsytdc/help_me_deploy_a_rest_api_for_free)
+ - RSS feed: $source
+ - date published: 2024-09-30T15:48:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello Everyone, </p> <p>I&#39;m building a REST API for a mobile app and I didn&#39;t finish it yet but my colleague who is working on the app wanted to link the backend directly as he go, so I need to deploy the API and also be able to push changes to it as I push to changes to the github repo , I never deployed an API before so I need a free service that is easy to use especially as beginner in deployments, I have : </p> <p>Python 3.11.5 , Django 5.0, sqlite3</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crims0nV0id"> /u/Crims0nV0id </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fsytdc/help_me_deploy_a_rest_api_for_free/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fsytdc/help_me_deploy_a_rest_api_for_free/">[comments]</a></span>
+
+## Built a 360 Geo Guesser Game with Django
+ - [https://www.reddit.com/r/django/comments/1fsyll7/built_a_360_geo_guesser_game_with_django](https://www.reddit.com/r/django/comments/1fsyll7/built_a_360_geo_guesser_game_with_django)
+ - RSS feed: $source
+ - date published: 2024-09-30T15:40:15+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://i.redd.it/kb5lw2nmuyrd1.gif">https://i.redd.it/kb5lw2nmuyrd1.gif</a></p> <p>Recently built a Geo Guesser Game over the weekend, curious to see what feedback I could get on this project. I made a blog post in partnership with this project that can be found:<br/> <a href="https://geomapindex.com/blog/Building%20a%20New%20Geo%20Guesser%20Game/">https://geomapindex.com/blog/Building%20a%20New%20Geo%20Guesser%20Game/</a></p> <p>Play the game here:<br/> <a href="https://dash.geomapindex.com/geo_game_select">https://dash.geomapindex.com/geo_game_select</a></p> <p>Built in Django / Dash, custom components and UI just an initial release.</p> <p>Specific input I&#39;m looking for:</p> <p>What do you like / don&#39;t like about the UI?</p> <p>What location should I make the next game for?</p> <p>What features would you like to see added?</p> <p>etcetera..</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sool
+
+## How to retrieve current users 'id' when they are logged in to an external application
+ - [https://www.reddit.com/r/django/comments/1fsyc3a/how_to_retrieve_current_users_id_when_they_are](https://www.reddit.com/r/django/comments/1fsyc3a/how_to_retrieve_current_users_id_when_they_are)
+ - RSS feed: $source
+ - date published: 2024-09-30T15:29:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am working on a chrome extension and I want to be able to identify what Django user is using the extension. I am trying to do this by extracting the users id from their cookies.</p> <pre><code>@api_view([&#39;GET&#39;]) def get_current_user_id(request): if request.user.is_authenticated and request.user.is_active: user_id = request.user.id else: user_id = 0 return Response({&#39;result&#39;: user_id}, status=status.HTTP_200_OK) </code></pre> <p>When I test the URL in my browser I am getting the correct user_id. However, when I run the code as part of my chrome extension it returns 0. </p> <p>Would anyone be able to recommend a way to extract the user id?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/47penguins"> /u/47penguins </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fsyc3a/how_to_retrieve_current_users_id_when_they_are/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r
+
+## Why use Django when we have FastAPI for small userbase applications
+ - [https://www.reddit.com/r/django/comments/1fsy799/why_use_django_when_we_have_fastapi_for_small](https://www.reddit.com/r/django/comments/1fsy799/why_use_django_when_we_have_fastapi_for_small)
+ - RSS feed: $source
+ - date published: 2024-09-30T15:24:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>People often mention that Django comes with ORM and admin support. However, I can use SQLAlchemy or raw SQL queries as well. While Django has built-in admin features, FastAPI offers a full-stack template repository with React, which has pretty decent features that meet most requirements. FastAPI is also fast due to its asynchronous nature and has a growing, enthusiastic community eager to help.</p> <p>Am I wrong in saying this? Give me good reasons to use Django.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Baka_py_Nerd"> /u/Baka_py_Nerd </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fsy799/why_use_django_when_we_have_fastapi_for_small/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fsy799/why_use_django_when_we_have_fastapi_for_small/">[comments]</a></span>
+
+## Django vs Spring Boot ??
+ - [https://www.reddit.com/r/django/comments/1fsuxft/django_vs_spring_boot](https://www.reddit.com/r/django/comments/1fsuxft/django_vs_spring_boot)
+ - RSS feed: $source
+ - date published: 2024-09-30T12:59:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a decent experience with Django for last 3 years, I also own little experience with front end as well. As of now, I&#39;ve seen a lot of job openings in Java, Spring Boot, and very little opportunities for Django. My organization is also getting a lot of Spring Boot requirements now days. I love working with Django, I love it&#39;s ecosystem, the easyness, simplicity. Is it worth continuing Django, or should I switch to Spring Boot. ? Is there anyone coming from Java background or moved to Java ?? Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Professional_Taro194"> /u/Professional_Taro194 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fsuxft/django_vs_spring_boot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fsuxft/django_vs_spring_boot/">[comments]</a></span>
+
+## Why iommi is so… weird
+ - [https://www.reddit.com/r/django/comments/1fsuhwb/why_iommi_is_so_weird](https://www.reddit.com/r/django/comments/1fsuhwb/why_iommi_is_so_weird)
+ - RSS feed: $source
+ - date published: 2024-09-30T12:38:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/kankyo"> /u/kankyo </a> <br/> <span><a href="https://kodare.net/2024/09/30/why-iommi-is-weird.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fsuhwb/why_iommi_is_so_weird/">[comments]</a></span>
+
+## I can't find job review my resume
+ - [https://www.reddit.com/r/django/comments/1fss604/i_cant_find_job_review_my_resume](https://www.reddit.com/r/django/comments/1fss604/i_cant_find_job_review_my_resume)
+ - RSS feed: $source
+ - date published: 2024-09-30T10:19:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been applying for a django developer role, however i am even getting the chance for an interview. I think my resume might not be good, can suggest me what to improve ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/awahidanon"> /u/awahidanon </a> <br/> <span><a href="https://i.redd.it/ol92g304axrd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fss604/i_cant_find_job_review_my_resume/">[comments]</a></span>
+
+## My learning is Stagnated!
+ - [https://www.reddit.com/r/django/comments/1fsmrgs/my_learning_is_stagnated](https://www.reddit.com/r/django/comments/1fsmrgs/my_learning_is_stagnated)
+ - RSS feed: $source
+ - date published: 2024-09-30T03:51:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m a Solo Django Learner, I started learning Django exactly 1 year ago. I&#39;ve improved a lot compared to my beginning.</p> <p>Now I feel like my learning has stagnated. What to do please help, your suggestion matters.</p> <p>Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Medium-Rain9082"> /u/Medium-Rain9082 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fsmrgs/my_learning_is_stagnated/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fsmrgs/my_learning_is_stagnated/">[comments]</a></span>
+
+## Hello, I would like to invite Django developers to share their tips on how to choose safe pip install packages.
+ - [https://www.reddit.com/r/django/comments/1fsk39d/hello_i_would_like_to_invite_django_developers_to](https://www.reddit.com/r/django/comments/1fsk39d/hello_i_would_like_to_invite_django_developers_to)
+ - RSS feed: $source
+ - date published: 2024-09-30T01:26:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I have 1-2 years of experience with Django and many years as a PHP developer. I&#39;d like to invite other Django developers to share their tips on how to choose safe pip install packages. I&#39;m sure the community has something valuable to advise us</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Due-Action358"> /u/Due-Action358 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1fsk39d/hello_i_would_like_to_invite_django_developers_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1fsk39d/hello_i_would_like_to_invite_django_developers_to/">[comments]</a></span>
+

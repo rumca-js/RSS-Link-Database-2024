@@ -1,0 +1,219 @@
+# Source:ZDNET, URL:https://www.zdnet.com/news/rss.xml, language:en-US
+
+## The journey to fully autonomous AI agents and the venture capitalists funding them
+ - [https://www.zdnet.com/article/the-journey-to-ai-agents-according-to-the-venture-capitalists-funding-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-journey-to-ai-agents-according-to-the-venture-capitalists-funding-them/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T21:13:14+00:00
+
+Today's so-called AI agents will be surpassed by programs that have far greater control of the decisions made in corporate processes.
+
+## The best email hosting services of 2024: Expert tested
+ - [https://www.zdnet.com/article/best-email-hosting/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-email-hosting/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T21:01:07+00:00
+
+The best email hosting services offer ample storage, robust security, custom email domains, and customer support. We've found the best services on the market to suit any budget.
+
+## One of the most immersive soundbars I've tested is not a Bose or Sonos (and it's $200 off)
+ - [https://www.zdnet.com/home-and-office/home-entertainment/one-of-the-most-immersive-soundbars-ive-tested-is-not-a-bose-or-sonos-and-its-200-off/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/one-of-the-most-immersive-soundbars-ive-tested-is-not-a-bose-or-sonos-and-its-200-off/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T21:00:00+00:00
+
+The LG S95TR soundbar delivers incredible audio quality and has unique features that you'll actually want to use. It's $200 off ahead of October Prime Day.
+
+## Google's new Workspace password policy starts today: How to know if you're affected
+ - [https://www.zdnet.com/article/googles-new-workspace-password-policy-starts-today-how-to-know-if-youre-affected/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-new-workspace-password-policy-starts-today-how-to-know-if-youre-affected/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T20:29:00+00:00
+
+Google Workspace drops support for older internet protocols and adopts OAuth for better account protection. Here's who's impacted and what to do.
+
+## Apple's AirTag 4-Pack is $20 off right now ahead of October Prime Day
+ - [https://www.zdnet.com/home-and-office/apples-airtag-4-pack-is-20-off-right-now-ahead-of-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/apples-airtag-4-pack-is-20-off-right-now-ahead-of-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T20:10:19+00:00
+
+If you're an iPhone user, you could probably use these trackers to keep tabs on your keys, wallet, luggage, and even your young kids, especially with this $20 discount.
+
+## The best touchscreen laptops in 2024: Expert tested and reviewed
+ - [https://www.zdnet.com/article/the-best-touchscreen-laptops/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-best-touchscreen-laptops/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T20:02:17+00:00
+
+We've tested some of the best touchscreen laptops from HP, Lenovo, and Asus to find the best one for your everyday needs.
+
+## Best early Prime Day Echo device deals to shop in October 2024
+ - [https://www.zdnet.com/home-and-office/smart-home/best-early-prime-day-echo-device-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-early-prime-day-echo-device-deals/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T19:51:02+00:00
+
+Looking to add some Alexa into your life? Amazon's Prime Big Deal Days sale is the perfect time to buy a new Amazon Echo device to make your home smarter this fall.
+
+## Best early Prime Day Fire TV deals to shop in October 2024
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-early-prime-day-fire-tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-early-prime-day-fire-tv-deals/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T19:40:22+00:00
+
+Amazon's Prime Big Deal Days sale is a great time to buy a new TV, especially if you're interested in an Amazon Fire TV. Here are the best deals you can find now.
+
+## Best early Prime Day monitor deals to shop in October 2024
+ - [https://www.zdnet.com/article/best-early-prime-day-monitor-deals-2024/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-early-prime-day-monitor-deals-2024/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T19:31:07+00:00
+
+Our favorite office, gaming, and hi-res monitors are seeing deep discounts ahead of Amazon's Prime Big Deal Days sale, including from brands like Asus and Samsung.
+
+## Best early Prime Day kitchen deals to shop in October 2024
+ - [https://www.zdnet.com/home-and-office/kitchen-household/best-early-prime-day-kitchen-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-early-prime-day-kitchen-deals/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T19:11:00+00:00
+
+Amazon's Prime Big Deal Days sale is a week away, but you can already find discounts on some top kitchen appliances from Nespresso, Nutribullet, Ninja, and more.
+
+## The Echo Pop smart speaker is just $18 with this October Prime Day deal
+ - [https://www.zdnet.com/home-and-office/home-entertainment/the-echo-pop-smart-speaker-is-just-18-with-this-october-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/the-echo-pop-smart-speaker-is-just-18-with-this-october-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T19:08:35+00:00
+
+An Echo Pop is the perfect way to add a little pop of Alexa to your life this October Prime Day, pun intended.
+
+## Best early anti-Prime Day deals to shop in October 2024
+ - [https://www.zdnet.com/article/best-early-anti-prime-day-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-early-anti-prime-day-deals/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T18:59:46+00:00
+
+Amazon's October Prime Day sale doesn't kick off until next week, but other major retailers are already slashing prices on top tech.
+
+## Best early Prime Day TV deals to shop in October 2024
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-early-prime-day-tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-early-prime-day-tv-deals/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T18:49:38+00:00
+
+Amazon's Prime Big Deal Days sale is just around the corner, but you don't have to wait to start saving on TVs from brands like Samsung, TCL, and Sony.
+
+## Is Verizon down for you? Massive outage puts phones in SOS mode across the US
+ - [https://www.zdnet.com/article/is-verizon-down-for-you-massive-outage-puts-phones-in-sos-mode-across-the-us/#ftag=RSSbaffb68](https://www.zdnet.com/article/is-verizon-down-for-you-massive-outage-puts-phones-in-sos-mode-across-the-us/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T18:35:00+00:00
+
+Customers are reporting no access to calls, texts, or wireless data. Here's what Verizon has to say so far.
+
+## Zorin OS 17.2 offers even more ways to customize your Linux distro
+ - [https://www.zdnet.com/article/zorin-os-17-2-offers-even-more-ways-to-customize-your-linux-distro/#ftag=RSSbaffb68](https://www.zdnet.com/article/zorin-os-17-2-offers-even-more-ways-to-customize-your-linux-distro/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T18:27:09+00:00
+
+This extremely user-friendly distribution is available in free and Pro versions. Here's what makes the latest release so worth downloading.
+
+## How to subscribe to ChatGPT Plus (and 5 reasons why you should)
+ - [https://www.zdnet.com/article/how-to-subscribe-to-chatgpt-plus-and-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-subscribe-to-chatgpt-plus-and-why/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T17:32:00+00:00
+
+OpenAI keeps unveiling new features and rolling them out to its Plus plan subscribers. Here's what you get with a subscription.
+
+## Wake up gently with this sunrise alarm clock that's $30 off ahead of October Prime Day
+ - [https://www.zdnet.com/article/wake-up-gently-with-this-sunrise-alarm-clock-october-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/wake-up-gently-with-this-sunrise-alarm-clock-october-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T16:59:00+00:00
+
+The Hatch Restore 2 builds on the success of the original sunrise alarm clock with improved speakers, audio tracks, and 'Morning Moments.' Plus, it's 15% off as an early October Prime Day deal.
+
+## How a post-hurricane disaster sold me on a $2,000 pool-cleaning robot
+ - [https://www.zdnet.com/home-and-office/kitchen-household/how-a-post-hurricane-disaster-sold-me-on-a-2000-pool-cleaning-robot/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/how-a-post-hurricane-disaster-sold-me-on-a-2000-pool-cleaning-robot/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T16:23:00+00:00
+
+After a lightning strike showered debris into my pool, the Beatbot Aquasense Pro pool cleaner tackled the mess with ease, proving its worth in extreme conditions.
+
+## Is Verizon down for you? Here's why your phone's in SOS mode during the massive outage
+ - [https://www.zdnet.com/article/is-verizon-down-for-you-heres-why-your-phones-in-sos-mode-during-the-massive-outage/#ftag=RSSbaffb68](https://www.zdnet.com/article/is-verizon-down-for-you-heres-why-your-phones-in-sos-mode-during-the-massive-outage/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T16:15:00+00:00
+
+Customers are reporting no access to calls, texts, or wireless data. Here's what you need to know about the outage.
+
+## Get the AirPods Pro 2 (that can turn into a hearing aid) for $60 off ahead of October Prime Day
+ - [https://www.zdnet.com/article/airpods-pro-prime-day-deal-09-30-24/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-prime-day-deal-09-30-24/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T15:21:23+00:00
+
+Apple just unveiled the AirPods 4, but you can buy the AirPods Pro (2nd generation), our top pick out of the AirPods lineup, at a discount ahead of Prime Day.
+
+## The Windows laptop I recommend to most people undercuts the MacBook Air (but is just as capable)
+ - [https://www.zdnet.com/article/the-windows-laptop-i-recommend-to-most-people-undercuts-the-macbook-air-but-is-just-as-capable/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-windows-laptop-i-recommend-to-most-people-undercuts-the-macbook-air-but-is-just-as-capable/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T15:18:00+00:00
+
+Microsoft's flagship Copilot+ PC, the Surface Laptop, is a well-rounded device with a marathon battery and solid hardware. Right now, it's on sale for $949.
+
+## I tried Meta's Horizon Hyperscape demo: Welcome to the metaverse's first holodeck
+ - [https://www.zdnet.com/article/i-tried-metas-horizon-hyperscape-demo-welcome-to-the-metaverses-first-holodeck/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-tried-metas-horizon-hyperscape-demo-welcome-to-the-metaverses-first-holodeck/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T14:51:25+00:00
+
+With Hyperscape, Meta is turning your smartphone into a powerful VR scanner. Here's how this cutting-edge tech could revolutionize everything from education to real estate.
+
+## Amazon's Echo Spot alarm clock is 44% off ahead of October Prime Day
+ - [https://www.zdnet.com/home-and-office/smart-home/amazons-echo-spot-alarm-clock-is-44-off-ahead-of-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/amazons-echo-spot-alarm-clock-is-44-off-ahead-of-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T14:15:06+00:00
+
+The latest Alexa smart alarm clock doubles as a nightstand companion, and it's got an enticing offer ahead of October Prime Day.
+
+## Grab Microsoft Office for Windows for $35 - the lowest price so far
+ - [https://www.zdnet.com/article/grab-microsoft-office-for-windows-for-35-the-lowest-price-so-far/#ftag=RSSbaffb68](https://www.zdnet.com/article/grab-microsoft-office-for-windows-for-35-the-lowest-price-so-far/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T14:00:20+00:00
+
+Pay just once and get a lifetime license to the Microsoft Office 2021 app suite (including Word, Excel, and PowerPoint) on your PC for 84% off right now (there's a deal for a Mac version, too).
+
+## Get a Microsoft 365 license for $40 right now (save 42%)
+ - [https://www.zdnet.com/article/get-a-microsoft-365-license-for-40-right-now-save-42/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-a-microsoft-365-license-for-40-right-now-save-42/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T13:00:19+00:00
+
+With this deal, you can access Office apps like Word, Excel, PowerPoint, and Outlook, along with 1TB of OneDrive cloud storage, for the lowest price we've seen.
+
+## 20 years of Ubuntu: Canonical celebrates with upcoming 24.10 - and it's outstanding as usual
+ - [https://www.zdnet.com/article/20-years-of-ubuntu-canonical-celebrates-with-upcoming-24-10-and-its-outstanding-as-usual/#ftag=RSSbaffb68](https://www.zdnet.com/article/20-years-of-ubuntu-canonical-celebrates-with-upcoming-24-10-and-its-outstanding-as-usual/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T12:40:47+00:00
+
+If Ubuntu is your jam, you'll be excited to know it's the 20th anniversary of the first official release of the Linux desktop OS, and 24.10 has plenty to offer.
+
+## Join Costco and get a free $20 gift card. Here's how
+ - [https://www.zdnet.com/home-and-office/join-costco-and-get-a-free-20-gift-card-heres-how/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/join-costco-and-get-a-free-20-gift-card-heres-how/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T11:45:52+00:00
+
+Don't miss this deal to buy your own Costco membership and get a free $20 gift card, effectively cutting the price to $45 for the year. (I bought one and highly recommend it.)
+
+## Want an entire tech repair shop of tools in a single messenger bag? iFixit can fix that
+ - [https://www.zdnet.com/home-and-office/want-an-entire-tech-repair-shop-of-tools-in-a-single-messenger-bag-ifixit-can-fix-that/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/want-an-entire-tech-repair-shop-of-tools-in-a-single-messenger-bag-ifixit-can-fix-that/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T09:43:00+00:00
+
+The iFixit Repair Business Toolkit got a refresh in 2023. I've been using the kit for over a year. Here's what I have inside the bag now.
+
+## Networks of collaborative AI agents will transform how we work, says this expert
+ - [https://www.zdnet.com/article/networks-of-collaborative-agents-will-transform-ai-says-this-expert/#ftag=RSSbaffb68](https://www.zdnet.com/article/networks-of-collaborative-agents-will-transform-ai-says-this-expert/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T08:37:42+00:00
+
+Hubspot CTO says the next step in AI may be networks of agents that collaborate to achieve more complex tasks, mostly without human supervision.
+
+## Bank of America survey predicts massive AI lift to corporate profits
+ - [https://www.zdnet.com/article/bank-of-america-survey-predicts-massive-ai-lift-to-corporate-profits/#ftag=RSSbaffb68](https://www.zdnet.com/article/bank-of-america-survey-predicts-massive-ai-lift-to-corporate-profits/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T07:34:22+00:00
+
+Software firms may benefit the most, while the human capital-driven healthcare services industries could see a profit deterioration.
+
+## 5 ways to balance self-promotion with the demands of the business
+ - [https://www.zdnet.com/home-and-office/work-life/five-ways-to-balance-self-promotion-with-therequirements-of-the-business/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/five-ways-to-balance-self-promotion-with-therequirements-of-the-business/#ftag=RSSbaffb68)
+ - RSS feed: $source
+ - date published: 2024-09-30T00:10:42+00:00
+
+Reaching the top of the IT profession means treading a careful line between showing off and delivering results. Here's how to do it.
+
