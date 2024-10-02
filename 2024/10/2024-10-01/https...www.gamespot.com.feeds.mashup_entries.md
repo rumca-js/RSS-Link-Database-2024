@@ -1,0 +1,275 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## New Nintendo Switch Holiday Value Bundles Are Now Available At Walmart
+ - [https://www.gamespot.com/articles/nintendo-switch-holiday-deals-2024-console-bundles/1100-6526528/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-switch-holiday-deals-2024-console-bundles/1100-6526528/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T16:14:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="2676" data-template="2" data-size="buylink__large" data-title="6526528 - Nintendo Switch Holiday Bundles 2024" data-collection="" title="6526528 - Nintendo Switch Holiday Bundles 2024" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4369747-mario-2.jpg alt="">                                 <a href="https://goto.walmart.com/c/1804712/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https://www.walmart.com/ip/HEGSKAASB/11390960449&amp;subId1=subid_value"></a>                              </div>         
+
+## Arcade1Up's New Full-Size Claw Machine Has Optional "Scam" Difficulty Mode
+ - [https://www.gamespot.com/articles/arcade1up-home-claw-machine-at-amazon/1100-6526823/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/arcade1up-home-claw-machine-at-amazon/1100-6526823/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T15:27:00+00:00
+
+<div title="6526823 - Arcade1Up Claw Machine Preorders" data-embed-type="buylink" data-ref-id="2697" data-template="2" data-size="buylink__large" data-title="6526823 - Arcade1Up Claw Machine Preorders" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4377230-arcade1upclawmachine.png alt="">                                 <a href="https://www.amazon.com/dp/B0DG44KFVL?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">           
+
+## New Destiny 2 Concept Art Sheds Just A Little Light On Upcoming Expansion
+ - [https://www.gamespot.com/articles/new-destiny-2-concept-art-sheds-just-a-little-light-on-upcoming-expansion/1100-6526840/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-destiny-2-concept-art-sheds-just-a-little-light-on-upcoming-expansion/1100-6526840/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T12:40:00+00:00
+
+<p dir="ltr">We still have very few concrete details about <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>'s next expansion, Codename: Apollo, but Bungie has provided some new, if vague, looks at what we can expect with concept art and a list of inspirations that include The Doors, Slaughterhouse Five, and Scavenger's Reign.</p><p dir="ltr">Bungie talked a bit about Codename: Frontiers, the next phase of Destiny 2's content that'll kick off in Summer 2025, on a recent developer livestream that also <a href="https://www.gamespot.com/articles/destiny-2-revenant-brings-a-new-onslaught-mode-and-a-big-focus-on-stasis/1100-6526839/">covered Episode: Revenant</a>, which starts on October 8. Narrative director Alison Luhrs showed new concept art for the expansion's destination and provided some cryptic details about what players can expect as Destiny 2 moves into a new story.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=FGgEhZwd-kE" data-width="1
+
+## Robert Englund Rules Out Playing Freddy Krueger Again
+ - [https://www.gamespot.com/articles/robert-englund-rules-out-playing-freddy-krueger-again/1100-6526838/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/robert-englund-rules-out-playing-freddy-krueger-again/1100-6526838/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T12:21:00+00:00
+
+<p>It's no secret that Robert Englund has previously spoken about leaving behind his iconic role as Freddy Krueger, the famous slasher from A Nightmare on Elm Street and all of its sequels. However, Englund has been enticed back to the role as recently as 2018 for a guest appearance on The Goldbergs. But this time, Englund is ruling out another turn as Freddy.</p><p>"I can't play him anymore. I'm too old," said Englund during a recent interview with <a href="https://bloody-disgusting.com/interviews/3833348/robert-englund-talks-elm-street-4k-release-and-whether-or-not-hell-play-freddy-again-interview/">Bloody Disgusting</a>. "There's no Freddy left in me."</p><p>Englund specifically cited the fact that he can't do any more fight scenes or quick movements in the Freddy costume. Despite skipping the 2010 remake of the original film, the actor did express his willingness to make a guest appearance in any future Nightmare on Elm Street reboots. He was particularly enthusiastic about making
+
+## Pokemon Go October 2024 Events: Raids, Spotlight Hours, Community Day, And More
+ - [https://www.gamespot.com/articles/pokemon-go-october-2024-events-raids-spotlight-hours-community-day-and-more/1100-6526802/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-go-october-2024-events-raids-spotlight-hours-community-day-and-more/1100-6526802/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T12:00:00+00:00
+
+<p><a href="https://www.gamespot.com/games/pokemon-go/">Pokemon Go</a>'s Max Out season rolls on in October with a variety of new events and Pokemon debuts lined up over the next few weeks. In addition to new raid bosses, more Galar Pokemon are set to arrive in the game this month, including Dynamax forms of Grookey, Scorbunny, and Sobble.</p><p>That's not all that's happening in October, however. Pokemon Go is also celebrating Halloween with some spooky Spotlight Hours and its annual Halloween event, which will take place over two weeks this year. Read on for a full look at all the biggest events happening in Pokemon Go this month.</p><div data-embed-type="toc"><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul id="toc_list" class="collapse in"><li><a href="https://www.gamespot.com">October Raid Schedule</a></li></ul></div><h2 id="October_Raid_Schedule">October Raid Schedule</h2><p>A handful of new Pokemon will be appearing in raids throu
+
+## Joker Director Says He Probably Won't Make Another DC Movie
+ - [https://www.gamespot.com/articles/joker-director-says-he-probably-wont-make-another-dc-movie/1100-6526837/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/joker-director-says-he-probably-wont-make-another-dc-movie/1100-6526837/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T11:54:00+00:00
+
+<p>Joker director Todd Phillips created one of the <a href="https://www.gamespot.com/articles/joker-to-cross-1-billion-and-become-one-of-the-mos/1100-6471513/">most profitable films in Hollywood history</a> and is following it up with Joker: Folie à Deux this coming Friday, October 4. Would Phillips ever come back for another Joker or DC movie? Don't get your hopes up.</p><p>Asked by <a href="https://www.hollywoodreporter.com/movies/movie-news/todd-phillips-dc-universe-joker-folie-a-deux-lady-gaga-1236018853/">The Hollywood Reporter</a> if he might make a standalone movie for Lady Gaga's character, Harley, Phillips said he has no plans for that or any other DC movies.</p><p>"It's not really where this movie is headed for me. I feel like my time in the DC Universe was these two films," he said.</p><a href="https://www.gamespot.com/articles/joker-director-says-he-probably-wont-make-another-dc-movie/1100-6526837/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Destiny 2 Revenant Brings A New Onslaught Mode And A Big Focus On Stasis
+ - [https://www.gamespot.com/articles/destiny-2-revenant-brings-a-new-onslaught-mode-and-a-big-focus-on-stasis/1100-6526839/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-revenant-brings-a-new-onslaught-mode-and-a-big-focus-on-stasis/1100-6526839/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T11:52:00+00:00
+
+<p dir="ltr">One of <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>'s newest long-term activities, Onslaught, will see a new version, new maps, and a few updates when the game's next content episode, Revenant, launches on October 8.</p><p dir="ltr">Bungie gave a look at the next major content drop coming to the game during a developer livestream, showing off gameplay of a new version of Onslaught called Onslaught: Salvation. It brings three new maps to the mode--including Widow's Court, a multiplayer map set on Earth--as well as new batches of enemies and new defenses.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=FGgEhZwd-kE" data-width="100%" data-height="100%" data-video-start="1349">          <iframe src="https://www.youtube-nocookie.com/embed/FGgEhZwd-kE?start=1349" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p dir="ltr">The new Onslaught is a versio
+
+## Disney Explains Why Its Fortnite Deal Is So Important -- "We Have To Adapt"
+ - [https://www.gamespot.com/articles/disney-explains-why-its-fortnite-deal-is-so-important-we-have-to-adapt/1100-6526831/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-explains-why-its-fortnite-deal-is-so-important-we-have-to-adapt/1100-6526831/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T11:39:00+00:00
+
+<p>Epic Games is investing $1.5 billion into Epic Games to create what sounds like a Disney metaverse within Fortnite, and now one of Disney's top bosses has shared a few more details on the company's plans.</p><p>Disney boss Josh D'Amaro--who is among the candidates to become Disney's new CEO after Bob Iger leaves--told <a href="https://www.hollywoodreporter.com/business/business-news/disney-josh-damaro-parks-experiences-1236017394/">The Hollywood Reporter</a> that Disney is planning to work with Epic to create "a place where you can play games, a place where you can be social, a place where users can generate their own content."</p><p>Essentially, D'Amaro said Disney's aim to create an entire "universe" where "all our stories can come to life."</p><a href="https://www.gamespot.com/articles/disney-explains-why-its-fortnite-deal-is-so-important-we-have-to-adapt/1100-6526831/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Microsoft Discontinues HoloLens For Consumers But Remains Committed To Selling It To The Military
+ - [https://www.gamespot.com/articles/microsoft-discontinues-hololens-for-consumers-but-remains-committed-to-selling-it-to-the-military/1100-6526836/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/microsoft-discontinues-hololens-for-consumers-but-remains-committed-to-selling-it-to-the-military/1100-6526836/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T11:39:00+00:00
+
+<p>Microsoft is discontinuing its consumer HoloLens headset program, marking a major change for the company. After all, CEO Satya Nadella said in 2016 that HoloLens would be <a href="https://www.gamespot.com/articles/xbox-one-games-and-hololens-are-key-for-microsofts/1100-6428459/">"key" to Microsoft's growth in the future</a>. That didn't end up coming to fruition, though, and the HoloLens program is winding down--at least for consumers. Microsoft will continue to work with the US Army to make a version of the headset for soldiers.</p><p>Microsoft confirmed to <a href="https://www.uploadvr.com/microsoft-discontinuing-hololens-2/">UploadVR</a> that HoloLens 2 production has ended. Updates for "critical security issues and software regressions" will run through the end of 2027. But software support for HoloLens 2 will come to an end in 2028.</p><p>The original HoloLens headset that debuted in 2017 will have its own software support end after December 10, 2024. Production on this device
+
+## Nintendo Intensifies Crackdown On YouTube Emulator Channels - Report
+ - [https://www.gamespot.com/articles/nintendo-intensifies-crackdown-on-youtube-emulator-channels-report/1100-6526834/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-intensifies-crackdown-on-youtube-emulator-channels-report/1100-6526834/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T11:02:00+00:00
+
+<p dir="ltr">Nintendo has taken action against YouTube channels showcasing its games running on emulators, issuing copyright strikes against creators such as Retro Game Corps, which reviews devices capable of emulating classic consoles like the NES and Wii U. <a href="https://www.timeextension.com/news/2024/10/nintendo-is-now-going-after-youtube-accounts-which-show-its-games-being-emulated">Time Extension</a> was first to report.</p><p dir="ltr">Russ, the host of Retro Game Corps, shared on social media, "I hate making posts like this, but I received another copyright strike this morning. I'm going to have to change the way I make videos." He revealed that a recent video demonstrating a Wii U emulator was removed at Nintendo's request.</p><div data-embed-type="tweet" data-src="https://x.com/RetroGameCorps/status/1840077263598915978" data-has-image="true"><blockquote align="center" class="twitter-tweet" data-conversation="none" data-mce-disable-toolbar="true"><p dir="ltr">I hate making
+
+## Explore The Lore Of Westeros With These Early Prime Big Deal Days Discounts
+ - [https://www.gamespot.com/articles/prime-big-deal-days-game-of-thrones-illustrated-history-book/1100-6526804/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/prime-big-deal-days-game-of-thrones-illustrated-history-book/1100-6526804/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T10:59:00+00:00
+
+<p>House of the Dragon: Season Two wrapped up earlier this summer, and while there’s no premiere date set for season three, it sounds like <a href="https://www.gamespot.com/articles/house-of-the-dragon-season-3-is-deep-into-writing-phase/1100-6523435/">the team is already working on its script</a>. That makes this the ideal time to dive into one of the many books set in the Game of Thrones and House of the Dragon universe at Amazon. Not only does the online retailer have several Game of Thrones novels and graphic novels on sale, but they’re down to some of the best prices of the year ahead of the <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Big Deal Days</a> sale.</p><p>Our favorite deal is for <a href="https://www.amazon.com/Rise-Dragon-Illustrated-History-Targaryen/dp/1984859250?tag=gamespot-primeday-20">The Rise of the Dragon: An Illustrated History</a>, which is down to one of the lowest prices of the year at just $26 (was $60), though you'll find several other
+
+## Fortnite Now Allows Parents To Set Time Limits On How Much Their Kids Play
+ - [https://www.gamespot.com/articles/fortnite-now-allows-parents-to-set-time-limits-on-how-much-their-kids-play/1100-6526833/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fortnite-now-allows-parents-to-set-time-limits-on-how-much-their-kids-play/1100-6526833/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T10:57:00+00:00
+
+<p dir="ltr">Young Fortnite players might have to take the L to a time limit going forward, should their parents or guardians so choose. That's because Epic Games has added two new parental controls to the game: time limit and time report.</p><p dir="ltr"><a href="https://www.epicgames.com/site/en-US/news/introducing-time-limit-controls-and-time-reports-for-fortnite-and-uefn">These new options</a> allow parents and guardians to set daily restrictions on time spent in Fortnite for their children. Additionally, Epic now lets you select only certain time windows for kids to battle it out on the island. For instance, maybe you only want your little one dancing as Mr. Incredible between 3-5 PM during weekdays. That's possible now.</p><div data-embed-type="video" data-ref-id="2300-6465140" data-src="/videos/fortnite-official-day-of-doom-trailer-new-fortnite-x-marvel-ltm/2300-6465140/" data-width="100%" data-height="100%" data-video-start="0">          <iframe height="100%" width="100%" scro
+
+## Nintendo's Pikmin Are (Sort of) Visiting The San Diego Zoo
+ - [https://www.gamespot.com/articles/nintendos-pikmin-are-sort-of-visiting-the-san-diego-zoo-this-month/1100-6526827/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendos-pikmin-are-sort-of-visiting-the-san-diego-zoo-this-month/1100-6526827/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T10:17:00+00:00
+
+<p>There was a 10-year gap between <a href="https://www.gamespot.com/reviews/pikmin-3-review/1900-6412256/">Pikmin 3</a> and last year's <a href="https://www.gamespot.com/reviews/pikmin-4-review-veggie-might/1900-6418090/">Pikmin 4</a>, but fans of the long-running game series won't have to wait any longer for the adorable creatures are (sort of) crossing over into the real world. Starting today, the Pikmin are coming to the San Diego Zoo as part of an extended promotional event with Nintendo.</p><p>As related in <a href="https://www.businesswire.com/news/home/20241001705385/en/Nintendo-News-Pikmin-Have-Been-Spotted-at-the-San-Diego-Zoo-and-Nintendo-Invites-Guests-to-Join-in-the-Search%21">the official announcement</a>, "explorers of all ages" are invited to visit the San Diego Zoo in San Diego, California to find the Pikmin throughout the zoo. The Pikmin are being used to encourage younger visitors to grow and expand their appreciation for nature and the animals who live in the wild.
+
+## Only 5,000 Of These Wallace & Gromit Box Sets Are Being Made
+ - [https://www.gamespot.com/articles/only-5000-of-these-wallace-gromit-box-sets-are-being-made/1100-6526828/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/only-5000-of-these-wallace-gromit-box-sets-are-being-made/1100-6526828/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T10:14:00+00:00
+
+<p>A lot of great cultural exports have come from Britain--like The Beatles, Bovril, and Shaun of the Dead--and one of its finest is easily Wallace and Gromit. Often seen as the gold standard in the art of claymation, the iconic duo has starred in several shorts and a feature-length film over the years, and if you're looking to own some <em>cracking </em>good entertainment, you can check out this extremely limited box set coming out soon. Only 5,000 copies of <a href="https://www.amazon.com/Wallace-Gromit-Complete-Collection-Collectors/dp/B0DGXZP6CB?tag=gamespot-preorders-20">Wallace and Gromit: The Complete Cracking Collection</a> are being made, and this is priced at $120 ahead of its December 10 release.</p><figure data-align="center" data-size="large" data-img-src="https://www.gamespot.com/a/uploads/original/1601/16018044/4376809-wallace-2.jpg" data-ref-id="1300-4376809" data-ratio="0.5625" data-width="1280" data-embed-type="image" style="width: 1280px"><a href="https://www.gamesp
+
+## Like A Dragon: Pirate Yakuza in Hawaii Gets Preorder Discount And $130 Collector's Edition
+ - [https://www.gamespot.com/articles/like-a-dragon-pirate-yakuza-in-hawaii-preorders-are-now-live/1100-6526606/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/like-a-dragon-pirate-yakuza-in-hawaii-preorders-are-now-live/1100-6526606/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T09:57:00+00:00
+
+<div title="6526606 - Like a Dragon Pirate Yakuza in Hawaii" data-embed-type="buylink" data-ref-id="2680" data-template="2" data-size="buylink__large" data-title="6526606 - Like a Dragon Pirate Yakuza in Hawaii" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4376787-pirateyakuza.png alt="">                                 <a href="https://www.amazon.com/dp/B0DHLPSVJT?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">         
+
+## Two More Horror Legends Are Coming To Fortnite
+ - [https://www.gamespot.com/articles/two-more-horror-legends-are-coming-to-fortnite/1100-6526825/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/two-more-horror-legends-are-coming-to-fortnite/1100-6526825/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T09:46:00+00:00
+
+<p>While the 2024 iteration of Fortnitemares hasn't yet been announced, this week's Fortnite update included a loading screen that appears to be the key art for this year's version of Fortnite's annual spooky event--and it spills the beans on six new skins you'll be able to buy this October. The headliners are two new horror movie collab skins: Leatherface from The Texas Chainsaw Massacre, and Billy the Puppet from Saw.</p><figure data-align="center" data-size="large" data-img-src="https://www.gamespot.com/a/uploads/original/1757/17577455/4376784-fortnitemares2024leatherfacebillysaw.jpg" data-ref-id="1300-4376784" data-ratio="0.56246401842257" data-width="1737" data-embed-type="image" style="width: 1737px"><a href="https://www.gamespot.com/a/uploads/original/1757/17577455/4376784-fortnitemares2024leatherfacebillysaw.jpg"><img alt="Fortnite's newest Fortnitemares event looks packed with horror collabs." src="https://www.gamespot.com/a/uploads/scale_super/1757/17577455/4376784-fortnitem
+
+## CoD: Warzone And MW3 Patch Notes Include More Buffs For MW2 Weapons
+ - [https://www.gamespot.com/articles/cod-warzone-and-mw3-patch-notes-include-more-buffs-for-mw2-weapons/1100-6526826/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-warzone-and-mw3-patch-notes-include-more-buffs-for-mw2-weapons/1100-6526826/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T09:40:00+00:00
+
+<p dir="ltr">A small update has arrived to both <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> and <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Warzone</a>. The patch notes reveal buffs for several Modern Warfare 2 weapons. Other small changes include spawn adjustments for Shipment map variants in multiplayer and improvements for challenges in Warzone.</p><p dir="ltr">For Modern Warfare 3's multiplayer, the update adjusts the spawns for Shipment maps to make them more consistent across the different variants. The developer says this change was based on player feedback and analytics, which revealed the spawn quality was better on the Shipmas version of the map, so now all Shipment maps should have spawns more in line with the Christmas variant.</p><p dir="ltr">The crossbow from Modern Warfare 2 received a significant buff to make it more viable to use. The changes include an 81% increase to the bolt velocit
+
+## Devolver Announces Big Fan Games, New Label Focusing On Movie And Book Games
+ - [https://www.gamespot.com/articles/devolver-announces-big-fan-games-new-label-focusing-on-movie-and-book-games/1100-6526824/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/devolver-announces-big-fan-games-new-label-focusing-on-movie-and-book-games/1100-6526824/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T09:16:00+00:00
+
+<p dir="ltr">Say hello to Big Fan Games, a new spin-off label of Devolver Digital that will publish titles based on movies, TV shows, comic books, and more. The team wants to take a "new approach" to licensed games after working on titles like John Wick Hex and Hellboy: Web of Wyrd.</p><p dir="ltr">No new games were unveiled with the introduction of Big Fan Games. The publisher notes that it wants to work with indie developers on games that aren't just "marketing tie-ins" to help launch a movie or comic book. Instead, Big Fan Games wants its titles to do their own thing.</p><div data-embed-type="video" data-ref-id="2300-6451229" data-src="/videos/john-wick-hex-first-17-minutes-of-gameplay/2300-6451229/" data-width="100%" data-height="100%" data-video-start="0">          <iframe height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen id="-embed-1375979896" class="optanon-category-C0004" data-src="/videos/embed/6451229/"></iframe
+
+## Starfield Shattered Space - How To Find And Track Vaeric
+ - [https://www.gamespot.com/articles/starfield-shattered-space-how-to-find-and-track-vaeric/1100-6526829/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/starfield-shattered-space-how-to-find-and-track-vaeric/1100-6526829/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T09:15:00+00:00
+
+<p>After completing <a href="https://www.gamespot.com/articles/starfield-shattered-space-what-effigy-should-you-pick-during-the-serpents-path/1100-6526806/">The Promised, Broken</a> main story quest in <a href="https://www.gamespot.com/gallery/everything-new-in-starfield-shattered-space-dlc/2900-5808/">Starfield Shattered Space</a>, you get to choose what sub-house to help. There are three houses within House Va'ruun you can help in order to gain access to the Scaled Citadel. One of those houses is House Veth'aal, whose headquarters are located in The Keep within Va'ruun'kai.</p><p>When you arrive at The Keep, you can enter and speak to the Ministry of State and the head of House Veth'aal, Viktor. Viktor will state that his son, Vaeric, has decided to give up his claim to House Veth'aal, which makes him a traitor and sentenced to death. To get House Veth'aal's help for the main story in Shattered Space, you need to find Vaeric and decide his fate. Here's how to do that.</p><h2>How to 
+
+## Dragon Age: The Veilguard Fans Can Preorder Some Elegant Collectibles Ahead Of The Game's Release
+ - [https://www.gamespot.com/articles/dragon-age-the-veilguard-fans-can-preorder-some-elegant-collectibles-ahead-of-the-games-release/1100-6526811/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dragon-age-the-veilguard-fans-can-preorder-some-elegant-collectibles-ahead-of-the-games-release/1100-6526811/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T09:00:00+00:00
+
+<p>A new era for the world of Thedas begins this month in <a href="https://www.gamespot.com/games/dragon-age-the-veilguard/">Dragon Age: The Veilguard</a>, and Dark Horse is planning to celebrate the launch of the game with several new collectibles. Not only are there some exquisitely detailed art books to look forward to, but fans can also get their hands on some fine art in the form of a <a href="https://files.darkhorse.com/_4IXt8zgFp1cRNR">sixth-scale statue</a> and a <a href="https://files.darkhorse.com/_8FXYYxBgc1ZRQR">map of the Dragon Age world</a> so that you'll never get lost while adventuring. These will be available through the <a href="https://www.darkhorsedirect.com/collections/dragon-age">Dark Horse Direct store</a>.</p><div title="" data-embed-type="buylink" data-ref-id="undefined" data-template="undefined" data-size="buylink__small" data-title="" data-collection="%7B%22text%22:%22See%20at%20Dark%20Horse%20Direct%22,%22monetizedUrl%22:%22%22,%22rawUrl%22:%22https://www.
+
+## Fantasian Neo Dimension Is Up For Preorder - The RPG Hits Consoles And PC In December
+ - [https://www.gamespot.com/articles/fantasian-neo-dimension-is-up-for-preorder-the-rpg-hits-consoles-and-pc-in-december/1100-6526807/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fantasian-neo-dimension-is-up-for-preorder-the-rpg-hits-consoles-and-pc-in-december/1100-6526807/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T08:57:00+00:00
+
+<p>After its original release on mobile devices, Fantasian is finally coming to consoles and PC on December 5. Fantasian is developed by Mistwalker and written and produced by Hironobu Sakaguchi, who famously directed a bunch of the best Final Fantasy games, including the original Final Fantasy VII. It also sports music from Nobuo Uematsu, another alumnus of the best FF games. Up to now, though, you could only get Fantasian on iOS, macOS, and tvOS, but the turn-based RPG is finally coming to consoles and PC. <a href="https://www.amazon.com/dp/B0DHYGHQCJ?tag=gamespot-preorders-20&amp;tag=gamespot-buybutton-20">Fantasian Neo Dimension preorders are now live</a>, starting with the Switch edition on Amazon.</p><h2>Fantasian Neo Dimension Preorder Bonuses</h2><p>Preordering Fantasian gets you the Vibran Secret Stone, an in-game equipable item that increases the amount of experience points awarded to characters in battle, allowing you to level up faster as you play.</p><div title="Preorder 
+
+## Sonic Fans Can Now Build And Display Shadow The Hedgehog's Disembodied Head
+ - [https://www.gamespot.com/articles/sonic-fans-can-now-build-and-display-shadow-the-hedgehogs-disembodied-head/1100-6525229/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sonic-fans-can-now-build-and-display-shadow-the-hedgehogs-disembodied-head/1100-6525229/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T08:46:00+00:00
+
+<p>If you're looking forward to <a href="https://www.gamespot.com/articles/sonic-x-shadow-generations-preorder-guide/1100-6524060/">Sonic X Shadow Generations</a>, you can pass the time before launch by building the brand-new Shadow the Hedgehog Lego set. Released today, October 1, the 720-piece set lets Sonic fans build a bust of the soon-to-be movie star. In a way, you are building Keanu Reeves, since the actor is voicing Shadow in Sonic 3. Does that mean you are also making a John Wick Lego set? No, not really, but you can pretend. The Shadow the Hedgehog Lego set is available to purchase at the <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=13923&amp;u1=subid_value&amp;murl=https://www.lego.com/en-us/product/shadow-the-hedgehog-77000&amp;p=http://www.gamespot.com/feeds/news/&amp;event_type=click">Lego Store</a> and <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://goto.target.com/c
+
+## Starfield Shattered Space - Which Brother Should You Tranquilize In The Duel?
+ - [https://www.gamespot.com/articles/starfield-shattered-space-which-brother-should-you-tranquilize-in-the-duel/1100-6526821/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/starfield-shattered-space-which-brother-should-you-tranquilize-in-the-duel/1100-6526821/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T08:28:00+00:00
+
+<p>The Duel is a side quest you can begin fairly early on in the <a href="https://www.gamespot.com/gallery/everything-new-in-starfield-shattered-space-dlc/2900-5808/">Starfield Shattered Space</a> DLC. The quest starts by listening to a heated conversation between three individuals in the main courtyard of Dazra, the sacred city on Va'ruun'kai. After listening in to the conversation, you learn that all three of the individuals are siblings, with there being two brothers and one sister.</p><p>Once you talk to the siblings, you understand why they are having a heated discussion. One of the brothers, Amila, desecrated their mother's urn and this caused the other brother, Borhal, to challenge him to a duel. The Duel allows you to determine the outcome of the brothers by working with their sister, Danika, so what choices should you make?</p><h2>Can you stop the duel from happening in Starfield?</h2><p>First and foremost, it appears impossible to stop the duel from taking place. The first p
+
+## Lego's First Fortnite Building Kits Are Available Now At The Lego Store
+ - [https://www.gamespot.com/articles/legos-first-fortnite-building-kits-are-available-now-at-the-lego-store/1100-6525218/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/legos-first-fortnite-building-kits-are-available-now-at-the-lego-store/1100-6525218/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T08:16:00+00:00
+
+<p>You've been able to build in Fortnite forever, but now you can build Fortnite characters out of Lego bricks. The four new sets released today, October 1, and include the iconic <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=13923&amp;u1=subid_value&amp;murl=https://www.lego.com/en-us/product/battle-bus-77073&amp;p=http://www.gamespot.com/feeds/mashup&amp;event_type=click">Fortnite Battle Bus</a>, <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=13923&amp;u1=subid_value&amp;murl=https://www.lego.com/en-us/product/durrr-burger-77070&amp;p=http://www.gamespot.com/feeds/mashup&amp;event_type=click">Durr Burger</a>, <a href="https://clicks.trx-hub.com/xid/fandom_32094_gamespot?q=https://click.linksynergy.com/deeplink?id=VZfI20jEa0c&amp;mid=13923&amp;u1=subid_value&amp;murl=https://www.lego.com/en-us/product/supply-llama-77071&amp;p=h
+
+## Tony Hawk's Pro Skater Is One Of The Greatest Platformers Of All Time
+ - [https://www.gamespot.com/articles/tony-hawks-pro-skater-is-one-of-the-greatest-platformers-of-all-time/1100-6526818/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/tony-hawks-pro-skater-is-one-of-the-greatest-platformers-of-all-time/1100-6526818/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T07:53:00+00:00
+
+<p dir="ltr"><em>Tony Hawk's Pro Skater celebrated its 25-year anniversary on September 29, 2024. Below, we look back at how it began, and its influence as an unconventional platformer.<br /></em></p><p dir="ltr">The 1990s were a wild time for skateboarding. Professionals like Tony Hawk were pushing the limits of what seemed possible by nailing unbelievable stunts for the first time in history--the loop of death, a 16ft ollie between water towers, and the first 900. Little did we know that these stunts and the people behind them would become part of the foundation of one of the greatest platformers of all time: Tony Hawk's Pro Skater.</p><p dir="ltr">The 1999 classic has officially turned 25 this year. Its legacy of incredible arcade gameplay--the one that spawned eight sequels, millions in sales, and countless kickflips and heelflips--is still as prevalent today as it was when the X Games were at the height of their popularity. Tony Hawk's Pro Skater brought skateboarding to a new le
+
+## Shaq Is Reportedly Coming To Fortnite
+ - [https://www.gamespot.com/articles/shaq-is-reportedly-coming-to-fortnite/1100-6526822/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/shaq-is-reportedly-coming-to-fortnite/1100-6526822/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T07:51:00+00:00
+
+<p>Fortnite has slowly become the ultimate Celebrity Deathmatch game featuring, collaborations with Pixar, <a href="https://www.gamespot.com/articles/fortnite-update-introduces-iron-mans-stark-industr/1100-6482006/">Marvel</a>, <a href="https://www.gamespot.com/articles/naruto-is-coming-to-fortnite-on-november-16/1100-6497915/">anime series</a>, and even real-life celebrities like <a href="https://www.gamespot.com/articles/fortnite-adds-will-smiths-bad-boys-character-mike-lowrey/1100-6495685/">Will Smith</a>, Eminem, Lady Gaga, and now--possibly--Shaquille O'Neal. According to a leak by the famous Fortnite leaker <a href="https://x.com/ShiinaBR/status/1840828705150804316">ShiinaBR</a>, Epic Games has teamed up with the basketball and entertainment icon to release cosmetics based on him to Fortnite on October 4.</p><p>Shaq, who sometimes goes under the alias of DJ Diesel, posted a clip of his latest set to <a href="https://www.tiktok.com/@shaq/video/7420143472214297902?lang=en">TikTok<
+
+## Super Mario World Lego Set Has Arrived - Get It At Amazon, Sold Out At Walmart
+ - [https://www.gamespot.com/articles/super-mario-world-lego-set-has-arrived-get-it-at-amazon-sold-out-at-walmart/1100-6525283/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/super-mario-world-lego-set-has-arrived-get-it-at-amazon-sold-out-at-walmart/1100-6525283/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T07:41:00+00:00
+
+<div title="6525283 - Lego Mario and Yoshi preorders" data-embed-type="buylink" data-ref-id="2525" data-template="2" data-size="buylink__large" data-title="6525283 - Lego Mario and Yoshi preorders" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4340555-marioyoshihero.jpg alt="">                                 <a href="https://www.amazon.com/LEGO-Super-Mario-World-Collectible/dp/B0CYM2V9FS?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title 
+
+## Xbox Game Pass Adds Five More Games Soon, Including One Of Our Favorites From 2021
+ - [https://www.gamespot.com/gallery/xbox-game-pass-adds-five-more-games-soon-including-one-of-our-favorites-from-2021/2900-5815](https://www.gamespot.com/gallery/xbox-game-pass-adds-five-more-games-soon-including-one-of-our-favorites-from-2021/2900-5815)
+ - RSS feed: $source
+ - date published: 2024-10-01T07:18:00+00:00
+
+    <p><h2>Game Pass grows</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4376702-xboxsphere.jpeg" /><br /><h3><p>Microsoft has announced the first set of additions to the <a href="https://www.gamespot.com/gallery/best-xbox-game-pass-games/2900-4001/">Game Pass</a> catalog for October 2024, and there are some exciting games coming.</p><p>MLB The Show 24 is headed to Game Pass Standard on console beginning October 2. The game launched into Game Pass Ultimate in March, and it'll soon be available on the lower-priced Standard tier.</p><p>Open Roads, meanwhile, is also heading to Game Pass Standard on October 2, following its debut on Game Pass Ultimate in March.</p><p>Another notable release for October is the deck-building card game Inscryption, which GameSpot <a href="https://www.gamespot.com/reviews/inscryption-review-house-of-cards/1900-6417788/">praised</a> upon its <a href="https://www.gamespot.com/articles/editors-spotlight-our-personal-favorite-games-o
+
+## Liam Hemsworth Was A Fan Of The Witcher 3 Before He Was Cast As Geralt
+ - [https://www.gamespot.com/articles/liam-hemsworth-was-a-fan-of-the-witcher-3-before-he-was-cast-as-geralt/1100-6526816/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/liam-hemsworth-was-a-fan-of-the-witcher-3-before-he-was-cast-as-geralt/1100-6526816/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T07:17:00+00:00
+
+<p>Nearly two years ago, word broke that <a href="https://www.gamespot.com/articles/henry-cavill-is-leaving-the-witcher-for-season-4-replaced-by-liam-hemsworth/1100-6508734/">Henry Cavill was leaving The Witcher</a> after Season 3, with The Hunger Games' Liam Hemsworth on deck to take over the leading role of Geralt of Rivia. And while Hemsworth wasn't watching the show prior to joining it, he was already very familiar with the character and his world thanks to <a href="https://www.gamespot.com/reviews/the-witcher-3-wild-hunt-hearts-of-stone-review/1900-6416268/">The Witcher 3: Wild Hunt</a>.</p><p>"I hadn't seen the TV show and I hadn't read the books, but I played the video game like ten years ago or something," said Hemsworth during an appearance on <a href="https://livewithkellyandmark.com/">Live with Kelly and Mark</a> via <a href="https://www.ign.com/articles/liam-hemsworth-hadnt-seen-the-witcher-show-or-read-the-books-before-netflix-cast-him-as-geralt-but-he-did-love-the-witche
+
+## Metaphor: ReFantazio Everything To Know
+ - [https://www.gamespot.com/videos/metaphor-refantazio-everything-to-know/2300-6465256](https://www.gamespot.com/videos/metaphor-refantazio-everything-to-know/2300-6465256)
+ - RSS feed: $source
+ - date published: 2024-10-01T07:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4376382-etk_metaphor_v1_site.jpg" width="480" height="480" /> From the director of Persona 5, Metaphor: ReFantazio is an RPG that blends turn-based combat with real-time action, alongside social elements. Here is everything you need to know about the game.
+
+## Vampire Hunters – Release Date Trailer
+ - [https://www.gamespot.com/videos/vampire-hunters-release-date-trailer/2300-6465259](https://www.gamespot.com/videos/vampire-hunters-release-date-trailer/2300-6465259)
+ - RSS feed: $source
+ - date published: 2024-10-01T06:42:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4376689-22.jpg" width="480" height="480" /> To hunt vampires, you'll need guns. Lots of guns.  Vampire Hunters – The Roguelike Survivors FPS – launches October 30th, 2024 on Xbox Series X|S, Xbox One and Windows.
+
+## Tango Gameworks Started Work On Hi-Fi Rush 2 Before Microsoft Closure
+ - [https://www.gamespot.com/articles/tango-gameworks-started-work-on-hi-fi-rush-2-before-microsoft-closure/1100-6526814/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/tango-gameworks-started-work-on-hi-fi-rush-2-before-microsoft-closure/1100-6526814/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T06:39:00+00:00
+
+<p>This year has already been a wild ride for Tango Gameworks, the developer behind the fan-favorite rhythm-action game <a href="https://www.gamespot.com/reviews/hi-fi-rush-review-good-vibes-only/1900-6418023/">Hi-Fi Rush</a>. <a href="https://www.gamespot.com/articles/xbox-is-shutting-down-four-studios-including-arkane-austin-and-tango-gameworks/1100-6523227/">Microsoft shut down the studio</a> in May, only for <a href="https://www.gamespot.com/articles/tango-gameworks-saved-by-pubg-publisher-krafton-hi-fi-rush-rights-also-acquired/1100-6525702/">Krafton to purchase Tango Gameworks</a> in August as part of a deal that transferred the IP rights for Hi-Fi Rush to the developer's new owner. And according to Krafton's head of development Maria Park, Hi-Fi Rush 2 was already in the works when Tango was initially shut down.</p><p>Park told <a href="https://www.gamesindustry.biz/we-dont-want-to-just-replicate-successful-games-behind-kraftons-acquisition-of-tango-gameworks">GamesIndustry.biz
+
+## Xbox Game Pass Dumps These Five Games Very Soon
+ - [https://www.gamespot.com/gallery/xbox-game-pass-dumps-these-five-games-very-soon/2900-5814](https://www.gamespot.com/gallery/xbox-game-pass-dumps-these-five-games-very-soon/2900-5814)
+ - RSS feed: $source
+ - date published: 2024-10-01T06:33:00+00:00
+
+    <p><h2>Say goodbye to these five games</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1179/11799911/4376686-screenshot2024-10-01at9.46.42am.png" /><br /><h3><p>As it does each month, Microsoft is set to remove more titles from the <a href="https://www.gamespot.com/gallery/best-xbox-game-pass-games/2900-4001/">Xbox Game Pass</a> library. For the first half of October 2024, Microsoft is moving five games from Game Pass on PC, console, and the cloud--and the list of removals includes a game that launched into Game Pass as a day-one new release in 2022.</p><p>Scorn, released on October 14, 2022, is leaving Game Pass on October 15. The timing seems to line up with the game coming up on its second anniversary, suggesting there could have been a two-year deal in place.</p><p>Other games leaving Game Pass in October include Everspace 2 and Dyson Sphere Program, among others. You can see the full list of removals in the gallery below.</p><p>As usual, Game Pass members can sav
+
+## RuneScape: An Exclusive First Look At The Upcoming Comics
+ - [https://www.gamespot.com/gallery/runescape-an-exclusive-first-look-at-the-upcoming-comics/2900-5813](https://www.gamespot.com/gallery/runescape-an-exclusive-first-look-at-the-upcoming-comics/2900-5813)
+ - RSS feed: $source
+ - date published: 2024-10-01T06:22:00+00:00
+
+    <p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4376628-runescape-main.jpg" /><br /><h3><p>We've seen plenty of video games adapted into comic-book series, and at long last, RuneScape is making the leap to the printed page. The brand-new comic book series based on the long-running MMORPG kicks off in November, and GameSpot can exclusively reveal several pages of interior art for the four-part mini-series being published by Titan Comics. RuneScape fans will want to look at grabbing the series, as each physical edition of the comic will include a special game code for 200 Runecoins.</p><p>This adaptation of RuneScape will expand on the fan-favorite God Wars dungeon questline, and if you're interested, you can download a <a href="https://media.titan-comics.com/uploads/runescapefcbd.pdf">free preview through this link</a>.</p><p>"Delve into the Temple of Lost Ancients during the catastrophic and iconic God Wars, as four warring armies fight for control of the
+
+## Deadpool And Hugh Jackman Want You To Get Checked For Testicular Cancer
+ - [https://www.gamespot.com/articles/deadpool-and-hugh-jackman-want-you-to-get-checked-for-testicular-cancer/1100-6526784/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/deadpool-and-hugh-jackman-want-you-to-get-checked-for-testicular-cancer/1100-6526784/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T06:00:00+00:00
+
+<p>Deadpool and Wolverine is the biggest movie of the year <a href="https://www.gamespot.com/articles/deadpool-wolverine-crosses-1-billion-worldwide/1100-6525709/">earning $1.13 billion at the global box office</a> and will become available rent or purchase on digital platforms, such as Prime Video and Apple TV+ starting today, October 1. The movie will release on 4K Blu-ray and DVD later on in the month on October 22. What better way to celebrate the release than for Deadpool (Ryan Reynolds) to educate the home viewers on Testicular Cancer Awareness month in an exclusive clip.</p><p>Marvel Studios provided GameSpot with a first look at a clip from the bonus features of the release. Even though Testicular Cancer Awareness Month is actually in April, it's never too late to get yourself checked out and tested as star Hugh Jackman exclaims after walking away from his "routine" self-examination led by the Merc with a mouth.</p><p>Deadpool's alter-ego mercenary Wade Wilson was diagnosed wi
+
+## The Office Remake's New Star Says Ricky Gervais Approved Of Female Lead
+ - [https://www.gamespot.com/articles/the-office-remakes-new-star-says-ricky-gervais-approved-of-female-lead/1100-6526812/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-office-remakes-new-star-says-ricky-gervais-approved-of-female-lead/1100-6526812/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T05:33:00+00:00
+
+<p>The Office is being remade in Australia, with a new series set to premiere this October. Ahead of the show's debut on Prime Video, series star Felicity Ward said The Office creator Ricky Gervais himself approved her casting and the decision to make the show focus on a female lead. Ward also talked about how she did "zero" preparation for the role of Hannah Howard, because she felt the character already matched her style and personality.</p><p>"Ricky Gervais has approved a female lead; he's very excited about a female lead--just in case anyone is angry," Ward said at a recent event, <a href="https://variety.com/2024/tv/global/the-office-ricky-gervais-approved-female-lead-australia-felicity-ward-1236161329/">as reported by Variety</a>.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=MIEVoulYZM0" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/MIEVoulYZM0" height="100%" width="100%" scrolling="no" frameborder
+
+## Moo Deng Fandom Sends Hippo Minion Prices Soaring In Final Fantasy XIV
+ - [https://www.gamespot.com/articles/moo-deng-fandom-sends-hippo-minion-prices-soaring-in-final-fantasy-xiv/1100-6526810/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/moo-deng-fandom-sends-hippo-minion-prices-soaring-in-final-fantasy-xiv/1100-6526810/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T05:15:00+00:00
+
+<p>In case you've somehow missed it, the internet's new obsession is Moo Deng, an adorable pygmy hippo calf from the Khao Kheow Open Zoo in Thailand. After taking over social media, Moo Deng fandom has now hit MMO <a href="https://www.gamespot.com/games/final-fantasy-xiv-online-a-realm-reborn/">Final Fantasy 14</a>, where in-game prices for the game's hippo calf minion are hitting new extremes.</p><p>As picked up by <a href="https://www.gamesradar.com/games/final-fantasy/you-cant-keep-moo-deng-for-yourself-so-final-fantasy-14-players-are-swarming-the-mmos-hippo-calf-minion-instead-and-even-square-enix-has-caught-the-fever/">GamesRadar</a>, X user Cerulean posted a <a href="https://x.com/cerulean_ffxiv/status/1838471276706566477?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1838471276706566477|twgr^d98d54213bebed0f93e61ea2d269134d968bee38|twcon^s1_&amp;ref_url=https://www.gamesradar.com/games/final-fantasy/you-cant-keep-moo-deng-for-yourself-so-final-fantasy-14-players-are-swarming-the-mm
+
+## PlayStation's Plan To Use AI To Speed Up Development Started With Spider-Man 2
+ - [https://www.gamespot.com/articles/playstations-plan-to-use-ai-to-speed-up-development-started-with-spider-man-2/1100-6526809/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstations-plan-to-use-ai-to-speed-up-development-started-with-spider-man-2/1100-6526809/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T05:07:00+00:00
+
+<p>Sony's plans to augment its game-development process with AI and machine learning is already underway, the company revealed in its 2024 <a href="https://www.sony.com/en/SonyInfo/IR/library/corporatereport/CorporateReport2024/">Company Report</a>. In one example cited in the report, Sony used machine learning to augment the subtitling process for certain languages in <a href="https://www.gamespot.com/games/marvels-spider-man-2/">Marvel's Spider-Man 2</a>.</p><p>Sony has revealed it used voice-recognition software to automatically synchronize subtitles with their corresponding voice lines in certain languages, dramatically reducing the speed of the subtitling process. Spider-Man 2 launched with text support for 27 languages, with 12 of those also available in fully dubbed audio.</p><p>The company said that this use of machine learning, a subset of AI computing, was part of a broader plan to "[deliver] our IP rapidly and at low cost to a broader range of fans." The segment of the repo
+
+## Epic Is Suing Google And Samsung Over Auto Blocker Feature
+ - [https://www.gamespot.com/articles/epic-is-suing-google-and-samsung-over-auto-blocker-feature/1100-6526808/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/epic-is-suing-google-and-samsung-over-auto-blocker-feature/1100-6526808/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-01T05:05:00+00:00
+
+<p>Last year, <a href="https://www.gamespot.com/articles/federal-court-rules-for-epic-games-in-google-antitrust-case/1100-6519897/">Epic Games prevailed in court against Google</a> in an antitrust case that alleged the Google Play Store is an illegal monopoly. Now, Epic has filed another lawsuit against Google that accuses the company of colluding with Samsung in order to make it difficult for users to install the Epic Games Store on their mobile devices.</p><p>Epic Games CEO Tim Sweeney made the announcement on X, and his company posted a lengthy explanation for the case <a href="https://www.epicgames.com/site/en-US/news/filing-suit-against-google-and-samsung-for-illegally-colluding-to-block-competition-in-app-distribution-and-undermining-the-epic-v-google-jury-verdict">on Epic's official site</a>. Essentially, Epic claims that Google directed Samsung to use its Auto Blocker feature to force anyone who attempts to get the Epic Games Store app to go through several unnecessary steps t
+

@@ -1,0 +1,149 @@
+# Source:Reddit Science, URL:https://www.reddit.com/r/science/.rss, language:en
+
+## Our cutesy cringey dog voices could be practical. Humans are much faster ‘talkers’ than dogs, with a speech rate of about 4 syllables per second, while dogs growl, bark, woof, and whine at about 2 vocalisations per second. We change our speech and tempo to match what dogs can process.
+ - [https://www.reddit.com/r/science/comments/1fu0nye/our_cutesy_cringey_dog_voices_could_be_practical](https://www.reddit.com/r/science/comments/1fu0nye/our_cutesy_cringey_dog_voices_could_be_practical)
+ - RSS feed: $source
+ - date published: 2024-10-01T22:12:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1fu0nye/our_cutesy_cringey_dog_voices_could_be_practical/"> <img src="https://external-preview.redd.it/rTHmnMVv3wSLK0bCTxOTw8D-RBzyBmHKtOpVUC6CJRo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ecd7ff99f21fd1bbcf38c484a1c74711dafe2f3f" alt="Our cutesy cringey dog voices could be practical. Humans are much faster ‘talkers’ than dogs, with a speech rate of about 4 syllables per second, while dogs growl, bark, woof, and whine at about 2 vocalisations per second. We change our speech and tempo to match what dogs can process." title="Our cutesy cringey dog voices could be practical. Humans are much faster ‘talkers’ than dogs, with a speech rate of about 4 syllables per second, while dogs growl, bark, woof, and whine at about 2 vocalisations per second. We change our speech and tempo to match what dogs can process." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <
+
+## Perinatal chemical exposures and the epigenome have low utility in predicting childhood obesity beyond known clinical risk factors.
+ - [https://www.reddit.com/r/science/comments/1fty8j9/perinatal_chemical_exposures_and_the_epigenome](https://www.reddit.com/r/science/comments/1fty8j9/perinatal_chemical_exposures_and_the_epigenome)
+ - RSS feed: $source
+ - date published: 2024-10-01T20:29:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CUAnschutzMed"> /u/CUAnschutzMed </a> <br/> <span><a href="https://onlinelibrary.wiley.com/doi/10.1111/ijpo.13172">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1fty8j9/perinatal_chemical_exposures_and_the_epigenome/">[comments]</a></span>
+
+## A systematic review links childrens' exposure to air pollution to a variety of brain outcomes
+ - [https://www.reddit.com/r/science/comments/1ftwywz/a_systematic_review_links_childrens_exposure_to](https://www.reddit.com/r/science/comments/1ftwywz/a_systematic_review_links_childrens_exposure_to)
+ - RSS feed: $source
+ - date published: 2024-10-01T19:37:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftwywz/a_systematic_review_links_childrens_exposure_to/"> <img src="https://external-preview.redd.it/AH0rBc8MoL_epMQonnzNK0sFtuZUZGRYW0HHi5YITqs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9f0f2238b90826b7a9a5848bbd60dd94eb53596" alt="A systematic review links childrens' exposure to air pollution to a variety of brain outcomes " title="A systematic review links childrens' exposure to air pollution to a variety of brain outcomes " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/andyhfell"> /u/andyhfell </a> <br/> <span><a href="https://www.ucdavis.edu/news/research-across-4-continents-links-outdoor-air-pollution-differences-childrens-brains">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftwywz/a_systematic_review_links_childrens_exposure_to/">[comments]</a></span> </td></tr></table>
+
+## Time-restricted eating benefits adults with metabolic syndrome: Patients who ate within an 8-10 hour window for 3 months showed improved blood sugar regulation and metabolic markers compared to standard treatments
+ - [https://www.reddit.com/r/science/comments/1ftwv8n/timerestricted_eating_benefits_adults_with](https://www.reddit.com/r/science/comments/1ftwv8n/timerestricted_eating_benefits_adults_with)
+ - RSS feed: $source
+ - date published: 2024-10-01T19:33:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftwv8n/timerestricted_eating_benefits_adults_with/"> <img src="https://external-preview.redd.it/YuY5fzAyti3Jb-eX0MIObGjAvYi52K6bbbepFsGHnhY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d565f3365dd8e710b00c9a6a7aab0b5d70dff6b6" alt="Time-restricted eating benefits adults with metabolic syndrome: Patients who ate within an 8-10 hour window for 3 months showed improved blood sugar regulation and metabolic markers compared to standard treatments" title="Time-restricted eating benefits adults with metabolic syndrome: Patients who ate within an 8-10 hour window for 3 months showed improved blood sugar regulation and metabolic markers compared to standard treatments" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br/> <span><a href="https://www.salk.edu/news-release/one-in-three-americans-has-a-dysfunctional-metabolism-but-intermittent-fasting-c
+
+## Explaining High Happiness in Latin America: This paper explains why people in Latin America are happier than expected for their economic situation, pointing to strong personal relationships as a key factor. These close connections boost life satisfaction and well-being more than income.
+ - [https://www.reddit.com/r/science/comments/1ftw2mh/explaining_high_happiness_in_latin_america_this](https://www.reddit.com/r/science/comments/1ftw2mh/explaining_high_happiness_in_latin_america_this)
+ - RSS feed: $source
+ - date published: 2024-10-01T19:01:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftw2mh/explaining_high_happiness_in_latin_america_this/"> <img src="https://external-preview.redd.it/JtdDhQD7x7vzzKXLIc_qy6OjsuHbBTromHr61kBOxmY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e369d10647013ae272f922f4d8e3fc9639a489f" alt="Explaining High Happiness in Latin America: This paper explains why people in Latin America are happier than expected for their economic situation, pointing to strong personal relationships as a key factor. These close connections boost life satisfaction and well-being more than income." title="Explaining High Happiness in Latin America: This paper explains why people in Latin America are happier than expected for their economic situation, pointing to strong personal relationships as a key factor. These close connections boost life satisfaction and well-being more than income." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ridersofthestorms"> /u/r
+
+## Bird nests made with a toxic fungus seem to fend off attacking ants
+ - [https://www.reddit.com/r/science/comments/1ftswx9/bird_nests_made_with_a_toxic_fungus_seem_to_fend](https://www.reddit.com/r/science/comments/1ftswx9/bird_nests_made_with_a_toxic_fungus_seem_to_fend)
+ - RSS feed: $source
+ - date published: 2024-10-01T16:52:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftswx9/bird_nests_made_with_a_toxic_fungus_seem_to_fend/"> <img src="https://external-preview.redd.it/WFLs0m7Qor4xXSM-1Kd-Bpb-fKhztr-zvNaLMVRRsG4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b814a66eff4a846f9c1e6dc84db26dbd02c184d2" alt="Bird nests made with a toxic fungus seem to fend off attacking ants" title="Bird nests made with a toxic fungus seem to fend off attacking ants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Science_News"> /u/Science_News </a> <br/> <span><a href="https://www.sciencenews.org/article/bird-nests-toxic-fungus-ant-attacks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftswx9/bird_nests_made_with_a_toxic_fungus_seem_to_fend/">[comments]</a></span> </td></tr></table>
+
+## Cool, light-colored roofs could have reduced London's 2018 average temps by 0.8°C, potentially preventing 249 of the 786 heat-related deaths (32%)
+ - [https://www.reddit.com/r/science/comments/1ftrdtt/cool_lightcolored_roofs_could_have_reduced](https://www.reddit.com/r/science/comments/1ftrdtt/cool_lightcolored_roofs_could_have_reduced)
+ - RSS feed: $source
+ - date published: 2024-10-01T15:49:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftrdtt/cool_lightcolored_roofs_could_have_reduced/"> <img src="https://external-preview.redd.it/KEoNVgTfm4weSocWLy6PD173eBUU-i38BXvG_KbcXfw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d9d4e583d992d5400d1e6b46ed4586df10a50236" alt="Cool, light-colored roofs could have reduced London's 2018 average temps by 0.8°C, potentially preventing 249 of the 786 heat-related deaths (32%)" title="Cool, light-colored roofs could have reduced London's 2018 average temps by 0.8°C, potentially preventing 249 of the 786 heat-related deaths (32%)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br/> <span><a href="https://www.ucl.ac.uk/news/2024/oct/cool-roofs-could-have-saved-lives-during-londons-hottest-summer">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftrdtt/cool_lightcolored_roofs_could_have_reduced/">[comments]</a
+
+## Tattoo inks in Europe are mislabeled and some contain banned ingredients. Analysis of green and blue tattoo inks finds 9/10 to violate regulations. Previous research on tattoo inks in the U.S. which found that 45 out of 54 inks didn’t match the contents listed on the label.
+ - [https://www.reddit.com/r/science/comments/1ftrbxd/tattoo_inks_in_europe_are_mislabeled_and_some](https://www.reddit.com/r/science/comments/1ftrbxd/tattoo_inks_in_europe_are_mislabeled_and_some)
+ - RSS feed: $source
+ - date published: 2024-10-01T15:47:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftrbxd/tattoo_inks_in_europe_are_mislabeled_and_some/"> <img src="https://external-preview.redd.it/MMoqZJN5mW4iC-zyW8qV0Kw59rEpoteFuqWABG9Jl9s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5fda0a29ed4dd34d40895c929281221cf1864e1" alt="Tattoo inks in Europe are mislabeled and some contain banned ingredients. Analysis of green and blue tattoo inks finds 9/10 to violate regulations. Previous research on tattoo inks in the U.S. which found that 45 out of 54 inks didn’t match the contents listed on the label." title="Tattoo inks in Europe are mislabeled and some contain banned ingredients. Analysis of green and blue tattoo inks finds 9/10 to violate regulations. Previous research on tattoo inks in the U.S. which found that 45 out of 54 inks didn’t match the contents listed on the label." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="htt
+
+## Father’s Alcohol Consumption Before Conception Linked To Brain And Facial Defects In The Offspring of Mice
+ - [https://www.reddit.com/r/science/comments/1ftqkbe/fathers_alcohol_consumption_before_conception](https://www.reddit.com/r/science/comments/1ftqkbe/fathers_alcohol_consumption_before_conception)
+ - RSS feed: $source
+ - date published: 2024-10-01T15:15:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AdUnable5108"> /u/AdUnable5108 </a> <br/> <span><a href="https://www.jci.org/articles/view/167624/pdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftqkbe/fathers_alcohol_consumption_before_conception/">[comments]</a></span>
+
+## One of the first major studies of social media behavior during wartime has found that posts celebrating national and cultural unity in a country under attack receive significantly more online engagement than derogatory posts about the aggressors.
+ - [https://www.reddit.com/r/science/comments/1ftnxd9/one_of_the_first_major_studies_of_social_media](https://www.reddit.com/r/science/comments/1ftnxd9/one_of_the_first_major_studies_of_social_media)
+ - RSS feed: $source
+ - date published: 2024-10-01T13:20:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftnxd9/one_of_the_first_major_studies_of_social_media/"> <img src="https://external-preview.redd.it/zKcX0yUU8Xdba2Cv_5mCuRqYV_aBOr_zmikXVe6SZKM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57b9bb996bcc9627e4275bde17c73c1f5a17b1ed" alt="One of the first major studies of social media behavior during wartime has found that posts celebrating national and cultural unity in a country under attack receive significantly more online engagement than derogatory posts about the aggressors." title="One of the first major studies of social media behavior during wartime has found that posts celebrating national and cultural unity in a country under attack receive significantly more online engagement than derogatory posts about the aggressors." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.nature.com/articles/s41467-024-52179-8">[lin
+
+## Behavioural and transgenerational effects of artificial light at night (ALAN) of varying spectral compositions in zebrafish (Danio rerio)
+ - [https://www.reddit.com/r/science/comments/1ftmpgq/behavioural_and_transgenerational_effects_of](https://www.reddit.com/r/science/comments/1ftmpgq/behavioural_and_transgenerational_effects_of)
+ - RSS feed: $source
+ - date published: 2024-10-01T12:20:49+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Superb_Tell_8445"> /u/Superb_Tell_8445 </a> <br/> <span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969724064921">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftmpgq/behavioural_and_transgenerational_effects_of/">[comments]</a></span>
+
+## Frequent fizzy drinks doubles the risk of stroke and more than 4 cups of coffee a day increases chances of a stroke by a third. However, drinking water and tea may reduce risk of stroke, finds large international study of risk factors for stroke, involving almost 27,000 people in 27 countries.
+ - [https://www.reddit.com/r/science/comments/1ftmhnu/frequent_fizzy_drinks_doubles_the_risk_of_stroke](https://www.reddit.com/r/science/comments/1ftmhnu/frequent_fizzy_drinks_doubles_the_risk_of_stroke)
+ - RSS feed: $source
+ - date published: 2024-10-01T12:09:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2024/september/frequent-fizzy-or-fruit-drinks-and-high-coffee-consumption-linked-to-higher-stroke-risk.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftmhnu/frequent_fizzy_drinks_doubles_the_risk_of_stroke/">[comments]</a></span>
+
+## Botanists identify 33 global ‘dark spots’ with thousands of unknown plants | Kew study reveals areas with at least 100,000 undiscovered plant species – most likely to be under threat of extinction
+ - [https://www.reddit.com/r/science/comments/1ftlwqe/botanists_identify_33_global_dark_spots_with](https://www.reddit.com/r/science/comments/1ftlwqe/botanists_identify_33_global_dark_spots_with)
+ - RSS feed: $source
+ - date published: 2024-10-01T11:36:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftlwqe/botanists_identify_33_global_dark_spots_with/"> <img src="https://external-preview.redd.it/9gQEyK2JrnkUEdzEiF7j6zE5C-MhTEYTYUBQ1ExvESw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d8fa901d6abecbd00b06fc0d6316b6a81e5cc78" alt="Botanists identify 33 global ‘dark spots’ with thousands of unknown plants | Kew study reveals areas with at least 100,000 undiscovered plant species – most likely to be under threat of extinction" title="Botanists identify 33 global ‘dark spots’ with thousands of unknown plants | Kew study reveals areas with at least 100,000 undiscovered plant species – most likely to be under threat of extinction" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.theguardian.com/environment/2024/oct/01/kew-botanic-gardens-study-33-dark-spots-plant-species-identification-unknown-biodiversity-">[link]</a></sp
+
+## A new study suggests that human blood stem cells could be used in bone marrow transplants, treatment of leukemia or blood diseases, by adapting these cells to the patient's immune system, this would reduce the risks of transplant rejection.
+ - [https://www.reddit.com/r/science/comments/1ftliyi/a_new_study_suggests_that_human_blood_stem_cells](https://www.reddit.com/r/science/comments/1ftliyi/a_new_study_suggests_that_human_blood_stem_cells)
+ - RSS feed: $source
+ - date published: 2024-10-01T11:13:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftliyi/a_new_study_suggests_that_human_blood_stem_cells/"> <img src="https://external-preview.redd.it/dYjKedLUvJOFmkUdbu9t_wzWbXVEDVGsq5pAJeIc6DA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa229839d0ceec7aafe25cb0582ac3cca15460e3" alt="A new study suggests that human blood stem cells could be used in bone marrow transplants, treatment of leukemia or blood diseases, by adapting these cells to the patient's immune system, this would reduce the risks of transplant rejection." title="A new study suggests that human blood stem cells could be used in bone marrow transplants, treatment of leukemia or blood diseases, by adapting these cells to the patient's immune system, this would reduce the risks of transplant rejection." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Epistella"> /u/Epistella </a> <br/> <span><a href="https://epistella.fr/2024/10/01/percee-majeure-dans-la-production-
+
+## Laser headband non-invasively IDs stroke risk in real time | Researchers have developed a wearable laser-based device that monitors brain blood flow changes and volume when a patient holds their breath.
+ - [https://www.reddit.com/r/science/comments/1ftl76b/laser_headband_noninvasively_ids_stroke_risk_in](https://www.reddit.com/r/science/comments/1ftl76b/laser_headband_noninvasively_ids_stroke_risk_in)
+ - RSS feed: $source
+ - date published: 2024-10-01T10:53:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftl76b/laser_headband_noninvasively_ids_stroke_risk_in/"> <img src="https://external-preview.redd.it/eXU68ZncJfsdBaD_SI08guYG0EjudpYWBQTiEeiilxM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bb46d29d57edf5041a1f1ca858002b13f19a77f" alt="Laser headband non-invasively IDs stroke risk in real time | Researchers have developed a wearable laser-based device that monitors brain blood flow changes and volume when a patient holds their breath." title="Laser headband non-invasively IDs stroke risk in real time | Researchers have developed a wearable laser-based device that monitors brain blood flow changes and volume when a patient holds their breath." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://newatlas.com/stroke/laser-portable-stroke-risk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftl7
+
+## Microplastics in leave-on cosmetic and personal care products such as sunscreens, moisturisers, hand-sanitizers, deodorants and lipsticks are being overlooked by research and regulators, new research shows.
+ - [https://www.reddit.com/r/science/comments/1ftkgzn/microplastics_in_leaveon_cosmetic_and_personal](https://www.reddit.com/r/science/comments/1ftkgzn/microplastics_in_leaveon_cosmetic_and_personal)
+ - RSS feed: $source
+ - date published: 2024-10-01T10:04:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftkgzn/microplastics_in_leaveon_cosmetic_and_personal/"> <img src="https://external-preview.redd.it/I_Pp3dEJ9DJuqKXSmV8g_P9h7iG0Nl2rarBhLp_nu9M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83272902aa11feac20b9662d041fbbd16132ddaa" alt="Microplastics in leave-on cosmetic and personal care products such as sunscreens, moisturisers, hand-sanitizers, deodorants and lipsticks are being overlooked by research and regulators, new research shows." title="Microplastics in leave-on cosmetic and personal care products such as sunscreens, moisturisers, hand-sanitizers, deodorants and lipsticks are being overlooked by research and regulators, new research shows." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.birmingham.ac.uk/news/2024/scientists-warn-of-gaps-in-our-understanding-of-leave-on-personal-care-and-cosmetic-products-1">[link]</a><
+
+## Northern bald ibis: Back from the brink
+ - [https://www.reddit.com/r/science/comments/1ftijft/northern_bald_ibis_back_from_the_brink](https://www.reddit.com/r/science/comments/1ftijft/northern_bald_ibis_back_from_the_brink)
+ - RSS feed: $source
+ - date published: 2024-10-01T07:39:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftijft/northern_bald_ibis_back_from_the_brink/"> <img src="https://external-preview.redd.it/TswrL8emCLRVgrNCUKXdfLLCoCeACTyBSnwlPOa9Um0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef249ef378d29058f88f915a76a3aae2fb17e945" alt="Northern bald ibis: Back from the brink" title="Northern bald ibis: Back from the brink" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AirdropHunter_99"> /u/AirdropHunter_99 </a> <br/> <span><a href="https://edition.cnn.com/science/gallery/northern-bald-ibis-photos-c2e-spc/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ftijft/northern_bald_ibis_back_from_the_brink/">[comments]</a></span> </td></tr></table>
+
+## A new study suggests that regular participation in choir singing can improve brain health by enhancing the structure of white matter, the part of the brain responsible for communication between different regions.
+ - [https://www.reddit.com/r/science/comments/1fthh5h/a_new_study_suggests_that_regular_participation](https://www.reddit.com/r/science/comments/1fthh5h/a_new_study_suggests_that_regular_participation)
+ - RSS feed: $source
+ - date published: 2024-10-01T06:21:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1fthh5h/a_new_study_suggests_that_regular_participation/"> <img src="https://external-preview.redd.it/gQnCm0Kgm-J4jiCYArktu757GaAQlj-C8_m9L1xU4hs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b5691dc34d6257728e22e93e706c022ba6c03d7" alt="A new study suggests that regular participation in choir singing can improve brain health by enhancing the structure of white matter, the part of the brain responsible for communication between different regions. " title="A new study suggests that regular participation in choir singing can improve brain health by enhancing the structure of white matter, the part of the brain responsible for communication between different regions. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/a_Ninja_b0y"> /u/a_Ninja_b0y </a> <br/> <span><a href="https://www.psypost.org/choir-singing-associated-with-improved-brain-structure-especially-in-older-adults/">[link]</a
+
+## Dutch researchers have developed the ‘first-ever’ method to monitor infections in lettuce in real-time, without the need to destroy them
+ - [https://www.reddit.com/r/science/comments/1fthg3k/dutch_researchers_have_developed_the_firstever](https://www.reddit.com/r/science/comments/1fthg3k/dutch_researchers_have_developed_the_firstever)
+ - RSS feed: $source
+ - date published: 2024-10-01T06:18:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1fthg3k/dutch_researchers_have_developed_the_firstever/"> <img src="https://external-preview.redd.it/szvtR0Mk_JrVXd7llP8VfWbqp34Rqjq6v_h0HmJgDFs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e06739112cb22758dc501fe89136628a116d815" alt="Dutch researchers have developed the ‘first-ever’ method to monitor infections in lettuce in real-time, without the need to destroy them" title="Dutch researchers have developed the ‘first-ever’ method to monitor infections in lettuce in real-time, without the need to destroy them" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scienceforreal"> /u/scienceforreal </a> <br/> <span><a href="https://www.nature.com/articles/s41467-024-52594-x">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1fthg3k/dutch_researchers_have_developed_the_firstever/">[comments]</a></span> </td></tr></table>
+
+## Researchers at the University of Tokyo have published a paper in the journal Nature that describes a new laser technique that is capable of cooling a gas of positronium atoms to temperatures as low as 1 K.
+ - [https://www.reddit.com/r/science/comments/1ftf6em/researchers_at_the_university_of_tokyo_have](https://www.reddit.com/r/science/comments/1ftf6em/researchers_at_the_university_of_tokyo_have)
+ - RSS feed: $source
+ - date published: 2024-10-01T03:58:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftf6em/researchers_at_the_university_of_tokyo_have/"> <img src="https://external-preview.redd.it/GW9n8gU_jw41t266bvFjGFHIZiEw5z5VdTaNvOSYzR0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc942f97522adbe61fb82f30218658c0b05fdab7" alt="Researchers at the University of Tokyo have published a paper in the journal Nature that describes a new laser technique that is capable of cooling a gas of positronium atoms to temperatures as low as 1 K." title="Researchers at the University of Tokyo have published a paper in the journal Nature that describes a new laser technique that is capable of cooling a gas of positronium atoms to temperatures as low as 1 K." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MistWeaver80"> /u/MistWeaver80 </a> <br/> <span><a href="https://physicsworld.com/a/positronium-gas-is-laser-cooled-to-one-degree-above-absolute-zero/">[link]</a></span> &#32; <span><a href="h
+
+## Dad's age may influence Down syndrome risk. Fathers aged over 40 or under 20 had an especially high likelihood of conceiving a child with Down syndrome, according to a study that analyzed over 2 million pregnancies in China.
+ - [https://www.reddit.com/r/science/comments/1ftc70t/dads_age_may_influence_down_syndrome_risk_fathers](https://www.reddit.com/r/science/comments/1ftc70t/dads_age_may_influence_down_syndrome_risk_fathers)
+ - RSS feed: $source
+ - date published: 2024-10-01T01:20:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ftc70t/dads_age_may_influence_down_syndrome_risk_fathers/"> <img src="https://external-preview.redd.it/5vjaiijwQeHMaaqHBQf7HaR6xz9YgoAwP5fk4mAVvpk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2886472546ff25aeaf87822774ddb91c56a17dc" alt="Dad's age may influence Down syndrome risk. Fathers aged over 40 or under 20 had an especially high likelihood of conceiving a child with Down syndrome, according to a study that analyzed over 2 million pregnancies in China. " title="Dad's age may influence Down syndrome risk. Fathers aged over 40 or under 20 had an especially high likelihood of conceiving a child with Down syndrome, according to a study that analyzed over 2 million pregnancies in China. " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MistWeaver80"> /u/MistWeaver80 </a> <br/> <span><a href="https://www.scimex.org/newsfeed/a-fathers-age-could-influence-the-risk-of-down-syndrome">
+
