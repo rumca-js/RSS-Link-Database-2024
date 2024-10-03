@@ -1,0 +1,51 @@
+# Source:Techdirt, URL:https://www.techdirt.com/feed, language:en-US
+
+## New Map Shows Community Broadband Networks Are Exploding In U.S.
+ - [https://www.techdirt.com/2024/10/02/new-map-shows-community-broadband-networks-are-exploding-in-u-s](https://www.techdirt.com/2024/10/02/new-map-shows-community-broadband-networks-are-exploding-in-u-s)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:32:19+00:00
+
+The Institute For Local Self Reliance (disclosure: I have done writing and research for them) has released an updated interactive map of every community-owned and operated broadband network in the U.S. All told, there&#8217;s now 400 community-owned broadband networks serving more than 700 U.S. towns and cities nationwide, and the pace of growth shows no [&#8230;]
+
+## New Yorker’s ‘Social Media Is Killing Kids’ Article Waits 71 Paragraphs To Admit Evidence Doesn’t Support The Premise
+ - [https://www.techdirt.com/2024/10/02/new-yorkers-social-media-is-killing-kids-article-waits-71-paragraphs-to-admit-evidence-doesnt-support-the-premise](https://www.techdirt.com/2024/10/02/new-yorkers-social-media-is-killing-kids-article-waits-71-paragraphs-to-admit-evidence-doesnt-support-the-premise)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:59:03+00:00
+
+These days, there’s a formula for articles pushing the unproven claims of harm from social media. Start with examples of kids harming themselves, insist (without evidence) that but for social media it wouldn’t have happened. Throw some shade at Section 230 (while misrepresenting it). Toss out some policy suggestions without grappling with what those policy [&#8230;]
+
+## As Trump Continues To Fearmonger, Stats Continue To Show Drops In Violent Crime Rates
+ - [https://www.techdirt.com/2024/10/02/as-trump-continues-to-fearmonger-stats-continue-to-show-drops-in-violent-crime-rates](https://www.techdirt.com/2024/10/02/as-trump-continues-to-fearmonger-stats-continue-to-show-drops-in-violent-crime-rates)
+ - RSS feed: $source
+ - date published: 2024-10-02T17:57:57+00:00
+
+There is no crime apocalypse impending, incipient, or in progress in the United States. But you wouldn&#8217;t know by listening to Trump and his supporters. Former President Donald Trump is wildly distorting new statistics on immigration and crime to attack Vice President Kamala Harris. Trump falsely claimed Friday and Saturday that the statistics are specifically [&#8230;]
+
+## Daily Deal: The 2024 Microsoft Essential Tools Training Bundle
+ - [https://www.techdirt.com/2024/10/02/daily-deal-the-2024-microsoft-essential-tools-training-bundle-2](https://www.techdirt.com/2024/10/02/daily-deal-the-2024-microsoft-essential-tools-training-bundle-2)
+ - RSS feed: $source
+ - date published: 2024-10-02T17:52:57+00:00
+
+The 2024 Microsoft Essential Tools Training Bundle will help you become a Microsoft expert in no time. Courses cover Microsoft 365, Excel, Word for beginners, and Word advanced. It&#8217;s on sale for $30. Note: The Techdirt Deals Store is powered and curated by StackCommerce. A portion of all sales from Techdirt Deals helps support Techdirt. [&#8230;]
+
+## On Fires, Theaters, And Censorship: Neither Vice Presidential Candidate Understands Free Speech
+ - [https://www.techdirt.com/2024/10/02/on-fires-theaters-and-censorship-neither-vice-presidential-candidate-understands-free-speech](https://www.techdirt.com/2024/10/02/on-fires-theaters-and-censorship-neither-vice-presidential-candidate-understands-free-speech)
+ - RSS feed: $source
+ - date published: 2024-10-02T16:36:07+00:00
+
+Well, that was quite the end to last night’s Vice Presidential debate. While the overall debate was pretty boring (though hilarious when JD Vance flipped out and whined that the moderators had promised not to fact check him), towards the very end they had what might be the dumbest possible exchange regarding free speech. It [&#8230;]
+
+## CNN Seems To Think Annoying Paywalls Will Save It From Irrelevance
+ - [https://www.techdirt.com/2024/10/02/cnn-seems-to-think-annoying-paywalls-will-save-it-from-irrelevance](https://www.techdirt.com/2024/10/02/cnn-seems-to-think-annoying-paywalls-will-save-it-from-irrelevance)
+ - RSS feed: $source
+ - date published: 2024-10-02T12:33:07+00:00
+
+CNN, like most cable news networks, professes to provide users access to journalism. Instead, what you&#8217;ll most consistently find is a sort of generic drivel with the rough edges (read: truth) sanded off. On any given day you&#8217;ll find a rotating parade of lazy &#8220;view from nowhere&#8221; journalism that doesn&#8217;t inform so much as it [&#8230;]
+
+## Taylor Swift: Singer, Songwriter, Copyright Innovator
+ - [https://www.techdirt.com/2024/10/01/taylor-swift-singer-songwriter-copyright-innovator](https://www.techdirt.com/2024/10/01/taylor-swift-singer-songwriter-copyright-innovator)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:06:54+00:00
+
+Taylor Swift is in the news, and not just because she has become the most decorated solo artist of all time. The fact that Taylor Swift has already been mentioned multiple times on Walled Culture underlines that she is also an important – if surprising – figure in the world of copyright. That’s because Swift has been re-recording her albums in [&#8230;]
+

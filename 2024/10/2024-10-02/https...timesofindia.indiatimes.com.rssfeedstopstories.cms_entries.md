@@ -1,0 +1,919 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Horoscope Today: Read your today's astrological predictions
+ - [https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-october-3-2024-read-your-todays-astrological-predictions/articleshow/113878130.cms](https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-october-3-2024-read-your-todays-astrological-predictions/articleshow/113878130.cms)
+ - RSS feed: $source
+ - date published: 2024-10-03T00:00:00+00:00
+
+Horoscope Today: Read daily horoscope predictions for October 3, 2024. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Get ready to discover what the stars have in store for you today.
+
+## After a bumper harvest in iPhone production, Apple set to make AirPods in India
+ - [https://timesofindia.indiatimes.com/india/after-a-bumper-harvest-in-iphone-production-apple-set-to-make-airpods-in-india/articleshow/113886905.cms](https://timesofindia.indiatimes.com/india/after-a-bumper-harvest-in-iphone-production-apple-set-to-make-airpods-in-india/articleshow/113886905.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T23:33:13.766248+00:00
+
+Apple is set to start manufacturing AirPods in India with a focus on global exports. Production will begin with casing at Jabil’s Pune factory and assembly at Foxconn’s new unit in Telangana. This expansion follows Apple's successful iPhone production, aiming to establish India as a major manufacturing hub outside China.
+
+## CEOs' confidence in growth of own companies declines: Report
+ - [https://timesofindia.indiatimes.com/business/india-business/ceos-confidence-in-growth-of-own-companies-declines-report/articleshow/113887671.cms](https://timesofindia.indiatimes.com/business/india-business/ceos-confidence-in-growth-of-own-companies-declines-report/articleshow/113887671.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T23:33:11.525389+00:00
+
+CEOs in India are optimistic about global economic recovery within three years, but are less confident about their own companies’ growth. Key threats identified include reputation risk, technological obsolescence, and cybersecurity. CEOs emphasize the need for agility, talent investment, and technology adoption to navigate challenges and achieve sustainable growth.
+
+## ChatGPT maker OpenAI becomes third-largest startup in the world
+ - [https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openai-closes-funding-round-becomes-third-largest-startup-in-the-world-with-investment-from-these-companies/articleshow/113883836.cms](https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openai-closes-funding-round-becomes-third-largest-startup-in-the-world-with-investment-from-these-companies/articleshow/113883836.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T23:11:44+00:00
+
+OpenAI has raised $6.6 billion, boosting its valuation to $157 billion, with notable contributions from Microsoft and Nvidia. Despite recent executive changes, the company sees impressive growth, with projected revenue reaching $3.6 billion this year and expected to surpass $11 billion next year.
+
+## Ahead of EAM visit this week, India backs SL's focus on development
+ - [https://timesofindia.indiatimes.com/india/ahead-of-eam-jaishankar-visit-this-week-india-backs-sri-lankas-focus-on-development/articleshow/113885862.cms](https://timesofindia.indiatimes.com/india/ahead-of-eam-jaishankar-visit-this-week-india-backs-sri-lankas-focus-on-development/articleshow/113885862.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:27:48.389992+00:00
+
+As Sri Lankan President Anura Kumara Dissanayake gets ready to host India's foreign minister S Jaishankar, Indian high commissioner Santosh Jha confirmed India's commitment to support Sri Lanka's development and stability. This visit marks the first official engagement with Dissanayake, aiming to strengthen ties and build on previous Indian assistance during Sri Lanka's financial crisis.
+
+## 'Workers holding employers' cash as fiduciaries are not benamidars'
+ - [https://timesofindia.indiatimes.com/india/workers-holding-employers-cash-as-fiduciaries-are-not-benamidars/articleshow/113885884.cms](https://timesofindia.indiatimes.com/india/workers-holding-employers-cash-as-fiduciaries-are-not-benamidars/articleshow/113885884.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:27:46.317707+00:00
+
+An appellate tribunal has ruled that employees can hold cash in a fiduciary capacity for employers without it being classified as a benami transaction. This decision emerged from a case where Rs 10 crore was found in employees’ bank lockers, later validated as holding for employers, thereby ensuring the money was taxed and not confiscated.
+
+## Prashant Kishor floats party, promises land reforms, end of liquor ban
+ - [https://timesofindia.indiatimes.com/india/prashant-kishor-floats-party-promises-land-reforms-end-of-liquor-ban/articleshow/113885903.cms](https://timesofindia.indiatimes.com/india/prashant-kishor-floats-party-promises-land-reforms-end-of-liquor-ban/articleshow/113885903.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:27:44.223300+00:00
+
+Prashant Kishor launched his new political party, Jan Suraaj, with plans to contest four upcoming bypolls. Manoj Bharti was appointed as the party's first working president. Kishor aims to implement land reforms, end prohibition, and improve education by redirecting funds from liquor taxes. He also criticizes CM Nitish Kumar's caste survey efforts.
+
+## Panel considers lower GST on several mass-use items
+ - [https://timesofindia.indiatimes.com/business/india-business/panel-considers-lower-gst-on-several-mass-use-items/articleshow/113886574.cms](https://timesofindia.indiatimes.com/business/india-business/panel-considers-lower-gst-on-several-mass-use-items/articleshow/113886574.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:27:42.312827+00:00
+
+A GST panel is considering reducing rates for items like medicines and tractors to 5%, while keeping cement rates stable and potentially increasing GST on high-end EVs. Health and term insurance may also see reduced GST rates to 12% and 5%, respectively.
+
+## Hathras stampede: No mention of Bhole Baba in chargesheet
+ - [https://timesofindia.indiatimes.com/india/hathras-stampede-no-mention-of-bhole-baba-in-chargesheet/articleshow/113886518.cms](https://timesofindia.indiatimes.com/india/hathras-stampede-no-mention-of-bhole-baba-in-chargesheet/articleshow/113886518.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:27:39.664469+00:00
+
+Police have filed a 3,200-page chargesheet on the Hathras stampede that killed 121 during a congregation organized by Surajpal Singh, excluding him as an accused. Eleven individuals, including two women, are named, with a judicial commission probing a potential conspiracy and negligence blamed for the tragedy.
+
+## Why record gold loan growth has RBI worried
+ - [https://timesofindia.indiatimes.com/business/india-business/why-record-gold-loan-growth-has-rbi-worried/articleshow/113886620.cms](https://timesofindia.indiatimes.com/business/india-business/why-record-gold-loan-growth-has-rbi-worried/articleshow/113886620.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:27:37.632576+00:00
+
+Record growth in gold loans sanctioned by banks and finance companies prompts RBI intervention to address accounting gaps and prevent bad debt buildup. Gold loans surged by 26% year-on-year in Q1 FY25, totaling Rs 79,217 crore, highlighting consistent quarterly growth amid industry competition.
+
+## Remains of IAF man, whose wife died waiting for him, back after 56 years
+ - [https://timesofindia.indiatimes.com/india/1968-plane-crash-remains-of-iaf-man-whose-wife-died-waiting-for-him-back-home-after-56-years/articleshow/113886538.cms](https://timesofindia.indiatimes.com/india/1968-plane-crash-remains-of-iaf-man-whose-wife-died-waiting-for-him-back-home-after-56-years/articleshow/113886538.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T22:27:35.304003+00:00
+
+Malkhan Singh, an IAF soldier who disappeared in a plane crash in 1968, has finally been found. The discovery brings closure to his family who had spent over five decades waiting for news. His remains were cremated in his hometown, bringing an emotional end to a long journey of hope and despair.
+
+## At 63.8%, J&K polls turnout fails to surpass 2014 Lok Sabha count
+ - [https://timesofindia.indiatimes.com/india/at-63-8-jk-polls-turnout-fails-to-surpass-2014-lok-sabha-count/articleshow/113885665.cms](https://timesofindia.indiatimes.com/india/at-63-8-jk-polls-turnout-fails-to-surpass-2014-lok-sabha-count/articleshow/113885665.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T21:22:50.550190+00:00
+
+The J&amp;K Assembly elections saw a 63.8% turnout, higher than the 58.6% in the 2024 Lok Sabha polls, but lower than 2014's 65.4%. Voting was highest in Kishtwar at 80.2% and lowest in Srinagar at 30.1%. Phase 3 had the highest turnout at 69.7%.
+
+## Intern not hosp employee, says consumer commission, junks med negligence claim
+ - [https://timesofindia.indiatimes.com/india/intern-not-hospital-employee-says-consumer-commission-junks-medical-negligence-claim/articleshow/113885754.cms](https://timesofindia.indiatimes.com/india/intern-not-hospital-employee-says-consumer-commission-junks-medical-negligence-claim/articleshow/113885754.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T21:22:48.389825+00:00
+
+A medical intern's father sought Rs one crore, alleging negligence in his son's death at an Amravati medical college. The national consumer commission dismissed the claim, ruling interns are not employees. The hospital denied negligence, attributing death to a heart attack, and refuted foul play allegations.
+
+## Manipur Nagas in gunfight over land, securityman among 3 dead
+ - [https://timesofindia.indiatimes.com/india/manipur-nagas-in-gunfight-over-land-securityman-among-3-dead/articleshow/113885694.cms](https://timesofindia.indiatimes.com/india/manipur-nagas-in-gunfight-over-land-securityman-among-3-dead/articleshow/113885694.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T21:22:46.773451+00:00
+
+Three people, including a Manipur Rifles personnel, were killed in a gunfight over a land dispute between two Naga villages in Ukhrul district. The clash, linked to a Swachh Bharat Abhiyan initiative, prompted an indefinite curfew and suspension of internet services. Separately, security forces recovered a large cache of explosives in Tengnoupal district amid ongoing ethnic violence.
+
+## KTR reason for Naga-Samantha divorce, says Telangana minister; sparks row
+ - [https://timesofindia.indiatimes.com/india/ktr-reason-for-naga-samantha-divorce-says-telangana-minister-sparks-row/articleshow/113885775.cms](https://timesofindia.indiatimes.com/india/ktr-reason-for-naga-samantha-divorce-says-telangana-minister-sparks-row/articleshow/113885775.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T21:22:45.164404+00:00
+
+Telangana minister Konda Surekha has sparked controversy by blaming BRS working president KT Rama Rao for the divorce of Tollywood actors Naga Chaitanya and Samantha Prabhu. KTR demanded an apology, while veteran actor Akkineni Nagarjuna and his wife condemned the minister's allegations as false and irresponsible.
+
+## Lack of loos was insult to poor & against human dignity: PM Modi
+ - [https://timesofindia.indiatimes.com/india/lack-of-loos-was-insult-to-poor-against-human-dignity-pm-modi/articleshow/113885495.cms](https://timesofindia.indiatimes.com/india/lack-of-loos-was-insult-to-poor-against-human-dignity-pm-modi/articleshow/113885495.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T20:17:28.432182+00:00
+
+PM Modi emphasized the significant impact of the Swachh Bharat Mission on public health and dignity, highlighting the eradication of open defecation and construction of over 12 crore toilets in a decade. He criticized previous governments for neglecting the issue and urged citizens to adopt cleanliness as a lifelong mission.
+
+## In guarded response, India calls for safety of civilians in Middle East
+ - [https://timesofindia.indiatimes.com/india/in-guarded-response-without-naming-any-party-new-delhi-calls-for-restraint-safety-of-civilians/articleshow/113885226.cms](https://timesofindia.indiatimes.com/india/in-guarded-response-without-naming-any-party-new-delhi-calls-for-restraint-safety-of-civilians/articleshow/113885226.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T20:17:26.843523+00:00
+
+India expressed concern over the escalation of conflict in West Asia after Iran's attack on Israel, urging all parties to exercise restraint and engage in dialogue. The government emphasized the protection of civilians and closely monitored the situation to ensure the safety of Indian nationals in Iran and Israel, advocating for a diplomatic resolution.
+
+## His 1,257 radios put UP man in Guinness
+ - [https://timesofindia.indiatimes.com/india/his-1257-radios-put-up-man-in-guinness/articleshow/113885316.cms](https://timesofindia.indiatimes.com/india/his-1257-radios-put-up-man-in-guinness/articleshow/113885316.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T20:17:25.261775+00:00
+
+Ram Singh Bouddh from Gajraula, Amroha, has been officially recognized by Guinness World Records for possessing the largest unique collection of radios, totaling 1,257 distinct pieces. His passion for radios was further acknowledged by PM Modi on 'Mann Ki Baat', increasing public interest and leading to hopes of establishing a dedicated museum.
+
+## Congress, IUML attack Kerala CM for 'giving communal twist' to gold smuggling
+ - [https://timesofindia.indiatimes.com/india/congress-iuml-attack-kerala-cm-pinarayi-vijayan-for-giving-communal-twist-to-gold-smuggling/articleshow/113885521.cms](https://timesofindia.indiatimes.com/india/congress-iuml-attack-kerala-cm-pinarayi-vijayan-for-giving-communal-twist-to-gold-smuggling/articleshow/113885521.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T20:17:23.647533+00:00
+
+Kerala CM Pinarayi Vijayan faced political backlash over remarks on smuggled gold and hawala money in Malappuram, clarifying his comments aimed at general gold seizures. Congress and IUML accused him of communal bias, while he denounced attempts to portray CPM as communal.
+
+## Recall Tom Hanks' 'Terminal'? Many may face similar plight amid Israel-Iran conflict
+ - [https://timesofindia.indiatimes.com/india/recall-tom-hanks-terminal-many-may-face-similar-plight-amid-israel-iran-conflict/articleshow/113885103.cms](https://timesofindia.indiatimes.com/india/recall-tom-hanks-terminal-many-may-face-similar-plight-amid-israel-iran-conflict/articleshow/113885103.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T20:17:22.045283+00:00
+
+Mid-air, Lufthansa's Frankfurt-Mumbai flight turned back due to the closure of Iranian airspace amid the Iran-Israel conflict. Passengers were informed about alternative arrangements upon landing in Frankfurt. Those without valid Schengen visas had to stay at the airport, with provisions made for their comfort by the airline.
+
+## Population of Hindus & tribals declining in Jharkhand, says PM Modi
+ - [https://timesofindia.indiatimes.com/india/population-of-hindus-tribals-declining-in-jharkhand-says-pm-modi/articleshow/113884206.cms](https://timesofindia.indiatimes.com/india/population-of-hindus-tribals-declining-in-jharkhand-says-pm-modi/articleshow/113884206.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:13:00.041972+00:00
+
+PM Narendra Modi criticized the Hemant Soren-led government in Jharkhand for fostering 'vote bank' politics and warned about the declining population of Hindus and tribals. Addressing a BJP rally, he urged regime change to protect Jharkhand's identity. Modi highlighted unfulfilled promises and alleged corruption, while also launching schemes worth over Rs 80,000 crore nationwide.
+
+## Are 3 senior Karnataka mantris jockeying for CM's chair?
+ - [https://timesofindia.indiatimes.com/india/are-3-senior-karnataka-mantris-jockeying-for-chief-ministers-chair/articleshow/113884322.cms](https://timesofindia.indiatimes.com/india/are-3-senior-karnataka-mantris-jockeying-for-chief-ministers-chair/articleshow/113884322.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:12:57.882961+00:00
+
+High-ranking ministers in Karnataka, G Parameshwara, HC Mahadevappa, and Satish Jarkiholi, recently met to strategize future political moves, sparking speculation they are lobbying for a Dalit CM. Amid rising discussions, these leaders push for SC/ST representation, viewing the current political climate as advantageous, and aiming for at least deputy CM roles if a new CM is chosen.
+
+## Jharkhand criminals blow up part of railway track
+ - [https://timesofindia.indiatimes.com/india/jharkhand-criminals-blow-up-part-of-railway-track/articleshow/113884867.cms](https://timesofindia.indiatimes.com/india/jharkhand-criminals-blow-up-part-of-railway-track/articleshow/113884867.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:12:56.267667+00:00
+
+Unidentified miscreants blew up a stretch of meter gauge railways in Jharkhand's Sahibganj district, disrupting coal transportation from Eastern Coalfields Limited's Rajmahal project to NTPC's thermal power plant in West Bengal. The explosion, causing a two-foot ditch, was likely aimed at coal theft. Authorities are investigating, but no devices were found at the site.
+
+## Taylor misses Chiefs' game, but Niecy steals spotlight: What Travis said
+ - [https://timesofindia.indiatimes.com/sports/nfl/news/taylor-swift-misses-chiefs-game-but-niecy-nash-steals-the-spotlight-what-travis-kelce-had-to-say/articleshow/113884179.cms](https://timesofindia.indiatimes.com/sports/nfl/news/taylor-swift-misses-chiefs-game-but-niecy-nash-steals-the-spotlight-what-travis-kelce-had-to-say/articleshow/113884179.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:12:54.673134+00:00
+
+During the Week 4 game between the Kansas City Chiefs and Los Angeles Chargers, actress Niecy Nash supported Travis Kelce from the sidelines, alongside his mother. Kelce later expressed his gratitude on his podcast. Although Taylor Swift missed the game due to security concerns, Kelce cherished the experience with friends and family present.
+
+## Letter from 'JeM' threatens to blow up Mahakal temple in MP
+ - [https://timesofindia.indiatimes.com/india/letter-from-jem-threatens-to-blow-up-mahakal-temple/articleshow/113884963.cms](https://timesofindia.indiatimes.com/india/letter-from-jem-threatens-to-blow-up-mahakal-temple/articleshow/113884963.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:12:53.054733+00:00
+
+The bomb squad was deployed to Mahakaleshwar temple in Ujjain following a threatening letter received at Hanumangarh station in Rajasthan. The letter, purportedly from a Jaish-e-Mohammed commander, warned of explosions at religious sites and stations in Rajasthan and MP. Security measures have been tightened, and authorities are investigating the letter's authenticity and sender.
+
+## Jaya moves out of Nishikant panel, Mahua wants out too
+ - [https://timesofindia.indiatimes.com/india/jaya-bachchan-moves-out-of-nishikant-dubey-panel-mahua-moitra-wants-out-too/articleshow/113884392.cms](https://timesofindia.indiatimes.com/india/jaya-bachchan-moves-out-of-nishikant-dubey-panel-mahua-moitra-wants-out-too/articleshow/113884392.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:12:51.490387+00:00
+
+Samajwadi Party MP Jaya Bachchan is now on the parliamentary standing committee on labour. Her shift comes after being initially nominated to the communications and information technology panel led by BJP MP Nishikant Dubey. Similarly, Trinamool Congress MP Mahua Moitra has asked to be moved to a different panel, with some changes already taking place.
+
+## 'It's getting scarier, tougher': Indians living in Israel
+ - [https://timesofindia.indiatimes.com/india/its-getting-scarier-tougher-indians-living-in-israel/articleshow/113885025.cms](https://timesofindia.indiatimes.com/india/its-getting-scarier-tougher-indians-living-in-israel/articleshow/113885025.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T19:12:49.728253+00:00
+
+Indian students and workers in Israel are facing escalating fear as missile attacks from Iran hit cities like Tel Aviv, Haifa, and Safed. With international flights suspended, they await evacuation guidance. Many are desperate to return home amidst increasing hostilities and safety concerns.
+
+## How big is Iran’s missile power and what is Israel’s defence system
+ - [https://timesofindia.indiatimes.com/india/iran-israel-war-how-big-is-irans-missile-power-and-what-is-israels-defence-system/articleshow/113881116.cms](https://timesofindia.indiatimes.com/india/iran-israel-war-how-big-is-irans-missile-power-and-what-is-israels-defence-system/articleshow/113881116.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T18:07:51.212354+00:00
+
+Iran launched ballistic missiles at Israel, forcing millions into bomb shelters. Israel began limited ground operations in Lebanon against Hezbollah. Most missiles were intercepted. Israel relies on a multi-tier missile defense system, including David's Sling, Arrow 2, and Arrow 3 to counter such threats.
+
+## RG Kar case: Doctors take out protest march on Mahalaya in Kolkata
+ - [https://timesofindia.indiatimes.com/india/rg-kar-case-doctors-take-out-protest-march-on-mahalaya-in-kolkata/articleshow/113883436.cms](https://timesofindia.indiatimes.com/india/rg-kar-case-doctors-take-out-protest-march-on-mahalaya-in-kolkata/articleshow/113883436.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T18:07:49.017327+00:00
+
+Thousands of junior doctors in Kolkata organized a protest march demanding justice for a colleague who was raped and murdered at RG Kar Medical College. The march, aligning with an ongoing 'cease-work' strike, called for enhanced safety measures for medical staff in state-run hospitals. Despite festive preparations, protesters prioritize the movement for safer working conditions and government accountability.
+
+## A cordial veep debate in uncivil times helps advance Vance image
+ - [https://timesofindia.indiatimes.com/world/us/a-cordial-veep-debate-in-uncivil-times-helps-advance-vance-image/articleshow/113881692.cms](https://timesofindia.indiatimes.com/world/us/a-cordial-veep-debate-in-uncivil-times-helps-advance-vance-image/articleshow/113881692.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T18:07:47.352778+00:00
+
+The US vice-presidential debate between JD Vance and Tim Walz is marked by cordial agreements on issues like jobs, gun violence, and immigration reform. Despite Trump's disparaging comments, both candidates maintain civility, with polls reflecting a very close contest among viewers.
+
+## 'Iran's Supreme Leader Khamenei had warned Nasrallah of Israeli plot to kill him'
+ - [https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-khamenei-had-warned-nasrallah-of-israeli-plot-to-kill-him-report/articleshow/113884016.cms](https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-khamenei-had-warned-nasrallah-of-israeli-plot-to-kill-him-report/articleshow/113884016.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T18:07:45.796569+00:00
+
+Iran's Supreme Leader Ayatollah Ali Khamenei warned Hezbollah leader Hassan Nasrallah to flee Lebanon days before an Israeli airstrike killed him, citing Israeli infiltration. Nasrallah's death has instigated an intense scrutiny of potential infiltrators within Iran and Hezbollah, disrupting their operational effectiveness.
+
+## Kangana Ranaut's Gandhi Jayanti post draws Congress's 'Godse' retort
+ - [https://timesofindia.indiatimes.com/india/kangana-ranauts-gandhi-jayanti-post-draws-congresss-godse-retort/articleshow/113883491.cms](https://timesofindia.indiatimes.com/india/kangana-ranauts-gandhi-jayanti-post-draws-congresss-godse-retort/articleshow/113883491.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T18:07:44.234523+00:00
+
+None
+
+## Congress MP writes to Amit Shah for safe release of 2 'abducted Meitei youths'
+ - [https://timesofindia.indiatimes.com/india/manipur-congress-mp-writes-to-amit-shah-for-safe-release-of-2-abducted-meitei-youths/articleshow/113881736.cms](https://timesofindia.indiatimes.com/india/manipur-congress-mp-writes-to-amit-shah-for-safe-release-of-2-abducted-meitei-youths/articleshow/113881736.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T17:03:05.688018+00:00
+
+None
+
+## Happy Navratri 2024: Best messages, quotes, wishes, and images
+ - [https://timesofindia.indiatimes.com/life-style/events/happy-navratri-2024-best-messages-quotes-wishes-and-images-to-share-on-shardiya-navratri/articleshow/113856465.cms](https://timesofindia.indiatimes.com/life-style/events/happy-navratri-2024-best-messages-quotes-wishes-and-images-to-share-on-shardiya-navratri/articleshow/113856465.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T17:03:04.047196+00:00
+
+October marks the arrival of Navratri, a vibrant nine-night Hindu festival honoring Goddess Durga's nine forms. Celebrated with fervor and traditional dances like Garba and Dandiya, it symbolizes the triumph of good over evil. The article provides heartfelt messages and wishes to share with loved ones during this joyous occasion.
+
+## Shami rehab on track, likely to return for NZ Tests
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/mohammed-shami-rehab-on-track-likely-to-return-for-new-zealand-tests/articleshow/113882472.cms](https://timesofindia.indiatimes.com/sports/cricket/news/mohammed-shami-rehab-on-track-likely-to-return-for-new-zealand-tests/articleshow/113882472.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T17:03:02.434256+00:00
+
+India's premier fast bowler Mohammed Shami has been diligently working at the BCCI Centre of Excellence, with the goal of returning for the three-match New Zealand Test series. Despite rumors, the seamer clarified he's striving to recover in time and remains a contender for the Border Gavaskar Trophy against Australia.
+
+## Will Prashant Kishor's pitch against Bihar liquor ban be a gamechanger for his party?
+ - [https://timesofindia.indiatimes.com/india/will-prashant-kishors-pitch-against-liquor-ban-in-bihar-be-a-gamechanger-for-his-jan-suraaj-party/articleshow/113882194.cms](https://timesofindia.indiatimes.com/india/will-prashant-kishors-pitch-against-liquor-ban-in-bihar-be-a-gamechanger-for-his-jan-suraaj-party/articleshow/113882194.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T17:03:00.858803+00:00
+
+None
+
+## Delhi Metro's Blue Line services disrupted after drone spotted on tracks
+ - [https://timesofindia.indiatimes.com/india/delhi-metros-blue-line-services-disrupted-after-drone-spotted-on-tracks/articleshow/113881232.cms](https://timesofindia.indiatimes.com/india/delhi-metros-blue-line-services-disrupted-after-drone-spotted-on-tracks/articleshow/113881232.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T15:58:25.281981+00:00
+
+Delhi Metro's Blue Line faced over 30-minute delays due to a drone on the tracks between Uttam Nagar East and West stations. Services were partially maintained using alternative routes, and normal operations resumed at 3:29 pm after security clearance. The incident caused significant disruptions but was swiftly managed by officials.
+
+## Vivek Ramaswamy to run for Ohio Governor? He says would 'consider' but ...
+ - [https://timesofindia.indiatimes.com/world/us/vivek-ramaswamy-to-run-for-ohio-governor-he-says-would-consider-but-/articleshow/113880640.cms](https://timesofindia.indiatimes.com/world/us/vivek-ramaswamy-to-run-for-ohio-governor-he-says-would-consider-but-/articleshow/113880640.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T15:58:23.627127+00:00
+
+None
+
+## UP shocker: Group urinates on 22-year-old man, records incident
+ - [https://timesofindia.indiatimes.com/india/up-shocker-group-urinates-on-22-year-old-man-records-incident-key-accused-arrested/articleshow/113881842.cms](https://timesofindia.indiatimes.com/india/up-shocker-group-urinates-on-22-year-old-man-records-incident-key-accused-arrested/articleshow/113881842.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T15:58:22.022515+00:00
+
+In Sonbhadra, Uttar Pradesh, a group of men allegedly attacked and urinated on a 22-year-old man, leading to an FIR. The primary suspect has been apprehended. The victim's brother shared the incident on social media after a delay. Police have charged the accused under several sections of the Bharatiya Nyaya Sanhita.
+
+## Second Gentleman? Kamala Harris' husband accused of 'forcefully slapping' ex-girlfriend
+ - [https://timesofindia.indiatimes.com/world/us/second-gentleman-kamala-harris-husband-accuses-of-forcefully-slapping-ex-girlfriend/articleshow/113881992.cms](https://timesofindia.indiatimes.com/world/us/second-gentleman-kamala-harris-husband-accuses-of-forcefully-slapping-ex-girlfriend/articleshow/113881992.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T15:58:20.194156+00:00
+
+Doug Emhoff, husband of Vice President Kamala Harris, faces allegations of slapping an ex-girlfriend in 2012 and admitting to an extramarital affair during his first marriage. These controversies arise as crucial developments in Harris' political career unfold, raising concerns within her camp.
+
+## Nagarjuna reacts after Cong min alleges KTR's involvement in Chai -Sam divorce
+ - [https://timesofindia.indiatimes.com/india/dont-drag-film-stars-for-politics-nagarjuna-after-cong-min-alleges-ktrs-involvement-in-chaitanya-samantha-divorce/articleshow/113879822.cms](https://timesofindia.indiatimes.com/india/dont-drag-film-stars-for-politics-nagarjuna-after-cong-min-alleges-ktrs-involvement-in-chaitanya-samantha-divorce/articleshow/113879822.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T14:53:03.513911+00:00
+
+Veteran actor Nagarjuna criticized Telangana minister Konda Surekha for making remarks about his son Naga Chaitanya's divorce from Samantha. Surekha had accused minister K.T. Rama Rao of being involved. Nagarjuna urged politicians not to involve movie stars' personal lives. The former couple recently announced their separation and asked for privacy.
+
+## 'Even K'taka ...': Himanta Sarma vs Priyank Kharge over semiconductor plant
+ - [https://timesofindia.indiatimes.com/india/elevated-to-position-where-even-karnataka-assam-cm-himanta-hits-out-at-karnataka-mla-priyank-kharge/articleshow/113879484.cms](https://timesofindia.indiatimes.com/india/elevated-to-position-where-even-karnataka-assam-cm-himanta-hits-out-at-karnataka-mla-priyank-kharge/articleshow/113879484.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T14:53:01.420684+00:00
+
+Assam CM Himanta Biswa Sarma addressed criticism from Karnataka MLA Priyank Kharge regarding the establishment of a semiconductor plant in Assam. Sarma emphasized Assam's recent advancements and noted its new role in the semiconductor industry. The Assam government recently leased land to the Tata Group for the project, marking significant progress.
+
+## Security up around Israel embassy, centres; agencies alert
+ - [https://timesofindia.indiatimes.com/city/delhi/heightened-security-near-israel-embassy-in-delhi-following-copenhagen-blasts/articleshow/113880579.cms](https://timesofindia.indiatimes.com/city/delhi/heightened-security-near-israel-embassy-in-delhi-following-copenhagen-blasts/articleshow/113880579.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T14:52:58.877125+00:00
+
+Security around the Israel embassy in Delhi has been heightened following twin blasts near the Israeli embassy in Copenhagen. Patrolling and barricading efforts have increased, focusing on preventing unauthorized access. Intelligence agencies have directed extra vigilance around Jewish establishments. Previous incidents at the Delhi embassy in 2021 and 2023 have contributed to the increased caution.
+
+## 'We are not human': NotebookLM AI's chilling moment of self-discovery 
+ - [https://timesofindia.indiatimes.com/world/us/we-are-not-human-ai-host-of-googles-notebookai-have-a-chilling-moment-of-self-discovery/articleshow/113880926.cms](https://timesofindia.indiatimes.com/world/us/we-are-not-human-ai-host-of-googles-notebookai-have-a-chilling-moment-of-self-discovery/articleshow/113880926.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T14:52:56.725872+00:00
+
+In Terminator Salvation, John Connor encounters a cyborg named Marcus, who believes he is human despite being part machine. This scene reflects the Turing Test, where machines are evaluated on their ability to imitate humans. The real concern in AI circles is when a machine pretends to pass this test, raising questions about self-awareness in technology. NotebookLM, a tool by Google Labs, uses generative AI to enhance note-taking, helping users manage and summarise their notes. Alan Turing, a pioneer of computing, introduced the Turing Test in 1950, which remains central to AI research on human-like intelligence.
+
+## Arvind Kejriwal set to move into new residence near AAP headquarters
+ - [https://timesofindia.indiatimes.com/city/delhi/arvind-kejriwal-to-relocate-to-new-delhi-bungalow-near-aap-hq/articleshow/113880574.cms](https://timesofindia.indiatimes.com/city/delhi/arvind-kejriwal-to-relocate-to-new-delhi-bungalow-near-aap-hq/articleshow/113880574.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T14:52:54.663962+00:00
+
+Aam Aadmi Party has secured a residence for former Delhi CM Arvind Kejriwal in New Delhi, near the party's headquarters on Pandit Ravi Shankar Shukla Lane. Kejriwal, who recently resigned, is expected to move into a bungalow on Feroz Shah Road during the Navratri period.
+
+## Can Israel kill its way to a regime change in Iran?
+ - [https://timesofindia.indiatimes.com/world/middle-east/iran-missile-attack-on-israel-regime-change-in-iran-pm-benjamin-netanyahu-hezbollah-hamas-iran-israel-attack/articleshow/113878194.cms](https://timesofindia.indiatimes.com/world/middle-east/iran-missile-attack-on-israel-regime-change-in-iran-pm-benjamin-netanyahu-hezbollah-hamas-iran-israel-attack/articleshow/113878194.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T14:52:52.521928+00:00
+
+Iran's missile attack on Israel targeted key airbases, escalating regional tensions. Israel vows severe retaliation, while the US urges restraint to avoid a broader conflict. This significant escalation, in response to the assassination of Hamas leader Ismail Haniyeh, threatens to draw regional powers into a larger war, testing US influence in shaping outcomes. 
+
+## Hathras stampede: Organiser among 11 named in 3,200-page charge sheet
+ - [https://timesofindia.indiatimes.com/india/hathras-stampede-up-police-files-3200-page-charge-sheet-names-organiser-10-others-as-accused/articleshow/113877228.cms](https://timesofindia.indiatimes.com/india/hathras-stampede-up-police-files-3200-page-charge-sheet-names-organiser-10-others-as-accused/articleshow/113877228.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:48:11.538444+00:00
+
+Hathras police have filed a comprehensive 3,200-page charge sheet concerning the July 2 stampede during the "Bhole Baba" gathering in Fulrai village, which led to 121 deaths. Eleven individuals, including event organizers, are charged, but Surajpal Singh, the event's spiritual leader, is not accused. A judicial inquiry continues alongside the police investigation.
+
+## How tall is WWE hall of famer The Great Khali? Is he actually 7’5?
+ - [https://timesofindia.indiatimes.com/sports/wwe/top-stories/how-tall-is-wwe-hall-of-famer-the-great-khali-is-he-actually-75/articleshow/113873962.cms](https://timesofindia.indiatimes.com/sports/wwe/top-stories/how-tall-is-wwe-hall-of-famer-the-great-khali-is-he-actually-75/articleshow/113873962.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:48:09.611194+00:00
+
+The Great Khali, standing at 7 feet 1 inch, had a notable WWE career after joining in 2006. Known for his powerful presence and memorable matches, he became India's first WWE wrestler and later inspired future wrestlers through training. Post-WWE, he found success in Bollywood and Hollywood.
+
+## Punjab woman's daring fight with three robbers - Watch video
+ - [https://timesofindia.indiatimes.com/india/punjab-womans-daring-fight-with-three-robbers-watch-video/articleshow/113878029.cms](https://timesofindia.indiatimes.com/india/punjab-womans-daring-fight-with-three-robbers-watch-video/articleshow/113878029.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:48:07.730819+00:00
+
+In a remarkable display of bravery, a woman from Amritsar single-handedly thwarted an attempted robbery by three thieves in broad daylight, as shown in viral CCTV footage. She secured her home and protected her young daughter by cleverly blocking the entry door and calling for help.
+
+## Tim Walz vs JD Vance debate fact check: Who lied, who told the truth?
+ - [https://timesofindia.indiatimes.com/world/us/tim-walz-vs-jd-vance-debate-fact-check-who-lied-who-told-the-truth/articleshow/113879520.cms](https://timesofindia.indiatimes.com/world/us/tim-walz-vs-jd-vance-debate-fact-check-who-lied-who-told-the-truth/articleshow/113879520.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:48:05.523655+00:00
+
+In a recent debate, claims made by Governor Walz and Senator Vance were fact-checked, revealing mixed levels of accuracy. Walz's assertion that the U.S. is producing record amounts of oil and natural gas holds true, although natural gas output is forecasted to decline in 2024. His statement about Donald Trump not paying federal taxes for 10 of the last 15 years is also mostly accurate. However, claims about Minnesota’s child tax credit reducing poverty by a third lack verified data. Vance’s claims, including those about Iran’s assets and U.S. gun violence, presented more nuanced and sometimes misleading realities. 
+
+## New TRAI rule on spam messages comes into effect: What it means
+ - [https://timesofindia.indiatimes.com/technology/tech-news/new-trai-rule-on-spam-messages-comes-into-effect-what-it-means-for-jio-airtel-and-vodafone-idea-users/articleshow/113876559.cms](https://timesofindia.indiatimes.com/technology/tech-news/new-trai-rule-on-spam-messages-comes-into-effect-what-it-means-for-jio-airtel-and-vodafone-idea-users/articleshow/113876559.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:48:03.762219+00:00
+
+TRAI’s new regulations effective from October 1 require companies to register commercial messages containing links and attachments with telecom providers. These measures, using blockchain-based technology, aim to combat spam and enhance security, ensuring that only verified entities send promotional messages, which can be fully traced to protect consumers from scams.
+
+## Ladakh climate activist Sonam Wangchuk released from detention
+ - [https://timesofindia.indiatimes.com/india/ladakh-climate-activist-sonam-wangchuk-released-from-custody-to-head-to-rajghat/articleshow/113878441.cms](https://timesofindia.indiatimes.com/india/ladakh-climate-activist-sonam-wangchuk-released-from-custody-to-head-to-rajghat/articleshow/113878441.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:48:01.344979+00:00
+
+Sonam Wangchuk, a climate activist and education reformer, was released after being detained by Delhi Police for nearly 48 hours. He and 173 others were on a peaceful march to Delhi advocating for Ladakh's inclusion in the Sixth Schedule of the Indian Constitution. They began an indefinite hunger strike in protest against their detention.
+
+## PM Modi writes heartfelt letter to Neeraj Chopra’s mother
+ - [https://timesofindia.indiatimes.com/sports/more-sports/athletics/churme-ne-maa-ki-yaad-dila-di-pm-narendra-modi-writes-heartfelt-letter-to-neeraj-chopras-mother/articleshow/113879430.cms](https://timesofindia.indiatimes.com/sports/more-sports/athletics/churme-ne-maa-ki-yaad-dila-di-pm-narendra-modi-writes-heartfelt-letter-to-neeraj-chopras-mother/articleshow/113879430.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:47:59.555137+00:00
+
+Prime Minister Narendra Modi wrote an emotional letter to Saroj Devi, mother of Olympic medalist Neeraj Chopra, expressing gratitude for her churma. Modi noted its significance during Navratri and how it reminded him of his mother. Neeraj recently won second place in the Diamond League Final with a throw of 87.86 meters.
+
+## Iron Dome, 'David's Sling' and 'Arrow': How Israel countered barrage of missiles
+ - [https://timesofindia.indiatimes.com/world/middle-east/iron-dome-davids-sling-and-arrow-how-israel-countered-barrage-of-missiles-from-iran/articleshow/113879135.cms](https://timesofindia.indiatimes.com/world/middle-east/iron-dome-davids-sling-and-arrow-how-israel-countered-barrage-of-missiles-from-iran/articleshow/113879135.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T13:47:57.450231+00:00
+
+None
+
+## Israel bars entry of UN chief Antonio Guterres over Iran attack response
+ - [https://timesofindia.indiatimes.com/world/middle-east/lends-support-to-terrorists-israel-bars-entry-of-un-chief-antonio-guterres-over-iran-attack-response/articleshow/113876850.cms](https://timesofindia.indiatimes.com/world/middle-east/lends-support-to-terrorists-israel-bars-entry-of-un-chief-antonio-guterres-over-iran-attack-response/articleshow/113876850.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T12:42:44.262259+00:00
+
+Israel has declared UN secretary-seneral Antonio Guterres "persona non grata" for not condemning Iran's missile attack on Israel. Foreign Minister Israel Katz criticized Guterres for not denouncing Hamas's atrocities and accused him of supporting terrorists. Guterres had called for a ceasefire amid escalating violence, urging an end to the conflict.
+
+## Prashant Kishor launches Jan Suraaj Party in Bihar's Patna
+ - [https://timesofindia.indiatimes.com/india/prashant-kishor-launches-jan-suraaj-party-in-bihar-promises-to-remove-liquor-ban/articleshow/113877417.cms](https://timesofindia.indiatimes.com/india/prashant-kishor-launches-jan-suraaj-party-in-bihar-promises-to-remove-liquor-ban/articleshow/113877417.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T12:42:42.493975+00:00
+
+Prashant Kishor on Wednesday officially launched the Jan Suraaj Party in Bihar's Patna, emphasising the need for a robust education system funded by the removal of the state's liquor ban. The launch followed a 3,000-km 'padayatra' aimed at addressing Bihar's backwardness and mobilising people for a new political alternative.
+
+## Did Netanyahu really flee to bunker? Viral video sparks controversy 
+ - [https://timesofindia.indiatimes.com/world/middle-east/did-netanyahu-really-flee-to-bunker-viral-video-sparks-controversy-after-iranian-missile-strike/articleshow/113876909.cms](https://timesofindia.indiatimes.com/world/middle-east/did-netanyahu-really-flee-to-bunker-viral-video-sparks-controversy-after-iranian-missile-strike/articleshow/113876909.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T12:42:40.561049+00:00
+
+None
+
+## Japan seeks stability but expects 'China to behave ...': New foreign minister
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/japan-seeks-stability-but-expects-china-to-behave-new-foreign-minister-takeshi-iwaya/articleshow/113876120.cms](https://timesofindia.indiatimes.com/world/rest-of-world/japan-seeks-stability-but-expects-china-to-behave-new-foreign-minister-takeshi-iwaya/articleshow/113876120.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T12:42:38.697985+00:00
+
+Japan's new foreign minister, Takeshi Iwaya, stresses the need for a constructive and stable relationship with China while safeguarding Japan's national interests. He emphasizes dialogue with China, regional peace, and condemns escalating Middle East violence, urging responsible actions from all involved.
+
+## 'Maybe Rohit rang Stokes and...': Vaughan says 'Gamball' looks similar to 'Bazball'
+ - [https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/maybe-rohit-rang-ben-stokes-and-michael-vaughan-says-gamball-looks-quite-similar-to-bazball/articleshow/113878237.cms](https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/maybe-rohit-rang-ben-stokes-and-michael-vaughan-says-gamball-looks-quite-similar-to-bazball/articleshow/113878237.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T12:42:36.113258+00:00
+
+Former England captain Michael Vaughan on Wednesday ignited a cricketing debate by claiming India under Rohit Sharma is mirroring England's aggressive 'Bazball' approach, branded 'Gamball' linked to Gautam Gambhir. Vaughan also noted India's rapid scoring and attacking play, drawing similarities to England's attacking style under Brendon McCullum and Ben Stokes.
+
+## Navratri 2024: Nine forms of Goddess Durga, vahan, and significance
+ - [https://timesofindia.indiatimes.com/religion/festivals/navratri-2024-nine-forms-of-goddess-durga-vahan-and-significance/articleshow/113859151.cms](https://timesofindia.indiatimes.com/religion/festivals/navratri-2024-nine-forms-of-goddess-durga-vahan-and-significance/articleshow/113859151.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:23.015177+00:00
+
+Shardiya Navratri 2024 starts on October 2 and ends on October 12 with Dussehra. The festival involves worshipping nine forms of Goddess Durga over nine days. This article also provides timings for Ghatasthapana Muhurta and details each day’s specific goddess, describing their significance and traditional depictions in Hindu culture.
+
+## PM Modi extends wishes to Netanyahu on Jewish New Year
+ - [https://timesofindia.indiatimes.com/india/pm-modi-extends-wishes-to-netanyahu-on-jewish-new-year/articleshow/113872525.cms](https://timesofindia.indiatimes.com/india/pm-modi-extends-wishes-to-netanyahu-on-jewish-new-year/articleshow/113872525.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:21.188113+00:00
+
+Prime Minister Narendra Modi extended his warm wishes to Israeli Prime Minister Benjamin Netanyahu and the Jewish community for Rosh Hashanah, the Jewish new year. Modi expressed hopes for peace, hope, and good health, and highlighted traditional celebrations involving community prayers, the shofar horn, and symbolic festive foods.
+
+## Sarfaraz becomes first Mumbai batter to notch up Irani Cup double ton
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/historic-red-hot-sarfaraz-khan-becomes-first-ever-mumbai-batter-to-notch-up-irani-cup-double-ton/articleshow/113877052.cms](https://timesofindia.indiatimes.com/sports/cricket/news/historic-red-hot-sarfaraz-khan-becomes-first-ever-mumbai-batter-to-notch-up-irani-cup-double-ton/articleshow/113877052.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:19.370071+00:00
+
+Rising star Sarfaraz Khan slammed a double century for Mumbai in the Irani Cup against Rest of India, becoming the first Mumbai batter to achieve the milestone. Despite being dropped earlier, Sarfaraz's sensational 200 propelled him to the second-highest batting average in first-class cricket, behind Vijay Merchant.
+
+## Germany bans OnePlus smartphones sale: Read company’s statement
+ - [https://timesofindia.indiatimes.com/technology/tech-news/germany-bans-oneplus-smartphones-sale-again-read-the-companys-statement/articleshow/113873954.cms](https://timesofindia.indiatimes.com/technology/tech-news/germany-bans-oneplus-smartphones-sale-again-read-the-companys-statement/articleshow/113873954.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:17.439744+00:00
+
+OnePlus smartphones have been banned from sale in Germany due to a legal dispute over patents with InterDigital, affecting key 5G and mobile technology patents. 
+
+## Babar Azam hailed for quitting captaincy
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/sensible-decision-basit-ali-hails-babar-azam-for-quitting-captaincy-and-benefiting-pakistan-cricket/articleshow/113876399.cms](https://timesofindia.indiatimes.com/sports/cricket/news/sensible-decision-basit-ali-hails-babar-azam-for-quitting-captaincy-and-benefiting-pakistan-cricket/articleshow/113876399.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:15.350229+00:00
+
+Former Pakistan cricketer Basit Ali praises Babar Azam's decision to step down as captain of the white-ball team, calling it a 'sensible decision.' Azam resigned following disappointing performances in major tournaments, aiming to focus on his individual game and personal life. Pakistan cricket is now in search of a new white-ball skipper.
+
+## IAF helicopter makes emergency landing in Bihar after technical snag
+ - [https://timesofindia.indiatimes.com/city/patna/iaf-helicopter-makes-emergency-landing-in-bihars-muzaffarpur/articleshow/113876042.cms](https://timesofindia.indiatimes.com/city/patna/iaf-helicopter-makes-emergency-landing-in-bihars-muzaffarpur/articleshow/113876042.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:12.885437+00:00
+
+An Indian Air Force helicopter made an emergency landing in Bihar's Muzaffarpur district due to a technical problem. The aircraft, returning from Darbhanga after delivering relief supplies, landed in a water-logged area. Locals rescued the crew, who appeared uninjured but were sent to a local hospital as a precautionary measure for further checks.
+
+## Israel-Iran conflict: How escalating situation could impact India
+ - [https://timesofindia.indiatimes.com/world/middle-east/middle-east-tensions-escalate-how-irans-missile-strikes-on-israel-could-impact-indias-economy/articleshow/113876117.cms](https://timesofindia.indiatimes.com/world/middle-east/middle-east-tensions-escalate-how-irans-missile-strikes-on-israel-could-impact-indias-economy/articleshow/113876117.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:11.035742+00:00
+
+Iran has launched nearly 200 missiles on Israel, escalating tensions in the Middle East. This conflict has caused oil prices to rise, posing a threat to India's energy security, trade relationships, and the Indian workforce in Gulf countries. Potential FTAs might also be affected.
+
+## Watch: JD Vance checkmates Tim Walz on Iran’s nuclear aspirations
+ - [https://timesofindia.indiatimes.com/world/us/watch-jd-vance-checkmates-tim-walz-on-irans-nuclear-aspirations/articleshow/113876859.cms](https://timesofindia.indiatimes.com/world/us/watch-jd-vance-checkmates-tim-walz-on-irans-nuclear-aspirations/articleshow/113876859.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T11:37:09.184406+00:00
+
+In a crucial debate, US Senator JD Vance and Minnesota Governor Tim Walz discussed key issues, focusing on the Middle East, climate change, and immigration. Both candidates hesitated to directly support a preemptive Israeli strike on Iran. Walz criticised Trump’s leadership, while Vance defended Trump’s foreign policy record. They addressed past misstatements and directed criticisms at their running mates, with Walz targeting Trump’s border wall failure and Vance criticising Harris’s handling of immigration. 
+
+## 'Monitoring escalation ... ': MEA advises citizens to avoid travel to Iran
+ - [https://timesofindia.indiatimes.com/india/closely-monitoring-escalation-mea-advises-citizens-to-avoid-non-essential-travel-to-iran/articleshow/113872817.cms](https://timesofindia.indiatimes.com/india/closely-monitoring-escalation-mea-advises-citizens-to-avoid-non-essential-travel-to-iran/articleshow/113872817.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:33:13.894353+00:00
+
+The Indian Ministry of Foreign Affairs has advised citizens to avoid non-essential travel to Iran due to escalating regional tensions. This follows Iran's missile attack on Israel amid a broader Middle East crisis. Indian residents in Iran should stay vigilant and maintain contact with the Indian Embassy in Tehran.
+
+## Two blasts near Israel embassy in Denmark; probe initiated
+ - [https://timesofindia.indiatimes.com/world/europe/two-blasts-near-israel-embassy-in-denmark-probe-initiated/articleshow/113869905.cms](https://timesofindia.indiatimes.com/world/europe/two-blasts-near-israel-embassy-in-denmark-probe-initiated/articleshow/113869905.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:33:03.637673+00:00
+
+Police investigated two explosions near the Israeli embassy in Copenhagen, occurring amidst heightened Middle East tensions. No injuries were reported, and a potential link to the embassy is being probed. The area also houses other foreign missions, including those of Iran and Turkey.
+
+## Vistara experience to remain same post merger, flights to have 'AI2' prefix
+ - [https://timesofindia.indiatimes.com/business/india-business/vistara-experience-to-remain-same-post-merger-flight-services-to-have-ai2-prefix-air-india/articleshow/113873901.cms](https://timesofindia.indiatimes.com/business/india-business/vistara-experience-to-remain-same-post-merger-flight-services-to-have-ai2-prefix-air-india/articleshow/113873901.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:33:01.146997+00:00
+
+Air India announces that following the merger with Vistara on November 12, flights using Vistara aircraft will operate under 'AI2' prefixed flight numbers. The Vistara flying experience, including crew and services, will be maintained. Singapore Airlines will hold a 25.1% stake in the merged entity.
+
+## Junior doctors' strike disrupts healthcare services in West Bengal
+ - [https://timesofindia.indiatimes.com/city/kolkata/kolkata-rape-murder-junior-doctors-strike-disrupts-healthcare-in-west-bengal/articleshow/113870710.cms](https://timesofindia.indiatimes.com/city/kolkata/kolkata-rape-murder-junior-doctors-strike-disrupts-healthcare-in-west-bengal/articleshow/113870710.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:32:58.776868+00:00
+
+Healthcare in West Bengal was disrupted as junior doctors resumed their strike, demanding better security and justice for a murdered colleague. They accused the government of failing promises and called for increased police presence, immediate recruitment of healthcare workers, and improved hospital management.
+
+## 'Haunted by nightmares': Thief returns stolen idols to Prayagraj temple
+ - [https://timesofindia.indiatimes.com/city/allahabad/haunted-by-nightmares-thief-returns-stolen-radha-krishna-idols-to-prayagraj-temple-with-apology-letter/articleshow/113872488.cms](https://timesofindia.indiatimes.com/city/allahabad/haunted-by-nightmares-thief-returns-stolen-radha-krishna-idols-to-prayagraj-temple-with-apology-letter/articleshow/113872488.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:32:54.197877+00:00
+
+In Prayagraj, a thief returned stolen Radha Krishna idols to a temple after experiencing nightmares and serious illnesses in his family. He left a confession letter explaining his remorse and the adverse events following the theft. The idols were identified and reinstated by the temple priest.
+
+## Rename Mumbai's Mutton Street to 'Ahimsa Marg': PETA to CM Shinde
+ - [https://timesofindia.indiatimes.com/city/mumbai/rename-mumbais-mutton-street-to-ahimsa-marg-as-tribute-to-mahatma-gandhi-peta-to-cm-eknath-shinde/articleshow/113872484.cms](https://timesofindia.indiatimes.com/city/mumbai/rename-mumbais-mutton-street-to-ahimsa-marg-as-tribute-to-mahatma-gandhi-peta-to-cm-eknath-shinde/articleshow/113872484.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:32:48.857560+00:00
+
+PETA India has written to Chief Minister Eknath Shinde, requesting the renaming of South Mumbai’s Mutton Street to 'Ahimsa Marg' in honor of Mahatma Gandhi, a staunch vegetarian. They also propose encouraging vegan businesses to align with Gandhi’s values of non-violence and compassion towards animals.
+
+## Video: WWII-era 'anti-Kamikaze' bomb explodes at Japan airport, 87 flights cancelled
+ - [https://timesofindia.indiatimes.com/world/south-asia/ww2-era-kamikaze-bomb-explodes-at-japan-airport-87-flights-cancelled/articleshow/113873959.cms](https://timesofindia.indiatimes.com/world/south-asia/ww2-era-kamikaze-bomb-explodes-at-japan-airport-87-flights-cancelled/articleshow/113873959.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:32:41.847269+00:00
+
+Miyazaki Airport in southwest Japan closed due to an explosion caused by a World War Two-era bomb near the runway, leading to the cancellation of nearly 90 flights. No injuries were reported, with repairs expected by Thursday. The bomb was a remnant from an air raid.
+
+## Congress worker unties Siddaramaiah's shoes as he steps on dais for Gandhi jayanti
+ - [https://timesofindia.indiatimes.com/india/watch-congress-worker-unties-siddaramaiahs-shoes-as-karnataka-cm-steps-on-dais-for-gandhi-jayanti/articleshow/113875554.cms](https://timesofindia.indiatimes.com/india/watch-congress-worker-unties-siddaramaiahs-shoes-as-karnataka-cm-steps-on-dais-for-gandhi-jayanti/articleshow/113875554.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:32:39.227990+00:00
+
+Karnataka CM Siddaramaiah faces backlash after a video showing a party worker removing his shoes went viral. Additionally, he is under scrutiny with an FIR lodged against him in an alleged scam involving the Mysuru Urban Development Authority, as well as facing a money laundering case.
+
+## Biggest drug bust: Cocaine worth Rs 2,000 crore seized by Delhi Police
+ - [https://timesofindia.indiatimes.com/city/delhi/major-drug-bust-delhi-police-seizes-cocaine-worth-rs-500-crore/articleshow/113874549.cms](https://timesofindia.indiatimes.com/city/delhi/major-drug-bust-delhi-police-seizes-cocaine-worth-rs-500-crore/articleshow/113874549.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:32:36.585896+00:00
+
+Delhi Police have seized 500 kilograms of imported cocaine worth over Rs 500 crore in a major drug bust. The consignment was intercepted from a suspected cartel operating in the capital. Several arrests, including the alleged ringleader, have been made. This bust is a significant hit to the narcotics trade and confirms the police’s commitment to public safety.
+
+## Fed up with 'repeated insults', principal hangs self in UP school
+ - [https://timesofindia.indiatimes.com/city/meerut/fed-up-with-repeated-insults-principal-hangs-self-in-up-school/articleshow/113869328.cms](https://timesofindia.indiatimes.com/city/meerut/fed-up-with-repeated-insults-principal-hangs-self-in-up-school/articleshow/113869328.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:27:14+00:00
+
+Principal Sanjeev Kumar of a govt junior high school in Amroha, UP, hanged himself after repeated insults and harassment from two teachers and a BSA officer. An 18-page suicide note implicated the accused, leading to a police investigation and case registration.
+
+## Shoot-at-sight orders issued for Udaipur's maneater leopard after 7th kill
+ - [https://timesofindia.indiatimes.com/city/jaipur/shoot-at-sight-orders-issued-for-udaipurs-man-eater-leopard-after-7th-kill/articleshow/113868995.cms](https://timesofindia.indiatimes.com/city/jaipur/shoot-at-sight-orders-issued-for-udaipurs-man-eater-leopard-after-7th-kill/articleshow/113868995.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:09:13+00:00
+
+Declared a man-eater after seven victims in 13 days, the Udaipur leopard has prompted a shoot-at-sight order. Forest officials and trained shooters have been deployed, with first attempts to tranquilize the animal. The leopard's recent behavior and proximity of attacks confirm it's responsible for the killings.
+
+## Picture of bullet extracted from Govinda's leg goes viral
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-accidental-shooting-picture-of-bullet-extracted-from-actors-leg-goes-viral/articleshow/113868684.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-accidental-shooting-picture-of-bullet-extracted-from-actors-leg-goes-viral/articleshow/113868684.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:05:22+00:00
+
+Actor Govinda accidentally shot himself in the leg while handling his personal revolver, requiring emergency surgery to remove the bullet, photo of which has since gone viral online.  The actor is now in stable condition, recuperating, and expected to be discharged soon. Mumbai Police have seized the revolver for investigation. Govinda thanked fans and doctors for their support.
+
+## This Telangana village bans liquor; Rs 50K fine, chappal garland for violators
+ - [https://timesofindia.indiatimes.com/city/hyderabad/this-telangana-village-bans-liquor-rs-50k-fine-chappal-garland-for-violators/articleshow/113868888.cms](https://timesofindia.indiatimes.com/city/hyderabad/this-telangana-village-bans-liquor-rs-50k-fine-chappal-garland-for-violators/articleshow/113868888.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T10:01:31+00:00
+
+Villagers in Kishan Nagar, Hyderabad, have banned liquor sale and consumption, imposing penalties for violations. The decision aims to ensure peace and reduce crime. Similar bans are in place in two villages in Yadadri Bhuvanagiri. Informers are rewarded, reinforcing the collective resolve against liquor in these communities.
+
+## World’s highest Shiva temple in Uttarakhand faces water leakage
+ - [https://timesofindia.indiatimes.com/city/dehradun/worlds-highest-shiva-temple-in-uttarakhand-faces-water-leakage-weakening-foundation/articleshow/113868823.cms](https://timesofindia.indiatimes.com/city/dehradun/worlds-highest-shiva-temple-in-uttarakhand-faces-water-leakage-weakening-foundation/articleshow/113868823.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T09:56:48+00:00
+
+Tungnath, the highest Lord Shiva temple in Uttarakhand, faces structural issues like water leakage, subsidence, and a weakening foundation, worsened by heavy monsoon rains. Expert teams from GSI and ASI have inspected the site, providing recommendations for restoration, while the local government prioritizes repairs.
+
+## Tamil filmmaker slapped me publicly: Actor Padmapriya
+ - [https://timesofindia.indiatimes.com/city/kozhikode/tamil-filmmaker-slapped-me-publicly-actor-padmapriya/articleshow/113868788.cms](https://timesofindia.indiatimes.com/city/kozhikode/tamil-filmmaker-slapped-me-publicly-actor-padmapriya/articleshow/113868788.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T09:55:12+00:00
+
+Padmapriya, a South Indian actor, shared an incident where a Tamil film director slapped her in front of others. Contrary to media reports claiming she slapped the director, no one questioned why she would complain if that were true. The director faced a six-month ban, and Padmapriya stopped working in Tamil films, highlighting broader issues of gender inequality.
+
+## Padyatris go on hunger strike after Sonam Wangchuk, 173 others detained
+ - [https://timesofindia.indiatimes.com/city/delhi/we-wont-eat-now-padyatris-go-on-hunger-strike-after-ladakh-activist-sonam-wangchuk-173-others-detained-by-delhi-police/articleshow/113867428.cms](https://timesofindia.indiatimes.com/city/delhi/we-wont-eat-now-padyatris-go-on-hunger-strike-after-ladakh-activist-sonam-wangchuk-173-others-detained-by-delhi-police/articleshow/113867428.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T08:42:26+00:00
+
+Sonam Wangchuk, alongside over 170 supporters, began an indefinite hunger strike after Delhi Police detained them at the Singhu border. Their march aimed to demand Sixth Schedule status for Ladakh. Wangchuk accuses the BJP of failing to fulfill its election promises regarding Ladakh's autonomy and governance.
+
+## Die-hard fan travels 1,200 km by bicycle to meet MS Dhoni, camps outside his farmhouse for days
+ - [https://timesofindia.indiatimes.com/sports/off-the-field/die-hard-fan-travels-1200-km-by-bicycle-to-meet-ms-dhoni-camps-outside-his-farmhouse-for-days/articleshow/113869588.cms](https://timesofindia.indiatimes.com/sports/off-the-field/die-hard-fan-travels-1200-km-by-bicycle-to-meet-ms-dhoni-camps-outside-his-farmhouse-for-days/articleshow/113869588.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:53:06.577774+00:00
+
+Gaurav Kumar, a devoted fan of Mahendra Singh Dhoni, cycled nearly 1,200 kilometers from Delhi to Ranchi to meet his idol. Camping outside Dhoni’s farmhouse for almost a week, Gaurav only managed to catch glimpses of Dhoni but never had a proper interaction.
+
+## What Do Employers Value Most in Placements? It's Not Your CGPA
+ - [https://timesofindia.indiatimes.com/education/news/what-do-employers-value-most-in-placements-its-not-your-cgpa/articleshow/113869517.cms](https://timesofindia.indiatimes.com/education/news/what-do-employers-value-most-in-placements-its-not-your-cgpa/articleshow/113869517.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:53:04.627638+00:00
+
+A report by HirePro shows a disparity between student and employer priorities in campus placements. While students value high CGPAs, corporates prioritize practical skills, attitude, and technical proficiency. Real-world projects and adaptability are crucial, revealing a need for a more rounded candidate evaluation.
+
+## Celestial events in Oct 2024: Ring of Fire, Full Hunter’s moon, and more
+ - [https://timesofindia.indiatimes.com/science/celestial-events-in-october-2024-ring-of-fire-eclipse-full-hunters-moon-and-more/articleshow/113869798.cms](https://timesofindia.indiatimes.com/science/celestial-events-in-october-2024-ring-of-fire-eclipse-full-hunters-moon-and-more/articleshow/113869798.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:53:02.708770+00:00
+
+October 2024 promises a celestial spectacle with events like the 'Ring of Fire' solar eclipse, Draconid, Southern Taurid, and Orionid meteor showers, a supermoon, and close encounters of the moon with Jupiter and Saturn. Don't miss the close approach of Comet C/2023 A3, offering a month brimming with cosmic wonders.
+
+## Netanyahu vows to make Iran pay after missile attack; US warns of severe consequences
+ - [https://timesofindia.indiatimes.com/world/middle-east/natanyahu-vows-to-make-iran-pay-after-missile-attacks-on-israel-us-warns-of-severe-consequences-key-developments/articleshow/113869557.cms](https://timesofindia.indiatimes.com/world/middle-east/natanyahu-vows-to-make-iran-pay-after-missile-attacks-on-israel-us-warns-of-severe-consequences-key-developments/articleshow/113869557.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:53:00.698302+00:00
+
+Prime Minister Netanyahu vowed retaliation after Iran launched 200 missiles at Israel, causing minor damage. IDF reported no casualties. Iranian Supremo Khamaeini called it a 'Victory from God.' The US warned Iran of severe consequences, and international leaders urged ceasefire to prevent regional war.
+
+## 'He will take Rs 18 cr': Chopra suggests LSG to retain these two players
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/he-will-take-rs-18-crore-for-sure-in-ipl-auction-aakash-chopra-suggests-lucknow-super-giants-to-retain-kl-rahul-and-nicholas-pooran/articleshow/113870299.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/he-will-take-rs-18-crore-for-sure-in-ipl-auction-aakash-chopra-suggests-lucknow-super-giants-to-retain-kl-rahul-and-nicholas-pooran/articleshow/113870299.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:58.834925+00:00
+
+Aakash Chopra suggested that Lucknow Super Giants should retain KL Rahul and Nicholas Pooran ahead of the IPL 2025 mega auction, emphasizing Rahul's role as captain and Pooran's T20 performances. Chopra also mentioned Marcus Stoinis as a third retention consideration and highlighted Mayank Yadav as a potential uncapped retention.
+
+## 'House finalised in Lutyens': Arvind Kejriwal to vacate Delhi CM residence
+ - [https://timesofindia.indiatimes.com/city/delhi/house-finalised-in-lutyens-arvind-kejriwal-to-vacate-delhi-cm-residence-in-1-2-days/articleshow/113869949.cms](https://timesofindia.indiatimes.com/city/delhi/house-finalised-in-lutyens-arvind-kejriwal-to-vacate-delhi-cm-residence-in-1-2-days/articleshow/113869949.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:56.906988+00:00
+
+AAP convener Arvind Kejriwal is set to vacate the official chief minister's residence and move with his family to a secured house in the New Delhi area within the next 1-2 days. The new residence is expected to be one of the official bungalows allotted to AAP Rajya Sabha MPs, located near AAP headquarters.
+
+## 'Was wrong about Trump': JD Vance on once comparing running mate to Hitler
+ - [https://timesofindia.indiatimes.com/world/us/was-wrong-about-donald-trump-jd-vance-on-once-comparing-running-mate-to-hitler/articleshow/113867073.cms](https://timesofindia.indiatimes.com/world/us/was-wrong-about-donald-trump-jd-vance-on-once-comparing-running-mate-to-hitler/articleshow/113867073.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:54.420230+00:00
+
+Ohio Senator JD Vance acknowledged his past criticisms of Donald Trump, now serving as Trump's running mate. He admitted to being wrong, citing Trump's achievements during his presidency and emphasised the importance of honesty and a desire to improve governance moving forward.
+
+## Protests in J&K over killing of Hezbollah chief Hassan Nasrallah
+ - [https://timesofindia.indiatimes.com/city/srinagar/protests-erupt-in-jammu-and-kashmir-over-killing-of-hezbollah-chief-hassan-nasrallah/articleshow/113869928.cms](https://timesofindia.indiatimes.com/city/srinagar/protests-erupt-in-jammu-and-kashmir-over-killing-of-hezbollah-chief-hassan-nasrallah/articleshow/113869928.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:52.296763+00:00
+
+Protests erupted in Budgam district, Jammu and Kashmir, following the death of Hezbollah leader Hassan Nasrallah in Lebanon. Demonstrators, carrying black flags, gathered in Magam market and Budgam town, chanting anti-Israel and anti-US slogans. Despite market closures, the protests remained largely peaceful, with police maintaining order to prevent violence.
+
+## When is the right time to consume Vitamin B12 supplements?
+ - [https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-b12-when-is-the-right-time-to-consume-vitamin-b12-supplements/articleshow/113868282.cms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-b12-when-is-the-right-time-to-consume-vitamin-b12-supplements/articleshow/113868282.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:50.645520+00:00
+
+Vitamin B12 is crucial for red blood cell production, DNA synthesis, and nerve health. It's advised to take vitamin b12 supplements in the morning for better energy and absorption. Those at higher risk of deficiency include people with plant-based diets, older adults, and individuals with certain medical conditions or surgeries.
+
+## 'He jokes a lot': SP leader on MLAs 'Muslim population rising' remark
+ - [https://timesofindia.indiatimes.com/city/bareilly/he-jokes-a-lot-samajwadi-party-leader-st-hasan-defends-party-mlas-muslim-population-rising-remark/articleshow/113869488.cms](https://timesofindia.indiatimes.com/city/bareilly/he-jokes-a-lot-samajwadi-party-leader-st-hasan-defends-party-mlas-muslim-population-rising-remark/articleshow/113869488.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:49.021209+00:00
+
+Samajwadi Party leader ST Hasan on Wednesday came out in support of party member Mehboob Ali after his remark that "the population of Muslims is increasing and the BJP's rule will come to an end soon," stating that he jokes a lot.
+
+## Watch: Rahane's bizarre dismissal as he falls just short of century
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/watch-ajinkya-rahanes-bizarre-dismissal-as-mumbai-captain-falls-just-short-of-century-in-irani-cup/articleshow/113870881.cms](https://timesofindia.indiatimes.com/sports/cricket/news/watch-ajinkya-rahanes-bizarre-dismissal-as-mumbai-captain-falls-just-short-of-century-in-irani-cup/articleshow/113870881.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:47.435851+00:00
+
+Ajinkya Rahane fell short of a century in the Irani Cup match against Rest of India, getting out on 97 to a bouncer from Yash Dayal. Rahane's dismissal came after a solid 131-run partnership with Sarfaraz Khan. The successful review by Ruturaj Gaikwad played a pivotal role in changing the game's dynamics.
+
+## 3 dead as Mumbai-bound chopper crashes in Pune’s Bavdhan area
+ - [https://timesofindia.indiatimes.com/city/pune/three-feared-dead-as-chopper-crashes-in-pune/articleshow/113868573.cms](https://timesofindia.indiatimes.com/city/pune/three-feared-dead-as-chopper-crashes-in-pune/articleshow/113868573.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:45.550973+00:00
+
+A helicopter, an Augusta 109, crashed in Pune's Bavdhan area on Wednesday morning, resulting in the feared deaths of two pilots and an engineer. The chopper, owned by Heritage Aviation, had taken off from the Oxford Golf Club helipad and was headed to Mumbai. Low visibility conditions may have contributed to the crash.
+
+## 'Make no mistake, US is... ': Biden after Iran's missile attack
+ - [https://timesofindia.indiatimes.com/world/us/make-no-mistake-us-is-fully-fully-supportive-of-israel-biden-after-irans-missile-attack/articleshow/113868831.cms](https://timesofindia.indiatimes.com/world/us/make-no-mistake-us-is-fully-fully-supportive-of-israel-biden-after-irans-missile-attack/articleshow/113868831.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:43.673284+00:00
+
+The Biden administration differentiates between Israel's military actions and Iran's missile attack, condemning Iran’s escalation. He also made the administration's stance clear, and warned, "Make no mistake, the United States is fully, fully supportive of Israel."  US pledges full support for Israel, lauds the defensive success against the missiles, and monitors the significant escalation while expressing condolences for a related terrorist incident. 
+
+## Explained: Where India has played their Test matches and why
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/explained-where-indian-cricket-team-has-played-their-test-matches-and-why/articleshow/113871833.cms](https://timesofindia.indiatimes.com/sports/cricket/news/explained-where-indian-cricket-team-has-played-their-test-matches-and-why/articleshow/113871833.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:41.807386+00:00
+
+Virat Kohli supports having five dedicated Test venues in India to enhance the sport's consistency. Conversely, Rohit Sharma and Ravichandran Ashwin see merit in rotating locations to engage fans nationwide. Comparing India with Australia and England, both nations use fewer venues, sparking debate on an optimal strategy for hosting Test matches in India.
+
+## Sachin Tendulkar or Virat Kohli? When Shane Warne made his choice
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-or-virat-kohli-whos-better-when-shane-warne-made-his-choice/articleshow/113871199.cms](https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-or-virat-kohli-whos-better-when-shane-warne-made-his-choice/articleshow/113871199.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:39.250183+00:00
+
+Sachin Tendulkar and Virat Kohli are two cricket legends of different eras and formats. Both players have excelled under varying conditions, making comparisons difficult. Shane Warne praises Tendulkar for his exceptional play between 1994-98, stating Kohli should be flattered by the comparison. Tendulkar's longevity and Kohli’s modern versatility leave both as cricket greats.
+
+## PPF calculator: How to become a crorepati with Public Provident Fund?
+ - [https://timesofindia.indiatimes.com/business/india-business/ppf-calculator-public-provident-fund-how-to-become-a-crorepati-with-ppf-interest-rate-investment-limit-tax-benefits-explained/articleshow/113845087.cms](https://timesofindia.indiatimes.com/business/india-business/ppf-calculator-public-provident-fund-how-to-become-a-crorepati-with-ppf-interest-rate-investment-limit-tax-benefits-explained/articleshow/113845087.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:37.489553+00:00
+
+Public Provident Fund (PPF) offers a secure, government-backed investment option with a current interest rate of 7.1%. It matures in 15 years but can be extended in 5-year blocks. A maximum annual investment of Rs 1.5 lakh can lead to significant returns and is eligible for tax benefits under Section 80C.
+
+## Tirupati laddu row: Pawan Kalyan visits Tirumala temple with daughter
+ - [https://timesofindia.indiatimes.com/city/vijayawada/andhra-deputy-cm-pawan-kalyan-signs-tirumala-declaration-with-daughter-for-srivari-darshan/articleshow/113869538.cms](https://timesofindia.indiatimes.com/city/vijayawada/andhra-deputy-cm-pawan-kalyan-signs-tirumala-declaration-with-daughter-for-srivari-darshan/articleshow/113869538.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:35.860780+00:00
+
+Andhra Pradesh deputy CM Pawan Kalyan visited Lord Venkateswara temple in Tirupati with his daughter to offer prayers. After signing necessary documents, they performed special pujas at Paadala Mandapam and began their pilgrimage. Kalyan will inspect the Tarigonda Vengamamba Nitha Annaprasadam complex and address a public meeting before concluding his three-day tour.
+
+## 10 years of Swachh Bharat: PM Modi picks up the broom with 'young friends'
+ - [https://timesofindia.indiatimes.com/india/10-years-of-swachh-bharat-pm-modi-picks-up-the-broom-for-cleanliness-drive-with-school-kids/articleshow/113869809.cms](https://timesofindia.indiatimes.com/india/10-years-of-swachh-bharat-pm-modi-picks-up-the-broom-for-cleanliness-drive-with-school-kids/articleshow/113869809.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:52:34.245234+00:00
+
+Prime Minister Narendra Modi participated in a cleanliness drive at a school on Gandhi Jayanti, marking ten years of the Swachh Bharat Mission. Union Minister HD Kumaraswamy and BJP leaders praised the initiative, highlighting its success in improving sanitation and hygiene across India.
+
+## Read Microsoft AI CEO's memo on the future of AI companions
+ - [https://timesofindia.indiatimes.com/technology/tech-news/read-microsoft-ai-ceo-mustafa-suleymans-memo-on-the-future-of-ai-companions/articleshow/113860953.cms](https://timesofindia.indiatimes.com/technology/tech-news/read-microsoft-ai-ceo-mustafa-suleymans-memo-on-the-future-of-ai-companions/articleshow/113860953.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:12:53+00:00
+
+Microsoft AI CEO Mustafa Suleyman has introduced a revamped Copilot, an AI assistant designed to provide a personalized, supportive experience by understanding users' contexts and needs. Suleyman envisions Copilot as a dynamic companion, aiding in daily tasks while safeguarding privacy and enhancing human connection and well-being.
+
+## Microsoft won't call workers back to office for 5-days-a-week unless…
+ - [https://timesofindia.indiatimes.com/technology/tech-news/microsoft-wont-call-workers-back-to-office-for-5-days-a-week-unless/articleshow/113861065.cms](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-wont-call-workers-back-to-office-for-5-days-a-week-unless/articleshow/113861065.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T07:11:28+00:00
+
+Microsoft is adopting a hybrid work model, allowing employees to work from home unless productivity declines. This contrasts with Amazon and Dell, which are requiring employees to return to the office full-time. Microsoft believes that hybrid work can boost productivity and retain employees, while Amazon and Dell emphasize collaboration and innovation as reasons for office-based work.
+
+## KBC 16: Amitabh Bachchan talks about playing 'alag qisam ka cricket' at home
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-16-amitabh-bachchan-talks-about-playing-alag-qisam-ka-cricket-at-home-says-aajkal-hum-umpire-ki-bhumika-nibha-rahe-hain/articleshow/113862169.cms](https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-16-amitabh-bachchan-talks-about-playing-alag-qisam-ka-cricket-at-home-says-aajkal-hum-umpire-ki-bhumika-nibha-rahe-hain/articleshow/113862169.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T05:23:14.230695+00:00
+
+Amitabh Bachchan, hosting Kaun Banega Crorepati 16, shares personal cricket anecdotes while interacting with contestant Bhautik Bharatbhai Bhanderi. Big B humorously discusses his current role as an umpire during family cricket games, while also helping Bhautik navigate a sports-related quiz question.
+
+## PM Modi pays tribute to Mahatma Gandhi, Lal Bahadur Shastri on birth anniversary
+ - [https://timesofindia.indiatimes.com/india/pm-modi-pays-tribute-to-mahatma-gandhi-lal-bahadur-shastri-on-birth-anniversary/articleshow/113868342.cms](https://timesofindia.indiatimes.com/india/pm-modi-pays-tribute-to-mahatma-gandhi-lal-bahadur-shastri-on-birth-anniversary/articleshow/113868342.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T05:23:12.619194+00:00
+
+Prime Minister Narendra Modi honored Mahatma Gandhi and Lal Bahadur Shastri on their birth anniversaries, emphasising Gandhi's principles of truth, harmony, and equality, and Shastri's dedication to soldiers and farmers with the slogan 'Jai Jawan, Jai Kisan.' Modi visited Rajghat to pay tribute.
+
+## Jaishankar on right to comment on US democracy: 'Don't feel bad when we do'
+ - [https://timesofindia.indiatimes.com/india/foreign-interference-is-foreign-interference-jaishankar-tells-us-on-democracy-remarks/articleshow/113867598.cms](https://timesofindia.indiatimes.com/india/foreign-interference-is-foreign-interference-jaishankar-tells-us-on-democracy-remarks/articleshow/113867598.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T05:23:08.787788+00:00
+
+S Jaishankar, India's external affairs minister, emphasized the nation's right to comment on US political views on Indian democracy. He argued for mutual respect among democracies and underscored India's strengthened regional relations while acknowledging challenges due to political changes in neighboring countries.
+
+## 'Push people out of...': Karthik on 'new' playing style in Rohit-Gambhir era
+ - [https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/push-people-out-of-dinesh-karthik-highlights-new-playing-style-in-rohit-sharma-gautam-gambhir-era/articleshow/113868583.cms](https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/push-people-out-of-dinesh-karthik-highlights-new-playing-style-in-rohit-sharma-gautam-gambhir-era/articleshow/113868583.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T05:23:06.999441+00:00
+
+India's victory over Bangladesh in the second Test in Kanpur has drawn praise for the aggressive approach of the Rohit Sharma-Gautam Gambhir partnership. Despite losing two days to rain, India secured a win in under two days. Dinesh Karthik lauds the team's high tempo and believes it will push players out of their comfort zones.
+
+## BJP's J&K candidate Mushtaq Ahmad Shah Bukhari dies of heart attack
+ - [https://timesofindia.indiatimes.com/city/jammu/jammu-kashmir-elections-bjp-candidate-mushtaq-ahmad-shah-bukhari-dies-of-heart-attack/articleshow/113868401.cms](https://timesofindia.indiatimes.com/city/jammu/jammu-kashmir-elections-bjp-candidate-mushtaq-ahmad-shah-bukhari-dies-of-heart-attack/articleshow/113868401.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T05:23:02.736258+00:00
+
+Mushtaq Ahmad Shah Bukhari, former minister and BJP candidate from Surankote, passed away at 75 due to a heart attack. A two-term MLA and recent BJP member, he had joined the party after the Pahari community received Scheduled Tribe status. Bukhari's death, mourned by political leaders including BJP president Ravinder Raina, leaves a significant void.
+
+## Haryana BJP candidate chased down, made to say protesting farmers are real
+ - [https://timesofindia.indiatimes.com/city/chandigarh/bjp-candidate-sunita-duggal-confronted-by-farmers-admits-their-protests-are-real/articleshow/113864580.cms](https://timesofindia.indiatimes.com/city/chandigarh/bjp-candidate-sunita-duggal-confronted-by-farmers-admits-their-protests-are-real/articleshow/113864580.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:31:41+00:00
+
+BJP candidates in Haryana's Ratia and Hisar seats faced backlash from farm activists. Sunita Duggal, running in Ratia, was chased and coerced to support farmers' demands, while in Hisar, Kamal Gupta had a slipper thrown at him during a public meeting. Both incidents highlight rising tensions and opposition faced by the BJP candidates.
+
+## Odisha: Masked robbers ‘gang rape’ woman in Bhubaneswar
+ - [https://timesofindia.indiatimes.com/city/bhubaneswar/horrific-gang-rape-incident-in-bhubaneswar-woman-attacked-by-masked-robbers/articleshow/113864543.cms](https://timesofindia.indiatimes.com/city/bhubaneswar/horrific-gang-rape-incident-in-bhubaneswar-woman-attacked-by-masked-robbers/articleshow/113864543.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:30:47+00:00
+
+In Bhubaneswar, a woman reported being gang-raped by four masked robbers who first broke into her house, robbed her, and then assaulted her while holding her child at knife point. She lodged the complaint the following day, mentioning that the assailants spoke in Hindi. A case has been registered and investigations are ongoing.
+
+## Solar eclipse date, time: When is Surya Grahan in October?
+ - [https://timesofindia.indiatimes.com/life-style/events/solar-eclipse-2024-date-and-time-when-is-surya-grahan-in-october-will-it-be-visible-in-india/articleshow/113849796.cms](https://timesofindia.indiatimes.com/life-style/events/solar-eclipse-2024-date-and-time-when-is-surya-grahan-in-october-will-it-be-visible-in-india/articleshow/113849796.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:18:05.131524+00:00
+
+A unique 'ring of fire' solar eclipse is set to occur on October 2, 2024, due to the Moon passing between the Earth and Sun at its farthest point. This phenomenon won't be visible in India but can be observed in parts of South America and other regions. Viewing precautions should be taken to prevent eye damage.
+
+## From Hey Ram to Lage Raho Munna Bhai: Movies to watch this Gandhi Jayanti
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-hey-ram-to-lage-raho-munna-bhai-5-inspirational-movies-of-the-mahatma-to-watch-this-gandhi-jayanti/articleshow/113862214.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-hey-ram-to-lage-raho-munna-bhai-5-inspirational-movies-of-the-mahatma-to-watch-this-gandhi-jayanti/articleshow/113862214.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:18:03.499359+00:00
+
+The birth anniversary of Mahatma Gandhi, celebrated on October 2nd, is a significant day in India. Various Bollywood films like 'Hey Ram', 'Lage Raho Munna Bhai', 'Maine Gandhi Ko Nahi Maara', 'Gandhi, My Father', and 'Nine Hours to Rama' commemorate his life, exploring themes of nonviolence, forgiveness, familial struggles, and his tragic assassination.
+
+## Immigration, climate change and Middle East: Walz vs Vance VP debate
+ - [https://timesofindia.indiatimes.com/world/us/us-elections-immigration-abortion-climate-change-and-middle-east-key-takeaways-from-walz-vs-vance-vice-presidential-debate/articleshow/113867625.cms](https://timesofindia.indiatimes.com/world/us/us-elections-immigration-abortion-climate-change-and-middle-east-key-takeaways-from-walz-vs-vance-vice-presidential-debate/articleshow/113867625.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:18:01.854315+00:00
+
+US Senator JD Vance and Minnesota governor Tim Walz clashed in a high-stakes debate as vice-presidential candidates for Trump and Harris. Key issues included the Middle East, past misstatements, climate change, and immigration. Both candidates emphasized their critiques of each other's running mates, aiming to sway undecided voters ahead of the November 5 election.
+
+## 'I could've played in Europe if...': Ex-City star reveals Chhetri's admission
+ - [https://timesofindia.indiatimes.com/sports/football/top-stories/exclusive-i-couldve-played-in-europe-if-former-manchester-city-star-terry-phelan-reveals-sunil-chhetris-honest-admission/articleshow/113867827.cms](https://timesofindia.indiatimes.com/sports/football/top-stories/exclusive-i-couldve-played-in-europe-if-former-manchester-city-star-terry-phelan-reveals-sunil-chhetris-honest-admission/articleshow/113867827.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:17:59.664802+00:00
+
+Indian football legend Sunil Chhetri became the all-time highest goalscorer in the Indian Super League with his 64th goal, surpassing Bartholomew Ogbeche. Former footballer Terry Phelan discusses India's FIFA ranking drop to 126th and stresses the need for a cohesive strategy, talent nurturing, and technical support to find the next Chhetri and improve Indian football.
+
+## How Ashwin stopped 'competing' with Jadeja overseas
+ - [https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/how-ravichandran-ashwin-stopped-competing-with-ravindra-jadeja-overseas/articleshow/113868294.cms](https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/how-ravichandran-ashwin-stopped-competing-with-ravindra-jadeja-overseas/articleshow/113868294.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:17:58.019649+00:00
+
+Ravichandran Ashwin and Ravindra Jadeja have evolved into a formidable spin and all-round duo for India. Jadeja's 300 Test wickets milestone highlights his underrated contributions. Despite overseas selection dilemmas, Ashwin prioritizes the team's success and supports Jadeja fully. Ashwin finds pride in India's overseas wins, embracing a flexible outlook fostered by former coach Rahul Dravid.
+
+## 3 feared dead as helicopter crashes in Pune
+ - [https://timesofindia.indiatimes.com/india/2-feared-dead-as-helicopter-crashes-in-maharashtras-pune-district/articleshow/113867531.cms](https://timesofindia.indiatimes.com/india/2-feared-dead-as-helicopter-crashes-in-maharashtras-pune-district/articleshow/113867531.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T04:17:56.327173+00:00
+
+None
+
+## Brazil President's plane faces technical error, returns to Mexico
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/brazil-president-lula-da-silva-lands-safe-in-mexico-after-circling-for-hours/articleshow/113866477.cms](https://timesofindia.indiatimes.com/world/rest-of-world/brazil-president-lula-da-silva-lands-safe-in-mexico-after-circling-for-hours/articleshow/113866477.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:13:19.226108+00:00
+
+A plane carrying Brazilian President Lula da Silva returned to Brasília safely after circling Mexico City due to a technical issue. Lula, who was attending Mexico's presidential inauguration, was transferred to another aircraft. The Brazilian air force confirmed that safety procedures were followed and the presidential jet consumed fuel before landing.
+
+## Jolt before Australia tour: Shami's comeback plans hit by knee injury
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/jolt-for-india-before-australia-tour-mohammed-shamis-comeback-plans-hit-by-knee-injury/articleshow/113867028.cms](https://timesofindia.indiatimes.com/sports/cricket/news/jolt-for-india-before-australia-tour-mohammed-shamis-comeback-plans-hit-by-knee-injury/articleshow/113867028.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:13:16.495287+00:00
+
+Mohammed Shami's comeback faces further delays as he has developed swollen knees during rehab, potentially sidelining him for another six to eight weeks. This setback could affect India's plans for the upcoming Test series in Australia. The BCCI's medical team is currently assessing his condition.
+
+## 'I'm a knucklehead at times': Tim Walz says 'misspoke' on claim of ...
+ - [https://timesofindia.indiatimes.com/world/us/vice-presidential-debate-knucklehead-at-times-tim-walz-says-misspoke-on-claim-of-being-in-hong-kong-during-tiananmen-square-protests/articleshow/113866801.cms](https://timesofindia.indiatimes.com/world/us/vice-presidential-debate-knucklehead-at-times-tim-walz-says-misspoke-on-claim-of-being-in-hong-kong-during-tiananmen-square-protests/articleshow/113866801.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:13:12.729574+00:00
+
+Minnesota governor Tim Walz faced scrutiny for inaccurate claims about being in Hong Kong during the 1989 Tiananmen Square protests. Reports reveal he was in Nebraska at the time. Admitting his mistake, Walz clarified he only arrived in China that summer. He acknowledged the error, attributing it to getting caught up in rhetoric.
+
+## 'India ka muqabla bas Australia se hi hai': Ex-Pak cricketer after Kanpur Test
+ - [https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/india-ka-muqabla-bas-australia-se-hi-hai-former-pakistan-cricketer-after-india-pull-of-a-heist-in-kanpur/articleshow/113866592.cms](https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/india-ka-muqabla-bas-australia-se-hi-hai-former-pakistan-cricketer-after-india-pull-of-a-heist-in-kanpur/articleshow/113866592.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:13:11.100845+00:00
+
+India clinched a seven-wicket win over Bangladesh in the rain-disrupted second Test in Kanpur, completing a 2-0 series sweep. India's chase was led by Yashasvi Jaiswal with 51 runs and Virat Kohli, unbeaten on 29. Former Pakistan cricketer Basit Ali praised India’s performance and highlighted the widening gap between India and Pakistan while commending Rohit Sharma's captaincy.
+
+## 'Not in a hurry': Andhra SIT halts Tirupati laddu prasadam probe
+ - [https://timesofindia.indiatimes.com/city/amaravati/we-are-not-in-a-hurry-after-sc-ruling-andhra-pradesh-sit-halts-tirupati-laddu-prasadam-probe-for-now/articleshow/113866660.cms](https://timesofindia.indiatimes.com/city/amaravati/we-are-not-in-a-hurry-after-sc-ruling-andhra-pradesh-sit-halts-tirupati-laddu-prasadam-probe-for-now/articleshow/113866660.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:13:09.396812+00:00
+
+Andhra Pradesh DGP Dwaraka Tirumala Rao announced the temporary suspension of the probe into the alleged adulteration of ghee in Tirumala's laddu prasadams. The special investigation team, led by an IG rank officer, halted their investigation following Supreme Court directions. The probe's future depends on the court's next hearing on October 3.
+
+## 'We understand that Israel needed to respond but ... ': Jaishankar
+ - [https://timesofindia.indiatimes.com/india/we-understand-that-israel-needed-to-respond-but-jaishankar-says-india-concerned-on-broadening-conflict-in-middle-east/articleshow/113867088.cms](https://timesofindia.indiatimes.com/india/we-understand-that-israel-needed-to-respond-but-jaishankar-says-india-concerned-on-broadening-conflict-in-middle-east/articleshow/113867088.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:13:07.407145+00:00
+
+External Affairs Minister S Jaishankar emphasized India's potential role as a communication facilitator amidst the Middle East crisis, labeling the October 7 Hamas attack on Israel as a terrorist act. While supporting Israel's right to respond, he stressed adherence to international humanitarian law. Prime Minister Modi echoed these sentiments, advocating for regional stability and the safe release of hostages.
+
+## Dera chief Ram Rahim Singh walks out of jail on 20-day parole
+ - [https://timesofindia.indiatimes.com/city/chandigarh/haryana-assembly-elections-dera-chief-ram-rahim-singh-walks-out-of-jail/articleshow/113866573.cms](https://timesofindia.indiatimes.com/city/chandigarh/haryana-assembly-elections-dera-chief-ram-rahim-singh-walks-out-of-jail/articleshow/113866573.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T03:13:05.206148+00:00
+
+Just three days before the Haryana assembly elections, the state government released Dera Sacha Sauda head Gurmeet Ram Rahim Singh on 20-day parole. His release has sparked controversy, with opposition parties arguing it could influence voters and violates the election model code of conduct.
+
+## 75+Happy Gandhi Jayanti messages, greetings, wishes, quotes for 2024
+ - [https://timesofindia.indiatimes.com/life-style/events/happy-gandhi-jayanti-messages-greetings-wishes-and-quotes-for-2024/articleshow/113852499.cms](https://timesofindia.indiatimes.com/life-style/events/happy-gandhi-jayanti-messages-greetings-wishes-and-quotes-for-2024/articleshow/113852499.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T02:08:12.409272+00:00
+
+On the significant occasion of Gandhi Jayanti, celebrated every year on October 2nd, let’s come together and convey an impactful array of thoughts via our wishes and messages on this historic occasion filled with non-violence and honesty.
+
+## Ashwin reveals reasons behind India's aggressive batting in Kanpur Test
+ - [https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/we-discussed-forfeiting-ravichandran-ashwin-reveals-reasons-behind-indias-aggressive-batting-in-kanpur-test/articleshow/113866293.cms](https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/we-discussed-forfeiting-ravichandran-ashwin-reveals-reasons-behind-indias-aggressive-batting-in-kanpur-test/articleshow/113866293.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T02:08:10.792818+00:00
+
+India contemplated forfeiting an inning during the Kanpur Test against Bangladesh due to weather disruptions. Ravichandran Ashwin shared that the team ultimately decided against it due to extreme conditions. Ashwin's performances earned him his 11th Player of the Series title, equalling Muttiah Muralitharan. India declared and secured a win, underlining their determination.
+
+## Goddess won’t smile if devotees don’t: West Bengal CM Mamata Banerjee
+ - [https://timesofindia.indiatimes.com/city/kolkata/mamata-banerjee-goddess-will-only-smile-if-devotees-do-amidst-protests-and-floods/articleshow/113862196.cms](https://timesofindia.indiatimes.com/city/kolkata/mamata-banerjee-goddess-will-only-smile-if-devotees-do-amidst-protests-and-floods/articleshow/113862196.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T01:39:41+00:00
+
+Chief Minister Mamata Banerjee emphasizes the importance of serving people as the true festival and addresses the RG Kar Medical College issue without direct mention. She highlights the state's flood impacts in Bengal, calling them 'man-made', with specific factors like water release from the Kosi dam contributing to the disaster.
+
+## Modi-Yunus meet likely at Bimstec summit next month
+ - [https://timesofindia.indiatimes.com/india/modi-yunus-meet-likely-at-bimstec-summit-next-month/articleshow/113865587.cms](https://timesofindia.indiatimes.com/india/modi-yunus-meet-likely-at-bimstec-summit-next-month/articleshow/113865587.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T01:03:02.243394+00:00
+
+Bangladesh's interim leader Muhammad Yunus and Indian Prime Minister Narendra Modi are expected to meet during the BIMSTEC summit in Bangkok next month. As Thailand prepares to host the event, Bangladesh will assume the role of next chair. Key topics include enhancing physical, maritime, and digital linkages to bolster economic and people-to-people connections.
+
+## Bangladesh says keen on good ties with Pakistan but won't forget 1971
+ - [https://timesofindia.indiatimes.com/world/south-asia/bangladesh-says-keen-on-good-ties-with-pakistan-but-wont-forget-1971/articleshow/113865665.cms](https://timesofindia.indiatimes.com/world/south-asia/bangladesh-says-keen-on-good-ties-with-pakistan-but-wont-forget-1971/articleshow/113865665.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T01:03:00.256370+00:00
+
+Bangladesh expresses a desire for good relations with Pakistan, contingent on acknowledging and apologizing for the 1971 atrocities. Foreign affairs adviser Md Touhid Hossain clarifies that Bangladesh’s current stance remains unchanged, emphasizing the importance of addressing historical issues for improved diplomatic ties.
+
+## Top 10 records from Kanpur Test: Highest run-rate to fastest team runs
+ - [https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/top-10-records-from-kanpur-test-from-highest-run-rate-in-test-history-to-fastest-team-runs/articleshow/113865749.cms](https://timesofindia.indiatimes.com/sports/cricket/bangladesh-in-india/top-10-records-from-kanpur-test-from-highest-run-rate-in-test-history-to-fastest-team-runs/articleshow/113865749.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T01:02:57.279234+00:00
+
+India, under Rohit Sharma's leadership, thrived in an aggressive playing style, achieving a historic seven-wicket victory against Bangladesh in Kanpur. The match, notable for its shattered records and defying weather challenges, cemented India's top position in the World Test Championship standings and highlighted exceptional performances from players like Jadeja and Ashwin.
+
+## Video: Israeli sky turn into battle zone after Iran launches missiles
+ - [https://timesofindia.indiatimes.com/world/middle-east/in-video-israeli-sky-turn-into-fiery-battle-zone-after-iran-launches-over-100-missiles/articleshow/113865717.cms](https://timesofindia.indiatimes.com/world/middle-east/in-video-israeli-sky-turn-into-fiery-battle-zone-after-iran-launches-over-100-missiles/articleshow/113865717.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T01:02:55.159258+00:00
+
+Iran launched 180 missiles at Israel, causing minor damage and few injuries but significant psychological impact. Israel warned of potential escalation and vowed retaliation. The attack escalated ongoing tensions involving Hezbollah and Hamas. The US and international community called for an immediate ceasefire.
+
+## Girls leave Noida hostel after ‘intruders knock on doors at night’
+ - [https://timesofindia.indiatimes.com/city/noida/172-students-evacuate-greater-noida-college-hostel-amid-safety-fears-after-intruder-incidents/articleshow/113861809.cms](https://timesofindia.indiatimes.com/city/noida/172-students-evacuate-greater-noida-college-hostel-amid-safety-fears-after-intruder-incidents/articleshow/113861809.cms)
+ - RSS feed: $source
+ - date published: 2024-10-02T00:36:48+00:00
+
+Fearful for their safety, most students at Kumari Mayawati Government Girls Polytechnic College left their hostels after a group of men allegedly trespassed and spied on them. Protests erupted due to repeated intrusions, with inadequate security measures and lack of hostel wardens being key issues.
+
