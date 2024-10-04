@@ -1,0 +1,51 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Dogs involved in fatal pet mauling in Kamloops, B.C., tested positive for drugs: city
+ - [https://www.cbc.ca/news/canada/british-columbia/kamloops-dangerous-dogs-drugs-1.7342328?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/kamloops-dangerous-dogs-drugs-1.7342328?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-10-03T20:55:19+00:00
+
+<img src='https://i.cbc.ca/1.7342432.1728003054!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/drug-dog-mauling-20241003.jpg' alt='Aerial photo of Kamloops, B.C.' width='620' height='349' title='The City of Kamloops says three dogs involved in a deadly attack on another dog last month tested positive for methamphetamine and cocaine and it wants the animals killed.Houses and mobile homes are seen in an aerial view in a residential neighbourhood, in Kamloops, B.C., on Sept. 11, 2023. '/><p>The City of Kamloops says three pit bulls involved in a fatal attack on a 13-year-old border collie last month tested positive for drugs and it wants the animals killed.</p>
+
+## B.C. court rejects attempt to stop tree removal in Vancouver’s Stanley Park
+ - [https://www.cbc.ca/news/canada/british-columbia/stanley-park-tree-cutting-court-1.7342088?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/stanley-park-tree-cutting-court-1.7342088?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-10-03T18:45:50+00:00
+
+<img src='https://i.cbc.ca/1.7342093.1727995110!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/park-tree-injunction-20241003.jpg' alt='Two people walk amongst large trees down a forest path. ' width='620' height='349' title='People walk down a path surrounded by large trees at Stanley Park in Vancouver, on Wednesday, June 21, 2023. The B.C. Supreme Court has declined to grant an injunction to halt tree removal work in Stanley Park after a group of park users claimed the work was doing more harm than good. '/><p>The B.C. Supreme Court will not grant an injunction to stop tree removal in Vancouver's Stanley Park after a group claimed the work was doing more harm than good. </p>
+
+## Pilots warned against unapproved plane modifications following report into fatal crash
+ - [https://www.cbc.ca/news/canada/british-columbia/chetwynd-plane-crash-2023-1.7342134?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/chetwynd-plane-crash-2023-1.7342134?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-10-03T17:53:04+00:00
+
+<img src='https://i.cbc.ca/1.7342140.1727990372!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/plane-crash.jpg' alt='A photo shows a crumpled airplane in water.' width='620' height='349' title='DO NOT REUSE A photo provided by Chetwynd RCMP to the Transportation Safety Board shows the aftermath of a fatal plane crash in northeastern B.C.'/><p>Canada's aviation safety agency is warning ultralight aircraft owners to make sure modifications to their planes are manufacturer-approved after finding such changes may have contributed to a fatal crash last year in northeastern British Columbia.</p>
+
+## 1 dead in seaplane crash near Port Hardy
+ - [https://www.cbc.ca/news/canada/british-columbia/port-hardy-seaplane-crash-1.7342026?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/port-hardy-seaplane-crash-1.7342026?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-10-03T17:07:38+00:00
+
+<img src='https://i.cbc.ca/1.7215185.1716671610!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/helicopter-crash-report-20240215-tsb-stock.jpg' alt='A sign with regalia and the text &apos;Transportation Safety Board of Canada&apos;.' width='620' height='349' title='The Transportation Safety Board is expected to issue a series of recommendations today following its investigation into a fatal 2021 helicopter crash in Nunavut. The helicopter went down in April on a trip to survey polar bear populations on Griffith Island, about 20 kilometres southwest of Resolute Bay, Nunavut. Transportation Safety Board of Canada (TSB) signage is pictured outside TSB offices in Ottawa, Monday, May 1, 2023.'/><p>Wilderness Seaplanes said weather was not a factor in the crash and there was "no indication of mechanical failure."</p>
+
+## Pharmacare bill passes key test ahead of next week's final Senate vote
+ - [https://www.cbc.ca/news/politics/pharmacare-senate-committee-1.7341870?cmp=rss](https://www.cbc.ca/news/politics/pharmacare-senate-committee-1.7341870?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-10-03T16:21:01+00:00
+
+<img src='https://i.cbc.ca/1.7154829.1711388023!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/question-period-20240229.JPG' alt='Minister of Health Mark Holland rises during Question Period in the House of Commons on Parliament Hill in Ottawa on Thursday, Feb. 29, 2024.' width='620' height='349' title='Minister of Health Mark Holland rises during Question Period in the House of Commons on Parliament Hill in Ottawa on Thursday, Feb. 29, 2024.'/><p>The government’s pharmacare legislation has passed a key step on the way to becoming law and is set to pass through the Senate next week.</p>
+
+## Brampton mayor says Ontario needs involuntary treatment for addictions, mental health
+ - [https://www.cbc.ca/news/canada/toronto/brampton-involuntary-treatment-mental-health-addictions-brain-injuries-1.7341476?cmp=rss](https://www.cbc.ca/news/canada/toronto/brampton-involuntary-treatment-mental-health-addictions-brain-injuries-1.7341476?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-10-03T14:11:16+00:00
+
+<img src='https://i.cbc.ca/1.7341481.1727969855!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brampton-news-conference-compassionate-care.jpg' alt='Two men in suits and a woman in business attire stand at a podium inside with a Brampton banner and flag in the background' width='620' height='349' title='Brampton Mayor Patrick Brown addresses the media alongside Deputy Mayor Harkirat Singh and Coun. Rowena Santos at a conference Thursday. Brown was calling on the Ontario government to help introduce what he called &apos;compassionate care&apos; for people facing addictions and mental health issues.'/><p>Brampton's mayor says Ontario should change its Mental Health Act to allow forcible treatment in extreme addictions and mental health cases. Opponents say that would infringe on individual rights, and more mental health resources are what's needed.</p>
+
+## His drone reveals how much trash is on Highway 401 but he's hit a 'roadblock' in his cleanup efforts
+ - [https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-highway-401-litter-1.7338790?cmp=rss](https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-highway-401-litter-1.7338790?cmp=rss)
+ - RSS feed: $source
+ - date published: 2024-10-03T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.6871061.1727877959!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/wayne-fernandes.jpeg' alt='Man takes photo of himself' width='620' height='349' title='Wayne Fernandes of Guelph, Ont., says he wants people to pay attention to the amount of garbage on the sides of roads and in their community because he thinks littering is getting out of hand. '/><p>Wayne Fernandes is frustrated he's hit a “roadblock” with the Ontario Ministry of Transportation in his attempt to get approval to clean up land along a section of Highway 401 near Guelph.</p>
+

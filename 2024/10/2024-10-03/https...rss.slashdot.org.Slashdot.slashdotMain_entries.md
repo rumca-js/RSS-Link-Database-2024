@@ -1,0 +1,194 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Senator Calls Out John Deere For Clean Air Act Violations, Blocking Farmer Repairs
+ - [https://tech.slashdot.org/story/24/10/03/2029258/senator-calls-out-john-deere-for-clean-air-act-violations-blocking-farmer-repairs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/10/03/2029258/senator-calls-out-john-deere-for-clean-air-act-violations-blocking-farmer-repairs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T22:55:52.092636+00:00
+
+"The Fight to Repair Newsletter is reporting that U.S. Senator Elizabeth Warren is calling out agricultural equipment giant John Deere for possible violations of the federal Clean Air Act and a years-long pattern of thwarting owners' ability to repair their farm equipment," writes longtime Slashdot reader chicksdaddy. From the report: Deere "appears to be evading its responsibilities under the Clean Air Act to grant customers the right to repair their own agricultural equipment." That is costing farmers an estimated $4.2 billion annually "causing them to miss key crop windows on which their businesses and livelihoods rely," Warren wrote in a letter (https://www.theverge.com/2024/10/3/24260513/john-deere-right-to-repair-elizabeth-warren-clean-air-act) dated October 2nd. The letter from Warren (PDF), a Senator from Massachusetts and strong repair advocate, is just the latest volley lobbed at Illinois-based Deere, an iconic American brand and the largest supplier of agricultural equipmen
+
+## Cloudflare Blocks Largest Recorded DDoS Attack Peaking At 3.8Tbps
+ - [https://tech.slashdot.org/story/24/10/03/2034235/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/10/03/2034235/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T22:55:51.465603+00:00
+
+BleepingComputer's Ionut Ilascu reports: During a distributed denial-of-service campaign targeting organizations in the financial services, internet, and telecommunications sectors, volumetric attacks peaked at 3.8 terabits per second, the largest publicly recorded to date. The assault consisted of a "month-long" barrage of more than 100 hyper-volumetric DDoS attacks flooding the network infrastructure with garbage data. In a volumetric DDoS attack, the target is overwhelmed with large amounts of data to the point that they consume the bandwidth or exhaust the resources of applications and devices, leaving legitimate users with no access.
+ 
+Many of the attacks aimed at the target's network infrastructure (network and transport layers L3/4) exceeded two billion packets per second (pps) and three terabits per second (Tbps). According to researchers at internet infrastructure company Cloudflare, the infected devices were spread across the globe but many of them were located in Russia, Vi
+
+## Microsoft Pulls Plug on Mixed Reality in New Windows 11 Update
+ - [https://tech.slashdot.org/story/24/10/03/1955209/microsoft-pulls-plug-on-mixed-reality-in-new-windows-11-update?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/10/03/1955209/microsoft-pulls-plug-on-mixed-reality-in-new-windows-11-update?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T21:52:22.927423+00:00
+
+Microsoft has discontinued Windows Mixed Reality support in its latest Windows 11 update, rendering a number of VR headsets obsolete. The move, reported by UploadVR, affects devices from major manufacturers. An estimated 80,000 users will lose access to their headsets upon upgrading to Windows 11 24H2. UploadVR adds: Despite the name, all Windows MR headsets were actually VR-only, and are compatible with most SteamVR content via Microsoft's SteamVR driver. The first Windows MR headsets arrived in late 2017 from Acer, Asus, Dell, HP, Lenovo, and Samsung, aiming to compete with the Oculus Rift and HTC Vive that had launched a year earlier. They were the first consumer VR products to deliver inside-out positional tracking, for both the headset and controllers. 
+
+All the original Windows MR OEMs except Samsung used the same cheap fixed panels LCD design with fixed lenses, while the Samsung Odyssey had IPD adjustment and OLED panels - the same OLED panels that would be featured in HTC Vive
+
+## Judge Blocks California's New AI Law In Case Over Kamala Harris Deepfake
+ - [https://yro.slashdot.org/story/24/10/03/2024224/judge-blocks-californias-new-ai-law-in-case-over-kamala-harris-deepfake?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/10/03/2024224/judge-blocks-californias-new-ai-law-in-case-over-kamala-harris-deepfake?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T21:52:22.815993+00:00
+
+An anonymous reader quotes a report from TechCrunch: A federal judge blocked one of California's new AI laws on Wednesday, less than two weeks after it was signed by Governor Gavin Newsom. Shortly after signing AB 2839, Newsom suggested it could be used to force Elon Musk to take down an AI deepfake of Vice President Kamala Harris he had reposted (sparking a petty online battle between the two). However, a California judge just ruled the state can't force people to take down election deepfakes -- not yet, at least. AB 2839 targets the distributors of AI deepfakes on social media, specifically if their post resembles a political candidate and the poster knows it's a fake that may confuse voters. The law is unique because it does not go after the platforms on which AI deepfakes appear, but rather those who spread them. AB 2839 empowers California judges to order the posters of AI deepfakes to take them down or potentially face monetary penalties.
+ 
+Perhaps unsurprisingly, the original p
+
+## Rival Browsers Allege Microsoft's Practices on Edge Unfair
+ - [https://tech.slashdot.org/story/24/10/03/1653212/rival-browsers-allege-microsofts-practices-on-edge-unfair?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/10/03/1653212/rival-browsers-allege-microsofts-practices-on-edge-unfair?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T20:37:52.613891+00:00
+
+Microsoft gives its Edge web browser an unfair advantage and EU antitrust regulators should subject it to tough EU tech rules, three rival browsers and a group of web developers said in a letter to the European Commission. From a report: The move by Vivaldi, Waterfox, Wavebox and the Open Web Advocacy could boost Norwegian browser company Opera which in July took the European Commission to court for exempting Edge from the Digital Markets Act (DMA). [...] "Unfair practices are currently allowed to persist on the Windows' ecosystem with respect to Edge, unmitigated by the choice screens that exist on mobile," they said, pointing to Edge set as the default browser on all Windows computers. "No platform independent browser can aspire to match Edge's unparalleled distribution advantage on Windows. Edge is, moreover, the most important gateway for consumers to download an independent browser on Windows PCs."<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" hr
+
+## Google's AI Search Summaries Officially Have Ads
+ - [https://tech.slashdot.org/story/24/10/03/1723227/googles-ai-search-summaries-officially-have-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/10/03/1723227/googles-ai-search-summaries-officially-have-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T20:37:52.244336+00:00
+
+Google is rolling out ads in AI Overviews, which means you'll now start seeing products in some of the search engine's AI-generated summaries. From a report: Let's say you're searching for ways to get a grass stain out of your pants. If you ask Google, its AI-generated response will offer some tips, along with suggestions for products to purchase that could help you remove the stain. The products will appear beneath a "sponsored" header, and Google spokesperson Craig Ewer told The Verge they'll only show up if a question has a "commercial angle."<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Google's+AI+Search+Summaries+Officially+Have+Ads%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F10%2F03%2F1723227%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstor
+
+## Meta Confirms It Will Use Ray-Ban Smart Glasses Images for AI Training
+ - [https://tech.slashdot.org/story/24/10/03/1812217/meta-confirms-it-will-use-ray-ban-smart-glasses-images-for-ai-training?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/10/03/1812217/meta-confirms-it-will-use-ray-ban-smart-glasses-images-for-ai-training?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T20:37:51.737951+00:00
+
+Meta has confirmed that it may use images analyzed by its Ray-Ban Meta AI smart glasses for AI training. The policy applies to users in the United States and Canada who share images with Meta AI, according to the company. While photos captured on the device are not used for training unless submitted to AI, any image shared for analysis falls under different policies, potentially contributing to Meta's AI model development. 
+
+Further reading: Meta's Smart Glasses Repurposed For Covert Facial Recognition.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Meta+Confirms+It+Will+Use+Ray-Ban+Smart+Glasses+Images+for+AI+Training%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F10%2F03%2F1812217%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F10%2F03%2F181
+
+## Social Media Sanctions Hit Conservatives More, But Due to Content Sharing, Study Says
+ - [https://science.slashdot.org/story/24/10/03/1821246/social-media-sanctions-hit-conservatives-more-but-due-to-content-sharing-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/24/10/03/1821246/social-media-sanctions-hit-conservatives-more-but-due-to-content-sharing-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T20:37:51.209676+00:00
+
+A study published in Nature has found that conservative social media users were more likely to face sanctions, but attributes this to their higher propensity to share low-quality news rather than political bias. Researchers analyzed 9,000 Twitter users during the 2020 U.S. election, finding pro-Trump users were 4.4 times more likely to be suspended than pro-Biden users. 
+
+However, they also shared significantly more links from sites rated as untrustworthy by both politically balanced groups and Republican-only panels. Similar patterns were observed across multiple datasets spanning 16 countries from 2016 to 2023. The study concludes that asymmetric enforcement can result from neutral policies when behavior differs between groups.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Social+Media+Sanctions+Hit+Conservatives+More%2C+But+Due+to+Content+Sharing%2C+Study+Says%3A+https%3A%2F%2Fscience.slashdot.org%2Fstory%2F24%2
+
+## Even Password Manager Subscribers Reuse Passwords, Study Finds
+ - [https://it.slashdot.org/story/24/10/03/1922259/even-password-manager-subscribers-reuse-passwords-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/10/03/1922259/even-password-manager-subscribers-reuse-passwords-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T20:37:50.699298+00:00
+
+An anonymous reader shares a report: It's not exactly breaking news that people reuse passwords, but you might expect password manager subscribers to avoid the practice. You'd be wrong, according to a new study. Dashlane's downer of a report draws on saved logins analyzed on-device by Dashlane's software across "millions" of individual and business accounts. It finds dismally high percentages of password reuse worldwide. The US and Canada rank the worst of every region Dashlane tracked, with 48% of passwords in individual password vaults being reused. Another 15% rate as compromised, meaning those passwords have shown up in data breaches. 
+
+Combined with other security data points, the US and Canada land at a security score of 72.6 out of 100 in Dashlane's report, the lowest of all 14 regions covered in the study. The report, along with the Password Health score that Dashlane's software computes for individual users, emphasizes the longstanding problem of password reuse because that p
+
+## Mozilla Releases Firefox 131 With Tab Preview and Text-Specific Links
+ - [https://news.slashdot.org/story/24/10/03/1940215/mozilla-releases-firefox-131-with-tab-preview-and-text-specific-links?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/10/03/1940215/mozilla-releases-firefox-131-with-tab-preview-and-text-specific-links?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T20:37:50.114874+00:00
+
+Mozilla has released Firefox 131 for multiple platforms, addressing security vulnerabilities and introducing some new features. The update fixes at least seven high-risk security issues, none reportedly exploited in the wild. New features include Tab Preview, which displays thumbnails and details when hovering over background tabs, and temporary location permission storage. Firefox now also supports URL fragment text directives, allowing users to link to specific text passages on web pages.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Mozilla+Releases+Firefox+131+With+Tab+Preview+and+Text-Specific+Links%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F10%2F03%2F1940215%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F10%2F03%2F1940215%2Fmozilla
+
+## Private Equity Firms Ploughing Billions Into Fossil Fuels, Analysis Reveals
+ - [https://news.slashdot.org/story/24/10/03/0146246/private-equity-firms-ploughing-billions-into-fossil-fuels-analysis-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/10/03/0146246/private-equity-firms-ploughing-billions-into-fossil-fuels-analysis-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T16:35:26.971159+00:00
+
+Private equity firms are using US public sector workers' retirement savings to fund fossil fuel projects pumping more than a billion tonnes of greenhouse gas emissions into the atmosphere every year, according to an analysis. From a report: They have ploughed more than $1tn into the energy sector since 2010, often buying into old and new fossil fuel projects and, thanks to exemptions from many financial disclosures, operating them outside the public eye, the researchers say. In many cases they are mortgaging workers' futures by taking the money they have put away for old age and investing it in assets that risk serious damage to the climate, the report claims. 
+
+"Public sector workers' money, through national, state, and retirement pensions, provides much of the capital for private equity firms' energy investments, but there is limited disclosure to the pension fund managers that the deferred earnings of their beneficiaries have potential climate impacts," it says. Researchers at Amer
+
+## WP Engine Sues WordPress for Libel, Extortion
+ - [https://yro.slashdot.org/story/24/10/03/1354214/wp-engine-sues-wordpress-for-libel-extortion?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/10/03/1354214/wp-engine-sues-wordpress-for-libel-extortion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T16:35:26.601414+00:00
+
+WP Engine, a major web hosting provider, has filed a federal lawsuit against WordPress [PDF] co-founder Matt Mullenweg and Automattic, alleging libel and attempted extortion. The suit stems from a public dispute over WordPress trademark usage and open-source licensing. 
+
+WP Engine, which hosts over 200,000 websites, accuses Mullenweg and Automattic of "abuse of power, extortion, and greed." The conflict escalated after Mullenweg called WP Engine a "cancer to WordPress" on his blog, prompting a cease-and-desist letter. Automattic subsequently demanded 8% of WP Engine's monthly revenue as royalties for alleged trademark infringement. The lawsuit includes 11 complaints, ranging from slander to violations of the Computer Fraud and Abuse Act.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=WP+Engine+Sues+WordPress+for+Libel%2C+Extortion%3A+https%3A%2F%2Fyro.slashdot.org%2Fstory%2F24%2F10%2F03%2F1354214%2F%3Futm_source%3Dt
+
+## PayPal Completes Its First Business Transaction Using Stablecoin
+ - [https://news.slashdot.org/story/24/10/03/1449235/paypal-completes-its-first-business-transaction-using-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/10/03/1449235/paypal-completes-its-first-business-transaction-using-stablecoin?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T16:35:26.268286+00:00
+
+PayPal completed its first business payment using its proprietary stablecoin as a way to demonstrate how digital currencies can be used to improve often-clunky commercial transactions. From a report: PayPal paid an invoice to Ernst &amp; Young LLP on Sept. 23 using PYUSD, the stablecoin the firm launched last year, relying on an SAP SE platform to complete the transaction. SAP's platform, known as the digital currency hub, allows enterprises to send and receive digital payments instantly, around the clock. The invoice amount wasn't disclosed. 
+
+Stablecoins are cryptocurrencies usually designed to track traditional currencies one-to-one. PYUSD, which has a current market capitalization of almost $700 million, tracks the US dollar. While the consumer-facing benefits of stablecoins often dominate conversations, this payment demonstrates other use cases for the digital currency, according to Jose Fernandez da Ponte, PayPal's senior vice president of its blockchain, cryptocurrency and digi
+
+## OpenAI Gets $4 Billion Revolving Credit Line, Giving It More Than $10 Billion in Liquidity
+ - [https://news.slashdot.org/story/24/10/03/1516255/openai-gets-4-billion-revolving-credit-line-giving-it-more-than-10-billion-in-liquidity?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/24/10/03/1516255/openai-gets-4-billion-revolving-credit-line-giving-it-more-than-10-billion-in-liquidity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T16:35:25.663171+00:00
+
+OpenAI has a $4 billion revolving line of credit, bringing its total liquidity to more than $10 billion, CNBC reported Thursday. From the report: It follows news on Wednesday that OpenAI closed its recent funding round at a valuation of $157 billion, including the $6.6 billion the company raised from an extensive roster of investment firms and big tech companies. JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC all participated. The base credit line is $4 billion, with an option to increase it by an additional $2 billion. The loan is unsecured and can be tapped over the course of three years. OpenAI's interest rate is equal to the Secured Overnight Financing Rate (SOFR) plus 100 basis points. SOFR, a measure of the cost of borrowing cash overnight, sat at just over 5% as of early this week, meaning OpenAI would be paying roughly 6% on money that it borrows right away.<p><div class="share_submission" style="position:relative;">
+<a class="
+
+## NSO Should Lose Spyware Case for Discovery Violations, Meta Says
+ - [https://yro.slashdot.org/story/24/10/03/1612219/nso-should-lose-spyware-case-for-discovery-violations-meta-says?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/10/03/1612219/nso-should-lose-spyware-case-for-discovery-violations-meta-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T16:35:25.011356+00:00
+
+WhatsApp and its parent Meta asked a judge to award them a total win against spyware maker NSO Group as punishment for discovery violations in a years-long case accusing the Israeli company of violating anti-hacking laws. From a report: NSO Group violated the Federal Rules of Civil Procedure, repeatedly ignoring the court's orders and its discovery obligations, according to a motion for sanctions filed Wednesday in the US District Court for the Northern District of California. "NSO's discovery violations were willful, and unfairly skew the record on virtually every key issue in the case, from the merits, to jurisdiction, to damages, making a full and fair trial on the facts impossible," they said. Judge Phyllis J. Hamilton should award the companies judgment as a matter of law or, "if the court finds that the limited discovery produced in this case does not suffice," enter default judgment against NSO, WhatsApp and Meta wrote. 
+
+The social media platforms first filed their complaint i
+
+## Americans Are Growing Wary of Jumping Jobs
+ - [https://slashdot.org/story/24/10/03/0243258/americans-are-growing-wary-of-jumping-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/24/10/03/0243258/americans-are-growing-wary-of-jumping-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T12:08:46.834054+00:00
+
+"Job hopping as a way to boost your earnings may not be as profitable as it was in 2022," writes Slashdot reader NoWayNoShapeNoForm. "Data from ADP, based on payroll data of almost 10 million employees, suggests the salary gain between 'stay' and 'jump' has definitely narrowed across all age groups, gender classes, industries, and company sizes." Yahoo Finance reports: New data from ADP released Wednesday showed that the median year-over-year pay increase for job switchers fell to 6.6% in September, down from 7.3% in August and the lowest growth rate since April 2021. The gap between pay gains for job changers and those of job stayers, which grew at a 4.7% pace in August, is at its narrowest since January and a far cry from 2022-2023 levels during the "Great Resignation." ADP chief economist Nela Richardson said that the narrowing gap in pay gains is a sign the labor market is "less tight ... less dynamic."
+ 
+"The payoff for job changing is not quite as complex as it was earlier this 
+
+## Enel X Way's JuiceBox EV Chargers About To Lose All Connectivity Features
+ - [https://hardware.slashdot.org/story/24/10/03/0230216/enel-x-ways-juicebox-ev-chargers-about-to-lose-all-connectivity-features?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/24/10/03/0230216/enel-x-ways-juicebox-ev-chargers-about-to-lose-all-connectivity-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T07:38:28.453256+00:00
+
+New submitter ae4ax writes: North American buyers of JuiceBox EVSEs (chargers) received an email today declaring the imminent closure of Enel X Way USA, LLC, the maintainers of the software infrastructure behind their EVSEs. Customer support has already shut down, and apps will be deactivated and removed by October 11, 2024. The company claims economic headwinds from lackluster EV sales and high interest rates as the motivation for the closure. Enel X Way properties outside North America are not affected, they say. "An experienced third-party firm will be appointed to manage the company's affairs and ensure that the closure is handled with the utmost care and professionalism," the company said in a statement. "The appointed firm will be responsible for managing the remaining obligations and communicating directly with customers and partners regarding the closure."
+ 
+Customers will still be able to charge vehicles but all their connectivity features -- the Enel X Way app and all other 
+
+## Attackers Exploit Critical Zimbra Vulnerability Using CC'd Email Addresses
+ - [https://it.slashdot.org/story/24/10/02/230241/attackers-exploit-critical-zimbra-vulnerability-using-ccd-email-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/24/10/02/230241/attackers-exploit-critical-zimbra-vulnerability-using-ccd-email-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T03:59:13.521647+00:00
+
+An anonymous reader quotes a report from Ars Technica: Attackers are actively exploiting a critical vulnerability in mail servers sold by Zimbra in an attempt to remotely execute malicious commands that install a backdoor, researchers warn. The vulnerability, tracked as CVE-2024-45519, resides in the Zimbra email and collaboration server used by medium and large organizations. When an admin manually changes default settings to enable the postjournal service, attackers can execute commands by sending maliciously formed emails to an address hosted on the server. Zimbra recently patched the vulnerability. All Zimbra users should install it or, at a minimum, ensure that postjournal is disabled.
+ 
+On Tuesday, Security researcher Ivan Kwiatkowski first reported the in-the-wild attacks, which he described as "mass exploitation." He said the malicious emails were sent by the IP address 79.124.49[.]86 and, when successful, attempted to run a file hosted there using the tool known as curl. Rese
+
+## World Wide Web Foundation is Shutting Down
+ - [https://tech.slashdot.org/story/24/10/03/0219238/world-wide-web-foundation-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/24/10/03/0219238/world-wide-web-foundation-is-shutting-down?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T02:54:53.015849+00:00
+
+After fifteen years of fighting to make the web safer and more accessible, the World Wide Web Foundation is shutting down. From a report: In a letter shared via the organization's website, co-founders Sir Tim Berners-Lee -- inventor of the World Wide Web -- and Rosemary Leith explain that the organization's mission has been somewhat accomplished and a new battle needs to be waged. When the foundation was founded in 2009, just over 20 percent of the world had access to the web and relatively few organizations were trying to change that, say Sir Tim and Leith. A decade and a half later, with nearly 70 percent of the world online, there are many similar non-governmental organizations trying to make the web more accessible and affordable. 
+
+The two founders thank their supporters over the years who "have enabled us to move the needle in a big way" with regard to access and affordability. But the issues facing the web have changed, they insist, and the foundation believes other advocacy gr
+
+## Police Arrest Four Suspects Linked To LockBit Ransomware Gang
+ - [https://yro.slashdot.org/story/24/10/02/2256250/police-arrest-four-suspects-linked-to-lockbit-ransomware-gang?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/10/02/2256250/police-arrest-four-suspects-linked-to-lockbit-ransomware-gang?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T01:49:05.906485+00:00
+
+Law enforcement from 12 countries arrested four individuals linked to the LockBit ransomware gang, including a developer and a bulletproof hosting administrator. The operation also resulted in the seizure of LockBit infrastructure and involved sanctions targeting affiliates of both LockBit and Evil Corp. BleepingComputer reports: According to Europol, a suspected LockBit ransomware developer was arrested in August 2024 at the request of French authorities while on holiday outside of Russia. The same month, the U.K.'s National Crime Agency (NCA) arrested two more individuals linked to LockBit activity: one believed to be associated with a LockBit affiliate, while the second was apprehended on suspicion of money laundering. In a separate action, at Madrid airport, Spain's Guardia Civil arrested the administrator of a bulletproof hosting service used to shield LockBit's infrastructure. Today, Australia, the United Kingdom, and the United States also revealed sanctions against an individu
+
+## Cisco Is Abandoning the LoRaWAN Space With No Lifeboat For IoT Customers
+ - [https://mobile.slashdot.org/story/24/10/02/2244258/cisco-is-abandoning-the-lorawan-space-with-no-lifeboat-for-iot-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://mobile.slashdot.org/story/24/10/02/2244258/cisco-is-abandoning-the-lorawan-space-with-no-lifeboat-for-iot-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T00:44:15.376885+00:00
+
+Cisco is exiting the LoRaWAN market for IoT device connectivity, with no migration plans for customers. "LoRaWAN is a low power, wide area network specification, specifically designed to connect devices such as sensors over relatively long distances," notes The Register. "It is built on LoRa, a form of wireless communication that uses spread spectrum modulation, and makes use of license-free sub-gigahertz industrial, scientific, and medical (ISM) radio bands. The tech is overseen by the LoRa Alliance." From the report: Switchzilla made this information public in a notice on its website announcing the end-of-sale and end-of-life dates for Cisco LoRaWAN. The last day customers will be able to order any affected products will be January 1, 2025, with all support ceasing by the end of the decade. The list includes Cisco's 800 MHz and 900 MHz LoRaWAN Gateways, plus associated products such as omni-directional antennas and software for the Gateways and Interface Modules. If anyone was in an
+
+## Meta Hit With New Author Copyright Lawsuit Over AI Training
+ - [https://yro.slashdot.org/story/24/10/02/2251230/meta-hit-with-new-author-copyright-lawsuit-over-ai-training?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/24/10/02/2251230/meta-hit-with-new-author-copyright-lawsuit-over-ai-training?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2024-10-03T00:44:15.133283+00:00
+
+Novelist Christopher Farnsworth has filed a class-action lawsuit (PDF) against Meta, accusing the company of using his and other authors' pirated books to train its Llama AI model. Farnsworth seeks damages and an order to stop the alleged copyright infringement, joining a growing group of creators suing tech companies over unauthorized AI training. Reuters reports: Farnsworth said in the lawsuit on Tuesday that Meta fed Llama, which powers its AI chatbots, thousands of pirated books to teach it how to respond to human prompts. Other authors including Ta-Nehisi Coates, former Arkansas governor Mike Huckabee and comedian Sarah Silverman have brought similar class-action claims against Meta in the same court over its alleged use of their books in AI training. [...] Several groups of copyright owners including writers, visual artists and music publishers have sued major tech companies over the unauthorized use of their work to train generative AI systems. The companies have argued that th
+
