@@ -1,0 +1,23 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Starfield Is Going Through An Identity Crisis
+ - [https://www.gamespot.com/videos/starfield-is-going-through-an-identity-crisis/2300-6465283](https://www.gamespot.com/videos/starfield-is-going-through-an-identity-crisis/2300-6465283)
+ - RSS feed: $source
+ - date published: 2024-10-05T10:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4379214-feature_starfieldoneyearlater_20241002v6.jpg" width="480" height="480" /> After a year of patches and updates, new mods from the community, and a meaty expansion, there's no denying that the Starfield experience is better than it was at launch. But is it the revamp that players are looking for? Despite all those updates, Starfield struggles to become the RPG of the future as the design choices of the past drag it down.
+
+## Firearms Expert Reacts To F.E.A.R.’s Guns
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-f-e-a-r-s-guns/2300-6465275](https://www.gamespot.com/videos/firearms-expert-reacts-to-f-e-a-r-s-guns/2300-6465275)
+ - RSS feed: $source
+ - date published: 2024-10-05T07:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4378722-fear_site.jpg" width="480" height="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down the weaponry of F.E.A.R., including the devastating 10mm Penetrator, the ‘Mars Attacks’-like gun, the Type-7 Particle Weapon, and a cursed MP5 called the RPL, which really upset poor Jonathan.
+
+## New Game Of Thrones Novel Box Set Is 50% Off - All Five Books Have New Cover Art
+ - [https://www.gamespot.com/articles/game-of-thrones-books-box-set-house-of-the-dragon-prime-big-deal-days/1100-6526804/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/game-of-thrones-books-box-set-house-of-the-dragon-prime-big-deal-days/1100-6526804/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2024-10-05T01:15:00+00:00
+
+<p><span>If you're eager to return to Westeros following Season 2 of House of the Dragon and haven't read the source material yet, Amazon has some fantastic deals on George R.R. Martin's as part of its <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Big Deal Days</a> early sale. Game of Thrones novels and House Targaryen histories, which served as the basis for House of the Dragon. You can even save on Game of Thrones graphic novels. We've rounded up the best Game of Thrones and House of the Dragon book promotions below, including a <a href="https://www.amazon.com/dp/0345535529?tag=gamespot-primeday-20">50%-off deal on the newly released A Song of Ice and Fire paperback box set.</a></span></p><h2><span>The New Game of Thrones Paperback Box Set</span></h2><figure data-align="center" data-size="large" data-img-src="https://www.gamespot.com/a/uploads/original/1595/15950357/4379377-gameofthronesnewboxset.png" data-ref-id="1300-4379377" data-ratio="0.563" data-width="1000"
+

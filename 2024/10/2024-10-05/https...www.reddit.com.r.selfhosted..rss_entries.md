@@ -1,0 +1,324 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## self host site on pi 4, guidance?
+ - [https://www.reddit.com/r/selfhosted/comments/1fx0m1z/self_host_site_on_pi_4_guidance](https://www.reddit.com/r/selfhosted/comments/1fx0m1z/self_host_site_on_pi_4_guidance)
+ - RSS feed: $source
+ - date published: 2024-10-05T21:17:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m such a noob i get it, so my plan is to use the pi for hosting a site. i have a dynamic ip but i heard there&#39;s a way around that. I plan to use wp cms to build the site. Last thing, I would want an email domain I can use that matches my site domain. I hope someone can point me in the right direction for how to go ab this process. I&#39;m planning on doing this bc I believe it will my cheapest option, rather than to purchase one of hostinger&#39;s plans. Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TrainerDry7900"> /u/TrainerDry7900 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fx0m1z/self_host_site_on_pi_4_guidance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fx0m1z/self_host_site_on_pi_4_guidance/">[comments]</a></span>
+
+## Something simpler than Authelia?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwz3gc/something_simpler_than_authelia](https://www.reddit.com/r/selfhosted/comments/1fwz3gc/something_simpler_than_authelia)
+ - RSS feed: $source
+ - date published: 2024-10-05T20:06:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for some way to control access to my self-hosted services like Authelia. However, Authelia and Authetik both seem insanely complex for what I want.</p> <p>Ideally, I want the following: - Give it authentication information: a file with usernames and (hased passwords). If it can also support bearer tokens, that&#39;s a plus. - Add it to the <code>auth_request</code> field in <code>nginx</code>.</p> <p>That should be all. Everything that requires hundreds of lines of configuration, with multiple warnings in the documentation about ways it can be misconfigured, just seems way too overcomplicated to be worth it for me. Is there something that&#39;s actually simple?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lily_34"> /u/lily_34 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwz3gc/something_simpler_than_authelia/">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## Would it be safe to run this thing naked with nothing protecting it
+ - [https://www.reddit.com/r/selfhosted/comments/1fwxvit/would_it_be_safe_to_run_this_thing_naked_with](https://www.reddit.com/r/selfhosted/comments/1fwxvit/would_it_be_safe_to_run_this_thing_naked_with)
+ - RSS feed: $source
+ - date published: 2024-10-05T19:11:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1fwxvit/would_it_be_safe_to_run_this_thing_naked_with/"> <img src="https://preview.redd.it/sah636lllzsd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e7aaf87d65d06b69e4d4a0b5ac2456aa71c621e" alt="Would it be safe to run this thing naked with nothing protecting it" title="Would it be safe to run this thing naked with nothing protecting it" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mrcool654321"> /u/Mrcool654321 </a> <br/> <span><a href="https://i.redd.it/sah636lllzsd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwxvit/would_it_be_safe_to_run_this_thing_naked_with/">[comments]</a></span> </td></tr></table>
+
+## Help with VPN?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwxfh7/help_with_vpn](https://www.reddit.com/r/selfhosted/comments/1fwxfh7/help_with_vpn)
+ - RSS feed: $source
+ - date published: 2024-10-05T18:51:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to host a personal VPN on a Raspberry Pi using PiVPN running OpenVPN but I can&#39;t seem to get it working, below is the debug info I have managed to get.</p> <p>PiVPN debug:</p> <pre><code>::: Generating Debug Output :::: PiVPN debug :::: ============================================= :::: Latest commit :::: Branch: master Commit: 4e4d608b35255680eb1545bfb5555c5b74411b31 Author: wlmchen Date: Sun Jul 28 17:29:36 2024 -0700 Summary: Fix Alpine persistence ============================================= :::: Installation settings :::: PLAT=Debian OSCN=bookworm USING_UFW=1 pivpnforceipv6route=1 IPv4dev=eth0 IPv4addr=192.168.1.2/24 IPv4gw=192.168.1.1 useNetworkManager=true install_user=Redacted install_home=/home/Redacted VPN=openvpn pivpnPROTO=udp pivpnPORT=1194 pivpnDNS1=10.2.101.1 pivpnDNS2= pivpnSEARCHDOMAIN= pivpnHOST=REDACTED TWO_POINT_FOUR=1 pivpnENCRYPT=256 USE_PREDEFINED_DH_PARAM= pivpnDEV=tun0 pivpnNET=10.2.101.0 subnetClass=24 pivpne
+
+## traefik on Proxmox - more subs in yml
+ - [https://www.reddit.com/r/selfhosted/comments/1fwxeo1/traefik_on_proxmox_more_subs_in_yml](https://www.reddit.com/r/selfhosted/comments/1fwxeo1/traefik_on_proxmox_more_subs_in_yml)
+ - RSS feed: $source
+ - date published: 2024-10-05T18:50:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello there,</p> <p>after a couple of problems with NPM i want to try traefik. </p> <p>For now it runs as a Container on my lil Proxmox and that work. Installed with the helper-script from tteck.<br/> Now I use a traefik_dynamic.yml:</p> <pre><code>http: routers: route-to-local-ip: rule: &quot;Host(`dsm.XXXX.de`)&quot; service: route-to-local-ip-service priority: 1000 entryPoints: - websecure # SSL-Verbindung verwenden (Port 443) tls: certResolver: letsencrypt # Let&#39;s Encrypt als Zertifikatsresolver services: route-to-local-ip-service: loadBalancer: servers: - url: &quot;http://192.168.178.999:99999&quot; </code></pre> <p>Of Course it is not *.999:99999</p> <p>That works. And now? How to config the next? I need up to 10 subs...can&#39;t find a good answer and ChatGPT is crap. </p> <p>More to do? </p> <p>Thanks for some Tips.<br/> Dan</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dancgn"> /u/dancgn </a> <br/
+
+## Network controlled music player - Mopidy or what?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwx5rl/network_controlled_music_player_mopidy_or_what](https://www.reddit.com/r/selfhosted/comments/1fwx5rl/network_controlled_music_player_mopidy_or_what)
+ - RSS feed: $source
+ - date published: 2024-10-05T18:39:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>&#39;sup, everyone! I was, for quite a while using Mopidy for playing music on a spare network-attached laptop. Sources varied - local collection, YT, internet radio, etc. For the most part, it worked, although sometimes the UI would flunk out, or the YT plugin stopped working, or some other random issue would happen. A while ago I had to do a fresh OS install on the laptop (went with Debian), so I&#39;m considering giving something else a try, IF it&#39;s known that that something else works better. I&#39;m aware of (but haven&#39;t taken a deep look into) Volumio, think there were a few other ones around last time I checked. What are y&#39;all using? Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DISPOSABLE_H_"> /u/DISPOSABLE_H_ </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwx5rl/network_controlled_music_player_mopidy_or_what/">[link]</a></span> &#32; <span><a hr
+
+## Python 3 Reduction of privileges in code - problem (Windows)
+ - [https://www.reddit.com/r/selfhosted/comments/1fwwziy/python_3_reduction_of_privileges_in_code_problem](https://www.reddit.com/r/selfhosted/comments/1fwwziy/python_3_reduction_of_privileges_in_code_problem)
+ - RSS feed: $source
+ - date published: 2024-10-05T18:31:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>The system is Windows 10/Windows 11. I am logged in and I see the desktop in the Account5(no administrator privileges). A python script run in this account using the right mouse button run as Administrator. A script for applying many operations that require administrator privileges. Nevertheless, one piece of code could be run in the context and with access to the logged in Windows account (Account5). Here is the code (net use is to be executed in the context of the logged in Windows account).</p> <p>Here is code snippet:</p> <pre><code> def connect_drive(self): login = self.entry_login.get() password = self.entry_password.get() if not login or not password: messagebox.showerror(&quot;Błąd&quot;, &quot;Proszę wprowadzić login i hasło przed próbą połączenia.&quot;) return try: self.drive_letter = self.get_free_drive_letter() if self.drive_letter: mount_command = f&quot;net use {self.drive_letter}: {self.CONFIG[&#39;host&#39;]} /user:{login} {password} 
+
+## Homebox V0.15.1 released!
+ - [https://www.reddit.com/r/selfhosted/comments/1fwwrz8/homebox_v0151_released](https://www.reddit.com/r/selfhosted/comments/1fwwrz8/homebox_v0151_released)
+ - RSS feed: $source
+ - date published: 2024-10-05T18:21:32+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://homebox.software">Homebox </a>is proud to announce the release of version 0.15.1 !</p> <p><strong>But first, what IS Homebox?</strong></p> <p>Homebox is the inventory and organization system built for the Home User! With a focus on simplicity and ease of use. Homebox is the perfect solution for your home inventory, organization, and management needs. </p> <p><strong>About the update</strong></p> <p>We have officially released v0.15.1 and a roadmap to v1 (stable). This release is mostly bug fixes, and a few new features such as the maintenance view. You can now track maintenance of your home inventory easily and manage the lifecycle of your home assets.</p> <p><strong>About the roadmap</strong></p> <p><a href="/u/tankerkiller125real">u/tankerkiller125real</a> and I wanted to create a roadmap for Homebox that laid the foundations for what we want to achieve in V1.0 (stable) and how to get there. With this in mind, we are pleased to anno
+
+## Is anyone using Bigcapital for accounting?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwwemd/is_anyone_using_bigcapital_for_accounting](https://www.reddit.com/r/selfhosted/comments/1fwwemd/is_anyone_using_bigcapital_for_accounting)
+ - RSS feed: $source
+ - date published: 2024-10-05T18:04:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have seen posts about self-hosting Bigcapital accounting software. Is anyone using it? Wondering how you like it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/greypic"> /u/greypic </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwwemd/is_anyone_using_bigcapital_for_accounting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwwemd/is_anyone_using_bigcapital_for_accounting/">[comments]</a></span>
+
+## Can't connect to my home server from either my domain or my public ip while on lan
+ - [https://www.reddit.com/r/selfhosted/comments/1fwvyo9/cant_connect_to_my_home_server_from_either_my](https://www.reddit.com/r/selfhosted/comments/1fwvyo9/cant_connect_to_my_home_server_from_either_my)
+ - RSS feed: $source
+ - date published: 2024-10-05T17:44:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi. I installed nextcloud and some other containers on my truenas server I have at home. When I&#39;m outside my lan (on mobile data or someone else&#39;s wifi) I have no problem connecting to those services, but when I&#39;m connected via wifi or ethernet to lan I cant access my server. It works just fine with the local ip adress tho. </p> <p>I&#39;ve done some digging and saw that this could be caused by my modem not supporting &#39;NAT reflection&#39;. However I can ping both my public IP and my domain from lan and from what I&#39;ve seen this wouldn&#39;t be posible without &#39;NAT reflection&#39;. </p> <p>I do have both a modem with a built in router and a dedicated tp link router all devices connect to (my modem doesn&#39;t support bridge mode, and my dedicated router is not set to access point mode). Now I&#39;ve tried connecting directly to modem to see if that would fix the issue (I thought that if my modem suported NAT reflection but the tp
+
+## Accessing home server without exposing ports
+ - [https://www.reddit.com/r/selfhosted/comments/1fwvw86/accessing_home_server_without_exposing_ports](https://www.reddit.com/r/selfhosted/comments/1fwvw86/accessing_home_server_without_exposing_ports)
+ - RSS feed: $source
+ - date published: 2024-10-05T17:41:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, I’m in a unique-ish position where I’m unable to expose my ports to the internet as I’m on University WiFi which won’t allow port forwarding. I have tried Tailscale for Plex and Jellyfin, however it’s far too slow, completely unusable which I understand due to the bandwidth 4k streaming requires. </p> <p>What sorts of tools allow circumventing this, such as relaying traffic through a nearby VPS? </p> <p>Fwiw Headscale won’t work in this situation since it still uses Tailscale DERP servers, and Tailscale’s implementation in general is just too slow for this amount of bandwidth.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Void-ux"> /u/Void-ux </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwvw86/accessing_home_server_without_exposing_ports/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwvw86/accessing_home_server_without_exposing_ports/">
+
+## Self hosted, Discord website client.
+ - [https://www.reddit.com/r/selfhosted/comments/1fwung6/self_hosted_discord_website_client](https://www.reddit.com/r/selfhosted/comments/1fwung6/self_hosted_discord_website_client)
+ - RSS feed: $source
+ - date published: 2024-10-05T16:45:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there a project out there, that I can simply, upload and configure to a web host, and give me an alternative/modded like view of discord? I know there are things like, WebCord, BetterDiscord, etc, but i&#39;m specifically looking for something of which I described.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkMulberry1209"> /u/OkMulberry1209 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwung6/self_hosted_discord_website_client/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwung6/self_hosted_discord_website_client/">[comments]</a></span>
+
+## Best way to have friends/family share large files with me?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwu795/best_way_to_have_friendsfamily_share_large_files](https://www.reddit.com/r/selfhosted/comments/1fwu795/best_way_to_have_friendsfamily_share_large_files)
+ - RSS feed: $source
+ - date published: 2024-10-05T16:25:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I hate having a NAS that can store lots of data but no way for friends to upload data to it unless it&#39;s in small chunks at a time.</p> <p>For my personal use I can use rsync and SFTP or rclone and the WebDAV remote for Nextcloud. Both of those solutions are robust, fast and reliable. At the same time, they couldn&#39;t be more unintuitive.</p> <p>What selfhosted app is easy to use for the tech illiterate and doesn&#39;t require installing anything? Failing that, it should only require installing a single application (should be available both in desktop and mobile) and it should not require any accounts.</p> <p>Nextcloud is bad for this to be honest. The web client upload tool is just not reliable, hence why I stick to rclone when uploading large files to Nextcloud.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ozone6587"> /u/ozone6587 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1f
+
+## Ideas for self-hosted PBX
+ - [https://www.reddit.com/r/selfhosted/comments/1fwsaaw/ideas_for_selfhosted_pbx](https://www.reddit.com/r/selfhosted/comments/1fwsaaw/ideas_for_selfhosted_pbx)
+ - RSS feed: $source
+ - date published: 2024-10-05T14:59:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there, I was wondering if anyone has a recommendation for a self-hosted PBX just for home use. I’m looking for one which is easy to set up and has a simple GUI like 3CX but free or open source. I have tried FreePBX and Asterisk but they are not nearly as straight forward. Any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/voiceoverguyuk"> /u/voiceoverguyuk </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwsaaw/ideas_for_selfhosted_pbx/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwsaaw/ideas_for_selfhosted_pbx/">[comments]</a></span>
+
+## HEVC with arr (transcoding)
+ - [https://www.reddit.com/r/selfhosted/comments/1fws238/hevc_with_arr_transcoding](https://www.reddit.com/r/selfhosted/comments/1fws238/hevc_with_arr_transcoding)
+ - RSS feed: $source
+ - date published: 2024-10-05T14:48:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a large video library that I run through jellyfin. I have heard I could save space and make things more efficient if I transcode it all to HEVC. First question, is that really the best idea? Second, is there an efficient docker to do this? (I run unraid of a 12th Gen i7) And 3rd, since I primarily stream to on network Google TVs, is there a downside to doing this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ayers_81"> /u/ayers_81 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fws238/hevc_with_arr_transcoding/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fws238/hevc_with_arr_transcoding/">[comments]</a></span>
+
+## Self-hosted streaming video downloader?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwruh0/selfhosted_streaming_video_downloader](https://www.reddit.com/r/selfhosted/comments/1fwruh0/selfhosted_streaming_video_downloader)
+ - RSS feed: $source
+ - date published: 2024-10-05T14:38:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just learned that some people apparently figured out how to download videos from streaming services. As I&#39;m usually late for watching movies before they disappear, is there some project for downloading this stuff? </p> <p>And yes, I know about torrent, the problem is that most movies are only available with English dialogues, and this is not a language that my family speaks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SlowStopper"> /u/SlowStopper </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwruh0/selfhosted_streaming_video_downloader/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwruh0/selfhosted_streaming_video_downloader/">[comments]</a></span>
+
+## Esxi mini pc disk swap and clone
+ - [https://www.reddit.com/r/selfhosted/comments/1fwra19/esxi_mini_pc_disk_swap_and_clone](https://www.reddit.com/r/selfhosted/comments/1fwra19/esxi_mini_pc_disk_swap_and_clone)
+ - RSS feed: $source
+ - date published: 2024-10-05T14:11:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, trying to keep my cranky lenovo mini pc esxi server alive while it lasts. Seeing there is no more free license im not sure i can (def dont wanna) do a fresh install. Its currently got a 256gb 2.5 inch ssd and I wanna replace it with a 2tb 2.5 inch ssd i got. What software would you recommend using? Haven&#39;t done such on a none windows machine in a long time. Clone zilla and the lot would do? Would the end result be a 256gb volume and 1.7 empty space?</p> <p>Thanks for any advice </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/makore256"> /u/makore256 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwra19/esxi_mini_pc_disk_swap_and_clone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwra19/esxi_mini_pc_disk_swap_and_clone/">[comments]</a></span>
+
+## Migration from RM servers to microcomputer
+ - [https://www.reddit.com/r/selfhosted/comments/1fwr5au/migration_from_rm_servers_to_microcomputer](https://www.reddit.com/r/selfhosted/comments/1fwr5au/migration_from_rm_servers_to_microcomputer)
+ - RSS feed: $source
+ - date published: 2024-10-05T14:04:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1fwr5au/migration_from_rm_servers_to_microcomputer/"> <img src="https://b.thumbs.redditmedia.com/XB2paQZVE0Bk93fi9ft8JY_fzJjs-xq9CDHKGRDaHZA.jpg" alt="Migration from RM servers to microcomputer" title="Migration from RM servers to microcomputer" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/binfamaz0ysd1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=32d68e2ba0b0e320acdc660d35edfad2d54b89e8">https://preview.redd.it/binfamaz0ysd1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=32d68e2ba0b0e320acdc660d35edfad2d54b89e8</a></p> <p>Today I migrated from 2 RM servers(Dell R730 and HP DL380G9) to Odroid H4 Ultra and I&#39;m not regretting. One of servers had TrueNAS with and 4 8tb ssd drives(Kingston DC 500 series). Other one was running my docker containers.</p> <p>Now everything runs on single Odroid H4U. I ditched TrueNas and imported my zpool on ubuntu via terminal. Then a
+
+## Grep an IP or a subnet address
+ - [https://www.reddit.com/r/selfhosted/comments/1fwqsgu/grep_an_ip_or_a_subnet_address](https://www.reddit.com/r/selfhosted/comments/1fwqsgu/grep_an_ip_or_a_subnet_address)
+ - RSS feed: $source
+ - date published: 2024-10-05T13:47:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello folks,</p> <p>I am trying to automate the creation of a blocklist for Nginx from a public blocklists. I can fetch the public blocklists, but when I read them to extract the IP addresses and CIDR subnets, I fail and also grab some incorrect information.</p> <p>My command is</p> <pre><code>grep -Po &#39;(?:\d{1,3}.){3}\d{1,3}(?:/\d{1,2})?&#39; </code></pre> <p>My issue is I get </p> <pre><code>0 0,0,0,0 0.09489999711 0.12240000069 0,208,130 025 025L337.238 02:7925:663 03 0-33.942 0.66579997539 080:1400:6 0.89999997615 0L256 100.0.73.33 100.10.72.114 </code></pre> <p>Got any idea how I might get rid of that bunch of incorrect values ?</p> <p>Thanks a lot !</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eirikr700"> /u/Eirikr700 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwqsgu/grep_an_ip_or_a_subnet_address/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhoste
+
+## HELP! Trying to deploy a docker compose stack that has a Gluetun container
+ - [https://www.reddit.com/r/selfhosted/comments/1fwpg80/help_trying_to_deploy_a_docker_compose_stack_that](https://www.reddit.com/r/selfhosted/comments/1fwpg80/help_trying_to_deploy_a_docker_compose_stack_that)
+ - RSS feed: $source
+ - date published: 2024-10-05T12:38:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, a noob here that would love some help please.<br/> So as the title says, I can&#39;t for the life of me figure out what im missing in my config, I followed what this guy is doing <a href="https://github.com/GitHubMilo/vpn_downloads/blob/main/docker-compose.yml">here</a>, and adapted it to my environment.</p> <p>So for context, I&#39;m running a debian VM on proxmox, this VM has docker installed, and Portainer. The VM is routed through basic bridge and is accessible to my local network.</p> <p>I&#39;m trying to setup a servarr stack on this VM that accesses an SMB share (that i have setup on another VM), and I tried to route my torrents traffic through gluetun. I have a mullvad subscription and im trying to use those credentials.</p> <p>So here is my current docker compose; this is a simplified version since I started banging my head on the wall trying different things:<br/> <a href="https://pastebin.com/msxGSyS3">https://pastebin.com/msxGSyS3</
+
+## Remote gaming
+ - [https://www.reddit.com/r/selfhosted/comments/1fwok6z/remote_gaming](https://www.reddit.com/r/selfhosted/comments/1fwok6z/remote_gaming)
+ - RSS feed: $source
+ - date published: 2024-10-05T11:47:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I currently have a fairly large tower that runs my gaming VM directly plugged into the monitor, I&#39;m considering relocating this somewhere else in the house and will be using ethernet for the network, also likely host a NAS on this machine etc etc all under Proxmox.</p> <p>I will use a small NUC attached to the monitor which will be mostly used to code and do IT admin task etc so no issue with demand, how could I best set up remote gaming in this situation, I&#39;ve looked at Steam and Parsec and both seem viable, also moonlight might work but last time i tried it was hit and miss. </p> <p>Parsec maybe more viable as I will mainly play heavily modeled Sims 4 and Skyrim via Wabbajack very heavily nodded, so I suppose connection to the Desktop would be ideal.</p> <p>I&#39;m also looking into splitting the GPU, not sure if that&#39;s possible with the 3080 TI, if not I will have to turn VMs on and off as required.</p> <p>Also I would like the opti
+
+## How to increase VPN speed
+ - [https://www.reddit.com/r/selfhosted/comments/1fwoeu7/how_to_increase_vpn_speed](https://www.reddit.com/r/selfhosted/comments/1fwoeu7/how_to_increase_vpn_speed)
+ - RSS feed: $source
+ - date published: 2024-10-05T11:38:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>How can I insrease the speed of my VPN connection? </p> <p>I have a Wireguard VPN Server at home that is running on my router TP-Link Archer AX72 Pro AX5400. The internet connection at my home has the following speed: Download ~50Mbps Upload ~5Mbps. Recently I tried to connect remotely and I noticed that the Speed doesn&#39;t go above 5Mbps when I am connected to my home VPN. I checked the internet connection (without VPN) on the remote connection where I was and it was 150Mbps/150Mbps, so I am sure that the problem was not the internet connection in the place where I was. What can cause the limited internet bandwidth? Can it be related to the low Upload speed at my home? I am asking because I don&#39;t want to change the contract with my ISP and still get low speeds. And Ideally I would like to be able to work from anywhere (meetings, downloading/uploading stuff, etc.) while beeing connected to my home VPN. </p> </div><!-- SC_ON --> &#32; submitted b
+
+## Can't find a basic web-notepad with markdown
+ - [https://www.reddit.com/r/selfhosted/comments/1fwnox2/cant_find_a_basic_webnotepad_with_markdown](https://www.reddit.com/r/selfhosted/comments/1fwnox2/cant_find_a_basic_webnotepad_with_markdown)
+ - RSS feed: $source
+ - date published: 2024-10-05T10:50:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for a web-based &quot;notepad&quot; with markdown... anyone use?</p> <p>I have a GIT repo of personal notes (simple markdown based), I&#39;m looking for a web-based app to edit them and then push to my git...</p> <p>anyone use something similar?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jack_of_caruggi"> /u/jack_of_caruggi </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwnox2/cant_find_a_basic_webnotepad_with_markdown/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwnox2/cant_find_a_basic_webnotepad_with_markdown/">[comments]</a></span>
+
+## Hiding wireguard traffic?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwmzso/hiding_wireguard_traffic](https://www.reddit.com/r/selfhosted/comments/1fwmzso/hiding_wireguard_traffic)
+ - RSS feed: $source
+ - date published: 2024-10-05T10:00:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I have a couple of tiny servers around the world which I use for VPN. (Their actual purpose is something else but I thought why not add vpn as well) It works great so far but there&#39;s some minor issue and I was wondering if I can find a solution for it.</p> <p>Is is possible to hide my wireguard traffic? If so can someone suggest a free opensource solution for it?</p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aaronryder773"> /u/aaronryder773 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwmzso/hiding_wireguard_traffic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwmzso/hiding_wireguard_traffic/">[comments]</a></span>
+
+## Remote access server
+ - [https://www.reddit.com/r/selfhosted/comments/1fwmn4l/remote_access_server](https://www.reddit.com/r/selfhosted/comments/1fwmn4l/remote_access_server)
+ - RSS feed: $source
+ - date published: 2024-10-05T09:33:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need a utilty which can maintain multiple ssh/telnet connections and host them over internet.I have a few a PC&#39;s and VM&#39;s in my home and I am a developper. I want to host ssh access with tmux to each machine over a website or terminal accessible ( better if possible). I don&#39;t really want to use VPN for this since I already have a static IP and host other services. Also I am thinking to give my coleagues access to this server time to time but not everyhing on my local network.</p> <p>It would be perfect if it can </p> <ol> <li>Host multiple ssh sessions as mentioned above.</li> <li>Support telnet. (I work on embedded devices which only allow telnet and not ssh)</li> <li>It can auto re-try on closed connections. ( I change firmwares on said devices often so connections are expected to be closed frequently)</li> <li>Completely optional but if it can support graphical desktop environment it would be awsome( My company limited out VPN login t
+
+## Hetzner for mail hosting?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwm4nk/hetzner_for_mail_hosting](https://www.reddit.com/r/selfhosted/comments/1fwm4nk/hetzner_for_mail_hosting)
+ - RSS feed: $source
+ - date published: 2024-10-05T08:54:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I’m currently hosting my emails with Strato&#39;s mail package, but I’ve been dissatisfied with it for a while. One of the main reasons is that they don’t allow wildcard DNS entries, and I can’t &quot;host&quot;/change nameservers the domain elsewhere. I’ve been wanting to switch for a long time but haven’t found a good provider yet, particularly one with servers based in Germany. While privacy isn&#39;t my top priority, it’s still important to me. With Strato now raising their prices even further, I’ve had enough.</p> <p>In the past, I tried running a VPS server with Mailcow, but it was a disaster. The IP ended up (not my fault the whole ip address block of the provider was on it) on some obscure blacklists, and many mail servers started blocking it. That experience left me with a very negative impression.</p> <p>However, I’ve heard that Hetzner is supposed to be quite reliable, and their IPs aren’t typically blacklisted. So, I’m reachi
+
+## So RomM doesn't need a separate install of EmulatorJS LOL?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwl7oo/so_romm_doesnt_need_a_separate_install_of](https://www.reddit.com/r/selfhosted/comments/1fwl7oo/so_romm_doesnt_need_a_separate_install_of)
+ - RSS feed: $source
+ - date published: 2024-10-05T07:45:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ok so saw a few YouTube videos that setup both EmuatorJS and RomM for game emulation.</p> <p>Once I got RomM setup, I thought it was weird that I didn&#39;t have to connect it to the instance of EmulatorJS that I had also setup.</p> <p>So I shut down the EmulatorJS docker container, and RomM continued to play games via the browser.</p> <p>So why use EmulatorJS at all I guess... hmmm</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZoltrixGFC"> /u/ZoltrixGFC </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwl7oo/so_romm_doesnt_need_a_separate_install_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwl7oo/so_romm_doesnt_need_a_separate_install_of/">[comments]</a></span>
+
+## Sonarr/Radarr: Kid Content
+ - [https://www.reddit.com/r/selfhosted/comments/1fwl3h1/sonarrradarr_kid_content](https://www.reddit.com/r/selfhosted/comments/1fwl3h1/sonarrradarr_kid_content)
+ - RSS feed: $source
+ - date published: 2024-10-05T07:36:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is it possible to split kid content, somehow so that my kid can only access the kid friendly content?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hackermarks"> /u/hackermarks </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwl3h1/sonarrradarr_kid_content/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwl3h1/sonarrradarr_kid_content/">[comments]</a></span>
+
+## [Jellyfin] Why are the images not correct for this season? It's from a completely different show. I have even added the TVDB series ID but it's still not updating. Any way I can fix this?? I have refreshed metadata & replaced existing images.
+ - [https://www.reddit.com/r/selfhosted/comments/1fwk5m5/jellyfin_why_are_the_images_not_correct_for_this](https://www.reddit.com/r/selfhosted/comments/1fwk5m5/jellyfin_why_are_the_images_not_correct_for_this)
+ - RSS feed: $source
+ - date published: 2024-10-05T06:27:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1fwk5m5/jellyfin_why_are_the_images_not_correct_for_this/"> <img src="https://b.thumbs.redditmedia.com/FrIANQ6LX1Qm_GNXX_hoV3fBq985gh3rH2o27WCYRnU.jpg" alt="[Jellyfin] Why are the images not correct for this season? It's from a completely different show. I have even added the TVDB series ID but it's still not updating. Any way I can fix this?? I have refreshed metadata &amp; replaced existing images." title="[Jellyfin] Why are the images not correct for this season? It's from a completely different show. I have even added the TVDB series ID but it's still not updating. Any way I can fix this?? I have refreshed metadata &amp; replaced existing images." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CreditGlittering8154"> /u/CreditGlittering8154 </a> <br/> <span><a href="https://www.reddit.com/gallery/1fwk5m5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/
+
+## Options for training videos
+ - [https://www.reddit.com/r/selfhosted/comments/1fwjyos/options_for_training_videos](https://www.reddit.com/r/selfhosted/comments/1fwjyos/options_for_training_videos)
+ - RSS feed: $source
+ - date published: 2024-10-05T06:13:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve a collection of training DVDs from before the streaming era. I&#39;ve been ripping and importing them into jellyfin, but the library types are really not ideal. I end up with the library set as &quot;Movies&quot; with all the metadata downloaders disabled, but this essentially shows up as a folder structure.</p> <p>Is there a better option among media payers, or am I better off looking at something like Moodle? Ideally something I can point at a directory containing all the courses, one directory per course. Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reditanian"> /u/reditanian </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwjyos/options_for_training_videos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwjyos/options_for_training_videos/">[comments]</a></span>
+
+## unable to connect to LAN only Vaultwarden instance through NGINX Reverse Proxy: what am i doing wrong?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwju9g/unable_to_connect_to_lan_only_vaultwarden](https://www.reddit.com/r/selfhosted/comments/1fwju9g/unable_to_connect_to_lan_only_vaultwarden)
+ - RSS feed: $source
+ - date published: 2024-10-05T06:04:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have raspberry pi running docker + a NPM container and Pihole container (DNS only, not a DHCP server) running on it, then i have Vaultwarden running on another machine in a VM. my intention is to set up Vaultwarden so its only accessible on my local network. the issue is that whenever i try to connect to it using a domain through NPM, my web browser says it cant connect to it.</p> <p>i initially tried using a domain i have on cloudflare, making an A record that points to the local IP of the VM i have running Vaultwarden, then added an entry in NPM with that same domain and a valid SSL cert that points to the same local IP for the VM. i then tried adding the domain as a DNS record in Pihole, also tried using only a local domain (vault.lan) in both NPM and Pihole, but still no luck. i even tried ditching NPM all together and tried using the Caddy + Vaultwarden docker compose setup, but this also gave me issues (got a 403 response when trying to obtain
+
+## Any good face detection photo app
+ - [https://www.reddit.com/r/selfhosted/comments/1fwjrgh/any_good_face_detection_photo_app](https://www.reddit.com/r/selfhosted/comments/1fwjrgh/any_good_face_detection_photo_app)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:59:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have large number of photos and they are somewhat organized.<br/> I want an app that can detect faces and I can create multiple accounts for members and share those images in which they are present with them.</p> <p>I tried Immich which it is very heavy on cpu and it takes lot of time. (using external library) </p> <p>I tried photoprism as well. But it does not support multiple account (for free version)<br/> The performance on my machine for same folder is much better than Immich but face detection is quite average. Immich was very slow even before face detection. It was quite intensive in generate thumbnail and extract metadata process. </p> <p>I don&#39;t want the app that needs reuploading the full folder library. It needs to have feature like support for external library. The app can create thumbnails but not not touch/edit original folder/library.</p> <p>I do not want duplicate removal or any other feature.</p> <p>I have very basic PC with i3-
+
+## Music streaming for the whole family
+ - [https://www.reddit.com/r/selfhosted/comments/1fwjpz9/music_streaming_for_the_whole_family](https://www.reddit.com/r/selfhosted/comments/1fwjpz9/music_streaming_for_the_whole_family)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:56:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im trying to set up a self hosted spotify/pandora type of service for my family. I installed Navidrome on my NAS and loaded my music library. Then i downloaded symfonium on my phone. Everything is working well. Now, i tried to add my daughter&#39;s music into the database. I have it in a separate folder to make it easy to navigate. I tried adding Metadata tags with mp3tag for &quot;dad&quot; and &quot;daughter.&quot; When i go into symfonium, i can figure out how to use the tags. It seems like the only way to create playlists is by adding songs one by one to each person&#39;s playlist. Is there a better combination of apps that i should be using for this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Significant-Task1453"> /u/Significant-Task1453 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwjpz9/music_streaming_for_the_whole_family/">[link]</a></span> &#32; <span><a href="https://ww
+
+## Simple FTP server for Windows (linux) with GUI - project
+ - [https://www.reddit.com/r/selfhosted/comments/1fwjl1u/simple_ftp_server_for_windows_linux_with_gui](https://www.reddit.com/r/selfhosted/comments/1fwjl1u/simple_ftp_server_for_windows_linux_with_gui)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:47:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1fwjl1u/simple_ftp_server_for_windows_linux_with_gui/"> <img src="https://external-preview.redd.it/Li4KZuP9qhRYeVmamkj2ZmoTdubbhI5wOzuyvdyIX18.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1d716a45d0d6824c0ccc907e496a07ecf233da8" alt="Simple FTP server for Windows (linux) with GUI - project" title="Simple FTP server for Windows (linux) with GUI - project" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>as I work for IT company where we have need for FTP server to store some switch backups and I really did not want to install anything I made this python FTP GUI what works. It makes the server easily and shuts it when not needed anymore at any time.</p> <p><a href="https://github.com/ghostersk/ftp-server-gui">https://github.com/ghostersk/ftp-server-gui</a> </p> <p><a href="https://preview.redd.it/ryu8opk0mvsd1.png?width=296&amp;format=png&amp;auto=webp&amp;s=8a7b031201fd5a08790263f5a0ab048d2be2e4ed">https://p
+
+## Is there a self-hosted alternative to 'https://appetize.io/demo'?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwjkud/is_there_a_selfhosted_alternative_to](https://www.reddit.com/r/selfhosted/comments/1fwjkud/is_there_a_selfhosted_alternative_to)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:46:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically looking to test websites and apps on a smartphone emulator via a browser, like <a href="https://appetize.io/demo">Appetize</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Used-Falcon-87"> /u/Used-Falcon-87 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwjkud/is_there_a_selfhosted_alternative_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwjkud/is_there_a_selfhosted_alternative_to/">[comments]</a></span>
+
+## Self hosted live translation?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwji1j/self_hosted_live_translation](https://www.reddit.com/r/selfhosted/comments/1fwji1j/self_hosted_live_translation)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:41:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>hey</p> <p>I&#39;m looking for a self hostable app that live translates spoken word without cloud services or even offline</p> <p>I&#39;d prefer an open source solution but if there are commercial solutions, I&#39;d be interested too</p> <p>has anyone had good experiences with an application and can recommend it? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IacovHall"> /u/IacovHall </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwji1j/self_hosted_live_translation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwji1j/self_hosted_live_translation/">[comments]</a></span>
+
+## Zoom like self hosted platform
+ - [https://www.reddit.com/r/selfhosted/comments/1fwj77m/zoom_like_self_hosted_platform](https://www.reddit.com/r/selfhosted/comments/1fwj77m/zoom_like_self_hosted_platform)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:20:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all. I currently use zoom for remote support and conference calls. I&#39;d like to not pay the annual service that they charge. Is there an opensource alternative that I can host myself? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nobodylikesemail"> /u/nobodylikesemail </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwj77m/zoom_like_self_hosted_platform/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwj77m/zoom_like_self_hosted_platform/">[comments]</a></span>
+
+## Renting sub domain of “nitinsworld.com”
+ - [https://www.reddit.com/r/selfhosted/comments/1fwj663/renting_sub_domain_of_nitinsworldcom](https://www.reddit.com/r/selfhosted/comments/1fwj663/renting_sub_domain_of_nitinsworldcom)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:18:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone looking for domain name ..please reach out to me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nitin_world"> /u/nitin_world </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwj663/renting_sub_domain_of_nitinsworldcom/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwj663/renting_sub_domain_of_nitinsworldcom/">[comments]</a></span>
+
+## Reactive resume docker trouble
+ - [https://www.reddit.com/r/selfhosted/comments/1fwj2th/reactive_resume_docker_trouble](https://www.reddit.com/r/selfhosted/comments/1fwj2th/reactive_resume_docker_trouble)
+ - RSS feed: $source
+ - date published: 2024-10-05T05:12:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone have tips on how to get this running using docker? I&#39;ve tried many different docker compose configs with no luck. I just want this for my local network. No reverse proxy, no internet exposure, no email stuff. Just a simple self hosted application to create resumes and save locally. Need help please. Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mlearns"> /u/mlearns </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwj2th/reactive_resume_docker_trouble/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwj2th/reactive_resume_docker_trouble/">[comments]</a></span>
+
+## 🚀 ClipCascade v0.2.0 Release: Seamless Clipboard Sync Across Devices!
+ - [https://www.reddit.com/r/selfhosted/comments/1fwiv9u/clipcascade_v020_release_seamless_clipboard_sync](https://www.reddit.com/r/selfhosted/comments/1fwiv9u/clipcascade_v020_release_seamless_clipboard_sync)
+ - RSS feed: $source
+ - date published: 2024-10-05T04:59:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1fwiv9u/clipcascade_v020_release_seamless_clipboard_sync/"> <img src="https://external-preview.redd.it/_dnTxobSJBSFFdVBQv83C9AU1bju_lxuHl6QuLDn78s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b85e3893ae2d5df292c31cc9134ec0084d647705" alt="🚀 ClipCascade v0.2.0 Release: Seamless Clipboard Sync Across Devices!" title="🚀 ClipCascade v0.2.0 Release: Seamless Clipboard Sync Across Devices!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Exciting news! <strong>ClipCascade v0.2.0</strong>, the lightweight, open-source tool for <strong>secure clipboard sync</strong> across multiple devices, has just been released. This version brings key improvements for an enhanced user experience.</p> <p>👉 Here’s the github repo: <a href="https://github.com/Sathvik-Rao/ClipCascade">https://github.com/Sathvik-Rao/ClipCascade</a></p> <p><a href="https://preview.redd.it/x9y9hfpqcvsd1.png?width=707&amp;format=png&amp;auto=webp&amp;s=
+
+## Need help with clearing and cleaning my inbox
+ - [https://www.reddit.com/r/selfhosted/comments/1fwi98y/need_help_with_clearing_and_cleaning_my_inbox](https://www.reddit.com/r/selfhosted/comments/1fwi98y/need_help_with_clearing_and_cleaning_my_inbox)
+ - RSS feed: $source
+ - date published: 2024-10-05T04:21:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve let my Gmail inbox run wild for years, and now I’m trying to clean it up while making sure I handle new emails as they come in.</p> <p>I can&#39;t just mark everything as read because I want to review what I&#39;m archiving. After that, I can mark things on a first thing basis, unsubscribing or marking emails as read. </p> <p>The goal is to reach Inbox 0.</p> <p>I found this: <a href="https://github.com/elie222/inbox-zero">https://github.com/elie222/inbox-zero</a>, but I’m too much of a noob to get it set up on my Unraid.</p> <p>Any advice or alternatives?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ayouby"> /u/Ayouby </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwi98y/need_help_with_clearing_and_cleaning_my_inbox/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwi98y/need_help_with_clearing_and_cleaning_my_inbox/">[comments]</a></span
+
+## Want to make my small server accessible outside my local network
+ - [https://www.reddit.com/r/selfhosted/comments/1fwhjdz/want_to_make_my_small_server_accessible_outside](https://www.reddit.com/r/selfhosted/comments/1fwhjdz/want_to_make_my_small_server_accessible_outside)
+ - RSS feed: $source
+ - date published: 2024-10-05T03:37:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I want to make my raspberry with a few services i have running on it accessible on the go.</p> <p>I have a few questions about how to do this:</p> <ol> <li><p>Is there a &quot;best&quot; provider for domains or should I simply choose the cheapest one?</p></li> <li><p>Should I set up cloudflare for security or is that not necessary?</p></li> <li><p>Is there anything else I need to take care of / consider before taking this step?</p></li> </ol> <p>I&#39;d greatly appreciate any advice :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TimJM1"> /u/TimJM1 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwhjdz/want_to_make_my_small_server_accessible_outside/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fwhjdz/want_to_make_my_small_server_accessible_outside/">[comments]</a></span>
+
+## Is it possible to decentralize internet provision?
+ - [https://www.reddit.com/r/selfhosted/comments/1fwhbrl/is_it_possible_to_decentralize_internet_provision](https://www.reddit.com/r/selfhosted/comments/1fwhbrl/is_it_possible_to_decentralize_internet_provision)
+ - RSS feed: $source
+ - date published: 2024-10-05T03:24:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not very knowledgeable on internet infrastructure, so pardon my ignorance. My question is whether or not it&#39;s possible for everyone to be their own ISP and not have to pay anyone for internet or rely on anyone else&#39;s service. In the same way that you can source your own water by having a well, and source your own electricity by having solar panels, is there any way you can also independently source your own internet by having your own infrastructure? If the answer is no, is it because it&#39;s not economically feasible as of current day standards? Or is it because there are practical, technological restraints (hosting servers, having storage space, etc)? If this is a problem, could quantum computers fix it when they become mainstream one day? Is it likely that we&#39;ll have a fully decentralized internet one day? Or is highly unlikely?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xotngoos335">
+
+## Setting Up Home Server
+ - [https://www.reddit.com/r/selfhosted/comments/1fwhaul/setting_up_home_server](https://www.reddit.com/r/selfhosted/comments/1fwhaul/setting_up_home_server)
+ - RSS feed: $source
+ - date published: 2024-10-05T03:23:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone! I am completely new to this and just running off information I gleaned from lurking and asking questions in various subreddits but I need a bit more help now, but more clarifications. </p> <p>I have a small n100 PC I am currently running Plex from, with a 5tb external HDD attached to house the movies and TV shows I’ve accumulated from ripping dvds from second hand shops. </p> <p>I’d like to begin trying my hand at the .arr suite, and already have Cyberghost VPN for the next year or so. For context, I live in Australia and would like to stop any incoming traffic being flagged by my ISP: my plan is to run the .arr and SABnzbd suite behind a VPN (maybe in a container by itself so Plex isn’t covered by the VPN too). </p> <p>From browsing this site, I think my best bet would be to do all of this manually, install Sonarr, Radarr, Bazarr, Overseerr, all in a container (not sure if Portainer would be good here) and seperate SABnzbd from my tra
+
+## Docker containers usage
+ - [https://www.reddit.com/r/selfhosted/comments/1fweo8e/docker_containers_usage](https://www.reddit.com/r/selfhosted/comments/1fweo8e/docker_containers_usage)
+ - RSS feed: $source
+ - date published: 2024-10-05T00:57:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there way to get monthly /weekly for all containers internet traffic? Im trying to see which one using my bandwidth.. already have cAdvisor but idk how to mange to get all that information.. or if there easy way .. appreciate any idea </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HopefulInitiative777"> /u/HopefulInitiative777 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1fweo8e/docker_containers_usage/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1fweo8e/docker_containers_usage/">[comments]</a></span>
+
+## Super box s5 max power issue
+ - [https://www.reddit.com/r/selfhosted/comments/1fwdq3z/super_box_s5_max_power_issue](https://www.reddit.com/r/selfhosted/comments/1fwdq3z/super_box_s5_max_power_issue)
+ - RSS feed: $source
+ - date published: 2024-10-05T00:09:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>My parents got a super box S5 max. It has a power issue. The first couple weeks it would turn on and work for a while but then randomly shut off, now it won’t even turn on. I got the to power up once for 20 seconds or so but that was it, otherwise it will not power on. My brother has a working super box and i used his power cord, didn’t work. Ive tried other troubleshooting as well, It’s clearly an issue with the box. </p> <p>So here is problem, I didn’t know about this until now and they bought it months ago, so outside the Amazon return / replacement window. I contacted to Amazon and seller is refusing to replace since it’s outside 30 day window. Do I have any chance getting a replacement from super box themselves? Can I possibly fix this potential power supply issue myself? Any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cool_Calm_Collected"> /u/Cool_Calm_Collected </a> <br/> <span><a href="ht
+
