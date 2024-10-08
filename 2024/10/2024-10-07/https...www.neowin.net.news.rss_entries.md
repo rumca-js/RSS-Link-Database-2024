@@ -1,0 +1,199 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Seagate Exos X20 20TB HDD for NAS/Plex gets a discount after a long time
+ - [https://www.neowin.net/deals/seagate-exos-x20-20tb-hdd-for-nasplex-gets-a-discount-after-a-long-time](https://www.neowin.net/deals/seagate-exos-x20-20tb-hdd-for-nasplex-gets-a-discount-after-a-long-time)
+ - RSS feed: $source
+ - date published: 2024-10-07T22:48:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/03/1679942532_seagate_exos_x20_medium.jpg" alt="" /></div>Seagate&#039;s 20TB Exos X20 has received a price cut. As such, this CMR-based hard disk (HDD) is $20 cheaper. <a href="https://www.neowin.net/deals/seagate-exos-x20-20tb-hdd-for-nasplex-gets-a-discount-after-a-long-time/">Read more...</a>
+
+## A bug in Word deletes documents instead of saving them
+ - [https://www.neowin.net/news/a-bug-in-word-deletes-documents-instead-of-saving-them](https://www.neowin.net/news/a-bug-in-word-deletes-documents-instead-of-saving-them)
+ - RSS feed: $source
+ - date published: 2024-10-07T20:40:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2019/03/1553428070_word2_medium.jpg" alt="" /></div>Microsoft has warned users that a very odd bug in Word can delete a document instead of properly saving it. <a href="https://www.neowin.net/news/a-bug-in-word-deletes-documents-instead-of-saving-them/">Read more...</a>
+
+## Google has been ordered by a judge to allow third-party app stores on Android devices
+ - [https://www.neowin.net/news/google-has-been-ordered-by-a-judge-to-allow-third-party-app-stores-on-android-devices](https://www.neowin.net/news/google-has-been-ordered-by-a-judge-to-allow-third-party-app-stores-on-android-devices)
+ - RSS feed: $source
+ - date published: 2024-10-07T20:10:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2018/09/1537445799_google_play_medium.jpg" alt="" /></div>A judge has ordered a permanent injunction to be placed on Google, forcing it to allow third-party app stores on Android devices. <a href="https://www.neowin.net/news/google-has-been-ordered-by-a-judge-to-allow-third-party-app-stores-on-android-devices/">Read more...</a>
+
+## PowerToys 0.85.1 is out and it fixes a couple of bugs
+ - [https://www.neowin.net/news/powertoys-0851-is-out-and-it-fixes-a-couple-of-bugs](https://www.neowin.net/news/powertoys-0851-is-out-and-it-fixes-a-couple-of-bugs)
+ - RSS feed: $source
+ - date published: 2024-10-07T19:12:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/06/1685715562_4_medium.jpg" alt="" /></div>The PowerToys app has received a new version, 0.85.1, that fixes a couple of bugs that were found in the most recent major update. <a href="https://www.neowin.net/news/powertoys-0851-is-out-and-it-fixes-a-couple-of-bugs/">Read more...</a>
+
+## Apple adds wired Xbox Controller support to iOS, iPadOS, and macOS
+ - [https://www.neowin.net/news/apple-adds-wired-xbox-controller-support-to-ios-ipados-and-macos](https://www.neowin.net/news/apple-adds-wired-xbox-controller-support-to-ios-ipados-and-macos)
+ - RSS feed: $source
+ - date published: 2024-10-07T18:56:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/10/1696343856_xbox_wireless_controller_medium.jpg" alt="" /></div>Thanks to Apple&#039;s latest operating system updates, you can now play games on your iPhone, iPad, or Mac with Xbox controllers in wired mode. <a href="https://www.neowin.net/news/apple-adds-wired-xbox-controller-support-to-ios-ipados-and-macos/">Read more...</a>
+
+## Telegram launches verification code platform, introduces gifts and improved reporting
+ - [https://www.neowin.net/news/telegram-launches-verification-code-platform-introduces-gifts-and-improved-reporting](https://www.neowin.net/news/telegram-launches-verification-code-platform-introduces-gifts-and-improved-reporting)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:46:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728319189_telegram_update_medium.jpg" alt="" /></div>Telegram has rolled out a major update. The messenger now lets you send virtual gifts, receive verification codes from businesses, and access improved tools for content reporting. <a href="https://www.neowin.net/news/telegram-launches-verification-code-platform-introduces-gifts-and-improved-reporting/">Read more...</a>
+
+## Comcast warns over 237,000 customers of ransomware data breach
+ - [https://www.neowin.net/news/comcast-warns-over-237000-customers-of-ransomware-data-breach](https://www.neowin.net/news/comcast-warns-over-237000-customers-of-ransomware-data-breach)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:30:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2016/11/1478114895_comcast_medium.jpg" alt="" /></div>Comcast has notified more than 237,000 customers that their personal information was compromised in a ransomware attack on a former debt collection agency. <a href="https://www.neowin.net/news/comcast-warns-over-237000-customers-of-ransomware-data-breach/">Read more...</a>
+
+## TECH_BARGAINS 10/7: AMD Ryzen 5800X, 7900 XT, Sony Dolby Atmos soundbar, Polk speakers
+ - [https://www.neowin.net/deals/techbargains-107-amd-ryzen-5800x-7900-xt-sony-dolby-atmos-soundbar-polk-speakers](https://www.neowin.net/deals/techbargains-107-amd-ryzen-5800x-7900-xt-sony-dolby-atmos-soundbar-polk-speakers)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:16:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728318553_techbargain_10_7_24_medium.jpg" alt="" /></div>On today&#039;s TECH_BARGAINS, we cover some of the best deals of the day, including AMD&#039;s Ryzen 5800X 8-core which has dropped to just $128 thanks to a coupon, and many more.
+ <a href="https://www.neowin.net/deals/techbargains-107-amd-ryzen-5800x-7900-xt-sony-dolby-atmos-soundbar-polk-speakers/">Read more...</a>
+
+## Save 98% on this CompTIA & IT Exam Lifetime Access Bundle
+ - [https://www.neowin.net/deals/save-98-on-this-comptia--it-exam-lifetime-access-bundle](https://www.neowin.net/deals/save-98-on-this-comptia--it-exam-lifetime-access-bundle)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2018/11/1542624700_comptia_medium.jpg" alt="" /></div>Save over $2700 on this bundle featuring CramWise, LinuxPath, DojoLab, CodeDirect, and ExamsDigest... yours to keep for life! <a href="https://www.neowin.net/deals/save-98-on-this-comptia--it-exam-lifetime-access-bundle/">Read more...</a>
+
+## Microsoft 365 Insiders can try out two new virtual pens in OneNote for Windows
+ - [https://www.neowin.net/news/microsoft-365-insiders-can-try-out-two-new-virtual-pens-in-onenote-for-windows](https://www.neowin.net/news/microsoft-365-insiders-can-try-out-two-new-virtual-pens-in-onenote-for-windows)
+ - RSS feed: $source
+ - date published: 2024-10-07T16:46:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2020/05/1588328535_onenote_medium.jpg" alt="" /></div>Members of the Microsoft 365 Insider program can access two new virtual pens in OneNote for Windows. <a href="https://www.neowin.net/news/microsoft-365-insiders-can-try-out-two-new-virtual-pens-in-onenote-for-windows/">Read more...</a>
+
+## Deal Alert: Samsung Galaxy Buds 2 Pro with 360-degree audio support now available for $105
+ - [https://www.neowin.net/deals/deal-alert-samsung-galaxy-buds-2-pro-with-360-degree-audio-support-now-available-for-105](https://www.neowin.net/deals/deal-alert-samsung-galaxy-buds-2-pro-with-360-degree-audio-support-now-available-for-105)
+ - RSS feed: $source
+ - date published: 2024-10-07T16:30:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/04/1714104983_galaxy-buds-2-pro_medium.jpg" alt="" /></div>The Samsung Galaxy Buds2 Pro offers a great wireless audio experience with high-quality sound, noise cancellation, and a comfortable fit. Currently, it&#039;s available at a discounted price of $105. <a href="https://www.neowin.net/deals/deal-alert-samsung-galaxy-buds-2-pro-with-360-degree-audio-support-now-available-for-105/">Read more...</a>
+
+## The Alien: Isolation sequel has been confirmed 10 years after the original game's release 
+ - [https://www.neowin.net/news/the-alien-isolation-sequel-has-been-confirmed-10-years-after-the-original-games-release](https://www.neowin.net/news/the-alien-isolation-sequel-has-been-confirmed-10-years-after-the-original-games-release)
+ - RSS feed: $source
+ - date published: 2024-10-07T16:14:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2014/10/xone_online_preview_screen003_copy_medium.jpg" alt="" /></div>A sequel to the acclaimed first-person stealth game Alien: Isolation is officially in development, 10 years after the original game was released by Creative Assembly and Sega. <a href="https://www.neowin.net/news/the-alien-isolation-sequel-has-been-confirmed-10-years-after-the-original-games-release/">Read more...</a>
+
+## WhatsApp Beta letting some users choose from 22 new chat themes
+ - [https://www.neowin.net/news/whatsapp-beta-letting-some-users-choose-from-22-new-chat-themes](https://www.neowin.net/news/whatsapp-beta-letting-some-users-choose-from-22-new-chat-themes)
+ - RSS feed: $source
+ - date published: 2024-10-07T16:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/04/1713989519_whatsapp_medium.jpg" alt="" /></div>WhatsApp is rolling out a new feature to some beta testers that lets them choose among 20 different chat theme colors. <a href="https://www.neowin.net/news/whatsapp-beta-letting-some-users-choose-from-22-new-chat-themes/">Read more...</a>
+
+## Nvidia CES 2025 keynote is now official, RTX 50 Series incoming?
+ - [https://www.neowin.net/news/nvidia-ces-2025-keynote-is-now-official-rtx-50-series-incoming](https://www.neowin.net/news/nvidia-ces-2025-keynote-is-now-official-rtx-50-series-incoming)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:44:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/02/1708551363_nvidia-logo_medium.jpg" alt="" /></div>If you are looking forward for the next-generation Nvidia graphics cards, keep your eyes peeled on the now-confirmed Nvidia keynote at CES 2025. <a href="https://www.neowin.net/news/nvidia-ces-2025-keynote-is-now-official-rtx-50-series-incoming/">Read more...</a>
+
+## Get Penetration Testing For Dummies (worth $18) for free 
+ - [https://www.neowin.net/sponsored/get-penetration-testing-for-dummies-worth-18-for-free](https://www.neowin.net/sponsored/get-penetration-testing-for-dummies-worth-18-for-free)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:00:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728307077_w_wile619c82_medium.jpg" alt="" /></div>Get ready to gather intelligence, discover the steps for mapping out tests, and analyze and report results! <a href="https://www.neowin.net/sponsored/get-penetration-testing-for-dummies-worth-18-for-free/">Read more...</a>
+
+## Browser makers ask EU to subject Edge to DMA regulations
+ - [https://www.neowin.net/news/browser-makers-ask-eu-to-subject-edge-to-dma-regulations](https://www.neowin.net/news/browser-makers-ask-eu-to-subject-edge-to-dma-regulations)
+ - RSS feed: $source
+ - date published: 2024-10-07T14:32:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715772477_edge_medium.jpg" alt="" /></div>Third-party browser makers are not happy about the EU&#039;s decision not to subject Microsoft Edge to DMA regulations, and they demand a change. <a href="https://www.neowin.net/news/browser-makers-ask-eu-to-subject-edge-to-dma-regulations/">Read more...</a>
+
+## Inflection for Enterprise promises tailored AI co-workers, powered by Intel
+ - [https://www.neowin.net/news/inflection-for-enterprise-promises-tailored-ai-co-workers-powered-by-intel](https://www.neowin.net/news/inflection-for-enterprise-promises-tailored-ai-co-workers-powered-by-intel)
+ - RSS feed: $source
+ - date published: 2024-10-07T14:10:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728309433_intel-x-inflection_medium.jpg" alt="" /></div>Inflection for Enterprise will deliver customized AI co-workers trained on company-specific data, addressing the need for more robust enterprise-grade AI tools. <a href="https://www.neowin.net/news/inflection-for-enterprise-promises-tailored-ai-co-workers-powered-by-intel/">Read more...</a>
+
+## Git grumpy: Torvalds complains of passive voice in merge commit messages
+ - [https://www.neowin.net/news/git-grumpy-torvalds-complains-of-passive-voice-in-merge-commit-messages](https://www.neowin.net/news/git-grumpy-torvalds-complains-of-passive-voice-in-merge-commit-messages)
+ - RSS feed: $source
+ - date published: 2024-10-07T13:26:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2020/10/1603746100_tux_medium.jpg" alt="" /></div>In a recent mailing list update, Linus Torvalds expressed frustration over passive voice in commit messages, urging developers to adopt a more active and clear communication style. <a href="https://www.neowin.net/news/git-grumpy-torvalds-complains-of-passive-voice-in-merge-commit-messages/">Read more...</a>
+
+## Get the Asus ROG Rapture Wi-Fi 7 quad-band wireless gaming router for a new low price
+ - [https://www.neowin.net/deals/get-the-asus-rog-rapture-wi-fi-7-quad-band-wireless-gaming-router-for-a-new-low-price](https://www.neowin.net/deals/get-the-asus-rog-rapture-wi-fi-7-quad-band-wireless-gaming-router-for-a-new-low-price)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:46:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728302788_asus-rog-rapture-router_medium.jpg" alt="" /></div>The Asus ROG Rapture GT-BE98 Pro Wi-Fi 7 quad-band wireless gaming router just hit a new low price of $659.99 at Amazon. <a href="https://www.neowin.net/deals/get-the-asus-rog-rapture-wi-fi-7-quad-band-wireless-gaming-router-for-a-new-low-price/">Read more...</a>
+
+## Codeium enhances UX with customizable font sizes and redesigned chat interface
+ - [https://www.neowin.net/news/codeium-enhances-ux-with-customizable-font-sizes-and-redesigned-chat-interface](https://www.neowin.net/news/codeium-enhances-ux-with-customizable-font-sizes-and-redesigned-chat-interface)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:30:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728301547_codeium_medium.jpg" alt="" /></div>Codeium&#039;s latest updates include a redesigned chat interface and faster load times, making it easier for developers to focus on coding rather than troubleshooting. <a href="https://www.neowin.net/news/codeium-enhances-ux-with-customizable-font-sizes-and-redesigned-chat-interface/">Read more...</a>
+
+## Samsung denies speculation it is spinning off its foundry business amid consecutive losses
+ - [https://www.neowin.net/news/samsung-denies-speculation-it-is-spinning-off-its-foundry-business-amid-consecutive-losses](https://www.neowin.net/news/samsung-denies-speculation-it-is-spinning-off-its-foundry-business-amid-consecutive-losses)
+ - RSS feed: $source
+ - date published: 2024-10-07T11:56:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728299713_samsung_foundry_black_2_medium.jpg" alt="" /></div>Samsung has denied claims it will spin off its foundry business as a separate entity amid increasing competition and consecutive financial losses.  <a href="https://www.neowin.net/news/samsung-denies-speculation-it-is-spinning-off-its-foundry-business-amid-consecutive-losses/">Read more...</a>
+
+## Roku Smart TV 65-inch now just $349.99 after 22% discount on Amazon
+ - [https://www.neowin.net/deals/roku-smart-tv-65-inch-now-just-34999-after-22-discount-on-amazon](https://www.neowin.net/deals/roku-smart-tv-65-inch-now-just-34999-after-22-discount-on-amazon)
+ - RSS feed: $source
+ - date published: 2024-10-07T11:40:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728299591_71kh4s5lutl._ac_sl1500__medium.jpg" alt="" /></div>The 65-inch Roku Smart TV is down to $349.99 on Amazon, a 22% discount. Enjoy 4K HDR10+ picture quality and a voice remote for easy navigation. <a href="https://www.neowin.net/deals/roku-smart-tv-65-inch-now-just-34999-after-22-discount-on-amazon/">Read more...</a>
+
+## Commandos: Origins gets a free demo mission, now available on PC and Xbox
+ - [https://www.neowin.net/news/commandos-origins-gets-a-free-demo-mission-now-available-on-pc-and-xbox](https://www.neowin.net/news/commandos-origins-gets-a-free-demo-mission-now-available-on-pc-and-xbox)
+ - RSS feed: $source
+ - date published: 2024-10-07T11:24:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728299730_e6c809f1cae4601bb19cb5e4c841bf7194ac4a06_medium.jpg" alt="" /></div>The Commandos franchise is returning with the prequel experience Origins. Now, fans can jump into a special demo mission featuring Green Baret and The Marine. <a href="https://www.neowin.net/news/commandos-origins-gets-a-free-demo-mission-now-available-on-pc-and-xbox/">Read more...</a>
+
+## Intel Ultra 285K beats Apple M3, AMD 9950X, Qualcomm X Elite in early single-core benchmark
+ - [https://www.neowin.net/news/intel-ultra-285k-beats-apple-m3-amd-9950x-qualcomm-x-elite-in-early-single-core-benchmark](https://www.neowin.net/news/intel-ultra-285k-beats-apple-m3-amd-9950x-qualcomm-x-elite-in-early-single-core-benchmark)
+ - RSS feed: $source
+ - date published: 2024-10-07T10:24:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/07/1722370426_intel-core-ultra-1_medium.jpg" alt="" /></div>The single-threaded performance of Intel&#039;s upcoming Core Ultra 9 285K is out and it has put up a score better than AMD&#039;s 9950X, Apple&#039;s M3, and Qualcomm&#039;s Snapdragon Elite. <a href="https://www.neowin.net/news/intel-ultra-285k-beats-apple-m3-amd-9950x-qualcomm-x-elite-in-early-single-core-benchmark/">Read more...</a>
+
+## 500GB Crucial P3 Plus SSD is 47% off, now available for just $36.99
+ - [https://www.neowin.net/deals/500gb-crucial-p3-plus-ssd-is-47-off-now-available-for-just-3699](https://www.neowin.net/deals/500gb-crucial-p3-plus-ssd-is-47-off-now-available-for-just-3699)
+ - RSS feed: $source
+ - date published: 2024-10-07T09:56:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/03/1679231533_p3_plus_crucial_medium.jpg" alt="" /></div>Here is a good chance to upgrade storage in your computer with a fast 500GB SSD from Crucial, which is now available for a dirt-cheap $36.99. <a href="https://www.neowin.net/deals/500gb-crucial-p3-plus-ssd-is-47-off-now-available-for-just-3699/">Read more...</a>
+
+## Google Play Store could soon highlight apps optimized for tablets and cars
+ - [https://www.neowin.net/news/google-play-store-could-soon-highlight-apps-optimized-for-tablets-and-cars](https://www.neowin.net/news/google-play-store-could-soon-highlight-apps-optimized-for-tablets-and-cars)
+ - RSS feed: $source
+ - date published: 2024-10-07T06:06:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2020/07/1596035772_p90379155_highres_bmw-google-android-a_medium.jpg" alt="" /></div>Google may be working on a new feature that will highlight apps compatible with big-screen devices such as tablets and cars. <a href="https://www.neowin.net/news/google-play-store-could-soon-highlight-apps-optimized-for-tablets-and-cars/">Read more...</a>
+
+## Alleged M4 MacBook Pro unboxed ahead of its official launch
+ - [https://www.neowin.net/news/alleged-m4-macbook-pro-unboxed-ahead-of-its-official-launch](https://www.neowin.net/news/alleged-m4-macbook-pro-unboxed-ahead-of-its-official-launch)
+ - RSS feed: $source
+ - date published: 2024-10-07T05:04:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2021/10/1634580603_event_2688_medium.jpg" alt="" /></div>Ahead of its official debut, a leaked video of the alleged M4 MacBook Pro has emerged revealing key specs of the device. <a href="https://www.neowin.net/news/alleged-m4-macbook-pro-unboxed-ahead-of-its-official-launch/">Read more...</a>
+
+## 343 Industries is now Halo Studios; it's working on multiple Halo games with Unreal Engine 5
+ - [https://www.neowin.net/news/343-industries-is-now-halo-studios-its-working-on-multiple-halo-games-with-unreal-engine-5](https://www.neowin.net/news/343-industries-is-now-halo-studios-its-working-on-multiple-halo-games-with-unreal-engine-5)
+ - RSS feed: $source
+ - date published: 2024-10-07T00:52:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/10/1728260910_halo-unreal-engine-5_medium.jpg" alt="" /></div>Microsoft has announced that its in-house Halo game developer 343 Industries has a new name, Halo Studios. it is working on new Halo games with Unreal Engine 5 as its basis. <a href="https://www.neowin.net/news/343-industries-is-now-halo-studios-its-working-on-multiple-halo-games-with-unreal-engine-5/">Read more...</a>
+

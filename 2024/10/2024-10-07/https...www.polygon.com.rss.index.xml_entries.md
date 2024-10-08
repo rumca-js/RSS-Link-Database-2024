@@ -1,0 +1,334 @@
+# Source:Polygon -  All, URL:https://www.polygon.com/rss/index.xml, language:en
+
+## We just had to argue about the end of Joker: Folie à Deux
+ - [https://www.polygon.com/movies/462200/joker-2-folie-a-deux-ending-meaning](https://www.polygon.com/movies/462200/joker-2-folie-a-deux-ending-meaning)
+ - RSS feed: $source
+ - date published: 2024-10-07T22:44:15+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/rev-1-JFAD-NT-25510r_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">Todd Phillips’ <em>Joker</em> sequel, <em>Joker: Folie à Deux</em>, is a difficult movie in a lot of ways. It’s difficult to stomach, as beaten-down protagonist Arthur Fleck (Joaquin Phoenix) endures still more physical abuse and mental and emotional deterioration. It’s difficult to parse, as Phillips and co-writer Scott Silver <a href="https://www.polygon.com/movies/460843/joker-2-review-folie-a-deux">pack the script with inconsistencies and contradictions</a>. And above all, there’s that bitter, thudding ending, which dismisses the first movie and consciously undermines any of the goodwill it garnered. How are we meant to feel abou
+
+## Genshin Impact’s new character isn&#8217;t just hot — she also raps
+ - [https://www.polygon.com/news/461841/genshin-impact-rap-video-xilonen-character-trailer](https://www.polygon.com/news/461841/genshin-impact-rap-video-xilonen-character-trailer)
+ - RSS feed: $source
+ - date published: 2024-10-07T21:16:06+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="An image of Xilonen in her character trailer in Genshin Impact. She’s doing a slow-motion backflip in the video. " data-caption="" data-portal-copyright="Image: Hoyoverse" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/genshincharactertrailer.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><em><a href="https://www.polygon.com/genshin-impact/441116/natlan-update-release-date">Genshin Impact</a></em> has introduced a new baddie to its lineup of playable characters and this time it’s a roller-skating cat girl named Xilonen. As to be <a href="https://www.polygon.com/23613420/genshin-impact-baizhu-kaveh-playable-characters-hoyoverse">expected with <em>Genshin </em>fans</a>, people are <a href="https://www.polygon.com/gaming/24197155/genshin-impact-natlan-trailer-fan-reaction">already thirsting over her</a>, but she has m
+
+## The best picks from Target’s well timed buy 2, get 1 free sale
+ - [https://www.polygon.com/sales-guide/461838/target-buy-two-get-one-free-gaming-tabletop-movies-books-deal](https://www.polygon.com/sales-guide/461838/target-buy-two-get-one-free-gaming-tabletop-movies-books-deal)
+ - RSS feed: $source
+ - date published: 2024-10-07T19:17:32+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/polygon-mosaic-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">While <a href="https://www.polygon.com/amazon-prime-day">Amazon’s Prime Day</a> doesn’t kick off until tomorrow, Target is hosting an excellent sale on board games, movies, books, and more that you’ll definitely want to check out. From now through Oct. 12, <a href="https://goto.target.com/c/482924/2086056/2092?subId1=PolygonTarget071024&amp;u=https%3A%2F%2Fwww.target.com%2Fl%2Ftarget-circle%2F-%2FN-pzno9" target="_blank" rel="noreferrer noopener">Target Circle members</a> can get a third item free when they purchase two other eligible items of equal or greater value. While this deal is restricted to members, joining Target Circle is free, and grants you access to f
+
+## KGB, FMV, and WTF collide in the trailer for Polygon’s new documentary, The Great Game
+ - [https://www.polygon.com/trailer/459986/great-game-the-making-of-spycraft-trailer](https://www.polygon.com/trailer/459986/great-game-the-making-of-spycraft-trailer)
+ - RSS feed: $source
+ - date published: 2024-10-07T19:11:49+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="A yarn-board style mash-up of stills from Spycraft and photos of KGB and CIA agents" data-caption="" data-portal-copyright="Graphic: Polygon" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Site-Image-3000x2000-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">The history of video games is full of wild, untold stories fit for great documentaries — so Polygon decided to make one.&nbsp;</p>
+
+<p class="has-text-align-none">Produced and directed by our own Clayton Ashley and Simone de Rochefort, and narrated by New York Times columnist Jamelle Bouie, <em>The Great Game</em> unravels the making of the iconic ‘90s video game <em>Spycraft</em>, which unexpectedly turned former KGB Major General Oleg Kalugin and ex-CIA Director William Colby into collaborators on a CD-ROM thriller.</p>
+
+<p class="has-text-align-none"><em>The 
+
+## Pathologic 3 adds additional time travel mechanics, set to arrive in 2025
+ - [https://www.polygon.com/gaming/462084/pathologic-3-bachelor-time-travel-2025](https://www.polygon.com/gaming/462084/pathologic-3-bachelor-time-travel-2025)
+ - RSS feed: $source
+ - date published: 2024-10-07T18:42:20+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/ss_698b1b61cffc05439171ccccddf4188bf30c2543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">The Pathologic games are cult classics, beloved by fans for deep characters, branching narrative choices, and punishing consequences. On Monday, developer Ice-Pick Lodge announced the release of <a href="https://store.steampowered.com/app/3199650/Pathologic_3/"><em>Pathologic 3</em></a>, which is scheduled to release in 2025. While the Pathologic games are notoriously tough, this one provides the player with a powerful new tool: time travel.</p>
+
+<p class="has-text-align-none">The original <em>Pathologic</em> tells three stories from three very different points of view: the Bachelor, the Haruspex, and the Changeling. <em>Pathologic 2</em>
+
+## The Silent Hill 2 remake leans into the horror of Comic Sans
+ - [https://www.polygon.com/culture/461904/silent-hill-2-remake-comic-sans-easter-egg](https://www.polygon.com/culture/461904/silent-hill-2-remake-comic-sans-easter-egg)
+ - RSS feed: $source
+ - date published: 2024-10-07T18:15:14+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/SILENT-HILL-2_20241007130105.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Bloober Team’s remake of horror classic <em><a href="https://www.polygon.com/review/460647/silent-hill-2-sh2-remake-review-ps5-pc">Silent Hill 2</a></em> isn’t afraid to poke fun at publisher Konami. Of the many changes and improvements included in the <em>Silent Hill 2</em> remake, one of the most whimsical creative choices is a nod to a previous attempt to modernize<em> </em>the game in 2012’s <em>Silent Hill HD Collection</em>. That collection’s infamous usage of widely derided typeface Comic Sans is preserved in the <em>Silent Hill 2</em> remake, but as an Easter egg for the most dedicated fans.</p>
+
+<p class="has-text-align-none">The <em>Silent Hil
+
+## Netflix’s animated Tomb Raider show, Dragon Ball Daima, and more new TV this week
+ - [https://www.polygon.com/tv/459577/new-tv-netflix-week-dragon-ball-lara-croft-daima-disclaimer](https://www.polygon.com/tv/459577/new-tv-netflix-week-dragon-ball-lara-croft-daima-disclaimer)
+ - RSS feed: $source
+ - date published: 2024-10-07T18:00:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="Super Saiyan Goku in the middle of a fight reacting to energy " data-caption="" data-portal-copyright="Image: Toei Animation/Crunchyroll" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Screenshot-2024-10-03-at-09.30.14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">And we’re back! This column has been on hiatus, but — as I’m sure you noticed — television has not. There have been plenty of great new releases, and fall is really just getting started. Whether you’re <a href="https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream">diving into spooky season</a>, <a href="https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming">the current new crop of anime</a>, or some of the newer premieres <a href="https://www.polygon.com/tv/458817/legend-vox-machina-
+
+## What time does Genshin Impact 5.1 release?
+ - [https://www.polygon.com/genshin-impact-guides/461761/version-5-1-release-times-maintenance-end](https://www.polygon.com/genshin-impact-guides/461761/version-5-1-release-times-maintenance-end)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:58:12+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Xilonen-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><em><a href="https://www.polygon.com/game/genshin-impact/40711">Genshin Impact</a></em> patch 5.1 is coming soon, bringing new characters and story with it. This version introduces Xilonen, a five-star Geo sword user, who is <em>also</em> a rollerblading DJ. What’s not to like?</p>
+
+<p class="has-text-align-none">Below, we explain when <em>Genshin Impact </em>maintenance starts and ends, alongside the release time of version 5.1. We’ve also added some details about what to expect from <em>Genshin Impact</em> version 5.1.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+<h2 class="wp-block-heading">What time does Genshin Impact go down for maintenance?</h2
+
+## Can Slowpoke and Galarian Slowpoke be shiny in Pokémon Go?
+ - [https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian](https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:36:42+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="Graphic: Julia Lee/Polygon | Source images: Niantic" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2023/10/jlee_241007_1001_pogo_shiny_slowpoke.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p>Slowpoke, the dopey Pokémon from Kanto, alongside its kin from Galar, Galarian Slowpoke can be found in the wild in <em>Pokémon Go</em>. Yes, <strong>Slowpoke and Galarian Slowpoke can be shiny in <em>Pokémon Go</em></strong>!</p>
+<img src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/jlee_241007_1001_pogo_shiny_slowpoke_family.jpg?quality=90&#038;strip=all&#038;crop=0,25.567190226876,100,48.865619546248" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+<p>Both Slowpoke and its Galarian sibling can be shiny. Most dedicated <em>Pokémon Go</em> players will alread
+
+## Cult survival horror game Alien: Isolation is finally getting a sequel
+ - [https://www.polygon.com/news/461900/alien-isolation-sequel-announcement](https://www.polygon.com/news/461900/alien-isolation-sequel-announcement)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:35:18+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14034325/ss_b1e245fecbcb2b93f48d76f4031f303076b4a6bc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><em>Alien: Isolation</em> has been vindicated by history. Released to a <a href="https://www.polygon.com/2014/10/3/6142209/alien-isolation-review-xbox-one-PS4">split critical reception</a> and underwhelming sales, the 2014 survival horror game has amassed a passionate cult following in the decade since it was released. And now, after more than ten years, <em>Alien: Isolation</em> is getting the sequel it so rightfully deserves.</p>
+
+<p class="has-text-align-none">On Monday, developer Creative Assembly <a href="https://x.com/AlienIsolation/status/1843305291322200488">posted a statement on the game’s offici
+
+## Game of Thrones star Kristian Nairn says World of Warcraft got him off drugs
+ - [https://www.polygon.com/world-of-warcraft/461195/kristian-nairn-game-of-thrones](https://www.polygon.com/world-of-warcraft/461195/kristian-nairn-game-of-thrones)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:07:52+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/HodorGOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">For <a href="https://www.polygon.com/game-of-thrones"><em>Game of Thrones</em></a> fans, the biggest appeal of Kristian Nairn’s memoir <a href="https://www.amazon.com/Beyond-Throne-Journeys-Friendships-Surprising-ebook/dp/B0CW1JNDRZ?tag=polygon05-20&amp;ascsubtag=__pl1002awD__446245__________________"><em>Beyond the Throne: Epic Journeys, Enduring Friendships, and Surprising Tales</em></a> will likely be the behind-the-scenes stories. From being cast as <a href="https://awoiaf.westeros.org/index.php/Hodor">huge, nearly mute servant Hodor</a> up until the character’s death, Nairn was there for most of the series, and he tells a lot of <a href="https://www.polyg
+
+## Joker 2 is bombing at the box office
+ - [https://www.polygon.com/news/461731/joker-2-box-office-flop-bad](https://www.polygon.com/news/461731/joker-2-box-office-flop-bad)
+ - RSS feed: $source
+ - date published: 2024-10-07T16:06:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/rev-1-JFAD-NT-19556rv2_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">The original <em><a href="https://www.polygon.com/reviews/2019/10/3/20893138/joker-review-joaquin-phoenix-robert-de-niro-todd-phillips">Joker</a></em>, released in 2019, was one of the biggest surprise hits in comic book movie history; a bizarre, darkly dramatic, totally-not-canon spinoff that somehow made over a billion dollars worldwide. Now it seems that the franchise is just destined for surprises, as its highly anticipated sequel, <em><a href="https://www.polygon.com/movies/460843/joker-2-review-folie-a-deux">Joker: Folie à Deux</a></em>, has opened to terrible reviews and <a href="https://www.hollywoodreporter.com/movies/movie-news/joker-
+
+## Astro Bot, Final Fantasy 7 Rebirth top Golden Joystick Awards nominees, with key indies close behind
+ - [https://www.polygon.com/awards/461690/astro-bot-final-fantasy-7-rebirth-top-golden-joystick-awards-nominees-with-key-indies-close-behind](https://www.polygon.com/awards/461690/astro-bot-final-fantasy-7-rebirth-top-golden-joystick-awards-nominees-with-key-indies-close-behind)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:43:08+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="Astro Boy and Cloud split" data-caption="" data-portal-copyright="Graphic: Polygon; Source images: Team Asobi/Sony Interactive Entertainment, Square Enix" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/polygon-mosaic-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">The race for Game of the Year <a href="https://www.polygon.com/awards/450195/game-of-the-year-game-awards-frontrunners">remains wide open</a>, with celebrated indies having as much or stronger critical interest than the obvious AAA tentpoles (and the fall calendar shaking up last minute – <em>Assassin’s Creed Shadows</em> was never poised to be The Big One for 2024, but Ubisoft’s decision <a href="https://www.polygon.com/gaming/456349/assassins-creed-shadows-delay-star-wars-outlaws-sales">to punt it to 2025</a> makes it a non-starter). The nominees for th
+
+## Sony’s stellar XM4 noise-canceling headphones are 63% off for Prime Day
+ - [https://www.polygon.com/amazon-prime-day/461679/sony-wh1000xm4-noise-canceling-headphones](https://www.polygon.com/amazon-prime-day/461679/sony-wh1000xm4-noise-canceling-headphones)
+ - RSS feed: $source
+ - date published: 2024-10-07T14:36:13+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/sonyXM4pressphoto.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">It’s typical for Sony to knock an extra $50 or so off its headphones once they become outdated. What’s atypical is the kind of deal that’s happening now on its WH1000XM4 over-ear headphones. Ahead of Amazon’s <a href="https://www.polygon.com/amazon-prime-day">October Prime Day</a>, the last-gen (but still great) noise-canceling headphones are <a href="https://www.target.com/p/sony-wh-1000xm4-noise-canceling-overhead-bluetooth-wireless-headphones-black/-/A-79757327">$129.99 at Target</a> — a whopping 63% discount — and available in black or silver (currently sold out at <a href="https://www.amazon.com/dp/B0863TXGM3/ref=twister_B08DBDSVBC?_encoding=UTF8&amp;th=1">Am
+
+## Get 2024’s best football game for 30% off ahead of October Prime Day
+ - [https://www.polygon.com/amazon-prime-day/459917/ea-sports-college-football-deal-ncaa](https://www.polygon.com/amazon-prime-day/459917/ea-sports-college-football-deal-ncaa)
+ - RSS feed: $source
+ - date published: 2024-10-07T14:16:55+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="A screenshot of EA Sports College Football 25 showing players at the snap waiting to begin a play." data-caption="" data-portal-copyright="Image: EA Tiburon/Electronic Arts" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/ea_sports_college_football_25_pre_snap_recognition_clemson_3673.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">We’ve already seeing a lot of <a href="https://www.polygon.com/amazon-prime-day/458471/best-early-deals-board-games-toys">great deals</a> before Amazon’s <a href="https://www.polygon.com/amazon-prime-day">October Prime Day</a> formally kicks off. One that I suspect sports fans may appreciate seeing is the 30% off sale happening <a href="https://www.amazon.com/dp/B0D3PB2DBS/?th=1">on <em>EA Sports College Football 25</em></a>, Electronic Art’s <a href="https://www.polygon.com/24202074/ea-sp
+
+## We don’t need Persona 6 yet. Metaphor: ReFantazio is right here.
+ - [https://www.polygon.com/review/461096/metaphor-refantazio-review-ps5-ps4-xbox-pc](https://www.polygon.com/review/461096/metaphor-refantazio-review-ps5-ps4-xbox-pc)
+ - RSS feed: $source
+ - date published: 2024-10-07T14:00:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="The protagonist of Metaphor: ReFantazio is a young man with blue hair and a plaid coat. He walks across a desert with a dirty face and a tired expression" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Metaphor_ReFantazio_Screenshot_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">There’s a percentage of people who will go absolutely feral at the first confirmation of information about the next Persona game. The runaway success of <em>Persona 5</em> converted first-time players into evangelical worshippers at the altar of Altus. (This is even to the chagrin of Shin Megami Tensei fans, who will be quick to remind everyone there was an RPG series before Persona, long before <em>Persona 5</em> took the series mainstream.)</p>
+
+<p class="has-text-align-none">But we —
+
+## The legend of Goblin Green: Why gamers love one discontinued Warhammer paint over all others
+ - [https://www.polygon.com/features/460185/goblin-green-warhammer-40k-paint-pigment](https://www.polygon.com/features/460185/goblin-green-warhammer-40k-paint-pigment)
+ - RSS feed: $source
+ - date published: 2024-10-07T13:00:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Screenshot-2024-07-24-162716.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">For a certain vintage of gamer who grew up painting and playing Warhammer at the local mall’s Games Workshop, one color of paint stands out from the rest: Goblin Green.</p>
+
+<p class="has-text-align-none">The color, somewhere between a subtle olive green and a vibrant grassy green, wasn’t only essential for those collecting an army of orcs and goblins.</p>
+
+<p class="has-text-align-none">It could be found on the bases of nearly every miniature in the mid-1990s to early 2000s, whether they were destined for the grassy plains of Warhammer Fantasy Battle or a derelict space station in Warhammer 40,000.</p>
+
+<p class="has-text-align-none">“The 
+
+## Halo found alive: Developer rebrands, multiple games in the works
+ - [https://www.polygon.com/halo/461480/halo-studios-343-indurstries-reboot-unreal-engine](https://www.polygon.com/halo/461480/halo-studios-343-indurstries-reboot-unreal-engine)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:47:07+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Halo-FoundryUE5-06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Xbox has announced sweeping changes to how Halo games are made. 343 Industries, the developer of Halo games since 2007, has rebranded as Halo Studios, with a new internal organization and a new development philosophy. <a href="https://www.polygon.com/23590852/halo-infinite-343-industries-future-franchise-reboot" data-type="link" data-id="https://www.polygon.com/23590852/halo-infinite-343-industries-future-franchise-reboot">As previously reported</a>, 343’s in-house game engine Slipspace is being abandoned in favor of Epic’s Unreal Engine 5. Halo Studios released video footage of an internal test project called Foundry, which shows how various elements of the Halo
+
+## Phoenix Springs is a lesson in using negative space, both visually and narratively
+ - [https://www.polygon.com/review/460978/phoenix-springs-review-pc](https://www.polygon.com/review/460978/phoenix-springs-review-pc)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:00:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Screenshot-2024-10-01-174308.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">Nothing you’re about to read about <a href="https://store.steampowered.com/app/1973310/Phoenix_Springs/"><em>Phoenix Springs</em></a> — the new point-and-click mystery game from Calligram Studio — is the full truth. It’s the truth to me, for now. But really, it’s all up to interpretation, and this is how I’ve chosen to represent that interpretation to you, the reader. I can’t even tell you definitively whether Phoenix Springs, the oasis in the middle of the desert, is real — or if it’s a manifestation of someone’s consciousness, or if it’s the afterlife, or if it’s where you go when you get turned into a biomechanical being.</p>
+
+<p class="
+

@@ -1,0 +1,296 @@
+# Source:Reddit - World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Hezbollah ‘orders fighters not to fire near Irish UN base’ as it accuses Israel of using peacekeepers as human shields
+ - [https://www.reddit.com/r/worldnews/comments/1fyjcj3/hezbollah_orders_fighters_not_to_fire_near_irish](https://www.reddit.com/r/worldnews/comments/1fyjcj3/hezbollah_orders_fighters_not_to_fire_near_irish)
+ - RSS feed: $source
+ - date published: 2024-10-07T21:35:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fyjcj3/hezbollah_orders_fighters_not_to_fire_near_irish/"> <img src="https://external-preview.redd.it/S44zi8kXysP81rdVNwALy_F945DIx2eW09UF8sZRvws.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9884ba9245f27c5195ca1f48c9ff729925e79d82" alt="Hezbollah ‘orders fighters not to fire near Irish UN base’ as it accuses Israel of using peacekeepers as human shields" title="Hezbollah ‘orders fighters not to fire near Irish UN base’ as it accuses Israel of using peacekeepers as human shields" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/homecinemad"> /u/homecinemad </a> <br/> <span><a href="https://www.independent.ie/irish-news/hezbollah-orders-fighters-not-to-fire-near-irish-un-base-as-it-accuses-israel-of-using-peacekeepers-as-human-shields/a578486631.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fyjcj3/hezbollah_orders_fighters_not_to_fire_nea
+
+## Six Women Caught at Airport Smuggling 84 Gold Bars Hidden in Their Bodies
+ - [https://www.reddit.com/r/worldnews/comments/1fygs9j/six_women_caught_at_airport_smuggling_84_gold](https://www.reddit.com/r/worldnews/comments/1fygs9j/six_women_caught_at_airport_smuggling_84_gold)
+ - RSS feed: $source
+ - date published: 2024-10-07T19:49:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fygs9j/six_women_caught_at_airport_smuggling_84_gold/"> <img src="https://external-preview.redd.it/KILrWAtw3L4_7Xef6N4F_pAx7gDCTdt-mxWY3NNUQ2g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6043c762b1e9869dbd628008790d7d0f8c74a1b" alt="Six Women Caught at Airport Smuggling 84 Gold Bars Hidden in Their Bodies" title="Six Women Caught at Airport Smuggling 84 Gold Bars Hidden in Their Bodies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hassusas"> /u/hassusas </a> <br/> <span><a href="https://nowturkiye.net/2024/10/07/six-women-caught-at-airport-smuggling-84-gold-bars-hidden-in-their-bodies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fygs9j/six_women_caught_at_airport_smuggling_84_gold/">[comments]</a></span> </td></tr></table>
+
+## Hacker attack disrupts Russian state media on Putin's birthday
+ - [https://www.reddit.com/r/worldnews/comments/1fyfrc1/hacker_attack_disrupts_russian_state_media_on](https://www.reddit.com/r/worldnews/comments/1fyfrc1/hacker_attack_disrupts_russian_state_media_on)
+ - RSS feed: $source
+ - date published: 2024-10-07T19:07:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/yash13"> /u/yash13 </a> <br/> <span><a href="https://www.reuters.com/technology/cybersecurity/russian-state-media-company-hit-by-unprecedented-cyberattack-kremlin-says-2024-10-07/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fyfrc1/hacker_attack_disrupts_russian_state_media_on/">[comments]</a></span>
+
+## American men sick of ‘woke West’ offered Russian visas
+ - [https://www.reddit.com/r/worldnews/comments/1fyfi9t/american_men_sick_of_woke_west_offered_russian](https://www.reddit.com/r/worldnews/comments/1fyfi9t/american_men_sick_of_woke_west_offered_russian)
+ - RSS feed: $source
+ - date published: 2024-10-07T18:57:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fyfi9t/american_men_sick_of_woke_west_offered_russian/"> <img src="https://external-preview.redd.it/5_azbkvZEZuLp6TcRruRK4mXwNXx-x9N4y7j8PqT5IQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2f3f1941be355d08df2d7c15d089b68bb48046c" alt="American men sick of ‘woke West’ offered Russian visas" title="American men sick of ‘woke West’ offered Russian visas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/us/news/2024/10/07/american-men-sick-woke-west-offered-russian-visas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fyfi9t/american_men_sick_of_woke_west_offered_russian/">[comments]</a></span> </td></tr></table>
+
+## IDF Arabic spokesperson warns Lebanese of imminent action against Hezbollah
+ - [https://www.reddit.com/r/worldnews/comments/1fye3qe/idf_arabic_spokesperson_warns_lebanese_of](https://www.reddit.com/r/worldnews/comments/1fye3qe/idf_arabic_spokesperson_warns_lebanese_of)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:59:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fye3qe/idf_arabic_spokesperson_warns_lebanese_of/"> <img src="https://external-preview.redd.it/8bwtWtE4wx8uqugCxAqUaMK3xg2Z_Q_OKuVTUqXrLW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd0d9414ed8e22b3db43be8169579c6f03961a4" alt="IDF Arabic spokesperson warns Lebanese of imminent action against Hezbollah " title="IDF Arabic spokesperson warns Lebanese of imminent action against Hezbollah " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CarpenterIT"> /u/CarpenterIT </a> <br/> <span><a href="https://m.jpost.com/breaking-news/article-823606">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fye3qe/idf_arabic_spokesperson_warns_lebanese_of/">[comments]</a></span> </td></tr></table>
+
+## Ukraine will never join NATO on my watch, says Slovakia PM Fico
+ - [https://www.reddit.com/r/worldnews/comments/1fydyeg/ukraine_will_never_join_nato_on_my_watch_says](https://www.reddit.com/r/worldnews/comments/1fydyeg/ukraine_will_never_join_nato_on_my_watch_says)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:53:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fydyeg/ukraine_will_never_join_nato_on_my_watch_says/"> <img src="https://external-preview.redd.it/NTLEfHsydpWw8Db82WAHiX4kwjPyAEIxhI-s3A-eb8Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f66034459db51cc69bd59ab3fa6b32b5abab3dea" alt="Ukraine will never join NATO on my watch, says Slovakia PM Fico" title="Ukraine will never join NATO on my watch, says Slovakia PM Fico" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vsv2021"> /u/vsv2021 </a> <br/> <span><a href="https://www.politico.eu/article/nato-ukraine-slovakia-robert-fico-military-defense-alliance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fydyeg/ukraine_will_never_join_nato_on_my_watch_says/">[comments]</a></span> </td></tr></table>
+
+## Inuit lawmaker asked to leave the podium at Danish Parliament after speaking only in Greenlandic
+ - [https://www.reddit.com/r/worldnews/comments/1fydgi5/inuit_lawmaker_asked_to_leave_the_podium_at](https://www.reddit.com/r/worldnews/comments/1fydgi5/inuit_lawmaker_asked_to_leave_the_podium_at)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:32:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fydgi5/inuit_lawmaker_asked_to_leave_the_podium_at/"> <img src="https://external-preview.redd.it/vRcfaGQnn6pkpndsqoTEfrkW3gG4HWi1hyOwOnUw5YU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a775aef8ddaacd317534eedf8bb5b60d7c98efb5" alt="Inuit lawmaker asked to leave the podium at Danish Parliament after speaking only in Greenlandic" title="Inuit lawmaker asked to leave the podium at Danish Parliament after speaking only in Greenlandic" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ubcstaffer123"> /u/ubcstaffer123 </a> <br/> <span><a href="https://apnews.com/article/denmark-greenland-inuit-language-parliament-lawmaker-3d55f40e74c957b87bdffabe624d735d">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fydgi5/inuit_lawmaker_asked_to_leave_the_podium_at/">[comments]</a></span> </td></tr></table>
+
+## Freed Russian arms dealer Bout back in weapons business, WSJ reports
+ - [https://www.reddit.com/r/worldnews/comments/1fydgcs/freed_russian_arms_dealer_bout_back_in_weapons](https://www.reddit.com/r/worldnews/comments/1fydgcs/freed_russian_arms_dealer_bout_back_in_weapons)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:32:48+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/pamar456"> /u/pamar456 </a> <br/> <span><a href="https://www.reuters.com/world/europe/freed-russian-arms-dealer-bout-back-weapons-business-wsj-reports-2024-10-07/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fydgcs/freed_russian_arms_dealer_bout_back_in_weapons/">[comments]</a></span>
+
+## Russian “Hunter” Sukhoi S-70 Okhotnik-B UCAV was shot down by Russian Su-57 fighter jet with AA missile.
+ - [https://www.reddit.com/r/worldnews/comments/1fyd9vt/russian_hunter_sukhoi_s70_okhotnikb_ucav_was_shot](https://www.reddit.com/r/worldnews/comments/1fyd9vt/russian_hunter_sukhoi_s70_okhotnikb_ucav_was_shot)
+ - RSS feed: $source
+ - date published: 2024-10-07T17:25:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fyd9vt/russian_hunter_sukhoi_s70_okhotnikb_ucav_was_shot/"> <img src="https://external-preview.redd.it/8GlRfExjC8MLA7Iui_e3uB05qABQS6ZaWDi_PRjVQxk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04e7e3ff0c99cf1db29cb4c7dfe9ffd53148e6c6" alt="Russian “Hunter” Sukhoi S-70 Okhotnik-B UCAV was shot down by Russian Su-57 fighter jet with AA missile." title="Russian “Hunter” Sukhoi S-70 Okhotnik-B UCAV was shot down by Russian Su-57 fighter jet with AA missile." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PDXSCARGuy"> /u/PDXSCARGuy </a> <br/> <span><a href="https://www.twz.com/air/why-did-russia-just-shoot-down-its-own-fighter-sized-s-70-hunter-drone-over-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fyd9vt/russian_hunter_sukhoi_s70_okhotnikb_ucav_was_shot/">[comments]</a></span> </td></tr></table>
+
+## Some 80% of Gaza fatalities are Hamas or family members
+ - [https://www.reddit.com/r/worldnews/comments/1fybciu/some_80_of_gaza_fatalities_are_hamas_or_family](https://www.reddit.com/r/worldnews/comments/1fybciu/some_80_of_gaza_fatalities_are_hamas_or_family)
+ - RSS feed: $source
+ - date published: 2024-10-07T16:05:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fybciu/some_80_of_gaza_fatalities_are_hamas_or_family/"> <img src="https://external-preview.redd.it/ZNBHqJ7pBjzVI7LfnWedI8qv_lm35JVDHj4zz97-PfU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=964f295f805980c30651fd5a99f191581aaa1dc6" alt="Some 80% of Gaza fatalities are Hamas or family members" title="Some 80% of Gaza fatalities are Hamas or family members" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/swed2019"> /u/swed2019 </a> <br/> <span><a href="https://www.jns.org/eighty-percent-of-gaza-fatalities-are-hamas-or-family-members/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fybciu/some_80_of_gaza_fatalities_are_hamas_or_family/">[comments]</a></span> </td></tr></table>
+
+## Tesla Day Trader Loses Entire $306M Fortune, Sues Canadian Bank For 'Misleading' Financial Advice
+ - [https://www.reddit.com/r/worldnews/comments/1fyaku4/tesla_day_trader_loses_entire_306m_fortune_sues](https://www.reddit.com/r/worldnews/comments/1fyaku4/tesla_day_trader_loses_entire_306m_fortune_sues)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:34:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fyaku4/tesla_day_trader_loses_entire_306m_fortune_sues/"> <img src="https://external-preview.redd.it/n9chYCNJKy_1BmcZvvWwBlPnNIvAqCYNFTHz_Omjps8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29a3bb33ccf3a9c3d500c36899775b0cb38bc70d" alt="Tesla Day Trader Loses Entire $306M Fortune, Sues Canadian Bank For 'Misleading' Financial Advice" title="Tesla Day Trader Loses Entire $306M Fortune, Sues Canadian Bank For 'Misleading' Financial Advice" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorkingCareful7935"> /u/WorkingCareful7935 </a> <br/> <span><a href="https://www.ibtimes.co.uk/tesla-day-trader-loses-entire-306m-fortune-sues-canadian-bank-misleading-financial-advice-1727450">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fyaku4/tesla_day_trader_loses_entire_306m_fortune_sues/">[comments]</a></span> </td></tr></table>
+
+## Polish artist sparks outrage after equating Israel with Nazis at Auschwitz
+ - [https://www.reddit.com/r/worldnews/comments/1fyaft5/polish_artist_sparks_outrage_after_equating](https://www.reddit.com/r/worldnews/comments/1fyaft5/polish_artist_sparks_outrage_after_equating)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:29:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fyaft5/polish_artist_sparks_outrage_after_equating/"> <img src="https://external-preview.redd.it/x6YUSQqgqAoMOH09MU0Q9hG48ElzNd0p3U6tmJaELoQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0ae8f078ce13f70dafd99e4c8cbcbe931db10d70" alt="Polish artist sparks outrage after equating Israel with Nazis at Auschwitz" title="Polish artist sparks outrage after equating Israel with Nazis at Auschwitz" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giuliomagnifico"> /u/giuliomagnifico </a> <br/> <span><a href="https://www.ynetnews.com/article/hyqr11tkjyx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fyaft5/polish_artist_sparks_outrage_after_equating/">[comments]</a></span> </td></tr></table>
+
+## Ukraine strikes oil depot in occupied Crimea
+ - [https://www.reddit.com/r/worldnews/comments/1fya39z/ukraine_strikes_oil_depot_in_occupied_crimea](https://www.reddit.com/r/worldnews/comments/1fya39z/ukraine_strikes_oil_depot_in_occupied_crimea)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:14:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fya39z/ukraine_strikes_oil_depot_in_occupied_crimea/"> <img src="https://external-preview.redd.it/FQFN6-kzbjD7rXrDEn6eO3hrJHgqSSE_BOn9HGxVZkM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cde19e0f71aa373f5ebe5814535149ec14ac41cb" alt="Ukraine strikes oil depot in occupied Crimea" title="Ukraine strikes oil depot in occupied Crimea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThrillSurgeon"> /u/ThrillSurgeon </a> <br/> <span><a href="https://www.bbc.com/news/articles/c981pv02vryo.amp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fya39z/ukraine_strikes_oil_depot_in_occupied_crimea/">[comments]</a></span> </td></tr></table>
+
+## War rages on multiple fronts as Israel marks a year since Hamas' Oct. 7 attack
+ - [https://www.reddit.com/r/worldnews/comments/1fy9zqh/war_rages_on_multiple_fronts_as_israel_marks_a](https://www.reddit.com/r/worldnews/comments/1fy9zqh/war_rages_on_multiple_fronts_as_israel_marks_a)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:10:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy9zqh/war_rages_on_multiple_fronts_as_israel_marks_a/"> <img src="https://external-preview.redd.it/44iwTZ8RVnuLnQfM8pZerv9U7c5nHNHi5WOgpAMqz24.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f89cc1f4300af76f6933f4ced9cd15b28a1722c" alt="War rages on multiple fronts as Israel marks a year since Hamas' Oct. 7 attack" title="War rages on multiple fronts as Israel marks a year since Hamas' Oct. 7 attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThrillSurgeon"> /u/ThrillSurgeon </a> <br/> <span><a href="https://apnews.com/article/israel-hamas-war-one-year-anniversary-cf123f95609051e8e8eaf6aebe661b6a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy9zqh/war_rages_on_multiple_fronts_as_israel_marks_a/">[comments]</a></span> </td></tr></table>
+
+## Russian Baltic Sea Fleet vessel out of action after Ukraine's sabotage, intelligence says
+ - [https://www.reddit.com/r/worldnews/comments/1fy9yvo/russian_baltic_sea_fleet_vessel_out_of_action](https://www.reddit.com/r/worldnews/comments/1fy9yvo/russian_baltic_sea_fleet_vessel_out_of_action)
+ - RSS feed: $source
+ - date published: 2024-10-07T15:09:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy9yvo/russian_baltic_sea_fleet_vessel_out_of_action/"> <img src="https://external-preview.redd.it/-eP7KVyFCazqhXbY3zdBcnKgHqwn0ask-ziLpufVyJU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=256bdfcb5742f4196a2626b559e44d318368f031" alt="Russian Baltic Sea Fleet vessel out of action after Ukraine's sabotage, intelligence says" title="Russian Baltic Sea Fleet vessel out of action after Ukraine's sabotage, intelligence says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hodgkinthepirate"> /u/hodgkinthepirate </a> <br/> <span><a href="https://kyivindependent.com/ukraines-military-intelligence-says-it-sabotaged-russian-baltic-sea-fleet-vessel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy9yvo/russian_baltic_sea_fleet_vessel_out_of_action/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian hackers disrupt Russian broadcasts on Putin’s 72nd birthday
+ - [https://www.reddit.com/r/worldnews/comments/1fy8h8o/ukrainian_hackers_disrupt_russian_broadcasts_on](https://www.reddit.com/r/worldnews/comments/1fy8h8o/ukrainian_hackers_disrupt_russian_broadcasts_on)
+ - RSS feed: $source
+ - date published: 2024-10-07T14:06:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy8h8o/ukrainian_hackers_disrupt_russian_broadcasts_on/"> <img src="https://external-preview.redd.it/0FCNPWUovmhJ5V5ber5WJ73Jol4rc22u2KVDsGqsdMo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6ad4f82f342e23b6e9659e407f68cf3371c1dc9" alt="Ukrainian hackers disrupt Russian broadcasts on Putin’s 72nd birthday" title="Ukrainian hackers disrupt Russian broadcasts on Putin’s 72nd birthday" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Real-Work-1953"> /u/Real-Work-1953 </a> <br/> <span><a href="https://www.scmp.com/news/world/russia-central-asia/article/3281446/ukraine-claims-cyberattack-blocked-russian-state-tv-online-putins-birthday">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy8h8o/ukrainian_hackers_disrupt_russian_broadcasts_on/">[comments]</a></span> </td></tr></table>
+
+## Russian pupils forced to record video messages wishing Putin happy birthday
+ - [https://www.reddit.com/r/worldnews/comments/1fy7w5t/russian_pupils_forced_to_record_video_messages](https://www.reddit.com/r/worldnews/comments/1fy7w5t/russian_pupils_forced_to_record_video_messages)
+ - RSS feed: $source
+ - date published: 2024-10-07T13:40:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy7w5t/russian_pupils_forced_to_record_video_messages/"> <img src="https://external-preview.redd.it/rvzpT-XKLboIzet3tJhXVagwWxCwKzi7WlzxIHOfz9A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c93cfdd6b495023ffe4680167a5c9d59ddc3838" alt="Russian pupils forced to record video messages wishing Putin happy birthday" title="Russian pupils forced to record video messages wishing Putin happy birthday" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2024/10/07/russian-pupils-forced-to-record-video-messages-wishing-putin-happy-birthday-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy7w5t/russian_pupils_forced_to_record_video_messages/">[comments]</a></span> </td></tr></table>
+
+## The Associated Press: Ukraine strikes a Russian oil hub as Zelenskyy says the war is in ‘a very important phase’
+ - [https://www.reddit.com/r/worldnews/comments/1fy7lc7/the_associated_press_ukraine_strikes_a_russian](https://www.reddit.com/r/worldnews/comments/1fy7lc7/the_associated_press_ukraine_strikes_a_russian)
+ - RSS feed: $source
+ - date published: 2024-10-07T13:27:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy7lc7/the_associated_press_ukraine_strikes_a_russian/"> <img src="https://external-preview.redd.it/Iq_5SP_jo5zLdEpSWL6wTcPop_4PoGpvqGEMaRcbBOM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac0812696ea8aebb7bdcb07c23432f068f429012" alt="The Associated Press: Ukraine strikes a Russian oil hub as Zelenskyy says the war is in ‘a very important phase’" title="The Associated Press: Ukraine strikes a Russian oil hub as Zelenskyy says the war is in ‘a very important phase’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://apnews.com/article/russia-ukraine-war-crimea-oil-terminal-1d78b9819d1c4680a3f1ab8b34a24a6a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy7lc7/the_associated_press_ukraine_strikes_a_russian/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 956, Part 1 (Thread #1103)
+ - [https://www.reddit.com/r/worldnews/comments/1fy7hff/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1fy7hff/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2024-10-07T13:22:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy7hff/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 956, Part 1 (Thread #1103)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 956, Part 1 (Thread #1103)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy7hff/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Putin Halts Visits to Sochi Residence Due to Safety Concerns – Proekt
+ - [https://www.reddit.com/r/worldnews/comments/1fy750i/putin_halts_visits_to_sochi_residence_due_to](https://www.reddit.com/r/worldnews/comments/1fy750i/putin_halts_visits_to_sochi_residence_due_to)
+ - RSS feed: $source
+ - date published: 2024-10-07T13:05:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy750i/putin_halts_visits_to_sochi_residence_due_to/"> <img src="https://external-preview.redd.it/_Ib1GhxgSWp_ODbwK1LGgmfzvJERJxhWz5_S4LSU15U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cabe66498391cf6f0c47a46e81f5e55e2f354317" alt="Putin Halts Visits to Sochi Residence Due to Safety Concerns – Proekt" title="Putin Halts Visits to Sochi Residence Due to Safety Concerns – Proekt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Logical_Welder3467"> /u/Logical_Welder3467 </a> <br/> <span><a href="https://www.themoscowtimes.com/2024/10/07/putin-halts-visits-to-sochi-residence-due-to-safety-concerns-proekt-a86594">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy750i/putin_halts_visits_to_sochi_residence_due_to/">[comments]</a></span> </td></tr></table>
+
+## Palestinian militants in Gaza fire rockets into Israel as it marks Oct. 7
+ - [https://www.reddit.com/r/worldnews/comments/1fy6zoe/palestinian_militants_in_gaza_fire_rockets_into](https://www.reddit.com/r/worldnews/comments/1fy6zoe/palestinian_militants_in_gaza_fire_rockets_into)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:58:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy6zoe/palestinian_militants_in_gaza_fire_rockets_into/"> <img src="https://external-preview.redd.it/Fup7-P1iV8_7X9euRAk6GatDThKwSm3wE74rcOrUkxE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbf3a0b03bccc0fb7fc91938511350b06cb9e1bc" alt="Palestinian militants in Gaza fire rockets into Israel as it marks Oct. 7" title="Palestinian militants in Gaza fire rockets into Israel as it marks Oct. 7" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-7-october-2024-d3d272d83e70d420ba547dbd7e09ef52">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy6zoe/palestinian_militants_in_gaza_fire_rockets_into/">[comments]</a></span> </td></tr></table>
+
+## London’s Underground covered with maps of Hamas 'rape tunnels' in Gaza
+ - [https://www.reddit.com/r/worldnews/comments/1fy6x1y/londons_underground_covered_with_maps_of_hamas](https://www.reddit.com/r/worldnews/comments/1fy6x1y/londons_underground_covered_with_maps_of_hamas)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:55:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy6x1y/londons_underground_covered_with_maps_of_hamas/"> <img src="https://external-preview.redd.it/DxMD5rDwbKwUhO0ph2GE-FHz1G2TPdLyaTSlzPgQXXk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9771f44e82f054fd40f0c5778e302d15960d6639" alt="London’s Underground covered with maps of Hamas 'rape tunnels' in Gaza" title="London’s Underground covered with maps of Hamas 'rape tunnels' in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.jpost.com/diaspora/article-823509">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy6x1y/londons_underground_covered_with_maps_of_hamas/">[comments]</a></span> </td></tr></table>
+
+## Deputy denies Iran’s Quds Force chief is missing, says he’s ‘in good health’
+ - [https://www.reddit.com/r/worldnews/comments/1fy639z/deputy_denies_irans_quds_force_chief_is_missing](https://www.reddit.com/r/worldnews/comments/1fy639z/deputy_denies_irans_quds_force_chief_is_missing)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:11:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy639z/deputy_denies_irans_quds_force_chief_is_missing/"> <img src="https://external-preview.redd.it/fcOgvZaoNEXUQYO6cJincYoiDRjWiVODJAKM6-kXffw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bb22fe361657432b9ddba700da75bdad3c22d31" alt="Deputy denies Iran’s Quds Force chief is missing, says he’s ‘in good health’" title="Deputy denies Iran’s Quds Force chief is missing, says he’s ‘in good health’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahad_Haam"> /u/Ahad_Haam </a> <br/> <span><a href="https://www.timesofisrael.com/deputy-denies-irans-quds-force-chief-is-missing-says-hes-in-good-health/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy639z/deputy_denies_irans_quds_force_chief_is_missing/">[comments]</a></span> </td></tr></table>
+
+## A year of war: IDF data shows 728 troops killed, over 26,000 rockets fired at Israel
+ - [https://www.reddit.com/r/worldnews/comments/1fy60ip/a_year_of_war_idf_data_shows_728_troops_killed](https://www.reddit.com/r/worldnews/comments/1fy60ip/a_year_of_war_idf_data_shows_728_troops_killed)
+ - RSS feed: $source
+ - date published: 2024-10-07T12:07:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy60ip/a_year_of_war_idf_data_shows_728_troops_killed/"> <img src="https://external-preview.redd.it/h1KAI8zZI-_QCSErNhyjVXXcg8uaXAiDq1qKXuZvZYg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcbe536946789bcd26e70dba06a766bf77dbd907" alt="A year of war: IDF data shows 728 troops killed, over 26,000 rockets fired at Israel" title="A year of war: IDF data shows 728 troops killed, over 26,000 rockets fired at Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahad_Haam"> /u/Ahad_Haam </a> <br/> <span><a href="https://www.timesofisrael.com/a-year-of-war-idf-data-shows-726-troops-killed-over-26000-rockets-fired-at-israel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy60ip/a_year_of_war_idf_data_shows_728_troops_killed/">[comments]</a></span> </td></tr></table>
+
+## Mega hack shuts down Putin’s online state media
+ - [https://www.reddit.com/r/worldnews/comments/1fy5is7/mega_hack_shuts_down_putins_online_state_media](https://www.reddit.com/r/worldnews/comments/1fy5is7/mega_hack_shuts_down_putins_online_state_media)
+ - RSS feed: $source
+ - date published: 2024-10-07T11:40:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy5is7/mega_hack_shuts_down_putins_online_state_media/"> <img src="https://external-preview.redd.it/zw5ohUwNV3LkpjGV3yDIdEe6yETCNW9HskzYxVqZOI4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ba8be0cf00c5b8698a991edb44d598d7d9f44a2" alt="Mega hack shuts down Putin’s online state media" title="Mega hack shuts down Putin’s online state media" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alLmunizi"> /u/alLmunizi </a> <br/> <span><a href="https://www.politico.eu/article/vladimir-putin-birthday-present-russian-state-media-shut-down-vgtrk-hack-attack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy5is7/mega_hack_shuts_down_putins_online_state_media/">[comments]</a></span> </td></tr></table>
+
+## Hezbollah rockets hit northern Israeli city of Haifa
+ - [https://www.reddit.com/r/worldnews/comments/1fy4wbq/hezbollah_rockets_hit_northern_israeli_city_of](https://www.reddit.com/r/worldnews/comments/1fy4wbq/hezbollah_rockets_hit_northern_israeli_city_of)
+ - RSS feed: $source
+ - date published: 2024-10-07T11:01:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy4wbq/hezbollah_rockets_hit_northern_israeli_city_of/"> <img src="https://external-preview.redd.it/enrrWgr5AHiVIhsj3eqpE2nOr86NF2OwnUKAT3roE0o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae415ecb631aff617464b0958f69b34673514775" alt="Hezbollah rockets hit northern Israeli city of Haifa" title="Hezbollah rockets hit northern Israeli city of Haifa" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SportsGod3"> /u/SportsGod3 </a> <br/> <span><a href="https://www.bbc.com/news/articles/c8dj0nrdv1no">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy4wbq/hezbollah_rockets_hit_northern_israeli_city_of/">[comments]</a></span> </td></tr></table>
+
+## Nobel Prize goes to microRNA researchers
+ - [https://www.reddit.com/r/worldnews/comments/1fy4dpx/nobel_prize_goes_to_microrna_researchers](https://www.reddit.com/r/worldnews/comments/1fy4dpx/nobel_prize_goes_to_microrna_researchers)
+ - RSS feed: $source
+ - date published: 2024-10-07T10:27:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy4dpx/nobel_prize_goes_to_microrna_researchers/"> <img src="https://external-preview.redd.it/e8CruVqads_UU4QhLf8XGcFgtjO7fxYuan9W35PxETg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e2e630d3fb2504ee0deea1abd06570bc1a21667" alt="Nobel Prize goes to microRNA researchers" title="Nobel Prize goes to microRNA researchers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkMap12"> /u/OkMap12 </a> <br/> <span><a href="https://www.bbc.com/news/articles/c79nrgp97x9o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy4dpx/nobel_prize_goes_to_microrna_researchers/">[comments]</a></span> </td></tr></table>
+
+## Russia’s war casualty toll up by 1,160 in past 24 hours
+ - [https://www.reddit.com/r/worldnews/comments/1fy34p6/russias_war_casualty_toll_up_by_1160_in_past_24](https://www.reddit.com/r/worldnews/comments/1fy34p6/russias_war_casualty_toll_up_by_1160_in_past_24)
+ - RSS feed: $source
+ - date published: 2024-10-07T08:54:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy34p6/russias_war_casualty_toll_up_by_1160_in_past_24/"> <img src="https://external-preview.redd.it/yPSqWie4ZdniLin5kp1WfqgTKNaMuu_au4JUh_ACSj8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ad20eb2ec3e099662b554cf14568eb00a5fa40a4" alt="Russia’s war casualty toll up by 1,160 in past 24 hours" title="Russia’s war casualty toll up by 1,160 in past 24 hours" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maleficent-Sir-6925"> /u/Maleficent-Sir-6925 </a> <br/> <span><a href="https://www.ukrinform.net/rubric-ato/3913491-russias-war-casualty-toll-up-by-1160-in-past-24-hours.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy34p6/russias_war_casualty_toll_up_by_1160_in_past_24/">[comments]</a></span> </td></tr></table>
+
+## Neo-Nazis head to encrypted SimpleX Chat app, bail on Telegram
+ - [https://www.reddit.com/r/worldnews/comments/1fy30eb/neonazis_head_to_encrypted_simplex_chat_app_bail](https://www.reddit.com/r/worldnews/comments/1fy30eb/neonazis_head_to_encrypted_simplex_chat_app_bail)
+ - RSS feed: $source
+ - date published: 2024-10-07T08:45:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy30eb/neonazis_head_to_encrypted_simplex_chat_app_bail/"> <img src="https://external-preview.redd.it/pUZByg9sc1ECj46wKRmmzP5OWv06peUsN82KkY0Yg_Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9655e47b047215874280f362c74b2b34fb690795" alt="Neo-Nazis head to encrypted SimpleX Chat app, bail on Telegram" title="Neo-Nazis head to encrypted SimpleX Chat app, bail on Telegram" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thisdodobird"> /u/thisdodobird </a> <br/> <span><a href="https://arstechnica.com/tech-policy/2024/10/neo-nazis-head-to-encrypted-simplex-chat-app-bail-on-telegram/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy30eb/neonazis_head_to_encrypted_simplex_chat_app_bail/">[comments]</a></span> </td></tr></table>
+
+## Mexican mayor murdered days after starting job
+ - [https://www.reddit.com/r/worldnews/comments/1fy2pge/mexican_mayor_murdered_days_after_starting_job](https://www.reddit.com/r/worldnews/comments/1fy2pge/mexican_mayor_murdered_days_after_starting_job)
+ - RSS feed: $source
+ - date published: 2024-10-07T08:20:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy2pge/mexican_mayor_murdered_days_after_starting_job/"> <img src="https://external-preview.redd.it/ryottaw-wOU5zNYeG-rZL37tXghFO-4sDmCjQgNS0js.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4f579fa06a49b820d815c682cbea2bcfb0b5493" alt="Mexican mayor murdered days after starting job" title="Mexican mayor murdered days after starting job" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/uniqualykerd"> /u/uniqualykerd </a> <br/> <span><a href="https://www.bbc.com/news/articles/c8dj0833g99o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy2pge/mexican_mayor_murdered_days_after_starting_job/">[comments]</a></span> </td></tr></table>
+
+## ‘Impossible’ for Communist China to become our motherland as we’re older, Taiwan’s president argues
+ - [https://www.reddit.com/r/worldnews/comments/1fy2p3t/impossible_for_communist_china_to_become_our](https://www.reddit.com/r/worldnews/comments/1fy2p3t/impossible_for_communist_china_to_become_our)
+ - RSS feed: $source
+ - date published: 2024-10-07T08:19:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy2p3t/impossible_for_communist_china_to_become_our/"> <img src="https://external-preview.redd.it/3JxasBB7r2TgQXPAL18zGULPeftHKcqA4CAdd-lKDH0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b53c7627aa8ba0f5001605c0fb9f715c5f4015b0" alt="‘Impossible’ for Communist China to become our motherland as we’re older, Taiwan’s president argues" title="‘Impossible’ for Communist China to become our motherland as we’re older, Taiwan’s president argues" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/9OneOne_"> /u/9OneOne_ </a> <br/> <span><a href="https://www.cnn.com/2024/10/07/asia/taiwan-china-motherland-history-hnk-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy2p3t/impossible_for_communist_china_to_become_our/">[comments]</a></span> </td></tr></table>
+
+## The Russians had money. The Canadian had far-right influencers. The U.S. Department of Justice says it has a criminal case
+ - [https://www.reddit.com/r/worldnews/comments/1fy2nv3/the_russians_had_money_the_canadian_had_farright](https://www.reddit.com/r/worldnews/comments/1fy2nv3/the_russians_had_money_the_canadian_had_farright)
+ - RSS feed: $source
+ - date published: 2024-10-07T08:17:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy2nv3/the_russians_had_money_the_canadian_had_farright/"> <img src="https://external-preview.redd.it/xYd-S5q-J0vznus-Da2Uc-Zudq_nIKSMZsnQLKc4vig.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8cc3b848ea1b8af785c5181f51cc8a9b741f1e8" alt="The Russians had money. The Canadian had far-right influencers. The U.S. Department of Justice says it has a criminal case" title="The Russians had money. The Canadian had far-right influencers. The U.S. Department of Justice says it has a criminal case" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yimmy51"> /u/yimmy51 </a> <br/> <span><a href="https://www.thestar.com/politics/federal/the-russians-had-money-the-canadian-had-far-right-influencers-the-u-s-department-of/article_037a20b6-6bb8-11ef-a2bb-1b4fc886378d.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy2nv3/the_russians_had_money_the_canadian_h
+
+## Russian opposition activist Ildar Dadin killed fighting for Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1fy1dhl/russian_opposition_activist_ildar_dadin_killed](https://www.reddit.com/r/worldnews/comments/1fy1dhl/russian_opposition_activist_ildar_dadin_killed)
+ - RSS feed: $source
+ - date published: 2024-10-07T06:39:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy1dhl/russian_opposition_activist_ildar_dadin_killed/"> <img src="https://external-preview.redd.it/bmP15EWxHI5lt9LhZ_7RM03Mt1hu7hnLGbH8CBK1Y_w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32b77219ea9a9e017209a7186caf40b85ebaf979" alt="Russian opposition activist Ildar Dadin killed fighting for Ukraine" title="Russian opposition activist Ildar Dadin killed fighting for Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Press245"> /u/Press245 </a> <br/> <span><a href="https://www.bbc.com/news/articles/cq5eyqjz1yjo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy1dhl/russian_opposition_activist_ildar_dadin_killed/">[comments]</a></span> </td></tr></table>
+
+## Lithuania confiscates military goods from Kaliningrad-Moscow trains, gives them to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1fy0lrn/lithuania_confiscates_military_goods_from](https://www.reddit.com/r/worldnews/comments/1fy0lrn/lithuania_confiscates_military_goods_from)
+ - RSS feed: $source
+ - date published: 2024-10-07T05:43:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fy0lrn/lithuania_confiscates_military_goods_from/"> <img src="https://external-preview.redd.it/p8ArFf9L01Iu7usygxafa2Yasv33ZmpQNUBS6tFpH_M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=710af56c485585f7c9fd63b781636ea74a2d9003" alt="Lithuania confiscates military goods from Kaliningrad-Moscow trains, gives them to Ukraine" title="Lithuania confiscates military goods from Kaliningrad-Moscow trains, gives them to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Elliottafc1"> /u/Elliottafc1 </a> <br/> <span><a href="https://kyivindependent.com/lithuania-finds-military-supplies-on-kaliningrad-train/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fy0lrn/lithuania_confiscates_military_goods_from/">[comments]</a></span> </td></tr></table>
+
+## Israel has given no assurances it won’t target Iran’s nuclear facilities, top State Department official tells CNN
+ - [https://www.reddit.com/r/worldnews/comments/1fxzcjw/israel_has_given_no_assurances_it_wont_target](https://www.reddit.com/r/worldnews/comments/1fxzcjw/israel_has_given_no_assurances_it_wont_target)
+ - RSS feed: $source
+ - date published: 2024-10-07T04:19:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxzcjw/israel_has_given_no_assurances_it_wont_target/"> <img src="https://external-preview.redd.it/lWwRM3ch2rV6fmBkjypObAn1UxViMpIDsqvJfAwd9B0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c245c3599f64283b3d82d6e662f41135c4d286fa" alt="Israel has given no assurances it won’t target Iran’s nuclear facilities, top State Department official tells CNN" title="Israel has given no assurances it won’t target Iran’s nuclear facilities, top State Department official tells CNN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JediEon"> /u/JediEon </a> <br/> <span><a href="https://edition.cnn.com/2024/10/04/politics/state-department-israel-no-assurances-irans-nuclear-facilities/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxzcjw/israel_has_given_no_assurances_it_wont_target/">[comments]</a></span> </td></tr></table>
+
+## Iranians Fear 'War Is Coming' After Tehran's Missile Attack On Israel
+ - [https://www.reddit.com/r/worldnews/comments/1fxyu5l/iranians_fear_war_is_coming_after_tehrans_missile](https://www.reddit.com/r/worldnews/comments/1fxyu5l/iranians_fear_war_is_coming_after_tehrans_missile)
+ - RSS feed: $source
+ - date published: 2024-10-07T03:48:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxyu5l/iranians_fear_war_is_coming_after_tehrans_missile/"> <img src="https://external-preview.redd.it/PeHpnvLttAqGqtJ5Qv6rxtdBr3-tIegxzjS6Q4hZ0Pc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77cefe643b8c967b5b5b2f1102e4fb6f34290adf" alt="Iranians Fear 'War Is Coming' After Tehran's Missile Attack On Israel" title="Iranians Fear 'War Is Coming' After Tehran's Missile Attack On Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_Franklin"> /u/Red_Franklin </a> <br/> <span><a href="https://www.rferl.org/a/iranians-fear-war-israel-missiles/33144969.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxyu5l/iranians_fear_war_is_coming_after_tehrans_missile/">[comments]</a></span> </td></tr></table>
+
+## Two killed in explosion near Karachi airport targeting Chinese nationals
+ - [https://www.reddit.com/r/worldnews/comments/1fxysp8/two_killed_in_explosion_near_karachi_airport](https://www.reddit.com/r/worldnews/comments/1fxysp8/two_killed_in_explosion_near_karachi_airport)
+ - RSS feed: $source
+ - date published: 2024-10-07T03:46:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxysp8/two_killed_in_explosion_near_karachi_airport/"> <img src="https://external-preview.redd.it/s45OM2l0udi0UcPlYjOfWRoL1hETO2s8TKFDrtXBcZA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75ef16b62fe9012acaa3d03c154abf8f6f6dc348" alt="Two killed in explosion near Karachi airport targeting Chinese nationals" title="Two killed in explosion near Karachi airport targeting Chinese nationals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/javelin3000"> /u/javelin3000 </a> <br/> <span><a href="https://www.theguardian.com/world/2024/oct/06/people-killed-and-injured-in-explosion-near-karachi-airport">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxysp8/two_killed_in_explosion_near_karachi_airport/">[comments]</a></span> </td></tr></table>
+
+## Netherlands pledges 400 million for Ukraine drone initiative
+ - [https://www.reddit.com/r/worldnews/comments/1fxya3x/netherlands_pledges_400_million_for_ukraine_drone](https://www.reddit.com/r/worldnews/comments/1fxya3x/netherlands_pledges_400_million_for_ukraine_drone)
+ - RSS feed: $source
+ - date published: 2024-10-07T03:16:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxya3x/netherlands_pledges_400_million_for_ukraine_drone/"> <img src="https://external-preview.redd.it/b6IBuDakEPrbakzqcyKJeixdotOCDYTTnDr8NvY1kGo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4302e3624de4d6e42486fd70c7822f43869d1386" alt="Netherlands pledges 400 million for Ukraine drone initiative" title="Netherlands pledges 400 million for Ukraine drone initiative" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://kyivindependent.com/netherlands-pledges-400-million-for-ukraine-drone-initiative/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxya3x/netherlands_pledges_400_million_for_ukraine_drone/">[comments]</a></span> </td></tr></table>
+
+## Bills to block UNWRA activity in Israel advance in Knesset
+ - [https://www.reddit.com/r/worldnews/comments/1fxy3i3/bills_to_block_unwra_activity_in_israel_advance](https://www.reddit.com/r/worldnews/comments/1fxy3i3/bills_to_block_unwra_activity_in_israel_advance)
+ - RSS feed: $source
+ - date published: 2024-10-07T03:06:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxy3i3/bills_to_block_unwra_activity_in_israel_advance/"> <img src="https://external-preview.redd.it/EEr5ADyJYOoOrA-iFDIuYb__7CtDcoqZWZ5gOsBcEFg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=afa8a6fcd5a1ade4ccf235e5022c257fd17f377d" alt="Bills to block UNWRA activity in Israel advance in Knesset" title="Bills to block UNWRA activity in Israel advance in Knesset" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.jpost.com/breaking-news/article-823377">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxy3i3/bills_to_block_unwra_activity_in_israel_advance/">[comments]</a></span> </td></tr></table>
+
+## China hacked major U.S. telecom firms in apparent counterspy operation
+ - [https://www.reddit.com/r/worldnews/comments/1fxy1w4/china_hacked_major_us_telecom_firms_in_apparent](https://www.reddit.com/r/worldnews/comments/1fxy1w4/china_hacked_major_us_telecom_firms_in_apparent)
+ - RSS feed: $source
+ - date published: 2024-10-07T03:03:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxy1w4/china_hacked_major_us_telecom_firms_in_apparent/"> <img src="https://external-preview.redd.it/Lz7-5IJagfDUHUwrAIkHlTSedMVQ2Ara7ew-a9gLF6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a3f88f464b9ec495051d5766425c341e89c2f5b" alt="China hacked major U.S. telecom firms in apparent counterspy operation" title="China hacked major U.S. telecom firms in apparent counterspy operation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/9OneOne_"> /u/9OneOne_ </a> <br/> <span><a href="https://www.washingtonpost.com/national-security/2024/10/06/salt-typhoon-china-espionage-telecom/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxy1w4/china_hacked_major_us_telecom_firms_in_apparent/">[comments]</a></span> </td></tr></table>
+
+## Indian Air Force used Rafale jet to shoot down Chinese spy balloon-type target: Report
+ - [https://www.reddit.com/r/worldnews/comments/1fxxp6e/indian_air_force_used_rafale_jet_to_shoot_down](https://www.reddit.com/r/worldnews/comments/1fxxp6e/indian_air_force_used_rafale_jet_to_shoot_down)
+ - RSS feed: $source
+ - date published: 2024-10-07T02:44:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxxp6e/indian_air_force_used_rafale_jet_to_shoot_down/"> <img src="https://external-preview.redd.it/OTvSUOYV_DSsulWhuLSL9sHHPlwN0dta8wATYKW4bz4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b59aa9d34bf43cf21f8a65faa2f1c8c94398fc07" alt="Indian Air Force used Rafale jet to shoot down Chinese spy balloon-type target: Report" title="Indian Air Force used Rafale jet to shoot down Chinese spy balloon-type target: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JKKIDD231"> /u/JKKIDD231 </a> <br/> <span><a href="https://www.businesstoday.in/india/story/indian-air-force-used-rafale-jet-to-shoot-down-chinese-spy-balloon-type-target-448947-2024-10-06">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxxp6e/indian_air_force_used_rafale_jet_to_shoot_down/">[comments]</a></span> </td></tr></table>
+
+## Honeytrapped Irish politician spied for Russia during Brexit saga
+ - [https://www.reddit.com/r/worldnews/comments/1fxxdtq/honeytrapped_irish_politician_spied_for_russia](https://www.reddit.com/r/worldnews/comments/1fxxdtq/honeytrapped_irish_politician_spied_for_russia)
+ - RSS feed: $source
+ - date published: 2024-10-07T02:27:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1fxxdtq/honeytrapped_irish_politician_spied_for_russia/"> <img src="https://external-preview.redd.it/I-UiGJ2KyMIvsdzGTkfekbQvMqY5cYqqi_fgBobz_-k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcb54c048f8b426a78135e76a00ef31703926d44" alt="Honeytrapped Irish politician spied for Russia during Brexit saga " title="Honeytrapped Irish politician spied for Russia during Brexit saga " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-doughboy"> /u/-doughboy </a> <br/> <span><a href="https://www.thetimes.com/world/ireland-world/article/honeytrapped-irish-politician-spied-for-russia-during-brexit-saga-k5wn7sfb2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1fxxdtq/honeytrapped_irish_politician_spied_for_russia/">[comments]</a></span> </td></tr></table>
+
