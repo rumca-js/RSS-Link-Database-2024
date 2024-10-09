@@ -1,0 +1,212 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## This time I won’t have an 80 page walkthrough from GameFAQs printed from our family’s laser jet printer. Let’s do this!
+ - [https://www.reddit.com/r/gaming/comments/1fzcgf6/this_time_i_wont_have_an_80_page_walkthrough_from](https://www.reddit.com/r/gaming/comments/1fzcgf6/this_time_i_wont_have_an_80_page_walkthrough_from)
+ - RSS feed: $source
+ - date published: 2024-10-08T22:26:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fzcgf6/this_time_i_wont_have_an_80_page_walkthrough_from/"> <img src="https://preview.redd.it/7btaqk25zltd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11820e17039e81075cec818b763dd3d7bc0bf832" alt="This time I won’t have an 80 page walkthrough from GameFAQs printed from our family’s laser jet printer. Let’s do this!" title="This time I won’t have an 80 page walkthrough from GameFAQs printed from our family’s laser jet printer. Let’s do this!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My dad was so mad about the paper and ink usage 😂 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dirkwinston"> /u/dirkwinston </a> <br/> <span><a href="https://i.redd.it/7btaqk25zltd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fzcgf6/this_time_i_wont_have_an_80_page_walkthrough_from/">[comments]</a></span> </td></tr></table>
+
+## What was the first game you saw and/or played that made you fall in love with video games?
+ - [https://www.reddit.com/r/gaming/comments/1fzbylx/what_was_the_first_game_you_saw_andor_played_that](https://www.reddit.com/r/gaming/comments/1fzbylx/what_was_the_first_game_you_saw_andor_played_that)
+ - RSS feed: $source
+ - date published: 2024-10-08T22:04:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fzbylx/what_was_the_first_game_you_saw_andor_played_that/"> <img src="https://preview.redd.it/muqq4mhwultd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=327b277b9ae0ae7f1538276fae790ae0742b07d7" alt="What was the first game you saw and/or played that made you fall in love with video games?" title="What was the first game you saw and/or played that made you fall in love with video games?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Absalom98"> /u/Absalom98 </a> <br/> <span><a href="https://i.redd.it/muqq4mhwultd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fzbylx/what_was_the_first_game_you_saw_andor_played_that/">[comments]</a></span> </td></tr></table>
+
+## No steelbook for the US but this is the next best thing!
+ - [https://www.reddit.com/r/gaming/comments/1fzakdk/no_steelbook_for_the_us_but_this_is_the_next_best](https://www.reddit.com/r/gaming/comments/1fzakdk/no_steelbook_for_the_us_but_this_is_the_next_best)
+ - RSS feed: $source
+ - date published: 2024-10-08T21:03:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fzakdk/no_steelbook_for_the_us_but_this_is_the_next_best/"> <img src="https://preview.redd.it/20uc1rp9kltd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6151c94f63ab096f8685d10067f4ab32da0215c" alt="No steelbook for the US but this is the next best thing!" title="No steelbook for the US but this is the next best thing!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pliskin47x"> /u/Pliskin47x </a> <br/> <span><a href="https://i.redd.it/20uc1rp9kltd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fzakdk/no_steelbook_for_the_us_but_this_is_the_next_best/">[comments]</a></span> </td></tr></table>
+
+## A Fellow Bulgarian Worked on the Silent Hill 2 Remake and Left a Heartfelt Easter Egg!
+ - [https://www.reddit.com/r/gaming/comments/1fz9nj6/a_fellow_bulgarian_worked_on_the_silent_hill_2](https://www.reddit.com/r/gaming/comments/1fz9nj6/a_fellow_bulgarian_worked_on_the_silent_hill_2)
+ - RSS feed: $source
+ - date published: 2024-10-08T20:24:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz9nj6/a_fellow_bulgarian_worked_on_the_silent_hill_2/"> <img src="https://preview.redd.it/syu1fmpcdltd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c122f1f6801ddf720ec0f527e075e2cf79635f41" alt="A Fellow Bulgarian Worked on the Silent Hill 2 Remake and Left a Heartfelt Easter Egg!" title="A Fellow Bulgarian Worked on the Silent Hill 2 Remake and Left a Heartfelt Easter Egg!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A fellow Bulgarian just shared on Facebook that he had the amazing opportunity to work on the Silent Hill 2 Remake! He’s really proud of how well the game is being received, with an 87 on Metacritic and 96% positive reviews on Steam. He talked about how much the original Silent Hill 2 meant to him when he first played it 12 years ago, and now being able to work on the remake feels like a dream come true.</p> <p>He even left a special Easter Egg in the game—a graffiti that says &quot;Montan
+
+## What are some great horror sections in non-horror games?
+ - [https://www.reddit.com/r/gaming/comments/1fz8gei/what_are_some_great_horror_sections_in_nonhorror](https://www.reddit.com/r/gaming/comments/1fz8gei/what_are_some_great_horror_sections_in_nonhorror)
+ - RSS feed: $source
+ - date published: 2024-10-08T19:34:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz8gei/what_are_some_great_horror_sections_in_nonhorror/"> <img src="https://preview.redd.it/aj57y3114ltd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=888c519e3d8c7abc0c16ca890c31289d865de785" alt="What are some great horror sections in non-horror games? " title="What are some great horror sections in non-horror games? " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Absalom98"> /u/Absalom98 </a> <br/> <span><a href="https://i.redd.it/aj57y3114ltd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz8gei/what_are_some_great_horror_sections_in_nonhorror/">[comments]</a></span> </td></tr></table>
+
+## PSA EU gamers do NOT buy Holyo cards as gifts
+ - [https://www.reddit.com/r/gaming/comments/1fz7u9q/psa_eu_gamers_do_not_buy_holyo_cards_as_gifts](https://www.reddit.com/r/gaming/comments/1fz7u9q/psa_eu_gamers_do_not_buy_holyo_cards_as_gifts)
+ - RSS feed: $source
+ - date published: 2024-10-08T19:08:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>My uncle got me a Holyo card for my birthday. Their selling point is you buy their card which gives you money on their site and then you can buy a gift card of your choosing for a specific game or service.</p> <p>Sounds great as the gift giver doesn&#39;t need to know what you play.</p> <p>I have gotten the card a month ago, I want to spend it for Steam balance. But guess what, that card is &quot;not in stock&quot; for over a month. I have seen it go in stock once and I checked almost daily only to be of course snatched up instantly.</p> <p>This makes a great gift opportunity into a nightmare for the one who receives it.</p> <p>Just give the person 20€ skip the BS</p> <p>They do have things in stock but you can imagine how quickly the excitement dies if the one you gifted finds out they can&#39;t get what they want. Having it a day or 2 out of stock would be a nonissue but a month is a borderline scam.</p> </div><!-- SC_ON --> &#32; submitted by &#32;
+
+## 'Bloodlines 3 [Will be] Done by Someone Else:' Paradox Is Done With Vampire: The Masquerade After Bloodlines 2 Debacle - IGN
+ - [https://www.reddit.com/r/gaming/comments/1fz7efj/bloodlines_3_will_be_done_by_someone_else_paradox](https://www.reddit.com/r/gaming/comments/1fz7efj/bloodlines_3_will_be_done_by_someone_else_paradox)
+ - RSS feed: $source
+ - date published: 2024-10-08T18:50:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz7efj/bloodlines_3_will_be_done_by_someone_else_paradox/"> <img src="https://external-preview.redd.it/CJqivECeq0tfbeg7jx-c0lunJdTR7kw5YpgcOZjWnJI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b97fdf3d45afb8b0aaa119a9a3b98124e0cec0f6" alt="'Bloodlines 3 [Will be] Done by Someone Else:' Paradox Is Done With Vampire: The Masquerade After Bloodlines 2 Debacle - IGN" title="'Bloodlines 3 [Will be] Done by Someone Else:' Paradox Is Done With Vampire: The Masquerade After Bloodlines 2 Debacle - IGN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ryushin6"> /u/ryushin6 </a> <br/> <span><a href="https://www.ign.com/articles/paradox-chinese-room-vampire-the-masquerade-bloodlines-2-sequel-someone-else">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz7efj/bloodlines_3_will_be_done_by_someone_else_paradox/">[comments]</a></span> </td></tr></table>
+
+## Found this at my parents. So many hours spent on this GB
+ - [https://www.reddit.com/r/gaming/comments/1fz6sai/found_this_at_my_parents_so_many_hours_spent_on](https://www.reddit.com/r/gaming/comments/1fz6sai/found_this_at_my_parents_so_many_hours_spent_on)
+ - RSS feed: $source
+ - date published: 2024-10-08T18:24:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz6sai/found_this_at_my_parents_so_many_hours_spent_on/"> <img src="https://preview.redd.it/8xnftjbtrktd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3030cd82fd18c56c9cd17eee8f7eccb5295c971" alt="Found this at my parents. So many hours spent on this GB" title="Found this at my parents. So many hours spent on this GB" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Pokemon gold in the GB :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/D3athShade"> /u/D3athShade </a> <br/> <span><a href="https://i.redd.it/8xnftjbtrktd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz6sai/found_this_at_my_parents_so_many_hours_spent_on/">[comments]</a></span> </td></tr></table>
+
+## I made this custom Shy Guy rug today.
+ - [https://www.reddit.com/r/gaming/comments/1fz6a31/i_made_this_custom_shy_guy_rug_today](https://www.reddit.com/r/gaming/comments/1fz6a31/i_made_this_custom_shy_guy_rug_today)
+ - RSS feed: $source
+ - date published: 2024-10-08T18:02:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz6a31/i_made_this_custom_shy_guy_rug_today/"> <img src="https://preview.redd.it/e5hb00wznktd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a59cd1e81fb7f4fd28dbef1489eb33b0226928a3" alt="I made this custom Shy Guy rug today." title="I made this custom Shy Guy rug today." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This piece took about 8 hours of work and I&#39;m really happy with how it turned out!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gandostar"> /u/gandostar </a> <br/> <span><a href="https://i.redd.it/e5hb00wznktd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz6a31/i_made_this_custom_shy_guy_rug_today/">[comments]</a></span> </td></tr></table>
+
+## Red Dead Redemption Steam page is up
+ - [https://www.reddit.com/r/gaming/comments/1fz4c4r/red_dead_redemption_steam_page_is_up](https://www.reddit.com/r/gaming/comments/1fz4c4r/red_dead_redemption_steam_page_is_up)
+ - RSS feed: $source
+ - date published: 2024-10-08T16:42:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz4c4r/red_dead_redemption_steam_page_is_up/"> <img src="https://external-preview.redd.it/3ZUnSSEhVPDV6Ov9fMoDb6oenlW1fYLLL6IuDsRvE78.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6bb75b45071f26ba07319b20a54d6be77619f76b" alt="Red Dead Redemption Steam page is up " title="Red Dead Redemption Steam page is up " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/flamebeerd"> /u/flamebeerd </a> <br/> <span><a href="https://store.steampowered.com/app/2668510/Red_Dead_Redemption/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz4c4r/red_dead_redemption_steam_page_is_up/">[comments]</a></span> </td></tr></table>
+
+## Celes singing in the opera from Final Fantasy 6 [OC]
+ - [https://www.reddit.com/r/gaming/comments/1fz3bzq/celes_singing_in_the_opera_from_final_fantasy_6_oc](https://www.reddit.com/r/gaming/comments/1fz3bzq/celes_singing_in_the_opera_from_final_fantasy_6_oc)
+ - RSS feed: $source
+ - date published: 2024-10-08T16:00:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz3bzq/celes_singing_in_the_opera_from_final_fantasy_6_oc/"> <img src="https://preview.redd.it/f4r1ytpi1ktd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=feb9b707e22087502bf718d517dc7a92b643885d" alt="Celes singing in the opera from Final Fantasy 6 [OC]" title="Celes singing in the opera from Final Fantasy 6 [OC]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rossowinch"> /u/Rossowinch </a> <br/> <span><a href="https://i.redd.it/f4r1ytpi1ktd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz3bzq/celes_singing_in_the_opera_from_final_fantasy_6_oc/">[comments]</a></span> </td></tr></table>
+
+## What are the most immersive gaming experiences you’ve had?
+ - [https://www.reddit.com/r/gaming/comments/1fz0xh6/what_are_the_most_immersive_gaming_experiences](https://www.reddit.com/r/gaming/comments/1fz0xh6/what_are_the_most_immersive_gaming_experiences)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:19:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I been on a kick for immersing myself into a game as much as possible. It started with playing dishonored without dark vision and no hud on the hardest difficulty. Now I’m doing the same thing with metro exodus and am having a ton of fun. I’m also requiring myself to sleep at night and not reload a magazine unless it is empty because that’s what a real person would do. Fallout on survival with lots of immersion mods was also a lot of fun. </p> <p>What are the most immersive gaming experiences you’ve had? Wether that be the vanilla game or including mods and realistic restrictions. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JoinMyGuild"> /u/JoinMyGuild </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fz0xh6/what_are_the_most_immersive_gaming_experiences/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz0xh6/what_are_the_most_immersive_gaming_expe
+
+## Roblox: Inflated Key Metrics For Wall Street And A Pedophile Hellscape For Kids | Hindenburg Research
+ - [https://www.reddit.com/r/gaming/comments/1fz02ke/roblox_inflated_key_metrics_for_wall_street_and_a](https://www.reddit.com/r/gaming/comments/1fz02ke/roblox_inflated_key_metrics_for_wall_street_and_a)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:41:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/THED4NIEL"> /u/THED4NIEL </a> <br/> <span><a href="https://hindenburgresearch.com/roblox/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz02ke/roblox_inflated_key_metrics_for_wall_street_and_a/">[comments]</a></span>
+
+## Alien: Isolation 2 Is In Early Development With Original Director Returning
+ - [https://www.reddit.com/r/gaming/comments/1fz01lj/alien_isolation_2_is_in_early_development_with](https://www.reddit.com/r/gaming/comments/1fz01lj/alien_isolation_2_is_in_early_development_with)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:40:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fz01lj/alien_isolation_2_is_in_early_development_with/"> <img src="https://external-preview.redd.it/VGnkNRc2waYZ1JLVZJesvds8e7Du9bpbZGhCl_6rZQQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7050912a5c5efe4841265b9af4da2faf33aedfbb" alt="Alien: Isolation 2 Is In Early Development With Original Director Returning" title="Alien: Isolation 2 Is In Early Development With Original Director Returning" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CleverTrover"> /u/CleverTrover </a> <br/> <span><a href="https://www.gamespot.com/articles/alien-isolation-2-is-in-early-development-with-original-director-returning/1100-6526951/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fz01lj/alien_isolation_2_is_in_early_development_with/">[comments]</a></span> </td></tr></table>
+
+## Read Dead Redemption 1 and Undead Nightmare is coming to PC this October.
+ - [https://www.reddit.com/r/gaming/comments/1fyzqu6/read_dead_redemption_1_and_undead_nightmare_is](https://www.reddit.com/r/gaming/comments/1fyzqu6/read_dead_redemption_1_and_undead_nightmare_is)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:25:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fyzqu6/read_dead_redemption_1_and_undead_nightmare_is/"> <img src="https://preview.redd.it/qpea9qimajtd1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c0c35a280407447bd2f42f00076e99962c5a9430" alt="Read Dead Redemption 1 and Undead Nightmare is coming to PC this October." title="Read Dead Redemption 1 and Undead Nightmare is coming to PC this October." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MINISTER_OF_CL"> /u/MINISTER_OF_CL </a> <br/> <span><a href="https://i.redd.it/qpea9qimajtd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyzqu6/read_dead_redemption_1_and_undead_nightmare_is/">[comments]</a></span> </td></tr></table>
+
+## Red Dead Redemption coming to PC October 29, 2024
+ - [https://www.reddit.com/r/gaming/comments/1fyzq8t/red_dead_redemption_coming_to_pc_october_29_2024](https://www.reddit.com/r/gaming/comments/1fyzq8t/red_dead_redemption_coming_to_pc_october_29_2024)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:25:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fyzq8t/red_dead_redemption_coming_to_pc_october_29_2024/"> <img src="https://external-preview.redd.it/960GPnby7KvRLnU9k5-W3n5Tb0j3CtaCGQr3QI1yLVw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27de120439c52a8b33c22c7c376f7d6357e92365" alt="Red Dead Redemption coming to PC October 29, 2024" title="Red Dead Redemption coming to PC October 29, 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tommygibbs23"> /u/tommygibbs23 </a> <br/> <span><a href="https://www.ign.com/articles/red-dead-redemption-finally-has-a-pc-release-date-14-years-after-it-first-launched">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyzq8t/red_dead_redemption_coming_to_pc_october_29_2024/">[comments]</a></span> </td></tr></table>
+
+## Red Dead Redemption And Undead Nightmare Coming To PC October 29
+ - [https://www.reddit.com/r/gaming/comments/1fyzcz4/red_dead_redemption_and_undead_nightmare_coming](https://www.reddit.com/r/gaming/comments/1fyzcz4/red_dead_redemption_and_undead_nightmare_coming)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:07:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fyzcz4/red_dead_redemption_and_undead_nightmare_coming/"> <img src="https://external-preview.redd.it/Xa1XVSFu7Xw8F2XWNqLZb7y2tu7kmVm6Zmk6inDudNk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e7270f5185b5ce58e7d6c72cfd4df8038407250a" alt="Red Dead Redemption And Undead Nightmare Coming To PC October 29" title="Red Dead Redemption And Undead Nightmare Coming To PC October 29" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gullible-Promotion26"> /u/Gullible-Promotion26 </a> <br/> <span><a href="https://youtu.be/mnvc6uC6xZE?si=uhyDRH3mh-ZHFP-T">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyzcz4/red_dead_redemption_and_undead_nightmare_coming/">[comments]</a></span> </td></tr></table>
+
+## What is one song you always attribute to a game?
+ - [https://www.reddit.com/r/gaming/comments/1fyyhdw/what_is_one_song_you_always_attribute_to_a_game](https://www.reddit.com/r/gaming/comments/1fyyhdw/what_is_one_song_you_always_attribute_to_a_game)
+ - RSS feed: $source
+ - date published: 2024-10-08T12:23:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ll start. Anytime I hear &quot;Silhouette&quot; by Goldroom, I am instantly taken back to Forza Horizon 4. The vibes of the song mixed with the laid back experience of driving your favorite cars on open roads is one of my favorite gaming experiences and the combination of the two always gives me a serene and nostalgic feeling.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HopKnockers"> /u/HopKnockers </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fyyhdw/what_is_one_song_you_always_attribute_to_a_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyyhdw/what_is_one_song_you_always_attribute_to_a_game/">[comments]</a></span>
+
+## Thanks to r/gaming, after 4 years of work, I finally found a publisher for my nostalgic helicopter game! (Cleared Hot)
+ - [https://www.reddit.com/r/gaming/comments/1fyxlbf/thanks_to_rgaming_after_4_years_of_work_i_finally](https://www.reddit.com/r/gaming/comments/1fyxlbf/thanks_to_rgaming_after_4_years_of_work_i_finally)
+ - RSS feed: $source
+ - date published: 2024-10-08T11:34:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fyxlbf/thanks_to_rgaming_after_4_years_of_work_i_finally/"> <img src="https://preview.redd.it/gdkyo3srpitd1.gif?width=640&amp;crop=smart&amp;s=f3b40f2854286f8faea736b32fc28f88c89ffd8b" alt="Thanks to r/gaming, after 4 years of work, I finally found a publisher for my nostalgic helicopter game! (Cleared Hot)" title="Thanks to r/gaming, after 4 years of work, I finally found a publisher for my nostalgic helicopter game! (Cleared Hot)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cfinger"> /u/cfinger </a> <br/> <span><a href="https://i.redd.it/gdkyo3srpitd1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyxlbf/thanks_to_rgaming_after_4_years_of_work_i_finally/">[comments]</a></span> </td></tr></table>
+
+## Ubisoft Monetization Director Says Fan Celebrations Around Ubisoft Recent Troubles Are "Revolting", Claims Any Industry Peer Doing The Same Is A "Non-Human Being"
+ - [https://www.reddit.com/r/gaming/comments/1fywm5v/ubisoft_monetization_director_says_fan](https://www.reddit.com/r/gaming/comments/1fywm5v/ubisoft_monetization_director_says_fan)
+ - RSS feed: $source
+ - date published: 2024-10-08T10:33:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fywm5v/ubisoft_monetization_director_says_fan/"> <img src="https://external-preview.redd.it/mCRmYy3fPOafp7R4v3oG8fHQHddkD8rc5XuV2M5kshM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52fcc08e1cc02dfbcef265959ad9bf38fe605516" alt="Ubisoft Monetization Director Says Fan Celebrations Around Ubisoft Recent Troubles Are &quot;Revolting&quot;, Claims Any Industry Peer Doing The Same Is A &quot;Non-Human Being&quot;" title="Ubisoft Monetization Director Says Fan Celebrations Around Ubisoft Recent Troubles Are &quot;Revolting&quot;, Claims Any Industry Peer Doing The Same Is A &quot;Non-Human Being&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Roids-in-my-vains"> /u/Roids-in-my-vains </a> <br/> <span><a href="https://boundingintocomics.com/video-games/ubisoft-monetization-director-says-fan-celebrations-around-assassins-creed-shadows-studios-recent-troubles-are-revolting-claims-any-in
+
+## For better or for worse, what video game altered the course of your life forever?
+ - [https://www.reddit.com/r/gaming/comments/1fyvhe2/for_better_or_for_worse_what_video_game_altered](https://www.reddit.com/r/gaming/comments/1fyvhe2/for_better_or_for_worse_what_video_game_altered)
+ - RSS feed: $source
+ - date published: 2024-10-08T09:10:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me, it&#39;s Counter-Strike. A crazy sequence of events of decades led to me meeting my now wife.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/manamonggamers"> /u/manamonggamers </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fyvhe2/for_better_or_for_worse_what_video_game_altered/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyvhe2/for_better_or_for_worse_what_video_game_altered/">[comments]</a></span>
+
+## I took some days off for rescuing Dr. Kirk
+ - [https://www.reddit.com/r/gaming/comments/1fyuk9h/i_took_some_days_off_for_rescuing_dr_kirk](https://www.reddit.com/r/gaming/comments/1fyuk9h/i_took_some_days_off_for_rescuing_dr_kirk)
+ - RSS feed: $source
+ - date published: 2024-10-08T07:58:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fyuk9h/i_took_some_days_off_for_rescuing_dr_kirk/"> <img src="https://preview.redd.it/xl6287m7ohtd1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c0a4fd0f5bd3c0e1dedaabfd22efba8220ef8fb" alt="I took some days off for rescuing Dr. Kirk" title="I took some days off for rescuing Dr. Kirk" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Playing via deleyCON SCART zu HDMI converter</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MAXIMUM_83"> /u/MAXIMUM_83 </a> <br/> <span><a href="https://i.redd.it/xl6287m7ohtd1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyuk9h/i_took_some_days_off_for_rescuing_dr_kirk/">[comments]</a></span> </td></tr></table>
+
+## Players from the Oceania region, what are the biggest struggles you face when trying to play online?
+ - [https://www.reddit.com/r/gaming/comments/1fyscta/players_from_the_oceania_region_what_are_the](https://www.reddit.com/r/gaming/comments/1fyscta/players_from_the_oceania_region_what_are_the)
+ - RSS feed: $source
+ - date published: 2024-10-08T05:14:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve heard many times that players from the Oceania region (Australia, New Zealand, etc) keep facing a lot of obstacles to play online. Can you guys give me some examples? Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SuperfluousAnon"> /u/SuperfluousAnon </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fyscta/players_from_the_oceania_region_what_are_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyscta/players_from_the_oceania_region_what_are_the/">[comments]</a></span>
+
+## Dead Man Walking - Switch Modder goes into Court against Nintendo without a Lawyer
+ - [https://www.reddit.com/r/gaming/comments/1fyrktf/dead_man_walking_switch_modder_goes_into_court](https://www.reddit.com/r/gaming/comments/1fyrktf/dead_man_walking_switch_modder_goes_into_court)
+ - RSS feed: $source
+ - date published: 2024-10-08T04:24:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fyrktf/dead_man_walking_switch_modder_goes_into_court/"> <img src="https://external-preview.redd.it/4XPQbeHjCwl1ILI091J4C0YgwDVzuvWNG6W05r_PYVk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2aeb5015b525a496e8a6e34e121dde1041e3689" alt="Dead Man Walking - Switch Modder goes into Court against Nintendo without a Lawyer" title="Dead Man Walking - Switch Modder goes into Court against Nintendo without a Lawyer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GamerGG7267"> /u/GamerGG7267 </a> <br/> <span><a href="https://www.ign.com/articles/nintendo-switch-modder-who-refused-to-shut-down-now-takes-to-court-against-nintendo-without-a-lawyer">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyrktf/dead_man_walking_switch_modder_goes_into_court/">[comments]</a></span> </td></tr></table>
+
+## 5 Days? What game?
+ - [https://www.reddit.com/r/gaming/comments/1fyq8mx/5_days_what_game](https://www.reddit.com/r/gaming/comments/1fyq8mx/5_days_what_game)
+ - RSS feed: $source
+ - date published: 2024-10-08T03:08:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>You have 5 days off from work, alone in a hotel, in a town that&#39;s boring.</p> <p>You have a high-end PC that can run anything.</p> <p>What game are you buying and playing for those 5 days?</p> <p>Bonus points for single player adventures. Recommend anything! Dig deep, less popular games that can hook upu for 5 days are recommended.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Khromaaatic"> /u/Khromaaatic </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fyq8mx/5_days_what_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyq8mx/5_days_what_game/">[comments]</a></span>
+
+## I was so disappointed in Halo Infinite's Campaign.
+ - [https://www.reddit.com/r/gaming/comments/1fyphvx/i_was_so_disappointed_in_halo_infinites_campaign](https://www.reddit.com/r/gaming/comments/1fyphvx/i_was_so_disappointed_in_halo_infinites_campaign)
+ - RSS feed: $source
+ - date published: 2024-10-08T02:28:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Words cannot express how disappointed and utterly frustrated I am with how Infinite&#39;s campaign panned out. I know 343 gets a lot of hate among the community, but they did such a disservice to the story of this game and overall trilogy (4, 5, Infinite). Halo 4 had HUGE shoes to fill following up the original trilogy and even I felt like it was a solid campaign through and through. The introduction of the forerunners as a new enemy, more emotional connection between Cortana and Chief, the rampancy of Cortana, new UNSC characters like Lasky introduced for the first time in the game series, A new villain, stunning backdrops, etc. 4 has its flaws I&#39;m not saying it was a perfect game by any means, but if I&#39;m comparing this to 5 or Infinite it fucking blows them both out of the water. The ending of 4 was so well done and it really hit home on the whole gravity of the situation. Chief has been through a lot of shit. Everything that&#39;s happened 
+
+## Sadly never got the chance to play this, but I got to add this beautiful piece to the collection today
+ - [https://www.reddit.com/r/gaming/comments/1fyp6nn/sadly_never_got_the_chance_to_play_this_but_i_got](https://www.reddit.com/r/gaming/comments/1fyp6nn/sadly_never_got_the_chance_to_play_this_but_i_got)
+ - RSS feed: $source
+ - date published: 2024-10-08T02:12:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fyp6nn/sadly_never_got_the_chance_to_play_this_but_i_got/"> <img src="https://preview.redd.it/tpad263hyftd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd2f1f2c0397e17e738c3fbd376ace70fbbc3741" alt="Sadly never got the chance to play this, but I got to add this beautiful piece to the collection today" title="Sadly never got the chance to play this, but I got to add this beautiful piece to the collection today" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bad_rug"> /u/bad_rug </a> <br/> <span><a href="https://i.redd.it/tpad263hyftd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fyp6nn/sadly_never_got_the_chance_to_play_this_but_i_got/">[comments]</a></span> </td></tr></table>
+
+## My piece of gaming history. An original World of Warcraft server blade.
+ - [https://www.reddit.com/r/gaming/comments/1fynxm5/my_piece_of_gaming_history_an_original_world_of](https://www.reddit.com/r/gaming/comments/1fynxm5/my_piece_of_gaming_history_an_original_world_of)
+ - RSS feed: $source
+ - date published: 2024-10-08T01:08:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1fynxm5/my_piece_of_gaming_history_an_original_world_of/"> <img src="https://preview.redd.it/k1ufd1x2nftd1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95adc33a7487f3a7819bcd8c23ffdf04c2a1e458" alt="My piece of gaming history. An original World of Warcraft server blade." title="My piece of gaming history. An original World of Warcraft server blade." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Drendari"> /u/Drendari </a> <br/> <span><a href="https://i.redd.it/k1ufd1x2nftd1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fynxm5/my_piece_of_gaming_history_an_original_world_of/">[comments]</a></span> </td></tr></table>
+
+## Games to play one handed?.. not like that
+ - [https://www.reddit.com/r/gaming/comments/1fymte7/games_to_play_one_handed_not_like_that](https://www.reddit.com/r/gaming/comments/1fymte7/games_to_play_one_handed_not_like_that)
+ - RSS feed: $source
+ - date published: 2024-10-08T00:12:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently shattered my left elbow and have to have my left arm at a 90° angle to stabilize for 4 weeks. I&#39;ve been trying to play Demon Souls and Diablo 4 on the PS5 and it&#39;s excruciating to play. </p> <p>Any suggestions on something I can play that would only require my right hand? I&#39;m not looking for adult oriented games or anything like that.</p> <p>I own a steam deck a switch a PS5 and have a PC with keyboard and mouse if that helps with suggestions</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PoorlyTimedKanye"> /u/PoorlyTimedKanye </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fymte7/games_to_play_one_handed_not_like_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fymte7/games_to_play_one_handed_not_like_that/">[comments]</a></span>
+
+## If you can demand from any studio(retired as well) a sequel or a prequel to any game, which one would it be?
+ - [https://www.reddit.com/r/gaming/comments/1fymsms/if_you_can_demand_from_any_studioretired_as_well](https://www.reddit.com/r/gaming/comments/1fymsms/if_you_can_demand_from_any_studioretired_as_well)
+ - RSS feed: $source
+ - date published: 2024-10-08T00:11:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Today I feel like.. another Mount &amp; Blade, but with my corrections.. )</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AndrewMelnychenko"> /u/AndrewMelnychenko </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1fymsms/if_you_can_demand_from_any_studioretired_as_well/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1fymsms/if_you_can_demand_from_any_studioretired_as_well/">[comments]</a></span>
+

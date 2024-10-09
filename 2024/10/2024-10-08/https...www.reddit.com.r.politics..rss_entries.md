@@ -1,0 +1,289 @@
+# Source:Reddit - Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Ron DeSantis Throws Televised Conniption Fit After Reports That He Ignored Kamala Harris’s Calls to Discuss Hurricane Relief
+ - [https://www.reddit.com/r/politics/comments/1fz95dw/ron_desantis_throws_televised_conniption_fit](https://www.reddit.com/r/politics/comments/1fz95dw/ron_desantis_throws_televised_conniption_fit)
+ - RSS feed: $source
+ - date published: 2024-10-08T20:03:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz95dw/ron_desantis_throws_televised_conniption_fit/"> <img src="https://external-preview.redd.it/F6EF8W4eZG9StZUJbVZyHzj_GVGmowsejqCyxTz5OMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eac3a58a4039416942c55abc5138b42e5b094941" alt="Ron DeSantis Throws Televised Conniption Fit After Reports That He Ignored Kamala Harris’s Calls to Discuss Hurricane Relief" title="Ron DeSantis Throws Televised Conniption Fit After Reports That He Ignored Kamala Harris’s Calls to Discuss Hurricane Relief" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vanityfairmagazine"> /u/vanityfairmagazine </a> <br/> <span><a href="https://www.vanityfair.com/news/story/ron-desantis-throws-televised-conniption-fit-after-reports-he-ignored-kamala-harris-calls">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz95dw/ron_desantis_throws_televised_conniption_fit/">[comments]</a></s
+
+## Daughters to dads who support Trump: ‘You chose him over me’
+ - [https://www.reddit.com/r/politics/comments/1fz8f5s/daughters_to_dads_who_support_trump_you_chose_him](https://www.reddit.com/r/politics/comments/1fz8f5s/daughters_to_dads_who_support_trump_you_chose_him)
+ - RSS feed: $source
+ - date published: 2024-10-08T19:32:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz8f5s/daughters_to_dads_who_support_trump_you_chose_him/"> <img src="https://external-preview.redd.it/mszv2Jv-SL0bkOPOj0G0DD5fwm1PTJOHm9eRuT3IZ3g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=819c1ca0106e1b50bd204f52b68a6e2d956504d1" alt="Daughters to dads who support Trump: ‘You chose him over me’" title="Daughters to dads who support Trump: ‘You chose him over me’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br/> <span><a href="https://www.nj.com/politics/2024/10/daughters-to-dads-who-support-trump-you-chose-him-over-me.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz8f5s/daughters_to_dads_who_support_trump_you_chose_him/">[comments]</a></span> </td></tr></table>
+
+## Former Trump admin officials warn his alarming cognitive decline has accelerated
+ - [https://www.reddit.com/r/politics/comments/1fz8dyp/former_trump_admin_officials_warn_his_alarming](https://www.reddit.com/r/politics/comments/1fz8dyp/former_trump_admin_officials_warn_his_alarming)
+ - RSS feed: $source
+ - date published: 2024-10-08T19:31:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz8dyp/former_trump_admin_officials_warn_his_alarming/"> <img src="https://external-preview.redd.it/doDnF53yjwa_mnfrbDTYmoHvoF-UVpTxiTZbirZ5qYc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88c39a4ce88640e8e63f3ddc83a7c7869bec34f1" alt="Former Trump admin officials warn his alarming cognitive decline has accelerated" title="Former Trump admin officials warn his alarming cognitive decline has accelerated" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br/> <span><a href="https://www.lgbtqnation.com/2024/10/former-trump-admin-officials-warn-his-alarming-cognitive-decline-has-accelerated-before-election/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz8dyp/former_trump_admin_officials_warn_his_alarming/">[comments]</a></span> </td></tr></table>
+
+## Harris Seizes on Claims That Trump Sent Putin Covid-Test Devices
+ - [https://www.reddit.com/r/politics/comments/1fz6sg7/harris_seizes_on_claims_that_trump_sent_putin](https://www.reddit.com/r/politics/comments/1fz6sg7/harris_seizes_on_claims_that_trump_sent_putin)
+ - RSS feed: $source
+ - date published: 2024-10-08T18:24:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz6sg7/harris_seizes_on_claims_that_trump_sent_putin/"> <img src="https://external-preview.redd.it/WEE50cU_i3zgacB5mYEkjWLbjY4LBif9NsZioFJ0rRg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8524affc51e7204ba63796ee7b808dfe7542bb33" alt="Harris Seizes on Claims That Trump Sent Putin Covid-Test Devices" title="Harris Seizes on Claims That Trump Sent Putin Covid-Test Devices" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2024-10-08/claim-that-trump-sent-putin-covid-test-devices-draws-harris-criticism">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz6sg7/harris_seizes_on_claims_that_trump_sent_putin/">[comments]</a></span> </td></tr></table>
+
+## Remember that FBI Investigation Into Brett Kavanaugh? Turns Out It Wasn't Much Of An Investigation.
+ - [https://www.reddit.com/r/politics/comments/1fz6ds5/remember_that_fbi_investigation_into_brett](https://www.reddit.com/r/politics/comments/1fz6ds5/remember_that_fbi_investigation_into_brett)
+ - RSS feed: $source
+ - date published: 2024-10-08T18:06:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz6ds5/remember_that_fbi_investigation_into_brett/"> <img src="https://external-preview.redd.it/vV0oFYQShvBP4i0ZTTZ51PrONp1EU3miWEYc_cAuAMI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=126acdf6177158a06b39e04a8ba871f707cb7941" alt="Remember that FBI Investigation Into Brett Kavanaugh? Turns Out It Wasn't Much Of An Investigation." title="Remember that FBI Investigation Into Brett Kavanaugh? Turns Out It Wasn't Much Of An Investigation." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Esquire"> /u/Esquire </a> <br/> <span><a href="https://www.esquire.com/news-politics/politics/a62542737/fbi-probe-brett-kavanaugh-trump/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz6ds5/remember_that_fbi_investigation_into_brett/">[comments]</a></span> </td></tr></table>
+
+## DeSantis Seeks To Silence Brain Cancer Patient Speaking Out About Her Abortion
+ - [https://www.reddit.com/r/politics/comments/1fz6c21/desantis_seeks_to_silence_brain_cancer_patient](https://www.reddit.com/r/politics/comments/1fz6c21/desantis_seeks_to_silence_brain_cancer_patient)
+ - RSS feed: $source
+ - date published: 2024-10-08T18:04:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz6c21/desantis_seeks_to_silence_brain_cancer_patient/"> <img src="https://external-preview.redd.it/Q7feYn_7JqusXFK9oAd-WPFzi210tdtBwQ05qXcqw-s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60ea75873e162fd40a0987f3d64002212cb0a1fa" alt="DeSantis Seeks To Silence Brain Cancer Patient Speaking Out About Her Abortion" title="DeSantis Seeks To Silence Brain Cancer Patient Speaking Out About Her Abortion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-features/desantis-brain-cancer-patient-abortion-1235128999/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz6c21/desantis_seeks_to_silence_brain_cancer_patient/">[comments]</a></span> </td></tr></table>
+
+## Trump Lashes Out After Damning Report on His Close Ties to Putin - Donald Trump’s team is pissed after journalist Bob Woodward detailed all the evidence that the former president is close to the Russian leader.
+ - [https://www.reddit.com/r/politics/comments/1fz5ul0/trump_lashes_out_after_damning_report_on_his](https://www.reddit.com/r/politics/comments/1fz5ul0/trump_lashes_out_after_damning_report_on_his)
+ - RSS feed: $source
+ - date published: 2024-10-08T17:45:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz5ul0/trump_lashes_out_after_damning_report_on_his/"> <img src="https://external-preview.redd.it/5bEmJUXfSuOIkp4psTPMCiqHeBfmvNWtTmaZCT97u6M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2e42ed678ffe5dbb2876cda6cdde05777061e39" alt="Trump Lashes Out After Damning Report on His Close Ties to Putin - Donald Trump’s team is pissed after journalist Bob Woodward detailed all the evidence that the former president is close to the Russian leader." title="Trump Lashes Out After Damning Report on His Close Ties to Putin - Donald Trump’s team is pissed after journalist Bob Woodward detailed all the evidence that the former president is close to the Russian leader." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://newrepublic.com/post/186915/trump-team-reaction-woodward-report-close-ties-putin">[link]</a></span> &#32; <span><a href="http
+
+## Trump administration protected Brett Kavanaugh from full FBI investigation
+ - [https://www.reddit.com/r/politics/comments/1fz5gn4/trump_administration_protected_brett_kavanaugh](https://www.reddit.com/r/politics/comments/1fz5gn4/trump_administration_protected_brett_kavanaugh)
+ - RSS feed: $source
+ - date published: 2024-10-08T17:29:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz5gn4/trump_administration_protected_brett_kavanaugh/"> <img src="https://external-preview.redd.it/-OSSlz5tXlexVWc0hazHXnEUacGPWy4_00BtH2AkX_k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=580e1d54f58a36ce75f712df52af968b9357bab8" alt="Trump administration protected Brett Kavanaugh from full FBI investigation" title="Trump administration protected Brett Kavanaugh from full FBI investigation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheSoupThief"> /u/TheSoupThief </a> <br/> <span><a href="https://www.theguardian.com/us-news/2024/oct/08/trump-brett-kavanaugh-investigation-fbi?CMP=Share_AndroidApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz5gn4/trump_administration_protected_brett_kavanaugh/">[comments]</a></span> </td></tr></table>
+
+## '60 Minutes' Kicks Off With Detailed Explanation About Why Trump 'Backed Out'
+ - [https://www.reddit.com/r/politics/comments/1fz54n9/60_minutes_kicks_off_with_detailed_explanation](https://www.reddit.com/r/politics/comments/1fz54n9/60_minutes_kicks_off_with_detailed_explanation)
+ - RSS feed: $source
+ - date published: 2024-10-08T17:15:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz54n9/60_minutes_kicks_off_with_detailed_explanation/"> <img src="https://external-preview.redd.it/pv8hXrLBhAShYBWkBtgG83UxMK09dVUnb7O2QXEh5bM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74b6cf77d786f526ea8bfb4a83d44c46966604e8" alt="'60 Minutes' Kicks Off With Detailed Explanation About Why Trump 'Backed Out'" title="'60 Minutes' Kicks Off With Detailed Explanation About Why Trump 'Backed Out'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/P_a_s_g_i_t_24"> /u/P_a_s_g_i_t_24 </a> <br/> <span><a href="https://www.huffpost.com/entry/60-minutes-intro-donald-trump-2024-election_n_6704ca99e4b0b12bd23f8452?10082024">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz54n9/60_minutes_kicks_off_with_detailed_explanation/">[comments]</a></span> </td></tr></table>
+
+## Trump stuns social media as he dances along to YMCA at the end of speech about October 7 attacks
+ - [https://www.reddit.com/r/politics/comments/1fz4f1e/trump_stuns_social_media_as_he_dances_along_to](https://www.reddit.com/r/politics/comments/1fz4f1e/trump_stuns_social_media_as_he_dances_along_to)
+ - RSS feed: $source
+ - date published: 2024-10-08T16:46:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz4f1e/trump_stuns_social_media_as_he_dances_along_to/"> <img src="https://external-preview.redd.it/xmgwWGiMDLYpe8PVXDTvn52UmvJCXwZetG3JBGmdbjU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a96d5f26afad72b6ed31773e002c55fcdcfbaa6d" alt="Trump stuns social media as he dances along to YMCA at the end of speech about October 7 attacks" title="Trump stuns social media as he dances along to YMCA at the end of speech about October 7 attacks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PlanetoftheAtheists"> /u/PlanetoftheAtheists </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-october-7-israel-ymca-dance-b2625881.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz4f1e/trump_stuns_social_media_as_he_dances_along_to/">[comments]</a></span> </td></tr></table>
+
+## Harris undergoes a '60 Minutes' grilling as Trump sits it out
+ - [https://www.reddit.com/r/politics/comments/1fz3ouk/harris_undergoes_a_60_minutes_grilling_as_trump](https://www.reddit.com/r/politics/comments/1fz3ouk/harris_undergoes_a_60_minutes_grilling_as_trump)
+ - RSS feed: $source
+ - date published: 2024-10-08T16:15:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz3ouk/harris_undergoes_a_60_minutes_grilling_as_trump/"> <img src="https://external-preview.redd.it/acs5KGF517mQbVOxaJVsGVGHHmAFTGxM1tju7qgACDc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a79abe47be8973d27b98a618cf1efeca965fdca1" alt="Harris undergoes a '60 Minutes' grilling as Trump sits it out" title="Harris undergoes a '60 Minutes' grilling as Trump sits it out" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zphotoreddit"> /u/zphotoreddit </a> <br/> <span><a href="https://www.nbcnews.com/politics/2024-election/harris-undergoes-60-minutes-grilling-trump-sits-rcna174415">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz3ouk/harris_undergoes_a_60_minutes_grilling_as_trump/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Holds Record Lead Over Donald Trump in New Poll
+ - [https://www.reddit.com/r/politics/comments/1fz325d/kamala_harris_holds_record_lead_over_donald_trump](https://www.reddit.com/r/politics/comments/1fz325d/kamala_harris_holds_record_lead_over_donald_trump)
+ - RSS feed: $source
+ - date published: 2024-10-08T15:49:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz325d/kamala_harris_holds_record_lead_over_donald_trump/"> <img src="https://external-preview.redd.it/IPEbvCIUbskUK24NEWhZyLKDEyWS23Tna7J5zPUYlXw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0c5dacd4952d2239e05b3a7f785a5e639655bd8" alt="Kamala Harris Holds Record Lead Over Donald Trump in New Poll" title="Kamala Harris Holds Record Lead Over Donald Trump in New Poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mymomknowsyourmom"> /u/mymomknowsyourmom </a> <br/> <span><a href="https://www.newsweek.com/kamala-harris-donald-trump-national-polls-1965695">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz325d/kamala_harris_holds_record_lead_over_donald_trump/">[comments]</a></span> </td></tr></table>
+
+## Link to an AMA with Dr. Jill Stein, Green Party presidential candidate
+ - [https://www.reddit.com/r/politics/comments/1fz2hfy/link_to_an_ama_with_dr_jill_stein_green_party](https://www.reddit.com/r/politics/comments/1fz2hfy/link_to_an_ama_with_dr_jill_stein_green_party)
+ - RSS feed: $source
+ - date published: 2024-10-08T15:25:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Direct link to the AMA: <a href="https://www.reddit.com/r/politics/comments/1fz274t/hi_im_dr_jill_stein_green_party_us_presidential">https://www.reddit.com/r/politics/comments/1fz274t/hi_im_dr_jill_stein_green_party_us_presidential</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PoliticsModeratorBot"> /u/PoliticsModeratorBot </a> <br/> <span><a href="https://www.reddit.com/r/politics/comments/1fz2hfy/link_to_an_ama_with_dr_jill_stein_green_party/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz2hfy/link_to_an_ama_with_dr_jill_stein_green_party/">[comments]</a></span>
+
+## "Directed by the Trump White House": Senate Dem report suggests FBI's Kavanaugh probe was a "sham"
+ - [https://www.reddit.com/r/politics/comments/1fz28zo/directed_by_the_trump_white_house_senate_dem](https://www.reddit.com/r/politics/comments/1fz28zo/directed_by_the_trump_white_house_senate_dem)
+ - RSS feed: $source
+ - date published: 2024-10-08T15:15:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz28zo/directed_by_the_trump_white_house_senate_dem/"> <img src="https://external-preview.redd.it/hWBoAHAsHtr6xpdDt1VBiXEZSPMY2-CNNNGmv5QQwvU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c90066be153615dd8029687a1150f1ea3e6a582" alt="&quot;Directed by the Trump White House&quot;: Senate Dem report suggests FBI's Kavanaugh probe was a &quot;sham&quot;" title="&quot;Directed by the Trump White House&quot;: Senate Dem report suggests FBI's Kavanaugh probe was a &quot;sham&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://www.salon.com/2024/10/08/directed-by-the-house-senate-dem-report-suggests-fbis-kavanaugh-probe-was-a-sham/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz28zo/directed_by_the_trump_white_house_senate_dem/">[comments]</a></span> </td></tr></table>
+
+## Trump Is Running a Disinformation Campaign, Not a Political Campaign | He’s not just lying. He’s creating an alternative reality.
+ - [https://www.reddit.com/r/politics/comments/1fz1ga0/trump_is_running_a_disinformation_campaign_not_a](https://www.reddit.com/r/politics/comments/1fz1ga0/trump_is_running_a_disinformation_campaign_not_a)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:42:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz1ga0/trump_is_running_a_disinformation_campaign_not_a/"> <img src="https://external-preview.redd.it/c6cnFH5Oc8qrBc-mSo6jLi60OwSTxKYZ1d2X4gjx2jY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=defe322a01e0a04c0bda0d3d59166189ac51deff" alt="Trump Is Running a Disinformation Campaign, Not a Political Campaign | He’s not just lying. He’s creating an alternative reality." title="Trump Is Running a Disinformation Campaign, Not a Political Campaign | He’s not just lying. He’s creating an alternative reality." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.motherjones.com/politics/2024/10/donald-trump-is-running-a-disinformation-campaign/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz1ga0/trump_is_running_a_disinformation_campaign_not_a/">[comments]</a></span> </td></tr></table
+
+## Trump Secretly Stayed in Touch With Putin After Leaving Office, Book Says
+ - [https://www.reddit.com/r/politics/comments/1fz11w9/trump_secretly_stayed_in_touch_with_putin_after](https://www.reddit.com/r/politics/comments/1fz11w9/trump_secretly_stayed_in_touch_with_putin_after)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:24:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz11w9/trump_secretly_stayed_in_touch_with_putin_after/"> <img src="https://external-preview.redd.it/TYcwuZf8VTPV7rUu-Xw4xSHqHfNHivwKiU1tz-YbLgg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=888e4037edc1c257581ad30fe6946700605818c9" alt="Trump Secretly Stayed in Touch With Putin After Leaving Office, Book Says" title="Trump Secretly Stayed in Touch With Putin After Leaving Office, Book Says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eastcoastpal"> /u/Eastcoastpal </a> <br/> <span><a href="https://www.nytimes.com/2024/10/08/us/politics/trump-putin-woodward-book.html?unlocked_article_code=1.Qk4.RGWr.7hs1WoiuwtyR&amp;smid=nytcore-ios-share&amp;referringSource=articleShare">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz11w9/trump_secretly_stayed_in_touch_with_putin_after/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris' support among Republicans almost doubles: NYT-Siena poll
+ - [https://www.reddit.com/r/politics/comments/1fz0sy5/kamala_harris_support_among_republicans_almost](https://www.reddit.com/r/politics/comments/1fz0sy5/kamala_harris_support_among_republicans_almost)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:14:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz0sy5/kamala_harris_support_among_republicans_almost/"> <img src="https://external-preview.redd.it/PCidjuncqRh682deBma5y_SDjzRJxjGnxD7XRODs_bg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6c66f92a116f2221f043177ad517f105a59e3d5" alt="Kamala Harris' support among Republicans almost doubles: NYT-Siena poll" title="Kamala Harris' support among Republicans almost doubles: NYT-Siena poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/kamala-harris-support-among-republicans-almost-doubles-nyt-siena-poll-1965611">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz0sy5/kamala_harris_support_among_republicans_almost/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump ‘has had up to 7 calls’ with Putin since election loss
+ - [https://www.reddit.com/r/politics/comments/1fz0hdr/donald_trump_has_had_up_to_7_calls_with_putin](https://www.reddit.com/r/politics/comments/1fz0hdr/donald_trump_has_had_up_to_7_calls_with_putin)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:00:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz0hdr/donald_trump_has_had_up_to_7_calls_with_putin/"> <img src="https://external-preview.redd.it/MW5wAyzbU6-VjxgVBjNjsZmFPKhScHdoutwuECXM-rQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3865133a81d8e8567ad6a41749e92f4a270910ec" alt="Donald Trump ‘has had up to 7 calls’ with Putin since election loss" title="Donald Trump ‘has had up to 7 calls’ with Putin since election loss" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TimesandSundayTimes"> /u/TimesandSundayTimes </a> <br/> <span><a href="https://www.thetimes.com/article/3baf38f2-ba77-4e2d-8405-fd042bab6004">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz0hdr/donald_trump_has_had_up_to_7_calls_with_putin/">[comments]</a></span> </td></tr></table>
+
+## JD Vance Forgets to Stick to the Script, Admits He and Donald Trump Will Defund Planned Parenthood in a Second Term
+ - [https://www.reddit.com/r/politics/comments/1fz06wh/jd_vance_forgets_to_stick_to_the_script_admits_he](https://www.reddit.com/r/politics/comments/1fz06wh/jd_vance_forgets_to_stick_to_the_script_admits_he)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:46:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fz06wh/jd_vance_forgets_to_stick_to_the_script_admits_he/"> <img src="https://external-preview.redd.it/K-RqpE-5mO1IdowgdsvMpjFbdzM47DweEgUWBCMfI5U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e41e1347e706b5973ba0627582c9ed27e94d1e02" alt="JD Vance Forgets to Stick to the Script, Admits He and Donald Trump Will Defund Planned Parenthood in a Second Term" title="JD Vance Forgets to Stick to the Script, Admits He and Donald Trump Will Defund Planned Parenthood in a Second Term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vanityfairmagazine"> /u/vanityfairmagazine </a> <br/> <span><a href="https://www.vanityfair.com/news/story/jd-vance-donald-trump-will-defund-planned-parenthood">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fz06wh/jd_vance_forgets_to_stick_to_the_script_admits_he/">[comments]</a></span> </td></tr></table>
+
+## Trump Gets Unhinged, Even for Him, Over Kamala Harris ‘60 Minutes’ Interview
+ - [https://www.reddit.com/r/politics/comments/1fyzx3l/trump_gets_unhinged_even_for_him_over_kamala](https://www.reddit.com/r/politics/comments/1fyzx3l/trump_gets_unhinged_even_for_him_over_kamala)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:34:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyzx3l/trump_gets_unhinged_even_for_him_over_kamala/"> <img src="https://external-preview.redd.it/JY6J7eWfnRKv7XztO_e5GAPQaHgJdnOchNVCGF1vvkE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=346770d65ee82105cf64872e3ec0e3eb1da15043" alt="Trump Gets Unhinged, Even for Him, Over Kamala Harris ‘60 Minutes’ Interview" title="Trump Gets Unhinged, Even for Him, Over Kamala Harris ‘60 Minutes’ Interview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drtolmn69"> /u/drtolmn69 </a> <br/> <span><a href="https://www.thedailybeast.com/trump-gets-unhinged-even-for-him-over-kamala-harris-60-minutes-interview">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyzx3l/trump_gets_unhinged_even_for_him_over_kamala/">[comments]</a></span> </td></tr></table>
+
+## FBI probe of Kavanaugh constrained by Trump White House, report finds
+ - [https://www.reddit.com/r/politics/comments/1fyzpro/fbi_probe_of_kavanaugh_constrained_by_trump_white](https://www.reddit.com/r/politics/comments/1fyzpro/fbi_probe_of_kavanaugh_constrained_by_trump_white)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:24:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyzpro/fbi_probe_of_kavanaugh_constrained_by_trump_white/"> <img src="https://external-preview.redd.it/V1g1OtqGVwSu0AWatLuOX3ECFRALfn-70P2lICgPn1A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed4809c6843fdaa93dea820d01ec521ecb4645fa" alt="FBI probe of Kavanaugh constrained by Trump White House, report finds" title="FBI probe of Kavanaugh constrained by Trump White House, report finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Newscast_Now"> /u/Newscast_Now </a> <br/> <span><a href="https://www.washingtonpost.com/politics/2024/10/08/kavanaugh-trump-white-house-fbi-report">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyzpro/fbi_probe_of_kavanaugh_constrained_by_trump_white/">[comments]</a></span> </td></tr></table>
+
+## Trump secretly sent covid tests to Putin during 2020 shortage, new book says
+ - [https://www.reddit.com/r/politics/comments/1fyzhxk/trump_secretly_sent_covid_tests_to_putin_during](https://www.reddit.com/r/politics/comments/1fyzhxk/trump_secretly_sent_covid_tests_to_putin_during)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:13:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyzhxk/trump_secretly_sent_covid_tests_to_putin_during/"> <img src="https://external-preview.redd.it/hxgl2zVfrTF4MbmTNuaQ07oa-SkXxb_3GDR93lnRmOE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ce6282ea7b14d62f6ab84cca6fd276cd9ae7443" alt="Trump secretly sent covid tests to Putin during 2020 shortage, new book says " title="Trump secretly sent covid tests to Putin during 2020 shortage, new book says " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/washingtonpost"> /u/washingtonpost </a> <br/> <span><a href="https://www.washingtonpost.com/politics/2024/10/08/bob-woodward-new-book-war-trump-putin-biden/?utm_campaign=wp_main&amp;utm_medium=social&amp;utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyzhxk/trump_secretly_sent_covid_tests_to_putin_during/">[comments]</a></span> </td></tr></table>
+
+## America Is So Ready for Kamala Harris
+ - [https://www.reddit.com/r/politics/comments/1fyzdb2/america_is_so_ready_for_kamala_harris](https://www.reddit.com/r/politics/comments/1fyzdb2/america_is_so_ready_for_kamala_harris)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:07:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyzdb2/america_is_so_ready_for_kamala_harris/"> <img src="https://external-preview.redd.it/RwGNmGtuv7Vf__-UJy0jpmsawavz1EpWCT7zlcJKXSs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b39100bdc918c58e3cf9626b9a845dfc0ec04f80" alt="America Is So Ready for Kamala Harris" title="America Is So Ready for Kamala Harris" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileFalseRepeat"> /u/WhileFalseRepeat </a> <br/> <span><a href="https://newrepublic.com/article/186644/america-ready-kamala-harris">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyzdb2/america_is_so_ready_for_kamala_harris/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk And Tucker Carlson Laugh Over Idea Of Kamala Harris Assassination
+ - [https://www.reddit.com/r/politics/comments/1fyyuft/elon_musk_and_tucker_carlson_laugh_over_idea_of](https://www.reddit.com/r/politics/comments/1fyyuft/elon_musk_and_tucker_carlson_laugh_over_idea_of)
+ - RSS feed: $source
+ - date published: 2024-10-08T12:41:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyyuft/elon_musk_and_tucker_carlson_laugh_over_idea_of/"> <img src="https://external-preview.redd.it/cvvIKcTOzrSGKmu2jKOLz-TzN5NW0QCdvbk4e6EsDn8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e9b13ad55fbe614ef6cd1f485d29e64faf184af" alt="Elon Musk And Tucker Carlson Laugh Over Idea Of Kamala Harris Assassination" title="Elon Musk And Tucker Carlson Laugh Over Idea Of Kamala Harris Assassination" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UWCG"> /u/UWCG </a> <br/> <span><a href="https://www.huffpost.com/entry/elon-musk-tucker-carlson-laugh-kamala-harris-assassination_n_6704f6e9e4b0b12bd23f9ce4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyyuft/elon_musk_and_tucker_carlson_laugh_over_idea_of/">[comments]</a></span> </td></tr></table>
+
+## Harris takes lead in NYT poll; is seen as more likely than Trump to represent change
+ - [https://www.reddit.com/r/politics/comments/1fyylpa/harris_takes_lead_in_nyt_poll_is_seen_as_more](https://www.reddit.com/r/politics/comments/1fyylpa/harris_takes_lead_in_nyt_poll_is_seen_as_more)
+ - RSS feed: $source
+ - date published: 2024-10-08T12:29:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyylpa/harris_takes_lead_in_nyt_poll_is_seen_as_more/"> <img src="https://external-preview.redd.it/El51BA8OTTXjhX7ycpsxpUVQzU5adL6efdG4YF4-LME.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f64431dd01ba79863618f41cf52b3d7b96ca625" alt="Harris takes lead in NYT poll; is seen as more likely than Trump to represent change" title="Harris takes lead in NYT poll; is seen as more likely than Trump to represent change" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plz-let-me-in"> /u/plz-let-me-in </a> <br/> <span><a href="https://thehill.com/homenews/campaign/4921203-kamala-harris-donald-trump-national-new-york-times-poll/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyylpa/harris_takes_lead_in_nyt_poll_is_seen_as_more/">[comments]</a></span> </td></tr></table>
+
+## /r/Politics' 2024 US Elections Live Thread, Part 34
+ - [https://www.reddit.com/r/politics/comments/1fyygn5/rpolitics_2024_us_elections_live_thread_part_34](https://www.reddit.com/r/politics/comments/1fyygn5/rpolitics_2024_us_elections_live_thread_part_34)
+ - RSS feed: $source
+ - date published: 2024-10-08T12:22:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyygn5/rpolitics_2024_us_elections_live_thread_part_34/"> <img src="https://b.thumbs.redditmedia.com/6VVMgGipe7XrGi7CSABeYGc5q-SEcQseXpVVbyKZs6U.jpg" alt="/r/Politics' 2024 US Elections Live Thread, Part 34" title="/r/Politics' 2024 US Elections Live Thread, Part 34" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PoliticsModeratorBot"> /u/PoliticsModeratorBot </a> <br/> <span><a href="https://www.reddit.com/live/1db9knzhqzdfp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyygn5/rpolitics_2024_us_elections_live_thread_part_34/">[comments]</a></span> </td></tr></table>
+
+## "The Apprentice": the film Trump doesn't want you to see
+ - [https://www.reddit.com/r/politics/comments/1fyycx8/the_apprentice_the_film_trump_doesnt_want_you_to](https://www.reddit.com/r/politics/comments/1fyycx8/the_apprentice_the_film_trump_doesnt_want_you_to)
+ - RSS feed: $source
+ - date published: 2024-10-08T12:17:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyycx8/the_apprentice_the_film_trump_doesnt_want_you_to/"> <img src="https://external-preview.redd.it/lumgktSEX-Vj9S7cw5Ax3NCfKvj-1xN9zCHV30GPHQQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b11fdb0d4d6e05bb7003b9674548c4515530af46" alt="&quot;The Apprentice&quot;: the film Trump doesn't want you to see" title="&quot;The Apprentice&quot;: the film Trump doesn't want you to see" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redditofthebanned"> /u/redditofthebanned </a> <br/> <span><a href="https://www.axios.com/2024/10/08/trump-apprentice-film">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyycx8/the_apprentice_the_film_trump_doesnt_want_you_to/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Will Propose Adding Home Care Benefit To Medicare
+ - [https://www.reddit.com/r/politics/comments/1fyy5b7/kamala_harris_will_propose_adding_home_care](https://www.reddit.com/r/politics/comments/1fyy5b7/kamala_harris_will_propose_adding_home_care)
+ - RSS feed: $source
+ - date published: 2024-10-08T12:06:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyy5b7/kamala_harris_will_propose_adding_home_care/"> <img src="https://external-preview.redd.it/uVzRSmU059hVeifybRnxgayRpefhs0Up-v-byxi1ik4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2195a4acb9b87a290ef8291fec369a5a06b960f1" alt="Kamala Harris Will Propose Adding Home Care Benefit To Medicare" title="Kamala Harris Will Propose Adding Home Care Benefit To Medicare" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IvnOooze"> /u/IvnOooze </a> <br/> <span><a href="https://www.huffpost.com/entry/kamala-harris-medicare-home-care_n_6704a28ce4b0b12bd23f785f">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyy5b7/kamala_harris_will_propose_adding_home_care/">[comments]</a></span> </td></tr></table>
+
+## Michael Moore - who correctly called the 2016 election result - says ‘Trump is toast’ | Moore claims ‘vast majority of the country’ wants Trump out
+ - [https://www.reddit.com/r/politics/comments/1fyxh6r/michael_moore_who_correctly_called_the_2016](https://www.reddit.com/r/politics/comments/1fyxh6r/michael_moore_who_correctly_called_the_2016)
+ - RSS feed: $source
+ - date published: 2024-10-08T11:28:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyxh6r/michael_moore_who_correctly_called_the_2016/"> <img src="https://external-preview.redd.it/8nc6BeGWgJ6QoUHSEr4MF64fQs2ReqlW8K8eCj4wUXE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21cd68aa377be80898be566702cb7a9f79a2b021" alt="Michael Moore - who correctly called the 2016 election result - says ‘Trump is toast’ | Moore claims ‘vast majority of the country’ wants Trump out" title="Michael Moore - who correctly called the 2016 election result - says ‘Trump is toast’ | Moore claims ‘vast majority of the country’ wants Trump out" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br/> <span><a href="https://www.the-independent.com/news/world/americas/us-politics/michael-moore-prediction-president-trump-2024-b2625420.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyxh6r/michael_moore_who_correctly_calle
+
+## Dark MAGA? More like 'Dork MAGA' — Elon Musk’s Trump rally hype eclipsed by cringe
+ - [https://www.reddit.com/r/politics/comments/1fywp6e/dark_maga_more_like_dork_maga_elon_musks_trump](https://www.reddit.com/r/politics/comments/1fywp6e/dark_maga_more_like_dork_maga_elon_musks_trump)
+ - RSS feed: $source
+ - date published: 2024-10-08T10:39:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fywp6e/dark_maga_more_like_dork_maga_elon_musks_trump/"> <img src="https://external-preview.redd.it/R2Tq3DPb0TnWjcMubJwrpXp6fPE3jUteyM5qXsde6Ic.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a5f69d50d4b8b90a8c57f93ca14692d6902153d" alt="Dark MAGA? More like 'Dork MAGA' — Elon Musk’s Trump rally hype eclipsed by cringe" title="Dark MAGA? More like 'Dork MAGA' — Elon Musk’s Trump rally hype eclipsed by cringe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coffee_n_wifi"> /u/Coffee_n_wifi </a> <br/> <span><a href="https://www.msnbc.com/msnbc/amp-video/mmvo221147717761">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fywp6e/dark_maga_more_like_dork_maga_elon_musks_trump/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump fact-checked by Laura Ingraham during Fox News interview
+ - [https://www.reddit.com/r/politics/comments/1fywhhr/donald_trump_factchecked_by_laura_ingraham_during](https://www.reddit.com/r/politics/comments/1fywhhr/donald_trump_factchecked_by_laura_ingraham_during)
+ - RSS feed: $source
+ - date published: 2024-10-08T10:25:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fywhhr/donald_trump_factchecked_by_laura_ingraham_during/"> <img src="https://external-preview.redd.it/600UzbG_5LxuyYa7xYbB8h0MODJ1g4OvwQZF5MONMU8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cc53ca5b4fbed3187806be828f515861625c90c" alt="Donald Trump fact-checked by Laura Ingraham during Fox News interview" title="Donald Trump fact-checked by Laura Ingraham during Fox News interview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.newsweek.com/donald-trump-fact-checked-laura-ingraham-during-fox-news-interview-1965444">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fywhhr/donald_trump_factchecked_by_laura_ingraham_during/">[comments]</a></span> </td></tr></table>
+
+## "I'm behind the Trump-Russia dossier. We gave the FBI more than people know"
+ - [https://www.reddit.com/r/politics/comments/1fywfiw/im_behind_the_trumprussia_dossier_we_gave_the_fbi](https://www.reddit.com/r/politics/comments/1fywfiw/im_behind_the_trumprussia_dossier_we_gave_the_fbi)
+ - RSS feed: $source
+ - date published: 2024-10-08T10:21:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fywfiw/im_behind_the_trumprussia_dossier_we_gave_the_fbi/"> <img src="https://external-preview.redd.it/PlGmAIBVS8CAgab2twhrMLbCHw4EaC55l8_og9AO_Eo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28913926fd4e57c1d9e8a1fd16ed37f9bf030401" alt="&quot;I'm behind the Trump-Russia dossier. We gave the FBI more than people know&quot;" title="&quot;I'm behind the Trump-Russia dossier. We gave the FBI more than people know&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/christopher-steele-trump-russia-putin-election-dossier-fbi-1963717">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fywfiw/im_behind_the_trumprussia_dossier_we_gave_the_fbi/">[comments]</a></span> </td></tr></table>
+
+## "We didn’t answer": DeSantis refuses to take calls from Kamala Harris as another hurricane looms
+ - [https://www.reddit.com/r/politics/comments/1fyweoh/we_didnt_answer_desantis_refuses_to_take_calls](https://www.reddit.com/r/politics/comments/1fyweoh/we_didnt_answer_desantis_refuses_to_take_calls)
+ - RSS feed: $source
+ - date published: 2024-10-08T10:19:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.salon.com/2024/10/07/we-didnt-answer-desantis-refuses-to-take-calls-from-kamala-harris-as-another-hurricane-looms/?in_brief=true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyweoh/we_didnt_answer_desantis_refuses_to_take_calls/">[comments]</a></span>
+
+## Sen. Thom Tillis Is Angry Harris Campaign Quoted Him Correctly
+ - [https://www.reddit.com/r/politics/comments/1fyvu2u/sen_thom_tillis_is_angry_harris_campaign_quoted](https://www.reddit.com/r/politics/comments/1fyvu2u/sen_thom_tillis_is_angry_harris_campaign_quoted)
+ - RSS feed: $source
+ - date published: 2024-10-08T09:37:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyvu2u/sen_thom_tillis_is_angry_harris_campaign_quoted/"> <img src="https://external-preview.redd.it/wVcq85XJWjVMnO835EMRxeot9u4dALPuMRd1--UnA0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fad6bd2aa92deda5c04015afa5d2553e9a8c25f" alt="Sen. Thom Tillis Is Angry Harris Campaign Quoted Him Correctly" title="Sen. Thom Tillis Is Angry Harris Campaign Quoted Him Correctly" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MobileWisdom"> /u/MobileWisdom </a> <br/> <span><a href="https://www.huffpost.com/entry/thom-tillis-kamala-harris-political-posturing-hurricane-relief_n_670431f5e4b0924ce9db16ad">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyvu2u/sen_thom_tillis_is_angry_harris_campaign_quoted/">[comments]</a></span> </td></tr></table>
+
+## Florida GOP Rep. who voted against FEMA funding calls for aid before Milton
+ - [https://www.reddit.com/r/politics/comments/1fyv37s/florida_gop_rep_who_voted_against_fema_funding](https://www.reddit.com/r/politics/comments/1fyv37s/florida_gop_rep_who_voted_against_fema_funding)
+ - RSS feed: $source
+ - date published: 2024-10-08T08:40:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyv37s/florida_gop_rep_who_voted_against_fema_funding/"> <img src="https://external-preview.redd.it/xrCWs3BOVNnRUeif2fH6AALpGY4jRhXrXAB2LyQDEBw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6f30483815c2ce459e065e89f23c1a9c1db7fe9" alt="Florida GOP Rep. who voted against FEMA funding calls for aid before Milton" title="Florida GOP Rep. who voted against FEMA funding calls for aid before Milton" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CWMMC"> /u/CWMMC </a> <br/> <span><a href="https://www.newsweek.com/florida-rep-voted-against-fema-funding-aid-hurricane-milton-anna-luna-1965416">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyv37s/florida_gop_rep_who_voted_against_fema_funding/">[comments]</a></span> </td></tr></table>
+
+## Congress to Question Supreme Court Over Multiple Corruption Scandals
+ - [https://www.reddit.com/r/politics/comments/1fysfcq/congress_to_question_supreme_court_over_multiple](https://www.reddit.com/r/politics/comments/1fysfcq/congress_to_question_supreme_court_over_multiple)
+ - RSS feed: $source
+ - date published: 2024-10-08T05:19:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fysfcq/congress_to_question_supreme_court_over_multiple/"> <img src="https://external-preview.redd.it/WXm7rkYXlHkI-TFbq1LwdtHvYREvUAaD7TNv8Eyp7yM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e431a3d5d1ed994f3e4a20d55879bac12e8a85c" alt="Congress to Question Supreme Court Over Multiple Corruption Scandals " title="Congress to Question Supreme Court Over Multiple Corruption Scandals " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Relative-Ability8179"> /u/Relative-Ability8179 </a> <br/> <span><a href="https://www.msnbc.com/deadline-white-house/deadline-legal-blog/ocasio-cortez-raskin-supreme-court-alito-thomas-roberts-rcna174240">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fysfcq/congress_to_question_supreme_court_over_multiple/">[comments]</a></span> </td></tr></table>
+
+## Harris calls Trump 'incredibly irresponsible' for spreading misinformation about Helene response
+ - [https://www.reddit.com/r/politics/comments/1fypyul/harris_calls_trump_incredibly_irresponsible_for](https://www.reddit.com/r/politics/comments/1fypyul/harris_calls_trump_incredibly_irresponsible_for)
+ - RSS feed: $source
+ - date published: 2024-10-08T02:53:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fypyul/harris_calls_trump_incredibly_irresponsible_for/"> <img src="https://external-preview.redd.it/_OtmWwky9oFSfKcFX2CewP1KGiLf1qOWqiYtG6bNlcc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=414aaa4269521a7ee1d96915b99d0efe304a4447" alt="Harris calls Trump 'incredibly irresponsible' for spreading misinformation about Helene response" title="Harris calls Trump 'incredibly irresponsible' for spreading misinformation about Helene response" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Press245"> /u/Press245 </a> <br/> <span><a href="https://apnews.com/article/trump-harris-hurricane-helene-misinformation-552e413dfb6c1b3e37eca0d2114668ea">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fypyul/harris_calls_trump_incredibly_irresponsible_for/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris 60 Minutes interview: she was disarmingly human
+ - [https://www.reddit.com/r/politics/comments/1fyp3lj/kamala_harris_60_minutes_interview_she_was](https://www.reddit.com/r/politics/comments/1fyp3lj/kamala_harris_60_minutes_interview_she_was)
+ - RSS feed: $source
+ - date published: 2024-10-08T02:08:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyp3lj/kamala_harris_60_minutes_interview_she_was/"> <img src="https://external-preview.redd.it/UMzIF1ZLbDIxLTHkXWrYMxptnP-3bByuR22SueHRdnU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=003193a9934e0a64e51b8e56482842eed74a4a25" alt="Kamala Harris 60 Minutes interview: she was disarmingly human" title="Kamala Harris 60 Minutes interview: she was disarmingly human" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/elliottbaytrail"> /u/elliottbaytrail </a> <br/> <span><a href="https://www.thetimes.com/world/us-world/article/kamala-harris-60-minutes-cbs-interview-79c706mcp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyp3lj/kamala_harris_60_minutes_interview_she_was/">[comments]</a></span> </td></tr></table>
+
+## Mike Johnson says there’s no rush to approve FEMA aid
+ - [https://www.reddit.com/r/politics/comments/1fynzrx/mike_johnson_says_theres_no_rush_to_approve_fema](https://www.reddit.com/r/politics/comments/1fynzrx/mike_johnson_says_theres_no_rush_to_approve_fema)
+ - RSS feed: $source
+ - date published: 2024-10-08T01:11:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fynzrx/mike_johnson_says_theres_no_rush_to_approve_fema/"> <img src="https://external-preview.redd.it/Ga8WbcCTAlHg6JPdDZxW1cS5pRqSHfTckF6UzEEVyFM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28a1fc154c11204cf3f64138d8f78f012c74fbb0" alt="Mike Johnson says there’s no rush to approve FEMA aid" title="Mike Johnson says there’s no rush to approve FEMA aid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Over_Cash9601"> /u/Over_Cash9601 </a> <br/> <span><a href="https://www.huffpost.com/entry/mike-johnson-congress-wont-vote-early-hurricane-relief_n_6703e86fe4b097cbbcb61d21">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fynzrx/mike_johnson_says_theres_no_rush_to_approve_fema/">[comments]</a></span> </td></tr></table>
+
+## ’60 Minutes’ details Trump canceling primetime interview
+ - [https://www.reddit.com/r/politics/comments/1fyng15/60_minutes_details_trump_canceling_primetime](https://www.reddit.com/r/politics/comments/1fyng15/60_minutes_details_trump_canceling_primetime)
+ - RSS feed: $source
+ - date published: 2024-10-08T00:44:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyng15/60_minutes_details_trump_canceling_primetime/"> <img src="https://external-preview.redd.it/Q_QjGeIKMlnYFYNn-9J8yAQVjU75kRd4qD7KwHehGFo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=faf874559b7fb2787c3c1792dd3d2bfe2aa7bacf" alt="’60 Minutes’ details Trump canceling primetime interview" title="’60 Minutes’ details Trump canceling primetime interview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/elliottbaytrail"> /u/elliottbaytrail </a> <br/> <span><a href="https://thehill.com/homenews/campaign/4920827-60-minutes-trump-cancel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyng15/60_minutes_details_trump_canceling_primetime/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris' viral interview appearances are really pissing off legacy media
+ - [https://www.reddit.com/r/politics/comments/1fyn74w/kamala_harris_viral_interview_appearances_are](https://www.reddit.com/r/politics/comments/1fyn74w/kamala_harris_viral_interview_appearances_are)
+ - RSS feed: $source
+ - date published: 2024-10-08T00:31:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1fyn74w/kamala_harris_viral_interview_appearances_are/"> <img src="https://external-preview.redd.it/CLKdlzMJFlU7Ci2yt5Ere6eO75z9dBqzhcjLRid63yg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b30d449461fa943ba45d22956e4be591ea5e83bf" alt="Kamala Harris' viral interview appearances are really pissing off legacy media" title="Kamala Harris' viral interview appearances are really pissing off legacy media" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sfgate"> /u/sfgate </a> <br/> <span><a href="https://www.sfgate.com/politics/article/kamala-harris-interviews-are-pissing-off-the-media-19821934.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1fyn74w/kamala_harris_viral_interview_appearances_are/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,76 @@
+# Source:Argentina - Buenos Aires Times, URL:https://www.batimes.com.ar/feed, language:en
+
+## 'Diego Lives': Immersive Maradona exhibit hits Barcelona
+ - [https://www.batimes.com.ar/news/sports/diego-lives-immersive-maradona-exhibit-hits-barcelona.phtml](https://www.batimes.com.ar/news/sports/diego-lives-immersive-maradona-exhibit-hits-barcelona.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T23:48:03+00:00
+
+<p><img src="https://fotos.perfil.com/2024/10/08/trim/540/304/diego-vive-exhibition-1888061.jpg" alt="diego vive exhibition" /></p>'Diego Vive' exhibition sets up shop in the Spanish city where Maradona spent two unhappy, injury-marred, seasons in the early 1980s. <a href="https://www.batimes.com.ar/news/sports/diego-lives-immersive-maradona-exhibit-hits-barcelona.phtml">Leer más</a>
+
+## Workers launch vigil to save mental health hospital from Milei’s cutbacks
+ - [https://www.batimes.com.ar/news/argentina/government-closes-laura-bonaparte-mental-health-hospital.phtml](https://www.batimes.com.ar/news/argentina/government-closes-laura-bonaparte-mental-health-hospital.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T20:31:00+00:00
+
+<p><img src="https://fotos.perfil.com/2024/10/07/trim/540/304/laura-bonaparte-hospital-1887237.jpg" alt="LAURA BONAPARTE HOSPITAL" /></p>President Javier Milei’s chainsaw hits Bonaparte Hospital in Parque Patricios; Workers stage vigil against alleged “closure” of hospital as Health Ministry states “restructuring process” has begun.
+ <a href="https://www.batimes.com.ar/news/argentina/government-closes-laura-bonaparte-mental-health-hospital.phtml">Leer más</a>
+
+## UN warns over flooding, drought with world's water cycle becoming ever more erratic
+ - [https://www.batimes.com.ar/news/world/un-warns-erratic-water-cycles-will-further-lead-to-intense-flooding-and-droughts-around-the-world.phtml](https://www.batimes.com.ar/news/world/un-warns-erratic-water-cycles-will-further-lead-to-intense-flooding-and-droughts-around-the-world.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T18:20:00+00:00
+
+<p><img src="https://fotos.perfil.com/2024/10/08/trim/540/304/drought-in-amazon-1887888.jpg" alt="Drought in Amazon" /></p>Several tributaries of the Amazon River, one of the longest and most abundant in the world, are in a "critical situation of water scarcity" due to the historic drought affecting Brazil. One of the many water issues plaguing the world right now. <a href="https://www.batimes.com.ar/news/world/un-warns-erratic-water-cycles-will-further-lead-to-intense-flooding-and-droughts-around-the-world.phtml">Leer más</a>
+
+## Pimco, Barings question how soon Argentina can sell bonds again
+ - [https://www.batimes.com.ar/news/economy/pimco-barings-question-how-soon-argentina-can-sell-bonds-again.phtml](https://www.batimes.com.ar/news/economy/pimco-barings-question-how-soon-argentina-can-sell-bonds-again.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T16:04:01+00:00
+
+<p><img src="https://fotos.perfil.com/2024/09/25/trim/540/304/economy-minister-luis-caputo-1879284.jpg" alt="Economy Minister Luis Caputo." /></p>Economy Minister Luis Caputo told investors recently that the government expects to sell bonds abroad again by January 2026. For asset managers, however, that's a long shot.
+ <a href="https://www.batimes.com.ar/news/economy/pimco-barings-question-how-soon-argentina-can-sell-bonds-again.phtml">Leer más</a>
+
+## 70% of workers in Argentina were earning under 550,000 pesos a month in June
+ - [https://www.batimes.com.ar/news/economy/70-of-workers-in-argentina-were-earning-under-550000-pesos-a-month-in-june.phtml](https://www.batimes.com.ar/news/economy/70-of-workers-in-argentina-were-earning-under-550000-pesos-a-month-in-june.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:17:51+00:00
+
+<p><img src="https://fotos.perfil.com/2024/09/19/trim/540/304/construction-workers-1875749.jpg" alt="Construction workers." /></p>Seven out of every 10 households were earning less than a million pesos a month in June, according to INDEC data. <a href="https://www.batimes.com.ar/news/economy/70-of-workers-in-argentina-were-earning-under-550000-pesos-a-month-in-june.phtml">Leer más</a>
+
+## Day after October 7 anniversary, Israel sends thousands more troops into Lebanon
+ - [https://www.batimes.com.ar/news/world/israel-sends-thousands-more-troops-into-lebanon.phtml](https://www.batimes.com.ar/news/world/israel-sends-thousands-more-troops-into-lebanon.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:00:42+00:00
+
+<p><img src="https://fotos.perfil.com/2024/10/03/trim/540/304/israel-bombs-beirut-1885007.jpg" alt="Israel Bombs Beirut " /></p>Israel ramps its ground offensive against Hezbollah along Lebanon's southern coast. <a href="https://www.batimes.com.ar/news/world/israel-sends-thousands-more-troops-into-lebanon.phtml">Leer más</a>
+
+## US President Joe Biden to meet European leaders in Berlin for Ukraine, Middle East talks
+ - [https://www.batimes.com.ar/news/world/us-president-joe-biden-to-meet-european-leaders-in-berlin-to-discuss-the-ukraine-and-the-middle-east.phtml](https://www.batimes.com.ar/news/world/us-president-joe-biden-to-meet-european-leaders-in-berlin-to-discuss-the-ukraine-and-the-middle-east.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T11:17:37+00:00
+
+<p><img src="https://fotos.perfil.com/2023/02/23/trim/540/304/ukraine-conflict-1514976.jpg" alt="Ukraine Conflict" /></p>US President Joe Biden will meet the leaders of Germany, France and the United Kingdom in Berlin on Saturday to discuss the conflicts in Ukraine and the Middle East. <a href="https://www.batimes.com.ar/news/world/us-president-joe-biden-to-meet-european-leaders-in-berlin-to-discuss-the-ukraine-and-the-middle-east.phtml">Leer más</a>
+
+## Hurricane Milton approaches Florida with 249 km/hr winds
+ - [https://www.batimes.com.ar/news/world/category-5-hurricane-milton-barrels-toward-florida-with-249-kilometer-per-hour-winds.phtml](https://www.batimes.com.ar/news/world/category-5-hurricane-milton-barrels-toward-florida-with-249-kilometer-per-hour-winds.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T10:46:03+00:00
+
+<p><img src="https://fotos.perfil.com/2024/10/08/trim/540/304/florida-braces-for-hurricane-miltons-250-km-winds-1887594.jpg" alt="Florida braces for hurricane Milton's 250 Km winds" /></p>Hurricane Milton is set to approach the Florida peninsula as a catastrophic Category 4 storm, bearing down on a region still struggling to recover from Helene’s devastation.
+ <a href="https://www.batimes.com.ar/news/world/category-5-hurricane-milton-barrels-toward-florida-with-249-kilometer-per-hour-winds.phtml">Leer más</a>
+
+## Buenos Aires City reports September inflation rate of 4%
+ - [https://www.batimes.com.ar/news/economy/buenos-aires-city-inflation-at-4-percent.phtml](https://www.batimes.com.ar/news/economy/buenos-aires-city-inflation-at-4-percent.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T09:38:13+00:00
+
+<p><img src="https://fotos.perfil.com/2024/03/08/trim/540/304/inflation-prices-consumers-shopping-1767226.jpg" alt="inflation, prices, consumers, shopping, " /></p>There was a slight slowdown from 4.2 percent in August. <a href="https://www.batimes.com.ar/news/economy/buenos-aires-city-inflation-at-4-percent.phtml">Leer más</a>
+
+## Argentines commemorate first anniversary of brutal Hamas attack
+ - [https://www.batimes.com.ar/news/argentina/argentines-commemorate-first-anniversary-of-brutal-hamas-attack.phtml](https://www.batimes.com.ar/news/argentina/argentines-commemorate-first-anniversary-of-brutal-hamas-attack.phtml)
+ - RSS feed: $source
+ - date published: 2024-10-08T00:51:25+00:00
+
+<p><img src="https://fotos.perfil.com/2024/10/08/trim/540/304/israeli-demonstraion-october-7-1887439.jpg" alt="Israeli demonstraion, October 7" /></p>Thousands of people gathered in Buenos Aires on Monday to mark the first anniversary of Hamas’ brutal attack on Israel last October 7.
+ <a href="https://www.batimes.com.ar/news/argentina/argentines-commemorate-first-anniversary-of-brutal-hamas-attack.phtml">Leer más</a>
+

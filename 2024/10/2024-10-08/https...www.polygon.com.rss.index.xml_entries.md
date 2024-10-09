@@ -1,0 +1,230 @@
+# Source:Polygon -  All, URL:https://www.polygon.com/rss/index.xml, language:en
+
+## The October Prime Day deals Polygon readers can&#8217;t get enough of
+ - [https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals](https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals)
+ - RSS feed: $source
+ - date published: 2024-10-08T21:20:45+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/reader-picks-oct-prime-day.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">We’re in the midst of a busy <a href="https://www.polygon.com/amazon-prime-day">October Prime Day</a>, where we’ve spent countless collective hours sifting through literally thousands of deals to find a few hundred we think are worth your time. And from there, we’ve noticed a few that stood out as the best of the best, according to our favorite tastemakers out there — you, dear reader.</p>
+
+<p class="has-text-align-none">Looking at the most popular deals among our readers, it’s clear that folks are gearing up for the changing of the seasons. Board games like <em><a href="https://www.amazon.com/Board-Game-Mosaic-Tile-Placement-Next-Move/dp/B077MZ2MPW/?tag=
+
+## All new Exotics in Destiny 2: Revenant
+ - [https://www.polygon.com/destiny-2-guide-walkthrough/459114/revenant-exotics-list](https://www.polygon.com/destiny-2-guide-walkthrough/459114/revenant-exotics-list)
+ - RSS feed: $source
+ - date published: 2024-10-08T21:16:49+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="A group of Guardians stand around using the new Exotic grenade launcher in Revenant" data-caption="" data-portal-copyright="Image: Bungie" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/EP2_Revenant_Slayer_Baron_Lineup_WJ_01_A_Websafe.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">A number of <strong>new Exotics</strong> were introduced in <a href="https://www.polygon.com/news/459113/destiny-2-episode-revenant-patch-notes">Revenant</a>, <a href="https://www.polygon.com/destiny-2-guide-walkthrough"><em>Destiny 2</em></a>’s. As of act 1, there are at least three armor Exotics and two weapons. And while a surprise Exotic could always pop up, we know for certain that an Exotic mission will be available sometime during Revenant — likely in act 3, like in Echoes.</p>
+
+<p class="has-text-align-none">In this<em> Destiny 2</
+
+## Boo gets its own glow in the dark Switch controller in time for Halloween
+ - [https://www.polygon.com/deals/462847/boo-glow-dark-pdp-nintedo-switch-controller](https://www.polygon.com/deals/462847/boo-glow-dark-pdp-nintedo-switch-controller)
+ - RSS feed: $source
+ - date published: 2024-10-08T20:34:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="Graphic: Ana Diaz/Polygon | Image source: PDP/Nintendo" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/polygon-mosaic-6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Most Mario players know that the enemy called Boo is a bit mischievous. Face one head-on and the ghost will freeze with fright. However, if you turn your back it will callously hunt you down. Now, this new <a href="https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games">Nintendo Switch</a> controller somehow captures both the bashful and the more devious sides of the character with a clever glow in the dark design.</p>
+
+<p class="has-text-align-none">The Boo wireless Nintendo Switch controller is made by PDP, the company also responsible for the <a href="https://www.polygon.com/deal
+
+## Pinball Spire comes so close to nailing the ‘pinballvania’
+ - [https://www.polygon.com/impressions/463177/pinball-spire-steam-pc](https://www.polygon.com/impressions/463177/pinball-spire-steam-pc)
+ - RSS feed: $source
+ - date published: 2024-10-08T20:23:29+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="A screenshot of a level from Pinball Spire" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/pinball_spire.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><em>Pinball Spire</em> blends two of my favorite game genres: pinball and <a href="https://www.polygon.com/what-to-play/24130852/best-metroidvania-games-play-nintendo-switch-steam-playstation-xbox-pc">Metroidvania-style</a> video games. That rare combination was explored in 2018’s <a href="https://www.polygon.com/features/2018/10/10/17952674/the-12-best-indie-metroidvania-games"><em>Yoku’s Island Express</em></a>, but <em>Pinball Spire</em> takes a different approach to the “pinballvania” idea — it’s more clearly inspired by Castlevania than Metroid, treating its pinball playfields like a series of medieval dungeons to conquer
+
+## ‘Like new’ PlayStation Portals are $60 off through Amazon for Prime Day
+ - [https://www.polygon.com/amazon-prime-day/463068/playstation-ps-portal-deal-like-new-renewed](https://www.polygon.com/amazon-prime-day/463068/playstation-ps-portal-deal-like-new-renewed)
+ - RSS feed: $source
+ - date published: 2024-10-08T19:12:47+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/playstation_portal_god_of_war_wide.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Discounts on the <a href="https://www.polygon.com/reviews/23956007/playstation-portal-review-remote-play-wifi-ethernet">PlayStation Portal</a>, Sony’s remote player for the PS5 with an 8-inch screen, are nearly impossible to come by. We’re surprised that Amazon has one for <a href="https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games">October Prime Day</a>, but there’s a catch. The company has a large stock of “like new” units that were returned, and it’s clearing out its stock at the more reasonable price of $141 (these are normally $199.99 new) for Prime members. All you need to do to get this discount is <a
+
+## Ruggable is having a 20% off sale, so you can save on its classy Star Wars rugs
+ - [https://www.polygon.com/amazon-prime-day/462475/ruggable-star-wars-bridgerton-disney-toy-story](https://www.polygon.com/amazon-prime-day/462475/ruggable-star-wars-bridgerton-disney-toy-story)
+ - RSS feed: $source
+ - date published: 2024-10-08T14:30:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/ruggableSW.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Ruggable is one of the most popular online rug retailers, partially because its rug designs are great and also because the rugs themselves are easy to wash. As such, Ruggable doesn’t usually host discounts, but it’s getting into the <a href="https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games">October Prime Day</a> spirit by offering a sitewide 20% discount on most rugs, whether you want a slim runner for your hallway, a round rug for underneath your table, or a large, room-spanning rug to tie everything together. They’re all 20% off when you enter the code <strong>JOY24</strong> at checkout.</p>
+
+<p class="has-text-align-none">Rugs?
+
+## The original Red Dead Redemption is finally coming to PC
+ - [https://www.polygon.com/news/23171877/red-dead-redemption-1-pc-steam-release-date](https://www.polygon.com/news/23171877/red-dead-redemption-1-pc-steam-release-date)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:19:11+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="Image: Rockstar Games" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25445533/red_dead_redemption_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><a href="https://www.polygon.com/red-dead-redemption/2018/10/23/17986758/red-dead-redemption-best-western-game"><em>Red Dead Redemption</em></a> is headed to Windows PC on Oct. 29, <a href="https://www.rockstargames.com/newswire/article/o3314a19koo147/red-dead-redemption-and-undead-nightmare-coming-to-pc-october-29">Rockstar Games announced</a> Tuesday. </p>
+
+<p class="has-text-align-none">The port of the 2010 open-world Western adventure game follows recent re-releases of <a href="https://www.polygon.com/23778291/red-dead-redemption-remaster-release-date-ps4-switch"><em>Red Dead Redemption</em> for PlaySt
+
+## Joker: Folie à Deux flips the script on Harley Quinn — but not on Todd Phillips’ problems writing women
+ - [https://www.polygon.com/analysis/462109/joker-folie-a-deux-harley-quinn-lady-gaga](https://www.polygon.com/analysis/462109/joker-folie-a-deux-harley-quinn-lady-gaga)
+ - RSS feed: $source
+ - date published: 2024-10-08T13:02:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/rev-1-JFAD-NT-25510r_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">Todd Phillips’ <a href="https://www.polygon.com/reviews/2019/10/3/20893138/joker-review-joaquin-phoenix-robert-de-niro-todd-phillips"><em>Joker</em></a> sequel, <a href="https://www.polygon.com/movies/460843/joker-2-review-folie-a-deux"><em>Joker: Folie à Deux</em></a>, is catching flak from fans for deviating from perceived canon — both the various comics versions of longtime Batman villain Joker, and what fans thought they were seeing in the earlier film. But that lack of fidelity should be the movie’s greatest strength — especially when it comes to retooling Harley Quinn. Phillips, who’s had notable problems writing women who are 
+
+## The Super Mario 64 Lego set is discounted to its lowest price yet for Prime Day
+ - [https://www.polygon.com/amazon-prime-day/461723/super-mario-64-lego-question-mark-block-prime-day-sale](https://www.polygon.com/amazon-prime-day/461723/super-mario-64-lego-question-mark-block-prime-day-sale)
+ - RSS feed: $source
+ - date published: 2024-10-08T12:00:00+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Mario-64-Lego.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">The massive Lego <em>Super Mario 64</em> Question Mark Block is a 2,064-piece tribute to the red plumber&#8217;s inaugural three-dimensional adventure and is currently available for its lowest price ever at Amazon. Typically $200, this set is currently available <a href="https://www.amazon.com/LEGO-Question-Collectible-Interactive-Separately/dp/B09FM6K3P4">for just $139.99</a> as part of <a href="https://www.polygon.com/amazon-prime-day">October Prime Day</a>.</p>
+
+<p class="has-text-align-none">The Question Mark Block set cleverly flips open to reveal several miniature replicas of environments and characters from <em>Super Mario 64, </em>including King Bob-omb, Big M
+
+## The best Magic: The Gathering deals of October Prime Day
+ - [https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)
+ - RSS feed: $source
+ - date published: 2024-10-08T09:43:57+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Best-MTG-deals-oct-prime-day.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">We know why you&#8217;re here. I mean, it&#8217;s kind of obvious from the headline you clicked on —&nbsp;you&#8217;re here to find the best deals on <em>Magic: The Gathering</em> for <a href="https://www.polygon.com/amazon-prime-day">October Prime Day</a>. And we aim to please!</p>
+
+<p class="has-text-align-none">Compared with <a href="https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering">July Prime Day</a>, this week&#8217;s sales follow a &#8220;less is more&#8221; motto, i.e. fewer picks but steep discounts. The big winners this time are the <a href="https://www.amazon.com/dp/B0CHWP2K9Z?tag=polygon05-20"><em>Ravnica Remas
+
+## The best October Prime Day deals
+ - [https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
+ - RSS feed: $source
+ - date published: 2024-10-08T09:23:16+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Oct-Prime-Day-best-deals.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><a href="https://www.polygon.com/amazon-prime-day">October Prime Day 2024</a> is in full effect, with awesome discounts on some of our favorite games, accessories, collectibles, toys, and more —&nbsp;all on sale through Oct. 9.</p>
+
+<p class="has-text-align-none">Highlights include deals on the <a href="https://www.amazon.com/dp/B0CL5KNB9M?tag=polygon05-20">slim PlayStation 5 Digital Edition</a>, the <a href="https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-System-Headset/dp/B09ZWKD9TF">Steelseries Arctis Nova Pro</a> wireless headset, and <em><a href="https://www.amazon.com/dp/B08LVZ71JW?tag=polygon05-20">Descent: Legends of the Dark</a></em>, as w
+
+## The best board game deals of October Prime Day
+ - [https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)
+ - RSS feed: $source
+ - date published: 2024-10-08T09:16:35+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Best-Board-Games-Oct-Prime-day-collage.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Over the last several years, Amazon&#8217;s Prime Day sales have included some extraordinary deals for fans of tabletop gaming, and while these October Prime Day offerings are fewer than July’s sale, there are absolutely some great board game deals to be found.</p>
+
+<p class="has-text-align-none">The discounts fall squarely in the realm of what we like to call “modern classics” like <em><a href="https://www.amazon.com/gp/product/B08F65MX4L">7 Wonders</a> </em>and <em><a href="https://www.amazon.com/dp/B077MZ2MPW">Azul</a></em> — excellent board games from major publishers that came out in the last 10-15 years. We’ve also found more than few gr
+
+## The best gaming deals of October Prime Day
+ - [https://www.polygon.com/amazon-prime-day/455237/best-gaming-deals-video-games](https://www.polygon.com/amazon-prime-day/455237/best-gaming-deals-video-games)
+ - RSS feed: $source
+ - date published: 2024-10-08T09:15:48+00:00
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/Best-gaming-deals-Oct-Prime-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Gamers of all stripes, you don’t need to wait until Black Friday to start your holiday shopping. That’s because Amazon’s <a href="https://www.polygon.com/e/455235">October Prime Day</a> is happening now through Oct. 9, and we’re seeing good discounts around games and accessories across all platforms. </p>
+
+<p class="has-text-align-none">Whether you’re looking for upgrades for your PC or Steam Deck, or you want some games and accessories for your Xbox Series X, Nintendo Switch, or PlayStation 5, this roundup is full of deals on the products we know you’ll like. Of note, recent games like <em><a href="https://www.amazon.com/dp/B0D18PNXNL">Star Wars Outla
+
