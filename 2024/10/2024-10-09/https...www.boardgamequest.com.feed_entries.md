@@ -1,0 +1,16 @@
+# Source:Board Game Quest, URL:https://www.boardgamequest.com/feed, language:en-US
+
+## Sentinels of the Multiverse: Definitive Edition Review
+ - [https://www.boardgamequest.com/sentinels-of-the-multiverse-definitive-edition-review](https://www.boardgamequest.com/sentinels-of-the-multiverse-definitive-edition-review)
+ - RSS feed: $source
+ - date published: 2024-10-09T15:15:13+00:00
+
+<img width="640" height="640" src="https://www.boardgamequest.com/wp-content/uploads/2024/09/Sentinels-of-the-Multiverse-Definitive-Edition.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Sentinels of the Multiverse: Definitive Edition" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.boardgamequest.com/wp-content/uploads/2024/09/Sentinels-of-the-Multiverse-Definitive-Edition.jpg 758w, https://www.boardgamequest.com/wp-content/uploads/2024/09/Sentinels-of-the-Multiverse-Definitive-Edition-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2024/09/Sentinels-of-the-Multiverse-Definitive-Edition-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2024/09/Sentinels-of-the-Multiverse-Definitive-Edition-640x640.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" />Scenario-driven cooperative card games are an enticing proposition, but also a potential caus
+
+## The Light in the Mist Review
+ - [https://www.boardgamequest.com/the-light-in-the-mist-review](https://www.boardgamequest.com/the-light-in-the-mist-review)
+ - RSS feed: $source
+ - date published: 2024-10-09T12:53:05+00:00
+
+<img width="640" height="932" src="https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Light-in-the-Mist-703x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="The Light in the Mist" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Light-in-the-Mist-703x1024.jpg 703w, https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Light-in-the-Mist-206x300.jpg 206w, https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Light-in-the-Mist-103x150.jpg 103w, https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Light-in-the-Mist-768x1118.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Light-in-the-Mist-1055x1536.jpg 1055w, https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Light-in-the-Mist-1407x2048.jpg 1407w, https://www.boardgamequest.com/wp-content/uploads/2024/08/The-Lig
+
