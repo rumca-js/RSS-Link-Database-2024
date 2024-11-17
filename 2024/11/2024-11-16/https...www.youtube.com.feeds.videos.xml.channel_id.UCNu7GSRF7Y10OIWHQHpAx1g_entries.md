@@ -1,0 +1,9 @@
+# Source:BezPlanu, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCNu7GSRF7Y10OIWHQHpAx1g, language:pl-PL
+
+## Turcja - kraj kontrastów  #bezplanu #turcja
+ - [https://www.youtube.com/watch?v=XmAm7ycQ-b0](https://www.youtube.com/watch?v=XmAm7ycQ-b0)
+ - RSS feed: $source
+ - date published: 2024-11-16T18:42:25+00:00
+
+Turcja - kraj kontrastów
+
