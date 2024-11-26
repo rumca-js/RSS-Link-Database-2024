@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T10:42:41+00:00",
+        "description": "More AI is boring, but open source? We are curious!",
+        "id": 1581084,
+        "language": null,
+        "link": "https://news.itsfoss.com/open-source-ai-video-lightricks",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2024/11/ai-opensource-video-model.png",
+        "title": "We Got an Open Source AI Video Model Before GTA 6",
+        "vote": 0
+    }
+]

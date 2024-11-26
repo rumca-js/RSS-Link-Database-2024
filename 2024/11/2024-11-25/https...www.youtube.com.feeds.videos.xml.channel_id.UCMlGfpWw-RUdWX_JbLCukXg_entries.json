@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T15:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nC++ Coroutines and Structured Concurrency in Practice - Dmitry Prokoptsev - CppCon 2024\n---\n\nC++20 coroutines present some exciting opportunities for organizing and simplifying concurrent logic, but they have proven challenging to integrate with production systems. Object lifetime and execution order issues can be difficult to manage, especially without guidance from well-established best practices. Practical use requires interoperability with existing event loops and with non-coroutine-aware components. While some experimental libraries have started to be released, the C++ \u201casync ecosystem\u201d is still young compared to many other languages.\n\nWe will describe our path through this thicket and introduce Corral, a new open-source concurrency framework for C++ that attempts to tame it. Corral is built around structured concurrency principles, so lifetimes and control flow are easier to reason about. It does not provide any opinionated I/O layer, so it can work wit",
+        "id": 1582775,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aPqMQ7SXSiw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aPqMQ7SXSiw/hqdefault.jpg",
+        "title": "C++ Coroutines and Structured Concurrency in Practice - Dmitry Prokoptsev - CppCon 2024",
+        "vote": 0
+    }
+]

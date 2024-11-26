@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T05:30:09+00:00",
+        "description": "Wielkimi krokami nadchodzi Black Friday, a czym bli\u017cej, tym bardziej populacja oszust\u00f3w zwi\u0119ksza si\u0119.\n \n\u0179r\u00f3d\u0142a:\nKonrad Latkowski\nhttps://riffsec.com/\n \n#outlet #wyprzeda\u017c #promocja #oszustwo",
+        "id": 1579721,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RvxWjnOPQ_g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RvxWjnOPQ_g/hqdefault.jpg",
+        "title": "\ud83c\udff7\ufe0f Uwa\u017caj na wyprzeda\u017cach",
+        "vote": 0
+    }
+]

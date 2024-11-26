@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T16:29:57+00:00",
+        "description": "\u261f\u261f Awesome T-Shirts! Sponsors! Books! \u261f\u261f\n\nThe latest version of CLion is now available! Highlights include improvements to CLion Nova, a new OpenCV image viewer, debugging support for Zephyr West, and more! Check out all the details and give it a try: https://jb.gg/cl_2024_3 \n\nA robust cross-platform IDE for C and C++, CLion makes your development experience smoother and more productive! The latest version of CLion introduces deep integration with the ReSharper C++/Rider C++ language engine, performance improvements for the debugger, new features for embedded development, enhancements for project models and build tools, and much more! Check out all of the details and give it a try today!\n\nhttps://jb.gg/clion_ide   code: CppWeeklyCLion\n\n\nEpisode details: https://github.com/lefticus/cpp_weekly/issues/401\n\nT-SHIRTS AVAILABLE!\n\n\u25ba The best C++ T-Shirts anywhere! https://my-store-d16a2f.creator-spring.com/\n\n\nWANT MORE JASON?\n\n\u25ba My Training Classes: http://emptycrate.com/training.html\n\u25ba Fol",
+        "id": 1583428,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DzUAqXMUjtc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DzUAqXMUjtc/hqdefault.jpg",
+        "title": "C++ Weekly - Ep 456 - RVO + Trivial Types = Faster Code",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T11:17:27+00:00",
+        "description": "Yamand\u00fa Orsi's victory ushers in the return to power of the left-wing Broad Front coalition.",
+        "id": 1580982,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c9qlryz9xg1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b58/live/a334d4f0-ab1b-11ef-8487-d5a0de19ffaf.jpg",
+        "title": "Former history teacher Yamand\u00fa Orsi wins Uruguay election",
+        "vote": 0
+    }
+]

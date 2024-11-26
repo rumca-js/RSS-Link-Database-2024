@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dr. John Campbell",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T11:36:29+00:00",
+        "description": "Viewers share their experiences of their approaches to cancer treatment.",
+        "id": 1581099,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=V5shGPTTTR8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 96,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF9IOB2TExg3QIBupFtBDxg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V5shGPTTTR8/hqdefault.jpg",
+        "title": "Cancer experiences",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T21:51:40+00:00",
+        "description": "<p>Patchen Barss on his 3 greatest revelations while writing <i>The Impossible Man: Roger Penrose and the Cost of Genius</i>.</p>\n<p>The post <a href=\"https://nautil.us/when-work-is-play-1163461/\">When Work Is Play</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>\n",
+        "id": 1585110,
+        "language": "en-US",
+        "link": "https://nautil.us/when-work-is-play-1163461",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "When Work Is Play",
+        "vote": 0
+    }
+]

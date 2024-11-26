@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-25T19:54:00+00:00",
+        "description": "This robot prototype was built at NASA's Jet Propulsion Laboratory in Southern California to demonstrate the feasibility of a mission concept called SWIM, short for Sensing With Independent Micro-swimmers. SWIM envisions a swarm of dozens of self-propelled, cellphone-size robots exploring the waters of icy moons like Jupiter's Europa and Saturn's Enceladus.",
+        "id": 1584600,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/pia26423orig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mini NASA Robot Takes a SWIM",
+        "vote": 0
+    }
+]
