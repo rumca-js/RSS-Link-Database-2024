@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-26T15:29:04+00:00",
+        "description": "Learn how to set up and use Ollama to build powerful AI applications locally. This hands-on course covers pulling and customizing models, REST APIs, Python integrations, and real-world projects like a Grocery List Organizer, RAG System, and an AI Recruiter Agency. Perfect for developers and AI enthusiasts ready to bring their ideas to life with local LLMs. Don\u2019t miss the exclusive BONUS project at the end!\n\n\ud83d\udcbb Code: https://github.com/pdichone/ollama-fundamentals \n\n\ud83d\udd17 Ollama Starter Pack  (code templates, cheat sheet, prompt guide, and more): https://bit.ly/ai-starter-pack\n\nCourse developed by @vincibits \nKeep in touch: https://www.vincibits.com/welcome \n \n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Intro\n\u2328\ufe0f (0:02:00) What Is this course about?\n\u2328\ufe0f (0:03:49) Course Prerequisites\n\u2328\ufe0f (0:05:28) Development Environment Setup\n\u2328\ufe0f (0:06:43) Ollama Deep Dive\n\u2328\ufe0f (0:13:08) Ollama Key Features\n\u2328\ufe0f (0:17:09) Ollama Setup\n\u2328\ufe0f (0:18:03) Download Ollama Locally\n\u2328\ufe0f (0:26:18) Ollama Models - How to Pull Different Ollama ",
+        "id": 1590401,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GWB9ApTPTv4/hqdefault.jpg",
+        "title": "Ollama Course \u2013 Build AI Apps Locally",
+        "vote": 0
+    }
+]

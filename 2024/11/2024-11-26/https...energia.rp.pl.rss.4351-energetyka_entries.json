@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-26T04:25:58.146279+00:00",
+        "description": "W ubieg\u0142ym tygodniu ceny LPG posz\u0142y w g\u00f3r\u0119 skokowo, a\u017c o 8 groszy w uj\u0119ciu tydzie\u0144 do tygodnia. Je\u015bli jeszcze p\u00f3\u0142 roku temu autogaz na stacjach kosztowa\u0142 w granicach 2,75\u20132,80 z\u0142, to teraz dobija 3,14 z\u0142.",
+        "id": 1586536,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/paliwa/art41496301-nadchodza-sankcje-na-lpg-z-rosji-najtansze-z-paliw-wkrotce-podrozeje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nadchodz\u0105 sankcje na LPG z Rosji. Najta\u0144sze z paliw wkr\u00f3tce podro\u017ceje",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-26T18:00:42+00:00",
+        "description": "This episode is brought to you by Blinds.com. With free samples sent directly to you, virtual design help and pro install services, you'll never shop for custom window treatments anywhere else. Use code ROGAN at checkout for $50 off purchases of $500 or more http://tinyurl.com/bdz4bccf \n\nMarc Andreessen is an entrepreneur, investor, and software engineer. He is co-creator of the world's first widely used internet browser, Mosaic, cofounder and general partner at the venture capital firm Andreessen Horowitz, and cohost of \"The Ben & Marc Show\" podcast.\n\nwww.a16z.com\nhttps://pmarca.substack.com",
+        "id": 1591376,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ye8MOfxD5nU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ye8MOfxD5nU/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2234 - Marc Andreessen",
+        "vote": 0
+    }
+]

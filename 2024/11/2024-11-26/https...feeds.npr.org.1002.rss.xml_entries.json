@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-26T06:04:00+00:00",
+        "description": "Drake claims Universal Music Group charged Spotify significantly less to license \"Not Like Us,\" in exchange to feature the song prominently on the app. ",
+        "id": 1588511,
+        "language": "en",
+        "link": "https://www.npr.org/2024/11/26/nx-s1-5206303/drake-kendrick-lamar-umg-spotify",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Drake accuses Universal Music Group and Spotify of unfairly promoting Kendrick Lamar's 'Not Like Us'",
+        "vote": 0
+    }
+]

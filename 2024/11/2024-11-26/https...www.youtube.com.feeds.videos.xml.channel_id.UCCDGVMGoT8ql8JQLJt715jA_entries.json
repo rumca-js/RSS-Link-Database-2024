@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-26T11:59:30+00:00",
+        "description": "Oto co warto wiedzie\u0107 o premierowej wersji PoE2. Materia\u0142 z og\u00f3lnymi informacjami, przeznaczony g\u0142\u00f3wnie dla noob\u00f3w takich jak ja ;) #pathofexile \n\n0:00 Start\n0:54 Premiera, cena\n2:31 Cross-save, co-op\n3:29 Kampania\n4:32 Endgame\n6:27 Klasy\n\nPOEEEEEEEEEEEEEEEEEEEEE \\o/",
+        "id": 1588696,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=v2iC55wMKRg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v2iC55wMKRg/hqdefault.jpg",
+        "title": "Early Access Path of Exile 2 w pigu\u0142ce",
+        "vote": 0
+    }
+]

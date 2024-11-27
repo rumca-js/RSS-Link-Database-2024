@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-26T08:08:43+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1h06wn3/potential_ways_to_intentionally_cause_illegal/\"> <img src=\"https://preview.redd.it/anxywzsoe73e1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb0a6b340d5ff2aa68c247890827a82f09a93ed2\" alt=\"Potential ways to intentionally cause illegal instruction errors on Sega Genesis emulators\" title=\"Potential ways to intentionally cause illegal instruction errors on Sega Genesis emulators\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey everyone. I&#39;m working in making a project and I&#39;m curious If there&#39;s a way to trigger illegal instruction errors or similar errors intentionally via emulation. </p> <p>The emulator I&#39;m using is Kega Fusion but I&#39;m okay with installing another one if applicable.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Real_Leepirate123\"> /u/Real_Leepirate123 </a> <br/> <span><a href=\"https://i.redd.it/anxywzsoe73e1.jpeg\">[link",
+        "id": 1589575,
+        "language": null,
+        "link": "https://www.reddit.com/r/emulation/comments/1h06wn3/potential_ways_to_intentionally_cause_illegal",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/anxywzsoe73e1.jpeg?width=640&crop=smart&auto=webp&s=fb0a6b340d5ff2aa68c247890827a82f09a93ed2",
+        "title": "Potential ways to intentionally cause illegal instruction errors on Sega Genesis emulators",
+        "vote": 0
+    }
+]
