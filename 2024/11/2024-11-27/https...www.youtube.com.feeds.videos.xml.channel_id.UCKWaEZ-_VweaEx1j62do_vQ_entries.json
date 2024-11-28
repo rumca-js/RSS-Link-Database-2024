@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T11:00:19+00:00",
+        "description": "Learn more about artificial intelligence \u2192 https://ibm.biz/Bda6m6\n\nHow much future learning will be done with an AI assistant? In Episode 31 of Mixture of Experts, host Tim Hwang is joined by Phaedra Boinodiris, Marina Danilevsky and Skyler Speakman for the AI in education special episode. First, the experts give an update on the state of AI within education. Next, we cover concerns around AI safety and literacy, what do students and teachers need to be aware of? Finally, the panel gives their predictions on what the future of education holds as it relates to AI. Tune-in to this special episode for an in-depth analysis!\n\nSubscribe for AI updates \u2192 https://ibm.biz/Bda6mU\n\n0:00 - Intro\n0:55 - State of AI in Education\n34:11 - Future Predictions\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity.",
+        "id": 1595641,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JSnwZmbTMXM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JSnwZmbTMXM/hqdefault.jpg",
+        "title": "AI in education: Safety, literacy, and predictions",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marc Brunet",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T01:05:28+00:00",
+        "description": "\ud83d\udc68\u200d\ud83c\udfa8 Need help with your art? \nVisit \u27a1\ufe0f cgart.school for my college-equivalent ART School program! NOW ON SALE!",
+        "id": 1593559,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=B-x4TEnVhLw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 208,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKtu_JtQCY0yryIy6zK4ZCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B-x4TEnVhLw/hqdefault.jpg",
+        "title": "Do THIS to improve your line drawings by 1000% \u270f\ufe0f #lineart #drawingtips",
+        "vote": 0
+    }
+]

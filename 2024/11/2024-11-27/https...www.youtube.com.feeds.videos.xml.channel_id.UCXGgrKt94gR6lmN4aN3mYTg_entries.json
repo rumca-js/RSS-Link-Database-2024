@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T16:14:23+00:00",
+        "description": "AKG USB-C earbuds on Amazon: https://austin.tech/akgusbc\nNothing Ear (a) wireless earbuds on Amazon: https://austin.tech/nothingeara\nSamsung Galaxy Buds 3 Pro wireless earbuds on Amazon: https://austin.tech/galaxybuds3pro\nFocal Bathys headphones on Amazon: https://austin.tech/focalbathys\nDJI Osmo Pocket 3 camera on Amazon: https://austin.tech/djipocket3\nDJI Mic on Amazon: https://austin.tech/djimic\nNintendo Switch Lite on Amazon: https://austin.tech/switchlite\nValve Steam Deck: https://store.steampowered.com/steamdeck\nAnalogue Pocket: https://store.analogue.co/products/analogue-pocket-black\nWaterField Designs Analogue Pocket case: https://www.sfbags.com/collections/gaming-cases/products/analogue-pocket-pouch\nRefurbished Sony PlayStation 5: https://direct.playstation.com/en-us/buy-consoles/certified-refurbished-playstation5-digital-edition-console\nLTT Store Precision Screwdriver: https://www.lttstore.com/products/precision-multi-bit-screwdriver-bundle\nAmazon Kindle Paperwhite on Amazo",
+        "id": 1597597,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=N4cdKkjbdtE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N4cdKkjbdtE/hqdefault.jpg",
+        "title": "This Tech is NOT a Scam.",
+        "vote": 0
+    }
+]

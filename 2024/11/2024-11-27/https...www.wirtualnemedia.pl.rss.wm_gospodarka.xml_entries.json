@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T12:52:30.818721+00:00",
+        "description": "Sp\u00f3\u0142ka Jeronimo Martins Polska, zarz\u0105dzaj\u0105ca sieci\u0105 sklep\u00f3w Biedronka, pod koniec grudnia wyp\u0142aci 1,05 mld z\u0142 zaliczki dywidendowej swojemu jedynemu akcjonariuszowi - portugalskiemu koncernowi Jeronimo Martins.",
+        "id": 1596203,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/biedronka-sklepy-wlasciciel-jeronimo-martins",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Biedronka wyp\u0142aci miliard z\u0142 w\u0142a\u015bcicielowi",
+        "vote": 0
+    }
+]

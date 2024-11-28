@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T18:44:38.215784+00:00",
+        "description": "Cho\u0107 wielu Polak\u00f3w twierdzi, \u017ce sceptycznie podchodzi do promocji, w ten dzie\u0144 oko\u0142o dwie trzecie zrobi w\u00f3wczas jakie\u015b zakupy. Tym bardziej, \u017ce promocji na elektronik\u0119 w tym okresie nie brakuje.",
+        "id": 1598669,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/gadzety/art41509701-black-friday-sie-rozkreca-bitwa-sieci-handlowych-na-iphone-y-i-obnizki-cen",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Black Friday si\u0119 rozkr\u0119ca. Bitwa sieci handlowych na iPhone'y i obni\u017cki cen",
+        "vote": 0
+    }
+]

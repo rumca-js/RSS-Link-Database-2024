@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T13:39:19+00:00",
+        "description": "<p>Raspberry Pi Compute Module 5 launches with up to 8GB RAM and 64GB storage, VideoCore VII GPU, Gigabit Ethernet, and 802.11ac Wi-Fi. Here are the specs!</p>\n<p>The post <a href=\"https://9to5linux.com/raspberry-pi-compute-module-5-launches-as-a-modular-version-of-raspberry-pi-5\">Raspberry Pi Compute Module 5 Launches as a Modular Version of Raspberry Pi 5</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>\n",
+        "id": 1596926,
+        "language": "en-US",
+        "link": "https://9to5linux.com/raspberry-pi-compute-module-5-launches-as-a-modular-version-of-raspberry-pi-5",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Raspberry Pi Compute Module 5 Launches as a Modular Version of Raspberry Pi 5",
+        "vote": 0
+    }
+]

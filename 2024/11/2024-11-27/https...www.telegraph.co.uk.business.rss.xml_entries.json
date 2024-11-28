@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T06:55:21+00:00",
+        "description": "<![CDATA[<p>The taxes paid by Britain\u2019s biggest companies jumped by 10.2pc even before Rachel Reeves\u2019 raid on business in her record \u00a340bn tax-raising Budget, PwC has found.&nbsp;</p>]]>",
+        "id": 1594514,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2024/11/27/ftse-100-markets-latest-news-uk-tax-burden-reeves-trump",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tax burden on Britain\u2019s biggest companies jumped even before Reeves\u2019s raid",
+        "vote": 0
+    }
+]

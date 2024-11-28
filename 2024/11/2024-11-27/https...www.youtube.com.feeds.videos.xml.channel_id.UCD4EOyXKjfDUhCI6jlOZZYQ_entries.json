@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-27T22:15:39+00:00",
+        "description": "RSVP for Classes at - http://www.SiliconDojo.com\n\nSupport Classes at - https://donorbox.org/etcg\nFind All Classes at - https://www.elithecomputerguy.com\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nCode and Notes - https://github.com/SiliconDojo/Online-Classes/tree/main/Python%20-%20RegEx%20and%20Data%20Parsing\n\nOk... lets be honest... everyone hates RegEx...\n\nBut... it's kinda important...\n\nSo grab a cup of coffee and let's slog through this together!\n\nRegEx (Regular Expressions) are the ways that you can pull data that conforms to certain patterns from data sets. So if you need to pull Social Security numbers, IP Addresses, Phone Numbers, etc from documents you can write a ReGEx Statement that will find everything with a specific pattern that you have assigned.\n\nRegEx is to programmers what subnet masking is to Sys Admins. Something that is incredibly important, actually not that hard, but it sort of makes everyone's brain melt.\n\nThis class will go over RegEx ",
+        "id": 1600393,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Iav_15Yh17s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Iav_15Yh17s/hqdefault.jpg",
+        "title": "Python - RegEx and Data Parsing",
+        "vote": 0
+    }
+]
