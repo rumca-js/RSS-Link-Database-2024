@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-28T06:00:00+00:00",
+        "description": "Meet the people who make the Macy's Thanksgiving Day Parade, where balloons fly and imaginations soar.",
+        "id": 1603697,
+        "language": "en",
+        "link": "https://www.npr.org/2024/11/28/nx-s1-5195596/macys-thanksgiving-day-parade",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Here's how the Macy's Thanksgiving Day Parade is brought to life",
+        "vote": 0
+    }
+]

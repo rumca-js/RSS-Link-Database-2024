@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-28T15:25:05+00:00",
+        "description": "Redbox left 24,000 abandoned DVD rental kiosks. These are some of the people recovering them.",
+        "id": 1604459,
+        "language": null,
+        "link": "https://www.404media.co/the-redbox-removal-team",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2024/11/IMG_8570-2-1.JPG",
+        "title": "The Redbox Removal Team",
+        "vote": 0
+    }
+]

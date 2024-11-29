@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-28T13:53:06+00:00",
+        "description": "Summary A critical data security lapse has left a massive trove of personal information vulnerable, raising concerns about&#8230;",
+        "id": 1603817,
+        "language": "en-US",
+        "link": "https://hackread.com/propertyrec-leak-exposes-background-check-records",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Propertyrec Leak Exposes Over Half a Million Background Check Records",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-28T16:12:22.271621+00:00",
+        "description": "Wi\u0119cej po\u0142\u0105cze\u0144, kr\u00f3tsze czasy przejazd\u00f3w, wygodniejsze podr\u00f3\u017ce \u2013 w po\u0142owie grudnia kolej zmienia rozk\u0142ad jazdy.",
+        "id": 1604445,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art41514561-pociagi-od-polowy-grudnia-pojada-szybciej-zatrzymaja-sie-na-nowych-stacjach",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Poci\u0105gi od po\u0142owy grudnia pojad\u0105 szybciej, zatrzymaj\u0105 si\u0119 na nowych stacjach",
+        "vote": 0
+    }
+]

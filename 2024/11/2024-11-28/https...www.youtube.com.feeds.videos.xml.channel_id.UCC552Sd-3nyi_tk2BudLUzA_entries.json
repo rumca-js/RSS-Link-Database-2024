@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AsapSCIENCE",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-28T21:00:00+00:00",
+        "description": "Artificial Intelligence is here. AI is everywhere, and Chat-GPT is being used often by people across the globe. It may seem like a simple act, but the environmental implications of using Chat-GPT, especially the water consumption is surprising. There is a lot that people don't want you to know about the environmental costs of AI so today we are going to explain them.\n\nThanks to Professors Ian Clarke and Ayumi Goto at OCAD university for helping to inspire this episode. And thank you to Emmy and Aila for working on this with me.\n\nWritten by: Gregory Brown\nEdited by: Luka Sarlija\nDrawn by: Gregory Brown\n\nReferences and Further Reading:\nhttps://www.nature.com/articles/d41586-022-00601-w\n\nhttps://www.nature.com/articles/news.2011.348\n\nhttps://www.nature.com/articles/d41586-021-00580-4\n\nhttps://arxiv.org/pdf/2304.03271\n\nhttps://undark.org/2024/02/20/ai-environmental-footprint/?gad_source=1&gclid=Cj0KCQjw4Oe4BhCcARIsADQ0csmzfYEdUda5An7y12fK6ZayXLyo5UYappZT2CgwCC8xwCAyecGTeE4aAlVBEALw_wcB\n\n",
+        "id": 1606041,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-lzQxbcrscc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 22,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-lzQxbcrscc/hqdefault.jpg",
+        "title": "I'm scared of AI, but not for the reason you think",
+        "vote": 0
+    }
+]

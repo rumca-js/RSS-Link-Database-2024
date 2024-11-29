@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-28T14:01:36.716566+00:00",
+        "description": "Naiwno\u015bci\u0105 by\u0142oby my\u015blenie, \u017ce Collegium Humanum to jedyna z\u0142a uczelnia w Polsce. O tym, \u017ce kto\u015b dosta\u0142 dyplom, bo zap\u0142aci\u0142 i niewiele wi\u0119cej robi\u0142, s\u0142ycha\u0107 od lat. Mo\u017cliwe, \u017ce Szymon Ho\u0142ownia te\u017c szuka\u0142 takiej, w kt\u00f3rej nie trzeba si\u0119 m\u0119czy\u0107.",
+        "id": 1602904,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art41513141-joanna-cwiek-swidecka-nie-tylko-collegium-humanum-w-polsce-jest-wiecej-wyzszych-szkol-dobrego-samopoczucia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Joanna \u0106wiek-\u015awidecka: Nie tylko Collegium Humanum. W Polsce jest wi\u0119cej \u201eWy\u017cszych Szk\u00f3\u0142 Dobrego Samopoczucia\u201d",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-28T00:39:11+00:00",
+        "description": "Following the launch of the Raspberry Pi CM5, TECHBASE has introduced a new version of the ModBerry 500 series featuring this advanced embedded platform. The ModBerry 500 CM5 offers enhanced processing power and expanded features while maintaining compatibility with its predecessors, ensuring a streamlined transition for existing users. With full compatibility for the Raspberry Pi [&#8230;]",
+        "id": 1601059,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/modberry-500-series-updated-with-raspberry-pi-compute-module-5-integration",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ModBerry 500 Series Updated with Raspberry Pi Compute Module 5 Integration",
+        "vote": 0
+    }
+]
