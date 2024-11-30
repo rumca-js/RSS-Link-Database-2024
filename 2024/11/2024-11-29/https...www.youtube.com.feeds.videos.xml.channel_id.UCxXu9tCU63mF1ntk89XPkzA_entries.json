@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Worthikids",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T15:01:43+00:00",
+        "description": "but to US...? TO ELECTRICIANS...?\n\ninstagram: https://www.instagram.com/worthikids/\nstore: https://topa.to/worthikids\npatreon: https://www.patreon.com/c/worthikids",
+        "id": 1610959,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FhQwFjyz4Wc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 399,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxXu9tCU63mF1ntk89XPkzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FhQwFjyz4Wc/hqdefault.jpg",
+        "title": "Wall Gnomes",
+        "vote": 0
+    }
+]

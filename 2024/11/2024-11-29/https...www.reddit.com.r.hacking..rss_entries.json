@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T06:56:24+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Question please. I\u2019m hitting a tomcat 403 error, stating invalid or missing CRSF token. I\u2019m grabbing a fresh token for the request, but no good. I believe there\u2019s an Akami waf but using the standard bypass of characters for this. Does anyone have an idea how to finesse this please?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sendersclu8\"> /u/sendersclu8 </a> <br/> <span><a href=\"https://www.reddit.com/r/hacking/comments/1h2g091/csrfwaf_issues/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hacking/comments/1h2g091/csrfwaf_issues/\">[comments]</a></span>",
+        "id": 1608012,
+        "language": null,
+        "link": "https://www.reddit.com/r/hacking/comments/1h2g091/csrfwaf_issues",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CSRF/WAF Issues",
+        "vote": 0
+    }
+]

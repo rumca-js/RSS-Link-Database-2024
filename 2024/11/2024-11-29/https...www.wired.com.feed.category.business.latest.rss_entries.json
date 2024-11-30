@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T00:16:53+00:00",
+        "description": "Channel Description",
+        "id": 1606863,
+        "language": "en-US",
+        "link": "https://www.wired.com/feed/category/business/latest/rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Business Latest",
+        "vote": 0
+    }
+]

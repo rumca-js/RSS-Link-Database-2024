@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T06:16:00+00:00",
+        "description": "Find insight on the German mobile market, China\u2019s semiconductor production equipment stocks and more in the latest Market Talks covering Technology, Media and Telecom.",
+        "id": 1609215,
+        "language": "en-US",
+        "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-70bb4fd8?mod=rss_Technology",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 361,
+        "source_url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tech, Media & Telecom Roundup: Market Talk",
+        "vote": 0
+    }
+]

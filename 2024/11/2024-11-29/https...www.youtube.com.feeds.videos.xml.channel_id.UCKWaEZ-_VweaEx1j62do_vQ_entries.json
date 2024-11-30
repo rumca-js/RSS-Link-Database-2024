@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T12:00:47+00:00",
+        "description": "Download the guide to learn more \u2192 https://ibm.biz/BdaV3U\nLearn more about the technology \u2192 https://ibm.biz/BdaV37\n\nJoin Dinesh Shetty as he explores the fascinating world of AI and the critical topic of AI Bias and the principles of avoiding bias, emphasizing the importance of AI Governance in identifying and addressing bias. \n\n#AI #ArtificialIntelligence #AIBias #AIGovernance #CounterfactualFairness #MachineLearning #DeepLearning #DataScience #Tech #Innovation",
+        "id": 1610449,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ZsjDvyuxxgg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZsjDvyuxxgg/hqdefault.jpg",
+        "title": "Unraveling AI Bias: Principles & Practices",
+        "vote": 0
+    }
+]

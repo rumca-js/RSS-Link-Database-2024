@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T00:15:46+00:00",
+        "description": "www.telegraph.co.uk for the latest news from the UK and around the world.",
+        "id": 1606844,
+        "language": "en-GB",
+        "link": "https://www.telegraph.co.uk/business/rss.xml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/telegraph-logos/Micro%2089-189w%20-%20Black.png",
+        "title": "Business",
+        "vote": 0
+    }
+]

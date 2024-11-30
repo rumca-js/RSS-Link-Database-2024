@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T09:40:12+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I need help, I\u2019ve been trying to get this mod to run on version 1.98 with no luck so far. I\u2019ve followed the tutorial for 1.85 and I\u2019ve even just extracted the zip contents directly into the Sins mod folder, neither have worked. So I\u2019m wondering if I need to downgrade my Sins version till it\u2019s compatible or if I missed something. Any help would be greatly appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/InformedSun63\"> /u/InformedSun63 </a> <br/> <span><a href=\"https://www.reddit.com/r/GameMods/comments/1h2iaa5/sins_of_a_solar_empire_rebellion_star_trek_armada/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameMods/comments/1h2iaa5/sins_of_a_solar_empire_rebellion_star_trek_armada/\">[comments]</a></span>",
+        "id": 1608780,
+        "language": null,
+        "link": "https://www.reddit.com/r/GameMods/comments/1h2iaa5/sins_of_a_solar_empire_rebellion_star_trek_armada",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sins of a Solar Empire Rebellion, Star Trek armada 3",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T15:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: Function Call Resolution in C++ - Ben Saks - CppCon 2024\n---\n\nWhen a C++ compiler encounters an expression like f(x, y), it must consider several language mechanisms to decide which function f the program will call. These mechanisms include name lookup, overload resolution, default function arguments, and template processing. Having a firm understanding of these mechanisms and how they interact will help you write user-friendly interfaces for you and your team. \n\nThis session begins by reviewing each of these mechanisms individually. It then examines how those mechanisms interact, focusing on situations that are most likely to occur in practice. Some of the questions that we\u2019ll consider are:\n\n  - How does the compiler resolve calls on overloaded functions with implicit conversions on multiple arguments?\n  - Why does the compiler apply implicit conversions when resolving calls to overloaded functions, but not when making calls to function templ",
+        "id": 1610963,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ab_RzvGAS1Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ab_RzvGAS1Q/hqdefault.jpg",
+        "title": "Back to Basics: Function Call Resolution in C++ - Ben Saks - CppCon 2024",
+        "vote": 0
+    }
+]

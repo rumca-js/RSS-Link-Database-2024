@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-29T15:34:48+00:00",
+        "description": "Od serca. Subiektywnie. O podej\u015bciu do Path of Exile 2.\n\n0:00 K\u0105cik porad\n0:50 Hardkor\n1:46 Klasa\n3:14 Zr\u00f3b to sam\n4:49 Nie znasz PoE1? Oj tam.\n6:08 AUTOPROMOCJA\n6:27 Jaranko\n\n#pathofexile",
+        "id": 1611100,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fOPkzJ5B0kg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fOPkzJ5B0kg/hqdefault.jpg",
+        "title": "Path of Exile 2 i kilka moich rad od serca",
+        "vote": 0
+    }
+]
