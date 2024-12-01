@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-30T07:32:54.055043+00:00",
+        "description": "Sklepy, szko\u0142y, przedszkola i \u017c\u0142obki, dost\u0119p do opieki zdrowotnej, rozwini\u0119ta sie\u0107 komunikacji i zapewnione poczucie bezpiecze\u0144stwa. Teoretycznie wiadomo, co sprawia, \u017ce mieszka\u0144cy czuj\u0105 si\u0119 dobrze na danym terenie. Ale \u017cycie pokazuje, \u017ce teoria teori\u0105, a z praktyk\u0105 bywa r\u00f3\u017cnie.",
+        "id": 1614604,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/czuc-sie-dobrze-w-swoim-miescie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Czu\u0107 si\u0119 dobrze w swoim mie\u015bcie",
+        "vote": 0
+    }
+]

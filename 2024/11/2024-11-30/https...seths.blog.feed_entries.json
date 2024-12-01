@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-30T10:03:00+00:00",
+        "description": "They&#8217;re a gift that lasts forever, because your friend will remember what they learned and how they felt&#8230; and they can keep it on their bookshelf or hard drive as a reminder in case they forget&#8230; Amazon chose This is Strategy for a Kindle deal today. It&#8217;s only $4. Also, the Strategy Deck continues to [&#8230;]",
+        "id": 1615124,
+        "language": "en-US",
+        "link": "https://seths.blog/2024/11/books-and-more-winter-2024",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Books and more, winter 2024",
+        "vote": 0
+    }
+]

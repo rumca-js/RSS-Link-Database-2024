@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-30T11:48:10.092796+00:00",
+        "description": "\n\t\t\t\t\t\t\t\tThe raids took place on the one-year anniversary of the Russian Supreme Court outlawing the \u201cinternational LGBT movement.\u201d\t\t\t",
+        "id": 1615378,
+        "language": "en-us",
+        "link": "https://www.themoscowtimes.com/2024/11/30/moscow-police-raid-lgbtq-clubs-overnight-a87184",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 350,
+        "source_url": "https://www.themoscowtimes.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Moscow Police Raid LGBTQ+ Clubs Overnight",
+        "vote": 0
+    }
+]

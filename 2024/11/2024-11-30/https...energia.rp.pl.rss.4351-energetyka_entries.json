@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-30T08:37:45.524455+00:00",
+        "description": "Chiny sprzedaj\u0105 coraz wi\u0119cej aut elektrycznych, co przek\u0142ada si\u0119 na spadek zu\u017cycia tradycyjnych paliw. To g\u0142\u00f3wny, ale niejedyny pow\u00f3d coraz mniejszej popularno\u015bci benzyny i diesla. Kolejnymi czynnikami s\u0105: spadek liczby ludno\u015bci i wolniejszy wzrost gospodarczy.",
+        "id": 1614742,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/transport/art41520121-elektryfikacja-chinskiej-motoryzacji-odbije-sie-czkawka-na-rynku-ropy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elektryfikacja chi\u0144skiej motoryzacji odbije si\u0119 czkawk\u0105 na rynku ropy",
+        "vote": 0
+    }
+]

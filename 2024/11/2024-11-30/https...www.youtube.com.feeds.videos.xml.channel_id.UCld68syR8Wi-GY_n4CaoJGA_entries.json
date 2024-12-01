@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-30T20:00:01+00:00",
+        "description": "If you want to game on Linux until now whether you're on X11 or Wayland you've been gaming under X11 because Wine didn't have a Wayland driver but that's going to change very soon\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nWayland Merger: https://gitlab.winehq.org/wine/wine/-/merge_requests/5583\nWine Change Request: https://www.winehq.org/news/2024112201\nCollabora Writeup 1: https://www.collabora.com/news-and-blog/news-and-events/a-wayland-driver-for-wine.html\nMailing List Announcement: https://list.winehq.org/mailman3/hyperkitty/list/wine-devel@winehq.org/thread/THS4SCOTWIP4RASF56OLZBQSGQ4VJ6V2/#QPRKGFMD6XLUQX4N76PWXSEH74XRYPBY\nCollabora Writeup 2: https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-meets-vulkan-multi-monitor-support-more.html",
+        "id": 1617752,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1lOeRpU76tQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1lOeRpU76tQ/hqdefault.jpg",
+        "title": "The Era Of True Wayland WINE Gaming Is Coming",
+        "vote": 0
+    }
+]

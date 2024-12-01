@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-11-30T10:11:21+00:00",
+        "description": "A new set of 15 SpyLoan apps with over 8 million installs was discovered on Google Play, targeting primarily users from South America, Southeast Asia, and Africa. [...]",
+        "id": 1617477,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SpyLoan Android malware on Google play installed 8 million times",
+        "vote": 0
+    }
+]
