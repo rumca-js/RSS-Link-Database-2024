@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-01T08:25:25.165794+00:00",
+        "description": "Wi\u0119kszo\u015b\u0107 \u015bwiatowych marek podejmuje niewystarczaj\u0105ce decyzje z punktu widzenia ekologii i gospodarki o obiegu zamkni\u0119tym - wynika z raportu Kearney, kt\u00f3ry oceni\u0142 zastosowanie zr\u00f3wnowa\u017conych praktyk przez producent\u00f3w ubra\u0144 w ostatnim roku.",
+        "id": 1619441,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/raport-swiatowe-marki-ubran-nadal-sa-za-malo-ekologiczne",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Raport: \u015bwiatowe marki ubra\u0144 nadal s\u0105 za ma\u0142o ekologiczne",
+        "vote": 0
+    }
+]

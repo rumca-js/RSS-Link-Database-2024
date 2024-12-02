@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-01T17:00:46+00:00",
+        "description": "\ud83e\udd16\u00a0B\u0142\u0119dy, luki, zero-daye, to og\u00f3lnie chleb powszedni cyberbezpiecznikowej bran\u017cy. No raz na jaki\u015b czas trafia si\u0119 jaka\u015b pere\u0142ka, jaka\u015b gwiazda rocka, kt\u00f3ra trz\u0119sie ca\u0142ym \u015bwiatem trafiaj\u0105c nawet do popularnych medi\u00f3w. Ale po raz pierwszy, przynajmniej oficjalnie, podatno\u015b\u0107 zero-day w oprogramowaniu odnalaz\u0142a\u2026 sztuczna inteligencja.\n \n\u0179r\u00f3d\u0142a:\n\ud83e\udea6\u00a0Google graveyard; a free and open source list of discontinued Google services, products, devices, and apps\nhttps://killedbygoogle.com/\n\n\ud83d\udca1News and updates from the Project Zero team at Google\nhttps://googleprojectzero.blogspot.com/\n\n\ud83d\udc64\u00a0GeoHot - cz\u0142owiek, kt\u00f3ry z\u0142ama\u0142 PS3 zosta\u0142 zatrudniony przez Google\nhttps://polygamia.pl/geohot-czlowiek-ktory-zlamal-ps3-zostal-zatrudniony-przez-google,6561698525607553a\n\n\ud83d\udc1e\u00a0Incident report on memory leak caused by Cloudflare parser bug\nhttps://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/\n\n\ud83d\udd13\u00a0Meltdown and Spectre. Vulnerabilities in modern computers leak passwords and sensitive",
+        "id": 1621886,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nHfkcRPQOu8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nHfkcRPQOu8/hqdefault.jpg",
+        "title": "AI znalaz\u0142a 0daya. Sama*.",
+        "vote": 0
+    }
+]

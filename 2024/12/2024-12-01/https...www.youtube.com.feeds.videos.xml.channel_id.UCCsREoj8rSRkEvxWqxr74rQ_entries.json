@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cybernews",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-01T20:23:13+00:00",
+        "description": "Is airplane mode indeed preventing interference with a plane's systems, or is it just a myth? We've got the answer for you!",
+        "id": 1622911,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=PPHFKKlcIe4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 433,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsREoj8rSRkEvxWqxr74rQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PPHFKKlcIe4/hqdefault.jpg",
+        "title": "Why Should You Turn on Airplane Mode #shorts",
+        "vote": 0
+    }
+]
