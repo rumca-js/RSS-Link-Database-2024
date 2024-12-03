@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-02T15:01:11+00:00",
+        "description": "Japan is home to vast nuclear plants made dormant after the Fukushima meltdown. The area around the power plant remains a ghost town almost 14 years after the reactor shut down, showing the dangers of nuclear power gone awry. But power companies are clamoring to restart dormant reactors across Japan, as the AI revolution sends demand for energy soaring. \n\nWSJ\u2019s Peter Landers travelled into the exclusion zone to explore the risks of atomic power and see how Japan is grappling with atomic energy\u2019s dramatic comeback.\n\nChapters:\n0:00 Fukushima meltdown\n0:57 Traveling to Fukushima Nuclear Power Plant\n1:52 Entering the facility\n2:56 Japan\u2019s power grid and AI demands\n4:05 Kashiwazaki-Kariwa Nuclear Power Plant\n5:29 What\u2019s next?\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Japan #Nuclear #WSJ",
+        "id": 1628602,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zb9jB7FAPYo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zb9jB7FAPYo/hqdefault.jpg",
+        "title": "Inside Japan\u2019s $80B Fukushima Cleanup as AI Fuels Atomic Energy\u2019s Comeback | WSJ",
+        "vote": 0
+    }
+]

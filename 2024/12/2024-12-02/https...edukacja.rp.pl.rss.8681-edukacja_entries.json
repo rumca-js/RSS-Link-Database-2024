@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-02T13:18:51.002524+00:00",
+        "description": "W szkole powinno by\u0107 miejsce dla nauki o filozofii, etyce, ale te\u017c o g\u0142\u00f3wnych systemach religijnych. A przede wszystkim \u2013 o miejscu Boga w otwartym spo\u0142ecze\u0144stwie. Bo dlaczego nauk\u0119 o zdrowiu fizycznym uznajemy za wa\u017cn\u0105, a o zdrowiu moralnym ju\u017c nie?",
+        "id": 1626168,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/opinie-polityczno-spoleczne/art41500521-juliusz-braun-religie-w-szkole-zastapmy-nowym-przedmiotem-roboczo-go-nazwijmy-transcendentalnym",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Juliusz Braun: Religi\u0119 w szkol\u0119 zast\u0105pmy nowym przedmiotem  \u2013 roboczo go nazwijmy \u201etranscendentalnym\u201d",
+        "vote": 0
+    }
+]

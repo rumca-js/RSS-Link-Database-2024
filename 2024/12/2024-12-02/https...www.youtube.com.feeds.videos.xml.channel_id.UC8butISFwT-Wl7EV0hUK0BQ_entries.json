@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-02T17:28:35+00:00",
+        "description": "In this project-based Google Sheets course from @EamonnCottrell  you'll learn the fundamentals of Google Sheets. By the end of the course, you'll learn:\n\u27ff navigation\n\u27ff sharing\n\u27ff collaboration\n\u27ff functions\n\u27ff custom formulas\n\u27ff conditional formatting\n\u27ff dropdown lists\n\u27ff data validation\n\u27ff advanced function combinations\n\u27ff data visualization and charts\n\nGrab the course spreadsheet here: https://docs.google.com/spreadsheets/d/1GCpuy607uIK_B0-uS6WZI-6IOA3Wk9wr6ewygbY1GFw/template/preview\n\nContents:\n\u2328\ufe0f (0:00:00) Course Overview\n\u2328\ufe0f (0:00:59) Module 1 - Interface\n\u2328\ufe0f (0:02:20) Navigation\n\u2328\ufe0f (0:07:31) Toolbar\n\u2328\ufe0f (0:10:09) Collaboration\n\u2328\ufe0f (0:13:29) Module 2 - Categories Table\n\u2328\ufe0f (0:15:55) Import Data\n\u2328\ufe0f (0:18:03) Basic Functions\n\u2328\ufe0f (0:22:53) Balance Formula\n\u2328\ufe0f (0:29:56) Module 3 - Formatting\n\u2328\ufe0f (0:31:08) Table Format\n\u2328\ufe0f (0:32:45) Conditional Formatting\n\u2328\ufe0f (0:37:27) Module 4 - Data Intro\n\u2328\ufe0f (0:38:25) Dropdowns\n\u2328\ufe0f (0:44:57) Module 5 - Advanced Functions\n\u2328\ufe0f (0:46:11) Type Column\n\u2328\ufe0f (0:52:40) Filtering",
+        "id": 1628113,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cWGQncQxaHI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cWGQncQxaHI/hqdefault.jpg",
+        "title": "Learn Google Sheets \u2013 Full Course for Beginners",
+        "vote": 0
+    }
+]

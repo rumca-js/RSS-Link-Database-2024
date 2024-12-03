@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-02T21:37:56+00:00",
+        "description": "LG Energy Solution will now solely own a factory in Michigan that it had planned to operate through a joint venture with General Motors.",
+        "id": 1629788,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2024/12/02/business/gm-ev-batteries-lg.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2024/12/02/multimedia/LG-GM-01-kltc/LG-GM-01-kltc-mediumSquareAt3X.jpg",
+        "title": "G.M. Will Sell Stake in EV Battery Plant to LG",
+        "vote": 0
+    }
+]
