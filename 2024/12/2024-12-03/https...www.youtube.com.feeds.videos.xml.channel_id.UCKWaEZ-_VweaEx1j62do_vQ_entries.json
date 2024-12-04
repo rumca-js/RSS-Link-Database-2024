@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-03T12:00:43+00:00",
+        "description": "Get the Buyer\u2019s Guide to Generative AI Assistants \u2192 https://ibm.biz/Bda7aw\nExplore the podcast \u2192 https://ibm.biz/Bda7ak\n\nCan AI agents can make you better at your job? This autonomous form of AI can do a lot more for you than chatbots, AI assistants and Large Language Models can. In this episode, Ethan Mollick, Co-Director of Generative AI Lab at Wharton, talks about AI agents and their potential impacts on how (and how well) we work -- urging organizations to start thinking about their implications now.  \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\nGet weekly AI, cloud, security and sustainability industry news, events and insights \u2192 https://ibm.biz/Bda7a6",
+        "id": 1634064,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VCA7wdZBuUE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VCA7wdZBuUE/hqdefault.jpg",
+        "title": "Change Agents with Ethan Mollick: How AI agents will reinvent productivity",
+        "vote": 0
+    }
+]

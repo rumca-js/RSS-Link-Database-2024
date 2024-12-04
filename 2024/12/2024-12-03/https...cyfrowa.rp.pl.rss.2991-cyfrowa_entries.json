@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-03T21:15:42.664404+00:00",
+        "description": "Firma kierowana przez Sama Altmana chce zmieni\u0107 spos\u00f3b, w jaki udost\u0119pnia bota. OpenAI przymierza si\u0119 do modelu, jaki wykorzystywa\u0107 chc\u0105 r\u00f3wnie\u017c popularne platformy streamingowe. Chodzi o reklamy w zamian za darmow\u0105 us\u0142ug\u0119 lub ni\u017csz\u0105 cen\u0119.",
+        "id": 1637150,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art41535331-rewolucja-w-chatgpt-nie-wszyscy-uzytkownicy-beda-zadowoleni",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rewolucja w ChatGPT. Nie wszyscy u\u017cytkownicy b\u0119d\u0105 zadowoleni",
+        "vote": 0
+    }
+]

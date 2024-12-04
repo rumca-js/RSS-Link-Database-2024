@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-03T21:54:47+00:00",
+        "description": "The warning was issued after the United States expanded rules to block China from accessing advanced semiconductor technology.",
+        "id": 1637637,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/china/chinese-industry-associations-say-us-chips-no-longer-safe-to-buy-5769964",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2022/08/11/GettyImages-114918637-700x420.jpg",
+        "title": "Chinese Industry Associations Say US Chips \u2018No Longer Safe\u2019 to Buy",
+        "vote": 0
+    }
+]

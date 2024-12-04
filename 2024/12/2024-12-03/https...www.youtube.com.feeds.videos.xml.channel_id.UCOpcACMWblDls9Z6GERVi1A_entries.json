@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-03T18:00:07+00:00",
+        "description": "Trailers that get HONEST about what you're really getting from the movie when you buy a ticket. This week is Kick-Ass.\n\nVoice Narration: Jon Bailey aka Epic Voice Guy\nTitle Design: Robert Holtby\nWritten by: Spencer Gilbert, Lon Harris\nProduced by: Spencer Gilbert\nEdited by: Kevin Williamsen\nPost-Production Manager: Emin Bassavand\nManager, Content Operations: Tiffany Tse\nPost-Production Specialist: Rebecca Castaneda\nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #kickass",
+        "id": 1636063,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AhWkp_ax574",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AhWkp_ax574/hqdefault.jpg",
+        "title": "Honest Trailers | Kick-Ass",
+        "vote": 0
+    }
+]
