@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-04T15:01:11+00:00",
+        "description": "They say every crisis also presents an opportunity. Open learner Jerry Vance Anguzu seized one such opportunity in the midst of the Covid-19 pandemic, when his native country of Uganda went into lockdown. Jerry was stuck at home, unable to earn a living, but that enforced inactivity gave him the chance to pursue new directions in his education. A few years earlier, he had discovered MIT OpenCourseWare and had seen what it had to offer; now he returned to MIT Open Learning resources in earnest, plowing through courses in data science and computer programming; soon thereafter he was accepted into the MIT Emerging Talent program, where he began to develop an interest in entrepreneurship. Now, just a few years later, Jerry has his own startup, Everpesa Technologies, a financial services platform that offers sustainable investment opportunities and financial literacy resources to people in sub-Saharan Africa. Along the way, he has become a self-described \u201cOCW ambassador,\u201d enthusiastically",
+        "id": 1642587,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zG00757LByE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zG00757LByE/hqdefault.jpg",
+        "title": "Jerry from Uganda: An Open Learner's Story",
+        "vote": 0
+    }
+]

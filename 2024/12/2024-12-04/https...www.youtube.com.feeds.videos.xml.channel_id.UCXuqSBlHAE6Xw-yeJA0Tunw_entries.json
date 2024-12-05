@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-04T18:10:16+00:00",
+        "description": "Say hello to Hetzner \u2014 now offering dollar payments\nfor new accounts! Signup for a Hetzner server and use code LTT24 to save\n$20 at https://htznr.li/LTT2412\n\nThanks to MANSCAPED for sponsoring today's video. Get 20% Off + Free International Shipping with promo code LTT20 or visit http://manscaped.com/LTT20\n\nYou don\u2019t even think about it with a pre-built computer, but every time you build or buy a new PC, you\u2019re probably spending 10% of your budget on a Windows license. Does it REALLY need to cost so much?\n\nDiscuss on the forum: https://linustechtips.com/topic/1591311-5-ways-to-not-pay-full-price-for-windows/\n\nNeed to Bypass Windows 11 TPM, CPU, and RAM Requirements? Check out this guide!\nhttps://www.tomshardware.com/how-to/bypass-windows-11-tpm-requirement\n\nBuy Windows 11 Home: https://www.amazon.com/Microsoft-Wind%D0%BEws-Pro-OEM-DVD/dp/B09MYJ1R6L\n\nBuy Windows 11 Pro: https://www.amazon.com/Microsoft-Wind%D0%BEws-Pro-OEM-DVD/dp/B09MYBD79G\n\n\u25ba GET OUR MERCH: https://lttstore.com\n\u25ba GET",
+        "id": 1644018,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yJkRd9py5mA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yJkRd9py5mA/hqdefault.jpg",
+        "title": "5 Ways to Not Pay Full Price for Windows",
+        "vote": 0
+    }
+]

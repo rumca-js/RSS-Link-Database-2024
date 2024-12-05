@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-04T15:27:56.510053+00:00",
+        "description": "AMD's RDNA 4 is just around the corner, and we now got some more hints as to which GPUs are on the way and the kind of performance they might offer.",
+        "id": 1642119,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/computing/amd-rdna-4-announcement-specs-gpus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AMD\u2019s upcoming RX 8800 could be a lot better than expected",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-04T20:00:03+00:00",
+        "description": "I said it before and I'll keep saying that the FOSS world has a lot of money in it, the issue is people have absolutely no idea how to ask for money relying on social media campaigns, not reaching out to people with audiences, and not doing direct calls to action where the users are.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nThunderbird Report: https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/\nThunderbird Financials: https://stats.thunderbird.net/#financials\nKDE MR: https://invent.kde.org/plasma/plasma-workspace/-/merge_requests/4490\nKDE Donations: https://kde.org/community/donations/previousdonations/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae",
+        "id": 1644881,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5vivHquoiAc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5vivHquoiAc/hqdefault.jpg",
+        "title": "I Was Right About KDE",
+        "vote": 0
+    }
+]

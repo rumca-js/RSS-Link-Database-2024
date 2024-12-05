@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy Jahns",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-04T14:00:58+00:00",
+        "description": "Robert Eggars brings us a remake of the classic horror film, which he's wanted to do for over a decade now. Here's my review for NOSFERATU!\n\n#Nosferatu",
+        "id": 1641908,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=y7ElL5U4VmU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 164,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y7ElL5U4VmU/hqdefault.jpg",
+        "title": "Nosferatu - Movie Review",
+        "vote": 0
+    }
+]

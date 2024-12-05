@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-04T18:00:04+00:00",
+        "description": "This episode is brought to you by The Farmer's Dog. Get 50% off your first box by heading to http://thefarmersdog.com/rogan today!\n\nJohn McPhee, widely known as \u201cThe Sheriff of Baghdad\u201d or \u201cSHREK,\u201d is a retired U.S. Army Special Operations Sergeant Major with over 20 years of distinguished service. He is the owner of SOB Tactical, a supplier of specialized training and tactical gear to civilians, military, and law enforcement. \n\nwww.sobtactical.com",
+        "id": 1644017,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8E1hrK77GLI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8E1hrK77GLI/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2238 - John McPhee",
+        "vote": 0
+    }
+]

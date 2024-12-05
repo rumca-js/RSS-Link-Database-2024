@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-04T18:00:36+00:00",
+        "description": "JRE #2238 w/John McPhee\nYouTube: https://youtu.be/8E1hrK77GLI\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 1644016,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oHt_C19YKBE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oHt_C19YKBE/hqdefault.jpg",
+        "title": "\"The Sheriff of Baghdad\" on Seeing Evil in Iraq and Shows Joe Saddam Hussein's Hat",
+        "vote": 0
+    }
+]
