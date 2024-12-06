@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T10:03:00+00:00",
+        "description": "There are many ways to ask and answer this question. Authorship used to be rare, but now, all of us write something. If you&#8217;re putting your words on a social media platform, you might be surprised to discover that they could disappear at any moment. Some platforms acknowledge that they own the relationship you think [&#8230;]",
+        "id": 1648024,
+        "language": "en-US",
+        "link": "https://seths.blog/2024/12/who-owns-your-words",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Who owns your words?",
+        "vote": 0
+    }
+]

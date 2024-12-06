@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLeveraging C++20/23 Features for Low Level Interactions - Jeffrey Erickson - CppCon 2024\n---\n\nLow level interactions are a core part of embedded implementations. All too often, C++ developers rely on C constructs and interactions due to prior biases around language support.  Herein we present effective leveraging of C++20 and C++23 constructs in an embedded driver code base. From using an existing C driver more effectively with modern C++ smart pointers to leveraging constexprs for bit and byte manipulation in the standard library, we will go over how you can stay on the cutting edge of the C++ language evolution in the embedded space.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/Leveraging_Cpp20_23_Features_for_Low_Level_Interactions.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nJeffrey Erickson\n\nJeffrey E Erickson works in HW/SW Codesign Architecture at Altera, an Intel company. He holds a BS in Electrical a",
+        "id": 1649892,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=rfkSHxSoQVE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rfkSHxSoQVE/hqdefault.jpg",
+        "title": "Leveraging C++20/23 Features for Low Level Interactions - Jeffrey Erickson - CppCon 2024",
+        "vote": 0
+    }
+]

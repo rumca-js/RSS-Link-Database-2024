@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T20:00:24+00:00",
+        "description": "We recently saw the release of Vulkan 1.4 and almost immediately after that we saw implementations dropping from every GPU driver project, but especially for those within Mesa, within 2 hours 5 PRs were opened. \n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nKhronos Post: https://www.khronos.org/news/press/khronos-streamlines-development-and-deployment-of-gpu-accelerated-applications-with-vulkan-1.4\nVulkan Docs: https://docs.vulkan.org/spec/latest/index.html\nNVK MR: https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/32433\nCollabora Post: https://www.collabora.com/news-and-blog/news-and-events/nvk-now-supports-vulkan-14.html\nANV MR: https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/32441\nHoneykrisp MR: https://gitlab.freedesktop.org/mesa/mesa/-/merge_req",
+        "id": 1652315,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=trNPPtRNaHw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/trNPPtRNaHw/hqdefault.jpg",
+        "title": "Every GPU Driver Is Speedrunning Vulkan 1.4 Support",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T13:00:00+00:00",
+        "description": "This week on Uncanny Valley, we do a deep dive on Open AI\u2019s Sam Altman.",
+        "id": 1648774,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6750eac98098ed0944ac3575/master/pass/Uncanny-Valley-Sam-Altman-GEAR-2187615188.jpg",
+        "title": "In Sam Altman We Trust?",
+        "vote": 0
+    }
+]

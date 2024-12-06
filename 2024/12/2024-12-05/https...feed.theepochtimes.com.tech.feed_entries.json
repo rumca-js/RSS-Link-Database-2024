@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T21:10:27+00:00",
+        "description": "AI has been used to mimic family members as part of new scam techniques.",
+        "id": 1652399,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/generative-ai-used-by-criminals-for-large-scale-believable-fraud-warns-fbi-5771489",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/12/04/id5770448-08122024-DSC00079-FBI-1080x720.jpg",
+        "title": "Generative AI Used by Criminals for Large Scale, Believable Fraud, Warns FBI",
+        "vote": 0
+    }
+]

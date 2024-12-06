@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T05:00:00+00:00",
+        "description": "The Grammy winner and former <em>Late Show</em> bandleader unravels the crisscrossing threads of musical lineage from Beethoven's own personal blues to the musical art form that undergirds Batiste's Louisiana roots.",
+        "id": 1648587,
+        "language": "en",
+        "link": "https://www.npr.org/2024/12/04/nx-s1-5191477/jon-batiste-lara-downs-interview",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jon Batiste traces the blues back to Beethoven and beyond",
+        "vote": 0
+    }
+]

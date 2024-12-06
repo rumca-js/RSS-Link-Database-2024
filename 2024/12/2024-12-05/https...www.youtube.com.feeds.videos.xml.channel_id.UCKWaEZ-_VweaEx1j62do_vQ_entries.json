@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T12:01:06+00:00",
+        "description": "Download the AI model guide to learn more\u00a0\u2192\u00a0https://ibm.biz/Bdaw7r\nLearn more about the technology\u00a0\u2192 https://ibm.biz/Bdaw7i\n\nWant to get more out of your language models? Follow Cedric Clyburn as he shows how to fine-tune large language models using InstructLab, an open-source tool that can help you customize and specialize them for specific tasks. By fine-tuning your language models, you'll be able to tackle complex tasks with ease, automate repetitive work, and unlock new insights that help you solve real-world problems and achieve your goals.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdaw7j\n#finetuning #largelanguagemodels #ai",
+        "id": 1649024,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pu3-PeBG0YU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pu3-PeBG0YU/hqdefault.jpg",
+        "title": "Fine Tuning Large Language Models with InstructLab",
+        "vote": 0
+    }
+]

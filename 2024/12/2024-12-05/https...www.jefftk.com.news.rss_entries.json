@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T08:00:00+00:00",
+        "description": "<p><span>\n\n</span>\n\n<p>\n\n<i>Cross-posted from my <a href=\"https://data.securebio.org/jefftk-notebook/cbdst-2024\">NAO\nNotebook</a>.</i>\n\n</p>\n\n<p>\n\n  <i>This is an edited transcript of a talk I just gave at <a href=\"https://cbdstconference.com/\">CBD\n S&amp;T</a>, a chem-bio defence conference.  I needed to submit the slides\n several months in advance, so I tried out a new-to-me approach where the\n slides are visual support only and I finalized the text of the talk later\n on.  This does mean there are places where it would be great to have\n    additional slides to illustrate some concepts</i>\n\n</p>\n\n<p>\n\n <i>Additionally, this was the first time I gave a talk where I wrote out\n everything I wanted to say in advance.  I think this made for a much less\n engaging talk, and for future ones I'm planning to go back to speaking from\n bullets.</i>\n\n</p>\n\n<p>\n  \n<a href=\"https://www.jefftk.com/cbdst-2024-slide-000-big.png\"><img src=\"https://www.jefftk.com/cbdst-2024-slide-000.png\" width=\"550\" h",
+        "id": 1651406,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/detection-of-asymptomatically-spreading-pathogens",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Detection of Asymptomatically Spreading Pathogens",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T16:38:09+00:00",
+        "description": "Join me, MauLer, Star Wars Theory, Robot Head, Reaper and Angry Badger as we cover the news of the week. \r\n\r\nSubscribe to Theory: https://www.youtube.com/@StarWarsTheory\r\nSubscribe to Robot Head: https://www.youtube.com/@RobotHead\r\nSubscribe to Reaper: https://www.youtube.com/@RealReaper\r\nSubscribe to Angry Badger: https://www.youtube.com/@TheAngryBadger3",
+        "id": 1650679,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Hoc7f3fh3yA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hoc7f3fh3yA/hqdefault.jpg",
+        "title": "Open Bar #121 - Skeleton Crew, Snow White Destroyed, Harry Potter TV Show",
+        "vote": 0
+    }
+]

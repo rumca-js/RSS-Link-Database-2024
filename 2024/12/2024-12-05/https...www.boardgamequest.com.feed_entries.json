@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-05T14:19:40+00:00",
+        "description": "<img width=\"640\" height=\"886\" src=\"https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog-740x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Seers Catalog\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog-740x1024.jpg 740w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog-217x300.jpg 217w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog-108x150.jpg 108w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog-768x1063.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog-1109x1536.jpg 1109w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog-640x886.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Seers-Catalog.jpg 1178w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Last y",
+        "id": 1649606,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/seers-catalog-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Seers Catalog Review",
+        "vote": 0
+    }
+]
