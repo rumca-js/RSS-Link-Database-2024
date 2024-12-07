@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-06T18:00:12+00:00",
+        "description": "It may be the least anticipated Star Wars show of all time, but you know what? Its actually not terrible. It does rip off every kids adventure movie from the 1980s, but its better than 90% of Disney Star Wars.",
+        "id": 1658626,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Hssxil7etjg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hssxil7etjg/hqdefault.jpg",
+        "title": "Star Wars: Skeleton Crew - It's Not Terrible!",
+        "vote": 0
+    }
+]

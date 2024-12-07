@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-06T15:00:41+00:00",
+        "description": "The age of AI agents is here. Models can read, see, talk, and now, even use a computer all by themselves. One of the first out of the gates is Anthropic\u2019s Claude Computer Use.\n\nIn this episode of YC Decoded, President and CEO Garry Tan dives into how Claude Computer Use works, what it can do, and how it may change AI forever.\nChapters (Powered by https://bit.ly/chapterme-yc) - \n00:00 - Intro\n01:35 - Computer Use\n03:50 - Demo\n04:50 - Tools\n05:40 - WIP\n07:05 - The future",
+        "id": 1657731,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VDmU0jjklBo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VDmU0jjklBo/hqdefault.jpg",
+        "title": "Anthropic\u2019s Claude Computer Use Is A Game Changer | YC Decoded",
+        "vote": 0
+    }
+]

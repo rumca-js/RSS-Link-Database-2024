@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-06T15:07:03+00:00",
+        "description": "https://cppcon.org\u200b\nCppCon 2024 Early Access: https://cppcon.org/early-access\nAccess All 2024 Session Videos Ahead of Their Official Release To YouTube. At least 30 days exclusive access through the Early Access system. Videos will be released to the CppCon channel on a schedule of one video per business day, with initial releases starting in November.\n---\n\nC++ Exceptions for Smaller Firmware - Khalil Estell - CppCon 2024\n---\n\nFor years, developers have overlooked a powerful tool for reducing binary size: C++ exceptions. Join me on a deep dive into the world of exceptions and discover how they can be harnessed to create more space efficient firmware. We\u2019ll explore the requirements and best practices of embedded development, and show what is required to use exceptions in that environment. By the end of this talk, you\u2019ll have a thorough understanding of how exceptions are handled, what their space costs are, and how exceptions compare to functional errors as values.\n---\n\nSlides: https:",
+        "id": 1657493,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bY2FlayomlE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bY2FlayomlE/hqdefault.jpg",
+        "title": "C++ Exceptions for Smaller Firmware - Khalil Estell - CppCon 2024",
+        "vote": 0
+    }
+]
