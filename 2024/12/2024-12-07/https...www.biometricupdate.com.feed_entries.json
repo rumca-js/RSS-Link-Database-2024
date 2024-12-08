@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T16:01:35+00:00",
+        "description": "\n\t\t<img width=\"2048\" height=\"1363\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-scaled.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-1024x681.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-768x511.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-1536x1022.jpg 1536w\" sizes=\"(max-width: 2048px) 100vw, 2048px\" />\n\t\tNew bio",
+        "id": 1663716,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202412/biometrics-upgrades-arriving-at-borders-but-check-the-schedule-for-updates",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Biometrics upgrades arriving at borders (but check the schedule for updates)",
+        "vote": 0
+    }
+]

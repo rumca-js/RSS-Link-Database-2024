@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T23:07:44+00:00",
+        "description": "I colorized, restored, and designed sound for this video of London in the 1930s. Take a journey through the bustling streets of the city, where trams glide alongside vintage cars, horse-drawn carts weave through traffic, and the fashion of the era brings life to the scene. Explore contrasting neighborhoods, from elegant districts to humble alleys, and discover the charm of London's markets, iconic landmarks, and busy train stations. Every scene offers a vivid glimpse into the city's vibrant urban architecture and dynamic daily life.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound design only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nB",
+        "id": 1665276,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VDt-4CKaOP4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VDt-4CKaOP4/hqdefault.jpg",
+        "title": "A Glimpse of London 1930s in color [60fps,Remastered] w/sound design Added",
+        "vote": 0
+    }
+]

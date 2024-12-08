@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T14:00:14+00:00",
+        "description": "Come along for a tale of mammoth meals, Venusian deserts, orbital splash parks, and slingshot-wielding spiders.",
+        "id": 1663254,
+        "language": null,
+        "link": "https://www.404media.co/an-alternate-theory-for-how-life-giving-water-came-to-earth-copy-2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2024/12/anzick-cover-full-size-landscape_press.jpg",
+        "title": "An Alternate Theory for How Life-Giving Water Came to Earth",
+        "vote": 0
+    }
+]

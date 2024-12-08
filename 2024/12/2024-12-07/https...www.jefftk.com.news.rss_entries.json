@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T08:00:00+00:00",
+        "description": "<p><span>\n\nJulia recently posted about how we're </span>\n\n<a href=\"https://forum.effectivealtruism.org/posts/mEQTxDGp4MxMSZA74/still-donating-half\">still\ndonating 50%</a>, which included this chart of monthly spending from\nour \n\n<a href=\"https://www.jefftk.com/p/spending-update-2024\">2024\nspending update</a>:\n\n\n\n<p>\n\n<a highlight href=\"https://www.jefftk.com/historical-spending-comparison-2024-big.png\"><img src=\"https://www.jefftk.com/historical-spending-comparison-2024.png\" width=\"550\" height=\"337\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:61.3vw;\" srcset=\"https://www.jefftk.com/historical-spending-comparison-2024.png 550w,https://www.jefftk.com/historical-spending-comparison-2024-2x.png 1100w\"><div style=\"height:min(61.3vw, 337px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nWhile each year before 2024 we'd been saving some, 2024 was the first\nyear in which we were drawing from savings to make donations.\nNoticing this prompted David Denkenberger to ask:",
+        "id": 1665382,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/historical-net-worth",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Historical Net Worth",
+        "vote": 0
+    }
+]

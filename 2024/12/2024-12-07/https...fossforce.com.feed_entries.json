@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T00:57:14+00:00",
+        "description": "<p><em>What percentage of the workforce in your state are IT Professionals? How many people per square mile work in tech? Where does your state rank?</em></p>\n<p>The post <a href=\"https://fossforce.com/2024/12/how-many-people-in-your-state-are-trying-to-get-the-same-tech-job-that-youre-seeking/\">How Many People In Your State Are Trying to Get the Same Tech Job That You&#8217;re Seeking?</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>\n",
+        "id": 1660983,
+        "language": "en-US",
+        "link": "https://fossforce.com/2024/12/how-many-people-in-your-state-are-trying-to-get-the-same-tech-job-that-youre-seeking",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How Many People In Your State Are Trying to Get the Same Tech Job That You\u2019re Seeking?",
+        "vote": 0
+    }
+]

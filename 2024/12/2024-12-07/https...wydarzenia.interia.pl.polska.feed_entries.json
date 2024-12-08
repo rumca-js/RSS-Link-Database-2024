@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T06:28:09.863742+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/felietony/news-piar-zbudowany-na-sprawiedliwosci,nId,7870552\"><img src=\"https://i.iplsc.com/piar-zbudowany-na-sprawiedliwosci/000K8RXFY2BF90AF-C321.jpg\" alt=\"Piar zbudowany na sprawiedliwo\u015bci\" align=\"left\" /></a>\u0141apanie i Sutryka, i Czarneckiego, i Neumanna, i Karskiego, i Palikota, i Olgierda L. (tego ostatniego po to, \u017ceby z\u0142apa\u0107 Nawrockiego) nie jest ze strony Tuska wy\u0142\u0105cznie sprawiedliwo\u015bci\u0105. Jest piarem zbudowanym na sprawiedliwo\u015bci. Jest to jednak piar skuteczniejszy ni\u017c piar Ziobry, Kaczy\u0144skiego, Romanowskiego, Obajtka czy Kuczmierowskiego. Ten drugi piar pr\u00f3buje pokaza\u0107 polityk\u00f3w prawicy jako m\u0119czennik\u00f3w, podczas gdy w rzeczywisto\u015bci chc\u0105 by\u0107 ponad prawem. </p><br clear=\"all\" />",
+        "id": 1661602,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/felietony/news-piar-zbudowany-na-sprawiedliwosci,nId,7870552",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Piar zbudowany na sprawiedliwo\u015bci",
+        "vote": 0
+    }
+]

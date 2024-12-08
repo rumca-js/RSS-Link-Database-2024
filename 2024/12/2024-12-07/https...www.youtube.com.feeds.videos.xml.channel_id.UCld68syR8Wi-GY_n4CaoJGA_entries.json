@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T20:00:14+00:00",
+        "description": "If you recall a few years back Wolfire Games launched an antitrust lawsuit against Valve and a few months later it got dismissed, well it didn't go away and now it has returned with a vengeance.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nGamingOnLinux Article: https://www.gamingonlinux.com/2021/04/wolfire-games-filed-a-lawsuit-against-valve-over-abuse-of-their-market-position/\nWolfire Blog:  http://blog.wolfire.com/2021/05/Regarding-the-Valve-class-action\n70/30 Split:  https://www.pcgamer.com/former-paradox-interactive-ceo-calls-7030-revenue-split-outrageous/\nCase Dismissed: https://www.gamingonlinux.com/2021/08/valve-fires-back-in-the-lawsuit-from-wolfire-games\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://tec",
+        "id": 1664760,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cffEL6V-58E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cffEL6V-58E/hqdefault.jpg",
+        "title": "Valve's Antitrust Case Returns With A Vengeance",
+        "vote": 0
+    }
+]

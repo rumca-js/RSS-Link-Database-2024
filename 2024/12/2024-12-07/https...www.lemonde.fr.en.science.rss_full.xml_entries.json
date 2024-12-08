@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-07T02:15:51.917005+00:00",
+        "description": "Insects aren't necessarily the only pollinators, but the Ethiopian wolf could be an unexpected candidate, as recent observations have shown that the canid is partial to the nectar of the large, cone-shaped flowers of the commonly named red-hot poker plant.",
+        "id": 1661089,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2024/12/07/ethiopian-wolves-seen-foraging-for-nectar-are-potential-pollinators_6735451_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2024/12/02/796/0/4773/2386/644/322/60/0/c65e1e0_1733144804007-ew-in-flowers-hd-2.jpg",
+        "title": "Ethiopian wolves seen foraging for nectar are potential pollinators",
+        "vote": 0
+    }
+]
