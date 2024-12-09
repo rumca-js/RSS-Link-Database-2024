@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hugh Jeffreys",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-08T08:00:12+00:00",
+        "description": "A unofficial \"part 2\" for the three free iMacs I found on FaceBook Marketplace and picked up from the side of the road. The largest of the three iMacs was converted into a modern Mac with M1 hardware, but I have a different plan for these two.\n----------------------------------------iTest---------------------------------------\nEasily test hardware functionality and device specifications with iTest\nAndroid: https://play.google.com/store/apps/details?id=com.hughjeffreyssoftware.iTest\nIOS: https://apps.apple.com/us/app/itest/id6484069424\n--------------------------------------Socials-------------------------------------\nWebsite: https://www.hughjeffreys.com\nStore: https://www.hughjeffreys.com/store\nInstagram: http://instagram.com/hughjeffreys\nPatreon: https://www.patreon.com/hughjeffreys",
+        "id": 1666616,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HZHLpztbKXA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 145,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HZHLpztbKXA/hqdefault.jpg",
+        "title": "Two iMac G4 Saved From The Side Of The Road - Will They Power On + Cleaning",
+        "vote": 0
+    }
+]

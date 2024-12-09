@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-08T09:02:06.635555+00:00",
+        "description": "Kanclerz Olaf Scholz o\u015bwiadczy\u0142, \u017ce w zwi\u0105zku z kryzysem przemys\u0142u ci\u0119\u017ckiego skarb pa\u0144stwa Niemiec przyjdzie z pomoc\u0105 gigantowi Thyssenkrupp i obejmie w nim udzia\u0142 mniejszo\u015bciowy.",
+        "id": 1666671,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art41552761-thyssenkrupp-w-potrzebie-rzad-niemiec-przyjdzie-z-pomoca",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Thyssenkrupp w potrzebie. Rz\u0105d Niemiec przyjdzie z pomoc\u0105",
+        "vote": 0
+    }
+]

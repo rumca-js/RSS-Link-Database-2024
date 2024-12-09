@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-08T20:39:35+00:00",
+        "description": "Sponsor: Get 10% off Squarespace purchases (https://geni.us/BqEpf)\nIntel's Tom Petersen joins us to discuss the Battlemage GPU architecture and the B580 GPU performance characteristics, specifically focusing on a look inside a single frame. This discussing gives us engineering insight into the performance behavior of a GPU, specifically highlighting how we can see areas of improvement and what architectural changes benefit performance the most in a given game. The example game is Fortnite, with one frame pulled at 1440p. Petersen walks us through Execute Indirect, UAV Write Cache, and other improvements for the new Intel Arc GPUs. The B580 reviews are coming up soon, so we'll see all of this in practice soon enough.\n\nSupport our technical content via the GN Store. Right now, through the end of 12/8/24, we are donating $5 per order to Internet Archive. You can also use code 'PUCKGAMERSNEXUS' for 10% off while it is active: https://store.gamersnexus.net/\n\nWatch our previous interviews ",
+        "id": 1669500,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ACOlBthEFUw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ACOlBthEFUw/hqdefault.jpg",
+        "title": "Intel Battlemage GPU Deep-Dive Into a Frame | Engineering Discussion ft. Tom Petersen",
+        "vote": 0
+    }
+]

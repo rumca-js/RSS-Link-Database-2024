@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-08T21:46:56+00:00",
+        "description": "\n<p>Mark Gurman, in his Power On column for Bloomberg:</p>\n\n<blockquote>\n  <p>Apple is now working on a major effort to support third-party hand\ncontrollers in the device\u2019s visionOS software and has teamed up\nwith Sony Group Corp. to make it happen. Apple approached Sony\nearlier this year, and the duo agreed to work together on\nlaunching support for the PlayStation VR2\u2019s hand controllers on\nthe Vision Pro. Inside Sony, the work has been a monthslong\nundertaking, I\u2019m told. And Apple has discussed the plan with\nthird-party developers, asking them if they\u2019d integrate support\ninto their games. [...]</p>\n\n<p>One hiccup is that Sony doesn\u2019t currently sell its VR hand\ncontrollers as a standalone accessory. The company would need to\ndecouple the equipment from its own headset and kick off\noperations to produce and ship the accessory on its own. As part\nof the arrangement, Sony would sell the controllers at Apple\u2019s\nonline and retail stores, which already offer PS5 versions.</p>\n</blockquote>\n",
+        "id": 1669834,
+        "language": null,
+        "link": "https://www.bloomberg.com/news/newsletters/2024-12-08/apple-sony-talk-playstation-vr-ps-vr2-hand-controller-support-for-vision-pro",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gurman: Apple and Sony Are Working to Bring PlayStation VR Hand Controller Support to Vision Pro",
+        "vote": 0
+    }
+]

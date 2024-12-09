@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-08T08:02:19+00:00",
+        "description": "Nick Frost on his newest horror comedy and what makes the slasher funny.",
+        "id": 1668006,
+        "language": "en",
+        "link": "https://www.npr.org/2024/12/08/nx-s1-5172431/nick-frost-wants-you-to-laugh-and-squirm-in-get-away",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nick Frost wants you to laugh and squirm in \"Get Away\"",
+        "vote": 0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_published": "2024-12-08T17:00:37+00:00",
+        "description": "\ud83d\ude94\u00a0Facebookowi powinno si\u0119 postawi\u0107 zarzuty udzia\u0142u w zorganizowanej grupie przest\u0119pczej i wcale nie przesadzam. No, dobra, mo\u017ce pewnym nadu\u017cyciem jest nazwanie jej \u201czorganizowan\u0105\u201d, ale reszta si\u0119 zgadza. \n \n\u0179r\u00f3d\u0142a:\n\ud83d\udea8\u00a0ScamBook - Piotr Zarzycki i Pawe\u0142 Srokosz, Oh My H@ck 2024\nhttps://omhconf.pl/wyklady-2024/#id=96704\n\n\ud83d\udd75\ufe0f\u200d\u2640\ufe0f\u00a0Oszustwa reklamowe na du\u017cych platformach internetowych \nhttps://cert.pl/posts/2024/11/Oszustwa-reklamowe-na-duzych-platformach/\n\n\ud83d\udcd1\u00a0Stanowisko CERT Polska dot. ograniczania przez firm\u0119 Meta widoczno\u015bci artyku\u0142u na temat oszustw na tej platformie. \nhttps://cert.pl/posts/2024/11/blokada-na-meta-stanowisko/\n\n\ud83d\udcc3\u00a0Oczekiwania CERT Polska dot. rozwi\u0105zania przez firm\u0119 Meta problem\u00f3w z oszustwami na jej platformach spo\u0142eczno\u015bciowych. \nhttps://cert.pl/posts/2024/12/oczekiwania-wobec-meta/\n\n\ud83e\uddc5\u00a0Jakub MRUGALSKI.PL\nhttps://mrugalski.pl/\n\n\u2757\ufe0fORLEN - Ostrze\u017cenie przed oszustwami\nhttps://www.orlen.pl/pl/ostrzegamy\n\n\ud83d\udd39\u00a0Rafa\u0142 Brzoska @ LinkedIn\nhttps://www.linkedin.com/feed/update/urn:li:",
+        "id": 1668686,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cVEX2WhamYU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cVEX2WhamYU/hqdefault.jpg",
+        "title": "Oszust nasz pan. Jak Facebook chroni scamer\u00f3w.",
+        "vote": 0
+    }
+]
