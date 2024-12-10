@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-09T06:00:00+00:00",
+        "description": " The Philosopher Fish: Sturgeon, Caviar, and the Geography of Desire has been crowned the winner of the Diagram prize for the oddest book title of the year.\n<br><br>\nThe book, by Richard Adams Carey, traces how the caviar industry has changed. In a public vote on the shortlisted titles, The Philosopher Fish won 27%, representing the narrowest winning margin in the history of the prize, which is administered by the Bookseller.",
+        "id": 1673904,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3341",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": " The Philosopher Fish wins oddest book title prize",
+        "vote": 0
+    }
+]

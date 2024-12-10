@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-09T18:13:01+00:00",
+        "description": "Its a great, tension-fuelled psychological thriller, with a powerhouse performance from James McAvoy. The only problem is the ending, which completely misses the point of the Danish original. Join me as I compare the two, and explain why one is the perfect ending, and the other is Hollywood schlock.",
+        "id": 1675399,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=p1pDOh4gJQ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p1pDOh4gJQ0/hqdefault.jpg",
+        "title": "How \"Speak No Evil\" Misses The Point - A Comparison",
+        "vote": 0
+    }
+]

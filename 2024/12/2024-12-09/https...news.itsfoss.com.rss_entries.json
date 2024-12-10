@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-09T08:14:25+00:00",
+        "description": "Flathub is an increasingly popular portal for Flatpak apps for every Linux distribution. Now, it's doing something to help the ecosystem grow!",
+        "id": 1671596,
+        "language": null,
+        "link": "https://news.itsfoss.com/flathub-paid-apps",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2024/12/Flathub-payment-and-donation.png",
+        "title": "Flathub To Introduce Paid Apps and Easy Donation Options",
+        "vote": 0
+    }
+]

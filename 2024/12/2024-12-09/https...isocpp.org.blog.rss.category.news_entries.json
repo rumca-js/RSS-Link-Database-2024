@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-09T20:00:48+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />In this article, we&#39;ll learn about&nbsp;<code>-Wstring-conversion</code>, something I learned from C++ Brain Teasers by Anders Schau Knatten](<a href=\"https://www.sandordargo.com/blog/2024/10/16/cpp-brain-teasers\" rel=\"nofollow\">https://www.sandordargo.com/blog/2024/10/16/cpp-brain-teasers</a>). Clang offers this compiler warning which fires on implicit conversions from C-strings to&nbsp;<code>bool</code>s.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2024/11/13/implicit-string-conversion-to-bool\">Implicit String Conversions to Booleans</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tLet&rsquo;s start with the first part by explaining why such an implicit conversion is possible. A string literal is an array of&nbsp;<code>const char</code>s. Arrays c",
+        "id": 1676104,
+        "language": null,
+        "link": "https://isocpp.org//blog/2024/12/implicit-string-conversions-to-booleans-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Implicit String Conversions to Booleans -- Sandor Dargo",
+        "vote": 0
+    }
+]
