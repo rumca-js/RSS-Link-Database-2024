@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T11:38:30.568243+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/kraj/news-oszustwa-w-mediach-spolecznosciowych-cert-alarmuje-wpisy-zni,nId,7869697\"><img src=\"https://i.iplsc.com/oszustwa-w-mediach-spolecznosciowych-cert-alarmuje-wpisy-zni/000D4D81AVK8ECJP-C321.jpg\" alt=\"Oszustwa w mediach spo\u0142eczno\u015bciowych. CERT alarmuje, wpisy znikaj\u0105 \" align=\"left\" /></a>Oszustwa w mediach spo\u0142eczno\u015bciowych staj\u0105 si\u0119 coraz bardziej wyrafinowane, stanowi\u0105c powa\u017cne zagro\u017cenie dla u\u017cytkownik\u00f3w. CERT Polska niedawno zwr\u00f3ci\u0142 uwag\u0119 na te niebezpiecze\u0144stwa, jednak ich dzia\u0142ania napotka\u0142y niespodziewane przeszkody ze strony koncernu Meta.</p><br clear=\"all\" />",
+        "id": 1679843,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-oszustwa-w-mediach-spolecznosciowych-cert-alarmuje-wpisy-zni,nId,7869697",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Oszustwa w mediach spo\u0142eczno\u015bciowych. CERT alarmuje, wpisy znikaj\u0105",
+        "vote": 0
+    }
+]

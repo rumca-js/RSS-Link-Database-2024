@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T16:58:24+00:00",
+        "description": "In this JavaScript course, @Radu  will teach you about good coding practices when building a fun project. It emphasizes how understanding math concepts can result in simpler, easier to understand code that also correlates with fewer bugs. \n\nThe project was inspired by the polyrhythms on the @project_jdmchannel: \nhttps://www.youtube.com/channel/UCHAiieQmQBS38_AUkPf-7iQ\nCheck them out if you haven't seen them yet!\n\nWhile building this, we'll learn about procedural sound generation techniques, demonstrate how to enhance code structure for better readability and maintainability, and showcase the power of math in simplifying complex codebases.\n\nIf you've ever doubted the usefulness of math in coding, this video is tailor-made for you! We'll debunk the myth and show you firsthand how a bit of mathematical understanding can elevate your programming skills to new heights. So, grab your coding gear and get ready to follow along with this exciting project!\n\nconst soundFrequencies = [\n         ",
+        "id": 1682713,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eX-ODcr3XJg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eX-ODcr3XJg/hqdefault.jpg",
+        "title": "Polyrhythms JavaScript Project Tutorial \u2013 How Math Can Make Your Code Better",
+        "vote": 0
+    }
+]

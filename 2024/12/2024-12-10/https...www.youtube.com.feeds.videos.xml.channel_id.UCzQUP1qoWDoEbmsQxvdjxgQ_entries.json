@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T18:00:02+00:00",
+        "description": "This episode is brought to you by The Farmer's Dog. Get 50% off your first box by heading to http://thefarmersdog.com/rogan today!\n\nQuentin Tarantino is an Academy Award-winning writer, producer, and director known for films such as \"Pulp Fiction\" and \"Once Upon a Time in Hollywood.\" Roger Avary is a Tony Award-winning director, screenwriter, and producer known for \"The Rules of Attraction\" and his collaboration with Tarantino on \"Pulp Fiction.\" Together, they host the second season of their podcast, \"The Video Archives,\" available now.\n\nwww.patreon.com/videoarchives",
+        "id": 1683189,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0u5vPHuAXXg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0u5vPHuAXXg/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2240 - Roger Avary & Quentin Tarantino",
+        "vote": 0
+    }
+]

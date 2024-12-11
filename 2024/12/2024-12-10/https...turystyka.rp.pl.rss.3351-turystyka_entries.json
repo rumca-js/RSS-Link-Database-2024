@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T00:20:00+00:00",
+        "description": "10,7 miliona turyst\u00f3w odwiedzi\u0142o Bu\u0142gari\u0119 od stycznia do wrze\u015bnia tego roku, wynika z danych tamtejszego Urz\u0119du Statycznego, na kt\u00f3re powo\u0142uje si\u0119 niemiecki portal bran\u017cy turystycznej Reise vor9. To o 2,5 procent wi\u0119cej ni\u017c przed pandemi\u0105.",
+        "id": 1678931,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art41561201-bulgaria-miala-najlepszy-sezon-turystyczny-w-historii-rekord-z-2019-roku-przebity",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bu\u0142garia mia\u0142a najlepszy sezon turystyczny w historii. Rekord z 2019 roku przebity",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T06:26:58.104003+00:00",
+        "description": "PFR i\u00a0armia przygl\u0105daj\u0105 si\u0119 tworzonym przez start-upy technologiom. Celem ma by\u0107 poprawa bezpiecze\u0144stwa pa\u0144stwa.",
+        "id": 1678495,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art41555431-autonomiczne-pojazdy-drony-i-radary-polskie-start-upy-na-celowniku-armii",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Autonomiczne pojazdy, drony i radary. Polskie start-upy na celowniku armii",
+        "vote": 0
+    }
+]

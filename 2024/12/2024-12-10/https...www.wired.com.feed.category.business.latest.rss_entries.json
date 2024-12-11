@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T11:00:00+00:00",
+        "description": "Robots! Huge capacitors! A pianist-programmer of impossible skill! One of Silicon Valley's formative figures takes the stage at a wild event.",
+        "id": 1679660,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/inside-a-fusion-startups-insane-top-secret-opening-ceremony",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6752279f2562b98b8e4485f6/master/pass/WEB_Fusion_Robot_Music_Serene_1.jpg",
+        "title": "Inside a Fusion Startup's Insane, Top-Secret Opening Ceremony",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T19:35:06+00:00",
+        "description": null,
+        "id": 1683424,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nPBW-ldX2YI",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nPBW-ldX2YI/hqdefault.jpg",
+        "title": "Chat GPT za 800 z\u0142otych miesi\u0119cznie",
+        "vote": 0
+    }
+]

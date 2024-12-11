@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T05:30:04+00:00",
+        "description": "Microsoft nie wycofuje si\u0119 z kontrowersyjnego pomys\u0142u asystenta AI, Recalla.\n \n\u0179r\u00f3d\u0142a:\nhttps://tinyurl.com/mr3maszs\nhttps://tinyurl.com/5bnyy9yr\n \n#Microsoft #recall #AI #prywatno\u015b\u0107",
+        "id": 1678577,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BHGj0qZF48w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BHGj0qZF48w/hqdefault.jpg",
+        "title": "\ud83d\udcbb\ufe0f Microsoftowy Recall dost\u0119pny szerzej",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T13:38:21+00:00",
+        "description": "<p>A sophisticated cyberespionage operation dubbed &#8220;Operation Digital Eye&#8221; has been attributed to a suspected Chinese Advanced Persistent Threat (APT) group.\u00a0 According to Aleksandar Milenkoski, Senior Threat Researcher at SentinelLabs, and Luigi Martire, Senior Malware Analyst at Tinexta Cyber, the campaign targeted large business-to-business (B2B) IT service providers in southern Europe between late June and mid-July<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/operation-digital-eye-chinese-hackers-exploit-visual-studio-code/\" title=\"ReadOperation Digital Eye: Chinese hackers exploit Visual Studio Code\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/operation-digital-eye-chinese-hackers-exploit-visual-studio-code/\">Operation Digital Eye: Chinese hackers exploit Visual Studio Code</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>\n",
+        "id": 1680931,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/operation-digital-eye-chinese-hackers-exploit-visual-studio-code",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Operation Digital Eye: Chinese hackers exploit Visual Studio Code",
+        "vote": 0
+    }
+]

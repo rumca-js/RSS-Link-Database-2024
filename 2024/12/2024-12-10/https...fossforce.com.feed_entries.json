@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-10T20:18:51+00:00",
+        "description": "<p><em>Going toe-to-toe with proprietary players these days means including a capable AI assistant. As Ragu used to say, \"It's in there.\"</em></p>\n<p>The post <a href=\"https://fossforce.com/2024/12/nextcloud-takes-on-teams-with-talk-we-have-screenshots/\">Nextcloud Takes on &#8216;Teams&#8217; With &#8216;Talk&#8217; &#8212; We Have Screenshots</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>\n",
+        "id": 1683801,
+        "language": "en-US",
+        "link": "https://fossforce.com/2024/12/nextcloud-takes-on-teams-with-talk-we-have-screenshots",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nextcloud Takes on \u2018Teams\u2019 With \u2018Talk\u2019 \u2014 We Have Screenshots",
+        "vote": 0
+    }
+]
