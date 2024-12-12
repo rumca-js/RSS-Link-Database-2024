@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T20:00:10+00:00",
+        "description": "Almost 10 years ago we saw the launch of the Steam Machines and the Steam Universe and as of late there's been a bunch of Valve leaks that seem to indicate that something of the sort is in the works again, that being a new device code named fremont\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nSteam Bran Guidelines: https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/steamworks_docs/english/steam_brandGuidelines.pdf\nValve Time: https://developer.valvesoftware.com/wiki/Valve_Time\nSteamOS Update: https://store.steampowered.com/news/app/1675200/view/4361258795952118017\nReddit Post: https://www.reddit.com/r/SteamDeck/comments/1h7521g/looks_like_valve_is_working_on_a_steamos_device/\nKernel Commit: https://gitlab.com/evlaV/linux-integration/-/commit/3d92f93",
+        "id": 1691252,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KXF2JvSJf_4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KXF2JvSJf_4/hqdefault.jpg",
+        "title": "Is Fremont the Rebirth Of Valve's Steam Machines",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T05:52:50.619624+00:00",
+        "description": "W ramach popularnego programu unijnego mo\u017cna ubiega\u0107 si\u0119 o dofinansowanie dzia\u0142a\u0144 zwi\u0105zanych z szeroko rozumian\u0105 edukacj\u0105. Program Erasmus+ obejmuje lata 2021-2027. Jednym z kluczowych priorytet\u00f3w projektu jest mobilno\u015b\u0107 edukacyjna.",
+        "id": 1685985,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art41562641-ruszyl-nabor-do-programu-erasmus-2025-harmonogram-skladania-wnioskow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ruszy\u0142 nab\u00f3r do programu Erasmus+ 2025. Harmonogram sk\u0142adania wniosk\u00f3w",
+        "vote": 0
+    }
+]

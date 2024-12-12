@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T14:01:00+00:00",
+        "description": "Linux Foundation Education is running its annual CyberWeek promotion, with BIG savings on training, courses, and certifications to help support your developer journey. Offers end December 11, don't miss out!\nhttps://hubs.la/Q02-rGWd0",
+        "id": 1688558,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mbifqgSgw7A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mbifqgSgw7A/hqdefault.jpg",
+        "title": "Take advantage of CyberWeek savings with certifications from the Linux Foundation",
+        "vote": 0
+    }
+]

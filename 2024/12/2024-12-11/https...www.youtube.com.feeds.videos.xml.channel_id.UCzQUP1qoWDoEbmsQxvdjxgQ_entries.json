@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T18:00:22+00:00",
+        "description": "This episode is brought to you by The Farmer's Dog. Get 50% off your first box by heading to http://thefarmersdog.com/rogan today!\n\nTake ownership of your health with AG1 and get a FREE 1-year supply of Vitamin D3+K2 AND 5 free Travel Packs with your first subscription. Go to http://drinkag1.com/joerogan\n\nRick Strassman is a Clinical Associate Professor of Psychiatry at the University of New Mexico School of Medicine. His new book, \"My Altered States: A Doctor's Extraordinary Account of Trauma, Psychedelics, and Spiritual Growth,\" is available now.\n\nhttp://www.rickstrassman.com",
+        "id": 1690604,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_UmIlHby5h8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_UmIlHby5h8/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2241 - Rick Strassman",
+        "vote": 0
+    }
+]

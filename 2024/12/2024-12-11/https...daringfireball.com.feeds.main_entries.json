@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T20:13:07+00:00",
+        "description": "<p>Juli Clover at MacRumors:</p>\n\n<blockquote>\n  <p>Apple today made a mistake with its macOS Sequoia 15.2 update,\nreleasing the software for two Macs that have yet to be launched.\nThere is a software file for \u201cMac16,12\u201d and \u201cMac16,13,\u201d which are\nupcoming MacBook Air models.</p>\n\n<p>The leaked software references the \u201cMacBook Air (13-inch, M4,\n2025)\u201d and the \u201cMacBook Air (15-inch, M4, 2025),\u201d confirming that\nnew M4 MacBook Air models are in development and are likely not\ntoo far off from launching.</p>\n\n<p>It\u2019s been widely rumored that Apple is working to bring the M4\nchips to its entire Mac lineup, and the MacBook Air is <a href=\"https://www.macrumors.com/guide/2025-macbook-air/\" title=\"MacRumors: \u201cApple's 2025 M4 MacBook Air: What to Expect\u201d\">expected to\nget an M4 refresh</a> in the spring of 2025, so sometime between March\nand June.</p>\n</blockquote>\n\n<p>Were these references <em>not</em> in the 15.2 betas? If not, what a weird mistake to happen only in the release builds. But reg",
+        "id": 1691251,
+        "language": null,
+        "link": "https://www.macrumors.com/2024/12/11/macos-sequoia-15-2-m4-macbook-air-leak",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MacOS Sequoia 15.2 Includes References to Next Year\u2019s M4 MacBook Air Models",
+        "vote": 0
+    }
+]

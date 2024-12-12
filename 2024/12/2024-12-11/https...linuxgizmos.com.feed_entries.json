@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T05:01:39+00:00",
+        "description": "The LILYGO T-Deck Plus is an development platform tailored for IoT enthusiasts and professionals alike. Building upon the features of the original T-Deck, the Plus version introduces significant enhancements, including an integrated GPS module and a powerful 2000mAh battery, making it ideal for portable and versatile IoT applications. At the core of the T-Deck Plus [&#8230;]",
+        "id": 1685980,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/updated-t-deck-plus-an-esp32-handheld-device-with-gps-and-lora-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "(Updated) T-Deck Plus: An ESP32 Handheld Device with GPS and LoRa Support",
+        "vote": 0
+    }
+]

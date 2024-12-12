@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T08:00:00+00:00",
+        "description": "<p><span>\n\nMany people who've used Tesla's \"Full Self Driving\" software are\npretty </span>\n\n<a href=\"https://news.ycombinator.com/item?id=42384199\">excited\nabout it</a>:\n\n\n\n<p>\n\n</p>\n\n<blockquote>\nI can step into a Tesla today, press a destination, and go there\nwithout touching the wheel or pedals. Sure it won't be flawless but\nthe fact is, I can. I can't do the same in any other consumer car, and\nthe closest thing is a Waymo. The effort is there, I think its just a\nmatter of time before we start seeing the legal stuff play out.\n</blockquote>\n\n\n\n<p>\n\nI think this is mostly not a legal issue.  Let's take perhaps the most\nfavorable conditions for driverless cars:\n\n</p>\n\n<p>\n\n</p>\n\n<ul>\n<li>A specific highway the manufacturer has checked\n</li>\n<li>Heavy traffic, under 40mph\n</li>\n<li>No rain or snow\n</li>\n<li>No work zones\n</li>\n<li>Daytime\n</li>\n</ul>\n\n\n\n<p>\n\nTesla could demonstrate their system worked sufficiently reliably in\nthese conditions that the person in the driver's seat could",
+        "id": 1688903,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/why-isnt-tesla-level-3",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why Isn't Tesla Level 3?",
+        "vote": 0
+    }
+]

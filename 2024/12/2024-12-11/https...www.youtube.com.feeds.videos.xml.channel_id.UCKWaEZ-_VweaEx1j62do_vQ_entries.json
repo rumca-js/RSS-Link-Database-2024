@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-11T12:01:00+00:00",
+        "description": "Get the AI Academy guidebook: Put AI to work for customer service\u00a0\u2192 https://ibm.biz/Bdaw7u\nLearn About The Technology \u2192 https://ibm.biz/Bdaw7L\n\nCustomer Experience, Customer Service, and Customer Support are three distinct aspects of how businesses interact with customers. In this video, Amanda Downie explores the differences between these concepts and how they impact the customer journey. From pre-purchase to post-purchase, learn how businesses can provide a positive experience, deliver exceptional service, and offer effective support to customers, all while leveraging technology like AI.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdaw79\n#customerjourney #ai #customerservice #customerexperience #customersupport",
+        "id": 1687658,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=q5bhjOzCx9A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/q5bhjOzCx9A/hqdefault.jpg",
+        "title": "Customer Service vs. Customer Experience vs. Customer Support",
+        "vote": 0
+    }
+]
