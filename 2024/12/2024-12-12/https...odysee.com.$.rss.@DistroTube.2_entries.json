@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T12:00:40+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/UhZQsXSW2SM\" width=\"480\" alt=\"thumbnail\" title=\"How To Easily Install Debian Unstable\" /></p>Today, I'm showing my preferred method of installing Debian, using the mini.iso.  I am also going to install Debian \"unstable\" as opposed to \"stable.\"  There are no \"unstable\" ISOs so using the mini.iso and the \"expert install\" option is an easy way to install \"unstable.\" <br /><br />DEBIAN'S MINI ISO:<br />\u25ba https://d-i.debian.org/daily-images/amd64/daily/netboot/<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26lc",
+        "id": 1696183,
+        "language": "en",
+        "link": "https://odysee.com/how-to-easily-install-debian-unstable:aa00bcdfd5e5a1b0f413da20c2ea77c7bf7e2b2c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How To Easily Install Debian Unstable",
+        "vote": 0
+    }
+]

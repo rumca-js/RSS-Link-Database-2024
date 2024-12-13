@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T19:28:00+00:00",
+        "description": "This NASA/ESA Hubble Space Telescope image features a spiral galaxy, named UGC 10043. Located roughly 150 million light-years from Earth in the constellation Serpens, UGC 10043 is one of the somewhat rare spiral galaxies that we see edge-on.",
+        "id": 1698718,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/spiral-from-the-side",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hubble Captures an Edge-On Spiral with Curve Appeal",
+        "vote": 0
+    }
+]

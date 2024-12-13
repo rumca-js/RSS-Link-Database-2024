@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T08:00:00+00:00",
+        "description": "<p><span>\n\nA standard </span>\n\n<a href=\"https://en.wikipedia.org/wiki/Respirator\">respirator</a>, like a\n\n\n<a href=\"https://www.jefftk.com/p/duckbill-masks-are-great\">disposable\nN95</a> or an \n\n<a href=\"https://www.jefftk.com/p/mask-and-respirator-intelligibility-comparison\">elastomeric\nP100</a>, uses the power of the wearer's lungs to move air through a\nfilter.  An unpowered device has a lot of advantages in simplicity and\nreliability, but it can also be tiring, limits filtering capacity to\nwhat the wearer can tolerate, and requires a good seal on the face to\nprevent air intrusion during inhalation.  An alternative approach is a\n\n\n<a href=\"https://en.wikipedia.org/wiki/Powered_air-purifying_respirator\">Powered\nAir-Purifying Respirator</a> (PAPR), which typically uses a\nbattery-powered fan to push air through a filter.\n\n\n\n<p>\n\nA high-quality PAPR like the ones in the <a href=\"https://www.3m.com/3M/en_US/respiratory-protection-us/products/papr/\">3M\nVersaflo</a> series will cost you <a",
+        "id": 1698721,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/mini-papr-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mini PAPR Review",
+        "vote": 0
+    }
+]

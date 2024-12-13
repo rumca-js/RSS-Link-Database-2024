@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T08:08:18.972762+00:00",
+        "description": "\u201eSmart\u201d transformacja to ju\u017c nie tylko domena miast. Coraz powszechniejsze staj\u0105 si\u0119 cyfrowe rozwi\u0105zania na wsi, pomagaj\u0105ce np. w prowadzeniu gospodarstwa rolnego - pisze Dominik Zieli\u0144ski, Sie\u0107 Badawcza \u0141ukasiewicz - ITECH Instytut Innowacji i Technologii.",
+        "id": 1694260,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/opinie-i-komentarze/art41572431-odpowiedzialne-innowacje-jak-madra-bedzie-smart-wies",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Odpowiedzialne innowacje. Jak m\u0105dra b\u0119dzie \u201esmart\u201d wie\u015b?",
+        "vote": 0
+    }
+]

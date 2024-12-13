@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T15:16:46+00:00",
+        "description": "XMCOSY sent over some string lights, and I got them working in Home Assistant! This includes color, brightness, color temp, and scenes. All without needing to ping to the cloud after setup.\n\nAmazon Affiliate Links\nAcrylic XMCOSY Lights: \n64FT: https://amzn.to/3ZBgPVI\n96FT: https://amzn.to/3OPLr0O\n \nRounded XMCOSY Lights: \n98ft: https://amzn.to/3VB5pQy \n49FT: https://amzn.to/4iAxwcS\n \nRectangular Wall Light: \nhttps://amzn.to/4g9Ahjn\n\n\ud83d\udcd6 RESOURCES\nHACS: https://www.hacs.xyz/docs/use/download/prerequisites/\nMy Github: https://github.com/TechHutTV/homelab/tree/main/homeassistant#localtuya-in-home-assistant\n\n\ud83c\udfc6FOLOW TECHHUT  \nX (Twitter): https://bit.ly/twitter-techhut  \nMASTODON: https://bit.ly/mastodon-techhut  \nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4fSUPPORT TECHHUT (all links below this line will earn us commission)  \nBUY ME A COFFEE: https://buymeacoffee.com/techhut  \nAIRVPN: https://airvpn.org/?referred_by=673908  \nHOSTINGER: https://bit.ly/techhut-hostinger  \nYOUTUBE MEMBER: https",
+        "id": 1697000,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=M-sQcS3KEm8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M-sQcS3KEm8/hqdefault.jpg",
+        "title": "ULTIMATE Local Tuya Guide! - Holiday Lights in Home Assistant",
+        "vote": 0
+    }
+]

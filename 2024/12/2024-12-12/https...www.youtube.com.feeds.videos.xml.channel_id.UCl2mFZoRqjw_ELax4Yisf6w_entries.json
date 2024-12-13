@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T17:52:28+00:00",
+        "description": "\ud83d\udc49 Bill amendments ORIGINAL SOURCE: https://d356mar4ez6tcl.cloudfront.net/skrine/media/assets/cma-amdmt-bill-2024.pdf\n\nhttps://www.reddit.com/r/malaysia/comments/1fa30rj/mcmc_now_orders_dns_redirection_from_all_isps_by/\nhttps://www.lowyat.net/2024/331540/honor-magic-v3-launches-in-malaysia-retails-at-rm6999/\nhttps://www.lowyat.net/2024/328505/maxis-time-transparent-dns-proxy/\nhttps://imap.sinarproject.org/news/internet-censorship-update-transparent-dns-proxy-implemented-by-malaysian-isps-on-cloudflare-and-google-public-dns-servers\nhttps://www.reddit.com/r/malaysia/comments/1f8okij/malaysia_is_implementing_dns_block_all_3rd_party/\nhttps://www.lowyat.net/2024/331789/mcmc-dns-redirection-of-public-servers-has-been-halted/\nhttps://x.com/fahmi_fadzil/status/1832628152570679401\nhttps://circleid.com/posts/20240909-malaysia-reverses-decision-on-controversial-dns-redirection-policy\nhttps://www.reuters.com/business/media-telecom/malaysia-defends-web-traffic-re-routing-plan-against-online-censor",
+        "id": 1698441,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-rnE6OzsYpU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-rnE6OzsYpU/hqdefault.jpg",
+        "title": "Malaysia's PM betrays reform promises: new Law enable warrantless searches & internet censorship",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T11:10:33.255593+00:00",
+        "description": "W tym sezonie zimowym w s\u0142owackim o\u015brodku narciarskim Bachledka Ski & Sun zacznie dzia\u0142a\u0107 nowa, sze\u015bcioosobowa kolejka z os\u0142on\u0105.",
+        "id": 1695049,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art41573381-nowa-kolejka-i-nowe-trasy-w-osrodku-narciarskim-bachledka-na-slowacji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowa kolejka i nowe trasy w o\u015brodku narciarskim Bachledka na S\u0142owacji",
+        "vote": 0
+    }
+]

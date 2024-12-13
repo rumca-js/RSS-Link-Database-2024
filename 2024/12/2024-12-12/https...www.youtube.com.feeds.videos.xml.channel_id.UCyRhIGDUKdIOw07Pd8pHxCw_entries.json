@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shut Up & Sit Down",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T21:56:41+00:00",
+        "description": "2024 Donation Drive!\nSupport the Show: https://bit.ly/SupportSUSD / http://ko-fi.com/shutupandsitdown / https://www.patreon.com/shutupandsitdown\nYour support really does mean the world to us! We've been able to do this for over a decade now BECAUSE OF YOU!\nIf you missed any of the goodies mentioned in the video they WILL be linked to again in the donor newsletter! And if you have any questions, we always love to hear from you: donations@shutupandsitdown.com",
+        "id": 1699615,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5vFchODVXVo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 304,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyRhIGDUKdIOw07Pd8pHxCw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5vFchODVXVo/hqdefault.jpg",
+        "title": "What's It Like Reviewing Board Games",
+        "vote": 0
+    }
+]

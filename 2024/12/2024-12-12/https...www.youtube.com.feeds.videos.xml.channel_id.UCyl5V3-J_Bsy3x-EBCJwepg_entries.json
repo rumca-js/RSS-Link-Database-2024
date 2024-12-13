@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T19:58:36+00:00",
+        "description": "California - it's one of the top states in the nation for lots of things, like gas prices, traffic, and blackouts. Visit California, and get a little glimpse into the future of any socialist nation.\n\nBecome a premium subscriber: https://buff.ly/3mxrUba\n\nThe Official The Babylon Bee Store: https://shop.babylonbee.com/\n\nFollow The Babylon Bee:\nWebsite: https://babylonbee.com/\nX: https://X.com/thebabylonbee\nFacebook: https://www.facebook.com/TheBabylonBee\nInstagram: http://instagram.com/thebabylonbee",
+        "id": 1699148,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7kd52-gYMis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7kd52-gYMis/hqdefault.jpg",
+        "title": "Visit California: It's America's Future",
+        "vote": 0
+    }
+]
