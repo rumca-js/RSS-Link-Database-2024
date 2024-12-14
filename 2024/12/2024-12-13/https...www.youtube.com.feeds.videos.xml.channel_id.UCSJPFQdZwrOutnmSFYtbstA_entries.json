@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T17:01:00+00:00",
+        "description": "It's the time of year when we look back on the past 12 months and ask ourselves - what the hell did we watch? Join me for a rundown of the highs and the lows and the outright bizarre film and TV shows of 2024.",
+        "id": 1705216,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lXq9wxjgo9I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lXq9wxjgo9I/hqdefault.jpg",
+        "title": "The Best And Worst Of 2024",
+        "vote": 0
+    }
+]

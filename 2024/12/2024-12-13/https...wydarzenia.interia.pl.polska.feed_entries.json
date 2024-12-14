@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T13:04:22+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/kraj/news-samolot-uszkodzil-budynki-wojsko-wyplaci-odszkodowania,nId,7875038\"><img src=\"https://i.iplsc.com/samolot-uszkodzil-budynki-wojsko-wyplaci-odszkodowania/000KACEP2PEXGH42-C321.jpg\" alt=\"Samolot uszkodzi\u0142 budynki. Wojsko wyp\u0142aci odszkodowania\" align=\"left\" /></a>Ministerstwo Obrony Narodowej wyp\u0142aci odszkodowania osobom, kt\u00f3rych infrastruktura zosta\u0142a uszkodzona w incydencie lotnicznym w pobli\u017cu Malborka - informuje &quot;Rzeczpospolita&quot;. Do zdarzenia dosz\u0142o w czerwcu 2024 roku podczas lotu szkoleniowego. Uszkodzonych zosta\u0142o 19 budynk\u00f3w. Dziennikarze ustalili r\u00f3wnie\u017c, \u017ce kapitan samolotu, kt\u00f3ry spowodowa\u0142 incydent, ponownie zosta\u0142 dopuszczony do wykonywania zada\u0144.</p><br clear=\"all\" />",
+        "id": 1703674,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-samolot-uszkodzil-budynki-wojsko-wyplaci-odszkodowania,nId,7875038",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Samolot uszkodzi\u0142 budynki. Wojsko wyp\u0142aci odszkodowania",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T15:12:01+00:00",
+        "description": "The M5PaperS3 is a low-power e-ink development kit built around the ESP32-S3 microcontroller. This lightweight device features a 3.7V 1800mAh LiPo battery and a MicroSD card slot, designed for use in applications such as IoT monitoring, smart home systems, electronic labeling, and data logging. The device incorporates the ESP32-S3R8 chip, offering 8MB of PSRAM, paired [&#8230;]",
+        "id": 1704746,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5papers3-a-4-7-e-ink-display-with-touch-support-based-on-esp32-s3",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5PaperS3: A 4.7\u2033 E-Ink Display with Touch Support Based on ESP32-S3",
+        "vote": 0
+    }
+]

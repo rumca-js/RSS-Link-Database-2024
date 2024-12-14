@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T18:00:24+00:00",
+        "description": "Build a life of learning with Imprint. Go to this link to start your journey today: https://imprintapp.com/SciShow and don't forget, as a fan of SciShow you will get 20% off your membership.\n\nIt's not just your imagination. Turbulence on airplane flights is getting worse, including severe turbulence that could cause injuries. The reason is the climate crisis -- here's how.\n\nHosted by: Tom Lum\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Toyas Dhake, Reed Spilmann, Gizmo, Garrett Galloway, Friso, DrakoEsper , Kenny Wilson, Lyndsay Brown, Jeremy Mattern, Jaap Westera, Rizwan Kassim, Harrison Mills, Jeffrey Mckishen, Matt Curls, Eric Jensen, Chris Mackey, Adam Bra",
+        "id": 1705919,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dDBas7Wxax4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dDBas7Wxax4/hqdefault.jpg",
+        "title": "Flights Really Are Bumpier Than They Used To Be (And It's Getting Worse)",
+        "vote": 0
+    }
+]

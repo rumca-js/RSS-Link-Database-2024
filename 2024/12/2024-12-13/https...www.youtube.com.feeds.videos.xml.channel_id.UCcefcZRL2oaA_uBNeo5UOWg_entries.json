@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T15:01:15+00:00",
+        "description": "2024 has been quite the year to be part of the startup ecosystem! As we wind down and get ready for the holidays and the new year, the Lightcone hosts reflect on this year\u2019s biggest startup trends, moments and setbacks. \n\nApply to Y Combinator: https://ycombinator.com/apply\n\nChapters (Powered by https://bit.ly/chapterme-yc) - \n0:00 Coming up\n1:00 What made 2024 great for startups\n13:55 Tech and gov\u2019t intersecting more\n15:37 Who else in tech had W\u2019s in 2024? \n20:48 Voice AI has a lot of potential applications\n23:17 Robotics is on the rise\n25:57 What were the big flops of 2024?\n27:54 AI coding really broke out in 2024\n29:00 Is startup hiring going to change? \n34:43 YC in person Demo Day is back! \n36:50 San Francisco optimism + outro",
+        "id": 1704778,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=z0wt2pe_LZM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z0wt2pe_LZM/hqdefault.jpg",
+        "title": "2024\u2019s Biggest Startup Trends",
+        "vote": 0
+    }
+]

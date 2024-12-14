@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T15:01:04+00:00",
+        "description": "Learn more about the Docker suite of products: https://dockr.ly/49xPubM\nDownload Docker Desktop: https://dockr.ly/4fcpxj3\n\nWe're diving into Docker - the basics and the whole ecosystem. We\u2019ll go over you why developers use Docker, what it is and what it does, and how Docker fits into modern development - in various different ways - including a handful of newer Docker tools. At the end, you'll understand dockerfiles, images, and containers so you can use them in your own projects.\n\nLet's start with why developers use Docker. Well, it\u2019s because it containerizes your entire development environment. But what does that mean? Watch the video to find out!\n\nGitHub Repo: https://github.com/ForrestKnight/atsea-sample-shop-app\n\n0:00 let's build a docker container\n0:54 why devs use docker\n2:01 our example app\n3:05 what is a dockerfile?\n4:58 what is an image?\n6:48 what is a container?\n8:03 docker compose is awesome\n10:54 /app/dockerfile build time\n11:23 use docker in WSL2\n12:10 docker build cloud",
+        "id": 1704727,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oUnWU4Y4kSY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oUnWU4Y4kSY/hqdefault.jpg",
+        "title": "Everything You NEED to Know about Docker",
+        "vote": 0
+    }
+]

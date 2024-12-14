@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T11:32:37+00:00",
+        "description": "<p>Wielosk\u0142adnikowe uwierzytelnianie (MFA) wzmacnia znacz\u0105co bezpiecze\u0144stwo logowania w sieci. Atakuj\u0105cy mo\u017ce przecie\u017c odgadn\u0105\u0107, pods\u0142ucha\u0107, ukra\u015b\u0107 czy nawet znale\u017a\u0107 has\u0142o konkretnego u\u017cytkownika. Je\u015bli jednak, b\u0119dzie musia\u0142 udowodni\u0107 swoj\u0105 to\u017csamo\u015b\u0107 w inny spos\u00f3b, nie tylko przy pomocy tego, co u\u017cytkownik \u201cwie\u201d (jak has\u0142o czy pin), to prawdopodobie\u0144stwo logowania zako\u0144czonego sukcesem jest niewielkie....</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/jak-mozna-bylo-obejsc-uwierzytelnianie-mfa-microsoftu/\">Jak mo\u017cna by\u0142o obej\u015b\u0107 uwierzytelnianie MFA Microsoftu</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 1703041,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/jak-mozna-bylo-obejsc-uwierzytelnianie-mfa-microsoftu",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jak mo\u017cna by\u0142o obej\u015b\u0107 uwierzytelnianie MFA Microsoftu",
+        "vote": 0
+    }
+]

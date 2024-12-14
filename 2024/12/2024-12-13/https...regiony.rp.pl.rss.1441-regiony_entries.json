@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-13T16:09:38.168250+00:00",
+        "description": "W ka\u017cd\u0105 sobot\u0119 grudnia i sylwestrowy wiecz\u00f3r warszawiacy maj\u0105 okazj\u0119 podziwia\u0107 zimowo-\u015bwi\u0105teczn\u0105 stolic\u0119 z pok\u0142adu \u0142odzi.",
+        "id": 1704749,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art41579731-rejs-po-wisle-zima-w-warszawie-to-mozliwe",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rejs po Wi\u015ble zim\u0105? W Warszawie to mo\u017cliwe",
+        "vote": 0
+    }
+]
