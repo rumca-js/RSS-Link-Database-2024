@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-14T00:00:38+00:00",
+        "description": "One of the best portable speakers of 2024 is down to its lowest price, just in time for the holidays.",
+        "id": 1708246,
+        "language": "en-us",
+        "link": "https://lifehacker.com/tech/bose-new-soundlink-flex-speaker-deal",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 442,
+        "source_url": "https://lifehacker.com/feed/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://lifehacker.com/imagery/articles/01JF0W3NX3RYJGEG19ASP1BYE2/hero-image.png",
+        "title": "The Bose New Soundlink Flex Is Down to Its Lowest Price (and It Arrives Before Christmas)",
+        "vote": 0
+    }
+]

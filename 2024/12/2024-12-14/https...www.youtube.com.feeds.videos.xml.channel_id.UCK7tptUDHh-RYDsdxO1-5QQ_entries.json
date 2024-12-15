@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-14T00:07:52+00:00",
+        "description": "After the shooting of UnitedHealthcare CEO Brian Thompson in New York City, physicians offer a sober look at frustrations with the healthcare system in the U.S.\n\nWSJ\u2019s Anna Wilde Mathews walks through the findings of a Journal investigation exposing how private insurance companies collected billions in payments through Medicare Advantage programs.\n\nChapters:\n0:00 Anger towards health insurance companies \n0:43 Denials of care and pre-authorizations\n1:49 How doctors and patients are affected\n2:48 Medicare Advantage, explained\n4:15 Insurance-driven diagnoses \n5:11 How insurance companies see themselves\n\n#UnitedHealth #Healthcare #WSJ",
+        "id": 1707742,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0zV9qk5rIaM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0zV9qk5rIaM/hqdefault.jpg",
+        "title": "The Issues with Health Insurance Companies, Explained by Doctors | WSJ",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-14T10:17:27+00:00",
+        "description": "A threat actor tracked as MUT-1244 has stolen over 390,000 WordPress credentials in a large-scale, year-long campaign targeting other threat actors using a trojanized WordPress credentials checker. [...]",
+        "id": 1711475,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "390,000 WordPress accounts stolen from hackers in supply chain attack",
+        "vote": 0
+    }
+]

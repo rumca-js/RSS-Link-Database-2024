@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-14T20:00:15+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/VndmhS8Oaig\" width=\"480\" alt=\"thumbnail\" title=\"Flathub Is Ready To Become A Real App Store\" /></p>A few years back there were talks of Flathub getting support for paid applications and that day may finally be coming sometime soon after a new employee joins the project.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Flathub Forum Post: https://discourse.flathub.org/t/request-for-proposals-flathub-program-management/8276<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodie",
+        "id": 1711741,
+        "language": "en",
+        "link": "https://odysee.com/flathub-is-ready-to-become-a-real-app:d8e3f53adb75aa31fa68c4908262ee198cda7fab",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Flathub Is Ready To Become A Real App Store",
+        "vote": 0
+    }
+]

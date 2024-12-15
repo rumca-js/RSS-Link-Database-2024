@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-14T00:02:59+00:00",
+        "description": "The judges found no precedent in granting this type of request.",
+        "id": 1707711,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/court-denies-tiktok-request-to-delay-ban-5776299",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/12/09/id5773362-GettyImages-1470268269.jpg",
+        "title": "Court Denies TikTok Request to Delay Ban",
+        "vote": 0
+    }
+]

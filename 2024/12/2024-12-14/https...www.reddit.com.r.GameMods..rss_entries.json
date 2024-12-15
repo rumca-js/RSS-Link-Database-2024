@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-14T17:18:07+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Top_End7396\"> /u/Top_End7396 </a> <br/> <span><a href=\"https://www.reddit.com/r/FFVIIRemake/s/bxdN7ncSdt\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameMods/comments/1he7kle/hey_guys_im_looking_for_a_deleted_mod_from_nexus/\">[comments]</a></span>",
+        "id": 1710994,
+        "language": null,
+        "link": "https://www.reddit.com/r/GameMods/comments/1he7kle/hey_guys_im_looking_for_a_deleted_mod_from_nexus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hey guys I\u2019m looking for a deleted mod from nexus created by Chiri3d",
+        "vote": 0
+    }
+]
