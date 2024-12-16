@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T21:47:51+00:00",
+        "description": "The United States need to impose real costs on foreign bad actors, said Rep. Mike Waltz, the incoming national security adviser.",
+        "id": 1716486,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/us-needs-to-go-on-cyber-offense-says-waltz-5776772",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731415-09262024-DSC01512-Waltz-Green-reps-1080x720.jpg",
+        "title": "US Needs to Go on Cyber Offense, Says Waltz",
+        "vote": 0
+    }
+]

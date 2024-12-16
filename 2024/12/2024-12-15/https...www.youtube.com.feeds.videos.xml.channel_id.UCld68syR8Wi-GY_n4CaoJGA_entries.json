@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T20:00:04+00:00",
+        "description": "We're one more alpha down, 1 more month closer to the actual full release of COSMIC, whilst there's still a lot of work to be done there are a lot of pieces falling into places.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nCOSMIC Alpha 4: https://blog.system76.com/post/cosmic-alpha-4\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xyz/github\n\n==========Credits==========\n\ud83c\udfa8 Channel Art:\nProfile Picture:\nhttps://www.instagram.com/supercozman_",
+        "id": 1716198,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FE31Ui-vRyw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FE31Ui-vRyw/hqdefault.jpg",
+        "title": "The COSMIC Desktop Christmas Alpha Is Here",
+        "vote": 0
+    }
+]

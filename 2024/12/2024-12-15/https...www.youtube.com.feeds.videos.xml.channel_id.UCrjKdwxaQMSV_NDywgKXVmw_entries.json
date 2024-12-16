@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Novaspirit Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T14:00:49+00:00",
+        "description": "lots of stuff to update about...\n\u25cb\u25cb\u25cb LINKS \u25cb\u25cb\u25cb\n\nhttps://github.com/Genymobile/scrcpy\nhttps://www.youtube.com/watch?v=GWD5B87W3ig\nhttps://www.proxmox.com/en/about/press-releases/proxmox-virtual-environment-8-3\nhttps://www.raspberrypi.com/products/raspberry-pi-500/\nhttps://wiki.freecad.org/Release_notes_1.0\n\n\n\u25cb\u25cb\u25cb TIMECODE \u25cb\u25cb\u25cb\n\n0:00 intro\n1:06 RPCS3\n2:20 Pi500\n3:15 FreeCAD 1.0\n3:35 Proxmox 8.3\n3:55 SCRCPY 3.1\n\n\u25cb\u25cb\u25cb SHOP \u25cb\u25cb\u25cb\n\nNovaspirit Shop \u25ba https://teespring.com/stores/novaspirit-tech\n\nAmazon Store \u25ba http://amzn.to/2AYs3dI\n\n\u25cb\u25cb\u25cb SUPPORT \u25cb\u25cb\u25cb\n\ud83d\udc97 Patreon \u25ba https://goo.gl/xpgbzB\n\n\u25cb\u25cb\u25cb SOCIAL \u25cb\u25cb\u25cb\n\ud83c\udfae Twitch \u25ba https://twitch.tv/novaspirit\n\ud83c\udfae Pandemic Playground \u25ba https://www.youtube.com/channel/UCuplGze2Zq63gu2Axd2_eKA \n\u25b6\ufe0f novaspirit tv \u25ba https://goo.gl/uokXYr\n\ud83c\udfae Novaspirit Gaming \u25ba https://www.youtube.com/channel/UCKPqnB9itH7to4923ZVo-2Q\n\ud83d\udc24 Twitter \u25ba https://twitter.com/novaspirittech\n\ud83d\udc7e Discord chat \u25ba https://discord.gg/v8dAnFV\nFB Group Novaspirit \u25ba https://www.facebook.com/groups/novasspirittech\n\n",
+        "id": 1714612,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oXcDMihHv3w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 429,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrjKdwxaQMSV_NDywgKXVmw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oXcDMihHv3w/hqdefault.jpg",
+        "title": "Updates...",
+        "vote": 0
+    }
+]

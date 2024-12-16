@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T16:21:17+00:00",
+        "description": "\ud83d\udc49 Patronite \u25ba https://patronite.pl/NaukowyBelkot \n\ud83d\udcda Moja ksi\u0105\u017cka \u25ba https://altenberg.pl/geny/\n\ud83d\udcda E-book \u25ba https://tinyurl.com/pnp-ebook\n\nJak zdefiniowa\u0107 najstraszniejsz\u0105 trucizn\u0119? Czy to ta, kt\u00f3ra dzia\u0142a najszybciej, najsilniej, czy mo\u017ce ta, na kt\u00f3r\u0105 nie ma odtrutki? Zapraszam do wys\u0142uchania historii, w kt\u00f3rej proponuj\u0119 kilka kandydatur w tym dziwnym plabiscycie!\n\n===\nRozk\u0142ad jazdy:\n\n0:00 Historia o piciu wody\n2:30 Regulamin\n3:32 Si\u0142a\n8:17 Wyrok\n11:28 Niepozorno\u015b\u0107\n14:35 Tajemnica\n\n===\n\u0179r\u00f3d\u0142a (wybrane):",
+        "id": 1715287,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YbryOpow8nY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YbryOpow8nY/hqdefault.jpg",
+        "title": "Co jest najstraszniejsz\u0105 trucizn\u0105?",
+        "vote": 0
+    }
+]

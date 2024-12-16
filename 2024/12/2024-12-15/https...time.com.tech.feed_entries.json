@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T17:56:19+00:00",
+        "description": "A paper released by Apollo Research found that in certain contrived scenarios, today\u2019s AI systems can engage in deceptive behaviour.",
+        "id": 1715576,
+        "language": "en-UK",
+        "link": "https://time.com/7202312/new-tests-reveal-ai-capacity-for-deception",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New Tests Reveal AI\u2019s Capacity for Deception",
+        "vote": 0
+    }
+]

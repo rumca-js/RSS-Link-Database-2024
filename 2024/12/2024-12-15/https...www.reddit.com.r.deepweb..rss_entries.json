@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T02:28:59+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I uninstalled tor from my Mac but it is still showing up on my screen time. It\u2019s been uninstalled but showing that it was used for a few hours today and other days. How is this possible </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Thin-Phase2850\"> /u/Thin-Phase2850 </a> <br/> <span><a href=\"https://www.reddit.com/r/deepweb/comments/1heivr9/screen_time/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/deepweb/comments/1heivr9/screen_time/\">[comments]</a></span>",
+        "id": 1712647,
+        "language": null,
+        "link": "https://www.reddit.com/r/deepweb/comments/1heivr9/screen_time",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 543,
+        "source_url": "https://www.reddit.com/r/deepweb/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Screen time",
+        "vote": 0
+    }
+]

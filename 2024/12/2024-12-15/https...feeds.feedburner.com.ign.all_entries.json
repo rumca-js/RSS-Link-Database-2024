@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T19:40:53+00:00",
+        "description": null,
+        "id": 1716335,
+        "language": null,
+        "link": "https://www.ign.com/articles/daily-deals-lego-horizon-adventures-ace-attorney-investigations-collection-alan-wake-2-and-more",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 147,
+        "source_url": "https://feeds.feedburner.com/ign/all",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assets-prd.ignimgs.com/2024/06/07/legohorizonadventuresrevealtrailer-ign-blogroll-1717797740210.jpg",
+        "title": "Daily Deals: Lego Horizon Adventures, Ace Attorney Investigations Collection, Alan Wake 2, and More",
+        "vote": 0
+    }
+]

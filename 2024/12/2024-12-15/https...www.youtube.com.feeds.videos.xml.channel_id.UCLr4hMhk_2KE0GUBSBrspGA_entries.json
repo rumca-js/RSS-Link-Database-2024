@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T18:59:19+00:00",
+        "description": "W odcinku:\n00:00 Dzi\u015b w odcinku\u2026\n01:59 Dobry wiecz\u00f3r!\n02:02 Procesor kwantowy Wiillow od Google\u2019a\n06:26 Autonomiczne taks\u00f3wki Cruise znikn\u0105 z dr\u00f3g\n10:07 Kup samoch\u00f3d na Amazonie\n11:12 Ostatnie wydarzenia z USA w polskich mediach\n11:47 Wkr\u00f3tce na kanale nowa seria!\n14:02 Nowe prawo lotnicze \u2013 b\u0119dzie mo\u017cna strzela\u0107 do dron\u00f3w\n14:23 Wyciek\u0142y informacje o nowym dronie DJI \n14:48 Mecz Gwiazd \u2013 ludzie vs roboty?\n15:53 Android XR i nowe gogle VR od Samsunga\n17:14 Zako\u0144czenie\n17:38 Zno\u015bnego tygodnia!",
+        "id": 1715836,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8DrMfDrcL1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8DrMfDrcL1c/hqdefault.jpg",
+        "title": "Tech Week - Kwantum Srantum",
+        "vote": 0
+    }
+]

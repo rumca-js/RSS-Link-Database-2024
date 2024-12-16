@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-15T10:40:55.064906+00:00",
+        "description": "Na dziesi\u0119\u0107 zobowi\u0105za\u0144 uj\u0119tych w umowie koalicyjnej obecnego rz\u0105du, tylko dwie z zapowiedzi zosta\u0142y w pe\u0142ni zrealizowane. Reformy przyspieszaj\u0105ce transformacj\u0119 i przygotowuj\u0105ce energetyk\u0119 na zagro\u017cenia, takie jak braki mocy do produkcji pr\u0105du, albo dopiero ruszaj\u0105, albo nie zosta\u0142y jeszcze rozpocz\u0119te.",
+        "id": 1713689,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/energetyka-zawodowa/art41582051-rok-rzadu-tuska-bez-kluczowych-reform-dla-energetyki-polskiej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rok rz\u0105du Tuska bez kluczowych reform dla energetyki polskiej",
+        "vote": 0
+    }
+]
