@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-16T22:19:00+00:00",
+        "description": "Teams with NASA\u2019s Exploration Ground Systems transport lower the agency\u2019s 212-foot-tall SLS (Space Launch System) core stage into High Bay 2 at the Vehicle Assembly Building at NASA\u2019s Kennedy Space Center in Florida on Wednesday, Dec. 11, 2024. The one-of-a kind lifting beam is designed to lift the core stage from the transfer aisle to High Bay 2 where it will remain while teams stack the two solid rocket boosters on top of mobile launcher 1 for the SLS core stage.",
+        "id": 1723340,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-959",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Artemis II Core Stage Moves to High Bay 2",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "China Uncensored",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-16T20:35:36+00:00",
+        "description": "Join our fight to expose the CCP: https://chinauncensored.tv \n\nThe Chinese leadership is tightly embracing an environmental agenda at home, but abroad, Chinese activities are wreaking havoc on the natural world, with dangerous consequences.",
+        "id": 1722695,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=A-1jxbt7lVE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 452,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgFP46yVT-GG4o1TgXn-04Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A-1jxbt7lVE/hqdefault.jpg",
+        "title": "China's No. 1 Export? Environmental Devastation",
+        "vote": 0
+    }
+]

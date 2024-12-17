@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-16T12:18:33.712652+00:00",
+        "description": "Sp\u00f3\u0142ka Polskie Elektrownie J\u0105drowe wybra\u0142a konsorcjum sk\u0142adaj\u0105ce si\u0119 z banku BNP Paribas France i firmy KPMG Advisory na doradc\u0119, kt\u00f3ry wesprze j\u0105 w pozyskaniu finansowania d\u0142u\u017cnego dla pierwszej polskiej elektrowni j\u0105drowej.",
+        "id": 1718943,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/atom/art41586401-polskie-elektrownie-jadrowe-wybraly-doradce-przy-finansowaniu-atomu-na-pomorzu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Polskie Elektrownie J\u0105drowe wybra\u0142y doradc\u0119 przy finansowaniu atomu na Pomorzu",
+        "vote": 0
+    }
+]

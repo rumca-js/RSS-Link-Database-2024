@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-16T08:00:00+00:00",
+        "description": "DJ Robert Drake of WXPN walks us through the strange and wonderful world of Christmas music.",
+        "id": 1720106,
+        "language": "en",
+        "link": "https://www.npr.org/sections/world-cafe/2024/12/13/g-s1-38135/christmas-music-playlist",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "There's more to Christmas music than Mariah and Bing",
+        "vote": 0
+    }
+]

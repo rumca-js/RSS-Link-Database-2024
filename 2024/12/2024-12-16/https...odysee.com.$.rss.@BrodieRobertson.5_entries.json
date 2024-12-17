@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-16T20:00:15+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/JKMWkwYzE90\" width=\"480\" alt=\"thumbnail\" title=\"Developers Are Sick Of AI Slop Bug Reports\" /></p>Curl is just one of many projects but it's developer loves to publicize the absolute waste of time slop bug reports where the authors pretend like it's actually a real issue.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Hackerone:  https://www.hackerone.com/<br />Curl Hackerone: https://hackerone.com/reports/2199174<br />Vulnerability 1: https://github.com/curl/curl/issues/12983<br />Vulnerability 2: https://hackerone.com/reports/2871792<br />Vulnerability 3: https://hackerone.com/reports/2887487<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/o",
+        "id": 1722717,
+        "language": "en",
+        "link": "https://odysee.com/developers-are-sick-of-ai-slop-bug:b5522feee7319535b64c17fcd612f22c551f8891",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Developers Are Sick Of AI Slop Bug Reports",
+        "vote": 0
+    }
+]

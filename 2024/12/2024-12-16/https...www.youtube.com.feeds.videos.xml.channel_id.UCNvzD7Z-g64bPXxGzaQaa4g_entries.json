@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-16T16:00:34+00:00",
+        "description": "Subscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:35 Number 10\n2:36 Number 9\n5:57 Number 8\n8:29 Number 7\n10:16 Number 6\n11:53 Number 5\n13:47 Number 4\n15:10 Number 3\n16:57 Number 2\n18:34 Number 1\n20:22 Bonus",
+        "id": 1721107,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ZaKZjoLiFuI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZaKZjoLiFuI/hqdefault.jpg",
+        "title": "10 Copycat Games That WERE ACTUALLY BETTER",
+        "vote": 0
+    }
+]
