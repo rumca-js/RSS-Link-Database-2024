@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-17T18:15:05+00:00",
+        "description": "Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LTT20  and use promo code LTT20 at checkout.\nDeleteMe International Plans: https://international.joindeleteme.com/\n\nGet 20% off select Lexar Workflow Series products at B&H Photo Video with code LEXEARLY at: https://www.bhphotovideo.com/c/search?q=LEXAR+workflow&sts=ma&utm_source=B%26H&utm_medium=post-entry&utm_campaign=Workflow.  Valid until January 11, 2025.\n\nStorage is a tricky thing. While Hard Drives are great for archiving Terabytes of Linux ISOs, they are VERY slow and their mechanical bits are vulnerable to magnets and wear and tear. SSD's are fast, but also susceptible to bit rot. RAM is super fast, but can't store anything once the power is off. But what if there was a tech that could solve (nearly) ALL of those problems? It's called Ferro Electric RAM, it's a form of Non-volatile RAM that has some incredible features. And a painfully high price.\n\nCheck out the Machdyne Blaustahl Storage Device: h",
+        "id": 1728923,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oJ5fFph0AEM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oJ5fFph0AEM/hqdefault.jpg",
+        "title": "The Most Expensive USB Drive on Earth",
+        "vote": 0
+    }
+]

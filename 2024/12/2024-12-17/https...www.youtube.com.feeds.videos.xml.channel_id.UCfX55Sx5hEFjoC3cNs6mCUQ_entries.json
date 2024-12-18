@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-17T16:22:54+00:00",
+        "description": "The Linux Foundation's Open Source Software Developer report and Shaping the Future of Generative AI report aim to provide valuable insights into developers' evolving needs and the expanding role of generative AI (GenAI). Hilary Carter, SVP of Research and Communications at the Linux Foundation, highlights key findings from both reports, focusing on the specific challenges open-source developers face and the impact of GenAI on businesses.\nThe Open Source Software Developer Report, developed in collaboration with Intel, explores the unique needs of open-source developers. Carter explains that post-COVID changes, such as budget cuts and layoffs, have heightened the demand for resources that support networking and collaboration. Contrary to prior beliefs that developers prefer online events, the report found that in-person gatherings, such as KubeCon and PyCon, are highly valued. These events play a key role in fostering community engagement, knowledge sharing, and trust-building, which",
+        "id": 1727760,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hPVB7i-WnCM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hPVB7i-WnCM/hqdefault.jpg",
+        "title": "What are the unique needs of open-source developers? Hilary Carter",
+        "vote": 0
+    }
+]
