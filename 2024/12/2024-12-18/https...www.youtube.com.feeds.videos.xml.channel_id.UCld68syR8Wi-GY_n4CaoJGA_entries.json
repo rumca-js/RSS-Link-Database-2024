@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T20:00:10+00:00",
+        "description": "A few years back the concept of CPU micro architecture levels was formalized you'll see this as x86-64-v3, v4 etc. The problem is this is a retroactive categorization system and does not properly apply to real world CPUs\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nUbuntu Discussion: https://discourse.ubuntu.com/t/trying-out-ubuntu-23-04-on-x86-64-v3-rebuild-for-yourself/40963\nFedora Discussion: https://fedoraproject.org/wiki/Changes/Optimized_Binaries_for_the_AMD64_Architecture\nGentoo Discussion: https://www.gentoo.org/news/2024/02/04/x86-64-v3.html\nKernel Mailing List: https://lore.kernel.org/lkml/20241204103042.1904639-1-arnd@kernel.org/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae G",
+        "id": 1738044,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ALxWmz_HiSU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ALxWmz_HiSU/hqdefault.jpg",
+        "title": "CPU Micro Architecture Levels Are Not Real",
+        "vote": 0
+    }
+]

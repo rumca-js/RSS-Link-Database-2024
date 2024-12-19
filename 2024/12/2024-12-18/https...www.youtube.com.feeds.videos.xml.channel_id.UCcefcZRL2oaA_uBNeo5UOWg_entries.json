@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T15:00:20+00:00",
+        "description": "YC General Partner David Lieb\u2019s story is all about perseverance. In 2008 he co-founded Bump, one of the hottest startups of the early iPhone era. But even with 150 million users, he couldn\u2019t find a way to create a sustainable business. For many founders that would be the end of the road. But he didn\u2019t quit there. Instead Lieb and his team pivoted several times, got acquired and eventually went on to build Google Photos. In this episode of Backstory, Lieb shares his advice for finding the right idea, what mistakes to avoid and how to maintain a positive mindset no matter what gets thrown at you.",
+        "id": 1735252,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CcnwFJqEnxU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CcnwFJqEnxU/hqdefault.jpg",
+        "title": "How David Lieb Turned A Failed Startup Into Google Photos | Backstory",
+        "vote": 0
+    }
+]

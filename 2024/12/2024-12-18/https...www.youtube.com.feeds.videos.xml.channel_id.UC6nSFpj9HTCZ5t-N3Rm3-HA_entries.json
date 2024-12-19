@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vsauce",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T02:16:17+00:00",
+        "description": "WisDUMB Of The Crowd?\n\n#MindField #season3 #StilwellBrain #psychology #mind #brain #highschool #neuralnetworks #socialexperiment #guessing #wisdomofthecrowd #research #experiment #conformity  #jellybeans #guessinggame",
+        "id": 1730772,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Hb-w7qpWNsE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 383,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hb-w7qpWNsE/hqdefault.jpg",
+        "title": "The Experiment We Didn't Show",
+        "vote": 0
+    }
+]

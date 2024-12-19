@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T12:46:09+00:00",
+        "description": "Get the guide to AI in customer service, learn more \u2192 https://ibm.biz/BdGFiG\nLearn more about the technology \u2192 https://ibm.biz/BdGFin\n\nDiscover how AI is revolutionizing Customer Service, Customer Experience, and Customer Support. Join Amanda Downie as she explores how AI-powered solutions can enhance customer satisfaction, reduce costs, and increase productivity. From chatbots to predictive maintenance, AI is transforming the way businesses interact with customers. \n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGFie\n#ai #customerservice #customerexperience #customersupport",
+        "id": 1734249,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yKqUdyzsBXw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yKqUdyzsBXw/hqdefault.jpg",
+        "title": "AI in Customer Experience, Customer Service & Customer Support",
+        "vote": 0
+    }
+]

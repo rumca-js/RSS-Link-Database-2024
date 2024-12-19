@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T12:10:00+00:00",
+        "description": "<p><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The PSF is pleased to announce its third </span><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">batch</span><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> of PSF Fellows for </span><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">",
+        "id": 1733354,
+        "language": null,
+        "link": "https://pyfound.blogspot.com/2024/12/announcing-python-software-foundation.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Announcing Python Software Foundation Fellow Members for Q3 2024! \ud83c\udf89",
+        "vote": 0
+    }
+]

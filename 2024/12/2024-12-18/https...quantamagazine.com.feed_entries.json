@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T15:15:41+00:00",
+        "description": "Biologists used artificial intelligence to make discoveries about molecules and the brain, and overturned long-held assumptions about the immune system and RNA.             <p>The post <a href=\"https://www.quantamagazine.org/the-year-in-biology-20241218/\" target=\"_blank\">The Year in Biology</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 1734810,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/the-year-in-biology-20241218",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2024/12/YIR-Bio_crRichard-Borge-Default.webp",
+        "title": "The Year in Biology",
+        "vote": 0
+    }
+]

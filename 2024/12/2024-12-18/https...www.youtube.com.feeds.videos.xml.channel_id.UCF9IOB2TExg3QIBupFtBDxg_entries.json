@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dr. John Campbell",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T23:22:47+00:00",
+        "description": "Part of a great talk with Russell Brand, Link to original video, https://rumble.com/v5zw12k-science-faith-and-totalitarianism-a-conversation-with-dr.-john-campbell-sf5.html?e9s=src_v1_ucp",
+        "id": 1739096,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Or_Sx95Eiyo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 96,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF9IOB2TExg3QIBupFtBDxg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Or_Sx95Eiyo/hqdefault.jpg",
+        "title": "Free speech and future dystopia",
+        "vote": 0
+    }
+]

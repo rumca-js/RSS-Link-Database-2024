@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T20:19:09.647906+00:00",
+        "description": "Po rozpatrzeniu za\u017calenia na areszt tymczasowy wroc\u0142awski s\u0105d postanowi\u0142, \u017ce podejrzany o oszustwa i przyw\u0142aszczenie mienia Janusz Palikot b\u0119dzie m\u00f3g\u0142 opu\u015bci\u0107 areszt po wp\u0142aceniu 2 mln z\u0142 por\u0119czenia. Ma te\u017c zakaz kontaktu z innymi podejrzanymi i zakaz opuszczania kraju.",
+        "id": 1737750,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/janusz-palikot-moze-opuscic-areszt-po-wplaceniu-2-mln-zl-poreczenia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Janusz Palikot b\u0119dzie m\u00f3g\u0142 opu\u015bci\u0107 areszt. Warunek jest jeden",
+        "vote": 0
+    }
+]

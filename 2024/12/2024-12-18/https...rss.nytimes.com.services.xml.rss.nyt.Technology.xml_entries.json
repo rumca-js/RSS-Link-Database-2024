@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-18T14:00:14+00:00",
+        "description": "Redesigned interfaces, new features and artificial intelligence are meant to enhance the experience, even if the changes can be confusing at first.",
+        "id": 1734648,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2024/12/18/technology/personaltech/apple-google-photo-apps-updates-changes.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2024/12/18/technology/personaltech/18TECHTIP-TOP/18TECHTIP-TOP-mediumSquareAt3X.jpg",
+        "title": "How to Navigate Updates to Apple\u2019s and Google\u2019s Photos Apps",
+        "vote": 0
+    }
+]
