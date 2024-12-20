@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-19T04:04:43.607198+00:00",
+        "description": "S\u0105d uzna\u0142, \u017ce Uniwersytet Rolniczy w Krakowie nie m\u00f3g\u0142 skre\u015bli\u0107 z listy studenta, kt\u00f3ry nie zda\u0142 egzaminu przeprowadzonego niezgodnie z pierwotnymi zasadami. Eksperci s\u0105 zdania, \u017ce to przestroga dla wyk\u0142adowc\u00f3w lu\u017ano podchodz\u0105cych do wymaga\u0144, kt\u00f3re sami ustalaj\u0105.",
+        "id": 1740164,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/edukacja-i-wychowanie/art41596731-nie-zdal-egzaminu-wygral-w-sadzie-wykladowcy-musza-przestrzegac-zasad",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nie zda\u0142 egzaminu, wygra\u0142 w s\u0105dzie. Wyk\u0142adowcy musz\u0105 przestrzega\u0107 zasad",
+        "vote": 0
+    }
+]

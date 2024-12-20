@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-19T05:30:06+00:00",
+        "description": "Unijne prawo Digital Services Act na\u0142o\u017cy\u0142o na VLOPy, czyli Platformy Internetowe Wielkie, Olbrzymie szereg obowi\u0105zk\u00f3w.\n \n\u0179r\u00f3d\u0142a:\nhttps://tinyurl.com/2u7pb5cd\n\n#DSA #Meta #facebook #dezinformacja",
+        "id": 1740534,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MDIbNeGeniQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MDIbNeGeniQ/hqdefault.jpg",
+        "title": "\ud83d\udcd6  Panoptykon czyta raport Facebooka",
+        "vote": 0
+    }
+]

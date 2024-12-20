@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-19T17:03:10+00:00",
+        "description": "A UK judge has ruled that Craig Wright violated a court order preventing him from bringing lawsuits based on his spurious claim to be Satoshi Nakamoto, creator of Bitcoin.",
+        "id": 1744357,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/craig-wright-the-self-styled-creator-of-bitcoin-handed-suspended-prison-sentence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6764016ecba9578048baf566/master/pass/GettyImages-1989705029.jpg",
+        "title": "Craig Wright Found in Contempt of Court Over Bitcoin Creation Claims",
+        "vote": 0
+    }
+]

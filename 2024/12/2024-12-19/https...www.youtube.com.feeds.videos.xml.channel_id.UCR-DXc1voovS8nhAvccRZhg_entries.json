@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-19T21:00:29+00:00",
+        "description": "Home Assistant just launched Voice, a little $59 privacy-conscious smart speaker.\n\nBut will I actually use it? Do I still use the other things I talked about this year? Let's take a look at the Voice, and do a little retrospective...\n\n  - Home Assistant Voice: https://home-assistant.io/voice-pe\n  - Announcement livestream: https://www.youtube.com/watch?v=ZgoaoTpIhm8\n  - Geerling Engineering: https://www.youtube.com/@GeerlingEngineering\n  - Level 2 Jeff (2nd Channel): https://www.youtube.com/@Level2Jeff\n  - Veritasium's video on Clickbait: https://www.youtube.com/watch?v=S2xHZPH5Sng\n  - Arm NAS build: https://github.com/geerlingguy/arm-nas\n  - Pico Micro Mac: https://jcm-1.com/product/picomicromac/\n  - Ubo Pod: https://www.getubo.com\n  - LocalDeck: https://www.mylocalbytes.com/products/localdeck\n  - Upgrading the HA Yellow to CM5: https://www.jeffgeerling.com/blog/2024/home-assistant-yellow-instant-2x-iot-speedup-cm5\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor ",
+        "id": 1746248,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oRtyC0mi5fs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oRtyC0mi5fs/hqdefault.jpg",
+        "title": "Do YouTubers actually use the things they promote?",
+        "vote": 0
+    }
+]

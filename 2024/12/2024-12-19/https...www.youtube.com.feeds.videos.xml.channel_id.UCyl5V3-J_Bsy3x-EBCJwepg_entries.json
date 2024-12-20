@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-19T20:34:01+00:00",
+        "description": "Citing concerns about wokeness, stiff competition from Amazon, and an impossible-to-please Gen Z, Santa has announced he's hanging up the hat and belt for good.\n\nCheck out the beautiful new animated film \u201cThe Real Story of Christmas\u201d from our friends at @RevelationMediaGlobal and iBIBLE. Visit https://buff.ly/4gF47w6 to view it now for free!\n\n#christmas #santa #comedy #holiday",
+        "id": 1746053,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8uf1aC-dY6U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8uf1aC-dY6U/hqdefault.jpg",
+        "title": "Santa Announces His Retirement",
+        "vote": 0
+    }
+]

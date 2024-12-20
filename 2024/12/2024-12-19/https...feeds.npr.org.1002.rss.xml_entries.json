@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-19T05:00:00+00:00",
+        "description": "Pedro Almod\u00f3var's first English-language film, <em>The Room Next Door</em>, is a meditation on death. Writing and making movies \"is a way of running away from death,\" the Spanish director says.",
+        "id": 1742605,
+        "language": "en",
+        "link": "https://www.npr.org/2024/12/19/nx-s1-5101643/pedro-almodovar-the-room-next-door",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pedro Almod\u00f3var meditates on death in first English feature 'The Room Next Door'",
+        "vote": 0
+    }
+]
