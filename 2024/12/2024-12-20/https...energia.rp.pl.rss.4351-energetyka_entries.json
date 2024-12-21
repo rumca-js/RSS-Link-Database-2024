@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-20T03:53:31.619817+00:00",
+        "description": "O tym, gdzie mo\u017ce by\u0107 zlokalizowana druga elektrownia j\u0105drowa i dlaczego w Be\u0142chatowie. O tym, jaki jest rachunek za stracone lata transformacji energetycznej i kiedy zostan\u0105 zamkni\u0119te ostatnie kopalnie w\u0119gla. O tym, jak wielki apetyt na morskie farmy wiatrowe ma Polska Grupa Energetyczna i o planach inwestycyjnych \u2013 m\u00f3wi Dariusz Marzec, prezes PGE.",
+        "id": 1747890,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/transformacja-energetyczna/art41605171-dariusz-marzec-prezes-pge-transformacja-energetyczna-nie-moze-wykoleic-polskiej-gospodarki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dariusz Marzec, prezes PGE: Transformacja energetyczna nie mo\u017ce wykolei\u0107 polskiej gospodarki",
+        "vote": 0
+    }
+]

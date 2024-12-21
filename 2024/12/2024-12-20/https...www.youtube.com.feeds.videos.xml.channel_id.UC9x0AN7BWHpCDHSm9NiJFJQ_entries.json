@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-20T18:37:24+00:00",
+        "description": "Build your Hacker Dropbox with Twingate (it\u2019s free):  https://ntck.co/twingate_ztna\n\nIn this video, we\u2019re building a Hacker Dropbox, a device that can be dropped into any network and give us remote access. This can pretty much be any device, including a Raspberry Pi\u2026which is what I\u2019ll be showing you. And no\u2026.it\u2019s not using VPN, it\u2019s ZTNA (Twingate) which is much more secure and easier to setup. Why do this? If you\u2019re like me, you are by default the helpdesk support of every circle you\u2019re in. I am that for my church, my parents, my grandma\u2026and I need a very quick and easy way to remotely access these networks\u2026even when I don\u2019t know the subnet info. This is where the Hacker Drop box comes in handy, operating as a magic device for remote IT support. It also doubles as a penetration testing tool, giving pentesters easy access to a remote network in seconds.\n\nRESOURCES:\n\ud83d\udcddGUIDE/WALKTHROUGH: https://ntck.co/hackerdropbox\n\n\ud83d\udcbb Raspberry Pi Imager: https://www.raspberrypi.com/software/\n\n\ud83d\uded2 Buy a",
+        "id": 1753071,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1lZ3FQSv-wI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1lZ3FQSv-wI/hqdefault.jpg",
+        "title": "Access ANY Network (remotely)",
+        "vote": 0
+    }
+]

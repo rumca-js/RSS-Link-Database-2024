@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-20T19:26:44+00:00",
+        "description": "Thank you Nexigo for sponsoring this video! Check out the NexiGo Gripcon https://lmg.gg/NexiGoShort\n\n#sponsored #techtips",
+        "id": 1753058,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Hd-k7VkpE94",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hd-k7VkpE94/hqdefault.jpg",
+        "title": "How to choose the GPU for YOU",
+        "vote": 0
+    }
+]

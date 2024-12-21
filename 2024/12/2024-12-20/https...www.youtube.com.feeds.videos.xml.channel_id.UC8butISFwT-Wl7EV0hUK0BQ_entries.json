@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-20T20:44:35+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kevin Powell. He's a designer, a software engineer, and an expert in CSS. He's runs a CSS-focused YouTube channel with nearly a million subscribers. There's nothing sensational there \u2013 he literally just teaches people CSS.\n\nTake our year-end freeCodeCamp podcast listener survey real quick: https://forms.gle/2M9NW776723uSdDT7\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,043 kind folks who support freeCodeCamp through a monthly donation. Join these kind folks and help our mission by going to https://www.freecodecamp.org/donate\n\nCORRECTION: I (Quincy) say during the interview that the Uber found a way to access microphones on iOS without users' knowledge. There have been d",
+        "id": 1753847,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=OaQO5gSpE4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OaQO5gSpE4g/hqdefault.jpg",
+        "title": "Why devs needn't fear CSS with the King of CSS himself Kevin Powell [Podcast #154]",
+        "vote": 0
+    }
+]

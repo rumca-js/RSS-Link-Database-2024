@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-20T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nGuide to the C++ Filter View in C++ Programming - Nicolai Josuttis - CppCon 2024\n---\n\nC++20 introduced \"views\" as easy-to-use building blocks for processing the elements and values of containers and ranges.\nThe filter view is one of the key views, because filtering collections of data to process only elements that satisfy a specific constraint or requirement is one of the most important use cases of dealing with ranges and views.\n\nUnfortunately, the filter view is also one of the most surprising C++ standard views. Even for simple use cases, you can easily get: \n- Unexpected functional behavior \n- Surprising compile-time errors with cryptic error messages \n- Fatal runtime errors (without even noticing them)\n\nThere are reasons for the design of the filter view. For a successful filtering of elements you should know and understand the design and all of its consequences.\n\nThe talk will demonstrate all the issues with simple real-work examples and explain both th",
+        "id": 1751077,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=c1gfbbE2zts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c1gfbbE2zts/hqdefault.jpg",
+        "title": "Guide to the C++ Filter View in C++ Programming - Nicolai Josuttis - CppCon 2024",
+        "vote": 0
+    }
+]

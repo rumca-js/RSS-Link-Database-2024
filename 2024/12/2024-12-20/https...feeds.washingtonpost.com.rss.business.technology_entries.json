@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-20T17:30:00+00:00",
+        "description": "This best-of technology list for 2024 has zero gadgets or AI chatbots.",
+        "id": 1752318,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2024/12/20/best-technology-2024",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "5 actually good things that happened in technology this year",
+        "vote": 0
+    }
+]

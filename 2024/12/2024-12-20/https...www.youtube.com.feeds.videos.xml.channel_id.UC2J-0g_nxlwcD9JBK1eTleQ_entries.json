@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Auto Focus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-20T00:34:51+00:00",
+        "description": "Our favorite (and least favorite) cars we've reviewed on Auto Focus this year!\n\nChapters:\nIntro: 0:00\nICE Car of the Year: 00:31\nEV of the Year: 3:19\nHybrid of the Year: 6:13\nMost Efficient Car: 8:17\nPerformance Car of the Year: 10:19\nLuxury Car of the Year: 13:27\nBust of the Year: 16:59\nMost Improved Car Award: 19:08\nThe MVP: 22:08\n\nShot on iPhone 16 Pro Max\nRode Wireless Micro: https://geni.us/FBnQh\nMoment 1.55x Anamorphic Lens: https://geni.us/rcL4BAe",
+        "id": 1747478,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BUcN2w-cBr4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 424,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2J-0g_nxlwcD9JBK1eTleQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BUcN2w-cBr4/hqdefault.jpg",
+        "title": "Our Favorite Cars of 2024! | Auto Focus Awards",
+        "vote": 0
+    }
+]
