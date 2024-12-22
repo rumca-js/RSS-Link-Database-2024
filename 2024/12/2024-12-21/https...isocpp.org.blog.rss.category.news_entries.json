@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T20:28:04+00:00",
+        "description": "<p>\n\tC++ Online conference and workshop tickets are now available:</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cpponline.uk/cpponline-2025-registration-now-open/\">C++ Online 2025 Registration Now Open!</a></h3>\n\t<p>\n\t\tby C++ Online</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWe&rsquo;re excited to announce that ticket sales for C++Online 2025 are officially open! Join us from 26th - 28th February for three days packed with expert talks, networking, and interactive virtual experiences&mdash;all from the comfort of your own home.</p>\n</blockquote>",
+        "id": 1758939,
+        "language": null,
+        "link": "https://isocpp.org//blog/2024/12/cpp-online-2025-registration-now-open",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++ Online 2025 Registration now Open",
+        "vote": 0
+    }
+]

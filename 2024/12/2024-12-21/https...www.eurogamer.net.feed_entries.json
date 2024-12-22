@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T08:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Astro-Bot-Winter-Wonder-update-level-showing-a-festive-area-covered-in-snow-with-a-large-christmas-tree-in-the-background.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp\" /> <p>Hello! Welcome back to our regular feature where we write a little bit about some of the games we've been playing over the past few days. This week, we love a nice festive level, tackle some plant-based puzzles, and explore a brilliant open world while wearing some tremendous outfits.</p> <p><a href=\"https://www.eurogamer.net/what-weve-been-playing-christmas\">Read more</a></p>",
+        "id": 1755795,
+        "language": "en-gb",
+        "link": "https://www.eurogamer.net/what-weve-been-playing-christmas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 107,
+        "source_url": "https://www.eurogamer.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Astro-Bot-Winter-Wonder-update-level-showing-a-festive-area-covered-in-snow-with-a-large-christmas-tree-in-the-background.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
+        "title": "What we've been playing - Open-world dress up, plant puzzles, and festive levels",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T14:12:42+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tnavda\"> /u/tnavda </a> <br/> <span><a href=\"https://nullprogram.com/blog/2024/12/20/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1hjamj7/rules_to_avoid_common_extended_inline_assembly/\">[comments]</a></span>",
+        "id": 1757052,
+        "language": null,
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1hjamj7/rules_to_avoid_common_extended_inline_assembly",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rules to avoid common extended in-line assembly mistakes",
+        "vote": 0
+    }
+]

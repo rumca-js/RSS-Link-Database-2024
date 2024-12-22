@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T08:25:37.501777+00:00",
+        "description": "Jednym z priorytet\u00f3w dzia\u0142a\u0144 polskiego rz\u0105du podczas prezydencji w UE b\u0119dzie zabieganie o z\u0142agodzenie unijnej dyrektywy ETS, wprowadzaj\u0105cej za trzy lata tzw. podatek od ogrzewania. Polska buduje koalicje, ale prace musi zainicjowa\u0107 najpierw Komisja Europejska.",
+        "id": 1755773,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/transformacja-energetyczna/art41608151-polska-zabiega-o-zmiany-w-podatku-od-ogrzewania-pierwszy-krok-nalezy-od-brukseli",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Polska zabiega o zmiany w podatku od ogrzewania. \u201ePierwszy krok nale\u017cy od Brukseli\u201d",
+        "vote": 0
+    }
+]

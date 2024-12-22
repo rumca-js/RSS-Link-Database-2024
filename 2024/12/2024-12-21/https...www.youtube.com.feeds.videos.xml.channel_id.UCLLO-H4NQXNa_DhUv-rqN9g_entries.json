@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T20:07:58+00:00",
+        "description": "Nasz\u0105 ksi\u0105\u017ck\u0119 znajdziesz na sklep.cdaction.pl\n\nS\u0105 \u015bwi\u0119ta, wi\u0119c zn\u00f3w cofn\u0119li\u015bmy si\u0119 do czas\u00f3w, gdy byli\u015bmy m\u0142odsi (tylko m\u0142odsi) i zagrali\u015bmy sobie w nasze gry dzieci\u0144stwa: Dragon Ball: Final Bout oraz yyy, czekajcie, jak to si\u0119 nazywa? A, Shin Chan: Arashi o Yobu Cinema-Land no Daibouken.\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\nDawid \u201espikain\" Bojarski (http://twitter.com/spikain)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 1758541,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=LGEk1dwilRI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LGEk1dwilRI/hqdefault.jpg",
+        "title": "ZMUSZAMY SI\u0118 do grania w gry dzieci\u0144stwa",
+        "vote": 0
+    }
+]

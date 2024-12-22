@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T10:15:47.246372+00:00",
+        "description": "A dual Russian and Israeli national has been charged in the United States for allegedly being the developer of the now-defunct LockBit ransomware-as-a-service (RaaS) operation since its inception in or around 2019 through at least February 2024.\nRostislav Panev, 51, was arrested in Israel earlier this August and is currently awaiting extradition, the U.S. Department of Justice (DoJ) said in a",
+        "id": 1756092,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "LockBit Developer Rostislav Panev Charged for Billions in Global Ransomware Damages",
+        "vote": 0
+    }
+]

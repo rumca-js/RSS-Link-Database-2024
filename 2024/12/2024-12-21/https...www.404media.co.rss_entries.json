@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T14:00:38+00:00",
+        "description": "This week, the creature from the Pangean lagoon, casket shopping for Disney princesses, a horror show in ancient Somerset, and \u201cMartifacts.\u201d",
+        "id": 1757197,
+        "language": null,
+        "link": "https://www.404media.co/disney-princesses-are-at-risk-of-rabies-and-fatal-maulings-3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2024/12/Imatge1.jpg",
+        "title": "Disney Princesses Are at Risk of Rabies and Fatal Maulings",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T00:46:17+00:00",
+        "description": "GameSpot's Countdown To The Game Awards. Featuring GameSpot and Giant Bomb hosts, industry developers, and special guests.",
+        "id": 1754916,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=iFzGa2BwQ54",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iFzGa2BwQ54/hqdefault.jpg",
+        "title": "Gamespots Countdown to the Game Awards",
+        "vote": 0
+    }
+]

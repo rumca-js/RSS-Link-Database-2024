@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-21T06:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/1.7415365.1734640180!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/kehewin-language-nest-opening-ceremony.JPG' alt='Four women pose for a photo in traditional and very colourful Indigenous ribbon skirts.' width='620' height='349' title='The language team for the new Kehewin Language Nest. From left to right: Lillian Gadwa-Crier, Elissa Gadwa, Janine Chesworth, and Melissa Paul.'/><p>A new Indigenous immersive language program inspired by the M\u0101ori\u00a0communities of New Zealand is looking to help preserve Plains Cree, a dialect of the Cree language. The program, called a \"language nest,\" is a non-classroom space for fluent Indigenous elders and knowledge keepers from the local community to help children learn the Cree language in their formative years.</p>",
+        "id": 1757263,
+        "language": null,
+        "link": "https://www.cbc.ca/news/canada/edmonton/plains-cree-language-nest-1.7415281?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New Kehewin language program opens to help preserve Plains Cree language",
+        "vote": 0
+    }
+]
