@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-22T19:51:19+00:00",
+        "description": "Albo nie i wtedy oka\u017ce si\u0119, \u017ce si\u0119 myli\u0142em",
+        "id": 1763328,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=wvTP-tRwM4c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wvTP-tRwM4c/hqdefault.jpg",
+        "title": "Taki b\u0119dzie rok 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-22T19:55:56+00:00",
+        "description": "Let's checkout a Linux-first tablet! The first 500 people to use my link https://skl.sh/techhut12241 will get a 1 month free trial of Skillshare premium!\n\nSome general benchmarking of Windows vs Linux vs MacOS running on the MacBook Pro with the i9 processor from 2019.\n\nMacBook Pro Retina 16-inch (2019) - Core i9 - 16GB - SSD 1000GB\n\nProcessor Intel Core i9-9880H 2.3Ghz\n\nGraphic Card Type AMD Radeon Pro 5500M\n\nResolution 3072 x 1920\n\n\ud83d\udcd6 RESOURCES\nResults: https://github.com/TechHutTV/benchmarking/tree/main/2024-MacWinLinux\n*MacBook Pro: https://amzn.to/4fEx36M\n*Above link is a affiliate link AND I personally would not recommend this model of Mac.\n\n\ud83c\udfc6FOLOW TECHHUT  \nX (Twitter): https://bit.ly/twitter-techhut  \nMASTODON: https://bit.ly/mastodon-techhut  \nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4fSUPPORT TECHHUT (all links below this line will earn us commission)  \nBUY ME A COFFEE: https://buymeacoffee.com/techhut  \nAIRVPN: https://airvpn.org/?referred_by=673908  \nHOSTINGER: https://bit",
+        "id": 1763365,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=l8gjYDU-GsA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l8gjYDU-GsA/hqdefault.jpg",
+        "title": "Linux vs Mac vs Windows - Speed Tests!",
+        "vote": 0
+    }
+]
