@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-23T16:00:20+00:00",
+        "description": "GameSpot brings you our staff picks for the best 10 games of 2024.\n\nTimestamps:\n00:00 Astro Bot\n03:30 Balatro\n06:15 Elden Ring: Shadow of the Erdtree\n08:25 Helldivers 2\n10:55 Indiana Jones and The Great Circle\n12:50 Lorelei and the Laser Eyes\n15:38 Metaphor: ReFantazio\n18:01 Prince of Persia: The Lost Crown\n20:36 Silent Hill 2\n23:23 S.T.A.L.K.E.R. 2: Heart Of Chornobyl",
+        "id": 1768216,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SMvtZshrdQE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SMvtZshrdQE/hqdefault.jpg",
+        "title": "GameSpot's Top Ten Games Of 2024",
+        "vote": 0
+    }
+]

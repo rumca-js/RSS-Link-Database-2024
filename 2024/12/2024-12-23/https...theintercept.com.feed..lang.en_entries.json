@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-23T15:34:16+00:00",
+        "description": "<p>The internal EU document may strip European foreign ministers of \u201cplausible deniability\u201d in Israeli war crimes in Gaza, experts said.</p>\n<p>The post <a href=\"https://theintercept.com/2024/12/23/eu-report-israel-war-crimes-complicity/\">Leaked EU Report on Israel Makes It Hard for European Foreign Ministers to Deny Complicity</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 1767874,
+        "language": "en-US",
+        "link": "https://theintercept.com/2024/12/23/eu-report-israel-war-crimes-complicity",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2024/12/GettyImages-1239815322-1-e1734650726559.jpg?w=1200",
+        "title": "Leaked EU Report on Israel Makes It Hard for European Foreign Ministers to Deny Complicity",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-23T18:42:25+00:00",
+        "description": "Is a $499 Arm-based NAS too good to be true? Let's see if the Ubiquiti UNAS Pro is all hype.\n*Get the Bambu Lab A1 mini for just $179 through Jan. 4!* https://snazzy.fm/tw\n\nFollow Snazzy Labs on Twitter - http://twitter.com/snazzylabs\nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Instagram - http://instagram.com/snazzyq\n\nDiscover how Apple revolutionized home networking and WiFi with the Airport and Time Capsule, paving the way for consumer-friendly NAS devices. Compare Apple\u2019s Time Capsule to modern NAS solutions like the Ubiquiti UNAS Pro, a low-power, high-efficiency alternative packed with features like RAID storage, SMB support, and seamless remote access. We'll look at the evolution of NAS technology, exploring how today\u2019s devices combine simplicity, power, and versatility\u2014traits Apple championed in its iconic designs.",
+        "id": 1769111,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=I6kjqEkwSUk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I6kjqEkwSUk/hqdefault.jpg",
+        "title": "The Apple Time Capsule Reimagined!",
+        "vote": 0
+    }
+]

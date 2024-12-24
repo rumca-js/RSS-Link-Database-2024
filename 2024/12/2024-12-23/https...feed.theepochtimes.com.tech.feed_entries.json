@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-23T04:51:50+00:00",
+        "description": "TIRANA\u2014Albania on Saturday announced a one-year ban on TikTok, the popular short video app, following the killing of a teenager last month that raised fears over the influence of social media on children. The ban, part of a broader plan to make schools safer, will come into effect early next year, Prime Minister Edi Rama [&#8230;]",
+        "id": 1764827,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/albania-bans-tiktok-for-a-year-after-killing-of-teenager-5780649",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/12/id5780648-1.tagreuters.com2024binary_LYNXMPEKBK057-FILEDIMAGE-1080x720.jpg",
+        "title": "Albania Bans TikTok for a Year After Killing of Teenager",
+        "vote": 0
+    }
+]

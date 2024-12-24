@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-23T14:54:08+00:00",
+        "description": "<p>Niefortunne skopiowanie pliku sprawi\u0142o, \u017ce dane 21 tys. os\u00f3b wyciek\u0142y z bazy Panek SA. B\u0142\u0105d pope\u0142ni\u0142 podmiot przetwarzaj\u0105cy, ale administrator dostanie ponad 1,5 mln kary bo &#8220;poleganie na procesorze&#8221; to troch\u0119 za ma\u0142o.</p>\n<p><span id=\"more-26226\"></span></p>\n<p>Prezes Urz\u0119du Ochrony Danych Osobowych stwierdzi\u0142 w jednej ze swoich ostatnich decyzji, \u017ce sp\u00f3\u0142ka<strong> Panek SA</strong> nie zapewni\u0142a odpowiedniego poziomu ochrony danych w trakcie czynno\u015bci zwi\u0105zanych z modernizacj\u0105 strony internetowej. Z tego powodu na firm\u0119 zosta\u0142a na\u0142o\u017cona kara w wysoko\u015bci <strong>1,52 mln z\u0142, </strong>a dodatkowo kar\u0119 20 tys. z\u0142 dosta\u0142 podmiot przetwarzaj\u0105cy (ITCenter). Opowiedzmy sobie dok\u0142adnie co si\u0119 sta\u0142o.</p>\n<h3>Si\u0119 skopiowa\u0142o i udost\u0119pni\u0142o&#8230;</h3>\n<p>W kwietniu 2020 r. dosz\u0142o do niezamierzonego skopiowania &#8220;plik\u00f3w starej witryny&#8221; firmy Panek do &#8220;nowego folderu&#8221; i niestety ten folder zosta\u0142 udost\u0119pniony, a nast\u0119pnie zindeksowany przez bota. Wszystko od",
+        "id": 1767589,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/15-mln-kary-za-niedopilnowanie-modernizacji-strony",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "&quot;Wyciek to wina procesora&quot;. Dlaczego ta wym\u00f3wka kosztowa\u0142a 1,5 mln kary?",
+        "vote": 0
+    }
+]

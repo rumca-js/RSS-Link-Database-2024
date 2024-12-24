@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-23T06:12:03.919260+00:00",
+        "description": "Bu\u0142gari\u0119 mo\u017cna nazwa\u0107 bohaterem ostatniego tygodnia w biurach podr\u00f3\u017cy. To jedyny z pi\u0119ciu najpopularniejszych kierunk\u00f3w, kt\u00f3ry osi\u0105gn\u0105\u0142 cen\u0119 wy\u017csz\u0105 ni\u017c na pocz\u0105tku sprzeda\u017cy (od pa\u017adziernika) \u2013 pokazuj\u0105 dane zebrane przez Traveldat\u0119.",
+        "id": 1764922,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art41612531-korekta-cen-wakacji-2025-w-biurach-podrozy-bulgaria-liderem-podwyzek",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Korekta cen wakacji 2025 w biurach podr\u00f3\u017cy. Bu\u0142garia liderem podwy\u017cek",
+        "vote": 0
+    }
+]

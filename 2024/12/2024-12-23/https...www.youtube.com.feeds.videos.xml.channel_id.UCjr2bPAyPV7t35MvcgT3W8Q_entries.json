@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-23T19:55:07+00:00",
+        "description": "US government is officially recommending Signal for secure communications. Why and what this means for you?\nSupport my work: https://www.patreon.com/thehatedone \n\nThe thumbnail contains a fake tweet I made for illustrative and entertainment purposes. It's parodying the Central Intelligence Agency which did not make any recomendation to use Signal. \n\nThis is off-script \"breaking news\" style of content. Here are some useful sources:\n\nMobile Communications Best Practice Guidance\nhttps://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf\n\nWhat happened?\nU.S. Wiretap Systems Targeted in China-Linked Hack\nhttps://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b\nSalt Typhoon Hack Shows There's No Security Backdoor That's Only For The \"Good Guys\"\nhttps://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys\nJoint Statement from FBI and CISA on the People's Republi",
+        "id": 1769453,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JZ52_wr2wWU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JZ52_wr2wWU/hqdefault.jpg",
+        "title": "US Government Officially Recommends Signal - What This Means For You",
+        "vote": 0
+    }
+]
