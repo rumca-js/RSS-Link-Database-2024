@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-24T16:10:28+00:00",
+        "description": "\"Just Married!\", an Amiga cover of C64 Robocop theme by Jogeir Liljedahl. Original C64 theme by Jonathan Dunn (1988).\nC64 art \"Waiting for Christmas\" (2022) by Mikael & The Sarge/Fairlight^Pretzel Logic.\n\nMade using real A600 Rev. 2D audio.\n\nVisit my channel for more Amiga music.",
+        "id": 1774407,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ed-JT5CSWLs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ed-JT5CSWLs/hqdefault.jpg",
+        "title": "Amiga music: Jogeir Liljedahl - Just Married! (Robocop C64 theme cover) (A600r2d\ud83c\udfa7Dolbyfied)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-24T14:00:49+00:00",
+        "description": "On this episode of HEY DT:\n0:00 Intro\n0:18 How's your AI integration progress in your linux workflow?\n1:25 As your videos are licensed as creative commons. Would it be okay if I used them to train a voice model on your voice?\n2:30 Can you tell us what trading software is available on Linux, either on this or your other channel? \n4:17 You dropped your video an hour late today, what was the hold up?\n5:58 Don't say Arch doesn't force you to use stuff cause I run the base arch with the archinstall installer and if I select pulseaudio...\n7:01 I want to put my emacs config on github, but I can't figure out the right gitignore...\n8:30 From your experience what is the best way to learn the command line...man/info pages or books/wiki?\n10:00 Are you sure the creator allowed you to use elementary OS?\n11:11 Not many people are talking about it, but what are your thoughts on the NixOS situation?\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.yo",
+        "id": 1773465,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=m3qJlAUMuJ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m3qJlAUMuJ0/hqdefault.jpg",
+        "title": "Hey, DT! What's Your Thoughts On The NixOS Drama?",
+        "vote": 0
+    }
+]

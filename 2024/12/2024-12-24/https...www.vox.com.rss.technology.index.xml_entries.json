@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-24T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A woman in a mask walks up to a face recognition checkpoint at an airport.\" data-caption=\"A biometric facial recognition system at the security checkpoint in the departure area of Hamburg Airport in Germany. | Marcus Brandt/picture alliance via Getty Images\" data-portal-copyright=\"Marcus Brandt/picture alliance via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2024/12/GettyImages-1240296940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>A biometric facial recognition system at the security checkpoint in the departure area of Hamburg Airport in Germany. | Marcus Brandt/picture alliance via Getty Images</figcaption>\n</figure>\n<p class=\"has-text-align-none\">It\u2019s that time of year. As <a href=\"https://www.vox.com/future-perfect\">Future Perfect</a> has <a href=\"https://www.vox.com/future-perfect/24009949/future-perfect-oppenheimer-animal-welfare-electric-vehicles-chicken-wings-milk\">in the p",
+        "id": 1772963,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/392011/kate-middleton-cancer-openai-military-turkeys-oat-milk-state-department",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The 10(ish) most read Future Perfect stories of 2024",
+        "vote": 0
+    }
+]

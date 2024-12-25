@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-24T19:16:00+00:00",
+        "description": "Here is a new version of the \u201cChristmas tree cluster.\u201d NGC 2264 is a cluster of young stars between one and five million years old. (For comparison, the Sun is a middle-aged star about 5 billion years old \u2013 about 1,000 times older.)",
+        "id": 1775237,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/ngc2264-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hang a Shining Star Upon the Highest Bough",
+        "vote": 0
+    }
+]

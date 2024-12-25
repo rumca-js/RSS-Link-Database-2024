@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-24T12:00:50+00:00",
+        "description": "NewsGuard, which prizes its nonpartisan criteria, has become a prime target of the GOP\u2019s battle against disinformation watchdogs.",
+        "id": 1773084,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2024/12/24/newsguard-disinformation-censorship-free-speech",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "This company rates news sites\u2019 credibility. The right wants it stopped.",
+        "vote": 0
+    }
+]

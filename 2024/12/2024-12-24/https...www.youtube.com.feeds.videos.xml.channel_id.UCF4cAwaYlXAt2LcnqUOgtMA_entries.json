@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "A Vox in the Void",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-24T12:07:25+00:00",
+        "description": "#SANGUINALA\n#AVOXINTHEVOID",
+        "id": 1773320,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TRmTPiI4l00",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 7,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF4cAwaYlXAt2LcnqUOgtMA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TRmTPiI4l00/hqdefault.jpg",
+        "title": "SECRET SANGUINALA SPECIAL - A VOX IN THE VOID",
+        "vote": 0
+    }
+]
