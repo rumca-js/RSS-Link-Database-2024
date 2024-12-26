@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-25T12:22:27.872940+00:00",
+        "description": "Dzi\u0119ki modernizacji w 2029 roku Lotnisko Chopina b\u0119dzie mog\u0142o obs\u0142ugiwa\u0107 30 milion\u00f3w pasa\u017cer\u00f3w rocznie, prawie o jedn\u0105 trzeci\u0105 wi\u0119cej ni\u017c dzisiaj.",
+        "id": 1777875,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/lotniska/art41619571-prezes-ppl-po-rozbudowie-lotnisko-chopina-bedzie-obslugiwac-30-milionow-pasazerow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prezes PPL: Po rozbudowie Lotnisko Chopina b\u0119dzie obs\u0142ugiwa\u0107 30 milion\u00f3w pasa\u017cer\u00f3w",
+        "vote": 0
+    }
+]

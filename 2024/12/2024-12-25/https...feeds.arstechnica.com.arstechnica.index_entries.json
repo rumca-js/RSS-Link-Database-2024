@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-25T12:00:06+00:00",
+        "description": "Ars looks back at the top stories of the year.",
+        "id": 1778109,
+        "language": "en-US",
+        "link": "https://arstechnica.com/staff/2024/12/the-20-most-read-stories-of-2024-on-ars-technica",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/ars-top-stories-2024-500x500.jpg",
+        "title": "The 20 most-read stories of 2024 on Ars Technica",
+        "vote": 0
+    }
+]

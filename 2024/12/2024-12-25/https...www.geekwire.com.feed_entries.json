@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-25T00:39:19+00:00",
+        "description": "<img width=\"1260\" height=\"840\" src=\"https://cdn.geekwire.com/wp-content/uploads/2020/06/instacart-shopper-door-1260x840.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2020/06/instacart-shopper-door-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2020/06/instacart-shopper-door-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2020/06/instacart-shopper-door-1536x1024.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2020/06/instacart-shopper-door-2048x1365.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2020/06/instacart-shopper-door-630x420.jpg 630w\" sizes=\"(max-width: 1260px) 100vw, 1260px\"><br>Instacart is joining Uber in an attempt to block a new ordinance in Seattle that regulates how companies can deactivate workers who deliver food, shop for groceries, and complete other tasks via on-demand apps. Uber last week filed a complaint in U.S. Dist",
+        "id": 1776223,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2024/instacart-joins-uber-in-lawsuit-against-seattle-over-driver-deactivation-law",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Instacart joins Uber in lawsuit against Seattle over driver deactivation law",
+        "vote": 0
+    }
+]
