@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-26T12:00:19+00:00",
+        "description": "Get the guide \u2192 https://ibm.biz/BdGEXA\nWant to play with the technology yourself? \u2192 https://ibm.biz/BdGEXu\n\nData governance and model governance are the keys in building a strong foundation for AI success. Together, they provide a solid foundation for making better decisions with data & ensuring your AI model is reliable, transparent, and performs as intended. Join Michael Dobson and Anisa Asa as they explore the importance of governance in AI and provide you with the knowledge and insights you need to unlock your AI's full potential.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGEX9",
+        "id": 1782283,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ixt-4T6oxk4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ixt-4T6oxk4/hqdefault.jpg",
+        "title": "Data Governance vs. Model Governance: Building a Strong Foundation for AI",
+        "vote": 0
+    }
+]

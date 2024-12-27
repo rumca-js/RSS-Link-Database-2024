@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-26T14:38:49.692975+00:00",
+        "description": "Algorytm sztucznej inteligencji okaza\u0142 si\u0119 lepszy od cz\u0142owieka i jego smaku. Zidentyfikowa\u0142 pi\u0119\u0107 najmocniejszych nut w ka\u017cdej pr\u00f3bce whisky dok\u0142adniej ni\u017c kt\u00f3rykolwiek z ekspert\u00f3w. Czy to koniec tester\u00f3w? I podr\u00f3bek?",
+        "id": 1782807,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art41620621-to-mial-byc-bastion-czlowieka-ai-juz-lepsza-w-odroznianiu-roznych-whisky",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "To mia\u0142 by\u0107 bastion cz\u0142owieka. AI ju\u017c lepsza w odr\u00f3\u017cnianiu r\u00f3\u017cnych whisky",
+        "vote": 0
+    }
+]

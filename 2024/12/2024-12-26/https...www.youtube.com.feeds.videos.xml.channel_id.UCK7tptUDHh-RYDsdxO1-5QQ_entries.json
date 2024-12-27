@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-26T15:07:11+00:00",
+        "description": "President-elect Donald Trump has promised to deport millions of immigrants in what would be the largest deportation operation in U.S. history. One cost estimate has his plan at $315 billion \u2013 that\u2019s more than the government spends on most federal agencies. Roughly 13 million immigrants who entered the country illegally are at risk of deportation. \n\nWSJ breaks down the logistics and explains why an operation of this scale could require hundreds of billions of dollars over the course of a decade. \n\nChapters:\n0:00 Estimate of Trump\u2019s plan\n0:30 Overview of the plan\n2:30 Arrests\n4:18 Detention\n6:20 Legal processing\n7:32 Removal\n8:57 Funding\n\n#Trump #Immigration #WSJ",
+        "id": 1783220,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eqPgAU1JRL4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eqPgAU1JRL4/hqdefault.jpg",
+        "title": "How Trump Plans to Deport 4% of the U.S. Population | WSJ",
+        "vote": 0
+    }
+]

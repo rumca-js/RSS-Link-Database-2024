@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-26T15:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nWhat's New in Visual Studio for C++ Developers - Michael Price and Mryam Girmay - CppCon 2024\n---\n\nIf you want to find out all the new features and improvements we've made to Visual Studio, MSVC, and vcpkg for C++ developers in the last year, this is the talk for you.\n\nThe last year has seen a huge explosion in AI tooling. In Visual Studio, this comes in the form of GitHub Copilot: an AI pair programmer for providing in-editor suggestions, answering questions through a chat interface, and more.\n\nOutside of AI, we've continued to improve the core Visual Studio experience regardless of the platform you're targeting. For example, we've made improvements to our CMake and remote Linux support, our Unreal Engine experience, tools for memory layout visualization and #include cleanups, new visualizations for C++ Build Insights, in-editor support for GitHub pull requests. Of course, we've also continued work on C++ standards conformance and the code generation of the ",
+        "id": 1783136,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ulq3yUANeCA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ulq3yUANeCA/hqdefault.jpg",
+        "title": "What's New in Visual Studio for C++ Developers - Michael Price & Mryam Girmay - CppCon 2024",
+        "vote": 0
+    }
+]

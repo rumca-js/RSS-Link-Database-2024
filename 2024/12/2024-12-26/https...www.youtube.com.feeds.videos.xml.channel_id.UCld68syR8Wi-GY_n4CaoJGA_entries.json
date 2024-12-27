@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-26T20:00:18+00:00",
+        "description": "You may recall earlier in the year talks of a potential Fedora COSMIC spin and it looks like that just around the corner if all things go well\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nFedora Change Proposal: https://fedoraproject.org/wiki/Changes/FedoraCOSMIC\nEarly Discussion: https://discussion.fedoraproject.org/t/help-wanted-for-fedora-cosmic/106769\nJanuary Post: https://discussion.fedoraproject.org/t/cosmic-desktop-environment-on-fedora/102112\nSIG Creation: https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/F5G4DOPVSOACS3BRC7ZPBF2TO6JIODMU/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Med",
+        "id": 1784740,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bR0ICI9G3ow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bR0ICI9G3ow/hqdefault.jpg",
+        "title": "Fedora COSMIC Spin Has Almost Arrived",
+        "vote": 0
+    }
+]

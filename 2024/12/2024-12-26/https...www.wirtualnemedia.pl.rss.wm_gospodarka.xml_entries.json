@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-26T07:12:52.456567+00:00",
+        "description": "Subskrybowa\u0107 mo\u017cna dzi\u015b ju\u017c nie tylko ulubion\u0105 platform\u0119 czy gazet\u0119, ale tak\u017ce produkty fizyczne. Czy Polacy s\u0105 tym zainteresowani? Jakie wyzwania stoj\u0105 przed sprzedaj\u0105cymi, a jak mo\u017ce im pom\u00f3c technologia w postaci aplikacji czy program\u00f3w lojalno\u015bciowych?",
+        "id": 1781177,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/rozwija-sie-nowy-trend-wsrod-konsumentow-gen-z-i-millenialsi-najbardziej-atrakcyjna-grupa",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rozwija si\u0119 nowy trend w\u015br\u00f3d konsument\u00f3w. \u201eGen Z i Millenialsi najbardziej atrakcyjn\u0105 grup\u0105\u201d",
+        "vote": 0
+    }
+]

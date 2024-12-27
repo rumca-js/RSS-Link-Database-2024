@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-26T08:00:56+00:00",
+        "description": "<p><em>StackLok's new CodeGate software removes many of the pain points and security traps for those developing using AI tools.</em></p>\n<p>The post <a href=\"https://fossforce.com/2024/12/stacklok-is-making-security-boring-for-open-source-ai-assisted-devs/\">StackLok Is Making Security &#8216;Boring&#8217; for Open-Source AI-Assisted Devs</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 1781374,
+        "language": "en-US",
+        "link": "https://fossforce.com/2024/12/stacklok-is-making-security-boring-for-open-source-ai-assisted-devs",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "StackLok Is Making Security \u2018Boring\u2019 for Open-Source AI-Assisted Devs",
+        "vote": 0
+    }
+]
