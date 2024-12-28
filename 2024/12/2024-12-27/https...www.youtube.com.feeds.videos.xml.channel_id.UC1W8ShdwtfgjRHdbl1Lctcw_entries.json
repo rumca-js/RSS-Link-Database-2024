@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-27T20:51:28+00:00",
+        "description": "I colorized, restored, and designed the sound for this Panoramas of Geneva 1920 video. The scenes vividly capture a bustling city center in broad daylight, with pedestrians, streetcars, and horse-drawn carriages. This is followed by several picturesque views, including the Place St Gervais market, Quai des Moulins, Place Bel-Air, Place de la Conf\u00e9d\u00e9ration, and Place du Molard.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound design only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\n\nB&W Video Source: Mus\u00e9e d\u00e9partemental Albert-Kahn dans le d\u00e9partement des Hauts-de-Seine (Le Saint, Lucien)\n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nAlbert Kahn, born Abraham Kahn in Marmoutier, Alsac",
+        "id": 1790791,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=a-SELU_zPbI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a-SELU_zPbI/hqdefault.jpg",
+        "title": "Geneva 1920 in color [60fps,Remastered] w/sound design Added",
+        "vote": 0
+    }
+]

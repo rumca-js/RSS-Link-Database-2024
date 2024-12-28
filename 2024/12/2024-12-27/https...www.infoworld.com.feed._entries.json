@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-27T20:25:01+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Users who expected to be able to use the resources of the Azure content delivery network (CDN) from Edgio until November 2025, as previously announced, had a not-so-festive \u201cgift\u201d this week \u2013 the CDN is now shutting down on Jan. 15, 2025.</p>\n\n\n\n<p>In a <a href=\"https://github.com/dotnet/core/issues/9671\">post on Github</a>, Rich Lander, principal program manager, .NET core at Microsoft, offered more detail. \u201cSome .NET binaries and installers are hosted on Azure Content Delivery Network (CDN) domains that end in .azureedge.net. These domains are hosted by edg.io, which will soon cease operations due to bankruptcy. We are required to <a href=\"https://learn.microsoft.com/azure/frontdoor/migrate-c",
+        "id": 1790704,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3630244/critical-warning-from-microsoft-net-install-domains-changing.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Critical warning from Microsoft: .NET install domains changing",
+        "vote": 0
+    }
+]

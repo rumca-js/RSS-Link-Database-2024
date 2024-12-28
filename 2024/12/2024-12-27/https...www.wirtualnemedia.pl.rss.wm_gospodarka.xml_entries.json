@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-27T14:39:22.881319+00:00",
+        "description": "Prokurator zablokowa\u0142 328 rachunk\u00f3w bankowych prowadzonych przez r\u00f3\u017cne banki na rzecz sp\u00f3\u0142ki Cinkciarz.pl \u2013 poinformowa\u0142a w poniedzia\u0142ek rzeczniczka Prokuratury Regionalnej w Poznaniu prok. Anna Marsza\u0142ek.",
+        "id": 1788631,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/cinkciarz-pl-brak-wyplaty-rachunek-zablokowany",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cinkciarz.pl bez dost\u0119pu do pieni\u0119dzy. Zdecydowa\u0142 prokurator",
+        "vote": 0
+    }
+]

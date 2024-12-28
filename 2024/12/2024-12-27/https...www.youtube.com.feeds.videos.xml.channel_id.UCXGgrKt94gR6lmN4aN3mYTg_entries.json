@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-27T18:49:57+00:00",
+        "description": null,
+        "id": 1790417,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yBJoeDuN28Q",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yBJoeDuN28Q/hqdefault.jpg",
+        "title": "Why I Switched to Google Pixel 9",
+        "vote": 0
+    }
+]

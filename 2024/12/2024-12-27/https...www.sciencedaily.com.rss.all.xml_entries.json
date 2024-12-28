@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-27T12:09:11+00:00",
+        "description": "Digital healthcare consultations are not enough for a safe assessment of tonsillitis, according to a new study. Reliability will not be sufficient, thus increasing the risk of over- or under-treatment of a sore throat.",
+        "id": 1790913,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2024/12/241227120911.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Digital healthcare consultations not enough for safe assessment of tonsillitis",
+        "vote": 0
+    }
+]

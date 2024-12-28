@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-27T07:00:00+00:00",
+        "description": "Here are 10 heart-pounding novels recommended by NPR staff and critics \u2014 perfect for winter reading by the fire.",
+        "id": 1788133,
+        "language": "en",
+        "link": "https://www.npr.org/2024/12/27/nx-s1-5196702/best-mystery-thriller-2024",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "You can take the suspense: Get cozy with a new mystery or thriller",
+        "vote": 0
+    }
+]
