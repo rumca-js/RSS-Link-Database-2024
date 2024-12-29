@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-28T10:00:00+00:00",
+        "description": "<p>Tax experts say IRS whistleblower Charles Littlejohn\u2019s leaks provided a public service \u2014 and fear Trump will take retribution.</p>\n<p>The post <a href=\"https://theintercept.com/2024/12/28/trump-irs-billionaire-tax-returns-leak-charles-littlejohn/\">He Leaked Trump\u2019s Tax Returns. Will Biden Protect Him?</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 1793165,
+        "language": "en-US",
+        "link": "https://theintercept.com/2024/12/28/trump-irs-billionaire-tax-returns-leak-charles-littlejohn",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2024/12/GettyImages-2189929596-e1735059057536.jpg?w=1200",
+        "title": "He Leaked Trump\u2019s Tax Returns. Will Biden Protect Him?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-28T23:45:59+00:00",
+        "description": "In 2020, he moved to ban the Chinese-owned app. Now, he is opposing the Biden administration\u2019s effort to do just that.",
+        "id": 1795965,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2024/12/28/us/politics/trump-tik-tok-ban.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2024/12/28/multimedia/28dc-trump-tiktok-jvqk/28dc-trump-tiktok-jvqk-mediumSquareAt3X.jpg",
+        "title": "How Donald Trump Went From Calling for a TikTok Ban to Backing Off",
+        "vote": 0
+    }
+]

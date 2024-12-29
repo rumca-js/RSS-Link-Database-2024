@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-28T10:36:09+00:00",
+        "description": "'The bad guy only has to be right 1 percent of the time to get through,' said one security firm founder.",
+        "id": 1793218,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/cybersecurity-an-invisible-war-grows-more-intense-more-challenging-5782198",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2019/06/18/GettyImages-1086107852-700x420.jpg",
+        "title": "Cybersecurity: An Invisible War Grows More Intense, More Challenging",
+        "vote": 0
+    }
+]

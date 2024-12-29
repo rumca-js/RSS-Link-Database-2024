@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-28T10:03:00+00:00",
+        "description": "The Russian leader\u2019s phone call stopped short of acknowledging responsibility for the crash of an Azerbaijan Airlines plane.",
+        "id": 1794150,
+        "language": "en-US",
+        "link": "https://www.wsj.com/articles/putin-apologizes-to-azerbaijans-leader-over-tragic-incident-71a3d1c9",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 362,
+        "source_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Putin Apologizes to Azerbaijan's Leader Over 'Tragic Incident'",
+        "vote": 0
+    }
+]

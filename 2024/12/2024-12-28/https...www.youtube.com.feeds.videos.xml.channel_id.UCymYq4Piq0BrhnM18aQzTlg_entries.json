@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-28T23:45:02+00:00",
+        "description": "See more about MiSTer: https://www.youtube.com/watch?v=nNLboS_LNuA&list=PLCZHp4d1HnIsu43ZJ6R3cbDYgLH5ZQULh - The MiSTer project is doing some amazing work replicating retro game consoles, arcade machines and computers. And thanks to @TakiUdon and his company RetroRemake, there's now a much more affordable MiSTer console option available with his MisterPi. Subscribe for more ! http://lon.tv/s\n\nFind a MisterPi : https://retroremake.co/pages/store\nUpdate All Link: https://github.com/theypsilon/Update_All_MiSTer\n\nVIDEO INDEX:\n00:00 - Intro\n01:39 - Supporter Thank Yous\n02:19 - Where to Buy\n04:35 - Ports\n07:52 - MiSTer Tour\n10:14 - Amiga Demo\n11:56 - Configuration\n14:07 - Update All Scripe\n17:24 - Mister.ini file for CRT TVs\n18:04 - Component Cables & Alternatives\n19:22 - External Hard Drives\n20:28 - Conclusion\n21:47 - Fan Noise\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https",
+        "id": 1795987,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=x_d_8jEe5PM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x_d_8jEe5PM/hqdefault.jpg",
+        "title": "The Mister Pi Review: A new, low cost FPGA MiSTer clone for retro gaming",
+        "vote": 0
+    }
+]

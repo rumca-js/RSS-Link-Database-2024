@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-28T10:03:00+00:00",
+        "description": "Organizations lie all the time. Big lies, sometimes, but usually small ones. Is the call volume actually unusually heavy? Did a chef really prepare this meal just for me? These fiblets are so common that they become part of the culture, a trope that lets the user know that this is a real organization&#8211;the same [&#8230;]",
+        "id": 1793046,
+        "language": "en-US",
+        "link": "https://seths.blog/2024/12/fiblets",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fiblets",
+        "vote": 0
+    }
+]

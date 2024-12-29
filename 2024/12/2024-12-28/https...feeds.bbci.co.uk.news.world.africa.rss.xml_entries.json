@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-28T02:27:50+00:00",
+        "description": "Carmen Souza's latest album is inspired by the little-known British influence on the Cape Verde islands.",
+        "id": 1792025,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cvg7vwlg8rmo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0308/live/c81b3b60-bc78-11ef-a0f2-fd81ae5962f4.jpg",
+        "title": "How old English sea shanties inspired Cape Verdean singer",
+        "vote": 0
+    }
+]
