@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T13:14:47+00:00",
+        "description": "<p>A top White House official said at least eight U.S. telecom firms and dozens of nations have been impacted by a Chinese hacking campaign. </p>\n<p>The post <a href=\"https://www.securityweek.com/a-9th-telecoms-firm-has-been-hit-by-a-massive-chinese-espionage-campaign-the-white-house-says/\">A 9th Telecoms Firm Has Been Hit by a Massive Chinese Espionage Campaign, the White House Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 1798113,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/a-9th-telecoms-firm-has-been-hit-by-a-massive-chinese-espionage-campaign-the-white-house-says",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A 9th Telecoms Firm Has Been Hit by a Massive Chinese Espionage Campaign, the White House Says",
+        "vote": 0
+    }
+]

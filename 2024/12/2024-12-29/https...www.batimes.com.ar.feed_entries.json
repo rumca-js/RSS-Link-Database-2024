@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T22:14:37+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2024/12/29/trim/540/304/former-us-president-jimmy-carter-1939198.jpg\" alt=\"Former US president Jimmy Carter.\" /></p>Former US president and Nobel peace laureate, who led the United States from 1977 to 1981, passes away aged 100; Carter was honoured with the Grand Cross of the Order of the Liberator San Mart\u00edn for his defence of human rights during dictatorship era.\n <a href=\"https://www.batimes.com.ar/news/world/former-us-president-jimmy-carter-dies-aged-100.phtml\">Leer m\u00e1s</a>",
+        "id": 1800347,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/world/former-us-president-jimmy-carter-dies-aged-100.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2024/12/29/trim/540/304/former-us-president-jimmy-carter-1939198.jpg",
+        "title": "Former US president Jimmy Carter dies aged 100",
+        "vote": 0
+    }
+]

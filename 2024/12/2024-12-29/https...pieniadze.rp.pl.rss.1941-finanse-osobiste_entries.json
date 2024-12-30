@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T23:05:21.617079+00:00",
+        "description": "Polskim przedsi\u0119biorcom dostarcza nowoczesne rozwi\u0105zania finansowe, wyznacza standardy w\u00a0bran\u017cy leasingowej. Zacz\u0119\u0142o si\u0119 skromnie \u2013 od jednego aktu za\u0142o\u017cycielskiego i\u00a0sporych ambicji. Dzi\u015b PKO Leasing jest liderem polskiego rynku leasingowego, kt\u00f3ry nap\u0119dza ma\u0142e i\u00a0du\u017ce biznesy. Jak wygl\u0105da\u0142o 25 drogi na szczyt?",
+        "id": 1800460,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/leasing/art41628121-jak-przez-cwierc-wieku-zmienial-sie-rynek-leasingu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jak przez \u0107wier\u0107 wieku zmienia\u0142 si\u0119 rynek leasingu",
+        "vote": 0
+    }
+]

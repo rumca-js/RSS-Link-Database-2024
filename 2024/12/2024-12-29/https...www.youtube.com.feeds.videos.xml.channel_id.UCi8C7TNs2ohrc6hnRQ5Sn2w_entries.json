@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Programmers are also human",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T15:43:23+00:00",
+        "description": "Early 2000s PC Kid\n\nhttps://linkgraph.net\n\n\nInterview with 2000s PC Kid with Kai Lentit - aired on \u00a9 The Computing Weekly, December 2003.\r\n\r\nY2K\nProgrammer humor\r\nProgramming jokes\r\nProgramming memes\r\nProgramming History\r\n2000s computer\nWebsites 2002\nMSN\nAOL Instant Messenger\nBitTorrent\nPirate Bay \r\nYahoo!\nAIM\nComputer History\r\nWindows XP",
+        "id": 1798797,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VpAZPPCLCUI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VpAZPPCLCUI/hqdefault.jpg",
+        "title": "Interview with 2000s PC User [Original Resolution]",
+        "vote": 0
+    }
+]

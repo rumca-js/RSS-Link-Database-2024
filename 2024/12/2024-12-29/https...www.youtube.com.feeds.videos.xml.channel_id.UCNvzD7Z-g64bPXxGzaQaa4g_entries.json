@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T17:51:30+00:00",
+        "description": "The boss fight is the ultimate expression of the essence of a video game.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1\n\n0:00 intro\n0:20 Number 10\n2:38 Number 9\n3:49 Number 8\n5:37 Number 7\n7:03 Number 6\n9:59 Number 5\n13:08 Number 4\n14:49 Number 3\n17:15 Number 2\n18:53 Number 1\n20:52 BONUS 1\n21:17 BONUS 2\n21:47 BONUS 3",
+        "id": 1799351,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cE3xac8lcfk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cE3xac8lcfk/hqdefault.jpg",
+        "title": "10 Hardest Bosses of 2024 That Punished Minor Mistakes",
+        "vote": 0
+    }
+]

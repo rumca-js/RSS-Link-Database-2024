@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T18:25:03.449187+00:00",
+        "description": "A new attack campaign has targeted known Chrome browser extensions, leading to at least 16 extensions being compromised and exposing over 600,000 users to data exposure and credential theft.\nThe attack targeted publishers of browser extensions on the Chrome Web Store via a phishing campaign and used their access permissions to insert malicious code into legitimate extensions in order to steal",
+        "id": 1799349,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "16 Chrome Extensions Hacked, Exposing Over 600,000 Users to Data Theft",
+        "vote": 0
+    }
+]

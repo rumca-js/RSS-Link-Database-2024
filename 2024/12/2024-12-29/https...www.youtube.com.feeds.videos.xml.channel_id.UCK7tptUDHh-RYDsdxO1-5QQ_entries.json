@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T22:00:51+00:00",
+        "description": "Former President Jimmy Carter\u2019s single White House term receives low marks among historians, but his post-presidency is considered one of the most impactful. Here's a look at key moments from his time in the Oval Office and the years that followed.\n\n#wsj #wallstreetjournal #jimmycarter",
+        "id": 1800230,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cxh8x7yf8PE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cxh8x7yf8PE/hqdefault.jpg",
+        "title": "Jimmy Carter Dies at 100: Watch Key Moments in His Presidency | WSJ",
+        "vote": 0
+    }
+]

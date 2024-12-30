@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T12:56:43+00:00",
+        "description": "<p>In this article, we\u2019ll show you how to use sed to add a new line after a specific string in a file.</p>\n<p>The post <a href=\"https://www.linuxtoday.com/blog/how-to-append-a-line-after-a-string-in-a-file-using-sed-command/\">How to Append a Line After a String in a File Using sed Command</a> appeared first on <a href=\"https://www.linuxtoday.com\">Linux Today</a>.</p>",
+        "id": 1798259,
+        "language": "en-US",
+        "link": "https://www.linuxtoday.com/blog/how-to-append-a-line-after-a-string-in-a-file-using-sed-command",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 195,
+        "source_url": "https://www.linuxtoday.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How to Append a Line After a String in a File Using sed Command",
+        "vote": 0
+    }
+]

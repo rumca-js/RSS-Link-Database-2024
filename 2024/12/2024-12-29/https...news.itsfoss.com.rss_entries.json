@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-29T12:45:38+00:00",
+        "description": "Start learning Linux for free with us",
+        "id": 1798114,
+        "language": null,
+        "link": "https://news.itsfoss.com/tuxmas-day-5",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2024/12/tuxmas-days-5.webp",
+        "title": "12 Days of Tuxmas: Day 5",
+        "vote": 0
+    }
+]
