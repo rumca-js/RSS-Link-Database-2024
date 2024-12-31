@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-30T16:03:56.498941+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/kraj/news-areszt-janusza-palikota-jest-decyzja-sadu,nId,7883461\"><img src=\"https://i.iplsc.com/areszt-janusza-palikota-jest-decyzja-sadu/000KDEWHXCUC7W09-C321.jpg\" alt=\"Areszt Janusza Palikota. Jest decyzja s\u0105du\" align=\"left\" /></a>Janusz Palikot pozostanie w areszcie przez kolejne trzy miesi\u0105ce - zdecydowa\u0142 S\u0105d Okr\u0119gowy w Warszawie. Biznesmen wyjdzie na wolno\u015b\u0107, je\u015bli do 31 stycznia wp\u0142aci kwot\u0119 2 mln z\u0142. By\u0142y polityk zosta\u0142 zatrzymany przez CBA w pa\u017adzierniku. Us\u0142ysza\u0142 osiem zarzut\u00f3w, w tym siedem dotycz\u0105cych oszustwa i jeden przyw\u0142aszczania mienia.</p><br clear=\"all\" />",
+        "id": 1804366,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-areszt-janusza-palikota-jest-decyzja-sadu,nId,7883461",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Areszt Janusza Palikota. Jest decyzja s\u0105du",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-30T00:14:24+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><table><thead> <tr> <th align=\"left\">Game</th> <th align=\"left\">Group</th> <th align=\"left\">Stores</th> <th align=\"left\">Review</th> </tr> </thead><tbody> <tr> <td align=\"left\">Im on Observation Duty 7</td> <td align=\"left\">TENOKE</td> <td align=\"left\"><a href=\"https://store.steampowered.com/app/2462520\">Steam</a></td> <td align=\"left\">96.59% (198)</td> </tr> <tr> <td align=\"left\">Echoes of the Plum Grove</td> <td align=\"left\">TENOKE</td> <td align=\"left\"><a href=\"https://store.steampowered.com/app/1536090\">Steam</a>, <a href=\"https://store.epicgames.com/en-US/p/echoes-of-plum-grove-bf886b\">Epic</a></td> <td align=\"left\">88.53% (2.2k)</td> </tr> <tr> <td align=\"left\">Dollmare</td> <td align=\"left\">TENOKE</td> <td align=\"left\"><a href=\"https://store.steampowered.com/app/2793710\">Steam</a></td> <td align=\"left\">97.16% (685)</td> </tr> <tr> <td align=\"left\">Anomalies Detective</td> <td align=\"left\">TENOKE</td> <td align=\"left\"></td> <td align=\"left\">-</td>",
+        "id": 1800823,
+        "language": null,
+        "link": "https://www.reddit.com/r/CrackWatch/comments/1hpa0cu/daily_releases_december_29_2024",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 528,
+        "source_url": "https://www.reddit.com/r/CrackWatch/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Daily Releases (December 29, 2024)",
+        "vote": 0
+    }
+]

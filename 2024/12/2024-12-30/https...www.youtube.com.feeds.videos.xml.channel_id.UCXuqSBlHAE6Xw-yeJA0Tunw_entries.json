@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-30T19:02:40+00:00",
+        "description": "Thanks to KIOXIA for sponsoring this video! You can check out their CD8 Enterprise drives at: https://americas.kioxia.com/en-us/business/ssd/data-center-ssd.html?utm_source=YouTube&utm_medium=LinusTechTips&utm_campaign=data+center+ssds\n\nLinus' old NAS is a hodgepodge of ancient drives, a very old CPU, and an extremely loud power supply. Also, it's actually 2 servers. Now it's finally time to replace them with awesome CD8 Enterprise drives from KIOXIA, a bunch of hard drives for even more storage, and a new power supply to quiet things down.\n\nDiscuss on the forum: https://linustechtips.com/topic/1594436-my-home-server-is-really-stupid-and-i-need-to-fix-it/\n\nCheck out ServerPart Deals on eBay: https://ebay.us/m9hWB7 \nBuy a Seasonic TX-1600 1600W 80+ Titanium PSU: https://geni.us/KQ4I6th \nBuy a Noctua NF-F12 iPPC-2000 Fan: https://geni.us/LRpPt \nBuy a SlimSAS 8i to 2x Oculink 4i Cable on eBay: https://ebay.us/DuMtSS \nBuy a C-Payne PCIe Gen4 Host Adapter Card: https://lmg.gg/XQqeG\nCheck ",
+        "id": 1805941,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CrIjSD0zW7c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CrIjSD0zW7c/hqdefault.jpg",
+        "title": "My Home Server is REALLY Stupid and I Need to Fix It",
+        "vote": 0
+    }
+]

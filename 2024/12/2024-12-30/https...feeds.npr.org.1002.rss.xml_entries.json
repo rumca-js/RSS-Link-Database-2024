@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-30T07:00:00+00:00",
+        "description": "From <em>Rachel Bloom: Death, Let Me Do My Special</em> to <em>A Man on the Inside</em>, movies and TV found new ways to address death and dying.",
+        "id": 1803253,
+        "language": "en",
+        "link": "https://www.npr.org/2024/12/30/nx-s1-5225452/films-tv-shows-death-grieving-illness",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "In 2024, film and TV grappled with death. The result was comforting",
+        "vote": 0
+    }
+]

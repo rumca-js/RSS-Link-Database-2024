@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-30T19:03:51+00:00",
+        "description": "'The public has a profound interest in having that technology controlled by a public charity legally bound to prioritize safety,' the brief says.",
+        "id": 1805705,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/encode-joins-musk-in-fight-against-openais-for-profit-transition-5783770",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2023/02/01/ChatGPT-700x420.jpg",
+        "title": "Encode Joins Musk in Fight Against OpenAI\u2019s For-Profit Transition",
+        "vote": 0
+    }
+]
