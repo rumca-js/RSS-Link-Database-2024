@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T20:00:09+00:00",
+        "description": "2 years back the EU passed a directive forcing USB C to be the standard port for device charging, and a few days ago that has now come into effect except for laptops which come on a bit later, in my opinion, this is a great change. \n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nEU Announcement: https://x.com/EU_Commission/status/1872885193255915618\nCommon Charger: https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red/one-common-charging-solution-all_en\nPress Release: https://ec.europa.eu/commission/presscorner/detail/en/ip_22_3524\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xy",
+        "id": 1812258,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Lw5wQD8BOm0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Lw5wQD8BOm0/hqdefault.jpg",
+        "title": "USB C Is Officially The Universal Charging Port",
+        "vote": 0
+    }
+]

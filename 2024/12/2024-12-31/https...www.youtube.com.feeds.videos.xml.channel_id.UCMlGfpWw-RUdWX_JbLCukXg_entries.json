@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T15:35:24+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nWork Contracts - Rethinking Task Based Concurrency and Parallelism for Low Latency C++ - Michael A Maniscalco - CppCon 2024\n---\n\nTask-based concurrency offers benefits in streamlining software and enhancing overall responsiveness. Numerous frameworks build upon this approach by furnishing abstractions that harness the capabilities of modern multi-core processors and distributed computing environments. These frameworks achieve this by facilitating the creation of task graphs, which simplify the management of task execution order and dependencies between tasks.\n\nHowever, these frameworks are typically not well suited for use in low latency environments where every nanosecond matters, and any additional overhead introduced by managing task graphs can impact the system's ability to meet stringent latency requirements.\n\nThis presentation introduces Work Contracts, a novel approach specifically tailored for low-latency environments, which re-imagines both task-base",
+        "id": 1810688,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oj-_vpZNMVw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oj-_vpZNMVw/hqdefault.jpg",
+        "title": "Work Contracts - Rethinking Task Based Concurrency & Parallelism for Low Latency C++ - CppCon 2024",
+        "vote": 0
+    }
+]

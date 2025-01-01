@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T14:15:00+00:00",
+        "description": "Thanks to decades of conservation to restore private grasslands, numbers of the threatened insect are on the rise in the Loess Canyons.",
+        "id": 1810222,
+        "language": "en-US",
+        "link": "https://www.sciencenews.org/article/american-burying-beetles-comeback-nebraska",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 295,
+        "source_url": "https://www.sciencenews.org/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/12/121324_br_burying-beetle-comeback_feat.jpg?fit=800%2C450&ssl=1",
+        "title": "American burying beetles are making a comeback in Nebraska",
+        "vote": 0
+    }
+]

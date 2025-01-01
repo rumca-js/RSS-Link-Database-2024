@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T02:41:27+00:00",
+        "description": "Sponsor: Get 10% off Squarespace purchases (https://geni.us/BqEpf)\nAn exploded AMD Ryzen 9800X3D CPU on reddit popped-up last month and caused a stir. The motherboard & CPU combination incinerated, with a total blowout causing not only melted socket plastics, but bubbling-up solder through the socket, pins that turned blue from heat, and scorched pads on the CPU. This post-mortem embarks on the fun of uncovering the total impact of the damage, scorched traces, damaged 24-pin plastics, and ultimately, aims to answer the cause of failure. Hopefully this helps users prevent mistakes in the future, but it's always worth taking each of these types of catastrophic failures seriously as we may learn something new. In this one, we at least learned a bit about the socket types.\n\nWatch our AMD 7800X3D exploded CPU video: https://www.youtube.com/watch?v=kiTngvvD5dI\nOriginal thread: https://www.reddit.com/r/pcmasterrace/comments/1gqaryi/new_9800x3d_msi_tomahawk_x870_burned_up_i_guess/\n\nThe best ",
+        "id": 1807416,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=B9vLnNOBaSs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B9vLnNOBaSs/hqdefault.jpg",
+        "title": "Investigating Reddit's Exploded 9800X3D CPU | AMD Ryzen Post-Mortem",
+        "vote": 0
+    }
+]

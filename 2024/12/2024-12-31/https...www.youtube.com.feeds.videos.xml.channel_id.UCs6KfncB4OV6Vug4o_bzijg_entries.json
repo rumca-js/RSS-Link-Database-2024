@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T04:51:55+00:00",
+        "description": "The v2 ultimate guide to making Windows as secure, private, and anonymous as you need it to be. This video covers security, privacy, anonymity, passwords, authentication, VPNs, biometrics, search engines, browsers, Tor, 2FA, virtual machines, Linux, communication and more to reclaim your privacy and data today! Whether you're concerned about viruses or want to keep your business safe - this is the tutorial you're looking for!\n\nGo Incognito: https://techlore.tech/goincognito\nBecome Anonymous Guide: Coming Soon \nMacOS Version of this Video: Coming Soon\nLinux Version of this Video: Coming Soon\nAndroid Version of this Video: Coming Soon\niOS Version of this Video: Coming Soon\nJoin Our Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nWhy VPNs Suck: https://youtu.be/u-uj_dLXu5s\nKeePass Guide: https://youtu.be/sePT9AZauWs\nFirefox Hardening: https://youtu.be/F7-bW2y6lcI\nStopped Hardening Firefox: https://youtu.be/N67kJLaWtoA\n\nTimesta",
+        "id": 1807916,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-nv3IEtXhF8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-nv3IEtXhF8/hqdefault.jpg",
+        "title": "The ULTIMATE Windows Privacy & Security Guide!",
+        "vote": 0
+    }
+]

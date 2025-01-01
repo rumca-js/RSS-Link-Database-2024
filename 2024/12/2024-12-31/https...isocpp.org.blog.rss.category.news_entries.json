@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T17:54:54+00:00",
+        "description": "<p>\n\t<img alt=\"Dargo-classisnotcopyable.png\" src=\"https://isocpp.org/files/img/Dargo-classisnotcopyable.png\" style=\"width: 400px; margin: 10px; float: right;\" />The topic of this post is to show different ways to ensure that a class is either non-moveable or non-copyable.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2024/11/27/non-movable-classes\">How to Ensure a Class is not Copyable or Movable</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIf we follow the classification proposed by&nbsp;<a href=\"https://meetingcpp.com/2024/Talks/items/Classes_Cpp23_style.html\">Sebastian Theophil</a>, we can talk about 4 different class types:</p>\n\t<ul>\n\t\t<li>\n\t\t\tvalue classes</li>\n\t\t<li>\n\t\t\tcontainer classes</li>\n\t\t<li>\n\t\t\tresource classes</li>\n\t\t<li>\n\t\t\tsingleton classes</li>\n\t</ul>\n\t<p>\n\t\tWhile the first two should be regular classes offering both copy and move semantics, the latter two are different. One shouldn&rsquo;t be ",
+        "id": 1811454,
+        "language": null,
+        "link": "https://isocpp.org//blog/2024/12/how-to-ensure-a-class-is-not-copyable-or-movable-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How to Ensure a Class is not Copyable or Movable -- Sandor Dargo",
+        "vote": 0
+    }
+]

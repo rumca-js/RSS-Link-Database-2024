@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joel Haver",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T16:01:09+00:00",
+        "description": "Joel visits his mom in her hometown for the holidays for the first time.\n\nOriginal score by Droodle and Zack Scribner\n\nDroodle - https://open.spotify.com/artist/40sdRqjpJaakofo4QZgrG7?si=d8q-MbHuTtOtrco_A9SlQw\nZack Scribner - https://open.spotify.com/artist/1KDsy4eilNE97aMZ3FmNdi?si=g898E1geQUu1z55oGiPATg\n\nOther Channels -\nJoel Talks About Movies - https://www.youtube.com/channel/UCTy7s81ii4fe4xNMGFNwYxA\ngoodlongpee - https://www.youtube.com/c/goodlongpee\n\nSupport - \nPatreon: https://patreon.com/joelhaver\nPaypal: https://bit.ly/2ZI7uff\n\nMerch - https://joelstuff.store\n\nSocial - \nInstagram: https://www.instagram.com/joelhaver\nTwitter: https://twitter.com/joelhaver\nDrawings: https://www.instagram.com/joeldrawsandwriteshaver\nLetterboxd: https://letterboxd.com/joelhaver",
+        "id": 1810813,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=rGBQjIEcD9g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 431,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVIFCOJwv3emlVmBbPCZrvw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rGBQjIEcD9g/hqdefault.jpg",
+        "title": "Coming Home",
+        "vote": 0
+    }
+]

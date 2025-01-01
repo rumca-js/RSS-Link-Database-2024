@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T19:00:01+00:00",
+        "description": "<a href=\"https://austinhenley.com/blog/25yearsofai.html\">https://austinhenley.com/blog/25yearsofai.html</a>",
+        "id": 1812774,
+        "language": "en-us",
+        "link": "https://austinhenley.com/blog/25yearsofai.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 25,
+        "source_url": "https://austinhenley.com/blog/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "My 25-year adventure in AI and ML",
+        "vote": 0
+    }
+]

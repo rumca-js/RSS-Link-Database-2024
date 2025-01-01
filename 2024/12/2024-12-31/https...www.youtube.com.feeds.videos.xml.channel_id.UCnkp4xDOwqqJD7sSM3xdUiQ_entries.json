@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adam Neely",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-31T20:35:29+00:00",
+        "description": "Donate to high-impact, cost-effective charities today with Give Well. \nhttp://givewell.org\n\nThis is how we built Sungazer's latest IEM rig using an analog audio over ether net split. \n\nCome see us live!\nsungazermusic.com/tour\n\n0:00 Intro\n0:43 Defining the problems\n2:26 Building the Analog Audio over Ethernet IEM Rig\n3:47 Solution 1 - D'Addario Modular Snake\n5:56 Solution 2 - Sound Tools Cat Rack\n8:00 Putting it all together\n12:03 Weird Quirks with this kind of system\n15:07 Final Thoughts\n\nMy last in-ear monitor video\nhttps://youtu.be/mHoljbkyAEs\n\nCompany that does these kinds of builds (and way better than us)\nhttps://btpa.com/\n\n\u29bf Check out some of my music \u29bf\nhttp://sungazermusic.bandcamp.com\nhttp://insideoutsidemusic.bandcamp.com\nhttp://adamneelymusic.bandcamp.com\n\nPeace,\nAdam",
+        "id": 1812279,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Zl9w4EEHp8w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 12,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnkp4xDOwqqJD7sSM3xdUiQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zl9w4EEHp8w/hqdefault.jpg",
+        "title": "The Secret to Better IEM Rigs (for touring bands)",
+        "vote": 0
+    }
+]
