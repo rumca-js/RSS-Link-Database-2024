@@ -1,9 +1,0 @@
-# Source:Grimdark Magazine, URL:https://www.grimdarkmagazine.com/feed, language:en-AU
-
-## REVIEW: River of Teeth by Sarah Gailey
- - [https://www.grimdarkmagazine.com/review-river-of-teeth-by-sarah-gailey](https://www.grimdarkmagazine.com/review-river-of-teeth-by-sarah-gailey)
- - RSS feed: https://www.grimdarkmagazine.com/feed
- - date published: 2024-03-04T04:04:55+00:00
-
-<p>In Sarah Gailey&#8217;s River of Teeth a crew of badarses try to clean out an artificial marshland packed to the shores with thousands of wild hippos for a big fat pay check. For the benefit of the reader, this is not a simple a story as that sounds, and the characters and their histories and goals turn this into a bloody quagmire of twists and turns, betrayals and bloody deaths&#8211;and a little bit of romance on the side. Our protagonist in River of Teeth, Hounds Tooth, has a job from the government with enough money as pay that he can go buy a parcel of marshland for he and his hippo and settle down. He’s not doing it for government, or the people. He is kind of doing it for the money. And he is definitely doing it for the revenge. And he’ll be doing it astride a 3,000 pound hippo. To complete his mission, Hounds Tooth needs a crew. Much like Daniel Polansky’s The Builders, River of Teeth has an absolutely lovable cast of ne’er do wells brought together to embark on a 
-

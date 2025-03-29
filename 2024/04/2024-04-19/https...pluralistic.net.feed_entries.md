@@ -1,9 +1,0 @@
-# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
-
-## Pluralistic: Precaratize bosses (19 Apr 2024)
- - [https://pluralistic.net/2024/04/19/make-them-afraid](https://pluralistic.net/2024/04/19/make-them-afraid)
- - RSS feed: https://pluralistic.net/feed
- - date published: 2024-04-19T10:12:04+00:00
-
-Today's links Precaratize bosses: When the ruling class tells you what motivates them, believe them the first time. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Precaratize bosses (permalink) Combine Angelou's "When someone shows you who they are, believe them" with the truism that in politics, "every accusation is a confession" and you get: "Every time someone accuses you of a vice, they're showing you who they are and you should believe them." Let's talk about some of those accusations. Remember the moral panic over the CARES Act covid stimulus checks? Hyperventilating mouthpieces for the ruling class were on every cable network, complaining that "no one wants to work anymore." The barely-submerged subtext was their belief that the only
-

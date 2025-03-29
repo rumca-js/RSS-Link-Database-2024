@@ -1,9 +1,0 @@
-# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
-
-## Pluralistic: How a billionaire's mediocre pump-and-dump "book" became a "bestseller" (15 Feb 2024)
- - [https://pluralistic.net/2024/02/15/your-new-first-name](https://pluralistic.net/2024/02/15/your-new-first-name)
- - RSS feed: https://pluralistic.net/feed
- - date published: 2024-02-15T21:07:57+00:00
-
-Today's links How a billionaire's mediocre pump-and-dump "book" became a "bestseller": A convincer to prolong the bezzle. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How a billionaire's mediocre pump-and-dump "book" became a "bestseller" (permalink) I was on a book tour the day my editor called me and told me, "From now on, your middle name is 'Cory.'" "That's weird. Why?" "Because from now on, your first name is 'New York Times Bestselling Author.'" That was how I found out I'd hit the NYT list for the first time. It was a huge moment &#8211; just as it has been each subsequent time it's happened. First, because of how it warmed my little ego, but second, and more importantly, because of how it affected my book and all the books afterwards. Once your book is a Times bestseller, every bookseller in America orders enough copies to fill 
-

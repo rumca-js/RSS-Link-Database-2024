@@ -1,9 +1,0 @@
-# Source:Grimdark Magazine, URL:https://www.grimdarkmagazine.com/feed, language:en-AU
-
-## REVIEW: A Mask of Flies by Matthew Lyons
- - [https://www.grimdarkmagazine.com/review-a-mask-of-flies-by-matthew-lyons](https://www.grimdarkmagazine.com/review-a-mask-of-flies-by-matthew-lyons)
- - RSS feed: https://www.grimdarkmagazine.com/feed
- - date published: 2024-08-05T04:37:42+00:00
-
-<p>A Mask of Flies is the latest horror novel from author Matthew Lyons, and it is as terrifying as it is gripping. The book has its brakes ripped out at the very beginning, sending readers on a torrent of twists and turns as Lyons brilliantly sets the stage for a tale that is both deeply sinister and emotional. A Mask of Flies ponders on themes of death and loss, and how grief keeps coming back to haunt us no matter where we hide or how far we run from it. The tale begins with the frantic escape of young Anne Heller and her terror-stricken mother from a mysterious and menacing pursuer, which ends up in a fatal car crash that kills her mother and wounds her. Twenty years later, it seems that Anne’s life hasn&#8217;t changed much. We follow an adult Anne as she narrowly escapes from a botched bank heist, stringing along a fatally-wounded Jessup &#8211; the heist mastermind &#8211; and Dutch, a policeman whom she’d recklessly taken hostage. As if being fugitives weren’t enough, Anne’s r
-

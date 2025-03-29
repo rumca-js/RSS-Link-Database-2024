@@ -1,9 +1,0 @@
-# Source:MIT OpenCourseWare, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw, language:en
-
-## Economics and Real World Impact with Dr. Sara Ellison & Prof. Esther Duflo
- - [https://www.youtube.com/watch?v=b87E-wbR-nI](https://www.youtube.com/watch?v=b87E-wbR-nI)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw
- - date published: 2024-05-15T14:00:28+00:00
-
-In this episode we meet professor and Nobel laureate Esther Duflo and her colleague Dr. Sara Ellison for a discussion about economics: what it is, how it differs from sociology, how it incorporates classic intellectual tools like probability and statistics with newer technologies like machine learning, and how it can itself be a tool for improving the world by solving problems of inequity one problem at a time. As Duflo and Ellison explain, economics has shifted in recent decades from a primarily solo endeavor to an intensely collaborative one, in which any given paper is likely to have multiple co-authors but also to be based on the work of an even larger group of people—not only professional economists but also psychologists, teachers, NGO workers, and so on. (Fittingly, Duflo’s and Ellison’s teaching is collaborative as well; they work together as co-instructors on the course 14.310x Data Analysis for Social Scientists, available on both MITx Online and MIT OpenCourseWare.) Other t
-

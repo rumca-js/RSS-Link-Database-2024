@@ -1,9 +1,0 @@
-# Source:Grimdark Magazine, URL:https://www.grimdarkmagazine.com/feed, language:en-AU
-
-## REVIEW: Gladiator
- - [https://www.grimdarkmagazine.com/review-gladiator](https://www.grimdarkmagazine.com/review-gladiator)
- - RSS feed: $source
- - date published: 2024-09-27T04:23:05+00:00
-
-<p>Released in 2000, Ridley Scott’s masterpiece is set in ancient Rome and follows a general who falls out of favour and ends up fighting in the great Colosseum as a gladiator, battling for his pride, honour, and revenge. The thrilling journey of redemption spearheaded by Russell Crowe in a star-making role as Maximus Decimus Meridius is considered one of the greatest films of all time and with a long-delayed sequel on the way, it is time to give Gladiator another watch and see its appeal for the grimdark audience. Ridley Scott opens the film setting the high standards with both a visual and auditory spectacle as with a battle against Germanic tribes and a directing masterclass with the large-scale action sequences. The direction brings you into combat and it feels raw and visceral. Russell Crowe produces a career best performance with his portrayal of the fallen warrior turned slave and eventual gladiator allowing him to showcase his range as he fights against those who have turned o
-

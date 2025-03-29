@@ -1,9 +1,0 @@
-# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
-
-## About the status of Spacemit K1 PowerVR GPU
- - [https://www.reddit.com/r/RISCV/comments/1fr6ket/about_the_status_of_spacemit_k1_powervr_gpu](https://www.reddit.com/r/RISCV/comments/1fr6ket/about_the_status_of_spacemit_k1_powervr_gpu)
- - RSS feed: $source
- - date published: 2024-09-28T04:38:32+00:00
-
-<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1fr6ket/about_the_status_of_spacemit_k1_powervr_gpu/"> <img src="https://a.thumbs.redditmedia.com/QIHfMH9c2zPQRpVdvKXeGbZcrtDhMdDxrcNqTAPFNu8.jpg" alt="About the status of Spacemit K1 PowerVR GPU" title="About the status of Spacemit K1 PowerVR GPU" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So i tried to use a OpenGL game on Bianbu OS 2.0rc1, expecting to use the software rasterizer as reported by glxinfo, but to me suprise it is actually trying to use the gpu, it even says up to OpenGL 3.3 is supported, then it complains about a missing lib.</p> <p><a href="https://preview.redd.it/1ytfcsr8bhrd1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=f2c3d09eb1789a91712b0d200a1f4774c07e7a35">https://preview.redd.it/1ytfcsr8bhrd1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=f2c3d09eb1789a91712b0d200a1f4774c07e7a35</a></p> <p>Im going to try with an older version that just needs OpenGL 1.2 just to see what happens
-

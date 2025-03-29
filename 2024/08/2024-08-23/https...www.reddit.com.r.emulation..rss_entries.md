@@ -1,9 +1,0 @@
-# Source:Emulation, URL:https://www.reddit.com/r/emulation/.rss, language:
-
-## Cemu (Wii U emulator) Preparations for v2.1
- - [https://www.reddit.com/r/emulation/comments/1ez8ofk/cemu_wii_u_emulator_preparations_for_v21](https://www.reddit.com/r/emulation/comments/1ez8ofk/cemu_wii_u_emulator_preparations_for_v21)
- - RSS feed: https://www.reddit.com/r/emulation/.rss
- - date published: 2024-08-23T09:47:11+00:00
-
-<table> <tr><td> <a href="https://www.reddit.com/r/emulation/comments/1ez8ofk/cemu_wii_u_emulator_preparations_for_v21/"> <img alt="Cemu (Wii U emulator) Preparations for v2.1" src="https://external-preview.redd.it/Ft_fTshLpI2Kjjz1hYJl1guc_SI92p7erahDjOBSmsg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=149a2e7a9c0e7820e47f40c5f3bac62faa93db66" title="Cemu (Wii U emulator) Preparations for v2.1" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><strong>Summary of the changes in this PR</strong></p> <ul> <li>Dropping the distinction between stable and experimental releases</li> <li>Setting the CI and build system up for 2.1 and future releases</li> <li>From now on the release numbering will be 2.1, 2.2, 2.3, 2.4, etc.</li> <li>Each release on github will come with a changelog from now on</li> <li>Added an option &quot;Receive untested updates&quot; (as explained in the link above)</li> <li>Some last minute bug fixes and tweaks</li> </ul> </div><!-- SC_ON --> &#32; submitted by &#3
-
