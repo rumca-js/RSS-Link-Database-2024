@@ -1,6 +1,11 @@
 # Link database for year 2024
 
-This repository contains link metadata: title, description, publish date, etc.
+This repository contains Internet Link Metadata: title, description, publish date, etc.
+
+## Goal
+
+ - Archive purposes
+ - Data analysis - possible to verify link rot, etc.
 
 ## Suite of projects
 
@@ -12,11 +17,6 @@ This repository contains link metadata: title, description, publish date, etc.
  - daily RSS Git repository for the year 2021 [https://github.com/rumca-js/RSS-Link-Database-2021](https://github.com/rumca-js/RSS-Link-Database-2021)
  - daily RSS Git repository for the year 2020 [https://github.com/rumca-js/RSS-Link-Database-2020](https://github.com/rumca-js/RSS-Link-Database-2020)
 
-## Goal
-
- - Archive purposes
- - Data analysis - possible to verify link rot, etc.
-
 ## Inspirations
 
  - I Tracked Everything I Read on the Internet for a Year [https://www.tdpain.net/blog/a-year-of-reading](https://www.tdpain.net/blog/a-year-of-reading).
@@ -27,6 +27,8 @@ This repository contains link metadata: title, description, publish date, etc.
  - Ryan George What Google Search Is Like In 2022 [https://www.youtube.com/watch?v=NT7_SxJ3oSI](https://www.youtube.com/watch?v=NT7_SxJ3oSI)
 
 # Data
+
+Links meta data are stored in JSON files. JSON filese are stored in zip files.
 
 ## Daily Data
 
