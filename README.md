@@ -11,6 +11,7 @@ This repository contains Internet Link Metadata: title, description, publish dat
 
  - Captured using Django application: [https://github.com/rumca-js/Django-link-archive](https://github.com/rumca-js/Django-link-archive)
  - Bookmarked links [https://github.com/rumca-js/RSS-Link-Database](https://github.com/rumca-js/RSS-Link-Database)
+ - daily RSS Git repository for the year 2025 [https://github.com/rumca-js/RSS-Link-Database-2024](https://github.com/rumca-js/RSS-Link-Database-2025)
  - daily RSS Git repository for the year 2024 [https://github.com/rumca-js/RSS-Link-Database-2024](https://github.com/rumca-js/RSS-Link-Database-2024)
  - daily RSS Git repository for the year 2023 [https://github.com/rumca-js/RSS-Link-Database-2023](https://github.com/rumca-js/RSS-Link-Database-2023)
  - daily RSS Git repository for the year 2022 [https://github.com/rumca-js/RSS-Link-Database-2022](https://github.com/rumca-js/RSS-Link-Database-2022)
